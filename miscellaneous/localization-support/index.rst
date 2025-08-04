@@ -6,7 +6,9 @@ Localization Support
 .. warning::
 
   Some items (not all of them) presented in this chapter are related to AIMMS WinUI, which is deprecated. Please refer to :doc:`deprecation-table`. 
-  You may use the :doc:`webui/index` instead, and the :doc:`webui/multi-language`.
+  You may use the :doc:`webui/index` instead, and `Public Identifier Support  <https://documentation.aimms.com/webui/library.html#webui::webui::IdentifierElementText>`_
+  
+.. the :doc:`webui/multi-language`.
 
 .. rubric:: Interface localization
 

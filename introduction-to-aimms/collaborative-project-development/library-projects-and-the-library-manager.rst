@@ -29,10 +29,19 @@ templates that define the look-and-feel of multiple projects. In this
 manner, you change the look-and-feel of multiple applications just by
 changing the templates in the shared library project.
 
+.. C:\u\s\documentation\webui\webui\documentation\pages-in-library-support.rst
+
 .. warning:: 
   
   The AIMMS WinUI is deprecated, please refer to :doc:`deprecation-table`. 
-  You may use the :doc:`webui/index` instead, and share the :doc:`webui/webui-json` with your fellow developers
+  You may use the :doc:`webui/index` instead, and share your developments
+  via a library, see `Pages In Library Support <https://documentation.aimms.com/webui/pages-in-library-support.html>`_
+
+
+..  :doc:`webui/webui/documentation/pages-in-library-support`
+
+
+..  You may use the :doc:`webui/index` instead, and share the :doc:`webui/pages-in-library-support` with your fellow developers
 
 .. rubric:: Adding libraries to a project
 

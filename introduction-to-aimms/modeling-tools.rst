@@ -61,7 +61,9 @@ full detail in :ref:`chap:view`
 .. warning:: 
   
   The AIMMS WinUI and the page manager are deprecated, please refer to :doc:`deprecation-table`. 
-  You may use the :doc:`webui/index` instead, and the :doc:`webui/page-manager`.
+  You may use the :doc:`webui/index` instead, and `WebUI Page Manager <https://documentation.aimms.com/webui/page-manager.html>`_
+  
+..  the :doc:`webui/page-manager`.
 
 The **Page Manager** allows you to organize all end-user windows
 associated with an AIMMS application (also referred to as end-user
@@ -90,7 +92,9 @@ subsequently placing all end-user pages into the tree of page templates.
 .. warning:: 
   
   The AIMMS WinUI and the page manager are deprecated, please refer to :doc:`deprecation-table`. 
-  You may use the :doc:`webui/index` instead, and the :doc:`webui/page-menu`.
+  You may use the :doc:`webui/index` instead, and the `WebUI Page Menu <https://documentation.aimms.com/webui/page-menu.html>`_
+  
+.. :doc:`webui/page-menu`.
 
 With the **Menu Builder** you can create customized menu bars, pop-up
 menus and toolbars that can be linked to either template pages or

@@ -76,7 +76,9 @@ Page Functions
 .. warning::
 
   The AIMMS WinUI is deprecated, and thus Page functions as well. Please refer to :doc:`deprecation-table`. 
-  You may use the :doc:`webui/index` instead, and the :doc:`webui/library`.
+  You may use the :doc:`webui/index` instead, and `WebUI Public Pages Support Declarations <https://documentation.aimms.com/webui/library.html#id1>`_
+  
+..  the :doc:`webui/library`.
 
 .. rubric:: Model page control
    :name: page-function
@@ -241,8 +243,14 @@ Dialog Box Functions
 
 .. warning::
 
-  The AIMMS WinUI is deprecated, please refer to :doc:`deprecation-table`. 
-  You may use the :doc:`webui/index` instead, and use :doc:`webui/dialog-pages`, :doc:`webui/status-bar`, :doc:`webui/download-widget` and :doc:`webui/upload-widget`.
+    The AIMMS WinUI is deprecated, please refer to :doc:`deprecation-table`. 
+    You may use the :doc:`webui/index` instead, and use 
+    *   `WebUI Dialog Pages <https://documentation.aimms.com/webui/dialog-pages.html>`_
+    *   `WebUI Status Bar <https://documentation.aimms.com/webui/status-bar.html>`_
+    *   `WebUI Download Widget <https://documentation.aimms.com/webui/download-widget.html>`_
+    *   `WebUI Upload Widget <https://documentation.aimms.com/webui/upload-widget.html>`_
+  
+.. :doc:`webui/dialog-pages`, :doc:`webui/status-bar`, :doc:`webui/download-widget` and :doc:`webui/upload-widget`.
 
 .. rubric:: Two types of dialog boxes
 
