@@ -63,9 +63,9 @@ library.
 
 In the software development world teams commonly use a *V*\ ersion
 *C*\ ontrol *S*\ ystem, such as
-`git <http://en.wikipedia.org/wiki/Git_(software)>`__,
-`subversion <http://en.wikipedia.org/wiki/Apache_Subversion>`__, or
-`TFS <http://en.wikipedia.org/wiki/Team_Foundation_Server>`__, to share
+`git <https://en.wikipedia.org/wiki/Git_(software)>`__,
+`subversion <https://en.wikipedia.org/wiki/Apache_Subversion>`__, or
+`TFS <https://en.wikipedia.org/wiki/Team_Foundation_Server>`__, to share
 and merge their coding work to a common repository. As all development
 sources of an AIMMS application are stored as readable text files
 (a.o. ``.aimms``, ``.ams`` and ``.xml``), AIMMS projects can be easily
