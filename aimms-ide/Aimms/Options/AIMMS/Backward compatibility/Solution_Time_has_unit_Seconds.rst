@@ -1,0 +1,25 @@
+
+
+.. _Options_Solution_Time_has_unit_Seconds:
+
+
+Solution Time has unit Seconds
+==============================
+
+Type:	Selection	
+
+Range:	The settings listed below	
+
+Default:	On	
+
+
+
+This option is used to determine whether the suffix .SolutionTime has unit [seconds] or not. In AIMMS 3.8 and upwards the suffix .SolutionTime has unit [seconds] by default. In AIMMS 3.7 and earlier it has no unit. Possible values are:
+
+
+
+*	Off
+*	On
+
+
+

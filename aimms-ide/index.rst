@@ -1,0 +1,23 @@
+HELP DOC
+========
+
+.. toctree::
+    :maxdepth: 1
+
+    Aimms/index
+    Baron/index
+    CBC/index
+    CONOPT/index
+    COPT/index
+    CPOPT/index
+    CPLEX/index
+    GUROBI/index
+    IPOPT/index
+    KNITRO/index
+    MINOS/index
+    NETSOL/index
+    ODH-CPLEX/index
+    PATH/index
+    SNOPT/index
+    XA/index
+    CompLis/index

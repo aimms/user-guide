@@ -1,0 +1,34 @@
+.. _CONOPT_Advanced_-_Penalty_Constraints_Ratio:
+
+
+Penalty Constraints Ratio
+=========================
+
+
+
+**Type** :	Floating point number	
+
+**Range** :	[0,1]
+
+**Default** :	0.1	
+
+
+
+This option sets a limit on the ratio of penalty constraints for the No-Penalty Model to be solved. The No-Penalty Model can only be generated and solved if the number of penalty and minimax constraints exceed **Penalty Constraints Ratio**  times the constraints in the Full Model. The default value of this option is 0.1, i.e. the No-Penalty Model is only defined and solved if it is at least 10% smaller than the Full Model.
+
+
+
+**Note** 
+
+*	The No-Penalty Model and the Full Model are described in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm` .
+
+
+
+
+**Learn more about** 
+
+*	:ref:`CONOPT_Description_of_CONOPT_Algorithm` 
+*	:ref:`CONOPT_Advanced_-_Use_No_Penalty_Model`  
+
+
+

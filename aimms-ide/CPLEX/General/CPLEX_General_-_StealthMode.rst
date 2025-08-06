@@ -1,0 +1,51 @@
+.. _CPLEX_General_-_StealthMode:
+
+
+Stealth Mode
+============
+
+
+
+**Type** :	Selection	
+
+**Range** :	The settings listed below	
+
+**Default** :	Normal	
+
+
+
+By default, AIMMS installs CPLEX callback routines which are used to pass progress information, to run certain AIMMS callback routines, and to give the user the possibility to interrupt the solve. If the value of this option equals 'Fast' then these CPLEX callback routines are not installed. As a consequence the solve might become significantly faster. However the disadvantages are:
+
+
+
+
+*   The Progress Window will not be updated during the solve;
+*   The solve cannot be interrupted;
+*   No callback will be made to AIMMS procedures that are installed with the Mathematical Program suffices ``CallbackProcedure`` ,``CallbackTime``  or ``CallbackStatusChange``  (or installed with the GMP routines ``GMP::Instance::SetCallbackIterations`` ,``GMP::Instance::SetCallbackTime``  or ``GMP::Instance::SetCallbackStatusChange`` ).
+
+
+
+Possible values are:
+
+
+
+*	Normal
+*	Fast
+
+
+
+
+**Note** 
+
+
+*   If the value of this option is set to 'Fast' then still a callback will be made to AIMMS procedures installed with the GMP routines ``GMP::Instance::SetCallbackAddCut`` ,``GMP::Instance::SetCallbackBranch`` , ``GMP::Instance::SetCallbackHeuristic`` , ``GMP::Instance::Candidate``  or ``GMP::Instance::Incumbent`` . (Same for a callback installed with the Mathematical Program suffix ``CallbackIncumbent`` .)
+
+
+
+
+**Learn more about** 
+
+*	:ref:`Options_Progress_Options_-_Progress_Time_Interval` 
+
+
+

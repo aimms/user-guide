@@ -1,0 +1,27 @@
+
+
+.. _Options_Stop_Criteria_-_Global_error_handler:
+
+
+Global error handler
+====================
+
+
+
+Type:	Name of a procedure with one argument: a scalar element parameter with range errh::PendingErrors.
+
+Default:	-	
+
+
+
+This option specifies the procedure that is executed to handle execution time errors and warnings.
+
+
+
+**Learn more about** 
+
+*	:ref:`Model-Explorer_Procedures`  
+*	Search for Global error handling (Language reference)
+
+
+

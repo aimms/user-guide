@@ -1,0 +1,36 @@
+
+
+.. _Options_Memory_-_Solver_Workspace:
+
+
+Solver Workspace
+================
+
+
+
+Type:	Floating point number	
+
+Range:	[0,inf)	
+
+Default:	0	
+
+
+
+This option determines how much memory the solver may allocate as workspace. It is measured in Mbytes. If Solver Workspace is zero, then the solver decides itself how much workspace it needs.
+
+
+
+The value 'inf' has a special meaning. On a 64-bits machine it is translated into 218.
+
+
+
+This option is not supported by CPLEX; for this solver the option **Working Memory Limit**  is used instead.
+
+
+
+**Learn more about** 
+
+
+* :ref:`CPLEX_MIP_-_Working_Memory_Limit`
+
+

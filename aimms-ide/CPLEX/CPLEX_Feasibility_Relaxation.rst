@@ -1,0 +1,63 @@
+
+
+.. _CPX221_Feasibility_Relaxation:
+.. _CPLEX_Feasibility_Relaxation:
+
+
+Feasopt (Feasibility Relaxation)
+================================
+
+CPLEX allows the calculation of a minimum-cost relaxation for a given mathematical program. A minimum-cost relaxation of an infeasible model is a solution that minimizes the weighted amount by which it violates the variable bounds and constraints. The weights are the penalty values that are specified for the current model. 
+
+
+
+Feasibility relaxation can be enabled by adding penalty values to the mathematical program and setting the option :ref:`Options_Feasibility_relaxation`  to "Advanced" (keeping the option at "Standard" will apply the regular AIMMS method of violation penalties). 
+
+Feasibility relaxation allows several options for the objective in the minimum-cost relaxation. The options are: 
+
+
+*   Minimize the weighted sum of the penalties for the relaxations. 
+*   Minimize the weighted sum of squared penalties of the relaxations. 
+*   Minimze the weighted number of relaxed bounds and constraints. 
+
+
+
+Here, the weights are the penalty values that are specified for the mathematical program. 
+
+
+
+The objective for the minimum-cost relaxation can be set using the option :ref:`Options_Feasibility_relaxation_objecti` . 
+
+
+
+After computing a minimum-cost relaxation (also referred to as 'Phase I'), CPLEX can optionally optimize the original objective among all solutions with a minimum-cost relaxation ('Phase II'). This can be enabled by setting the option :ref:`Options_Feasibility_relaxation_optimiz` .
+
+If this option is disabled, AIMMS will stop after Phase I and return a minimum-cost relaxation. If the option is enabled, AIMMS will continue to Phase II and return a solution that optimizes the original objective, among all solutions with a minimum cost violation. 
+
+
+
+**Note** 
+
+* 	In the FeasOpt documentation, the objective of the feasibility relaxation uses the reciprocal of a 'preference value'. That is, if one provides a preference value p for a certain violation, the corresponding term in the objective will be 1/p.
+*	Feasibility relaxation is not enabled for lazy pool, cut pool, quadratic and indicator constraints. 
+*	In case the objective 'Minimize the weighted number of relaxed bounds and constraints' is selected, if the problem was a Linear Program, it will be transformed into a Mixed Integer Program. 
+*	In case the objective 'Minimize the weighted sum of squared penalties of the relaxations' is selected, if the problem was a Linear Program, it will be transformed into a Quadratic Program. 
+
+
+
+
+**Learn more about** 
+
+
+· 	`Violation penalties <https://documentation.aimms.com/language-reference/optimization-modeling-components/solving-mathematical-programs/infeasibility-analysis.html>`_ (Language Reference)
+
+*	:ref:`Options_Feasibility_relaxation` 
+*	:ref:`Options_Feasibility_relaxation_objecti` 
+*	:ref:`Options_Feasibility_relaxation_optimiz` 
+*	:ref:`CPLEX_General_-_Feasopt_tolerance` 
+
+
+
+
+
+

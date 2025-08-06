@@ -1,0 +1,37 @@
+
+
+.. _Options_Tuning_-_Profiler_Store_Data:
+
+
+Profiler Store Data
+===================
+
+
+
+Type:	Selection	
+
+Range:	The settings listed below	
+
+Default:	Off	
+
+
+
+This option determines whether the profiler results should be stored in the predeclared identifier ProfilerData. Possible values are:
+
+
+
+*	On 
+*	Off 
+
+
+
+
+**Note** 
+
+*	Switching this option to On only has effect when the profiler itself is also on.
+
+
+
+
+
+

@@ -1,0 +1,35 @@
+
+
+.. _Reporting_-_Solution_Progress:
+.. _MINOS_Reporting_-_Solution_Progress:
+
+
+Solution Progress
+=================
+
+
+
+**Type** :	Integer	
+
+**Range** :	{0..10000000}	
+
+**Default** :	0	
+
+
+
+This option controls the progress reports during the solution process of MINOS. If the Progress Window is open, it will display information about the number of iterations, the current status, etc. Possible values are:
+
+
+
+0:	Do not report progress.
+
+n:	Report progress after each n iterations.
+
+
+
+**Note** 
+
+*	The global solvers option **Progress Solution**  has no effect on MINOS.
+
+
+
