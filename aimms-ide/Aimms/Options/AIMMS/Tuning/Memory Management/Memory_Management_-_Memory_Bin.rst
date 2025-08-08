@@ -45,7 +45,7 @@ The higher the setting of this option, the faster the AIMMS memory manager will 
 *	:ref:`Options_Memory_Management_-_Memory_Bi3`  
 *	:ref:`Options_Memory_Management_-_Memory_Bi2`  
 *	:ref:`Options_Memory_Management_-_Memory_Sta`  
-*	Search for MemoryStatistics (Function Reference)
+*	:any:`MemoryStatistics`
 
 
 

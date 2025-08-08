@@ -23,7 +23,7 @@ This option specifies to which number inf is translated by the FormatString func
 **Learn more about** 
 
 *	:ref:`Options_Translations_For_Special_Numb2`  
-*	Search for FormatString (Function Reference)
+*	:any:`FormatString`
 
 
 

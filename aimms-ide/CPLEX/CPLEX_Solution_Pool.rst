@@ -73,4 +73,4 @@ the second best solution for the mathematical program 'frac1' will be send to th
 *	:ref:`CPLEX_MIP_Solp_-_Populate_time_limit`  
 *	:ref:`CPLEX_MIP_Solp_-_Population_Limit`  
 *	:ref:`Options_Stop_Criteria_-_Time_Limit`  
-*	Search for GMP::Solution::SendToModel (Function Reference)
+*	:any:`GMP::Solution::SendToModel`

@@ -97,8 +97,8 @@ Gurobi is equipped with a few options that control the tuning process, e.g., **T
 
 **Learn more about** 
 
-*	Search for GMP::Tuning::TuneSingleGMP (Function Reference)
-*	Search for GMP::Tuning::TuneMultipleMPS (Function Reference)
+*	:any:`GMP::Tuning::TuneSingleGMP`
+*	:any:`GMP::Tuning::TuneMultipleMPS`
 *	:ref:`GUROBI_Tuning_-_Tune_Cleanup` 
 *	:ref:`GUROBI_Tuning_-_Tune_Criterion` 
 *	:ref:`GUROBI_Tuning_-_Tune_Metric` 

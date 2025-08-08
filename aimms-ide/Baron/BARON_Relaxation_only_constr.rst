@@ -31,7 +31,7 @@ Adding nonlinear constraints to a model and identifying them to be used for rela
 **Learn more about** 
 
 *	Search for Constraint suffices for global optimization (Language Reference)
-*	Search for GMP::Row::SetRelaxationOnly (Function Reference)
+*	:any:`GMP::Row::SetRelaxationOnly`
 
 
 

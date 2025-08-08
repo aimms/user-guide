@@ -14,7 +14,7 @@ By selecting Matrix Statistics from the View menu, the Matrix Statistics tab is 
 
 **Learn more about** 
 
-*	 Search for AIMMS math program inspector (User's Guide)
+*   :ref:`chap:mpinspector`
 
 
 

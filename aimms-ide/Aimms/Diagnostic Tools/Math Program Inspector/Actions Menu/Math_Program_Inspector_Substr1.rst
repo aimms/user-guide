@@ -30,7 +30,7 @@ After adding slack variables, this adapted version of the model is referred to a
 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Bookmar` 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Tree_Vi`  
-*	Search for AIMMS math program inspector (User's Guide)
+*   :ref:`chap:mpinspector`
 
 
 

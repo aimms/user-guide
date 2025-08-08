@@ -42,5 +42,5 @@ where 'gmpMP' is an element parameter with range 'AllGeneratedMathematicalProgra
 
 **Learn more about** 
 
-*	Search for GMP::Solution::SetMIPStartFlag (Function Reference)
+*	:any:`GMP::Solution::SetMIPStartFlag`
 *	:ref:`COPT_MIP_-_MIP_start` 

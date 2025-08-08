@@ -89,8 +89,8 @@ CPLEX is equipped with a few options that control the tuning process, e.g., **Tu
 
 **Learn more about** 
 
-*	Search for GMP::Tuning::TuneSingleGMP (Function Reference)
-*	Search for GMP::Tuning::TuneMultipleMPS (Function Reference)
+*	:any:`GMP::Tuning::TuneSingleGMP`
+*	:any:`GMP::Tuning::TuneMultipleMPS`
 *	:ref:`Options_MIP_Options_-_MIP_Absolute_Opt`  
 *	:ref:`Options_MIP_Options_-_MIP_Relative_Opt`  
 *	:ref:`Options_Stop_Criteria_-_Time_Limit`  

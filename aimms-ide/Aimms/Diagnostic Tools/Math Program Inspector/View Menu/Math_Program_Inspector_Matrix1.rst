@@ -32,8 +32,7 @@ Having selected a block in the block view you can use the right-mouse popup menu
 
 **Learn more about** 
 
-*	 Search for AIMMS math program inspector (User's Guide)
-
+*   :ref:`chap:mpinspector`
 
 
 

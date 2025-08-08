@@ -28,7 +28,7 @@ AIMMS offers a math program inspector to help you in finding causes of infeasibi
 
 **Learn more about** 
 
-*	Search for AIMMS math program inspector (User's Guide)
+*   :ref:`chap:mpinspector`
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Edit`  
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_View`  
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Actions`  

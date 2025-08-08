@@ -23,9 +23,9 @@ The Load Case dialog box appears if you select one of the Load Case commands in 
 **Learn more about** 
 
 *	 Search for Data Management (User's Guide)
-*	 Search for CaseLoadCurrent (Function Reference)
-*	 Search for CaseLoadIntoCurrent (Function Reference)
-*	 Search for CaseMerge (Function Reference)
+*	:any:`CaseLoadCurrent`
+*	:any:`CaseLoadIntoCurrent`
+*	:any:`CaseMerge`
 
 
 

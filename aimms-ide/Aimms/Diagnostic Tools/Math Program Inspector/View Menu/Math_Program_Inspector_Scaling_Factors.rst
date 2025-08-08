@@ -23,7 +23,7 @@ If you want to use one of the calculated scaling factors in your model then you 
 **Learn more about** 
 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Scale_Model` 
-*	Search for The Unit attribute (Language Reference)
+*	:ref:`sec:units.ident`
 
 
 

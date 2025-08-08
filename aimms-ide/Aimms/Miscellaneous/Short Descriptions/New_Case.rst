@@ -22,4 +22,4 @@ With the New Case command from the Data menu you can instruct AIMMS to start a n
 **Learn more about** 
 
 *	 Search for Data Management (User's Guide)
-*	Search for CaseNew (Function Reference)
+*	:any:`CaseNew`

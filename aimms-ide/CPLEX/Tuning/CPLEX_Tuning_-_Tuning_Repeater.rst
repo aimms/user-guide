@@ -32,5 +32,5 @@ This option applies to only one problem in a tuning session. That is, this optio
 **Learn more about** 
 
 *	:ref:`CPLEX_Tuning_Tool` 
-*	Search for GMP::Tuning::TuneSingleGMP (Function Reference)
+*	:any:`GMP::Tuning::TuneSingleGMP`
 *	:ref:`CPLEX_Tuning_-_Tuning_Measure` 

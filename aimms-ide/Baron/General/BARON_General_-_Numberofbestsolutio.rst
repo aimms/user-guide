@@ -30,7 +30,7 @@ the second best solution for the mathematical program 'frac1' will be send to th
 
 **Learn more about** 
 
-*	Search for GMP::Solution::SendToModel (Function Reference)
+*	:any:`GMP::Solution::SendToModel`
 *	:ref:`Baron_General_-_Solutiondistance` 
 
 

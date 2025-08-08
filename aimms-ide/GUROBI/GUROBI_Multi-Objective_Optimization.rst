@@ -89,12 +89,9 @@ During the solution process, you may prefer that optimization problems with diff
 *	Multi-objective optimization is not supported for models with quadratic terms in the objectives or in the constraints.
 *	Sensitivity information and basis information are not available for multi-objective optimization.
 
-
-
-
 **Learn more about** 
 
-*	Search for GMP::Column::SetAsMultiObjective (Function Reference)
+*	:any:`GMP::Column::SetAsMultiObjective`
 *	:ref:`GUROBI_General_-_Multi_objective_method` 
 *	:ref:`GUROBI_Presolve_-_Multi_Objective_Presolve` 
 *	:ref:`GUROBI_General_-_Read_Parameter_File` 

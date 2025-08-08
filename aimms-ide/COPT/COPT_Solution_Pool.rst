@@ -32,4 +32,4 @@ the second best solution for the mathematical program 'frac1' will be send to th
 **Learn more about** 
 
 *	:ref:`COPT_MIP_-_Pool_size` 
-*	Search for GMP::Solution::SendToModel (Function Reference)
+*	:any:`GMP::Solution::SendToModel`

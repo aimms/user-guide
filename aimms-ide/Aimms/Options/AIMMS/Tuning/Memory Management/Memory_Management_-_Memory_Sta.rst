@@ -47,7 +47,7 @@ Possible values are:
 *	:ref:`Options_Memory_Management_-_Memory_Bin`  
 *	:ref:`Options_Memory_Management_-_Memory_Bi3`  
 *	:ref:`Options_Memory_Management_-_Memory_Bi2`  
-*	Search for MemoryStatistics (Function Reference)
+*	:any:`MemoryStatistics`
 
 
 

@@ -45,4 +45,4 @@ Other things (such as the distribution of variables in keys and the number of ke
 *	:ref:`ODH-CPLEX_Advanced_-_Initial_Divisor_Value`  
 *	:ref:`ODH-CPLEX_Advanced_-_Maximum_Divisor_Repeats`  
 *	:ref:`ODH-CPLEX_Advanced_-_Maximum_Divisor_Value`  
-*	Search for GMP::Column::SetDecomposition (Function Reference)
+*	:any:`GMP::Column::SetDecomposition`

@@ -39,7 +39,7 @@ If this option has the value "on", then the special values are translated accord
 *	:ref:`Options_Translations_For_Special_Numb3`  
 *	:ref:`Options_Translations_For_Special_Numb1`  
 *	:ref:`Options_Translations_For_Special_Numbe`  
-*	Search for FormatString (Function Reference)
+*	:any:`FormatString`
 
 
 

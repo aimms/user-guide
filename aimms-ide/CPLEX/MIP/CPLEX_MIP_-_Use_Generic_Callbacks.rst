@@ -84,8 +84,8 @@ The usage of generic callback also has some disadvantages:
 
 **Learn more about** 
 
-*	Search for GMP::SolverSession::GetNodeObjective (Function Reference)
-*	Search for GMP::SolverSession::GetNodesLeft (Function Reference)
+*	:any:`GMP::SolverSession::GetNodeObjective`
+*	:any:`GMP::SolverSession::GetNodesLeft`
 *	:ref:`CPLEX_Threads_search_strat_and_callb` 
 *	:ref:`CPLEX_Par_-_GlobalThreadLimit` 
 *	:ref:`CPLEX_MIP_-_MIP_Search_Strategy` 

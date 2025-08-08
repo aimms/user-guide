@@ -47,7 +47,7 @@ Instead of setting these options you can also switch on the option :ref:`Options
 
 **Learn more about** 
 
-*	 Search for AIMMS math program inspector (User's Guide)
+*   :ref:`chap:mpinspector`
 
 
 

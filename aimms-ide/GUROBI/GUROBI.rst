@@ -114,5 +114,5 @@ Gurobi requires that your computer's CPU supports SSE2. SSE2 was first introduce
 *	:ref:`GUROBI_MIP_-_MIP_Start` 
 *	:ref:`Options_Postsolve_-_Postsolve` 
 *	:ref:`GUROBI_Parallel_-_Thread_Limit` 
-*	Search for GMP::Solver::FreeEnvironment (Function Reference)
-*	Search for GMP::Solver::InitializeEnvironment (Function Reference)
+*	:any:`GMP::Solver::FreeEnvironment`
+*	:any:`GMP::Solver::InitializeEnvironment`

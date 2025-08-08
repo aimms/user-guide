@@ -94,11 +94,9 @@ During the solution process, you may prefer that optimization problems with diff
 *	Generic callbacks will be used for solving multi-objective optimization models even if the option **Use Generic Callbacks**  is set to 'No'. As a consequence, when solving a multi-objective LP model CPLEX cannot be interrupted and no progress information is provided during the solve.
 
 
-
-
 **Learn more about** 
 
-*	Search for GMP::Column::SetAsMultiObjective (Function Reference)
+*	:any:`GMP::Column::SetAsMultiObjective`
 *	:ref:`CPLEX_Threads_search_strat_and_callb` 
 *	:ref:`CPLEX_General_-_Read_Parameter_File` 
 *	:ref:`CPLEX_MIP_-_Use_Generic_Callbacks` 

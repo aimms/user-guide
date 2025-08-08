@@ -90,4 +90,4 @@ Optimal solution found at node 123 - now completing solution pool...
 *	:ref:`GUROBI_Solution_Pool_-_Pool_Gap` 
 *	:ref:`GUROBI_Solution_Pool_-_Pool_Search_Mode` 
 *	:ref:`GUROBI_Solution_Pool_-_Pool_Size` 
-*	Search for GMP::Solution::SendToModel (Function Reference)
+*	:any:`GMP::Solution::SendToModel`

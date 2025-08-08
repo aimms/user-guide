@@ -22,7 +22,7 @@ You can also start a new dataset using the interface function DatasetNew. In tha
 
 **Learn more about** 
 
-*	 Search for DatasetNew (Function Reference)
+*	:any:`DatasetNew`
 
 
 

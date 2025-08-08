@@ -52,5 +52,5 @@ Optionally, you can also read hints from a file, as controlled by the option **H
 
 **Learn more about** 
 
-*	Search for GMP::Solution::SetColumnValue (Function Reference)
+*	:any:`GMP::Solution::SetColumnValue`
 *	:ref:`GUROBI_MIP_-_Hints_File`  

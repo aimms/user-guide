@@ -68,7 +68,7 @@ The Progress Window is not updated if CPLEX uses the Benders decomposition algor
 
 *	:ref:`CPLEX_Benders_-_Benders_Strategy` 
 *	:ref:`CPLEX_Benders_-_Benders_Decomposition_Check_Limit` 
-*	Search for GMP::Column::SetDecomposition (Function Reference)
+*	:any:`GMP::Column::SetDecomposition`
 
 
 

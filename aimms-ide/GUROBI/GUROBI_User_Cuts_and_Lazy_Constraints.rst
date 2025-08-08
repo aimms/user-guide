@@ -42,5 +42,5 @@ The principle in common between these two pools allows the optimization algorith
 *	:ref:`GUROBI_Presolve_-_Dual_Reductions` 
 *	:ref:`GUROBI_Indicator_Constraints` 
 *	:ref:`GUROBI_MIP_-_Lazy_Constraint_Mode`  
-*	Search for GMP::Instance::SetCallbackAddCut (Function Reference)
-*	Search for GMP::Instance::SetCallbackAddLazyConstraint (Function Reference)
+*	:any:`GMP::Instance::SetCallbackAddCut`
+*	:any:`GMP::Instance::SetCallbackAddLazyConstraint`

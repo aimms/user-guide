@@ -39,8 +39,8 @@ If you do not specify a tag name AIMMS uses a default tag name containing the ty
 
 *	:ref:`Page-Manager_Tab_OrderTab_Sequence`  
 *	:ref:`Page-Manager_Page_Property_-_Action`  
-*	Search for PageSetFocus (Function Reference)
-*	Search for PageSetCursor (Function Reference)
+*	:any:`PageSetFocus`
+*	:any:`PageSetCursor`
 
 
 
