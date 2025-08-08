@@ -50,7 +50,7 @@ The Update Identifier dialog box appears on the right hand side of the tab
 
 **Learn more about** 
 
-*	 Search for CurrentAutoUpdatedDefinitions (Function Reference)
+*	:any:`CurrentAutoUpdatedDefinitions`
 
 
 

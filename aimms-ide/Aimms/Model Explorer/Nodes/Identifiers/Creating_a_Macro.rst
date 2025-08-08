@@ -50,7 +50,7 @@ The most commonly used attributes of a macro are discussed below.
 
 **Learn more about** 
 
-*	 Search for Macros and macro attributes (Language Reference)
+*	:ref:`sec:expr.macro`  
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 

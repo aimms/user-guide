@@ -52,12 +52,12 @@ AIMMS does not allow nested procedures or recursive procedures.
 
 **Learn more about** 
 
-*	 Search for Creating procedure and functions(User's Guide)
-*	 Search for Procedure(Language Reference)
-*	 Search for External procedure(Language Reference)
-*	 Search for Database procedure(Language Reference)
-*	 Search for Function(Language Reference)
-*	 Search for External function(Language Reference)
+*	:ref:`creating_procedures_and_functions`  
+*	:ref:`sec:intern.proc`  
+*	:ref:`external_procedure`  
+*	:ref:`database_procedure`  
+*	:ref:`sec:intern.func`  
+*	:ref:`external_function`  
 *	:ref:`Model-Explorer_Argument_Wizard` 
 
 

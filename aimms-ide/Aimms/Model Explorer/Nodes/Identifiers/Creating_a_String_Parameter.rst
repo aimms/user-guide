@@ -45,10 +45,9 @@ The most commonly used attributes of a string parameter are discussed below.
 
 **Learn more about** 
 
-*	 Search for (String) Parameters and parameter attributes (Language Reference)
+*	:ref:`string_parameter` 
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
-*	 Search for AIMMS Update Mechanism (Language Reference)
 
 
 

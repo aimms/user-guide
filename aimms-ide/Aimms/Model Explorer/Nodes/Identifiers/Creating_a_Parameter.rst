@@ -45,10 +45,10 @@ The most commonly used attributes of a parameter are discussed below.
 
 **Learn more about** 
 
-*	 Search for Parameters and parameter attributes (Language Reference)
+*	:ref:`sec:par.decl` 
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
-*	 Search for AIMMS Update Mechanism (Language Reference)
+*	:ref:`sec:nonproc.dep`  
 
 
 

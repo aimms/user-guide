@@ -65,8 +65,7 @@ A calendar is a special kind of set. You can use a calendar to index data define
 **Learn more about** 
 
 
-· 	 Search for Calendars and calendar attributes (Language Reference)
-
+*	:ref:`sec:time.calendar`
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 

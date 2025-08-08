@@ -49,7 +49,9 @@ This procedure is executed when the user double clicks in the object. Similar as
 *	:ref:`Model-Explorer_Procedures` 
 *	:ref:`Miscellaneous_Updatebility_of_Identifiers` 
 *	:ref:`Page-Manager_Double_Click_in_Page_Object` 
-*	 Search for CurrentAutoUpdatedDefinitions (Function Reference)
+*	:any:`CurrentAutoUpdatedDefinitions`
+
+
 
 
 

@@ -23,7 +23,7 @@ In case BARON is unable to determine the convexity of a constraint automatically
 
 **Learn more about** 
 
-*	 Search for Constraint suffices for global optimization (Language Reference)
+*	:ref:`sec:var.constr`  
 *	:any:`GMP::Row::SetConvex`
 
 

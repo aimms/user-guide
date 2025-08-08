@@ -41,7 +41,6 @@ Although an object may be inherited from a template, its appearance and actions 
 
 **Learn more about** 
 
-*	 Search for Pages and page objects (User's Guide)
 *	:ref:`Page-Manager_Page_Introduction`  
 *	:ref:`Template-Manager_Template_Manager_Introduction`  
 

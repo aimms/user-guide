@@ -37,8 +37,6 @@ For larger applications, end-users can usually be divided into groups of users p
 
 **Learn more about** 
 
-*	 Search for Designing end-user interfaces (User's Guide)
-*	 Search for Pages and page objects (User's Guide)
 *	:ref:`Page-Manager_Page_Introduction`  
 *	:ref:`Page-Manager_Manipulating_the_Page_Navigati`  
 *	:ref:`Page-Manager_Page_Navigation`  

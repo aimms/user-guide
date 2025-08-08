@@ -30,7 +30,7 @@ A section node in the model explorer can have the following attributes:
 
 *	:ref:`Model-Explorer_Model_Explorer_-_Declaration_S`  
 *	:ref:`Model-Explorer_Procedure_and_Function_Nodes`  
-*	 Search for Module nodes (Language Reference)
+*	:ref:`sec:module.module`  
 
 
 

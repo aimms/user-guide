@@ -20,7 +20,7 @@ To create a new variable in the Model Tree:
 
 4.	Press ``<Enter>``  to create the new variable (or press ``<Esc>``  to abort the operation)
 
-	
+
 
 The newly created variable is now ready for use, but you probably want to specify some additional attributes. To modify the attributes of the newly created variable:
 
@@ -46,10 +46,10 @@ The most commonly used attributes of a variable are discussed below.
 
 **Learn more about** 
 
-*	 Search for Variables and variable attributes (Language Reference)
+*	:ref:`sec:var.var` 
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
-*	 Search for AIMMS Update Mechanism (Language Reference)
+*	:ref:`sec:nonproc.dep`  
 
 
 

@@ -1,7 +1,7 @@
+.. _creating_procedures_and_functions:
+
 Creating procedures and functions
 =================================
-
-.. _creating_procedures_and_functions:
 
 .. rubric:: Procedures and functions
 

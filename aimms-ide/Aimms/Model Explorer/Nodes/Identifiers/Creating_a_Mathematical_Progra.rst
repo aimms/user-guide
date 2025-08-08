@@ -48,7 +48,7 @@ The most commonly used attributes of a mathematical program are discussed below.
 
 **Learn more about** 
 
-*	 Search for Mathematical program and its attributes (Language Reference)
+*	:ref:`sec:mp.mp`
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 *	:ref:`Miscellaneous_Solver_Configuration`  

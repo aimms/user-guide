@@ -79,6 +79,6 @@ Possible values of this option are:
 
 
 *   :ref:`Options_Warnings_-_Maximal_Number_of_W` 
-*   Search for Raising and handling warnings and errors (Language reference)
+*   :ref:`sec:exec.error`
 *   :ref:`Options_Matrix_Generation_-_Row_Range_Violation_LHS_Tol` 
 

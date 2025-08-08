@@ -38,7 +38,7 @@ For a detailed description of these two tolerances and numerical comparison in A
 **Learn more about** 
 
 *	:ref:`Options_Execution_Tolerances_-_Equalit` 
-*	 Search for Comparing numerical values (Language Reference)
+*	:ref:`comparing_numerical_values`  
 
 
 
