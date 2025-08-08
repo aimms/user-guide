@@ -30,7 +30,7 @@ Adding nonlinear constraints to a model and identifying them to be used for rela
 
 **Learn more about** 
 
-*	Search for Constraint suffices for global optimization (Language Reference)
+*	:ref:`sec:var.constr`  
 *	:any:`GMP::Row::SetRelaxationOnly`
 
 

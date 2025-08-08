@@ -55,7 +55,7 @@ Nodes are used to formulate network models and are considered to be constraints 
 
 **Learn more about** 
 
-*	Search for Node identifiers and node attributes (Language Reference)
+*	:ref:`sec:net.node` 
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 

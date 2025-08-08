@@ -30,7 +30,7 @@ This option determines the style in which numbers are displayed by the PUT state
 
 **Learn more about** 
 
-*	 Search for Formatting and positioning PUT items (Language Reference)
+*	 :ref:`sec:report.put`
 
 
 

@@ -20,7 +20,7 @@ In a project with multiple libraries, it is recommended to have a Localization s
 
 **Learn more about** 
 
-*	 Search for Localization (User's Guide)
+*	:ref:`chap:locale`
 
 
 

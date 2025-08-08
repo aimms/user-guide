@@ -45,7 +45,7 @@ The most commonly used attributes of a file identifier are discussed below.
 
 **Learn more about** 
 
-*	Search for File identifiers and file attributes (Language Reference)
+*	:ref:`sec:report.file` 
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation` 
 

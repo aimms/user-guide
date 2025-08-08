@@ -55,7 +55,7 @@ This option determines what happens when the solution found by a solver is non-o
 
 **Learn more about** 
 
-*	Search for Suffices of a mathematical program (Language Reference)
+*	:ref:`sec:mp.suffix`
 *	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 

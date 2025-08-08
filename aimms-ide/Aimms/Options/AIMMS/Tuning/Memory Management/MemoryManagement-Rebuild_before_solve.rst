@@ -32,7 +32,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	Search for Rebuild statement (Language Reference)
+*	:ref:`rebuild` 
 
 
 

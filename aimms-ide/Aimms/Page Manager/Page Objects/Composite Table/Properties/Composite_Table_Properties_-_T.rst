@@ -103,7 +103,7 @@ This option can only be set on a print page and it specifies that the headers sh
 *	:ref:`Composite-Table_Sorting_Data_in_a_Composite_Ta`  
 *	:ref:`Composite-Table_Adding_Modifying_and_Removing_`  
 *	:ref:`Composite-Table_Composite_Table_Properties_-_I`  
-*	Search for Inactive data (Language Reference)
+*	:ref:`inactive_data`
 
 
 

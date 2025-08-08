@@ -29,7 +29,7 @@ For each identifier in an object you can specify the unit in which the value sho
 **Learn more about** 
 
 *	:ref:`sec:units.ident`
-*	 Search for Conventions(Language Reference)
+*	 :ref:`sec:units.convention`
 
 
 

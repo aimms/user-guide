@@ -54,4 +54,4 @@ assumed that ``Latitude``  and ``Longitude``  are declared as numerical paramete
 
 
 
-*	 Search for GeoFindCoordinates (Function Reference)
+*	:any:`GeoFindCoordinates`

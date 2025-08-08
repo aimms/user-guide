@@ -1,14 +1,13 @@
-
-
 .. _Security_Changing_User_within_an_Applic:
-
 
 Changing User within an Application
 ===================================
 
 **Description** 
 
-If you temporary want to change to another user, for example for maintenance or demonstration purposes, you can change the current user. Changing the current user will only change the value of the AIMMS identifier ``CurrentUser`` . The values of the AIMMS identifiers ``CurrentGroup``  and ``CurrentAuthorizationLevel``  will not change (for that, you should logoff and re-logon).
+If you temporary want to change to another user, for example for maintenance or demonstration purposes, you can change the current user. 
+Changing the current user will only change the value of the AIMMS identifier ``CurrentUser`` . 
+The values of the AIMMS identifiers ``CurrentGroup``  and ``CurrentAuthorizationLevel``  will not change (for that, you should logoff and re-logon).
 
 
 
@@ -26,9 +25,9 @@ To change the current user:
 
 **Learn more about** 
 
-*	 Search for CurrentUser (Function Reference)
-*	 Search for CurrentGroup (Function Reference)
-*	 Search for CurrentAuthorizationLevel (Function Reference)
+*	:any:`CurrentUser`
+*	:any:`CurrentGroup`
+*	:any:`CurrentAuthorizationLevel`
 
 
 

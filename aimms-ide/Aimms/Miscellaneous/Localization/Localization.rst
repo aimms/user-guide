@@ -18,7 +18,7 @@ For many of the string parameters that you (already) use in your application, yo
 
 **Learn more about** 
 
-*	 Search for Localization (User's Guide)
+*	:ref:`chap:locale`
 *	:ref:`Miscellaneous_Localization_Setup`  
 *	:ref:`Miscellaneous_Localization_Conversion`  
 *	:ref:`Miscellaneous_Localization_Text_Wizard`  

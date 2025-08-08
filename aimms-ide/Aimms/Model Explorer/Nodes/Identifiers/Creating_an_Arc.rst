@@ -58,7 +58,7 @@ Arcs are used to formulate network models and are considered to be variables whe
 
 **Learn more about** 
 
-*	Search for Arcs and arc attributes (Language Reference)
+*	:ref:`sec:net.arc`
 *	:ref:`Model-Explorer_Attribute_Forms` 
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 *	:ref:`Miscellaneous_Identifier_Selection_Dialog_Bo`  

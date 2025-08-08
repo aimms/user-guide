@@ -56,7 +56,7 @@ If you choose to close the page via a button reference or a procedure, then this
 **Learn more about** 
 
 *	:ref:`Page-Manager_Tags`  
-*	 Search for CurrentAutoUpdatedDefinitions (Function Reference)
+*	:any:`CurrentAutoUpdatedDefinitions`
 
 
 

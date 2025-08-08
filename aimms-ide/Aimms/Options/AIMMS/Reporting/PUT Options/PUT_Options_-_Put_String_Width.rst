@@ -22,7 +22,7 @@ This option specifies the default width of a string used by the PUT statement. A
 
 **Learn more about** 
 
-*	 Search for Formatting and positioning PUT items (Language Reference)
+*	 :ref:`sec:report.put`
 
 
 

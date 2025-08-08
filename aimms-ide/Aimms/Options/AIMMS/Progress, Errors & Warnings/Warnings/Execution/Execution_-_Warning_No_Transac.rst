@@ -55,7 +55,7 @@ Not all data sources that can be accessed from AIMMS support transactions. When 
 **Learn more about** 
 
 *	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
-*	Search for Database Transactions (Language Reference)
+*	:ref:`sec:db.transaction` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
 *	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 

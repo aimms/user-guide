@@ -32,7 +32,7 @@ If this option is not selected, inactive data will be considered to have a defau
 
 **Learn more about** 
 
-*	 Search for Inactive data (Language Reference)
+*	 :ref:`inactive_data`
 
 
 

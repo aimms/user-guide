@@ -36,7 +36,7 @@ The function ``val``  translates strings to numbers. For example, ``val("2009")`
 **Learn more about** 
 
 *	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
-*	Search for Raising and handling warnings and errors (Language reference)
+*	:ref:`sec:exec.error`  
 
 
 

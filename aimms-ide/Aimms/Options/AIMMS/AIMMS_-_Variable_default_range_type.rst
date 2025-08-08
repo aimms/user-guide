@@ -33,4 +33,4 @@ When a variable is created in the model editor, the range attribute of that vari
 
 **Learn more about** 
 
-*	Search for Variable (Language reference)
+*	:ref:`sec:var.var` 

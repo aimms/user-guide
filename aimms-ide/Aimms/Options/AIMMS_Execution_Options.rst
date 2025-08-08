@@ -51,10 +51,6 @@ At the bottom there is a possibility to type the part of an option name and sear
 
 **Learn more about** 
 
-.. *   Search for Option statement (Language Reference)
-.. *   Search for OptionSetValue (Function Reference)
-.. *   Search for OptionSetString (Function Reference)
-
 *   :ref:`OptionSetValue`
 *   :ref:`OptionSetString`
 *   :ref:`option-statement`

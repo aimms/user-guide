@@ -82,7 +82,7 @@ If you choose the multiple case object option, the data from different cases wil
 
 **Learn more about** 
 
-*	 Search for Inactive data (Language Reference)
+*	 :ref:`inactive_data`
 *	:ref:`Scalar_Object_Properties_-_Miscellane`  
 
 

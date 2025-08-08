@@ -36,9 +36,9 @@ If you converted your project from AIMMS 3.13 or older, the option value is set 
 
 **Learn more about** 
 
-*	Search for Character Encoding of Text file (Language reference)
-*	Search for AllCharacterEncodings (Function reference)
-*	Search for Project conversion (Release notes)
+*	:ref:`file.encoding`
+*	:any:`AllCharacterEncodings`
+
 
 
 

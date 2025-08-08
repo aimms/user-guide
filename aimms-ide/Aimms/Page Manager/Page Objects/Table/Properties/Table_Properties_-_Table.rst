@@ -82,7 +82,7 @@ This options controls whether or not a status line is displayed. The status line
 
 **Learn more about** 
 
-*	Search for Inactive data (Language Reference)
+*	:ref:`inactive_data`
 
 
 

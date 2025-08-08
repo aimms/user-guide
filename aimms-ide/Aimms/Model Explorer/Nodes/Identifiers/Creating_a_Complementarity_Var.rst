@@ -46,10 +46,10 @@ The most commonly used attributes of a complementarity variable are discussed be
 
 **Learn more about** 
 
-*	Search for Complementarity variables (Language Reference)
+*	:ref:`sec:compl.variable`
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
-*	Search for AIMMS Update Mechanism (Language Reference)
+*	:ref:`parameter.definition`  
 
 
 

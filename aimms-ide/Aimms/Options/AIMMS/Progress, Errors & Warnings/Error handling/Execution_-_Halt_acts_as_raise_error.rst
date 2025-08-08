@@ -35,7 +35,7 @@ The normal execution of a ``HALT``  statement does not respect any error handler
 **Learn more about** 
 
 *	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
-*	Search for Raising and handling warnings and errors (Language reference)
+*	:ref:`sec:exec.error`  
 
 
 

@@ -22,9 +22,9 @@ This option determines whether during each solve the predeclared identifiers Cur
 
 **Learn more about** 
 
-*	Search for CurrentMatrixRowCount (Function Reference)
-*	Search for CurrentMatrixColumnCount (Function Reference)
-*	Search for CurrentMatrixBlockSizes (Function Reference)
+*	:any:`CurrentMatrixRowCount`
+*	:any:`CurrentMatrixColumnCount`
+*	:any:`CurrentMatrixBlockSizes`
 
 
 

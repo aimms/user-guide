@@ -22,7 +22,7 @@ This option specifies the default width of a number field used by the PUT statem
 
 **Learn more about** 
 
-*	Search for Formatting and positioning PUT items (Language Reference)
+*	:ref:`sec:report.put`
 
 
 

@@ -22,7 +22,7 @@ This option specifies the default width of an element field. A value of zero giv
 
 **Learn more about** 
 
-*	 Search for Formatting and positioning PUT items (Language Reference)
+*	 :ref:`sec:report.put`
 
 
 

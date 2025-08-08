@@ -47,7 +47,7 @@ With this timing information you can try to locate the procedures and identifier
 
 **Learn more about** 
 
-*	 Search for AIMMS Profiler (User's Guide)
+*	:ref:`sec:debug.profile`
 
 
 

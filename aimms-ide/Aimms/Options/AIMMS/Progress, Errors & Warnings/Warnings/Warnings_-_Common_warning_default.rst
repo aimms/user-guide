@@ -48,7 +48,7 @@ This option provides the actual warning level for options that have option value
 **Learn more about** 
 
 *	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
-*	Search for Grouping warnings (Language reference)
+*	:ref:`sec:exec.error`  
 
 
 

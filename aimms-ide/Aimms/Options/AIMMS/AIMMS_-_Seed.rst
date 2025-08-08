@@ -22,7 +22,7 @@ With this option you can set the seed of the random number generators for all di
 
 **Learn more about** 
 
-*	Search for CurrentToMoment (Function Reference)
+*	:any:`CurrentToMoment`
 
 
 

@@ -21,7 +21,7 @@ This option specifies the procedure that is executed to handle execution time er
 **Learn more about** 
 
 *	:ref:`Model-Explorer_Procedures`  
-*	Search for Global error handling (Language reference)
+*	:ref:`sec:exec.error`  
 
 
 

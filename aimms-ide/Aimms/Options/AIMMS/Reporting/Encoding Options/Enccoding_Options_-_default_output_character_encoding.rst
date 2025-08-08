@@ -37,9 +37,8 @@ In order to ease the exchange of files with people located in other locales, you
 
 **Learn more about** 
 
-*	Search for Character Encoding of Text file (Language reference)
-*	Search for AllCharacterEncodings (Function reference)
-*	Search for Project conversion (Release notes)
+*	:ref:`file.encoding`
+*	:any:`AllCharacterEncodings`
 
 
 

@@ -20,7 +20,7 @@ Identifiers without definitions are default in the predeclared AIMMS set Current
 
 *	:ref:`Shared-Object-Properties_Object_Properties_Procedure`  
 *	:ref:`Shared-Object-Properties_Object_Properties_-_Input`  
-*	 Search for CurrentAutoUpdatedDefinitions (Function Reference)
+*	:any:`CurrentAutoUpdatedDefinitions`
 
 
 

@@ -39,16 +39,7 @@ This option specifies how messages should be processed during a call to an intri
 
 
 
-
-
-**Learn more about** 
-
-*	Search for Legacy: intrinsics with a return status (Language Reference)
-
-
-
-
-
+ 
 
 
 

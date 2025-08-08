@@ -1,16 +1,13 @@
-
-
 .. _Security_Changing_Group_within_an_Appli:
-
 
 Changing Group within an Application
 ====================================
 
 **Description** 
 
-If you temporary want to change to another group, for example for maintenance or demonstration purposes, you can change the current group. Changing the current group will only change the value of the AIMMS identifier ``CurrentGroup`` . The values of the AIMMS identifiers ``CurrentUser``  and ``CurrentAuthorizationLevel``  will not change.
-
-
+If you temporary want to change to another group, for example for maintenance or demonstration purposes, you can change the current group. 
+Changing the current group will only change the value of the AIMMS identifier ``CurrentGroup`` . 
+The values of the AIMMS identifiers ``CurrentUser``  and ``CurrentAuthorizationLevel``  will not change.
 
 To change the current group
 
@@ -26,9 +23,9 @@ To change the current group
 
 **Learn more about** 
 
-*	 Search for CurrentUser (Function Reference)
-*	 Search for CurrentGroup (Function Reference)
-*	 Search for CurrentAuthorizationLevel (Function Reference)
+*	:any:`CurrentUser`
+*	:any:`CurrentGroup`
+*	:any:`CurrentAuthorizationLevel`
 
 
 

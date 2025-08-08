@@ -64,7 +64,7 @@ A horizon is a special kind of set. When variables and constraints are indexed o
 
 **Learn more about** 
 
-*	Search for Horizons and horizon attributes (Language Reference)
+*	:ref:`sec:time.horizon` 
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 *	:ref:`Miscellaneous_Identifier_Selection_Dialog_Bo`  

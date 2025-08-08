@@ -24,10 +24,8 @@ Possible values for this option are the elements in the predeclared set AllChara
 
 **Learn more about** 
 
-*	Search for Character Encoding of Text file (Language reference)
-*	Search for Character Encoding of string parameters (Language reference)
-*	Search for AllCharacterEncodings (Function reference)
-*	Search for Project conversion (Release notes)
+*	:ref:`file.encoding`
+*	:any:`AllCharacterEncodings`
 
 
 

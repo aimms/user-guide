@@ -1,8 +1,6 @@
 Data Management
 ===============
 
-
-
 .. toctree::
    :maxdepth: 2
 

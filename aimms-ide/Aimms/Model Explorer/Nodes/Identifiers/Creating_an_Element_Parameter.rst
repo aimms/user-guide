@@ -62,7 +62,7 @@ A common way to declare a scalar element parameter is on the attribute form of t
 
 **Learn more about** 
 
-*	Search for (Element) Parameters and parameter attributes (Language Reference)
+*	:ref:`element_parameter`
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 *	:doc:`non-procedural-language-components/execution-of-nonprocedural-components/dependency-structure-of-definitions`

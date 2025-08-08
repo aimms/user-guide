@@ -29,7 +29,7 @@ This option determines how elements are justified within an element field by the
 
 **Learn more about** 
 
-*	 Search for Formatting and positioning PUT items (Language Reference)
+*	 :ref:`sec:report.put`
 
 
 

@@ -16,8 +16,8 @@ If you want to change the values of variables in the GUI anyway, you should make
 
 **Learn more about** 
 
-*	 Search for AllUpdatableIdentifiers (Function Reference)
-*	 Search for CurrentInputs (Function Reference)
+*	:any:`AllUpdatableIdentifiers`
+*	:any:`CurrentInputs`
 
 
 

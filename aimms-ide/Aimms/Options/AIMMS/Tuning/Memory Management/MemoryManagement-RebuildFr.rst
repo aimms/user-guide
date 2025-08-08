@@ -22,4 +22,4 @@ When the memory fragmention of an identifier is greater than this threshold the 
 
 **Learn more about** 
 
-*	Search for Rebuild (Language Reference)
+*	:ref:`rebuild` 

@@ -23,7 +23,7 @@ The Save Case dialog box appears if you select the command Save Case as from the
 
 **Learn more about** 
 
-*	 Search for Data Management (User's Guide)
+*	:ref:`chap:cases`
 *	:any:`CaseSaveAs`
 
 

@@ -22,4 +22,4 @@ This option specifies the default number of decimal places for numbers used by t
 
 **Learn more about** 
 
-*	 Search for Formatting and positioning PUT items (Language Reference)
+*	 :ref:`sec:report.put`

@@ -28,7 +28,7 @@ Consider the following situation: A parameter P has both a definition and the st
 
 **Learn more about** 
 
-*	Search for Stochastic Programming (Language Reference)
+*	:ref:`sec:stoch.solve`  
 
 
 

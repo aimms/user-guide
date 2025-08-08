@@ -45,7 +45,7 @@ The most commonly used attributes of an assertion are discussed below.
 
 **Learn more about** 
 
-*	Search for Assertions and assertion attributes (Language Reference)
+*	:ref:`sec:data.assert`
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 

@@ -29,7 +29,7 @@ This option determines how strings are justified by default by the PUT statement
 
 **Learn more about** 
 
-*	 Search for Formatting and positioning PUT items (Language Reference)
+*	 :ref:`sec:report.put`
 
 
 

@@ -16,7 +16,7 @@ To provide you with a mechanism to implement data validity checks, AIMMS offers 
 
 **Learn more about** 
 
-*	Search for Assertions and the Assert statement (Language Reference)  
+*	:ref:`sec:data.assert`
 *	:ref:`Shared-Object-Properties_Object_Properties_-_Assert`  
 *	:ref:`Button_Button_Properties_-_Actions`  
 *	:ref:`Navigation_Navigation_Object_Properties_1`  

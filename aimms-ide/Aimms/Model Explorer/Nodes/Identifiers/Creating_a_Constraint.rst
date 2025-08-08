@@ -44,7 +44,7 @@ The most commonly used attributes of a constraint are discussed below.
 
 **Learn more about** 
 
-*	Search for Constraint and constraint attributes (Language Reference)
+*	:ref:`sec:var.constr` 
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 

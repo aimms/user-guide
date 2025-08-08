@@ -111,14 +111,14 @@ In case of a QP or QCP the contents of the fields depends on the solver used. In
 
 **Learn more about** 
 
-*	 Search for Constraints (Language Reference)
-*	 Search for Variables (Language Reference)
-*	 Search for CurrentMatrixColumnCount (Function Reference)
-*	 Search for CurrentMatrixRowCount (Function Reference)
-*	 Search for CurrentMatrixBlockSizes (Function Reference)
-*	 Search for ShowProgressWindow (Function Reference)
-*	 :ref:`Options_Progress_Options_-_Progress_So` 
-*	 :ref:`Options_Progress_Options_-_Progress_Time_Interval` 
+*	:ref:`sec:var.constr`
+*	:ref:`sec:var.var`
+*	:any:`CurrentMatrixColumnCount`
+*	:any:`CurrentMatrixRowCount`
+*	:any:`CurrentMatrixBlockSizes`
+*	:any:`ShowProgressWindow`
+*	:ref:`Options_Progress_Options_-_Progress_So` 
+*	:ref:`Options_Progress_Options_-_Progress_Time_Interval` 
 
 
 

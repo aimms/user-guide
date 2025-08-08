@@ -29,7 +29,7 @@ This option determines the default justification of a number in its field as use
 
 **Learn more about** 
 
-*	 Search for Formatting and positioning PUT items (Language Reference)
+*	 :ref:`sec:report.put`
 
 
 
