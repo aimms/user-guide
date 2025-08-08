@@ -38,8 +38,10 @@ The information will be printed in the Messages Window.
 
 **Remark** 
 
-The information is also written to the file 'CPLEX 22.1.sta' if the general solvers option **Solver Listing Messages**  is set to a value unequal to 'Never'. The file 'CPLEX 22.1.sta' is placed in the log directory of the AIMMS project.
+The information is also written to the file 'CPLEX 22.1.sta' if the general solvers option **Solver Listing Messages**  is set to a value unequal to 'Never'. 
+The file 'CPLEX 22.1.sta' is placed in the log directory of the AIMMS project.
 
+Of course, the ``22.1`` in the filename will be replaced by the actual CPLEX version number.
 
 
 **Learn more about** 

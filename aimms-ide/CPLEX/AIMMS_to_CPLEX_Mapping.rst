@@ -1,15 +1,15 @@
 
 
-.. _AIMMS_to_CPLEX_22_1_Mapping:
-.. _CPLEX_AIMMS_to_CPLEX_22_1_Mapping:
+.. _AIMMS_to_CPLEX_Mapping:
+.. _CPLEX_AIMMS_to_CPLEX_Mapping:
 
 
-AIMMS to CPLEX 22.1 Mapping
+AIMMS to CPLEX Mapping
 ===========================
 
 **Description** 
 
-The table below shows in the left column the AIMMS CPLEX 22.1 options; the middle column displays the CPLEX 22.1 parameters that are associated with them. The right column displays the constants used in the CPLEX C API.
+The table below shows in the left column the AIMMS CPLEX options; the middle column displays the CPLEX parameters that are associated with them. The right column displays the constants used in the CPLEX C API.
 
 
 
@@ -589,7 +589,7 @@ The table below shows in the left column the AIMMS CPLEX 22.1 options; the middl
 
 
 
-The table below shows Solvers General options that are mapped to CPLEX 22.1 parameters.
+The table below shows Solvers General options that are mapped to CPLEX parameters.
 
 
 

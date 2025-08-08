@@ -90,7 +90,7 @@ The first two categories of options in AIMMS can be set in the options dialog bo
 
 
 
-The sections :ref:`ODH-CPLEX_ODH_5_3_to_AIMMS_Mapping`  and :ref:`ODH-CPLEX_AIMMS_to_ODH_5_3_Mapping`  contain mappings between the ODH-CPLEX parameters and the AIMMS options for ODH-CPLEX.
+The sections :ref:`ODH-CPLEX_ODH_to_AIMMS_Mapping`  and :ref:`ODH-CPLEX_AIMMS_to_ODH_Mapping`  contain mappings between the ODH-CPLEX parameters and the AIMMS options for ODH-CPLEX.
 
 
 
@@ -119,8 +119,8 @@ ODH-CPLEX does support lazy constraints that are added to a pool of lazy constra
 **Learn more about** 
 
 *	`ODH-CPLEX <https://www.optimizationdirect.com/>`_ (Internet link)
-*	:ref:`ODH-CPLEX_ODH_5_3_to_AIMMS_Mapping`  
-*	:ref:`ODH-CPLEX_AIMMS_to_ODH_5_3_Mapping`  
+*	:ref:`ODH-CPLEX_ODH_to_AIMMS_Mapping`  
+*	:ref:`ODH-CPLEX_AIMMS_to_ODH_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	:ref:`ODH-CPLEX_-_Parallel_Execution` 
 *	:ref:`ODH-CPLEX_-_Parameter_File` 

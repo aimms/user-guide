@@ -3,8 +3,8 @@
 .. _Template-Manager_Template_Manager_Introduction:
 
 
-Introduction
-============
+Template Manager Introduction
+================================
 
 **Description** 
 

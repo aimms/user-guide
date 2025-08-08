@@ -4,7 +4,7 @@
 Hints
 =====
 
-Gurobi 12.0 can use variable hints for MIP models. If you know that a variable is likely to take a particular value in high quality solutions of a MIP model, you can provide that value as a hint. You can also (optionally) provide a hint priority which resembles your level of confidence in a hint.
+Gurobi can use variable hints for MIP models. If you know that a variable is likely to take a particular value in high quality solutions of a MIP model, you can provide that value as a hint. You can also (optionally) provide a hint priority which resembles your level of confidence in a hint.
 
 
 

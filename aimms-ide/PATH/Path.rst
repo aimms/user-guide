@@ -127,8 +127,8 @@ PATH is equipped with parameters that influence its performance. AIMMS is equipp
 
 **Learn more about** 
 
-*	:ref:`PATH_Path47_to_AIMMS_Mapping`  
-*	:ref:`PATH_AIMMS_to_Path47_Mapping`  
+*	:ref:`PATH_Path_to_AIMMS_Mapping`  
+*	:ref:`PATH_AIMMS_to_Path_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	Search for Complementarity Variable (Language Reference)
 

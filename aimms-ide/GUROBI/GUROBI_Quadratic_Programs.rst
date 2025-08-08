@@ -4,7 +4,7 @@
 Quadratic Programs
 ==================
 
-Gurobi 12.0 can handle both convex and non-convex quadratic constraints. The default algorithms in Gurobi 12.0 only accept a few forms of quadratic constraints that are known to have convex feasible regions. Constraints of the following forms are always accepted:
+Gurobi can handle both convex and non-convex quadratic constraints. The default algorithms in Gurobi only accept a few forms of quadratic constraints that are known to have convex feasible regions. Constraints of the following forms are always accepted:
 
 
 
@@ -27,7 +27,7 @@ A model containing a constraint of one of the last two types is a second-order c
 
 
 
-If all quadratic constraints are convex then Gurobi 12.0 can obtain the dual values (i.e., shadow prices) and reduced costs of QCP and SOCP models if the option **QCP Dual Values**  is switched on.
+If all quadratic constraints are convex then Gurobi can obtain the dual values (i.e., shadow prices) and reduced costs of QCP and SOCP models if the option **QCP Dual Values**  is switched on.
 
 
 

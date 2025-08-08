@@ -1,15 +1,15 @@
 
 
-.. _AIMMS_to_GUROBI_12_0_Mapping:
-.. _GUROBI_AIMMS_to_GUROBI_12_0_Mapping:
+.. _AIMMS_to_GUROBI_Mapping:
+.. _GUROBI_AIMMS_to_GUROBI_Mapping:
 
 
-AIMMS to GUROBI 12.0 Mapping
+AIMMS to GUROBI Mapping
 ============================
 
 **Description** 
 
-The table shows in the left column the AIMMS Gurobi 12.0 options while the right column displays the associated Gurobi parameter.
+The table shows in the left column the AIMMS Gurobi options while the right column displays the associated Gurobi parameter.
 
 
 
@@ -306,7 +306,7 @@ The table shows in the left column the AIMMS Gurobi 12.0 options while the right
 
 
 
-The table below shows Solvers General options that are mapped to Gurobi 12.0 parameters.
+The table below shows Solvers General options that are mapped to Gurobi parameters.
 
 
 

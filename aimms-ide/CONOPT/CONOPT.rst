@@ -97,17 +97,23 @@ where Jac(i) represents the nonzero Jacobian elements and N the number of nonzer
 
 **Presolving** 
 
-AIMMS contains a nonlinear presolve algorithm with the goal to reduce the size of the problem and to tighten the variable bounds, which may help CONOPT to solve nonlinear problems faster. CONOPT is a local solver, i.e., the solution found by the CONOPT is a local solution and cannot be guaranteed to be a global solution. The presolve algorithm may help the solver in finding a better solution. A local solver might sometimes fail to find a solution and then it is not always clear whether that is caused by the problem being infeasible or by the solver failing to find a solution for a feasible problem. The presolve algorithm may reveal inconsistent constraints and/or variable bounds and hence identify a problem as infeasible.
+AIMMS contains a nonlinear presolve algorithm with the goal to reduce the size of the problem and to tighten the variable bounds, which may help CONOPT to solve nonlinear problems faster. 
+CONOPT is a local solver, i.e., the solution found by the CONOPT is a local solution and cannot be guaranteed to be a global solution. 
+The presolve algorithm may help the solver in finding a better solution. 
+A local solver might sometimes fail to find a solution and then it is not always clear whether that is caused by the problem being infeasible or by the solver failing to find a solution for a feasible problem. 
+The presolve algorithm may reveal inconsistent constraints and/or variable bounds and hence identify a problem as infeasible.
 
 
 
-The AIMMS presolve algorithm is switched off by default. To use it you should switch on the AIMMS general solvers option **Nonlinear Presolve** .
+The AIMMS presolve algorithm is switched off by default. 
+To use it you should switch on the AIMMS general solvers option **Nonlinear Presolve** .
 
 
 
 **Parallel solves** 
 
-CONOPT 4 is thread-safe and therefore multiple nonlinear mathematical program instances can be solved in parallel using CONOPT 4 (assuming your computer has multiple processors or a multi-core processor). The function GMP::SolverSession::AsynchronousExecute should be used to solve multiple mathematical program instances in parallel.
+CONOPT 4 is thread-safe and therefore multiple nonlinear mathematical program instances can be solved in parallel using CONOPT 4 (assuming your computer has multiple processors or a multi-core processor). 
+The function GMP::SolverSession::AsynchronousExecute should be used to solve multiple mathematical program instances in parallel.
 
 
 

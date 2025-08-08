@@ -1,6 +1,3 @@
-
-
-.. _CPX221_SubMIP:
 .. _CPLEX_SubMIP:
 
 

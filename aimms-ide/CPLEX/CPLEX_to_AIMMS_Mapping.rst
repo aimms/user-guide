@@ -1,15 +1,15 @@
 
 
-.. _CPLEX_22_1_to_AIMMS_Mapping:
-.. _CPLEX_CPLEX_22_1_to_AIMMS_Mapping:
+.. _CPLEX_to_AIMMS_Mapping:
+.. _CPLEX_CPLEX_to_AIMMS_Mapping:
 
 
-CPLEX 22.1 to AIMMS Mapping
+CPLEX to AIMMS Mapping
 ===========================
 
 **Description** 
 
-The table shows in the left column the parameters from CPLEX 22.1 that can be set in AIMMS; the right column displays for each CPLEX 22.1 parameter the associated AIMMS option.
+The table shows in the left column the parameters from CPLEX that can be set in AIMMS; the right column displays for each CPLEX parameter the associated AIMMS option.
 
 
 

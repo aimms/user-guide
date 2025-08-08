@@ -1,4 +1,4 @@
-Knitro 
+KNITRO 
 ===========
 
 .. toctree::
@@ -10,17 +10,4 @@ Knitro
     Description_KNITRO_Algorithms
     KNITRO_Complementarities
     KNITRO_Tuner
-    General/index
-    Advanced/index
-    Hessian/index
-    Interior Point/index
-    MIP/index
-    MIP Cuts/index
-    Multistart/index
-    Parallel/index
-    Presolve/index
-    Reporting/index
-    Termination/index
-    Tolerances/index
-    Tuner/index
-    Debugging/index
+    KNITRO_Options

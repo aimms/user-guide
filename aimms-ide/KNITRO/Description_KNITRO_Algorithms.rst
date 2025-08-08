@@ -1,7 +1,7 @@
 
 
-.. _Description_KNITRO140_Algorithms:
-.. _KNITRO_Description_KNITRO140_Algorithms:
+.. _Description_KNITRO_Algorithms:
+.. _KNITRO_Description_KNITRO_Algorithms:
 
 
 Description of Knitro Algorithms

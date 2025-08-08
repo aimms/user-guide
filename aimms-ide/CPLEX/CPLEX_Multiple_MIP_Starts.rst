@@ -1,37 +1,21 @@
-
-
-.. _CPX221_Multiple_MIP_Starts:
 .. _CPLEX_Multiple_MIP_Starts:
-
 
 Multiple MIP Starts
 ===================
 
-CPLEX 22.1 supports multiple MIP starts; that is, a user may maintain more than one starting solution with values for continuous and discrete variables for CPLEX to use as an advanced starting point. MIP starts are also known as advanced starts or warm starts.
-
-
+CPLEX supports multiple MIP starts; that is, a user may maintain more than one starting solution with values for continuous and discrete variables for CPLEX to use as an advanced starting point. MIP starts are also known as advanced starts or warm starts.
 
 A solution in the solution repository can be marked as a MIP start by using the AIMMS routine GMP::Solution::SetMIPStartFlag. For example, to mark the solutions 2 and 3 in the solution repository of a mathematical program 'MP' and solve the MIP use
 
-
-
 	gmpMP := GMP::Instance::Generate( MP );
-
-    
 
 	GMP::Solution::SetMIPStartFlag( gmpMP, 2, 1 );
 
 	GMP::Solution::SetMIPStartFlag( gmpMP, 3, 1 );
 
-
-
 	GMP::Instance::Solve( gmpMP );
 
-
-
 where 'gmpMP' is an element parameter with range 'AllGeneratedMathematicalPrograms'.
-
-
 
 Users may want CPLEX to process multiple MIP starts differently, expending more effort on some than on others. Moreover, a user may want to limit the effort CPLEX applies to MIP starts when it transforms each MIP start into a feasible solution, especially if there are many of them. In that context, the user may specify a level of effort that CPLEX should expend for each MIP start to transform it into a feasible solution. The user specifies the level of effort by using the optional argument 'effortLevel' in the AIMMS routine GMP::Solution::SetMIPStartFlag.
 

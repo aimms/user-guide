@@ -48,7 +48,7 @@ Some of the lower bounds may be – ¥ and some of the upper bounds may be + ¥.
 
 
 
-If there are no complementarity conditions (i.e., C = Æ), then the resulting problem in a nonlinear programming problem (NLP). Knitro 14.0 can also be used for solving nonlinear programming problems in which some or all of the variables must assume integer values in the solution. Such problems are known as mixed integer nonlinear programs or MINLPs. Knitro cannot handle problems that contain complementarity constraints as well as integer variables.
+If there are no complementarity conditions (i.e., C = Æ), then the resulting problem in a nonlinear programming problem (NLP). Knitro can also be used for solving nonlinear programming problems in which some or all of the variables must assume integer values in the solution. Such problems are known as mixed integer nonlinear programs or MINLPs. Knitro cannot handle problems that contain complementarity constraints as well as integer variables.
 
 
 
@@ -68,7 +68,7 @@ Knitro can use its own multistart algorithm. It the option **Multistart**  is sw
 
 
 
-Knitro 14.0 supports the :ref:`KNITRO_Tuner` , a utility to aid you in improving the performance of your optimization application. It suggests a suite of option settings for you to use that provide better performance than the default option settings for your model.
+Knitro supports the :ref:`KNITRO_Tuner` , a utility to aid you in improving the performance of your optimization application. It suggests a suite of option settings for you to use that provide better performance than the default option settings for your model.
 
 
 
@@ -101,7 +101,7 @@ The Knitro presolver is controlled by the option **Presolve** .
 
 **Parallel solves** 
 
-Knitro 14.0 is thread-safe and therefore multiple nonlinear mathematical program instances can be solved in parallel using Knitro 14.0 (assuming your computer has multiple processors or a multi-core processor). 
+Knitro is thread-safe and therefore multiple nonlinear mathematical program instances can be solved in parallel using Knitro 14.0 (assuming your computer has multiple processors or a multi-core processor). 
 The function GMP::SolverSession::AsynchronousExecute should be used to solve multiple mathematical program instances in parallel.
 
 
@@ -109,9 +109,9 @@ The function GMP::SolverSession::AsynchronousExecute should be used to solve mul
 **Learn more about** 
 
 *	`Knitro <https://web.stanford.edu/group/SOL/home_software.html>`_ (Internet link)
-*	:ref:`KNITRO_KNITRO140_to_AIMMS_Mapping` 
-*	:ref:`KNITRO_AIMMS_to_KNITRO140_Mapping`  
-*	:ref:`KNITRO_Description_KNITRO140_Algorithms` 
+*	:ref:`KNITRO_KNITRO_to_AIMMS_Mapping` 
+*	:ref:`KNITRO_AIMMS_to_KNITRO_Mapping`  
+*	:ref:`KNITRO_Description_KNITRO_Algorithms` 
 *	:ref:`KNITRO_Complementarities` 
 *	:ref:`KNITRO_Tuner` 
 *	:ref:`Options_AIMMS_Execution_Options`  

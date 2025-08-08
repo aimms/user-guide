@@ -13,6 +13,5 @@ AIMMS Files
     Solver_Output_Files
     Startup_Bitmap
     User_Database_File
-    AIMMS_Documentation
     AIMMSGettingStarted
     Renaming_Libraries_and_Folders

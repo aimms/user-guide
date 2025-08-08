@@ -1,4 +1,4 @@
-COPT 6.0
+COPT
 ========
 
 .. toctree::
@@ -12,12 +12,4 @@ COPT 6.0
     COPT_Solution_Pool
     COPT_SOS_Types
     COPT_Troubleshooting
-    General/index
-    Barrier/index
-    MIP/index
-    MIP Cuts/index
-    MIP Heuristics/index
-    Parallel/index
-    Presolve/index
-    Simplex/index
-    Logging/index
+    COPT_Options

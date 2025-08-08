@@ -4,7 +4,7 @@
 Multi-Objective Optimization
 ============================
 
-Gurobi 12.0 allows you to define a mixture of blended and lexicographic (or hierarchical) objectives.
+Gurobi allows you to define a mixture of blended and lexicographic (or hierarchical) objectives.
 
 
 
@@ -54,19 +54,17 @@ To obtain this solution, each objective is optimized in turn by decreasing order
 
 The priority of each objective can be specified using the third argument of the routine GMP::Column::SetAsMultiObjective. Its fourth argument defines the weight by which the objective coefficients are multiplied when forming a blended objective, i.e., if multiple objectives have the same priority. In the example above in which TotalDist is defined as 10*x1 + 20*x2 the objective coefficients are 10 and 20 (for x1 and x2 respectively).
 
-
-
 **Absolute and relative tolerance** 
 
 The last two arguments of the routine GMP::Column::SetAsMultiObjective specify the absolute and relative tolerance respectively. They can be used to relax the requirement that in each step the objective is optimized among the solutions that are optimal to the previous optimization problems. More precisely, for each objective, the absolute and relative tolerance specify, in absolute and relative terms, the maximum deviations allowed from the optimal value of that objective. However, the meaning of the relaxation of the objective depends on whether the multi-objective problem is an LP or MIP.
 
-
-
 **MIP:** 
 
-By default, the hierarchical approach won’t allow later objectives to degrade earlier objectives. This behavior can be relaxed for MIPs through a pair of tolerances: a relative and an absolute tolerance. By setting one of these for a particular objective, you can indicate that later objectives are allowed to degrade this objective by the specified relative or absolute amount, respectively. In our example, if the optimal value for the first objective is 100, and if we set the absolute tolerance for this objective to 20, then the second optimization step would find the best solution for the second objective from among all solutions with objective 120 or better for the first objective. Note that if you modify both tolerances, later optimizations would use the looser of the two values (i.e., the one that allows the larger degradation).
-
-
+By default, the hierarchical approach won’t allow later objectives to degrade earlier objectives. 
+This behavior can be relaxed for MIPs through a pair of tolerances: a relative and an absolute tolerance. 
+By setting one of these for a particular objective, you can indicate that later objectives are allowed to degrade this objective by the specified relative or absolute amount, respectively. 
+In our example, if the optimal value for the first objective is 100, and 
+if we set the absolute tolerance for this objective to 20, then the second optimization step would find the best solution for the second objective from among all solutions with objective 120 or better for the first objective. Note that if you modify both tolerances, later optimizations would use the looser of the two values (i.e., the one that allows the larger degradation).
 
 **LP:** 
 

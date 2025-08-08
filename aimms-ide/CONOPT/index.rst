@@ -1,4 +1,4 @@
-CONOPT 4
+CONOPT
 ========
 
 .. toctree::
@@ -9,13 +9,4 @@ CONOPT 4
     AIMMS_to_CONOPT_Mapping
     CONOPT_Description_of_CONOPT_Algorithm
     CONOPT_Troubleshooting
-    General/index
-    Advanced/index
-    Limits/index
-    Parallel/index
-    Pivot/index
-    Preprocessing/index
-    Reporting/index
-    Scaling/index
-    Stop criteria/index
-    Debugging/index
+    CONOPT_Options

@@ -14,7 +14,6 @@ AIMMS offers a math program inspector to help you in finding causes of infeasibi
 
 **Note** 
 
-*	The math program inspector does not support network models (solved with NETSOL).
 *	The math program inspector does not support models with complementarity variables (i.e., models with model type MCP or MPCC).
 
 

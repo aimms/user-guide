@@ -1,10 +1,10 @@
 
 
-.. _SNOPT_7_2_to_AIMMS_Mapping:
-.. _SNOPT_SNOPT_7_2_to_AIMMS_Mapping:
+.. _SNOPT_to_AIMMS_Mapping:
+.. _SNOPT_SNOPT_to_AIMMS_Mapping:
 
 
-SNOPT 7.2 to AIMMS Mapping
+SNOPT to AIMMS Mapping
 ==========================
 
 **Description** 

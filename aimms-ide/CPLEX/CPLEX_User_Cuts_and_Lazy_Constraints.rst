@@ -1,6 +1,3 @@
-
-
-.. _CPX221_User_Cuts_and_Lazy_Constraints:
 .. _CPLEX_User_Cuts_and_Lazy_Constraints:
 
 

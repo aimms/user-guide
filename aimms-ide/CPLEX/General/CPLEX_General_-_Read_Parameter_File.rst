@@ -52,7 +52,7 @@ CPX_PARAM_STARTALG   2
 
 
 
-The first line is mandatory. The name for the parameters used should be the CPLEX C API names as can be found in the:ref:`CPLEX_AIMMS_to_CPLEX_22_1_Mapping`  from AIMMS option names to CPLEX parameter names.
+The first line is mandatory. The name for the parameters used should be the CPLEX C API names as can be found in the:ref:`CPLEX_AIMMS_to_CPLEX_Mapping`  from AIMMS option names to CPLEX parameter names.
 
 
 
@@ -97,7 +97,7 @@ The parameter settings in the multi-objective parameter files will only affect t
 
 **Note** 
 
-*	The parameter file uses CPLEX names instead of AIMMS names for the options. The :ref:`CPLEX_AIMMS_to_CPLEX_22_1_Mapping`  can be used to find the CPLEX parameter name corresponding to an option in AIMMS.
+*	The parameter file uses CPLEX names instead of AIMMS names for the options. The :ref:`CPLEX_AIMMS_to_CPLEX_Mapping`  can be used to find the CPLEX parameter name corresponding to an option in AIMMS.
 *	The option **Parallel Mode**  cannot be changed during the solution process of a multi-objective optimization problem; it will be ignored when present in a multi-objective parameter file.
 *	With setting 'Overrule' the parameter files specifying different option settings for multi-objective optimization will be ignored.
 
@@ -106,7 +106,7 @@ The parameter settings in the multi-objective parameter files will only affect t
 
 **Learn more about** 
 
-*	:ref:`CPLEX_AIMMS_to_CPLEX_22_1_Mapping`  
+*	:ref:`CPLEX_AIMMS_to_CPLEX_Mapping`  
 *	:ref:`CPLEX_General_-_Deterministic_Time_Limit` 
 *	:ref:`Options_MIP_Options_-_MIP_Relative_Opt` 
 *	:ref:`CPLEX_Multi_Objective_Optimization` 

@@ -1,6 +1,3 @@
-
-
-.. _CPX221_Threads_search_strat_and_callb:
 .. _CPLEX_Threads_search_strat_and_callb:
 
 

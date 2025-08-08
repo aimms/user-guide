@@ -1,17 +1,16 @@
 
 
-.. _GUROBI_12_0_to_AIMMS_Mapping:
-.. _GUROBI_GUROBI_12_0_to_AIMMS_Mapping:
+.. _GUROBI_to_AIMMS_Mapping:
+.. _GUROBI_GUROBI_to_AIMMS_Mapping:
 
 
-GUROBI 12.0 to AIMMS Mapping
+GUROBI to AIMMS Mapping
 ============================
 
 **Description** 
 
-The table shows in the left column the parameters from Gurobi 12.0 that can be set in AIMMS; the right column displays for each Gurobi 12.0 parameter the associated AIMMS option.
-
-
+The table shows in the left column the parameters from Gurobi that can be set in AIMMS; 
+the right column displays for each Gurobi parameter the associated AIMMS option.
 
 **Name in GUROBI** 	**Option name in AIMMS** 
 

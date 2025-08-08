@@ -3,8 +3,8 @@
 .. _Page-Manager_Page_Manager_Introduction:
 
 
-Introduction
-============
+Page Manager Introduction
+=========================
 
 **Description** 
 

@@ -1,3 +1,5 @@
+.. Main options category
+
 Options
 =======
 

@@ -1,4 +1,4 @@
-MINOS 5.5
+MINOS
 =========
 
 .. toctree::
@@ -15,3 +15,4 @@ MINOS 5.5
     Reporting/index
     Scaling/index
     Stop Criteria/index
+    MINOS_Options

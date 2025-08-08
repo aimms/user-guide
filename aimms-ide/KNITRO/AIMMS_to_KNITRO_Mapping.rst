@@ -1,7 +1,7 @@
 
 
-.. _AIMMS_to_KNITRO140_Mapping:
-.. _KNITRO_AIMMS_to_KNITRO140_Mapping:
+.. _AIMMS_to_KNITRO_Mapping:
+.. _KNITRO_AIMMS_to_KNITRO_Mapping:
 
 
 AIMMS to Knitro 14.0 Mapping

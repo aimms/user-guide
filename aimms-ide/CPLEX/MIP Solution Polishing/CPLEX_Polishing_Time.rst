@@ -26,7 +26,7 @@ As an example of how to manage time spent polishing a feasible solution, suppose
 .. list-table::
 
    * - 1.
-     - Set the general time limit as controlled by the general solvers option **Time Limit**  to 300.0 seconds. In CPLEX 22.1, this option controls the total time spent in branch & cut plus solution polishing.
+     - Set the general time limit as controlled by the general solvers option **Time Limit**  to 300.0 seconds. In CPLEX, this option controls the total time spent in branch & cut plus solution polishing.
    * - 2.
      - Establish a starting condition for solution polishing by setting this option to 100.0 seconds. This option controls the time spent in branch & cut before CPLEX switches to polishing.
    * - 3.

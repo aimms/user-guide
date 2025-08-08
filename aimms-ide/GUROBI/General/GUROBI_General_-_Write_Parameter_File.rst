@@ -30,7 +30,7 @@ A Gurobi parameter (PRM) file is used to specify parameter settings. The file co
 
 
 
-The parameters are printed using the Gurobi C API names as can be found in the:ref:`GUROBI_AIMMS_to_GUROBI_12_0_Mapping`  from AIMMS option names to Gurobi parameter names.
+The parameters are printed using the Gurobi C API names as can be found in the:ref:`GUROBI_AIMMS_to_GUROBI_Mapping`  from AIMMS option names to Gurobi parameter names.
 
 
 

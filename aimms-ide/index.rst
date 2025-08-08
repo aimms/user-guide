@@ -1,5 +1,5 @@
-HELP DOC
-========
+AIMMS and Solvers
+================================
 
 .. toctree::
     :maxdepth: 1
@@ -15,7 +15,6 @@ HELP DOC
     IPOPT/index
     KNITRO/index
     MINOS/index
-    NETSOL/index
     ODH-CPLEX/index
     PATH/index
     SNOPT/index

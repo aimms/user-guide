@@ -1,10 +1,10 @@
 
 
-.. _KNITRO140_to_AIMMS_Mapping:
-.. _KNITRO_KNITRO140_to_AIMMS_Mapping:
+.. _KNITRO_to_AIMMS_Mapping:
+.. _KNITRO_KNITRO_to_AIMMS_Mapping:
 
 
-Knitro 14.0 to AIMMS Mapping
+Knitro to AIMMS Mapping
 ============================
 
 **Description** 

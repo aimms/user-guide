@@ -11,12 +11,4 @@ Baron
     BARON_Relaxation_only_constr
     BARON_Variable_Priorities
     BARON_Improving_MINLP_Performance
-    General/index
-    Branching/index
-    Local Search Heuristic/index
-    Parallel/index
-    Range Reduction/index
-    Relaxation/index
-    Termination/index
-    Tolerances/index
-    Logging/index
+    BARON_Options

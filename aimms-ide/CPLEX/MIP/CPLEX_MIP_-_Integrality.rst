@@ -21,7 +21,7 @@ The setting of this option specifies the amount by which an integer variable can
 **Note** 
 
 *	Another reason why CPLEX may falsely conclude that a problem is infeasible, is if the option **Feasibility**  is set too low.
-*	CPLEX 22.1 does not automatically reset the value of the option **Feasibility**  to be less than or equal to the value of this option.
+*	CPLEX does not automatically reset the value of the option **Feasibility**  to be less than or equal to the value of this option.
 
 
 

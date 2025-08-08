@@ -42,10 +42,6 @@ An Accept Basis value of 1 always accepts a provided basis and an Accept Basis o
 
 **Learn more about** 
 
-.. *	:doc:`CPLEX restart option <Alink(AimmsCPX221_options:Restart)>` 
-.. *	:doc:`GUROBI restart option <Alink(AimmsGurobi120_options:Restart)>` 
-.. *	:doc:`XA restart option <Alink(AimmsXA16_options:restart)>` 
-
 *   CPLEX:  :ref:`CPLEX_General_-_Restart`
 *   COPT:   :ref:`COPT_General_-_Restart`
 *   GUROBI: :ref:`GUROBI_General_-_Restart`

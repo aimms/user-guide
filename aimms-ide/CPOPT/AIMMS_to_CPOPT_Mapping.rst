@@ -1,18 +1,15 @@
 
 
-.. _AIMMS_to_CPOPT_22_1_Mapping:
-.. _CP Optimizer_AIMMS_to_CPOPT_22_1_Mapping:
+.. _AIMMS_to_CPOPT_Mapping:
+.. _CP Optimizer_AIMMS_to_CPOPT_Mapping:
 
 
-AIMMS to CP Optimizer 22.1 Mapping
+AIMMS to CP Optimizer Mapping
 ==================================
 
 **Description** 
 
-The table shows in the left column the AIMMS options for CP Optimizer 22.1 while the right column displays the associated CP Optimizer 22.1 parameters.
-
-
-
+The table shows in the left column the AIMMS options for CP Optimizer while the right column displays the associated CP Optimizer parameters.
 
 .. list-table::
 

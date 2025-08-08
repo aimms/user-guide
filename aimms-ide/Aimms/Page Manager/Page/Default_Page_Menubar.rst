@@ -118,26 +118,13 @@ From this menubar, you can choose the following actions:
 
 
 *	:ref:`Miscellaneous_Developer__End_User_Layout`  
-*	:ref:`Miscellaneous_Developer__End_User_Layout`  
-*	:ref:`Miscellaneous_Saving_and_Restoring_Layouts`  
 *	:ref:`Miscellaneous_Saving_and_Restoring_Layouts`  
 *	:ref:`Miscellaneous_Navigating_Opened_Windows`  
-*	:ref:`Miscellaneous_Navigating_Opened_Windows`  
-*	:ref:`Miscellaneous_Navigating_Opened_Windows`  
-*	:ref:`Miscellaneous_Progress_Window`  
 *	:ref:`Miscellaneous_Messages_Window`  
 *	:ref:`Miscellaneous_Navigating_Opened_Windows`  
-
-
-
 *	:ref:`Miscellaneous_Help_on_Window`  
 *	:ref:`Miscellaneous_Help_-_Contents_and_Index`  
 *	:ref:`Miscellaneous_AIMMSGettingStarted`  
-*	:ref:`Miscellaneous_AIMMS_Documentation`  
-*	:ref:`Miscellaneous_AIMMS_Documentation`  
-*	:ref:`Miscellaneous_AIMMS_Documentation`  
-*	:ref:`Miscellaneous_AIMMS_Documentation`  
-*	:ref:`Miscellaneous_AIMMS_Documentation`  
 *	:ref:`Options_Help_-_Project_Documentation`  
 *	:ref:`Miscellaneous_About_AIMMS_Dialog_Box`  
 

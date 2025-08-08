@@ -37,7 +37,7 @@ All possible combinations of options/values specified in a Tuner options file wi
 **Tuner Options File** 
 
 
-The Tuner options file is named 'knitro_tuner_file.txt' and should be placed in the directory of the AIMMS project. The option names used are the Knitro names. The Knitro name belonging to an AIMMS option can be found in the :ref:`KNITRO_AIMMS_to_KNITRO140_Mapping`  from AIMMS option names to Knitro option names.
+The Tuner options file is named 'knitro_tuner_file.txt' and should be placed in the directory of the AIMMS project. The option names used are the Knitro names. The Knitro name belonging to an AIMMS option can be found in the :ref:`KNITRO_AIMMS_to_KNITRO_Mapping`  from AIMMS option names to Knitro option names.
 
 
 
@@ -176,4 +176,4 @@ The Tuner output is written to the file 'knitro.log' if the option **Status File
 
 *	:ref:`KNITRO_Reporting_-_StatusFileDi`  
 *	:ref:`KNITRO_Tuner_-_Tuner`  
-*	:ref:`KNITRO_AIMMS_to_KNITRO140_Mapping`  
+*	:ref:`KNITRO_AIMMS_to_KNITRO_Mapping`  

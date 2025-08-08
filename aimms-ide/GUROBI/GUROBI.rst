@@ -33,45 +33,40 @@ l and u are vectors of lower and upper bounds, and
 
 ~ can be either <=, >=, or =.
 
+Some of the lower bounds may be –inf and some of the upper bounds may be inf. 
+The scalar value n will denote the number of variables and m the number of equations. 
+Gurobi can handle ranged constraints, i.e., constraints with both a finite lower and upper bound, 
+but it cannot handle (GMP) updates on the left-hand-side or right-hand-side of a ranged constraint.
 
-
-Some of the lower bounds may be –inf and some of the upper bounds may be inf. The scalar value n will denote the number of variables and m the number of equations. Gurobi 12.0 can handle ranged constraints, i.e., constraints with both a finite lower and upper bound, but it cannot handle (GMP) updates on the left-hand-side or right-hand-side of a ranged constraint.
-
-
-
-In the most basic linear optimization problem, the variables of the objective function are continuous in the mathematical sense, with no gaps between real values. Gurobi can also be used for solving linear programming problems in which some or all of the variables must assume integer values in the solution. Such problems are known as mixed integer programs or MIPs.
-
-
+In the most basic linear optimization problem, the variables of the objective function are continuous in the mathematical sense, with no gaps between real values. 
+Gurobi can also be used for solving linear programming problems in which some or all of the variables must assume integer values in the solution. 
+Such problems are known as mixed integer programs or MIPs.
 
 Gurobi can handle problems with multiple objectives; see the section :ref:`GUROBI_Multi-Objective_Optimization` .
 
+Gurobi can also handle certain problems in which the objective function is not linear but quadratic. 
+Such a problem is known as quadratic program or QP if the constraints are linear, 
+and it is known as quadratically constrained program or QCP if some of the constraints are quadratic. 
+Gurobi can also handle QP and QCP problems in which some or all variables must be integer. 
+Such problems are called mixed integer quadratic programs (MIQP) and mixed integer quadratically constrained programs (MIQCP) respectively. 
+Gurobi can also be used for some types of second-order cone constraints, and it can be used to solve programs with a non-convex quadratic objective and/or non-convex quadratic constraints; see the section about :ref:`GUROBI_Quadratic_Programs` .
 
+Gurobi can also handle problems in which the objective function and/or some or all of the constraints are nonlinear. It can handle nonlinear problems using continuous variables only (NLP) and nonlinear problems in which some or all variables must be integer (MINLP). Both problem types are solved to global optimality using a branch-and-bound algorithm. (Note: for some models both QCP and NLP are fitting model types, e.g., if the model only contains quadratic constraints and a linear objective. In that case the methods used by Gurobi for solving the model as QCP or NLP will be different.)
 
-Gurobi can also handle certain problems in which the objective function is not linear but quadratic. Such a problem is known as quadratic program or QP if the constraints are linear, and it is known as quadratically constrained program or QCP if some of the constraints are quadratic. Gurobi 12.0 can also handle QP and QCP problems in which some or all variables must be integer. Such problems are called mixed integer quadratic programs (MIQP) and mixed integer quadratically constrained programs (MIQCP) respectively. Gurobi 12.0 can also be used for some types of second-order cone constraints, and it can be used to solve programs with a non-convex quadratic objective and/or non-convex quadratic constraints; see the section about :ref:`GUROBI_Quadratic_Programs` .
+Gurobi is equipped with parameters that influence the performance of Gurobi. AIMMS is equipped with options that set the parameters in Gurobi.
+Options in AIMMS can be set in the options dialog box.
 
+Gurobi can perform a minimum-cost relaxation in order to make an infeasible model feasible. 
+More information about relaxing infeasible models can be found in the section :ref:`GUROBI_FeasRelax_Feasibility_Relaxation` .
 
+In Gurobi it is possible to use a solution as a MIP start by setting the option **MIP Start** . 
+Gurobi also supports :ref:`GUROBI_Multiple_MIP_Starts` . 
+Alternatively, you can use :ref:`GUROBI_Hints`  for variables in a MIP model. 
+MIP starts and Hints can also be used for NLP and MINLP.
 
-Gurobi 12.0 can also handle problems in which the objective function and/or some or all of the constraints are nonlinear. It can handle nonlinear problems using continuous variables only (NLP) and nonlinear problems in which some or all variables must be integer (MINLP). Both problem types are solved to global optimality using a branch-and-bound algorithm. (Note: for some models both QCP and NLP are fitting model types, e.g., if the model only contains quadratic constraints and a linear objective. In that case the methods used by Gurobi for solving the model as QCP or NLP will be different.)
+Gurobi can generate multiple solutions to a MIP problem. This is described in the section :ref:`GUROBI_Solution_Pool` .
 
-
-
-Gurobi is equipped with parameters that influence the performance of Gurobi. AIMMS is equipped with options that set the parameters in Gurobi. Options in AIMMS can be set in the options dialog box.
-
-
-
-Gurobi can perform a minimum-cost relaxation in order to make an infeasible model feasible. More information about relaxing infeasible models can be found in the section :ref:`GUROBI_FeasRelax_Feasibility_Relaxation` .
-
-
-
-In Gurobi it is possible to use a solution as a MIP start by setting the option **MIP Start** . Gurobi 12.0 also supports :ref:`GUROBI_Multiple_MIP_Starts` . Alternatively, you can use :ref:`GUROBI_Hints`  for variables in a MIP model. MIP starts and Hints can also be used for NLP and MINLP.
-
-
-
-Gurobi 12.0 can generate multiple solutions to a MIP problem. This is described in the section :ref:`GUROBI_Solution_Pool` .
-
-
-
-Gurobi 12.0 supports the :ref:`GUROBI_Tuning_Tool` , a utility to aid you in improving the performance of your optimization applications, analyzes a model or a group of models and suggests a suite of option settings for you to use that provide better performance than the default option settings for your model or group of models.
+Gurobi supports the :ref:`GUROBI_Tuning_Tool` , a utility to aid you in improving the performance of your optimization applications, analyzes a model or a group of models and suggests a suite of option settings for you to use that provide better performance than the default option settings for your model or group of models.
 
 
 
@@ -102,8 +97,8 @@ Gurobi requires that your computer's CPU supports SSE2. SSE2 was first introduce
 **Learn more about** 
 
 *	`GUROBI <https://www.gurobi.com/>`_ (Internet link)
-*	:ref:`GUROBI_GUROBI_12_0_to_AIMMS_Mapping`  
-*	:ref:`GUROBI_AIMMS_to_GUROBI_12_0_Mapping`  
+*	:ref:`GUROBI_GUROBI_to_AIMMS_Mapping`  
+*	:ref:`GUROBI_AIMMS_to_GUROBI_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	:ref:`GUROBI_FeasRelax_Feasibility_Relaxation` 
 *	:ref:`GUROBI_Hints` 

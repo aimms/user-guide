@@ -23,7 +23,6 @@ When you start AIMMS without a project, AIMMS will open in the start window. Fro
 **Learn more about** 
 
 *	:ref:`Miscellaneous_Solver_Configuration`  
-*	:ref:`Miscellaneous_Working_with_the_Help_System`  
 *	:ref:`Miscellaneous_Start_Window_Menubar`  
 *	:ref:`Miscellaneous_Start_Window_Toolbar`  
 

@@ -1,8 +1,4 @@
-
-
-.. _CPX221_Benders_Decomposition:
 .. _CPLEX_Benders_Decomposition:
-
 
 Benders Decomposition
 =====================

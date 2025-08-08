@@ -1,8 +1,4 @@
-
-
-.. _CPX221_SOS_Types:
 .. _CPLEX_SOS_Types:
-
 
 SOS Types
 =========

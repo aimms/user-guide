@@ -83,7 +83,7 @@ If the option **Concurrent MIP**  is set to a value greater than 1, then by swit
 
 **Note** 
 
-*	The parameter file uses Gurobi names instead of AIMMS names for the options. The :ref:`GUROBI_AIMMS_to_GUROBI_12_0_Mapping`  can be used to find the Gurobi parameter name corresponding to an option in AIMMS.
+*	The parameter file uses Gurobi names instead of AIMMS names for the options. The :ref:`GUROBI_AIMMS_to_GUROBI_Mapping`  can be used to find the Gurobi parameter name corresponding to an option in AIMMS.
 *	If the setting of an option was changed in the AIMMS project, and the option is not present in the parameter file, then the AIMMS option setting will be used. In other words, the parameter file does not reset options to their default value if they are not present in the parameter file.
 
 
@@ -91,7 +91,7 @@ If the option **Concurrent MIP**  is set to a value greater than 1, then by swit
 
 **Learn more about** 
 
-*	:ref:`GUROBI_AIMMS_to_GUROBI_12_0_Mapping`  
+*	:ref:`GUROBI_AIMMS_to_GUROBI_Mapping`  
 *	:ref:`GUROBI_Parallel_-_Concurrent_MIP` 
 *	:ref:`Options_MIP_Options_-_MIP_Relative_Opt` 
 *	:ref:`GUROBI_Multi-Objective_Optimization` 

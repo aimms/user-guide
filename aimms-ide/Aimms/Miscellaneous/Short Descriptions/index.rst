@@ -31,7 +31,6 @@ Short Descriptions
     Help_on_Window
     About_AIMMS_Dialog_Box
     AIMMS_Start_Window
-    Working_with_the_Help_System
     State_File_Manager
     Commit_Name_Changes
     Help_-_Contents_and_Index

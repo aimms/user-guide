@@ -1,10 +1,10 @@
 
 
-.. _AIMMS_to_ODH_5_3_Mapping:
-.. _ODH-CPLEX_AIMMS_to_ODH_5_3_Mapping:
+.. _AIMMS_to_ODH_Mapping:
+.. _ODH-CPLEX_AIMMS_to_ODH_Mapping:
 
 
-AIMMS to ODH 5.3 Mapping
+AIMMS to ODH Mapping
 ========================
 
 **ODH engine options** 
@@ -409,7 +409,7 @@ The two tables below show options used by ODH-CPLEX for the main CPLEX solve in 
 
 
 
-The table below shows Solvers General options that are mapped to ODH-CPLEX 5.3 parameters.
+The table below shows Solvers General options that are mapped to ODH-CPLEX parameters.
 
 
 

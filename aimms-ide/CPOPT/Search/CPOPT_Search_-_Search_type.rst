@@ -50,7 +50,7 @@ The default search strategy is different when at least four workers are used. Na
 
 
 
-The value 'Neighborhood' is new in CP Optimizer 22.1. If this value is selected then a local search method will be used on all workers. The local search method works on full assignments and so can explore assignments which violate constraints. By changing small parts of the current assignment, the search method tries to reduce the constraint violation. If the search finds a feasible solution (zero violations), the search will then also work on optimizing the objective. The search works best on lightly constrained problems. This feature is experimental, and will remain in Beta in CP Optimizer 22.1. Feedback is welcome at cos-beta@wwpdl.vnet.ibm.com.
+The value 'Neighborhood' is new in CP Optimizer If this value is selected then a local search method will be used on all workers. The local search method works on full assignments and so can explore assignments which violate constraints. By changing small parts of the current assignment, the search method tries to reduce the constraint violation. If the search finds a feasible solution (zero violations), the search will then also work on optimizing the objective. The search works best on lightly constrained problems. This feature is experimental, and will remain in Beta in CP Optimizer. Feedback is welcome at cos-beta@wwpdl.vnet.ibm.com.
 
 
 

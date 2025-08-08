@@ -1,13 +1,9 @@
-
-
-.. _CPX221_Multi_Objective_Optimization:
 .. _CPLEX_Multi_Objective_Optimization:
-
 
 Multi-Objective Optimization
 ============================
 
-CPLEX 22.1 allows you to define a mixture of blended and lexicographic (or hierarchical) objectives.
+CPLEX allows you to define a mixture of blended and lexicographic (or hierarchical) objectives.
 
 
 

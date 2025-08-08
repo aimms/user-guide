@@ -1,7 +1,7 @@
 
 
-.. _Path47_to_AIMMS_Mapping:
-.. _PATH_Path47_to_AIMMS_Mapping:
+.. _Path_to_AIMMS_Mapping:
+.. _PATH_Path_to_AIMMS_Mapping:
 
 
 Path to AIMMS Mapping

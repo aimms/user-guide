@@ -18,17 +18,4 @@ GUROBI
     GUROBI_Troubleshooting
     GUROBI_Tuning_Tool
     GUROBI_User_Cuts_and_Lazy_Constraints
-    General/index
-    Barrier/index
-    MIP/index
-    MIP Cuts/index
-    MIP Heuristics/index
-    MIP Presolve/index
-    Parallel/index
-    Presolve/index
-    Nonlinear/index
-    Quadratic/index
-    Simplex/index
-    Solution Pool/index
-    Tuning/index
-    Logging/index
+    GUROBI_Options

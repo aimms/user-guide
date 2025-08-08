@@ -1,5 +1,5 @@
-data\sphinx\Aimms
-=================
+AIMMS IDE
+===========================
 
 .. toctree::
     :maxdepth: 1

@@ -1,6 +1,3 @@
-
-
-.. _CPX221_Solution_Pool:
 .. _CPLEX_Solution_Pool:
 
 

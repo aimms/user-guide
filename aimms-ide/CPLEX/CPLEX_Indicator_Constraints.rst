@@ -1,6 +1,3 @@
-
-
-.. _CPX221_Indicator_Constraints:
 .. _CPLEX_Indicator_Constraints:
 
 
