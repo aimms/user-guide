@@ -1,7 +1,7 @@
 .. _KNITRO_Options:
 
 KNITRO Options
-=============
+==============
 
 .. toctree::
     :maxdepth: 1
