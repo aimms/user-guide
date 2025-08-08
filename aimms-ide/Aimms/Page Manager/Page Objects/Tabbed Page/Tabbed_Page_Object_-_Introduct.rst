@@ -3,8 +3,8 @@
 .. _Tabbed-Page_Tabbed_Page_Object_-_Introduct:
 
 
-Introduction
-============
+Tabbed Page Introduction
+===========================
 
 **Description** 
 

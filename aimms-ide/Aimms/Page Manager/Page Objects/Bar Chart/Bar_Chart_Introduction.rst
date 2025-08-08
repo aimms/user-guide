@@ -4,8 +4,8 @@
 .. _Bar-Chart_Bar_Chart_Introduction:
 
 
-Introduction
-============
+Bar Chart Introduction
+===========================
 
 **Description** 
 

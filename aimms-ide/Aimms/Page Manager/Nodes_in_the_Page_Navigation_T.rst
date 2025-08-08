@@ -3,9 +3,10 @@
 .. |img_def_pagetreereference_bmp| image:: images/pagetreereference.bmp
 .. |img_def_Page_Separator_bmp| image:: images/Page_Separator.bmp
 
+.. |check_mark| unicode:: U+2713
+   :trim:
 
 .. _Page-Manager_Nodes_in_the_Page_Navigation_T:
-
 
 Nodes in the Page Navigation Tree
 =================================
@@ -19,43 +20,30 @@ The Page Tree can contain different types of nodes, each representing a differen
 *	|img_def_pagetreereference_bmp| page tree reference nodes,
 *	|img_def_Page_Separator_bmp| page separator nodes.
 
-
-
-
 The following table shows the allowed parent-child relations in the Page Tree.
-
-
-
-
-
 
 .. list-table::
 
-   * -         Parentchild
+   * - Parentchild
      - Root
      - page
      - page tree reference
      - Separator
    * - page
-     - Ö
-     - Ö
+     - |check_mark|
+     - |check_mark|
      - 
      - 
    * - page tree reference
      - 
-     - Ö
+     - |check_mark|
      - 
      - 
    * - separator
      - 
-     - Ö
+     - |check_mark|
      - 
      - 
-
-
-
- 		
-
 
 
 

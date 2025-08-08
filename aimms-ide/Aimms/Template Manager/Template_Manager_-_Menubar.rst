@@ -39,10 +39,6 @@ From this Menubar, you can choose the following actions:
 
 
 *	:ref:`Template-Manager_Cut_Copy_and_Paste_in_the_Page`  
-*	:ref:`Template-Manager_Cut_Copy_and_Paste_in_the_Page`  
-*	:ref:`Template-Manager_Cut_Copy_and_Paste_in_the_Page`  
-*	:ref:`Template-Manager_Cut_Copy_and_Paste_in_the_Page`  
-*	:ref:`Template-Manager_Cut_Copy_and_Paste_in_the_Page`  
 *	:ref:`Page-Manager_User_Mode`  
 *	:ref:`Page-Manager_Edit_Mode`  
 *	:ref:`Page-Manager_Open_Page_without_Template`  

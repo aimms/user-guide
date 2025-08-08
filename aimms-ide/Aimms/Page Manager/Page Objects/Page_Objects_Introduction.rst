@@ -8,9 +8,11 @@ Page Objects Introduction
 
 **Description** 
 
-Each page of AIMMS can contain page objects. These objects consists of three main groups, the Active X objects, which are objects that are implemented by a third party and linked to AIMMS, AIMMS data objects, which can be used to display model data, navigate to other pages and execute AIMMS commands or model procedures, and the AIMMS drawing objects, whose only purpose is to improve the looks of a page.
-
-
+Each page of AIMMS can contain page objects. 
+These objects consists of three main groups, the Active X objects, which are objects that are implemented
+by a third party and linked to AIMMS, AIMMS data objects, which can be used to display model data, 
+navigate to other pages and execute AIMMS commands or model procedures, and the AIMMS drawing objects, 
+whose only purpose is to improve the looks of a page.
 
 **Active X Objects** 
 
@@ -20,9 +22,6 @@ Each page of AIMMS can contain page objects. These objects consists of three mai
 *   :ref:`Slider_Slider_-_Introduction`  
 *   :ref:`Calendar-Object_Calendar_-_Introduction`  
 *   :ref:`DateTimePicker_DateTimePicker_-_Introduction`  
-
-
-
 
 **Data Objects** 
 
@@ -42,10 +41,6 @@ Each page of AIMMS can contain page objects. These objects consists of three mai
 *   :ref:`Selection_Selection_Object_Introduction`  
 *   :ref:`Floating-Index_Floating_Index_Introduction`  
 *   :ref:`File-Name_File_Name_Introduction`  
-*   :ref:`Tabbed-Page_Tabbed_Page_Object_-_Introduct`  
-
-
-
 
 **Drawing Objects** 
 

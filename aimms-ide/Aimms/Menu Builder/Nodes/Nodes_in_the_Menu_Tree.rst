@@ -7,6 +7,9 @@
 .. |img_def_Root_Node_Closed_bmp| image:: images/Root_Node_Closed.bmp
 .. |img_def_Section_Node_Closed_bmp| image:: images/Section_Node_Closed.bmp
 
+.. |check_mark| unicode:: U+2713
+   :trim:
+
 
 .. _Menu-Builder_Nodes_in_the_Menu_Tree:
 
@@ -49,47 +52,47 @@ The following table shows the allowed parent-child relations in the Menu Tree.
      - Toolbar
      - Popup Menu
    * - Section
-     - ÖÖ
-     - ÖÖ
+     - |check_mark|
+     - |check_mark|
      - 
      - 
      - 
    * - Menubar
-     - ÖÖ
-     - ÖÖ
+     - |check_mark|
+     - |check_mark|
      - 
      - 
      - 
    * - Toolbar
-     - ÖÖ
-     - ÖÖ
+     - |check_mark|
+     - |check_mark|
      - 
      - 
      - 
    * - Popup menu
-     - ÖÖ
-     - ÖÖ
-     - ÖÖ
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
      - 
-     - ÖÖ
+     - |check_mark|
    * - menu item
      - 
      - 
      - 
-     - ÖÖ
-     - ÖÖ
+     - |check_mark|
+     - |check_mark|
    * - Navigator
      - 
      - 
      - 
      - 
-     - ÖÖ
+     - |check_mark|
    * - Separator
      - 
      - 
      - 
-     - ÖÖ
-     - ÖÖ
+     - |check_mark|
+     - |check_mark|
 
 
 

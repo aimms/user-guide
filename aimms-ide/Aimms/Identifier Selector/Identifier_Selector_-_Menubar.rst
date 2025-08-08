@@ -36,10 +36,6 @@ From this Menubar, you can choose the following actions:
 
 
 *	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
 *	:ref:`Identifier-Selector_Identifier_Selector`  
 *	:ref:`Miscellaneous_AIMMS_Trees`  
 *	:ref:`Identifier-Selector_Node_Selector`  

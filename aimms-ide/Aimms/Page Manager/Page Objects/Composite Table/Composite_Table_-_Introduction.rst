@@ -4,8 +4,8 @@
 .. _Composite-Table_Composite_Table_-_Introduction:
 
 
-Introduction
-============
+Composite Table Introduction
+=================================
 
 **Description** 
 

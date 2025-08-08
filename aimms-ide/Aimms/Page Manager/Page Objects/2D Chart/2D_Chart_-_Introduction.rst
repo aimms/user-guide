@@ -4,8 +4,8 @@
 .. _2D-Chart_2D_Chart_-_Introduction:
 
 
-Introduction
-============
+2D Chart Introduction
+======================
 
 **Description** 
 

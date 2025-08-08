@@ -4,8 +4,8 @@
 .. _Gantt-Chart_Gantt_Chart_Introduction:
 
 
-Introduction
-============
+Gantt Chart Introduction
+=========================
 
 **Description** 
 

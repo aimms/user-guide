@@ -35,12 +35,6 @@ From this Menubar, you can choose the following actions:
 *	:ref:`Miscellaneous_User_Change_Password` 
 *	:ref:`Miscellaneous_User_Logoff`  
 *	:ref:`Miscellaneous_Exit_AIMMS`  
-
-
-
-*	:ref:`Page-Manager_Cut_Copy_and_Paste_in_the_Page`  
-*	:ref:`Page-Manager_Cut_Copy_and_Paste_in_the_Page`  
-*	:ref:`Page-Manager_Cut_Copy_and_Paste_in_the_Page`  
 *	:ref:`Page-Manager_Cut_Copy_and_Paste_in_the_Page`  
 *	:ref:`Page-Manager_User_Mode`  
 *	:ref:`Page-Manager_Edit_Mode`  
@@ -50,8 +44,6 @@ From this Menubar, you can choose the following actions:
 *	:ref:`Page-Manager_Creating_a_Page`  
 *	:ref:`Miscellaneous_PageTreeRef`  
 *	:ref:`Page-Manager_Creating_a_Separator`  
-*	:ref:`Miscellaneous_PageTreeRef`  
-*	:ref:`Miscellaneous_PageTreeRef`  
 *	:ref:`Miscellaneous_PageTreeRef`  
 
 

@@ -1,6 +1,9 @@
 .. |img_def_Authorization_Level_Tree_Root_Node_bmp| image:: images/Authorization_Level_Tree_Root_Node.bmp
 .. |img_def_Authorization_Level_Tree_Authorization_Level_Node_bmp| image:: images/Authorization_Level_Tree_Authorization_Level_Node.bmp
 
+.. |check_mark| unicode:: U+2713
+   :trim:
+
 
 .. _Security_Nodes_in_the_Authorization_Lev:
 
@@ -34,7 +37,7 @@ The following table shows the allowed parent-child relations in the Authorizatio
      - 
      - 
    * - Authorization Level
-     - ÖÖ
+     - |check_mark|
      - 
 
 

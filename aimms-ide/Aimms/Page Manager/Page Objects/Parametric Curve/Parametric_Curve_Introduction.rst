@@ -4,8 +4,10 @@
 .. _Parametric-Curve_Parametric_Curve_Introduction:
 
 
-Introduction
-============
+Parametric Curve Introduction
+==============================
+
+.. note:: **Evolution:** Since AIMMS 4.88 no longer available, see `Parametric Curve no longer available release note <https://documentation.aimms.com/release-notes.html#id222>`_
 
 **Description** 
 

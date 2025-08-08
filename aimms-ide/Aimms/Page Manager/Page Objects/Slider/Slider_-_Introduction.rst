@@ -3,8 +3,8 @@
 .. _Slider_Slider_-_Introduction:
 
 
-Introduction
-============
+Slider Introduction
+=========================
 
 **Description** 
 

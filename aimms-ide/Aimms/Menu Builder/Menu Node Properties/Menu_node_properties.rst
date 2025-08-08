@@ -1,5 +1,7 @@
 .. |img_def_Properties_button_bmp| image:: images/Properties_button.bmp
 
+.. |check_mark| unicode:: U+2713
+   :trim:
 
 .. _Menu-Builder_Menu_node_properties:
 
@@ -67,12 +69,12 @@ Every node in the Menu Tree has different properties. The node property-incidenc
      - Separator
    * - Description
      - Name
-     - Ö
-     - Ö
-     - Ö
-     - Ö
-     - Ö
-     - Ö
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
      - 
    * - 
      - Shortcut key
@@ -80,17 +82,17 @@ Every node in the Menu Tree has different properties. The node property-incidenc
      - 
      - 
      - 
-     - Ö
+     - |check_mark|
      - 
      - 
    * - 
      - Comment
-     - Ö
-     - Ö
-     - Ö
-     - Ö
-     - Ö
-     - Ö
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
      - 
    * - 
      - Toolbar bitmap
@@ -98,7 +100,7 @@ Every node in the Menu Tree has different properties. The node property-incidenc
      - 
      - 
      - 
-     - Ö
+     - |check_mark|
      - 
      - 
    * - 
@@ -107,7 +109,7 @@ Every node in the Menu Tree has different properties. The node property-incidenc
      - 
      - 
      - 
-     - Ö
+     - |check_mark|
      - 
      - 
    * - Navigation
@@ -117,7 +119,7 @@ Every node in the Menu Tree has different properties. The node property-incidenc
      - 
      - 
      - 
-     - Ö
+     - |check_mark|
      - 
    * - Actions
      - Actions
@@ -125,16 +127,16 @@ Every node in the Menu Tree has different properties. The node property-incidenc
      - 
      - 
      - 
-     - Ö
-     - Ö
+     - |check_mark|
+     - |check_mark|
      - 
    * - Control
      - Disable
      - 
      - 
      - 
-     - Ö
-     - Ö
+     - |check_mark|
+     - |check_mark|
      - 
      - 
    * - 
@@ -143,7 +145,7 @@ Every node in the Menu Tree has different properties. The node property-incidenc
      - 
      - 
      - 
-     - Ö
+     - |check_mark|
      - 
      - 
    * - 
@@ -151,17 +153,17 @@ Every node in the Menu Tree has different properties. The node property-incidenc
      - 
      - 
      - 
-     - Ö
-     - Ö
+     - |check_mark|
+     - |check_mark|
      - 
-     - Ö
+     - |check_mark|
    * - 
      - GUI name
      - 
      - 
      - 
-     - Ö
-     - Ö
+     - |check_mark|
+     - |check_mark|
      - 
      - 
    * - 
@@ -169,7 +171,7 @@ Every node in the Menu Tree has different properties. The node property-incidenc
      - 
      - 
      - 
-     - Ö
+     - |check_mark|
      - 
      - 
      - 
@@ -179,7 +181,7 @@ Every node in the Menu Tree has different properties. The node property-incidenc
      - 
      - 
      - 
-     - Ö
+     - |check_mark|
      - 
      - 
    * - 
@@ -188,7 +190,7 @@ Every node in the Menu Tree has different properties. The node property-incidenc
      - 
      - 
      - 
-     - Ö
+     - |check_mark|
      - 
      - 
    * - 
@@ -197,7 +199,7 @@ Every node in the Menu Tree has different properties. The node property-incidenc
      - 
      - 
      - 
-     - Ö
+     - |check_mark|
      - 
      - 
 

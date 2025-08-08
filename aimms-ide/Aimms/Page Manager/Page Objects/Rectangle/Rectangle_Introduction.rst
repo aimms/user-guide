@@ -3,8 +3,8 @@
 .. _Rectangle_Rectangle_Introduction:
 
 
-Introduction
-============
+Rectangle Object Introduction
+=================================
 
 **Description** 
 

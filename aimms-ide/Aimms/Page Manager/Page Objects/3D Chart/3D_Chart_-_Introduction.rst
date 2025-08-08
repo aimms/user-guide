@@ -4,8 +4,8 @@
 .. _3D-Chart_3D_Chart_-_Introduction:
 
 
-Introduction
-============
+3D Chart Introduction
+========================
 
 **Description** 
 

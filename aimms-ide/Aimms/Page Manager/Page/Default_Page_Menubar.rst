@@ -45,10 +45,6 @@ From this menubar, you can choose the following actions:
 
 
 *	:ref:`Miscellaneous_Undo_Edit`  
-*	:ref:`Miscellaneous_Undo_Edit` 
-*	:ref:`Page-Manager_Cut_Copy_Paste_and_Delete`  
-*	:ref:`Page-Manager_Cut_Copy_Paste_and_Delete`  
-*	:ref:`Page-Manager_Cut_Copy_Paste_and_Delete`  
 *	:ref:`Page-Manager_Cut_Copy_Paste_and_Delete`  
 
 
@@ -59,10 +55,7 @@ From this menubar, you can choose the following actions:
 
 
 *	:ref:`Miscellaneous_Load_Case_Dialog_Box` 
-*	:ref:`Miscellaneous_Load_Case_Dialog_Box` 
-*	:ref:`Miscellaneous_Load_Case_Dialog_Box` 
 *	:ref:`Miscellaneous_New_Case`  
-*	:ref:`Miscellaneous_Save_Case_Dialog_box`  
 *	:ref:`Miscellaneous_Save_Case_Dialog_box` 
 
 

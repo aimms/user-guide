@@ -35,15 +35,7 @@ From this Menubar, you can choose the following actions:
 *	:ref:`Miscellaneous_User_Change_Password` 
 *	:ref:`Miscellaneous_User_Logoff`  
 *	:ref:`Miscellaneous_Exit_AIMMS`  
-
-
-
 *	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Miscellaneous_AIMMS_Trees`  
 *	:ref:`Miscellaneous_AIMMS_Trees`  
 *	:ref:`Menu-Builder_Menu_node_properties`  
 *	:ref:`Miscellaneous_AIMMS_Trees`  
@@ -52,8 +44,6 @@ From this Menubar, you can choose the following actions:
 *	:ref:`Menu-Builder_Creating_a_menu_bar`  
 *	:ref:`Menu-Builder_Creating_a_Tool_Bar`  
 *	:ref:`Menu-Builder_Creating_a_popup_menu`  
-*	:ref:`Menu-Builder_Nodes_in_the_Menu_Tree`  
-*	:ref:`Menu-Builder_Nodes_in_the_Menu_Tree`  
 *	:ref:`Menu-Builder_Nodes_in_the_Menu_Tree`  
 *	:ref:`Menu-Builder_Specifying_your_own_bitmap_on_`  
 

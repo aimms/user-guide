@@ -3,8 +3,8 @@
 .. _Picture_Bitmap_Object_-_Introduction:
 
 
-Introduction
-============
+Picture Object Introduction
+================================
 
 **Description** 
 

@@ -42,24 +42,15 @@ From this Menubar, you can choose the following actions:
 
 
 *	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
 *	:ref:`Model-Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Name_Changes`  
 *	:ref:`Model-Explorer_Changing_the_Node_Type`  
 *	:ref:`Model-Explorer_Model_Explorer_-_Section_Node`  
 *	:ref:`Model-Explorer_Model_Explorer_-_Declaration_S`  
 *	:ref:`Model-Explorer_Procedure_and_Function_Nodes`  
-*	:ref:`Model-Explorer_Procedure_and_Function_Nodes`  
-*	:ref:`Model-Explorer_Creating_New_Nodes`  
-*	:ref:`Model-Explorer_Creating_New_Nodes`  
-*	:ref:`Model-Explorer_Creating_New_Nodes`  
-*	:ref:`Model-Explorer_Creating_New_Nodes`  
 *	:ref:`Model-Explorer_Creating_New_Nodes`  
 *	:ref:`Page-Manager_Data_Page`  
 *	:ref:`Identifier-Selector_Opening_a_View_Window`  
-*	:ref:`Miscellaneous_Find__Replace`  
 *	:ref:`Miscellaneous_Find__Replace`  
 *	:ref:`Model-Explorer_Model_Explorer_Import`  
 *	:ref:`Model-Explorer_Model_Explorer_Export`  
@@ -78,19 +69,8 @@ From this Menubar, you can choose the following actions:
 
 *	:ref:`Diagnostic-Tools_Closing_the_Debugger`  
 *	:ref:`Diagnostic-Tools_Stepping_through_the_Execution`  
-*	:ref:`Diagnostic-Tools_Stepping_through_the_Execution`  
-*	:ref:`Diagnostic-Tools_Stepping_through_the_Execution`  
-*	:ref:`Diagnostic-Tools_Stepping_through_the_Execution`  
-*	:ref:`Diagnostic-Tools_Stepping_through_the_Execution`  
-*	:ref:`Diagnostic-Tools_Stepping_through_the_Execution`  
-*	:ref:`Diagnostic-Tools_Stepping_through_the_Execution`  
-*	:ref:`Diagnostic-Tools_Stepping_through_the_Execution`  
 *	:ref:`Diagnostic-Tools_Setting_a_Breakpoint`  
 *	:ref:`Diagnostic-Tools_Viewing_and_Modifying_Breakpoi`  
-*	:ref:`Diagnostic-Tools_Viewing_and_Modifying_Breakpoi`  
-*	:ref:`Diagnostic-Tools_Viewing_and_Modifying_Breakpoi`  
-*	:ref:`Diagnostic-Tools_Viewing_and_Modifying_Breakpoi`  
-*	:ref:`Diagnostic-Tools_Stepping_through_the_Execution`  
 *	:ref:`Diagnostic-Tools_Break_on_Error`  
 
 

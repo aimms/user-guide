@@ -4,8 +4,8 @@
 .. _Floating-Index_Floating_Index_Introduction:
 
 
-Introduction
-============
+Floating Index Introduction
+=================================
 
 **Description** 
 

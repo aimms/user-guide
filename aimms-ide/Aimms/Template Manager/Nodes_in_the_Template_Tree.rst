@@ -3,6 +3,10 @@
 .. |img_def_Page_bmp| image:: images/Page.bmp
 .. |img_def_Print_Page_bmp| image:: images/Print_Page.bmp
 
+.. |check_mark| unicode:: U+2713
+   :trim:
+
+
 
 .. _Template-Manager_Nodes_in_the_Template_Tree:
 
@@ -36,22 +40,15 @@ The following table shows the allowed parent-child relations in the Template Tre
      - template page
      - print template
    * - template
-     - Ö
-     - Ö
-     - Ö
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
    * - page
-     - Ö
-     - Ö
-     - Ö
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
    * - print template
-     - Ö
+     - |check_mark|
      - 
      - 
-
-
-
- 				
-
-
-
 

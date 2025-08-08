@@ -1,3 +1,5 @@
+.. |check_mark| unicode:: U+2713
+   :trim:
 
 
 .. _Model-Explorer_Nodes_in_the_Model_Tree:
@@ -27,30 +29,30 @@ The following table shows the allowed parent-child relations for the different m
      - procedure & function
      - identifier
    * - Module section
-     - Ö
-     - Ö
-     - Ö
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
      - 
      - 
      - 
    * - Module section
-     - Ö
-     - Ö
-     - Ö
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
      - 
-     - Ö
+     - |check_mark|
      - 
    * - declaration section 
-     - Ö
-     - Ö
-     - Ö
+     - |check_mark|
+     - |check_mark|
+     - |check_mark|
      - 
-     - Ö
+     - |check_mark|
      - 
    * - procedure & function
-     - Ö
-     - Ö
-     - Ö 1)
+     - |check_mark|
+     - |check_mark|
+     - |check_mark| 1)
      - 
      - 
      - 
@@ -58,7 +60,7 @@ The following table shows the allowed parent-child relations for the different m
      - 
      - 
      - 
-     - Ö
+     - |check_mark|
      - 
      - 
 

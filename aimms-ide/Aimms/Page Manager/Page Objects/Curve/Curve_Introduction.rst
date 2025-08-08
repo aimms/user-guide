@@ -5,8 +5,8 @@
 .. _Curve_Curve_Introduction:
 
 
-Introduction
-============
+Curve Introduction
+======================
 
 **Description** 
 
