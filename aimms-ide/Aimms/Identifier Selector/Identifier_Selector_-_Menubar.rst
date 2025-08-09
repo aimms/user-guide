@@ -42,7 +42,6 @@ From this Menubar, you can choose the following actions:
 *	:ref:`Identifier-Selector_Conditional_Selector`  
 *	:ref:`Identifier-Selector_Set_Dependency_Selector`  
 *	:ref:`Miscellaneous_AIMMS_Trees`  
-*	:ref:`Miscellaneous_AIMMS_Trees`  
 *	:ref:`Identifier-Selector_Opening_a_View_Window`  
 
 

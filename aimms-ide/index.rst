@@ -19,4 +19,3 @@ AIMMS and Solvers
     PATH/index
     SNOPT/index
     XA/index
-    CompLis/index
