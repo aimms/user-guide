@@ -3,8 +3,8 @@
 .. _Menu-Builder_Menu_Node_Properties_-_Actions:
 
 
-Actions
-=======
+Menu Actions
+================
 
 **Description** 
 

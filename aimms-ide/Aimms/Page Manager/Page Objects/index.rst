@@ -2,7 +2,7 @@ Page Objects
 ============
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
     Page_Objects_Introduction
     Page_Object_Properties

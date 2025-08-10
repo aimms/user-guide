@@ -3,8 +3,8 @@
 .. _Button_Button_Properties_-_Actions:
 
 
-Actions
-=======
+Button Actions
+==================
 
 **Description** 
 

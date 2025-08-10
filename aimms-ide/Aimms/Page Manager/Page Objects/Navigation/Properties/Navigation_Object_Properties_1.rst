@@ -3,12 +3,13 @@
 .. _Navigation_Navigation_Object_Properties_1:
 
 
-Actions
-=======
+Navigation Actions
+===================
 
 **Description** 
 
-The standard action of a Navigation object is the opening of the selected page. In addition to this you can specify other actions that should be performed before or after the page open action. You can specify these additional actions in a similar way as for the button object. The following actions are available:
+The standard action of a Navigation object is the opening of the selected page. 
+In addition to this you can specify other actions that should be performed before or after the page open action. You can specify these additional actions in a similar way as for the button object. The following actions are available:
 
 *	Open selected navigation page, this is the standard navigation action, and cannot be remove from the list.
 *	Run, this action runs a procedure. 
