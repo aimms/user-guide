@@ -6,21 +6,27 @@ IPOPT
 IPOPT (**I** nterior **P** oint **OPT** imizer) is a software package for large-scale nonlinear optimization. It is designed to find (local) solutions of mathematical optimization problems of the from 
 
 
+.. math::
+
+    \begin{array}{ll}
+    \text{minimize} & f(x) \\
+    x \in \mathbb{R}^n & \\
+    \text{subject to} & L_j \le g_j(x) \le U_j \quad j \in J \\
+    & l_i \le x_i \le u_i \quad i \in I
+    \end{array}
 
 
-
-
-.. list-table::
-
-   * - ``minimize`` x in Rn
-     - f(x)
-     - 
-   * - ``subject to`` 
-     - Lj ≤ gj(x) ≤ Uj
-     -  j Î J
-   * - 
-     - li ≤ xi ≤ ui 
-     -  i Î I
+.. .. list-table::
+.. 
+..    * - ``minimize`` x in Rn
+..      - f(x)
+..      - 
+..    * - ``subject to`` 
+..      - Lj ≤ gj(x) ≤ Uj
+..      -  j Î J
+..    * - 
+..      - li ≤ xi ≤ ui 
+..      -  i Î I
 
 
 

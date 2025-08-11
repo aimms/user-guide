@@ -3,43 +3,48 @@ BARON
 
 **Description** 
 
-BARON (Branch And Reduce Optimization Navigator) is a solver specifically designed for solving Global optimization problems, in particular nonlinear programming (NLP) problems and mixed integer nonlinear programming (MINLP) problems. MINLP problems can be expressed in the following form:
+BARON (Branch And Reduce Optimization Navigator) is a solver specifically designed for solving Global optimization problems, 
+in particular nonlinear programming (NLP) problems and mixed integer nonlinear programming (MINLP) problems. 
+
+MINLP problems can be expressed in the following form:
+
+.. math::
+
+    \begin{array}{ll}
+    \text{Minimize:} & f(x,y) \\
+    \text{Subject to:} & \\
+    & h(x,y) \le b \\
+    & Cx + Dy \le d \\
+    & l_1 \le x \le u_1, \quad x \text{ continuous} \\
+    & l_2 \le y \le u_2, \quad y \text{ integer}
+    \end{array}
 
 
-
-Minimize: f(x,y)
-
-Subject to:
-
-h(x,y) <= b
-
-Cx + Dy <= d
-
-l1 <= x <= u1, x continuous
-
-l2 <= y <= u2, y integer
+.. Minimize: f(x,y)
+.. 
+.. Subject to:
+.. 
+.. h(x,y) <= b
+.. 
+.. Cx + Dy <= d
+.. 
+.. l1 <= x <= u1, x continuous
+.. 
+.. l2 <= y <= u2, y integer
 
 
 
 where,
 
-x is the vector of continuous variables,
-
-y is the vector of integer variables,
-
-l1 and u1 are vectors of lower and upper bounds on the continuous variables,
-
-l2 and u2 are vectors of lower and upper bounds on the integer variables,
-
-f is a differentiable (nonlinear) function: the objective function,
-
-h is a vector of differentiable nonlinear functions,
-
-b is a vector of right-hand side values of the nonlinear constraints,
-
-C and D are matrices for the continuous and integer variables, and
-
-d is a vector of right-hand side values of the linear constraints.
+*   :math:`x` is the vector of continuous variables,
+*   :math:`y` is the vector of integer variables,
+*   :math:`l1` and :math:`u1` are vectors of lower and upper bounds on the continuous variables,
+*   :math:`l2` and :math:`u2` are vectors of lower and upper bounds on the integer variables,
+*   :math:`f` is a differentiable (nonlinear) function: the objective function,
+*   :math:`h` is a vector of differentiable nonlinear functions,
+*   :math:`b` is a vector of right-hand side values of the nonlinear constraints,
+*   :math:`C` and :math:`D` are matrices for the continuous and integer variables, and
+*   :math:`d` is a vector of right-hand side values of the linear constraints.
 
 
 
@@ -107,21 +112,21 @@ When using BARON, the general solvers option **Combine Quadratic Terms**  should
 
 **Learn more about** 
 
-*	`BARON <https://minlp.com>`_ (Internet link)
-*	:ref:`BARON_to_AIMMS_Mapping`  
-*	:ref:`AIMMS_to_BARON_Mapping`  
-*	:ref:`Options_AIMMS_Execution_Options`  
-*	:ref:`Baron_Convex_constraints` 
-*	:ref:`Baron_Relaxation_only_constr` 
-*	:ref:`Baron_General_-_Maximal_variable_bound` 
-*	:ref:`Options_NonlinPres_-_NonlinearPresolve` 
-*	:ref:`Options_Interface-CombineQuadratic`  
-*	:ref:`Baron_Variable_Priorities` 
-*	:ref:`Baron_Improving_MINLP_Performance` 
-*	:ref:`Baron_Termination_-_Absolute_terminat` 
-*	:ref:`Baron_General_-_Compute_IIS` 
-*	:ref:`Baron_General_-_Cutoff` 
-*	:ref:`Baron_Termination_-_Relative_terminat` 
+*   `BARON <https://minlp.com>`_ (Internet link)
+*   :ref:`BARON_to_AIMMS_Mapping`  
+*   :ref:`AIMMS_to_BARON_Mapping`  
+*   :ref:`Options_AIMMS_Execution_Options`  
+*   :ref:`Baron_Convex_constraints` 
+*   :ref:`Baron_Relaxation_only_constr` 
+*   :ref:`Baron_General_-_Maximal_variable_bound` 
+*   :ref:`Options_NonlinPres_-_NonlinearPresolve` 
+*   :ref:`Options_Interface-CombineQuadratic`  
+*   :ref:`Baron_Variable_Priorities` 
+*   :ref:`Baron_Improving_MINLP_Performance` 
+*   :ref:`Baron_Termination_-_Absolute_terminat` 
+*   :ref:`Baron_General_-_Compute_IIS` 
+*   :ref:`Baron_General_-_Cutoff` 
+*   :ref:`Baron_Termination_-_Relative_terminat` 
 
 
 

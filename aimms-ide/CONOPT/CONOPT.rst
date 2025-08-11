@@ -8,28 +8,32 @@ CONOPT
 CONOPT is a Generalized Reduced Gradient (GRG) algorithm specifically designed for large nonlinear programming problems expressed in the following form:
 
 
+.. math::
 
-Minimize or maximize: f(x)
+    \begin{array}{ll}
+    \text{Minimize or maximize:} & f(x) \\
+    \text{Subject to:} & \\
+    & G(x) = b \\
+    & l \le x \le u
+    \end{array}
 
-Subject to:
-
-G(x) = b
-
-l <= x <= u
+..  Minimize or maximize: f(x)
+..  
+..  Subject to:
+..  
+..  G(x) = b
+..  
+..  l <= x <= u
 
 
 
 where,
 
-x is the vector of variables,
-
-l and u are vectors of lower and upper bounds,
-
-b is a vector of right-hand side values,
-
-f is a differentiable (nonlinear) function, and
-
-G is a vector of differentiable nonlinear functions.
+*   :math:`x` is the vector of variables,
+*   :math:`l` and :math:`u` are vectors of lower and upper bounds,
+*   :math:`b` is a vector of right-hand side values,
+*   :math:`f` is a differentiable (nonlinear) function, and
+*   :math:`G` is a vector of differentiable nonlinear functions.
 
 
 
