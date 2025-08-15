@@ -8,11 +8,11 @@ Warning Stochastic Parameter in Index Domain Variable Constraint
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Strict_warning_default	
+**Default**:	Strict_warning_default	
 
 
 

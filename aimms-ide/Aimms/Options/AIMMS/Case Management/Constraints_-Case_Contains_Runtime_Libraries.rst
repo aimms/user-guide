@@ -8,11 +8,11 @@ Case Contains Runtime Libraries
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	The default for this option is on. 
+**Default**:	The default for this option is on. 
 
 
 

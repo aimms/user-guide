@@ -6,11 +6,11 @@ Norm Adjust
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{-1 .. 3}	
+**Range**:	{-1 .. 3}	
 
-**Default** :	-1	
+**Default**:	-1	
 
 
 

@@ -5,11 +5,11 @@ Scaling Method
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Largest term	
+**Default**:	Largest term	
 
 
 

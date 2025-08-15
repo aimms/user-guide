@@ -6,11 +6,11 @@ MIP Best Objective Stop
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[-1e100,1e100]	
+**Range**:	[-1e100,1e100]	
 
-**Default** :	1e100
+**Default**:	1e100
 
 
 

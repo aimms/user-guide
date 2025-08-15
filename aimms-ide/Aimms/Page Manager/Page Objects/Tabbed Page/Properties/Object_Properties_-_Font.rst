@@ -19,8 +19,8 @@ In the Font tab of an object you can select the font to be used for the object, 
 
 Every newly created object initially uses the default font. You can set this default font in the Font tab, using the small menu that appears when you press the |img_def_default_property_bmp| button. This menu contains two commands:
 
-*	Set as Default: this will set the currently selected font as the default font (that is used when a new object is created).
-*	Reset to Default: this will select the font that is currently used as default font.
+*	Set as **Default**: this will set the currently selected font as the default font (that is used when a new object is created).
+*	Reset to **Default**: this will select the font that is currently used as default font.
 
 
 

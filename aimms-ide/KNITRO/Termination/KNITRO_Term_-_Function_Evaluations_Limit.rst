@@ -6,11 +6,11 @@ Function Evaluations Limit
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{-1..1000000}	
+**Range**:	{-1..1000000}	
 
-**Default** :	-1	
+**Default**:	-1	
 
 
 

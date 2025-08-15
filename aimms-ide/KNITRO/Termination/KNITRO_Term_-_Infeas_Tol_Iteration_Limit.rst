@@ -6,11 +6,11 @@ Infeasibility Tolerance Iteration Limit
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{1..1000000}	
+**Range**:	{1..1000000}	
 
-**Default** :	50	
+**Default**:	50	
 
 
 

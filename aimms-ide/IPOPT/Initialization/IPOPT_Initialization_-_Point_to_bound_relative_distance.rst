@@ -8,11 +8,11 @@ Point to bound relative distance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,0.5]	
+**Range**:	[0,0.5]	
 
-**Default** :	0.01	
+**Default**:	0.01	
 
 
 

@@ -4,11 +4,11 @@
 Feasopt Tolerance
 =================
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,inf)	
+**Range**:	[0,inf)	
 
-**Default** :	1e-6	
+**Default**:	1e-6	
 
 
 

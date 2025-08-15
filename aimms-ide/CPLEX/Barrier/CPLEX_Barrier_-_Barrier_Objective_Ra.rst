@@ -6,11 +6,11 @@ Barrier Objective Range
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-10, inf)	
+**Range**:	[1e-10, inf)	
 
-**Default** :	1e20	
+**Default**:	1e20	
 
 
 

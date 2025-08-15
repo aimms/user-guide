@@ -6,11 +6,11 @@ Primal Pricing Algorithm
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Hybrid + Devex	
+**Default**:	Hybrid + Devex	
 
 
 

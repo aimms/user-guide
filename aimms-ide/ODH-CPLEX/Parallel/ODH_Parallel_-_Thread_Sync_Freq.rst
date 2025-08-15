@@ -6,11 +6,11 @@ Thread Synchronization Frequency
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	High	
+**Default**:	High	
 
 
 

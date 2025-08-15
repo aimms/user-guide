@@ -8,11 +8,11 @@ Postsolve Integer Variables
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Round integers and resolve LP	
+**Default**:	Round integers and resolve LP	
 
 
 

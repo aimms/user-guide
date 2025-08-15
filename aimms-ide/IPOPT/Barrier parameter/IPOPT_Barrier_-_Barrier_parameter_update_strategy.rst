@@ -8,11 +8,11 @@ Barrier parameter update strategy
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Monotone	
+**Default**:	Monotone	
 
 
 

@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Line_search_-_Corrector_steps_type:
+.. _IPOPT_Line_search_-_Corrector_steps_**Type**:
 
 
 Corrector steps type
@@ -8,11 +8,11 @@ Corrector steps type
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	None	
+**Default**:	None	
 
 
 

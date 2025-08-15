@@ -8,11 +8,11 @@ Maximal variable bound
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0.0,1e51]	
+**Range**:	[0.0,1e51]	
 
-**Default** :	1e50	
+**Default**:	1e50	
 
 
 

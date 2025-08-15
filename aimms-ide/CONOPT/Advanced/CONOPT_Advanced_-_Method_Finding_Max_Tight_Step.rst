@@ -6,11 +6,11 @@ Method for Finding Maximal Tight Step
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Standard ratio test method	
+**Default**:	Standard ratio test method	
 
 
 

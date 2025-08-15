@@ -6,11 +6,11 @@ Barrier Start Algorithm
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Default primal, dual pi is 0	
+**Default**:	Default primal, dual pi is 0	
 
 
 

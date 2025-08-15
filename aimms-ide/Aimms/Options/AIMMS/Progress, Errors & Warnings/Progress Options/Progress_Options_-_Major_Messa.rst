@@ -8,11 +8,11 @@ Major Messages
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	No major messages	
+**Default**:	No major messages	
 
 
 

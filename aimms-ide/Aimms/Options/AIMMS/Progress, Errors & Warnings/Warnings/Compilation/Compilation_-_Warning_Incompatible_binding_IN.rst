@@ -8,11 +8,11 @@ Warning Incompatible Binding IN
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Warning_in_develop_else_off	
+**Default**:	Warning_in_develop_else_off	
 
 
 
@@ -69,7 +69,7 @@ An example of such a situation arises in the definition of pcard in the followin
 
 ``Index: sm;`` 
 
-``Range: RootSet;`` 
+``**Range**: RootSet;`` 
 
 ``InitialData: data { 3, 4 };`` 
 
@@ -79,7 +79,7 @@ An example of such a situation arises in the definition of pcard in the followin
 
 ``Index: i;`` 
 
-``Range: RootSet;`` 
+``**Range**: RootSet;`` 
 
 ``InitialData: data { i1 : { 1, 3, 5 }, i2 : { 6, 7 } };`` 
 

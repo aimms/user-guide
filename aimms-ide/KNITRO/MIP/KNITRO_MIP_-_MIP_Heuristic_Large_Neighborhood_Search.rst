@@ -5,11 +5,11 @@ MIP Heuristic Large Neighborhood Search
 
 
 
-**Type** :	Bit Selection	
+**Type**:	Bit Selection	
 
-**Range** :	{-1..3}	
+**Range**:	{-1..3}	
 
-**Default** :	-1
+**Default**:	-1
 
 
 

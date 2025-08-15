@@ -6,11 +6,11 @@ Extra Memory
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..:ref:`Miscellaneous_Maxint`  }	
+**Range**:	{0..:ref:`Miscellaneous_Maxint`  }	
 
-**Default** :	1048576	
+**Default**:	1048576	
 
 
 

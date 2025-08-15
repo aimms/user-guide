@@ -6,11 +6,11 @@ Polishing Absolute MIP Gap
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,inf)	
+**Range**:	[0,inf)	
 
-**Default** :	0	
+**Default**:	0	
 
 
 

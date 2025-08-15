@@ -6,11 +6,11 @@ Restart growth factor
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1,inf)	
+**Range**:	[1,inf)	
 
-**Default** :	1.05	
+**Default**:	1.05	
 
 
 

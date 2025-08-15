@@ -8,11 +8,11 @@ Differencing Delta
 
 
 
-Type:	Floating point number	
+**Type**:	Floating point number	
 
-Range:	(-inf, inf)	
+**Range**:	(-inf, inf)	
 
-Default:	1.0e-6	
+**Default**:	1.0e-6	
 
 
 

@@ -6,11 +6,11 @@ Convergence Tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-15, 1e6]	
+**Range**:	[1e-15, 1e6]	
 
-**Default** :	1e-06	
+**Default**:	1e-06	
 
 
 

@@ -6,11 +6,11 @@ Difference Objective
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	(-inf, inf)	
+**Range**:	(-inf, inf)	
 
-**Default** :	0	
+**Default**:	0	
 
 
 

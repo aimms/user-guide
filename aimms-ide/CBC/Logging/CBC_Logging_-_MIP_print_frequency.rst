@@ -6,11 +6,11 @@ MIP print frequency
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0 .. 999999}	
+**Range**:	{0 .. 999999}	
 
-**Default** :	0	
+**Default**:	0	
 
 
 

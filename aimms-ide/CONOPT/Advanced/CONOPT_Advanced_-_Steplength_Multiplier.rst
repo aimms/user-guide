@@ -6,11 +6,11 @@ Steplength Multiplier
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[2,100]	
+**Range**:	[2,100]	
 
-**Default** :	4	
+**Default**:	4	
 
 
 

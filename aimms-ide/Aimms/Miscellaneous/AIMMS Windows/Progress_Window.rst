@@ -29,7 +29,7 @@ The following fields are in the Progress window:
 *	# Constraints: The number of individual constraints. Note: The predeclared identifier CurrentMatrixRowCount contains the number of rows for the last mathematical program generated.
 *	# Variables: The number of individual variables. If the model contains integer variables then in brackets the number of individual integer variables is shown. Note: The predeclared identifier CurrentMatrixColumnCount contains the number of columns for the last mathematical program generated. Note that the information in the progress window includes slack variables, when used, while the identifier CurrentMatrixColumnCount does not include slacks.
 *	# Nonzeros: The number of nonzero coefficients in the Jacobian matrix. Note: The predeclared identifier CurrentMatrixBlockSizes contains the number of non-zeros for the last mathematical program generated. Note that the information in the progress window includes slack variables, when used, while the identifier CurrentMatrixBlockSizes does not include slacks.
-*	Model Type: The type of the model: LP, LS, NLP, NLS, MIP, RMIP, QP, QCP, MIQP, MIQCP, MINLP, RMINLP, MCP, MPCC, or network.
+*	Model **Type**: The type of the model: LP, LS, NLP, NLS, MIP, RMIP, QP, QCP, MIQP, MIQCP, MINLP, RMINLP, MCP, MPCC, or network.
 *	Direction: The direction of the model: minimize, maximize or feasible solution.
 *	Solver: The name of the solver that is called to solve the model.
 *	Phase: The current phase of the solution process, e.g. 'Simplex', 'Postsolve'.

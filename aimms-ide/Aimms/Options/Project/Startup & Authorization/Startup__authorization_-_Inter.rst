@@ -8,9 +8,9 @@ Interrupt Procedure
 
 
 
-Type:	Name of a procedure	
+**Type**:	Name of a procedure	
 
-Default:	-	
+**Default**:	-	
 
 
 

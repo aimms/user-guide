@@ -8,11 +8,11 @@ Memory Bin Limit
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{ 0 … 4096 }	
+**Range**:	{ 0 … 4096 }	
 
-Default:	1024	
+**Default**:	1024	
 
 
 

@@ -6,11 +6,11 @@ MIP Heuristic Diving
 
 
 
-**Type** :	Bit Selection	
+**Type**:	Bit Selection	
 
-**Range** :	{-1..31}	
+**Range**:	{-1..31}	
 
-**Default** :	-1
+**Default**:	-1
 
 
 

@@ -8,11 +8,11 @@ Warning Comparing Elements Different Sets
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Warning_in_develop_else_off
+**Default**:	Warning_in_develop_else_off
 
 
 

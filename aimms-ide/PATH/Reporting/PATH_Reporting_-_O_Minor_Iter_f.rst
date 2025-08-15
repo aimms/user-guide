@@ -6,11 +6,11 @@ Output Minor Iterations Frequency
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{1 .. 1000000}	
+**Range**:	{1 .. 1000000}	
 
-**Default** :	500	
+**Default**:	500	
 
 
 

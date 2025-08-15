@@ -6,11 +6,11 @@ Objective Scale
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[-1,1e100]	
+**Range**:	[-1,1e100]	
 
-**Default** :	0
+**Default**:	0
 
 
 

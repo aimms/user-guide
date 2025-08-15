@@ -5,11 +5,11 @@ Check 1st Order Derivatives
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{-1..:ref:`Miscellaneous_Maxint` }		
+**Range**:	{-1..:ref:`Miscellaneous_Maxint` }		
 
-**Default** :	0	
+**Default**:	0	
 
 
 

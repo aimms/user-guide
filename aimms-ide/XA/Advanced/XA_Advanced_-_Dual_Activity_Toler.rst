@@ -6,11 +6,11 @@ Dual Activity Tolerance
 
 
 
-**Type** :	Real	
+**Type**:	Real	
 
-**Range** :	[0,1]	
+**Range**:	[0,1]	
 
-**Default** :	1e-7	
+**Default**:	1e-7	
 
 
 

@@ -8,11 +8,11 @@ MA57 pivot order
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..5}	
+**Range**:	{0..5}	
 
-**Default** :	5	
+**Default**:	5	
 
 
 

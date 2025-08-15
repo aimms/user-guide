@@ -6,11 +6,11 @@ MIP Emphasis
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Balance optimality and feasibility	
+**Default**:	Balance optimality and feasibility	
 
 
 

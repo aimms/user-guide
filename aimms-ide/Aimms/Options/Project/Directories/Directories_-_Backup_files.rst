@@ -8,9 +8,9 @@ Backup Files
 
 
 
-Type:	Name of a directory	
+**Type**:	Name of a directory	
 
-Default:	Backup	
+**Default**:	Backup	
 
 
 

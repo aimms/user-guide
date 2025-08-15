@@ -6,11 +6,11 @@ Preprocessing Reduction Types
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Both primal and dual reductions	
+**Default**:	Both primal and dual reductions	
 
 
 

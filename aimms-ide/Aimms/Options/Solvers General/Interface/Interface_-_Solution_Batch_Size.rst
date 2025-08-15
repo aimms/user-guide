@@ -8,11 +8,11 @@ Solution Batch Size
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{10..10000000}	
+**Range**:	{10..10000000}	
 
-Default:	1000000	
+**Default**:	1000000	
 
 
 

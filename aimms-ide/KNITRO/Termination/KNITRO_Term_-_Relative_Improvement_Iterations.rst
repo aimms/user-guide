@@ -6,11 +6,11 @@ Relative Improvement Iterations
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{1..1000000}	
+**Range**:	{1..1000000}	
 
-**Default** :	5
+**Default**:	5
 
 
 

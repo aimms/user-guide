@@ -8,11 +8,11 @@ XML Number Width
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{-1..32}	
+**Range**:	{-1..32}	
 
-Default:	0	
+**Default**:	0	
 
 
 

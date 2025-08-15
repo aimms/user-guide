@@ -8,11 +8,11 @@ Equality Relative Tolerance
 
 
 
-Type:	Floating point number	
+**Type**:	Floating point number	
 
-Range:	[0.0, 0.9]	
+**Range**:	[0.0, 0.9]	
 
-Default:	1e-13	
+**Default**:	1e-13	
 
 
 

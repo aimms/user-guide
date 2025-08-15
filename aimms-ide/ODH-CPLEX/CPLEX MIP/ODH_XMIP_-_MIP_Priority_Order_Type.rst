@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_MIP_Priority_Order_Type:
+.. _ODH-CPLEX_XMIP_-_MIP_Priority_Order_**Type**:
 
 
 MIP Priority Order Type
@@ -6,11 +6,11 @@ MIP Priority Order Type
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	On	
+**Default**:	On	
 
 
 

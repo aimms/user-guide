@@ -6,11 +6,11 @@ Polishing Number of Solutions
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{1 .. 2147483647}	
+**Range**:	{1 .. 2147483647}	
 
-**Default** :	2147483647	
+**Default**:	2147483647	
 
 
 

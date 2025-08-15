@@ -8,11 +8,11 @@ Feasibility Relaxation Objective
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Sum of violations	
+**Default**:	Sum of violations	
 
 
 

@@ -8,11 +8,11 @@ Ident Memory Minimum Dimension for Separate Manager
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{ 2 … 32 }	
+**Range**:	{ 2 … 32 }	
 
-Default:	3
+**Default**:	3
 
 
 

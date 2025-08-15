@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Search_type:
+.. _CPOPT_Search_-_Search_**Type**:
 
 
 Search type
@@ -6,11 +6,11 @@ Search type
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Automatic
+**Default**:	Automatic
 
 
 

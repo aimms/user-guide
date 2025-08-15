@@ -6,11 +6,11 @@ Linesearch Tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1]	
+**Range**:	[0,1]	
 
-**Default** :	0.9	
+**Default**:	0.9	
 
 
 

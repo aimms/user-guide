@@ -8,9 +8,9 @@ Startup Page
 
 
 
-Type:	Name of a page	
+**Type**:	Name of a page	
 
-Default:	-	
+**Default**:	-	
 
 
 

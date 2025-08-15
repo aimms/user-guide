@@ -1,4 +1,4 @@
-.. _PATH_Advanced_-_NMS_Search_Type:
+.. _PATH_Advanced_-_NMS_Search_**Type**:
 
 
 NMS Search Type
@@ -6,11 +6,11 @@ NMS Search Type
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Line	
+**Default**:	Line	
 
 
 

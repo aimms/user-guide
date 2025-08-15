@@ -6,11 +6,11 @@ Recurse Iteration Limit
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0 .. 2100000000}	
+**Range**:	{0 .. 2100000000}	
 
-**Default** :	40	
+**Default**:	40	
 
 
 

@@ -8,11 +8,11 @@ External string character encoding
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The predeclared set AllCharacterEncodings	
+**Range**:	The predeclared set AllCharacterEncodings	
 
-Default:	Utf8	
+**Default**:	Utf8	
 
 
 

@@ -8,11 +8,11 @@ Use Empty Toolbar instead of None
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	One of the values listed below 	
+**Range**:	One of the values listed below 	
 
-Default:	Never
+**Default**:	Never
 
 
 

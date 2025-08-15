@@ -8,11 +8,11 @@ Constraint Listing Filter Out Feasible Constraints
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	All constraints	
+**Default**:	All constraints	
 
 
 

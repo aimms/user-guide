@@ -6,11 +6,11 @@ Number of Simplex Iterations
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0 .. 2147483647}	
+**Range**:	{0 .. 2147483647}	
 
-**Default** :	0	
+**Default**:	0	
 
 
 

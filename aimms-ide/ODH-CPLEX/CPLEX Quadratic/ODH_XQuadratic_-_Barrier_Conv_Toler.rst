@@ -6,11 +6,11 @@ Barrier Convergence Tolerance for QCP
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-12,inf)	
+**Range**:	[1e-12,inf)	
 
-**Default** :	1e-7	
+**Default**:	1e-7	
 
 
 

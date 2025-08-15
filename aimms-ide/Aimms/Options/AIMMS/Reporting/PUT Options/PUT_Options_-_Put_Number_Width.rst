@@ -8,11 +8,11 @@ Put Number Width
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{0..20}	
+**Range**:	{0..20}	
 
-Default:	12	
+**Default**:	12	
 
 
 

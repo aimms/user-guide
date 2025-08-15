@@ -8,11 +8,11 @@ Point to bound absolute distance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1e+019]	
+**Range**:	[0,1e+019]	
 
-**Default** :	0.01	
+**Default**:	0.01	
 
 
 

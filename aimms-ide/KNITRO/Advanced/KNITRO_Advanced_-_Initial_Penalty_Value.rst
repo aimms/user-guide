@@ -6,11 +6,11 @@ Initial Penalty Value
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1e20]	
+**Range**:	[0,1e20]	
 
-**Default** :	10	
+**Default**:	10	
 
 
 

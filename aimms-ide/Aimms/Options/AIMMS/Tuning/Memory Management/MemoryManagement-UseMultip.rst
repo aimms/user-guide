@@ -3,11 +3,11 @@
 Use Multiple Memory Managers
 ============================
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	One of the settings listed below	
+**Range**:	One of the settings listed below	
 
-Default:	On	
+**Default**:	On	
 
 When this option is switched on, high dimensional identifiers and generated mathematical programs get their own memory manager. 
 A memory manager manages a collection of memory pools. 

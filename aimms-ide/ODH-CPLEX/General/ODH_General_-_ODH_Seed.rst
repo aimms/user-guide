@@ -6,11 +6,11 @@ ODH Seed
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0 .. 2100000000}	
+**Range**:	{0 .. 2100000000}	
 
-**Default** :	1234
+**Default**:	1234
 
 
 

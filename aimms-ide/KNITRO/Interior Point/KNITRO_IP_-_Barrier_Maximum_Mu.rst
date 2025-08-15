@@ -6,11 +6,11 @@ Barrier Maximum Mu
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1e20]	
+**Range**:	[0,1e20]	
 
-**Default** :	1e16	
+**Default**:	1e16	
 
 
 

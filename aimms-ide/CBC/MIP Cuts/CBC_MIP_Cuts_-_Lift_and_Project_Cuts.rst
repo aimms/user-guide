@@ -6,11 +6,11 @@ Lift and project cuts
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Off	
+**Default**:	Off	
 
 
 

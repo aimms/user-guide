@@ -6,11 +6,11 @@ Strong branching
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0 .. 999999}	
+**Range**:	{0 .. 999999}	
 
-**Default** :	5	
+**Default**:	5	
 
 
 

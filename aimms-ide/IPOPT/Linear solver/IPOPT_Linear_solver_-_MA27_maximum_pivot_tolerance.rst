@@ -8,11 +8,11 @@ MA27 maximum pivot tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1]	
+**Range**:	[0,1]	
 
-**Default** :	0.0001	
+**Default**:	0.0001	
 
 
 

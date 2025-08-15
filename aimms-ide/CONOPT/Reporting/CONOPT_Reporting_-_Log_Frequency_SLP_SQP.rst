@@ -5,11 +5,11 @@ Log Frequency SLP and SQP
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{1..:ref:`Miscellaneous_Maxint` }	
+**Range**:	{1..:ref:`Miscellaneous_Maxint` }	
 
-**Default** :	1	
+**Default**:	1	
 
 
 

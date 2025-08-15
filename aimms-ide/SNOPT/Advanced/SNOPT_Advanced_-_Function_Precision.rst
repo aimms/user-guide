@@ -6,11 +6,11 @@ Function Precision
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1] + {na}	
+**Range**:	[0,1] + {na}	
 
-**Default** :	na	
+**Default**:	na	
 
 
 

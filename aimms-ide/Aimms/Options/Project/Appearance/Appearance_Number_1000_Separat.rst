@@ -8,11 +8,11 @@ Number 1000 Separator
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Comma (1,000,000)	
+**Default**:	Comma (1,000,000)	
 
 
 

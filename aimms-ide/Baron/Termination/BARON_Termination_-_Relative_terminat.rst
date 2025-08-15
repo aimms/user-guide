@@ -6,11 +6,11 @@ Relative termination tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-9,1e51]	
+**Range**:	[1e-9,1e51]	
 
-**Default** :	1e-6	
+**Default**:	1e-6	
 
 
 

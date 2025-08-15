@@ -6,11 +6,11 @@ Relative Objective Accuracy
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[3e-14,1e-6]
+**Range**:	[3e-14,1e-6]
 
-**Default** :	3e-13	
+**Default**:	3e-13	
 
 
 

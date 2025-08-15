@@ -6,11 +6,11 @@ Search Mode
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Optimal solution	
+**Default**:	Optimal solution	
 
 
 

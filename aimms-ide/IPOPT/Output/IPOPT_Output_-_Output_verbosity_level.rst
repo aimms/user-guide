@@ -8,11 +8,11 @@ Output verbosity level
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..12}	
+**Range**:	{0..12}	
 
-**Default** :	5	
+**Default**:	5	
 
 
 

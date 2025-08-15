@@ -8,11 +8,11 @@ Display Column Width
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{0..40}	
+**Range**:	{0..40}	
 
-Default:	0	
+**Default**:	0	
 
 
 

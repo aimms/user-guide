@@ -5,11 +5,11 @@ Maximal Feasibility Tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-10,0.001]	
+**Range**:	[1e-10,0.001]	
 
-**Default** :	1e-7	
+**Default**:	1e-7	
 
 
 

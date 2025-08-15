@@ -8,11 +8,11 @@ Presolve Remove Duplicate Variables
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	On	
+**Default**:	On	
 
 
 

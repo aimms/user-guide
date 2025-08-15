@@ -8,11 +8,11 @@ Auto Rebuild Minimum Difference Absolute
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{ 1048576 … :ref:`Miscellaneous_Maxint`  }	
+**Range**:	{ 1048576 … :ref:`Miscellaneous_Maxint`  }	
 
-Default:	104857600	
+**Default**:	104857600	
 
 
 

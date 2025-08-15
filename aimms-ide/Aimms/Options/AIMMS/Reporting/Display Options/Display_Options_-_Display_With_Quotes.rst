@@ -8,11 +8,11 @@ Display Elements With Quotes
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	One of the settings listed below	
+**Range**:	One of the settings listed below	
 
-Default:	If Needed
+**Default**:	If Needed
 
 
 

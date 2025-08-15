@@ -8,11 +8,11 @@ Linear decrease factor barrier parameter
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1]	
+**Range**:	[0,1]	
 
-**Default** :	0.2	
+**Default**:	0.2	
 
 
 

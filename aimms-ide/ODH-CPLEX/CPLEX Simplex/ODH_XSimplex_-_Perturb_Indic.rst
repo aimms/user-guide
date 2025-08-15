@@ -6,11 +6,11 @@ Perturbation Indicator
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	One of the settings listed below	
+**Range**:	One of the settings listed below	
 
-**Default** :	When needed	
+**Default**:	When needed	
 
 
 

@@ -9,11 +9,11 @@ Damping Parameter
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0.0001,1000]	
+**Range**:	[0.0001,1000]	
 
-**Default** :	2.0
+**Default**:	2.0
 
 
 

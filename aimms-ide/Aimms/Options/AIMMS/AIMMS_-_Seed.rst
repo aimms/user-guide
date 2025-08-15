@@ -8,11 +8,11 @@ Seed
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{1..:ref:`Miscellaneous_Maxint`  }	
+**Range**:	{1..:ref:`Miscellaneous_Maxint`  }	
 
-Default:	3141	
+**Default**:	3141	
 
 
 

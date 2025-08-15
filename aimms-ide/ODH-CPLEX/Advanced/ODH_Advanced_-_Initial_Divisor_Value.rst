@@ -6,11 +6,11 @@ Initial Divisor Value
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{1 .. 2100000000}	
+**Range**:	{1 .. 2100000000}	
 
-**Default** :	4
+**Default**:	4
 
 
 

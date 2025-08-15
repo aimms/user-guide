@@ -8,11 +8,11 @@ Maximal Number of Integer Solutions
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{1..2100000000}	
+**Range**:	{1..2100000000}	
 
-Default:	2100000000	
+**Default**:	2100000000	
 
 
 

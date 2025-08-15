@@ -6,11 +6,11 @@ Lower Integer Tolerance
 
 
 
-**Type** :	Real	
+**Type**:	Real	
 
-**Range** :	[0,0.5]	
+**Range**:	[0,0.5]	
 
-**Default** :	5e-6	
+**Default**:	5e-6	
 
 
 

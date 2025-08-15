@@ -6,11 +6,11 @@ Node File
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	In memory and compressed	
+**Default**:	In memory and compressed	
 
 
 

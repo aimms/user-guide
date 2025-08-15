@@ -6,11 +6,11 @@ LU Update Tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1,1e20] + {na}	
+**Range**:	[1,1e20] + {na}	
 
-**Default** :	na	
+**Default**:	na	
 
 
 

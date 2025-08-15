@@ -6,11 +6,11 @@ Barrier Growth Limit
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1, inf)	
+**Range**:	[1, inf)	
 
-**Default** :	1e12	
+**Default**:	1e12	
 
 
 

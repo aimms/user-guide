@@ -6,11 +6,11 @@ NMS Number of Watchdog Steps
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0 .. 1000000}	
+**Range**:	{0 .. 1000000}	
 
-**Default** :	5	
+**Default**:	5	
 
 
 

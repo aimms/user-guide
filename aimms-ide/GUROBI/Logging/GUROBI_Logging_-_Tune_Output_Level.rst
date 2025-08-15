@@ -6,11 +6,11 @@ Tune Output Level
 
 
 
-**Type:** 	Integer
+**Type**: 	Integer
 
-**Range:** 	{0 .. 3}
+**Range**: 	{0 .. 3}
 
-**Default:** 	2
+**Default**: 	2
 
 
 

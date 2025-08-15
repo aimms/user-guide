@@ -6,11 +6,11 @@ Network Feasibility
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-11, 1e-4]	
+**Range**:	[1e-11, 1e-4]	
 
-**Default** :	1e-6	
+**Default**:	1e-6	
 
 
 

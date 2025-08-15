@@ -6,11 +6,11 @@ Presolve Activity Types
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..8191}	
+**Range**:	{0..8191}	
 
-**Default** :	2047	
+**Default**:	2047	
 
 
 

@@ -6,11 +6,11 @@ Pricing
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Standard reduced cost pricing	
+**Default**:	Standard reduced cost pricing	
 
 
 

@@ -6,11 +6,11 @@ Initial Perturbation
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0, 1e6]	
+**Range**:	[0, 1e6]	
 
-**Default** :	0	
+**Default**:	0	
 
 
 

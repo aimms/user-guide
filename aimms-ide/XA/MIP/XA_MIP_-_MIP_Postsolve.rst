@@ -6,11 +6,11 @@ MIP Postsolve
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Round before solving final LP	
+**Default**:	Round before solving final LP	
 
 
 

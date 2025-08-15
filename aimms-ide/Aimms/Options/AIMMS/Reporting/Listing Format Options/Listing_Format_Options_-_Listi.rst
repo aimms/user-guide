@@ -8,11 +8,11 @@ Listing Page Width
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{0..256,000}	
+**Range**:	{0..256,000}	
 
-Default:	132	
+**Default**:	132	
 
 
 

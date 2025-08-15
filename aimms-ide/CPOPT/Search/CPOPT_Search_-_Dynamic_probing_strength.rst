@@ -6,11 +6,11 @@ Dynamic probing strength
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0.001,10000]	
+**Range**:	[0.001,10000]	
 
-**Default** :	0.03	
+**Default**:	0.03	
 
 
 

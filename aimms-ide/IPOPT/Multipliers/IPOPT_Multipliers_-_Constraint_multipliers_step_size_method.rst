@@ -8,11 +8,11 @@ Constraint multipliers step size method
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Primal	
+**Default**:	Primal	
 
 
 

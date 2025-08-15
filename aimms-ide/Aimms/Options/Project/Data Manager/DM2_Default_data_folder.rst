@@ -6,9 +6,9 @@
 Default data folder
 ===================
 
-Type:	Name of a directory	
+**Type**:	Name of a directory	
 
-Default:	data
+**Default**:	data
 
 
 

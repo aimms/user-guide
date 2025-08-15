@@ -8,11 +8,11 @@ Maximum Coefficient Value
 
 
 
-Type:	Floating point number	
+**Type**:	Floating point number	
 
-Range:	[100,inf)	
+**Range**:	[100,inf)	
 
-Default:	1.0e20	
+**Default**:	1.0e20	
 
 
 

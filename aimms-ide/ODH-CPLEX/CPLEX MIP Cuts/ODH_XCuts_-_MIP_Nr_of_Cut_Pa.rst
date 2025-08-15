@@ -6,11 +6,11 @@ MIP Number of Cut Passes
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{-1 .. 2147483647}	
+**Range**:	{-1 .. 2147483647}	
 
-**Default** :	0	
+**Default**:	0	
 
 
 

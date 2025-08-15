@@ -8,11 +8,11 @@ XML Maximal String Length
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{255..65536}	
+**Range**:	{255..65536}	
 
-Default:	255	
+**Default**:	255	
 
 
 

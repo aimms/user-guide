@@ -3,11 +3,11 @@
 Elapsed Time is Unitless
 ========================
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	One of the settings listed below	
+**Range**:	One of the settings listed below	
 
-Default:	Off	
+**Default**:	Off	
 
 This option determines whether the result of the functions 
 StringToMoment, TimeSlotToMoment, and CurrentToMoment, and 

@@ -6,11 +6,11 @@ Maximal Number of Subproblem Solves
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..1000000}	
+**Range**:	{0..1000000}	
 
-**Default** :	200000	
+**Default**:	200000	
 
 
 

@@ -6,11 +6,11 @@ Implied Bound Cuts
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Automatic	
+**Default**:	Automatic	
 
 
 

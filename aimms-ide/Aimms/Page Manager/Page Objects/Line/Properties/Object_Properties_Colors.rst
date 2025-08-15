@@ -65,8 +65,8 @@ Tables, scalars, sparse lists, and composite tables have an additional property,
 
 Every newly created object initially uses a set of default colors for background, foreground and selection. You can set these default colors in the Color tab, using the small menu that appears when you press any of the |img_def_default_property_bmp| buttons. This menu contains two commands:
 
-*	Set as Default: this will set the currently selected color as the default color (that is used when a new object is created).
-*	Reset to Default: this will select the color that is currently used as default color.
+*	Set as **Default**: this will set the currently selected color as the default color (that is used when a new object is created).
+*	Reset to **Default**: this will select the color that is currently used as default color.
 
 *   For the data objects the Background color can be set to Transparent, in which case the underlying objects and/or background of the page will be shown as background.
 

@@ -8,11 +8,11 @@ Rebuild Fragmentation Threshold
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{ 0 … 100 }	
+**Range**:	{ 0 … 100 }	
 
-Default:	50
+**Default**:	50
 
 
 

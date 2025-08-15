@@ -9,11 +9,11 @@ Subspace Tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0.0001,1]	
+**Range**:	[0.0001,1]	
 
-**Default** :	0.5	
+**Default**:	0.5	
 
 
 

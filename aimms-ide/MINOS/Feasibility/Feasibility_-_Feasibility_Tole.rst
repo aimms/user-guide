@@ -9,11 +9,11 @@ Feasibility Tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-15,1000]	
+**Range**:	[1e-15,1000]	
 
-**Default** :	1e-6	
+**Default**:	1e-6	
 
 
 

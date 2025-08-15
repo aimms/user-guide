@@ -8,11 +8,11 @@ Database Translate 0 to Zero
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Never	
+**Default**:	Never	
 
 
 

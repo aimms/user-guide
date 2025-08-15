@@ -6,11 +6,11 @@ Number of cutting plane rounds
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0 .. 100}	
+**Range**:	{0 .. 100}	
 
-**Default** :	4	
+**Default**:	4	
 
 
 

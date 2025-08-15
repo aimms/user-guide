@@ -8,11 +8,11 @@ Case Size Overview Threshold
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	{ 0 .. maxint }
+**Range**:	{ 0 .. maxint }
 
-Default:	10000
+**Default**:	10000
 
 
 

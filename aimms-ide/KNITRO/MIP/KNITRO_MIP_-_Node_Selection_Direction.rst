@@ -6,11 +6,11 @@ Node Selection_Direction
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Down	
+**Default**:	Down	
 
 
 

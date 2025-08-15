@@ -6,11 +6,11 @@ Print Frequency
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{1..1000000}	
+**Range**:	{1..1000000}	
 
-**Default** :	100	
+**Default**:	100	
 
 
 

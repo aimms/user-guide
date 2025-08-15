@@ -6,11 +6,11 @@ Default inference level
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Basic	
+**Default**:	Basic	
 
 
 

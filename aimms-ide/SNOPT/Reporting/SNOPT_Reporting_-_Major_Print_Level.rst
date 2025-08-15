@@ -6,11 +6,11 @@ Major Print Level
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..63}	
+**Range**:	{0..63}	
 
-**Default** :	1	
+**Default**:	1	
 
 
 

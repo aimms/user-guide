@@ -6,11 +6,11 @@ Matrix Tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1e-7]	
+**Range**:	[0,1e-7]	
 
-**Default** :	1e-10	
+**Default**:	1e-10	
 
 
 

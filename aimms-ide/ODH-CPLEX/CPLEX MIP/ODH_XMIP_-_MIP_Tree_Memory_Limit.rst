@@ -6,11 +6,11 @@ MIP Tree Memory Limit
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-10,inf)	
+**Range**:	[1e-10,inf)	
 
-**Default** :	1e75	
+**Default**:	1e75	
 
 
 

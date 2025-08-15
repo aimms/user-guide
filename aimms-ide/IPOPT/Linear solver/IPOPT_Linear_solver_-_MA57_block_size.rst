@@ -8,11 +8,11 @@ MA57 block size
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{1..2147483647}	
+**Range**:	{1..2147483647}	
 
-**Default** :	16	
+**Default**:	16	
 
 
 

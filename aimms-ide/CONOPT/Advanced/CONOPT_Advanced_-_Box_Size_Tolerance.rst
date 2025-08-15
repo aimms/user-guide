@@ -5,11 +5,11 @@ Box Size Tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0.01,1e6]
+**Range**:	[0.01,1e6]
 
-**Default** :	10	
+**Default**:	10	
 
 
 

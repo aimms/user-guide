@@ -8,11 +8,11 @@ Execution respects declaration domain
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	One of the settings listed below	
+**Range**:	One of the settings listed below	
 
-Default:	On	
+**Default**:	On	
 
 
 

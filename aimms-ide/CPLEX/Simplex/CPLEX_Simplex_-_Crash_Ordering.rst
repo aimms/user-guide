@@ -6,11 +6,11 @@ Crash Ordering
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{-1 .. 1}	
+**Range**:	{-1 .. 1}	
 
-**Default** :	1	
+**Default**:	1	
 
 
 

@@ -6,11 +6,11 @@ Idiot crash
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{-1 .. 999999}	
+**Range**:	{-1 .. 999999}	
 
-**Default** :	-1	
+**Default**:	-1	
 
 
 

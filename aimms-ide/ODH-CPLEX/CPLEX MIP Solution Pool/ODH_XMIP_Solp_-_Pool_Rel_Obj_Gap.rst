@@ -6,11 +6,11 @@ Pool Relative Objective Gap
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1e75]	
+**Range**:	[0,1e75]	
 
-**Default** :	1e75	
+**Default**:	1e75	
 
 
 

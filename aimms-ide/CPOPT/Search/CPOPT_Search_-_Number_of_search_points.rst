@@ -6,11 +6,11 @@ Number of search points
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{2..2100000000}	
+**Range**:	{2..2100000000}	
 
-**Default** :	30	
+**Default**:	30	
 
 
 

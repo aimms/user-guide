@@ -8,11 +8,11 @@ Maximum number of watchdog iterations
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..2147483647}	
+**Range**:	{0..2147483647}	
 
-**Default** :	3	
+**Default**:	3	
 
 
 

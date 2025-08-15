@@ -1,6 +1,6 @@
 
 
-.. _Options_AIMMS_-_Variable_default_range_type:
+.. _Options_AIMMS_-_Variable_default_range_**Type**:
 
 
 Variable default range type
@@ -8,11 +8,11 @@ Variable default range type
 
 
 
-Type:	Selection
+**Type**:	Selection
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Free	
+**Default**:	Free	
 
 
 

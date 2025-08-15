@@ -9,11 +9,11 @@ Solution Progress
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..10000000}	
+**Range**:	{0..10000000}	
 
-**Default** :	0	
+**Default**:	0	
 
 
 

@@ -6,11 +6,11 @@ Perturbate
 
 
 
-**Type** :	Real	
+**Type**:	Real	
 
-**Range** :	[0,1]	
+**Range**:	[0,1]	
 
-**Default** :	0.0	
+**Default**:	0.0	
 
 
 

@@ -8,11 +8,11 @@ MA27 integer workspace memory
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1,1e+019]	
+**Range**:	[1,1e+019]	
 
-**Default** :	5	
+**Default**:	5	
 
 
 

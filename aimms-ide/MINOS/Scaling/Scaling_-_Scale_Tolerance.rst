@@ -9,11 +9,11 @@ Scale Tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0.0001, 0.9999]	
+**Range**:	[0.0001, 0.9999]	
 
-**Default** :	0.9	
+**Default**:	0.9	
 
 
 

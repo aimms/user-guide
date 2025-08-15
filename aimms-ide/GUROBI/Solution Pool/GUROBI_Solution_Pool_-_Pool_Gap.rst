@@ -6,11 +6,11 @@ Pool Gap
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1e100]	
+**Range**:	[0,1e100]	
 
-**Default** :	1e100
+**Default**:	1e100
 
 
 

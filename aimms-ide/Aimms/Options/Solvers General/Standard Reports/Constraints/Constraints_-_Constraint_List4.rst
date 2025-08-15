@@ -8,11 +8,11 @@ Constraint Listing Large Values
 
 
 
-Type:	Floating point number	
+**Type**:	Floating point number	
 
-Range:	[0,inf)	
+**Range**:	[0,inf)	
 
-Default:	5000000	
+**Default**:	5000000	
 
 
 

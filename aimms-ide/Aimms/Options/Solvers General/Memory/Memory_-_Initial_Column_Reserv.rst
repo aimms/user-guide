@@ -8,11 +8,11 @@ Initial Column Reservation
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{0..10485760}	
+**Range**:	{0..10485760}	
 
-Default:	0	
+**Default**:	0	
 
 
 

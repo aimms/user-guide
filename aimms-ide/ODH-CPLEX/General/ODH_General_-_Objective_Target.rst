@@ -6,11 +6,11 @@ Objective Target
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[-1e99,-1e99]	
+**Range**:	[-1e99,-1e99]	
 
-**Default** :	1e99	
+**Default**:	1e99	
 
 
 

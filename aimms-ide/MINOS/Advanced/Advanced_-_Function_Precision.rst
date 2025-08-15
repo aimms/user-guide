@@ -9,11 +9,11 @@ Function Precision
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-15,1] + {na}	
+**Range**:	[1e-15,1] + {na}	
 
-**Default** :	na	
+**Default**:	na	
 
 
 

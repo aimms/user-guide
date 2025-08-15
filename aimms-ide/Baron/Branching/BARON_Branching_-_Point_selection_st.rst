@@ -8,11 +8,11 @@ Point selection strategy
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Dynamic	
+**Default**:	Dynamic	
 
 
 

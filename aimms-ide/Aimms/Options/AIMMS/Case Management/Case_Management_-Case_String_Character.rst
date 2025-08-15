@@ -8,9 +8,9 @@ Case String Character Set
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Default:	Native
+**Default**:	Native
 
 
 

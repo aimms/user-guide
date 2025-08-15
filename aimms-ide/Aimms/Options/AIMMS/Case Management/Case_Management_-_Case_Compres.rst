@@ -8,11 +8,11 @@ Case Compression Level
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{0..9}	
+**Range**:	{0..9}	
 
-Default:	1	
+**Default**:	1	
 
 
 

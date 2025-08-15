@@ -5,11 +5,11 @@ Maximal Scaling Factor
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[128,1e+10]	
+**Range**:	[128,1e+10]	
 
-**Default** :	1024	
+**Default**:	1024	
 
 
 

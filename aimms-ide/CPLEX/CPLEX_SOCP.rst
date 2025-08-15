@@ -3,7 +3,7 @@
 SOCP
 ====
 
-CPLEX solves a large class of models with quadratic terms among the constraints. CPLEX transforms quadratic constraints automatically into a quadratic constraint of this type:
+CPLEX solves a large class of models with quadratic terms among the constraints. CPLEX transforms quadratic constraints automatically into a quadratic constraint of this **Type**:
 
 *	x'Qx <= e where e is a linear expression and Q is positive semi-definite (PSD),
 

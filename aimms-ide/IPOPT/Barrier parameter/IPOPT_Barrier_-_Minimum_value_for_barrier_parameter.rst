@@ -8,11 +8,11 @@ Minimum value for barrier parameter
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1e+019]	
+**Range**:	[0,1e+019]	
 
-**Default** :	1e-011	
+**Default**:	1e-011	
 
 
 

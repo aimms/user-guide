@@ -6,11 +6,11 @@ MIP Start Node Limit
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{-1 .. 2000000000}	
+**Range**:	{-1 .. 2000000000}	
 
-**Default** :	-1	
+**Default**:	-1	
 
 
 

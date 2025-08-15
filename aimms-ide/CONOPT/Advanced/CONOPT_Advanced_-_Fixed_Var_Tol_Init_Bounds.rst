@@ -5,11 +5,11 @@ Fixed Variables Tolerance Initial Bounds
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[3e-13,1e-5]
+**Range**:	[3e-13,1e-5]
 
-**Default** :	1e-9	
+**Default**:	1e-9	
 
 
 

@@ -8,11 +8,11 @@ Solution Tolerance
 
 
 
-Type:	Floating point number	
+**Type**:	Floating point number	
 
-Range:	[0,0.5]	
+**Range**:	[0,0.5]	
 
-Default:	1e-007	
+**Default**:	1e-007	
 
 
 

@@ -8,11 +8,11 @@ Open WebUI on startup
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	Either Yes or No	
+**Range**:	Either Yes or No	
 
-Default:	No	
+**Default**:	No	
 
 
 

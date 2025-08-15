@@ -6,11 +6,11 @@ Maximal Number of Gradient Steps
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0 .. 1000000}	
+**Range**:	{0 .. 1000000}	
 
-**Default** :	5	
+**Default**:	5	
 
 
 

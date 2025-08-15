@@ -6,11 +6,11 @@ Expand Frequency
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..1000000}	
+**Range**:	{0..1000000}	
 
-**Default** :	10000	
+**Default**:	10000	
 
 
 

@@ -8,9 +8,9 @@ Global error handler
 
 
 
-Type:	Name of a procedure with one argument: a scalar element parameter with range errh::PendingErrors.
+**Type**:	Name of a procedure with one argument: a scalar element parameter with range errh::PendingErrors.
 
-Default:	-	
+**Default**:	-	
 
 
 

@@ -8,9 +8,9 @@ Listing and Temporary Files
 
 
 
-Type:	Name of a directory	
+**Type**:	Name of a directory	
 
-Default:	Log	
+**Default**:	Log	
 
 
 

@@ -6,11 +6,11 @@ Solution Improvement Heuristic Penalty
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[-1,-1e99]	
+**Range**:	[-1,-1e99]	
 
-**Default** :	-1
+**Default**:	-1
 
 
 

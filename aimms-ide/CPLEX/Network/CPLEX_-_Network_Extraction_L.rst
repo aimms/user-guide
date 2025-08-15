@@ -6,11 +6,11 @@ Network Extraction Level
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Try reflection scaling	
+**Default**:	Try reflection scaling	
 
 
 

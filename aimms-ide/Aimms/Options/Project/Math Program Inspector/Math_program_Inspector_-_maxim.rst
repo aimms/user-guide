@@ -8,11 +8,11 @@ Maximum number of nodes in tree
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{0..10000000}	
+**Range**:	{0..10000000}	
 
-Default:	1000	
+**Default**:	1000	
 
 
 

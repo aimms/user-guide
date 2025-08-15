@@ -5,11 +5,11 @@ Feasibility Tolerance Triangular Part
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[3e-13,1e-4]
+**Range**:	[3e-13,1e-4]
 
-**Default** :	1e-8
+**Default**:	1e-8
 
 
 

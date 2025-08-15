@@ -6,11 +6,11 @@ Failure directed search emphasis
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[-1,1e10]	
+**Range**:	[-1,1e10]	
 
-**Default** :	-1	
+**Default**:	-1	
 
 
 

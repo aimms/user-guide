@@ -6,11 +6,11 @@ Size of Smallest Element
 
 
 
-**Type** :	Real	
+**Type**:	Real	
 
-**Range** :	[0,1]	
+**Range**:	[0,1]	
 
-**Default** :	1e-12	
+**Default**:	1e-12	
 
 
 

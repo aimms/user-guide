@@ -6,11 +6,11 @@ Selection of Nodes
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Breadth first	
+**Default**:	Breadth first	
 
 
 

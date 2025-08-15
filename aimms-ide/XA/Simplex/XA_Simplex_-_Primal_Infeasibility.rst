@@ -6,11 +6,11 @@ Primal Infeasibility
 
 
 
-**Type** :	Real	
+**Type**:	Real	
 
-**Range** :	[0,1e+023]	
+**Range**:	[0,1e+023]	
 
-**Default** :	1e-7	
+**Default**:	1e-7	
 
 
 

@@ -8,11 +8,11 @@ Hessian perturbation decrease factor
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1]	
+**Range**:	[0,1]	
 
-**Default** :	0.33333	
+**Default**:	0.33333	
 
 
 

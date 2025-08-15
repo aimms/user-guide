@@ -8,11 +8,11 @@ Database Translate Case
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Keep	
+**Default**:	Keep	
 
 
 

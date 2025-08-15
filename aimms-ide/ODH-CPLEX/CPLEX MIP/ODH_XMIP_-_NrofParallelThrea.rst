@@ -6,11 +6,11 @@ Number of Parallel Threads
 
 
 
-**Type:** 	Integer
+**Type**: 	Integer
 
-**Range:** 	{0 .. 2100000000}
+**Range**: 	{0 .. 2100000000}
 
-**Default:** 	1
+**Default**: 	1
 
 
 

@@ -6,11 +6,11 @@ RHS scale factor
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[-1e+20,1e+20]	
+**Range**:	[-1e+20,1e+20]	
 
-**Default** :	1
+**Default**:	1
 
 
 

@@ -5,11 +5,11 @@ Relative Pivot Tolerance Initial Basis
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-4,0.9]	
+**Range**:	[1e-4,0.9]	
 
-**Default** :	0.001	
+**Default**:	0.001	
 
 
 

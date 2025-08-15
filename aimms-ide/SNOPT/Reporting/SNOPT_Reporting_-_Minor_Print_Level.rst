@@ -6,11 +6,11 @@ Minor Print Level
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..10}	
+**Range**:	{0..10}	
 
-**Default** :	1	
+**Default**:	1	
 
 
 

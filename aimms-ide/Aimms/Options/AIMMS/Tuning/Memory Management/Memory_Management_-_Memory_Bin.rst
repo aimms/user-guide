@@ -8,11 +8,11 @@ Memory Bin Allocation Size
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{ 1024 … 33554432 }	
+**Range**:	{ 1024 … 33554432 }	
 
-Default:	1048576	
+**Default**:	1048576	
 
 
 

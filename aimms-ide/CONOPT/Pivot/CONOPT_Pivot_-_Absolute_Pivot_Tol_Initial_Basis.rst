@@ -5,11 +5,11 @@ Absolute Pivot Tolerance Initial Basis
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[3e-13,0.001]	
+**Range**:	[3e-13,0.001]	
 
-**Default** :	1e-7	
+**Default**:	1e-7	
 
 
 

@@ -8,11 +8,11 @@ Warning Ineffective Activity
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Common_warning_default
+**Default**:	Common_warning_default
 
 
 

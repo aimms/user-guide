@@ -8,11 +8,11 @@ Case ensure subset consistency method
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Remove elements from subsets
+**Default**:	Remove elements from subsets
 
 
 

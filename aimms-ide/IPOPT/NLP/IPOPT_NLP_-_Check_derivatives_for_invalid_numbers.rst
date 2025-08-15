@@ -8,11 +8,11 @@ Check derivatives for invalid numbers
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	No	
+**Default**:	No	
 
 
 

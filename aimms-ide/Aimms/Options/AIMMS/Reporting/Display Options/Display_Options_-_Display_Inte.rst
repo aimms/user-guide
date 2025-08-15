@@ -8,11 +8,11 @@ Display Inter Column Space
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{1..40}	
+**Range**:	{1..40}	
 
-Default:	2	
+**Default**:	2	
 
 
 

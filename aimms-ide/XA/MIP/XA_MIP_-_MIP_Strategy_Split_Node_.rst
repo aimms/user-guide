@@ -6,11 +6,11 @@ MIP Strategy Split Node List
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	No splitting	
+**Default**:	No splitting	
 
 
 

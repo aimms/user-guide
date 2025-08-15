@@ -6,11 +6,11 @@ Markowitz
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-4,0.999]	
+**Range**:	[1e-4,0.999]	
 
-**Default** :	0.0078125	
+**Default**:	0.0078125	
 
 
 

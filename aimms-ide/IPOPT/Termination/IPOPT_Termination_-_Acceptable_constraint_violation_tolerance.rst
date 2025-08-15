@@ -8,11 +8,11 @@ Acceptable constraint violation tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-010,1e+019]	
+**Range**:	[1e-010,1e+019]	
 
-**Default** :	0.01	
+**Default**:	0.01	
 
 
 

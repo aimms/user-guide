@@ -8,11 +8,11 @@ File name
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Use baron	
+**Default**:	Use baron	
 
 
 

@@ -8,11 +8,11 @@ Number of probing problems
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{-2 .. 2100000000}	
+**Range**:	{-2 .. 2100000000}	
 
-**Default** :	-2	
+**Default**:	-2	
 
 
 

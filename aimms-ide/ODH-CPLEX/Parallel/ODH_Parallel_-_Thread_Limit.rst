@@ -6,11 +6,11 @@ Thread Limit
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{-1 .. 1024}	
+**Range**:	{-1 .. 1024}	
 
-**Default** :	-1
+**Default**:	-1
 
 
 

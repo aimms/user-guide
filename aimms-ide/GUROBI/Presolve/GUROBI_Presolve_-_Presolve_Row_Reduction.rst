@@ -6,11 +6,11 @@ Presolve Row Reduction
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Continuous models	
+**Default**:	Continuous models	
 
 
 

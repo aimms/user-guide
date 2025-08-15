@@ -8,11 +8,11 @@ MPI feasibility tolerance
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	[0,1]	
+**Range**:	[0,1]	
 
-Default:	0.0001	
+**Default**:	0.0001	
 
 
 

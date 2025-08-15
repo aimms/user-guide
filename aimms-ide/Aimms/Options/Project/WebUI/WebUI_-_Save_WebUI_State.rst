@@ -8,11 +8,11 @@ Save WebUI State
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Never
+**Default**:	Never
 
 
 

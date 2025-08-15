@@ -6,11 +6,11 @@ First Feasible Heuristic Effort Level
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0 .. 2100000000}	
+**Range**:	{0 .. 2100000000}	
 
-**Default** :	500	
+**Default**:	500	
 
 
 

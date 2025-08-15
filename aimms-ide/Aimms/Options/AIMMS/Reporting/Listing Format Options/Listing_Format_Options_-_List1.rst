@@ -8,11 +8,11 @@ Listing Number Width
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{0..2047}	
+**Range**:	{0..2047}	
 
-Default:	0	
+**Default**:	0	
 
 
 

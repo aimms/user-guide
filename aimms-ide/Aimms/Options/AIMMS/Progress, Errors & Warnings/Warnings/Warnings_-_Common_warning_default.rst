@@ -1,6 +1,6 @@
 
 
-.. _Options_Warnings_-_Common_warning_default:
+.. _Options_Warnings_-_Common_warning_**Default**:
 
 
 Common warning default
@@ -8,11 +8,11 @@ Common warning default
 
 
 
-Type:	Selection
+**Type**:	Selection
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Warning_handle
+**Default**:	Warning_handle
 
 
 

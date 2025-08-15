@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XGeneral_-_Clock_Type:
+.. _ODH-CPLEX_XGeneral_-_Clock_**Type**:
 
 
 Clock Type
@@ -6,11 +6,11 @@ Clock Type
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Wall clock time	
+**Default**:	Wall clock time	
 
 
 

@@ -8,11 +8,11 @@ Enable SOS Priority attribute
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	One of the settings listed below	
+**Range**:	One of the settings listed below	
 
-Default:	Off	
+**Default**:	Off	
 
 
 

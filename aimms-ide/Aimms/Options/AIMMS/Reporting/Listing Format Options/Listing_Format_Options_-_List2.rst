@@ -8,11 +8,11 @@ Listing Number Precision
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{0..20}	
+**Range**:	{0..20}	
 
-Default:	3	
+**Default**:	3	
 
 
 

@@ -8,11 +8,11 @@ Limit reported duplicate column row warnings
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	{ 0 .. maxint }
+**Range**:	{ 0 .. maxint }
 
-Default:	3
+**Default**:	3
 
 
 

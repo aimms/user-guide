@@ -6,11 +6,11 @@ MIR cuts
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	If promising	
+**Default**:	If promising	
 
 
 

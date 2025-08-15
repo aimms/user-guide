@@ -6,11 +6,11 @@ Solution Improvement Heuristic Mode
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Deterministic	
+**Default**:	Deterministic	
 
 
 

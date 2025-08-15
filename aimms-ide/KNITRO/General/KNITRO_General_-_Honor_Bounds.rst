@@ -6,11 +6,11 @@ Honor Bounds
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Only for initial point	
+**Default**:	Only for initial point	
 
 
 

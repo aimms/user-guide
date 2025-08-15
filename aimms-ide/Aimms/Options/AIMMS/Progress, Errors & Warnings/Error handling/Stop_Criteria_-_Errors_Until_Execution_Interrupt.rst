@@ -8,11 +8,11 @@ Errors Until Execution Interrupt
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{0..:ref:`Miscellaneous_Maxint`  }	
+**Range**:	{0..:ref:`Miscellaneous_Maxint`  }	
 
-Default:	1	
+**Default**:	1	
 
 
 

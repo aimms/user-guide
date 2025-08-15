@@ -6,11 +6,11 @@ Crash Method Search Type
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Line	
+**Default**:	Line	
 
 
 

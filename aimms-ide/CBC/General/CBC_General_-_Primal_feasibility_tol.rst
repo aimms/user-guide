@@ -6,11 +6,11 @@ Primal feasibility tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-20,1e+12]	
+**Range**:	[1e-20,1e+12]	
 
-**Default** :	1e-7	
+**Default**:	1e-7	
 
 
 

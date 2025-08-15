@@ -8,11 +8,11 @@ Model file page width
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{40 .. 2100000000}	
+**Range**:	{40 .. 2100000000}	
 
-**Default** :	80	
+**Default**:	80	
 
 
 

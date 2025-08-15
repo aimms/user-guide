@@ -6,11 +6,11 @@ Time mode
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Elapsed time	
+**Default**:	Elapsed time	
 
 
 

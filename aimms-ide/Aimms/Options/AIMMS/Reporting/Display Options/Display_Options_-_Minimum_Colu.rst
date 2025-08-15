@@ -8,11 +8,11 @@ Minimum Column Fill Percentage Tabular Display
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{ 0 .. 101}	
+**Range**:	{ 0 .. 101}	
 
-Default:	5	
+**Default**:	5	
 
 
 

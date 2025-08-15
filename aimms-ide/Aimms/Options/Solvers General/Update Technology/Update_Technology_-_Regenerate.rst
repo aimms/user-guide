@@ -8,11 +8,11 @@ Regenerate Threshold
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{0..100}	
+**Range**:	{0..100}	
 
-Default:	25	
+**Default**:	25	
 
 
 

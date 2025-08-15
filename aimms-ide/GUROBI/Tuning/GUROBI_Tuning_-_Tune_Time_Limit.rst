@@ -6,11 +6,11 @@ Tune Time Limit
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[-1,1e100]	
+**Range**:	[-1,1e100]	
 
-**Default** :	-1
+**Default**:	-1
 
 
 

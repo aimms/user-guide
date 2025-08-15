@@ -5,11 +5,11 @@ Limit on Linear Feasibility Model Rounds
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{1..4}	
+**Range**:	{1..4}	
 
-**Default** :	4	
+**Default**:	4	
 
 
 

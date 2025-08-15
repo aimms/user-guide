@@ -8,11 +8,11 @@ Formatstring Translate Mininf
 
 
 
-Type:	Floating point number	
+**Type**:	Floating point number	
 
-Range:	(-inf,inf)	
+**Range**:	(-inf,inf)	
 
-Default:	-1e150	
+**Default**:	-1e150	
 
 
 

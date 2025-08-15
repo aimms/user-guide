@@ -6,11 +6,11 @@ RINS Sub MIP Node Limit
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0 .. 2000000000}	
+**Range**:	{0 .. 2000000000}	
 
-**Default** :	500	
+**Default**:	500	
 
 
 

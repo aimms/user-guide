@@ -22,8 +22,8 @@ The border of an object consists of two parts:
 
 Every newly created object initially uses the default border style. You can set this default border in the Border tab, using the small menu that appears when you press the |img_def_default_property_bmp| button. This menu contains two commands:
 
-*	Set as Default: this will set the currently specified border as the default border (that is used when a new object is created).
-*	Reset to Default: this will set all border properties according to the current default border.
+*	Set as **Default**: this will set the currently specified border as the default border (that is used when a new object is created).
+*	Reset to **Default**: this will set all border properties according to the current default border.
 
 
 

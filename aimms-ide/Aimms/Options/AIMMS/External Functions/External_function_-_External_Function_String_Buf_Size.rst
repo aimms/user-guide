@@ -8,11 +8,11 @@ External function string buf size
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{32..maxint}	
+**Range**:	{32..maxint}	
 
-Default:	2048	
+**Default**:	2048	
 
 
 

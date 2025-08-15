@@ -8,11 +8,11 @@ Maximum gradient after NLP scaling
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-010,1e+019]	
+**Range**:	[1e-010,1e+019]	
 
-**Default** :	100	
+**Default**:	100	
 
 
 

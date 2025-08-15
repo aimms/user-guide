@@ -6,11 +6,11 @@ Cut passes tree
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{-999999 .. 999999}	
+**Range**:	{-999999 .. 999999}	
 
-**Default** :	-1	
+**Default**:	-1	
 
 
 

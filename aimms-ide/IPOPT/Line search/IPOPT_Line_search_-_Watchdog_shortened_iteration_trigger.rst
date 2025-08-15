@@ -8,11 +8,11 @@ Watchdog shortened iteration trigger
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..2147483647}	
+**Range**:	{0..2147483647}	
 
-**Default** :	10	
+**Default**:	10	
 
 
 

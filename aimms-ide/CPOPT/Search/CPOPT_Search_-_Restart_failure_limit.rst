@@ -6,11 +6,11 @@ Restart failure limit
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..2100000000}	
+**Range**:	{0..2100000000}	
 
-**Default** :	100	
+**Default**:	100	
 
 
 

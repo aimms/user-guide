@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Solution_Type:
+.. _CPLEX_General_-_Solution_**Type**:
 
 
 Solution Type
@@ -6,11 +6,11 @@ Solution Type
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Automatic	
+**Default**:	Automatic	
 
 
 

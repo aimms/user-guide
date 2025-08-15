@@ -8,11 +8,11 @@ Derivative checker verbosity
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Print only suspect derivatives	
+**Default**:	Print only suspect derivatives	
 
 
 

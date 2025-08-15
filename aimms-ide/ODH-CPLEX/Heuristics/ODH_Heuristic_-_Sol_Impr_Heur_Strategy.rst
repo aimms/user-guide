@@ -6,11 +6,11 @@ Solution Improvement Heuristic Strategy
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Moderate	
+**Default**:	Moderate	
 
 
 

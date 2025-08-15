@@ -5,11 +5,11 @@ Limit for Slow Progress
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{2..:ref:`Miscellaneous_Maxint` }	
+**Range**:	{2..:ref:`Miscellaneous_Maxint` }	
 
-**Default** :	20	
+**Default**:	20	
 
 
 

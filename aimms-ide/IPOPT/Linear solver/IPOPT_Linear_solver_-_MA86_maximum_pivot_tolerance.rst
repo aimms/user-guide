@@ -8,11 +8,11 @@ MA86 maximum pivot tolerance
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,0.5]	
+**Range**:	[0,0.5]	
 
-**Default** :	0.0001	
+**Default**:	0.0001	
 
 
 

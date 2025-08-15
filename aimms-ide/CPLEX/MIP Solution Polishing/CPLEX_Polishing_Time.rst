@@ -6,11 +6,11 @@ Polishing Time
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,inf)	
+**Range**:	[0,inf)	
 
-**Default** :	1e75	
+**Default**:	1e75	
 
 
 

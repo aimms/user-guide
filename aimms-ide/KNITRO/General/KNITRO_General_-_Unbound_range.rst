@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Unbound_range:
+.. _KNITRO_General_-_Unbound_**Range**:
 
 
 Unboundedness Range
@@ -6,11 +6,11 @@ Unboundedness Range
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1e20]	
+**Range**:	[0,1e20]	
 
-**Default** :	1e20	
+**Default**:	1e20	
 
 
 

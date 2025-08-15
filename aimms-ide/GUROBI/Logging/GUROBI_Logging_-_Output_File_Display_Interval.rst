@@ -6,11 +6,11 @@ Output File Display Interval
 
 
 
-**Type:** 	Integer
+**Type**: 	Integer
 
-**Range:** 	{1 .. 2000000000}
+**Range**: 	{1 .. 2000000000}
 
-**Default:** 	5
+**Default**: 	5
 
 
 

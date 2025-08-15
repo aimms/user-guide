@@ -8,11 +8,11 @@ Api Accesses All Identifiers
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	{ on, off }	
+**Range**:	{ on, off }	
 
-Default:	off	
+**Default**:	off	
 
 
 

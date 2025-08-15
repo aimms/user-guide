@@ -8,11 +8,11 @@ Memory Manager - Work Area Size
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{1..:ref:`Miscellaneous_Maxint`  }	
+**Range**:	{1..:ref:`Miscellaneous_Maxint`  }	
 
-Default:	256	
+**Default**:	256	
 
 
 

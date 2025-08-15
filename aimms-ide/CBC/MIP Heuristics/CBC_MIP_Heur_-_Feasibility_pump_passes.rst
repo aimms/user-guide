@@ -6,11 +6,11 @@ Feasibility pump passes
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0 .. 10000}	
+**Range**:	{0 .. 10000}	
 
-**Default** :	20	
+**Default**:	20	
 
 
 

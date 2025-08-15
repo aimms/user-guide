@@ -8,11 +8,11 @@ Solution Listing Printed When
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	After solve	
+**Default**:	After solve	
 
 
 

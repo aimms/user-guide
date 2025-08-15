@@ -6,11 +6,11 @@ Minimal Absolute Pivot Value
 
 
 
-**Type** :	Real	
+**Type**:	Real	
 
-**Range** :	[0,1]	
+**Range**:	[0,1]	
 
-**Default** :	1e-9	
+**Default**:	1e-9	
 
 
 

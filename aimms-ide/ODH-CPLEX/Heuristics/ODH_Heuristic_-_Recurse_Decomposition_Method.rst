@@ -6,11 +6,11 @@ Recurse Decomposition Method
 
 
 
-**Type** :	Selection	
+**Type**:	Selection	
 
-**Range** :	The settings listed below	
+**Range**:	The settings listed below	
 
-**Default** :	Assign each variable to a separate key
+**Default**:	Assign each variable to a separate key
 
 
 

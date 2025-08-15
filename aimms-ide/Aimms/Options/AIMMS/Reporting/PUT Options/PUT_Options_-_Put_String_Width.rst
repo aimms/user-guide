@@ -8,11 +8,11 @@ Put String Width
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{0..32766}	
+**Range**:	{0..32766}	
 
-Default:	0	
+**Default**:	0	
 
 
 

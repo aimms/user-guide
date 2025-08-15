@@ -1,6 +1,6 @@
 .. _KNITRO_Options:
 
-KNITRO Options
+Knitro Options
 ==============
 
 .. toctree::

@@ -8,11 +8,11 @@ Put Element Width
 
 
 
-Type:	Integer	
+**Type**:	Integer	
 
-Range:	{0..32766}	
+**Range**:	{0..32766}	
 
-Default:	12	
+**Default**:	12	
 
 
 

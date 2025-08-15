@@ -8,11 +8,11 @@ Hessian approximation successive iterations limit
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{1..2147483647}	
+**Range**:	{1..2147483647}	
 
-**Default** :	2	
+**Default**:	2	
 
 
 

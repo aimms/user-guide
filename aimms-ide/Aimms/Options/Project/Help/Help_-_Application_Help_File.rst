@@ -8,11 +8,11 @@ Application Help File
 
 
 
-Type:	Name of a help file	
+**Type**:	Name of a help file	
 
-Range:	.hlp or .chm file	
+**Range**:	.hlp or .chm file	
 
-Default:	-	
+**Default**:	-	
 
 
 

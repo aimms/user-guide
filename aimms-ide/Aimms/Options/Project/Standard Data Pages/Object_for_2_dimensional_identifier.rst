@@ -6,11 +6,11 @@
 Object for 2-dimensional identifier
 ===================================
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Pivot Table	
+**Default**:	Pivot Table	
 
 
 

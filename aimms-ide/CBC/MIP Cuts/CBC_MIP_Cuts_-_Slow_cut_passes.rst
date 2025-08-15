@@ -6,11 +6,11 @@ Slow cut passes
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{-1 .. 2000000}	
+**Range**:	{-1 .. 2000000}	
 
-**Default** :	10	
+**Default**:	10	
 
 
 

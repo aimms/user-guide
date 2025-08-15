@@ -1,6 +1,6 @@
 
 
-KNITRO
+Knitro
 ======
 
 **Description** 

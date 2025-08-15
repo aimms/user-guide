@@ -6,11 +6,11 @@ Number of Repair Attempts
 
 
 
-**Type:** 	Integer
+**Type**: 	Integer
 
-**Range:** 	{-1 .. 2147483647}
+**Range**: 	{-1 .. 2147483647}
 
-**Default:** 	-1
+**Default**: 	-1
 
 
 

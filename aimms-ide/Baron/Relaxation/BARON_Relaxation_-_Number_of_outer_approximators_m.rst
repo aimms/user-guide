@@ -6,11 +6,11 @@ Number of outer approximators multi
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{1 .. 100}	
+**Range**:	{1 .. 100}	
 
-**Default** :	4	
+**Default**:	4	
 
 
 

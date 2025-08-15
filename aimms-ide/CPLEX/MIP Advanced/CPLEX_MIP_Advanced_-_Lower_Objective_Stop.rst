@@ -6,11 +6,11 @@ Lower Objective Stop
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[-1e75, 1e75)	
+**Range**:	[-1e75, 1e75)	
 
-**Default** :	-1e75	
+**Default**:	-1e75	
 
 
 

@@ -8,11 +8,11 @@ MUMPS permuting and scaling
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0..7}	
+**Range**:	{0..7}	
 
-**Default** :	7	
+**Default**:	7	
 
 
 

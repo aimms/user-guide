@@ -8,9 +8,9 @@ Project Title
 
 
 
-Type:	String	
+**Type**:	String	
 
-Default:	The name of the current AIMMS version	
+**Default**:	The name of the current AIMMS version	
 
 
 

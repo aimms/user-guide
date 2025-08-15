@@ -8,11 +8,11 @@ Constraint Listing Feasibility Tolerances
 
 
 
-Type:	Floating point number	
+**Type**:	Floating point number	
 
-Range:	[0,1]	
+**Range**:	[0,1]	
 
-Default:	0.001	
+**Default**:	0.001	
 
 
 

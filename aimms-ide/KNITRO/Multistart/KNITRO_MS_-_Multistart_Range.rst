@@ -1,4 +1,4 @@
-.. _KNITRO_MS_-_Multistart_Range:
+.. _KNITRO_MS_-_Multistart_**Range**:
 
 
 Multistart Range
@@ -6,11 +6,11 @@ Multistart Range
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1e20]	
+**Range**:	[0,1e20]	
 
-**Default** :	1000
+**Default**:	1000
 
 
 

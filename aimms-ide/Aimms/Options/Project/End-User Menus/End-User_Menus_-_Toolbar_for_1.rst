@@ -8,11 +8,11 @@ Toolbar for Progress Window
 
 
 
-Type:	Name of a toolbar	
+**Type**:	Name of a toolbar	
 
-Range:	AIMMS toolbar	
+**Range**:	AIMMS toolbar	
 
-Default:	-	
+**Default**:	-	
 
 
 

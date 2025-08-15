@@ -6,11 +6,11 @@ Unbounded Step Size
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[0,1e20]	
+**Range**:	[0,1e20]	
 
-**Default** :	1e10	
+**Default**:	1e10	
 
 
 

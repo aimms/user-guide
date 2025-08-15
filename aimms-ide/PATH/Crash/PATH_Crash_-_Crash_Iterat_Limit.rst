@@ -6,11 +6,11 @@ Crash Iteration Limit
 
 
 
-**Type** :	Integer	
+**Type**:	Integer	
 
-**Range** :	{0 .. 1000000}	
+**Range**:	{0 .. 1000000}	
 
-**Default** :	50	
+**Default**:	50	
 
 
 

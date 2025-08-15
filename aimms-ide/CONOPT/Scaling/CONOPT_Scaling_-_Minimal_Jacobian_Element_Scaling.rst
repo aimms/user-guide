@@ -5,11 +5,11 @@ Minimal Jacobian Element for Scaling
 
 
 
-**Type** :	Floating point number	
+**Type**:	Floating point number	
 
-**Range** :	[1e-7,0.001]	
+**Range**:	[1e-7,0.001]	
 
-**Default** :	1e-5	
+**Default**:	1e-5	
 
 
 

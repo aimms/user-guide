@@ -8,11 +8,11 @@ Warning Lag Lead on subset of Integers
 
 
 
-Type:	Selection	
+**Type**:	Selection	
 
-Range:	The settings listed below	
+**Range**:	The settings listed below	
 
-Default:	Warning_in_develop_else_off	
+**Default**:	Warning_in_develop_else_off	
 
 
 
@@ -48,7 +48,7 @@ Let's inspect the following examples:
 
 	ElementParameter epS {
 
-	 range: S;
+	 **Range**: S;
 
 	}
 
