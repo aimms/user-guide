@@ -7,7 +7,7 @@ CPLEX is a tool for solving, first of all, linear optimization problems. Such pr
 
 
 
-``Minimize (or Maximize)`` c1x1 + c2x2 + ... + cnxn
+``Minimize (or Maximize)`` c\ :sub:`1`\x :sub:`1` + c\ :sub:`2`\x :sub:`2` + ... + c\ :sub:`*n*`\x :sub:`*n*`
 
 ``Subject to:`` 
 
