@@ -61,4 +61,55 @@ The table shows in the left column the parameters from PATH that can be set in A
      - :ref:`PATH_Advanced_-_NMS_m-Step_Freq`
    * - Nms_searchtype
      - :ref:`PATH_Advanced_-_NMS_Search_Type`
-   * - Output_crash
+   * - Output_crash_iterations
+     - :ref:`PATH_Reporting_-_O_Crash_Itera`
+   * - Output_crash_iterations_frequency
+     - :ref:`PATH_Reporting_-_O_Crash_Iter_f`
+   * - Output_errors
+     - :ref:`PATH_Reporting_-_Output_Errors`
+   * - Output_final_degeneracy_statistics
+     - :ref:`PATH_Reporting_-_Output_Final_Degen`
+   * - Output_final_point
+     - :ref:`PATH_Reporting_-_Output_Final_Point`
+   * - Output_final_point_statistics
+     - :ref:`PATH_Reporting_-_Output_Final_Poin1`
+   * - Output_final_scaling_statistics
+     - :ref:`PATH_Reporting_-_Output_Final_Scali`
+   * - Output_final_statistics
+     - :ref:`PATH_Reporting_-_Output_Final_Stati`
+   * - Output_final_summary
+     - :ref:`PATH_Reporting_-_Output_Final_Summa`
+   * - Output_initial_point
+     - :ref:`PATH_Reporting_-_Output_Initial_Poi`
+   * - Output_initial_point_statistics
+     - :ref:`PATH_Reporting_-_Output_Initial_Po1`
+   * - Output_initial_scaling_statistics
+     - :ref:`PATH_Reporting_-_Output_Initial_Sca`
+   * - Output_initial_statistics
+     - :ref:`PATH_Reporting_-_Output_Initial_Sta`
+   * - Output_linear_model
+     - :ref:`PATH_Reporting_-_Output_Linear_Mode`
+   * - Output_major_iterations
+     - :ref:`PATH_Reporting_-_O_Major_Itera`
+   * - Output_major_iterations_frequency
+     - :ref:`PATH_Reporting_-_O_Major_Iter_f`
+   * - Output_minor_iterations
+     - :ref:`PATH_Reporting_-_O_Minor_Itera`
+   * - Output_minor_iterations_frequency
+     - :ref:`PATH_Reporting_-_O_Minor_Iter_f`
+   * - Output_model_statistics
+     - :ref:`PATH_Reporting_-_Output_Model_Stati`
+   * - Output_options
+     - :ref:`PATH_Reporting_-_Output_Options`
+   * - Output_preprocess
+     - :ref:`PATH_Reporting_-_Output_Preproc`
+   * - Output_restart_log
+     - :ref:`PATH_Reporting_-_Output_Restart_Log`
+   * - Output_warnings
+     - :ref:`PATH_Reporting_-_Output_Warning`
+   * - Preprocess
+     - :ref:`PATH_General_-_Preprocess`
+   * - Proximal_perturbation
+     - :ref:`PATH_Advanced_-_Initial_Perturb`
+   * - Restart_limit
+     - :ref:`PATH_Limits_-_Restart_Limit`
