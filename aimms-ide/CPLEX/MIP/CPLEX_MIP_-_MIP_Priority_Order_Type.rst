@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_MIP_Priority_Order_**Type**:
+.. _CPLEX_MIP_-_MIP_Priority_Order_Type:
 
 
 MIP Priority Order Type

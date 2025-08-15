@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Solution_**Type**:
+.. _CPLEX_General_-_Solution_Type:
 
 
 Solution Type

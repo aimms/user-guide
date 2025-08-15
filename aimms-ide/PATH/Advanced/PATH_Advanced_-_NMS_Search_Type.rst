@@ -1,4 +1,4 @@
-.. _PATH_Advanced_-_NMS_Search_**Type**:
+.. _PATH_Advanced_-_NMS_Search_Type:
 
 
 NMS Search Type

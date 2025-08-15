@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_MIP_Priority_Order_**Type**:
+.. _ODH-CPLEX_XMIP_-_MIP_Priority_Order_Type:
 
 
 MIP Priority Order Type

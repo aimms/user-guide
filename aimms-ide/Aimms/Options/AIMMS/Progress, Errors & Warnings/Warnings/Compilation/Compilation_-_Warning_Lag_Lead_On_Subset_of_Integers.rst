@@ -48,7 +48,7 @@ Let's inspect the following examples:
 
 	ElementParameter epS {
 
-	 **Range**: S;
+	 range: S;
 
 	}
 

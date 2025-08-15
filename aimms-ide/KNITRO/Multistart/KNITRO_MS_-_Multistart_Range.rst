@@ -1,4 +1,4 @@
-.. _KNITRO_MS_-_Multistart_**Range**:
+.. _KNITRO_MS_-_Multistart_Range:
 
 
 Multistart Range

@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Unbound_**Range**:
+.. _KNITRO_General_-_Unbound_Range:
 
 
 Unboundedness Range

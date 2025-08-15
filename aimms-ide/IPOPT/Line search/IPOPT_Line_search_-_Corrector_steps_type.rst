@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Line_search_-_Corrector_steps_**Type**:
+.. _IPOPT_Line_search_-_Corrector_steps_Type:
 
 
 Corrector steps type

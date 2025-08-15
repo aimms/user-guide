@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Clock_**Type**:
+.. _CPLEX_General_-_Clock_Type:
 
 
 Clock Type

@@ -6,7 +6,7 @@
 Changing the Default Solver
 ===========================
 
-To modify the default solver of a particular **Type**:
+To modify the default solver of a particular type:
 
 1.	Open the Solver Configuration dialog box.
 

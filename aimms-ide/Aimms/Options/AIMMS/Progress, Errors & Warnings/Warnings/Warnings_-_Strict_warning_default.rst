@@ -1,6 +1,6 @@
 
 
-.. _Options_Warnings_-_Strict_warning_**Default**:
+.. _Options_Warnings_-_Strict_warning_Default:
 
 
 Strict warning default

@@ -1,6 +1,6 @@
 
 
-.. _Template-Manager_Print_Template_Paper_**Type**:
+.. _Template-Manager_Print_Template_Paper_Type:
 
 
 Print Template - Paper Type

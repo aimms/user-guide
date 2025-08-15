@@ -1,6 +1,6 @@
 
 
-.. _Options_Warnings_-_Common_warning_**Default**:
+.. _Options_Warnings_-_Common_warning_Default:
 
 
 Common warning default

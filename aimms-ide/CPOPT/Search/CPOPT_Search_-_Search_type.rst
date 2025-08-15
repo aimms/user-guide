@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Search_**Type**:
+.. _CPOPT_Search_-_Search_Type:
 
 
 Search type

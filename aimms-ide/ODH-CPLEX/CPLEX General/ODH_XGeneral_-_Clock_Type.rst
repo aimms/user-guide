@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XGeneral_-_Clock_**Type**:
+.. _ODH-CPLEX_XGeneral_-_Clock_Type:
 
 
 Clock Type

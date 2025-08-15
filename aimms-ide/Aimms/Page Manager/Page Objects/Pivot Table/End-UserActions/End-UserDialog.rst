@@ -111,7 +111,7 @@ For every aggregator you can specify
 *   Min: display the minimum of all aggregated values
 *   Max: display the maximum of all aggregated values
 *   Difference: display the difference of exactly two aggregated values. If there are more than two values available the difference will remain empty.
-*   **Range**: display Max - Min of all aggregated values, if there are at least two aggregated values. Note that this aggregation is always positive.
+*   Range: display Max - Min of all aggregated values, if there are at least two aggregated values. Note that this aggregation is always positive.
 *   Count: display the number of aggregated values
 
 

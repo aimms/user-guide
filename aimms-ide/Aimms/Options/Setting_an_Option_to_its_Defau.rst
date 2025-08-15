@@ -6,7 +6,7 @@
 Setting an Option to its Default
 ================================
 
-To set an option to its **Default**:
+To set an option to its default:
 
 1.	Open the Options dialog box.
 

@@ -1,6 +1,6 @@
 
 
-.. _Model-Explorer_Changing_the_Node_**Type**:
+.. _Model-Explorer_Changing_the_Node_Type:
 
 
 Change the Node Type

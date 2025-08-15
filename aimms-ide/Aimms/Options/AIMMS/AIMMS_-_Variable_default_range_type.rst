@@ -1,6 +1,6 @@
 
 
-.. _Options_AIMMS_-_Variable_default_range_**Type**:
+.. _Options_AIMMS_-_Variable_default_range_type:
 
 
 Variable default range type
