@@ -11,9 +11,6 @@ AIMMS to ODH Mapping
 
 The table below shows in the left column the AIMMS options that control the ODH engine; the right column displays for each AIMMS options the associated ODH-CPLEX parameter.
 
-
-
-
 .. list-table::
 
    * - **Option name in AIMMS** 

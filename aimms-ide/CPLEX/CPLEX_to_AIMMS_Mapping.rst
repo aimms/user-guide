@@ -11,7 +11,6 @@ CPLEX to AIMMS Mapping
 
 The table shows in the left column the parameters from CPLEX that can be set in AIMMS; the right column displays for each CPLEX parameter the associated AIMMS option.
 
-
 .. list-table::
    :header-rows: 0
 

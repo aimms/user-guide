@@ -11,9 +11,6 @@ AIMMS to CPLEX Mapping
 
 The table below shows in the left column the AIMMS CPLEX options; the middle column displays the CPLEX parameters that are associated with them. The right column displays the constants used in the CPLEX C API.
 
-
-
-
 .. list-table::
 
    * - **Option name in AIMMS** 
@@ -585,14 +582,7 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
      - CPX_PARAM_TUNINGDETTILIM
 
 
-
-
-
-
 The table below shows Solvers General options that are mapped to CPLEX parameters.
-
-
-
 
 .. list-table::
 
@@ -620,5 +610,4 @@ The table below shows Solvers General options that are mapped to CPLEX parameter
    * - :ref:`Options_Stop_Criteria_-_Time_Limit` 
      - Timelimit
      - CPX_PARAM_TILIM
-
 

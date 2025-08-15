@@ -11,8 +11,6 @@ AIMMS to Knitro 14.0 Mapping
 
 The table shows in the left column the AIMMS Knitro options; the right column displays for the AIMMS option the Knitro option that is associated with it.
 
-
-
 **Option name in AIMMS** 		**Name in Knitro** 	
 
 :ref:`KNITRO_Advanced_-_Estimate_Noise_in_the_Model` 		findiff_estnoise	
@@ -326,6 +324,3 @@ The table shows in the left column the AIMMS Knitro options; the right column di
 :ref:`KNITRO_Tuner_-_Tuner_Terminate`  		tuner_terminate	
 
 :ref:`KNITRO_Tuner_-_Tuner_Time_Limit`  		tuner_maxtime_cpu	
-
-	
-

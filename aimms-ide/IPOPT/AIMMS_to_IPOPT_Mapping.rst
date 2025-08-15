@@ -11,9 +11,6 @@ AIMMS to IPOPT Mapping
 
 The table shows in the left column the AIMMS IPOPT options while the right column displays the associated IPOPT parameter.
 
-
-
-
 .. list-table::
 
    * - **Option name in AIMMS** 
@@ -238,7 +235,3 @@ The table shows in the left column the AIMMS IPOPT options while the right colum
      - max_iter
    * - :ref:`IPOPT_Termination_-_Relative_convergence_tolerance` 
      - tol
-
-
-				
-

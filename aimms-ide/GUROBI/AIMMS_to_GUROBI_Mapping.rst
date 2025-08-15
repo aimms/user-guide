@@ -11,9 +11,6 @@ AIMMS to GUROBI Mapping
 
 The table shows in the left column the AIMMS Gurobi options while the right column displays the associated Gurobi parameter.
 
-
-
-
 .. list-table::
 
    * - **Option name in AIMMS** 
@@ -302,14 +299,7 @@ The table shows in the left column the AIMMS Gurobi options while the right colu
      - TUNETRIALS
 
 
-				
-
-
-
 The table below shows Solvers General options that are mapped to Gurobi parameters.
-
-
-
 
 .. list-table::
 
