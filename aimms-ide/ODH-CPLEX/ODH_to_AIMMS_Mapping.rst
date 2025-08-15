@@ -383,7 +383,7 @@ The table below shows in the left column the CPLEX parameters from ODH-CPLEX tha
    * - CPX_WORKMEM
      - :ref:`ODH-CPLEX_XMIP_-_Working_Memory_Limit`
    * - CPX_ZEROHALFCUTS
-     - :ref:`ODH-CPLEX_XCuts_-_Zero_Half_Cuts
+     - :ref:`ODH-CPLEX_XCuts_-_Zero_Half_Cuts`
 
 
 **Heuristic sub-model parameters** 
