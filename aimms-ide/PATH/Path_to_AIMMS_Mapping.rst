@@ -4,7 +4,7 @@
 .. _PATH_Path_to_AIMMS_Mapping:
 
 
-Path to AIMMS Mapping
+PATH to AIMMS Mapping
 =====================
 
 **Description** 

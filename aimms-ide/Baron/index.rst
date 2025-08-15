@@ -1,4 +1,4 @@
-Baron
+BARON
 ========
 
 .. toctree::

@@ -42,21 +42,21 @@ The table shows in the left column the AIMMS XA options; the right column displa
    * - :ref:`XA_General_-_Restart`
      - SET RESTART
    * - :ref:`XA_General_-_Restart_File_Number`
-     - -
+     - 
    * - :ref:`XA_General_-_Scale`
      - SET SCALE
    * - :ref:`XA_General_-_Solution_File`
-     - -
+     -
    * - :ref:`XA_General_-_Windows_Friendly`
      - SET WINFRIENDLY
    * - :ref:`XA_Logging_-_Node_Log`
-     - -
+     -
    * - :ref:`XA_Logging_-_Simplex_Log`
-     - -
+     -
    * - :ref:`XA_Memory_-_Extra_Memory`
-     - -
+     -
    * - :ref:`XA_Memory_-_Minimal_Memory_Size`
-     - -
+     -
    * - :ref:`XA_MIP_-_Basis_in_Memory`
      - SET BASISMEMORY
    * - :ref:`XA_MIP_-_Dual_Simplex`
@@ -68,11 +68,11 @@ The table shows in the left column the AIMMS XA options; the right column displa
    * - :ref:`XA_MIP_-_Maximal_Number_of_Nodes`
      - SET MAXNODES
    * - :ref:`XA_MIP_-_MIP_Basis`
-     - -
+     -
    * - :ref:`XA_MIP_-_MIP_Branch_Order`
      - PRIORITY
    * - :ref:`XA_MIP_-_MIP_Postsolve`
-     - -
+     -
    * - :ref:`XA_MIP_-_MIP_Strategy`
      - STRATEGY
    * - :ref:`XA_MIP_-_MIP_Strategy_Branching_P`
@@ -82,7 +82,7 @@ The table shows in the left column the AIMMS XA options; the right column displa
    * - :ref:`XA_MIP_-_MIP_Strategy_Split_Node_`
      - STRATEGY
    * - :ref:`XA_MIP_-_MIP_Update`
-     - -
+     -
    * - :ref:`XA_MIP_-_Percentage_Fixed_Integer`
      - SET INTPCT
    * - :ref:`XA_MIP_-_Selection_of_Nodes`

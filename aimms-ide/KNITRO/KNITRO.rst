@@ -101,14 +101,14 @@ The Knitro presolver is controlled by the option **Presolve** .
 
 **Parallel solves** 
 
-Knitro is thread-safe and therefore multiple nonlinear mathematical program instances can be solved in parallel using Knitro 14.0 (assuming your computer has multiple processors or a multi-core processor). 
+Knitro is thread-safe and therefore multiple nonlinear mathematical program instances can be solved in parallel using Knitro (assuming your computer has multiple processors or a multi-core processor). 
 The function GMP::SolverSession::AsynchronousExecute should be used to solve multiple mathematical program instances in parallel.
 
 
 
 **Learn more about** 
 
-*	`Knitro <https://web.stanford.edu/group/SOL/home_software.html>`_ (Internet link)
+*	`Knitro <https://www.artelys.com/solvers/knitro/>`_ (Internet link)
 *	:ref:`KNITRO_KNITRO_to_AIMMS_Mapping` 
 *	:ref:`KNITRO_AIMMS_to_KNITRO_Mapping`  
 *	:ref:`KNITRO_Description_KNITRO_Algorithms` 
