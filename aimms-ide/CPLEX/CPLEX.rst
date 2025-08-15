@@ -9,32 +9,25 @@ CPLEX is a tool for solving, first of all, linear optimization problems. Such pr
 
 ``Minimize (or Maximize)`` :math:`c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n}`
 
-
 ``Subject to:`` 
 
-a11x1 + a12x2 + … + a1nxn ~ b1
-
-a21x1 + a22x2 + … + a2nxn ~ b2
-
+:math:`a_{11}x_{1} + a_{12}x_{2} + \ldots + a_{1n}x_{n} \sim b_1`
+:math:`a_{21}x_{1} + a_{22}x_{2} + \ldots + a_{2n}x_{n} \sim b_2`
   …
+:math:`a_{m1}x_{1} + a_{m2}x_{2} + \ldots + a_{mn}x_{n} \sim b_m`
 
-am1x1 + am2x2 + … + amnxn ~ bm
-
-l1 <= x1 <= u1, …, ln <= xn <= un
-
-
+:math:`l_1 <= x_1 <= u_1`
+ …
+:math:`l_n <= x_n <= u_n`
 
 where,
 
-x is the vector of variables,
+* :math:`x` is the vector of variables,
+* :math:`a`, :math:`b`, and :math:`c` are real numbers,
+* :math:`l` and :math:`u` are vectors of lower and upper bounds, and
+* :math:`\sim` can be either <=, >=, or =.
 
-a, b, and c are real numbers,
-
-l and u are vectors of lower and upper bounds, and
-
-~ can be either <=, >=, or =.
-
-Some of the lower bounds may be –inf and some of the upper bounds may be inf. The scalar value n will denote the number of variables and m the number of equations.
+Some of the lower bounds may be –inf and some of the upper bounds may be inf. The scalar value :math:`n` denotes the number of variables and :math:`m` the number of equations.
 
 In the most basic linear optimization problem, the variables of the objective function are continuous in the mathematical sense, with no gaps between real values. CPLEX can also be used for solving linear programming problems in which some or all of the variables must assume integer values in the solution. Such problems are known as mixed integer programs or MIPs.
 
