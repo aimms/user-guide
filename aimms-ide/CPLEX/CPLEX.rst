@@ -11,7 +11,8 @@ CPLEX is a tool for solving, first of all, linear optimization problems. Such pr
 
 ``Subject to:`` 
 
-:math:`
+.. math::
+
 a_{11}x_{1} + a_{12}x_{2} + \ldots + a_{1n}x_{n} \sim b_1 \\
 a_{21}x_{1} + a_{22}x_{2} + \ldots + a_{2n}x_{n} \sim b_2 \\
 \: \ldots \\
@@ -19,7 +20,6 @@ a_{m1}x_{1} + a_{m2}x_{2} + \ldots + a_{mn}x_{n} \sim b_m \\
 l_1 <= x_1 <= u_1 \\
 \: \ldots \\
 l_n <= x_n <= u_n
-`
 
 where,
 * :math:`x` is the vector of variables,
