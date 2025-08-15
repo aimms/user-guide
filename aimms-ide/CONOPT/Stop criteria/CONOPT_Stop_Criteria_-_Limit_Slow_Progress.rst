@@ -6,7 +6,7 @@ Limit for Slow Progress
 
 
 :Type:	Integer	
-:Range:	{2..:ref:`Miscellaneous_Maxint` }	
+:Range:	{2 .. :ref:`Miscellaneous_Maxint`}	
 :Default:	20	
 
 

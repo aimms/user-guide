@@ -6,7 +6,7 @@ Maximal Number of Stalled Iterations
 
 
 :Type:	Integer	
-:Range:	{2..:ref:`Miscellaneous_Maxint` }	
+:Range:	{2 .. :ref:`Miscellaneous_Maxint`}	
 :Default:	100	
 
 
