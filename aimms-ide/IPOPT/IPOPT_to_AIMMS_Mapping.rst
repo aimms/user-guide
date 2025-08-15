@@ -194,4 +194,40 @@ The table shows in the left column the parameters from IPOPT that can be set in 
      - :ref:`IPOPT_NLP_-_Infinity_upper_bound`
    * - obj_scaling_factor
      - :ref:`IPOPT_NLP_scaling_-_Objective_function_scaling_factor`
-   * - perturb_dec
+   * - perturb_dec_fact
+     - :ref:`IPOPT_Hessian_perturbation_-_Hessian_perturbation_decrease_factor`
+   * - perturb_inc_fact
+     - :ref:`IPOPT_Hessian_perturbation_-_Hessian_perturbation_increase_factor`
+   * - perturb_inc_fact_first
+     - :ref:`IPOPT_Hessian_perturbation_-_First_Hessian_perturbation_increase_factor`
+   * - point_perturbation_radius
+     - :ref:`IPOPT_Derivative_test_-_Maximum_perturbation_of_evaluation_point`
+   * - print_level
+     - :ref:`IPOPT_Output_-_Output_verbosity_level`
+   * - print_options_documentation
+     - :ref:`IPOPT_Output_-_Print_all_available_algorithmic_options`
+   * - print_user_options
+     - :ref:`IPOPT_Output_-_Print_all_user_selected_options`
+   * - quality_function_max_section_steps
+     - :ref:`IPOPT_Barrier_-_Quality_function_section_steps_limit`
+   * - recalc_y
+     - :ref:`IPOPT_Multipliers_-_Recalculate_constraint_multipliers`
+   * - recalc_y_feas_tol
+     - :ref:`IPOPT_Multipliers_-_Recalculate_constraint_multipliers_tolerance`
+   * - required_infeasibility_reduction
+     - :ref:`IPOPT_Restoration_phase_-_Required_infeasibility_reduction`
+   * - slack_bound_frac
+     - :ref:`IPOPT_Initialization_-_Slack_to_bound_relative_distance`
+   * - slack_bound_push
+     - :ref:`IPOPT_Initialization_-_Slack_to_bound_absolute_distance`
+   * - soft_resto_pderror_reduction_factor
+     - :ref:`IPOPT_Restoration_phase_-_Reduction_factor_primal_dual_error`
+   * - start_with_resto
+     - :ref:`IPOPT_Restoration_phase_-_Force_start_in_restoration_phase`
+   * - tol
+     - :ref:`IPOPT_Termination_-_Relative_convergence_tolerance`
+   * - watchdog_shortened_iter_trigger
+     - :ref:`IPOPT_Line_search_-_Watchdog_shortened_iteration_trigger`
+   * - watchdog_trial_iter_max
+     - :ref:`IPOPT_Line_search_-_Maximum_number_of_watchdog_iterations`
+
