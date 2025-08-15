@@ -94,3 +94,18 @@ The table shows in the left column the AIMMS XA options; the right column displa
    * - :ref:`XA_MIP_-_Tree_Depth`
      - TREEDEPTH
    * - :ref:`XA_MIP_-_Tree_Time`
+     - TREETIME
+   * - :ref:`XA_MIP_-_Upper_Integer_Tolerance`
+     - SET UTOLERANCE
+   * - :ref:`XA_Simplex_-_Degenerate_Pivots`
+     - SET DEGENITER
+   * - :ref:`XA_Simplex_-_Markowitz`
+     - SET MARKOWITZ
+   * - :ref:`XA_Simplex_-_Pricing`
+     - SET PRICING
+   * - :ref:`XA_Simplex_-_Primal_Infeasibility`
+     - SET XTOZERO
+   * - :ref:`XA_Simplex_-_Reduced_Cost`
+     - SET REDUCEDCOST
+   * - :ref:`XA_Simplex_-_Reinvert_Frequency`
+     - SET REINVERTFREQ
