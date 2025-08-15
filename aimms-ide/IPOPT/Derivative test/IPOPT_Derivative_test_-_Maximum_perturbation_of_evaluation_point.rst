@@ -8,11 +8,9 @@ Maximum perturbation of evaluation point
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e+019]	
-
-**Default**:	10	
+:Type:	Floating point number	
+:Range:	[0,1e+019]	
+:Default:	10	
 
 
 

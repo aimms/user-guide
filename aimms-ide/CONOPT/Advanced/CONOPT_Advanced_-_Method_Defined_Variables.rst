@@ -6,11 +6,9 @@ Method for Defined Variables
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Initial point	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Initial point	
 
 
 

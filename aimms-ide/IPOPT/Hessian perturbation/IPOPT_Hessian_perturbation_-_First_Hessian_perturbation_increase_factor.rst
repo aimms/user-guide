@@ -7,11 +7,9 @@ First Hessian perturbation increase factor
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1,1e+019]	
-
-**Default**:	100	
+:Type:	Floating point number	
+:Range:	[1,1e+019]	
+:Default:	100	
 
 
 

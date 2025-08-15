@@ -5,11 +5,9 @@ Accuracy One Dimensional Search
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0.05,0.8]	
-
-**Default**:	0.2	
+:Type:	Floating point number	
+:Range:	[0.05,0.8]	
+:Default:	0.2	
 
 
 

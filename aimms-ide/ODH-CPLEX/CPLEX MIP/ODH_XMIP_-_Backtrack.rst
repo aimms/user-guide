@@ -6,11 +6,9 @@ Backtrack
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0, 1]	
-
-**Default**:	0.9999	
+:Type:	Floating point number	
+:Range:	[0, 1]	
+:Default:	0.9999	
 
 
 

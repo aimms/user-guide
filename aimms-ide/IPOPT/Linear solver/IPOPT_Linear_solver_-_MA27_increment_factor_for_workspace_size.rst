@@ -7,11 +7,9 @@ MA27 increment factor for workspace size
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1,1e+019]	
-
-**Default**:	10	
+:Type:	Floating point number	
+:Range:	[1,1e+019]	
+:Default:	10	
 
 
 

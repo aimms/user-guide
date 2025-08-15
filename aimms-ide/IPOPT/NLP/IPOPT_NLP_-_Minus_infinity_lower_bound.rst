@@ -8,11 +8,9 @@ Minus infinity lower bound
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[-1e+019,1e+019]	
-
-**Default**:	-1e+019	
+:Type:	Floating point number	
+:Range:	[-1e+019,1e+019]	
+:Default:	-1e+019	
 
 
 

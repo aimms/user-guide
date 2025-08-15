@@ -6,11 +6,9 @@ Calling Crash Procedure
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Call Crash three times	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Call Crash three times	
 
 
 

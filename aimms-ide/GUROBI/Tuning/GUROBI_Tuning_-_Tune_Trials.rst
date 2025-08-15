@@ -6,11 +6,9 @@ Tune Trials
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 2000000000}	
-
-**Default**:	3
+:Type:	Integer	
+:Range:	{1 .. 2000000000}	
+:Default:	3
 
 
 

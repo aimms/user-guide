@@ -6,11 +6,9 @@ Maximal Number of Generated Nodes
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..2100000000}	
-
-**Default**:	2000000000	
+:Type:	Integer	
+:Range:	{0..2100000000}	
+:Default:	2000000000	
 
 
 

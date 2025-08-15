@@ -8,11 +8,9 @@ Row Range Violation Left Hand Side
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	On	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	On	
 
 
 

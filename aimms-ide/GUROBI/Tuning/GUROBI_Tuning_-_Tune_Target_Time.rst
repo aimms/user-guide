@@ -6,11 +6,9 @@ Tune Target Time
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e100]	
-
-**Default**:	0.005
+:Type:	Floating point number	
+:Range:	[0,1e100]	
+:Default:	0.005
 
 
 

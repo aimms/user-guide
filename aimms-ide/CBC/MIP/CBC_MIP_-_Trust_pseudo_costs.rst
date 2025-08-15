@@ -6,11 +6,9 @@ Trust pseudo costs
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-3 .. 2000000}	
-
-**Default**:	5	
+:Type:	Integer	
+:Range:	{-3 .. 2000000}	
+:Default:	5	
 
 
 

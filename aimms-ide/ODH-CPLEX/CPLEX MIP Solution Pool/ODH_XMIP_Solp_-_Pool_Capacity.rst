@@ -6,11 +6,9 @@ Pool Capacity
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 2100000000}	
-
-**Default**:	2100000000	
+:Type:	Integer	
+:Range:	{0 .. 2100000000}	
+:Default:	2100000000	
 
 
 

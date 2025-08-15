@@ -5,11 +5,9 @@ Slow Progress Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[3e-13,1e-5]
-
-**Default**:	3e-12	
+:Type:	Floating point number	
+:Range:	[3e-13,1e-5]
+:Default:	3e-12	
 
 
 

@@ -6,11 +6,9 @@ Sequential resource inference level
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Default	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Default	
 
 
 

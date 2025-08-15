@@ -6,11 +6,9 @@ Crash Perturb Problem
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Yes	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Yes	
 
 
 

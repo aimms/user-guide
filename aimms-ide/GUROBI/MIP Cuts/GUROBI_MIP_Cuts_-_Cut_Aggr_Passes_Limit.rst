@@ -6,11 +6,9 @@ Cut Aggregation Passes Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-1 .. 2000000000}	
-
-**Default**:	-1	
+:Type:	Integer	
+:Range:	{-1 .. 2000000000}	
+:Default:	-1	
 
 
 

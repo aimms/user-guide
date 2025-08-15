@@ -6,11 +6,9 @@ New Superbasics Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..1000000}	
-
-**Default**:	99	
+:Type:	Integer	
+:Range:	{1..1000000}	
+:Default:	99	
 
 
 

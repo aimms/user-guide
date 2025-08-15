@@ -6,11 +6,9 @@ Maximum Divisor Repeats
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 2100000000}	
-
-**Default**:	3
+:Type:	Integer	
+:Range:	{1 .. 2100000000}	
+:Default:	3
 
 
 

@@ -8,11 +8,9 @@ Restore Original Solution After Analysis
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	No	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	No	
 
 
 

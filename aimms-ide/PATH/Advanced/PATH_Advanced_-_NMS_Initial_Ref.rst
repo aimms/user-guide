@@ -6,11 +6,9 @@ NMS Initial Reference Factor
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0, 1e6]	
-
-**Default**:	0.0	
+:Type:	Floating point number	
+:Range:	[0, 1e6]	
+:Default:	0.0	
 
 
 

@@ -6,11 +6,9 @@ Initial Barrier Penalty Value MPEC
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e20]	
-
-**Default**:	0
+:Type:	Floating point number	
+:Range:	[0,1e20]	
+:Default:	0
 
 
 

@@ -6,11 +6,9 @@ Number of Repair Attempts
 
 
 
-**Type**: 	Integer
-
-**Range**: 	{-1 .. 2147483647}
-
-**Default**: 	-1
+:Type: 	Integer
+:Range: 	{-1 .. 2147483647}
+:Default: 	-1
 
 
 

@@ -6,11 +6,9 @@ Chen Lambda
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0, 1]	
-
-**Default**:	0.8	
+:Type:	Floating point number	
+:Range:	[0, 1]	
+:Default:	0.8	
 
 
 

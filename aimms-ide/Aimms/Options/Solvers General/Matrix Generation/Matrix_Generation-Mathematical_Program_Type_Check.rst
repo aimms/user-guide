@@ -8,11 +8,9 @@ Mathematical Program Type Check
 
 
 
-**Type**:	Selection
-
-**Range**:	The settings listed below
-
-**Default**:	Post Generation
+:Type:	Selection
+:Range:	The settings listed below
+:Default:	Post Generation
 
 
 

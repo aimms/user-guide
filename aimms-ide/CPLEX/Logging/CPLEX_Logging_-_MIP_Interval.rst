@@ -6,11 +6,9 @@ MIP Interval
 
  
 
-**Type**:	Integer	
-
-**Range**:	{-2147483647 .. 2147483647}	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{-2147483647 .. 2147483647}	
+:Default:	0	
 
 
 

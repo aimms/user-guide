@@ -6,11 +6,9 @@ Cardinality encoding
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Count	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Count	
 
 
 

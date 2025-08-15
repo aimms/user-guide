@@ -6,11 +6,9 @@ Barrier Convergence Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-12,inf)	
-
-**Default**:	1e-8	
+:Type:	Floating point number	
+:Range:	[1e-12,inf)	
+:Default:	1e-8	
 
 
 

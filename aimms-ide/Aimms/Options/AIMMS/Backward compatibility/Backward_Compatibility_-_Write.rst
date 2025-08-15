@@ -8,11 +8,9 @@ Write in Backup Mode Ordering
 
 
 
-**Type**:	Selection	
-
-**Range**:	One of the settings listed below	
-
-**Default**:	AIMMS 3 4	
+:Type:	Selection	
+:Range:	One of the settings listed below	
+:Default:	AIMMS 3 4	
 
 
 

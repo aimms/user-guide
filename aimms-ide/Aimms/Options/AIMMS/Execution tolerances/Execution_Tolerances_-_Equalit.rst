@@ -8,11 +8,9 @@ Equality Absolute Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0, 1]	
-
-**Default**:	0	
+:Type:	Floating point number	
+:Range:	[0, 1]	
+:Default:	0	
 
 
 

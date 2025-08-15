@@ -5,11 +5,9 @@ Scaling Method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Largest term	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Largest term	
 
 
 

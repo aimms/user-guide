@@ -8,11 +8,9 @@ XML Number Width
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-1..32}	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{-1..32}	
+:Default:	0	
 
 
 

@@ -8,11 +8,9 @@ Warning Infeasible Row Col
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below		
-
-**Default**:	Error	
+:Type:	Selection	
+:Range:	The settings listed below		
+:Default:	Error	
 
 
 

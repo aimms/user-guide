@@ -8,11 +8,9 @@ Accept Basis
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1]	
-
-**Default**:	0.01	
+:Type:	Floating point number	
+:Range:	[0,1]	
+:Default:	0.01	
 
 
 

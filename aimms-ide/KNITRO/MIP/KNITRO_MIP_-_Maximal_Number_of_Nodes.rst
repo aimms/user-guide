@@ -6,11 +6,9 @@ Maximal Number of Nodes
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..1000000}	
-
-**Default**:	100000	
+:Type:	Integer	
+:Range:	{0..1000000}	
+:Default:	100000	
 
 
 

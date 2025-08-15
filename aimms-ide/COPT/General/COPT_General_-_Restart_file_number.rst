@@ -6,11 +6,9 @@ Restart File Number
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 99999}	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{0 .. 99999}	
+:Default:	0	
 
 
 

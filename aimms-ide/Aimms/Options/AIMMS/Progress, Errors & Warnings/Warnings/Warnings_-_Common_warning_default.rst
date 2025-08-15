@@ -8,11 +8,9 @@ Common warning default
 
 
 
-**Type**:	Selection
-
-**Range**:	The settings listed below	
-
-**Default**:	Warning_handle
+:Type:	Selection
+:Range:	The settings listed below	
+:Default:	Warning_handle
 
 
 

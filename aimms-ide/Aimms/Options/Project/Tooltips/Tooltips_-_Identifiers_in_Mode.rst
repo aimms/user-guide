@@ -8,11 +8,9 @@ Identifiers in Model Tree
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Only During Debugging/Profiling	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Only During Debugging/Profiling	
 
 
 

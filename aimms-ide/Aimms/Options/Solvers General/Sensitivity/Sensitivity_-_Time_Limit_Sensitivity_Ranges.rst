@@ -8,11 +8,9 @@ Time Limit Sensitivity Ranges
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..:ref:`Miscellaneous_Maxint`  }	
-
-**Default**:	:ref:`Miscellaneous_Maxint` 	
+:Type:	Integer	
+:Range:	{0..:ref:`Miscellaneous_Maxint`  }	
+:Default:	:ref:`Miscellaneous_Maxint` 	
 
 
 

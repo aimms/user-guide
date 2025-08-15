@@ -6,11 +6,9 @@ Data Check and Modeling Assistance
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Off	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Off	
 
 
 

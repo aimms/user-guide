@@ -6,11 +6,9 @@ Sifting
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-1 .. 5000000}	
-
-**Default**:	-1	
+:Type:	Integer	
+:Range:	{-1 .. 5000000}	
+:Default:	-1	
 
 
 

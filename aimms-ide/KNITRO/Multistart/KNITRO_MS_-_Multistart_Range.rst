@@ -6,11 +6,9 @@ Multistart Range
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e20]	
-
-**Default**:	1000
+:Type:	Floating point number	
+:Range:	[0,1e20]	
+:Default:	1000
 
 
 

@@ -8,11 +8,9 @@ Presolve Cycle Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..:ref:`Miscellaneous_Maxint` }	
-
-**Default**:	10	
+:Type:	Integer	
+:Range:	{0..:ref:`Miscellaneous_Maxint` }	
+:Default:	10	
 
 
 

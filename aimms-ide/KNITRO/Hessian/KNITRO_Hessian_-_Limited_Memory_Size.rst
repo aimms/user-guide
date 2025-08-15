@@ -6,11 +6,9 @@ Limited Memory Size
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..100}	
-
-**Default**:	10	
+:Type:	Integer	
+:Range:	{1..100}	
+:Default:	10	
 
 
 

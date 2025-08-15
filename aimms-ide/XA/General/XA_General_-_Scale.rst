@@ -6,11 +6,9 @@ Scale
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Column and row scaling	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Column and row scaling	
 
 
 

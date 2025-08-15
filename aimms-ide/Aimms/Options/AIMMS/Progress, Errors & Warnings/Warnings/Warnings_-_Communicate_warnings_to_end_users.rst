@@ -8,11 +8,9 @@ Communicate warnings to end users
 
 
 
-**Type**:	Selection
-
-**Range**:	The settings listed below	
-
-**Default**:	Off
+:Type:	Selection
+:Range:	The settings listed below	
+:Default:	Off
 
 
 

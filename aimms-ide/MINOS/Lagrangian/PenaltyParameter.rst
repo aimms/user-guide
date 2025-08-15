@@ -9,11 +9,9 @@ Penalty Parameter
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e20]	
-
-**Default**:	2000	
+:Type:	Floating point number	
+:Range:	[0,1e20]	
+:Default:	2000	
 
 
 

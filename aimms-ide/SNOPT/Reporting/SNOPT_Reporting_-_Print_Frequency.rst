@@ -6,11 +6,9 @@ Print Frequency
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..1000000}	
-
-**Default**:	100	
+:Type:	Integer	
+:Range:	{1..1000000}	
+:Default:	100	
 
 
 

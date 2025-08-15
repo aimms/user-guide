@@ -6,11 +6,9 @@ Minor Print Level
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..10}	
-
-**Default**:	1	
+:Type:	Integer	
+:Range:	{0..10}	
+:Default:	1	
 
 
 

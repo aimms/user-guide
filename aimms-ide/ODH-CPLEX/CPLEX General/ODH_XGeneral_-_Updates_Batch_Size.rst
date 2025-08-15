@@ -6,11 +6,9 @@ Updates Batch Size
 
 
 
-**Type**:	Integer	
-
-**Range**:	{10 .. 10000000}	
-
-**Default**:	1000000	
+:Type:	Integer	
+:Range:	{10 .. 10000000}	
+:Default:	1000000	
 
 
 

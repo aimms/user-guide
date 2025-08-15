@@ -8,11 +8,9 @@ Put Number Width
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..20}	
-
-**Default**:	12	
+:Type:	Integer	
+:Range:	{0..20}	
+:Default:	12	
 
 
 

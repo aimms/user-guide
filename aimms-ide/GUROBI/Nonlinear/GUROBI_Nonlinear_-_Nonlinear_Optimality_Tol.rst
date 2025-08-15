@@ -6,11 +6,9 @@ Nonlinear Optimality Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0.0,1e100]	
-
-**Default**:	1e-4	
+:Type:	Floating point number	
+:Range:	[0.0,1e100]	
+:Default:	1e-4	
 
 
 

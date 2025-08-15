@@ -6,11 +6,9 @@ Crash Method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Pnewton	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Pnewton	
 
 
 

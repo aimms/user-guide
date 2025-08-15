@@ -8,11 +8,9 @@ Singleton unit namespace
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Off	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Off	
 
 
 

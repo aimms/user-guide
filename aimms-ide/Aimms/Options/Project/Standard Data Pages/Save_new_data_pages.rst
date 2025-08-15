@@ -6,11 +6,9 @@
 Save new data pages
 ===================
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Upon confirmation
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Upon confirmation
 
 
 

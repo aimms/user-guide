@@ -8,11 +8,9 @@ Warning Quantity outside Main Namespace
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Warning in Develop else off		
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Warning in Develop else off		
 
 
 

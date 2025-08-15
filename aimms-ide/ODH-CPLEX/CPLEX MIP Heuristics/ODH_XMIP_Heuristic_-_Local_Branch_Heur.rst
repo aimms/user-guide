@@ -6,11 +6,9 @@ Local Branching Heuristic
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	No	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	No	
 
 
 

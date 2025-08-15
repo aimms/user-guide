@@ -8,11 +8,9 @@ File name
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Use baron	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Use baron	
 
 
 

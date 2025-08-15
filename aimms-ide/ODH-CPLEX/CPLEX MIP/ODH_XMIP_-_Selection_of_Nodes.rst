@@ -6,11 +6,9 @@ Selection of Nodes
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Best-bound	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Best-bound	
 
 
 

@@ -6,11 +6,9 @@ Presolve Redundant Constraints
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Remove Duplicate Constraints 	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Remove Duplicate Constraints 	
 
 
 

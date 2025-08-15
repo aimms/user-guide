@@ -8,9 +8,8 @@ Case Compatibility
 
 
 
-**Type**:	Selection	
-
-**Default**:	Aimms 3 14	
+:Type:	Selection	
+:Default:	Aimms 3 14	
 
 
 

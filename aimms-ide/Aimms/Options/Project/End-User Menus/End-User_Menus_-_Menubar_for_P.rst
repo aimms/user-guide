@@ -8,11 +8,9 @@ Menubar for Project Window
 
 
 
-**Type**:	Name of a menubar	
-
-**Range**:	AIMMS menubar	
-
-**Default**:	-	
+:Type:	Name of a menubar	
+:Range:	AIMMS menubar	
+:Default:	-	
 
 
 

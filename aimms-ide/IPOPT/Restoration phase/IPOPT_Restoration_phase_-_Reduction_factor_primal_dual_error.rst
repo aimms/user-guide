@@ -8,11 +8,9 @@ Reduction factor primal dual error
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e+019]	
-
-**Default**:	0.9999	
+:Type:	Floating point number	
+:Range:	[0,1e+019]	
+:Default:	0.9999	
 
 
 

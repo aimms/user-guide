@@ -9,11 +9,9 @@ Radius of Convergence
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-7,1]	
-
-**Default**:	0.01	
+:Type:	Floating point number	
+:Range:	[1e-7,1]	
+:Default:	0.01	
 
 
 

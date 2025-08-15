@@ -6,11 +6,9 @@ Population Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 2100000000}	
-
-**Default**:	20	
+:Type:	Integer	
+:Range:	{1 .. 2100000000}	
+:Default:	20	
 
 
 

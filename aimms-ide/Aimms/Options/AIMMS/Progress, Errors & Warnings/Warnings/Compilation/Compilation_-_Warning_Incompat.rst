@@ -8,11 +8,9 @@ Warning Incompatible Argument Data Type
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Common_warning_default	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Common_warning_default	
 
 
 

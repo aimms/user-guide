@@ -8,11 +8,9 @@ Adaptive strategy oracle
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Quality function	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Quality function	
 
 
 

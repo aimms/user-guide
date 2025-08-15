@@ -8,11 +8,9 @@ External function string buf size
 
 
 
-**Type**:	Integer	
-
-**Range**:	{32..maxint}	
-
-**Default**:	2048	
+:Type:	Integer	
+:Range:	{32..maxint}	
+:Default:	2048	
 
 
 

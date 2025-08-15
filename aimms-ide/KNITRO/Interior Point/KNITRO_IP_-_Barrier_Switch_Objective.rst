@@ -6,11 +6,9 @@ Barrier Switch Objective
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Scalar weighting	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Scalar weighting	
 
 
 

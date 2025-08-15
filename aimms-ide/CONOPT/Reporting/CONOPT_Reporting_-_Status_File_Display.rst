@@ -5,11 +5,9 @@ Status File Display
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	None	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	None	
 
 
 

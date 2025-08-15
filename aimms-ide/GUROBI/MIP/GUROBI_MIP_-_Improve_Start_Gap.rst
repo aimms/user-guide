@@ -6,11 +6,9 @@ Improve Start Gap
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0.0,1e100]	
-
-**Default**:	0.0
+:Type:	Floating point number	
+:Range:	[0.0,1e100]	
+:Default:	0.0
 
 
 

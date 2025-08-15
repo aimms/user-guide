@@ -6,11 +6,9 @@ Box Size Factor Linear Variables
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1,1000]
-
-**Default**:	10	
+:Type:	Floating point number	
+:Range:	[1,1000]
+:Default:	10	
 
 
 

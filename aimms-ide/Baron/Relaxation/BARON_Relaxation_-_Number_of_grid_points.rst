@@ -6,11 +6,9 @@ Number of grid points
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 100}	
-
-**Default**:	20	
+:Type:	Integer	
+:Range:	{1 .. 100}	
+:Default:	20	
 
 
 

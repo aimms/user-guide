@@ -8,11 +8,9 @@ Require Binding domain for to be indices only
 
 
 
-**Type**:	Selection	
-
-**Range**:	One of the settings listed below	
-
-**Default**:	On
+:Type:	Selection	
+:Range:	One of the settings listed below	
+:Default:	On
 
 
 

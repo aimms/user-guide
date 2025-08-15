@@ -6,11 +6,9 @@ Heuristic Frequency
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-1 .. 2147483647}	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{-1 .. 2147483647}	
+:Default:	0	
 
 
 

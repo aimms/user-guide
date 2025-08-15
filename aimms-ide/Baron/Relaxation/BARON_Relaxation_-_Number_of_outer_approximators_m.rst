@@ -6,11 +6,9 @@ Number of outer approximators multi
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 100}	
-
-**Default**:	4	
+:Type:	Integer	
+:Range:	{1 .. 100}	
+:Default:	4	
 
 
 

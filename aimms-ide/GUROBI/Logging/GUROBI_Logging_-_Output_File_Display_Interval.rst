@@ -6,11 +6,9 @@ Output File Display Interval
 
 
 
-**Type**: 	Integer
-
-**Range**: 	{1 .. 2000000000}
-
-**Default**: 	5
+:Type: 	Integer
+:Range: 	{1 .. 2000000000}
+:Default: 	5
 
 
 

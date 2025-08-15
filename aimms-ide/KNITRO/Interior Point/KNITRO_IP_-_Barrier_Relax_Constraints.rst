@@ -6,11 +6,9 @@ Barrier Relax Constraints
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Inequality	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Inequality	
 
 
 

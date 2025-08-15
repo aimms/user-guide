@@ -8,11 +8,9 @@ Thread limit MIP
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 2100000000}	
-
-**Default**:	1	
+:Type:	Integer	
+:Range:	{1 .. 2100000000}	
+:Default:	1	
 
 
 

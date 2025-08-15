@@ -8,11 +8,9 @@ Fixed variable handling
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Convert to parameter	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Convert to parameter	
 
 
 

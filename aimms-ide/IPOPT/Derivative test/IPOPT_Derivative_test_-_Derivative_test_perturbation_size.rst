@@ -8,11 +8,9 @@ Derivative test perturbation size
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-010,1e+019]	
-
-**Default**:	1e-008	
+:Type:	Floating point number	
+:Range:	[1e-010,1e+019]	
+:Default:	1e-008	
 
 
 

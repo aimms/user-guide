@@ -6,11 +6,9 @@ Output level
 
 
 
-**Type**: 	Integer
-
-**Range**: 	{-1 .. 63}
-
-**Default**: 	1
+:Type: 	Integer
+:Range: 	{-1 .. 63}
+:Default: 	1
 
 
 

@@ -6,11 +6,9 @@ Cuts Factor
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[-1, inf)	
-
-**Default**:	-1	
+:Type:	Floating point number	
+:Range:	[-1, inf)	
+:Default:	-1	
 
 
 

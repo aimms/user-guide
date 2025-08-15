@@ -6,9 +6,8 @@
 Default data folder
 ===================
 
-**Type**:	Name of a directory	
-
-**Default**:	data
+:Type:	Name of a directory	
+:Default:	data
 
 
 

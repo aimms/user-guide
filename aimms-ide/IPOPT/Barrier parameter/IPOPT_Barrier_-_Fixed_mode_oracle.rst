@@ -8,11 +8,9 @@ Fixed mode oracle
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Average complementarity	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Average complementarity	
 
 
 

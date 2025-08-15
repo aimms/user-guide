@@ -8,11 +8,9 @@ Variable default range type
 
 
 
-**Type**:	Selection
-
-**Range**:	The settings listed below	
-
-**Default**:	Free	
+:Type:	Selection
+:Range:	The settings listed below	
+:Default:	Free	
 
 
 

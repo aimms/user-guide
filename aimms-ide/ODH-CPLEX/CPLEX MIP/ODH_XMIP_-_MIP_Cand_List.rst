@@ -7,11 +7,9 @@ MIP Candidate List
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1.. 2100000000}	
-
-**Default**:	10	
+:Type:	Integer	
+:Range:	{1.. 2100000000}	
+:Default:	10	
 
 
 

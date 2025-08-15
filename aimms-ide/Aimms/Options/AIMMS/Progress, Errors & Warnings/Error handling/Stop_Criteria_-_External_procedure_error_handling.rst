@@ -8,11 +8,9 @@ External procedure error handling
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Raise_when_not_checked
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Raise_when_not_checked
 
 
 

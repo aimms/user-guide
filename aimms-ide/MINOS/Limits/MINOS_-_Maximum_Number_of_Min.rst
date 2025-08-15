@@ -6,11 +6,9 @@ Maximum Number of Minor Iterations
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..10000000}	
-
-**Default**:	40	
+:Type:	Integer	
+:Range:	{1..10000000}	
+:Default:	40	
 
 
 

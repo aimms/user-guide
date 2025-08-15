@@ -6,11 +6,9 @@ Presolve Aggregation
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Moderate	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Moderate	
 
 
 

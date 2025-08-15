@@ -6,11 +6,9 @@ PSD Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0.0,1e100]	
-
-**Default**:	1e-6	
+:Type:	Floating point number	
+:Range:	[0.0,1e100]	
+:Default:	1e-6	
 
 
 

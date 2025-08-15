@@ -6,11 +6,9 @@ Crash Iteration Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 1000000}	
-
-**Default**:	50	
+:Type:	Integer	
+:Range:	{0 .. 1000000}	
+:Default:	50	
 
 
 

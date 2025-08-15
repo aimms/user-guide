@@ -6,11 +6,9 @@ Absolute Optimality Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e20]	
-
-**Default**:	0.001	
+:Type:	Floating point number	
+:Range:	[0,1e20]	
+:Default:	0.001	
 
 
 

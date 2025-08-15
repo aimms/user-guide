@@ -8,11 +8,9 @@ Maximum value for barrier parameter
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e+019]	
-
-**Default**:	100000	
+:Type:	Floating point number	
+:Range:	[0,1e+019]	
+:Default:	100000	
 
 
 

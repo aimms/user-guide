@@ -8,11 +8,9 @@ Bad scaling threshold
 
 
 
-**Type**:	Selection	
-
-**Range**:	[10,1e9]	
-
-**Default**:	1000	
+:Type:	Selection	
+:Range:	[10,1e9]	
+:Default:	1000	
 
 
 

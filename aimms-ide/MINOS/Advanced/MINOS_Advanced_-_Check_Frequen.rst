@@ -6,11 +6,9 @@ Check Frequency
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..10000000}	
-
-**Default**:	60	
+:Type:	Integer	
+:Range:	{1..10000000}	
+:Default:	60	
 
 
 

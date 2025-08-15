@@ -6,11 +6,9 @@ Node selection
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Fewest infeasibilities	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Fewest infeasibilities	
 
 
 

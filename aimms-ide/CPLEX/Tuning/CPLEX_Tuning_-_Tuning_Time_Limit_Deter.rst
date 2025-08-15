@@ -6,11 +6,9 @@ Tuning Time Limit Deterministic
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1,inf)	
-
-**Default**:	1e75
+:Type:	Floating point number	
+:Range:	[1,inf)	
+:Default:	1e75
 
 
 

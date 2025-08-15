@@ -9,11 +9,9 @@ Create Basis from Starting Point
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Off	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Off	
 
 
 

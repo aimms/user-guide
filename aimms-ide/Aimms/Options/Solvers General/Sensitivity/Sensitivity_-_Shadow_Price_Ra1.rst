@@ -8,11 +8,9 @@ Shadow Price Range Relative Tolerance
 
 
 
-**Type**:	Floating Point Number	
-
-**Range**:	[0, 1]	
-
-**Default**:	0	
+:Type:	Floating Point Number	
+:Range:	[0, 1]	
+:Default:	0	
 
 
 

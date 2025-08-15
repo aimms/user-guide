@@ -6,11 +6,9 @@ LU Pivoting Method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Complete	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Complete	
 
 
 

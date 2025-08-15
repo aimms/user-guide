@@ -6,11 +6,9 @@ NMS Search Type
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Line	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Line	
 
 
 

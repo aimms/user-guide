@@ -6,11 +6,9 @@ Random Seed
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 2100000000}	
-
-**Default**:	201206211
+:Type:	Integer	
+:Range:	{0 .. 2100000000}	
+:Default:	201206211
 
 
 

@@ -6,11 +6,9 @@ Derivative Option
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	All gradients are known	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	All gradients are known	
 
 
 

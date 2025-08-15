@@ -8,11 +8,9 @@ Derivative test tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-010,1e+019]	
-
-**Default**:	0.0001	
+:Type:	Floating point number	
+:Range:	[1e-010,1e+019]	
+:Default:	0.0001	
 
 
 

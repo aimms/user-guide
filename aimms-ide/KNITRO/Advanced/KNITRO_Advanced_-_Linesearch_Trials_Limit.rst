@@ -6,11 +6,9 @@ Linesearch Trials Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..1000000}	
-
-**Default**:	3	
+:Type:	Integer	
+:Range:	{1..1000000}	
+:Default:	3	
 
 
 

@@ -6,11 +6,9 @@ Initial Divisor Value Sub Models
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 2100000000}	
-
-**Default**:	4
+:Type:	Integer	
+:Range:	{1 .. 2100000000}	
+:Default:	4
 
 
 

@@ -6,11 +6,9 @@ Decomposition Density
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,100]
-
-**Default**:	0.3
+:Type:	Floating point number	
+:Range:	[0,100]
+:Default:	0.3
 
 
 

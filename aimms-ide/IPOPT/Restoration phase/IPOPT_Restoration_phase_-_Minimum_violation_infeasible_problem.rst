@@ -8,11 +8,9 @@ Minimum violation infeasible problem
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e+019]	
-
-**Default**:	0.001	
+:Type:	Floating point number	
+:Range:	[0,1e+019]	
+:Default:	0.001	
 
 
 

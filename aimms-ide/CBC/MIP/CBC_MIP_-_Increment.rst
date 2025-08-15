@@ -6,11 +6,9 @@ Increment
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[-1e20,1e20]	
-
-**Default**:	1e-5	
+:Type:	Floating point number	
+:Range:	[-1e20,1e20]	
+:Default:	1e-5	
 
 
 

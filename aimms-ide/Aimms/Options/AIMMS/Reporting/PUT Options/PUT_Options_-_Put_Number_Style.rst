@@ -8,11 +8,9 @@ Put Number Style
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Fit field or e format	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Fit field or e format	
 
 
 

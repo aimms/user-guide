@@ -6,11 +6,9 @@ Branch
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Algorithm decides	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Algorithm decides	
 
 
 

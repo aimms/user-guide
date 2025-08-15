@@ -3,11 +3,9 @@
 Partition Heuristic
 ===================
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 31}	
-
-**Default**:	15	
+:Type:	Integer	
+:Range:	{0 .. 31}	
+:Default:	15	
 
 This option controls where the partition heuristic runs. Choices are:
 

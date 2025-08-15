@@ -6,11 +6,9 @@ QCP Dual Values
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	If possible	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	If possible	
 
 
 

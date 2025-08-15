@@ -8,11 +8,9 @@ Initial Column Reservation
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..10485760}	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{0..10485760}	
+:Default:	0	
 
 
 

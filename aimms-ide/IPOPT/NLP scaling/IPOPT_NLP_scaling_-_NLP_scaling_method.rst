@@ -8,11 +8,9 @@ NLP scaling method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Gradient based	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Gradient based	
 
 
 

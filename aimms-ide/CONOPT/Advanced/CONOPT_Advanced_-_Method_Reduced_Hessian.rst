@@ -6,11 +6,9 @@ Method for Reduced Hessian
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Geometric mean	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Geometric mean	
 
 
 

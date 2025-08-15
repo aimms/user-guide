@@ -8,11 +8,9 @@ Memory Manager - Static Area Size
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..:ref:`Miscellaneous_Maxint`  }	
-
-**Default**:	256	
+:Type:	Integer	
+:Range:	{1..:ref:`Miscellaneous_Maxint`  }	
+:Default:	256	
 
 
 

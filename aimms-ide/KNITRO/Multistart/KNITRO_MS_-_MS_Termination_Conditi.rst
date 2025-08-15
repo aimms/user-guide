@@ -6,11 +6,9 @@ Multistart Termination Condition
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Normal	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Normal	
 
 
 

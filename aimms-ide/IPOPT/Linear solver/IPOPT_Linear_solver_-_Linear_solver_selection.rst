@@ -8,11 +8,9 @@ Linear solver selection
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	MUMPS solver	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	MUMPS solver	
 
 
 

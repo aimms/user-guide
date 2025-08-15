@@ -6,11 +6,9 @@ Network Iterations
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 2147483647}	
-
-**Default**:	2147483647	
+:Type:	Integer	
+:Range:	{0 .. 2147483647}	
+:Default:	2147483647	
 
 
 

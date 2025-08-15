@@ -8,11 +8,9 @@ Maximum number of iterations
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..2147483647}	
-
-**Default**:	3000	
+:Type:	Integer	
+:Range:	{0..2147483647}	
+:Default:	3000	
 
 
 

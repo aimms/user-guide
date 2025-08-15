@@ -5,11 +5,9 @@ Check 2nd Order Derivatives
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-1..:ref:`Miscellaneous_Maxint` }		
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{-1..:ref:`Miscellaneous_Maxint` }		
+:Default:	0	
 
 
 

@@ -8,11 +8,9 @@ Use Empty Toolbar instead of None
 
 
 
-**Type**:	Selection	
-
-**Range**:	One of the values listed below 	
-
-**Default**:	Never
+:Type:	Selection	
+:Range:	One of the values listed below 	
+:Default:	Never
 
 
 

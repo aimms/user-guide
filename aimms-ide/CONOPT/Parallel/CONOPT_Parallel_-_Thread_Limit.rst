@@ -5,11 +5,9 @@ Thread Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..:ref:`Miscellaneous_Maxint` }	
-
-**Default**:	1	
+:Type:	Integer	
+:Range:	{0..:ref:`Miscellaneous_Maxint` }	
+:Default:	1	
 
 
 

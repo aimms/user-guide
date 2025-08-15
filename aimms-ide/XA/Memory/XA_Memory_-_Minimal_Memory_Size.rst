@@ -6,11 +6,9 @@ Minimal Memory Size
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..:ref:`Miscellaneous_Maxint`  }	
-
-**Default**:	65536	
+:Type:	Integer	
+:Range:	{0..:ref:`Miscellaneous_Maxint`  }	
+:Default:	65536	
 
 
 

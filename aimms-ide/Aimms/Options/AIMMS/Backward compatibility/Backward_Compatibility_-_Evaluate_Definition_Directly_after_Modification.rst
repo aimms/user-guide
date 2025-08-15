@@ -8,11 +8,9 @@ Evaluate Definition Directly after Modification
 
 
 
-**Type**:	Selection	
-
-**Range**:	One of the settings listed below	
-
-**Default**:	Off	
+:Type:	Selection	
+:Range:	One of the settings listed below	
+:Default:	Off	
 
 
 

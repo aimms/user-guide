@@ -6,11 +6,9 @@ Barrier Iteration Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 2000000000}	
-
-**Default**:	1000	
+:Type:	Integer	
+:Range:	{0 .. 2000000000}	
+:Default:	1000	
 
 
 

@@ -8,11 +8,9 @@ Model file page width
 
 
 
-**Type**:	Integer	
-
-**Range**:	{40 .. 2100000000}	
-
-**Default**:	80	
+:Type:	Integer	
+:Range:	{40 .. 2100000000}	
+:Default:	80	
 
 
 

@@ -8,11 +8,9 @@ Node selection
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Mixed selection	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Mixed selection	
 
 
 

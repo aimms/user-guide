@@ -6,11 +6,9 @@ Integrality
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-20,0.5]	
-
-**Default**:	1e-6	
+:Type:	Floating point number	
+:Range:	[1e-20,0.5]	
+:Default:	1e-6	
 
 
 

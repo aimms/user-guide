@@ -6,11 +6,9 @@ Maximal Number of Subproblem Solves
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..1000000}	
-
-**Default**:	200000	
+:Type:	Integer	
+:Range:	{0..1000000}	
+:Default:	200000	
 
 
 

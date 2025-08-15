@@ -6,11 +6,9 @@ Unboundedness Range
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e20]	
-
-**Default**:	1e20	
+:Type:	Floating point number	
+:Range:	[0,1e20]	
+:Default:	1e20	
 
 
 

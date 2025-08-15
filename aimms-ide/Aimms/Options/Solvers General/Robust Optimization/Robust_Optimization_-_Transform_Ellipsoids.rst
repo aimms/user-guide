@@ -8,11 +8,9 @@ Transform Ellipsoids
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Both
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Both
 
 
 

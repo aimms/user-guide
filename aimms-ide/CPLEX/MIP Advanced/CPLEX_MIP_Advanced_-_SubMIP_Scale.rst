@@ -6,11 +6,9 @@ SubMIP Scale
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Standard	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Standard	
 
 
 

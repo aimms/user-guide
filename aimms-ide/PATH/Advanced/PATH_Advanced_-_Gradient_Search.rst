@@ -6,11 +6,9 @@ Gradient Search Type
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Arc	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Arc	
 
 
 

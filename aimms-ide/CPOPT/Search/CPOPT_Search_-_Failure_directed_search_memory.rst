@@ -6,11 +6,9 @@ Failure directed search memory limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..2100000000}	
-
-**Default**:	104857600
+:Type:	Integer	
+:Range:	{0..2100000000}	
+:Default:	104857600
 
 
 

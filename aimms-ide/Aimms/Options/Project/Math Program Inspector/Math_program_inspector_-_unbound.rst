@@ -8,11 +8,9 @@ Unboundedness analysis bound
 
 
 
-**Type**:	Selection	
-
-**Range**:	[1,1e20]	
-
-**Default**:	1e7
+:Type:	Selection	
+:Range:	[1,1e20]	
+:Default:	1e7
 
 
 

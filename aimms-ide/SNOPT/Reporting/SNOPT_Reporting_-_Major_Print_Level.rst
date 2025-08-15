@@ -6,11 +6,9 @@ Major Print Level
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..63}	
-
-**Default**:	1	
+:Type:	Integer	
+:Range:	{0..63}	
+:Default:	1	
 
 
 

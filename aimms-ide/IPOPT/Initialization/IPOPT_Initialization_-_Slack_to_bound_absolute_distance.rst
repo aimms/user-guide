@@ -8,11 +8,9 @@ Slack to bound absolute distance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e+019]	
-
-**Default**:	0.01	
+:Type:	Floating point number	
+:Range:	[0,1e+019]	
+:Default:	0.01	
 
 
 

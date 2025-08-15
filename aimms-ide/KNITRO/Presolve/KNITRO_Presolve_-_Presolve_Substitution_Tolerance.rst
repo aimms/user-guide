@@ -6,11 +6,9 @@ Presolve Substitution Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e20]	
-
-**Default**:	1e-2	
+:Type:	Floating point number	
+:Range:	[0,1e20]	
+:Default:	1e-2	
 
 
 

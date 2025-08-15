@@ -6,11 +6,9 @@ Reject Infeasible Solutions
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Reject	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Reject	
 
 
 

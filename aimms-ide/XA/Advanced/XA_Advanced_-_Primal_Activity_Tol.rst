@@ -6,11 +6,9 @@ Primal Activity Tolerance
 
 
 
-**Type**:	Real	
-
-**Range**:	[0,1]	
-
-**Default**:	1e-7	
+:Type:	Real	
+:Range:	[0,1]	
+:Default:	1e-7	
 
 
 

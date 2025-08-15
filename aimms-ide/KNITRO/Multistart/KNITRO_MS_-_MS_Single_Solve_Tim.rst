@@ -6,11 +6,9 @@ Multistart Single Solve Time Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..1000000}	
-
-**Default**:	1000000	
+:Type:	Integer	
+:Range:	{0..1000000}	
+:Default:	1000000	
 
 
 

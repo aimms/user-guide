@@ -8,11 +8,9 @@ Formatstring Translate Inf
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	(-inf,inf)	
-
-**Default**:	1e150	
+:Type:	Floating point number	
+:Range:	(-inf,inf)	
+:Default:	1e150	
 
 
 

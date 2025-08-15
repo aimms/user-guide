@@ -5,11 +5,9 @@ Minimal Scaling Factor
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-10,1.0]	
-
-**Default**:	1.0	
+:Type:	Floating point number	
+:Range:	[1e-10,1.0]	
+:Default:	1.0	
 
 
 

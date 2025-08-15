@@ -6,11 +6,9 @@ MIP Heuristic Terminate
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Feasible	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Feasible	
 
 
 

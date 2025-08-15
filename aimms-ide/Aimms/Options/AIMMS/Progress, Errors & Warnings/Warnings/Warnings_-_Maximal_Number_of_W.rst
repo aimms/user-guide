@@ -8,11 +8,9 @@ Maximal Number of Warnings Reported
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..:ref:`Miscellaneous_Maxint`  }	
-
-**Default**:	20	
+:Type:	Integer	
+:Range:	{0..:ref:`Miscellaneous_Maxint`  }	
+:Default:	20	
 
 
 

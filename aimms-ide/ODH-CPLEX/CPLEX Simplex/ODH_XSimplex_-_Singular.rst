@@ -6,11 +6,9 @@ Singular
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 2100000000}	
-
-**Default**:	10	
+:Type:	Integer	
+:Range:	{0 .. 2100000000}	
+:Default:	10	
 
 
 

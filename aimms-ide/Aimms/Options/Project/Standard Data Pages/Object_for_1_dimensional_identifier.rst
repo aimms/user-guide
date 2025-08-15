@@ -6,11 +6,9 @@
 Object for 1-dimensional identifier
 ===================================
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Pivot Table	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Pivot Table	
 
 
 

@@ -8,11 +8,9 @@ Reformulate Constraints
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Multi	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Multi	
 
 
 

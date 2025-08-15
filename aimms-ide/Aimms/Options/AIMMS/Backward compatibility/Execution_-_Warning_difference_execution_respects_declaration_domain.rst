@@ -6,11 +6,9 @@
 Warning Difference Execution Respects Declaration Domain
 ========================================================
 
-**Type**: 	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Off	
+:Type: 	Selection	
+:Range:	The settings listed below	
+:Default:	Off	
 
 
 

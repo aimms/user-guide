@@ -8,11 +8,9 @@ Row Range Violation Left Hand Side Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0.0, 1.0]	
-
-**Default**:	0.001
+:Type:	Floating point number	
+:Range:	[0.0, 1.0]	
+:Default:	0.001
 
 
 

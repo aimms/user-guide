@@ -8,11 +8,9 @@ Bound multipliers initialization method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Constant	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Constant	
 
 
 

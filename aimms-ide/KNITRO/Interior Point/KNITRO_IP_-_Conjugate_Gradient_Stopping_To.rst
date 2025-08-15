@@ -6,11 +6,9 @@ Conjugate Gradient Stopping Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e20]	
-
-**Default**:	0.01	
+:Type:	Floating point number	
+:Range:	[0,1e20]	
+:Default:	0.01	
 
 
 

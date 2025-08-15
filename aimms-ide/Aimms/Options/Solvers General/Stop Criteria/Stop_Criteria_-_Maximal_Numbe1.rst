@@ -8,11 +8,9 @@ Maximal Number of Domain Errors
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..:ref:`Miscellaneous_Maxint`  }	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{0..:ref:`Miscellaneous_Maxint`  }	
+:Default:	0	
 
 
 

@@ -6,11 +6,9 @@ Major Optimality Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1000]	
-
-**Default**:	1e-6	
+:Type:	Floating point number	
+:Range:	[0,1000]	
+:Default:	1e-6	
 
 
 

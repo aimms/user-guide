@@ -6,11 +6,9 @@ LP Solver
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Internal	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Internal	
 
 
 

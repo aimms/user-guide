@@ -8,11 +8,9 @@ Warning Derivative Evaluation Errors
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Error	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Error	
 
 
 

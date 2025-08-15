@@ -8,11 +8,9 @@ MINLP Probing
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Limited	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Limited	
 
 
 

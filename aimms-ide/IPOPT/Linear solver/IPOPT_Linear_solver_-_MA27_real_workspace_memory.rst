@@ -8,11 +8,9 @@ MA27 real workspace memory
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1,1e+019]	
-
-**Default**:	5	
+:Type:	Floating point number	
+:Range:	[1,1e+019]	
+:Default:	5	
 
 
 

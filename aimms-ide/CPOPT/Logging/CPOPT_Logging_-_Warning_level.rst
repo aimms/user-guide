@@ -6,11 +6,9 @@ Warning level
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..3}	
-
-**Default**:	2	
+:Type:	Integer	
+:Range:	{0..3}	
+:Default:	2	
 
 
 

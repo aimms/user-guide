@@ -8,9 +8,8 @@ Severe Internal Error Contact
 
 
 
-**Type**:	String	
-
-**Default**:	AIMMS technical support via Support@aimms.com	
+:Type:	String	
+:Default:	AIMMS technical support via Support@aimms.com	
 
 
 

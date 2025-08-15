@@ -8,11 +8,9 @@ Constraint Listing Robust Optimization
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Robust counterpart	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Robust counterpart	
 
 
 

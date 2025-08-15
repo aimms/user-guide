@@ -5,11 +5,9 @@ Relative Pivot Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0.001,0.9]	
-
-**Default**:	0.05	
+:Type:	Floating point number	
+:Range:	[0.001,0.9]	
+:Default:	0.05	
 
 
 

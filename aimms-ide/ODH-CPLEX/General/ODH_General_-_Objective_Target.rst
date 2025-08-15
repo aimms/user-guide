@@ -6,11 +6,9 @@ Objective Target
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[-1e99,-1e99]	
-
-**Default**:	1e99	
+:Type:	Floating point number	
+:Range:	[-1e99,-1e99]	
+:Default:	1e99	
 
 
 

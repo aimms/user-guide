@@ -8,11 +8,9 @@ Warning Round Tolerance
 
 
 
-**Type**:	Selection	
-
-**Range**:	[1e-13, 0.5]	
-
-**Default**:	1e-6
+:Type:	Selection	
+:Range:	[1e-13, 0.5]	
+:Default:	1e-6
 
 
 

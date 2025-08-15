@@ -8,11 +8,9 @@ Warning Trivial Row Minimal Percentage
 
 
 
-**Type**:	Integer	
-
-**Range**:	{ 50 .. 100 }	
-
-**Default**:	80
+:Type:	Integer	
+:Range:	{ 50 .. 100 }	
+:Default:	80
 
 
 

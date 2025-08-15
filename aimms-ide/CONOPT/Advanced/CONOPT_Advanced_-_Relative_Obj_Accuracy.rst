@@ -6,11 +6,9 @@ Relative Objective Accuracy
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[3e-14,1e-6]
-
-**Default**:	3e-13	
+:Type:	Floating point number	
+:Range:	[3e-14,1e-6]
+:Default:	3e-13	
 
 
 

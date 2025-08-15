@@ -8,11 +8,9 @@ Evaluations Range Integer Variables
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..:ref:`Miscellaneous_Maxint` }	
-
-**Default**:	5	
+:Type:	Integer	
+:Range:	{0..:ref:`Miscellaneous_Maxint` }	
+:Default:	5	
 
 
 

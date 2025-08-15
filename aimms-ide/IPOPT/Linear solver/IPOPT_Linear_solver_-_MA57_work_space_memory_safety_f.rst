@@ -8,11 +8,9 @@ MA57 work space memory safety factor
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1,1e+019]	
-
-**Default**:	3	
+:Type:	Floating point number	
+:Range:	[1,1e+019]	
+:Default:	3	
 
 
 

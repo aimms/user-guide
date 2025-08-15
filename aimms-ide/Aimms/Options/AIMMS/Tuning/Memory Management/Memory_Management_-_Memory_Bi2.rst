@@ -8,11 +8,9 @@ Memory Bin Resolution
 
 
 
-**Type**:	Selection	
-
-**Range**:	One of the settings listed below	
-
-**Default**:	8 byte	
+:Type:	Selection	
+:Range:	One of the settings listed below	
+:Default:	8 byte	
 
 
 

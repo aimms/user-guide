@@ -6,11 +6,9 @@ Log verbosity
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Quiet	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Quiet	
 
 
 

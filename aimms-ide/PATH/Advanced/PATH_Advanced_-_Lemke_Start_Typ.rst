@@ -6,11 +6,9 @@ Lemke Start Type
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Slack	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Slack	
 
 
 

@@ -6,11 +6,9 @@ Cut passes root node
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-999999 .. 999999}	
-
-**Default**:	-1	
+:Type:	Integer	
+:Range:	{-999999 .. 999999}	
+:Default:	-1	
 
 
 

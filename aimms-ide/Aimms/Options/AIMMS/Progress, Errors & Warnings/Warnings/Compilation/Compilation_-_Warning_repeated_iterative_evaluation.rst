@@ -8,11 +8,9 @@ Warning Repeated Iterative Evaluation
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Strict_warning_default	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Strict_warning_default	
 
 
 

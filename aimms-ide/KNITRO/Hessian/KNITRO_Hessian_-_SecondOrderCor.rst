@@ -6,11 +6,9 @@ Second Order Correction
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	At some iterations	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	At some iterations	
 
 
 

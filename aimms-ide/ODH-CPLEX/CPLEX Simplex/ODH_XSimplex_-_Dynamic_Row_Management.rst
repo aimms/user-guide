@@ -6,11 +6,9 @@ Dynamic Row Management
 
 
 
-**Type**:	Selection	
-
-**Range**:	One of the settings listed below	
-
-**Default**:	Automatic	
+:Type:	Selection	
+:Range:	One of the settings listed below	
+:Default:	Automatic	
 
 
 

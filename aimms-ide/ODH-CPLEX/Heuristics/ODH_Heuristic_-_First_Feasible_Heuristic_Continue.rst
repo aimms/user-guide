@@ -6,11 +6,9 @@ First Feasible Heuristic Continue
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Stop after feasible solution found	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Stop after feasible solution found	
 
 
 

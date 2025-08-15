@@ -6,11 +6,9 @@ MIP Strategy Estimate Integer Solution
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Normal	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Normal	
 
 
 

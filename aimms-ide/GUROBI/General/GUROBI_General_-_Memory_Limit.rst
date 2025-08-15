@@ -6,11 +6,9 @@ Memory Limit
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e100]	
-
-**Default**:	1e100
+:Type:	Floating point number	
+:Range:	[0,1e100]	
+:Default:	1e100
 
 
 

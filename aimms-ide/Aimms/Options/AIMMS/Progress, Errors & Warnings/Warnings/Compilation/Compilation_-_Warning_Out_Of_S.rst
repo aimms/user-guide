@@ -8,11 +8,9 @@ Warning Out of Specified Scope
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Warning		
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Warning		
 
 
 

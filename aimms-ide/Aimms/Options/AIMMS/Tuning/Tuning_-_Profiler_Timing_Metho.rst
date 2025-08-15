@@ -8,11 +8,9 @@ Profiler Timing Method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Performance Count	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Performance Count	
 
 
 

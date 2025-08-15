@@ -6,11 +6,9 @@ Reinvert Frequency
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..2100000000}	
-
-**Default**:	40	
+:Type:	Integer	
+:Range:	{0..2100000000}	
+:Default:	40	
 
 
 

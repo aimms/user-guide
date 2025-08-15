@@ -8,9 +8,8 @@ Startup Page
 
 
 
-**Type**:	Name of a page	
-
-**Default**:	-	
+:Type:	Name of a page	
+:Default:	-	
 
 
 

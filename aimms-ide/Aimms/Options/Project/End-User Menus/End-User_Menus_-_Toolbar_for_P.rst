@@ -8,11 +8,9 @@ Toolbar for Project Window
 
 
 
-**Type**:	Name of a toolbar	
-
-**Range**:	AIMMS toolbar	
-
-**Default**:	-	
+:Type:	Name of a toolbar	
+:Range:	AIMMS toolbar	
+:Default:	-	
 
 
 

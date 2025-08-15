@@ -8,11 +8,9 @@ Api Accesses All Identifiers
 
 
 
-**Type**:	Selection	
-
-**Range**:	{ on, off }	
-
-**Default**:	off	
+:Type:	Selection	
+:Range:	{ on, off }	
+:Default:	off	
 
 
 

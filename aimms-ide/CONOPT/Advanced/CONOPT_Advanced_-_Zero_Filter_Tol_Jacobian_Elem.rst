@@ -5,11 +5,9 @@ Zero Filter Tolerance Jacobian Elements
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-30,1]
-
-**Default**:	1e-20	
+:Type:	Floating point number	
+:Range:	[1e-30,1]
+:Default:	1e-20	
 
 
 

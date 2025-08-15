@@ -8,11 +8,9 @@ Put Translate NA
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	(-inf,inf)	
-
-**Default**:	0	
+:Type:	Floating point number	
+:Range:	(-inf,inf)	
+:Default:	0	
 
 
 

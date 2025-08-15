@@ -8,11 +8,9 @@ MUMPS pivot order
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..7}	
-
-**Default**:	7	
+:Type:	Integer	
+:Range:	{0..7}	
+:Default:	7	
 
 
 

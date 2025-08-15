@@ -8,11 +8,9 @@ Rounding Compatibility
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Not Selected	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Not Selected	
 
 
 

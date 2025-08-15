@@ -6,11 +6,9 @@ Simplex Display
 
  
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	At refactorizations	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	At refactorizations	
 
 
 

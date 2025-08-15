@@ -6,11 +6,9 @@ Tuner Terminate
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Complete all solves	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Complete all solves	
 
 
 

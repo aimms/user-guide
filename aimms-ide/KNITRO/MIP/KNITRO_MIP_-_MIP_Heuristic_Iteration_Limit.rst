@@ -6,11 +6,9 @@ MIP Heuristic Iteration Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..1000000}	
-
-**Default**:	100	
+:Type:	Integer	
+:Range:	{0..1000000}	
+:Default:	100	
 
 
 

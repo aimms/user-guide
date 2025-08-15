@@ -6,11 +6,9 @@ Presolve tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-20,1e12]	
-
-**Default**:	1e-8	
+:Type:	Floating point number	
+:Range:	[1e-20,1e12]	
+:Default:	1e-8	
 
 
 

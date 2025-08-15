@@ -8,11 +8,9 @@ Horizontal Grid Distance
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..100}	
-
-**Default**:	6	
+:Type:	Integer	
+:Range:	{0..100}	
+:Default:	6	
 
 
 

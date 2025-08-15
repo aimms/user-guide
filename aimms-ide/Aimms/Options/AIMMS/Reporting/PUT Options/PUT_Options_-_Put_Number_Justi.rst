@@ -8,11 +8,9 @@ Put Number Justification
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Right	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Right	
 
 
 

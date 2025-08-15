@@ -6,11 +6,9 @@ Minor Iteration Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 1000000}	
-
-**Default**:	10000	
+:Type:	Integer	
+:Range:	{0 .. 1000000}	
+:Default:	10000	
 
 
 

@@ -8,11 +8,9 @@ Ascii case character encoding
 
 
 
-**Type**:	Selection	
-
-**Range**:	An element of the predeclared set ASCIICharacterEncodings	
-
-**Default**:	Utf8	
+:Type:	Selection	
+:Range:	An element of the predeclared set ASCIICharacterEncodings	
+:Default:	Utf8	
 
 
 

@@ -6,11 +6,9 @@ QP Nonzeros Read Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 2100000000}	
-
-**Default**:	5000	
+:Type:	Integer	
+:Range:	{0 .. 2100000000}	
+:Default:	5000	
 
 
 

@@ -8,11 +8,9 @@ Constraint multipliers initial guess limit
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e+019]	
-
-**Default**:	1000	
+:Type:	Floating point number	
+:Range:	[0,1e+019]	
+:Default:	1000	
 
 
 

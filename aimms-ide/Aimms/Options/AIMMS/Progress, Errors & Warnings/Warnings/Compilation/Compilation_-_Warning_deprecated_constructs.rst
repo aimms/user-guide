@@ -8,11 +8,9 @@ Warning Deprecated Constructs
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Error_in_develop_else_off
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Error_in_develop_else_off
 
 
 

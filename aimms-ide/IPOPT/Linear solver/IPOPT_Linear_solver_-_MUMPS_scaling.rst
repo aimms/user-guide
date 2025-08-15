@@ -8,11 +8,9 @@ MUMPS scaling
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-2..7}	
-
-**Default**:	7	
+:Type:	Integer	
+:Range:	{-2..7}	
+:Default:	7	
 
 
 

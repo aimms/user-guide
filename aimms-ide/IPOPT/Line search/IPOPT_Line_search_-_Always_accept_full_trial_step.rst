@@ -8,11 +8,9 @@ Always accept full trial step
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	No	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	No	
 
 
 

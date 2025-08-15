@@ -8,11 +8,9 @@ Print local search information
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Off	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Off	
 
 
 

@@ -8,11 +8,9 @@ Acceptable complementarity tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-010,1e+019]	
-
-**Default**:	0.01	
+:Type:	Floating point number	
+:Range:	[1e-010,1e+019]	
+:Default:	0.01	
 
 
 

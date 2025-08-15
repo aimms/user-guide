@@ -8,11 +8,9 @@ MA27 pivot tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1]	
-
-**Default**:	1e-008	
+:Type:	Floating point number	
+:Range:	[0,1]	
+:Default:	1e-008	
 
 
 

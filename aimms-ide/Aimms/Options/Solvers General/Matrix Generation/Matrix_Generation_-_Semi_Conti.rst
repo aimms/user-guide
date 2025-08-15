@@ -8,11 +8,9 @@ Semi Continuous Max Bound
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[100, 1.0e80]	
-
-**Default**:	1.0e8	
+:Type:	Floating point number	
+:Range:	[100, 1.0e80]	
+:Default:	1.0e8	
 
 
 

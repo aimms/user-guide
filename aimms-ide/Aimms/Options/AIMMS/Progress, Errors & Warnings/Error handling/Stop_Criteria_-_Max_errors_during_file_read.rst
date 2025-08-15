@@ -8,11 +8,9 @@ Max errors during file read
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..:ref:`Miscellaneous_Maxint`  }	
-
-**Default**:	1	
+:Type:	Integer	
+:Range:	{1..:ref:`Miscellaneous_Maxint`  }	
+:Default:	1	
 
 
 

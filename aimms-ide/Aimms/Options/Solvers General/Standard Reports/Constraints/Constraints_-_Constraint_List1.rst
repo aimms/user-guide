@@ -8,11 +8,9 @@ Constraint Listing Printed When
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	After solve	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	After solve	
 
 
 

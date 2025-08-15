@@ -8,11 +8,9 @@ Default input character encoding
 
 
 
-**Type**:	Selection	
-
-**Range**:	The predeclared set AllCharacterEncodings	
-
-**Default**:	Utf8	
+:Type:	Selection	
+:Range:	The predeclared set AllCharacterEncodings	
+:Default:	Utf8	
 
 
 

@@ -6,11 +6,9 @@ Markowitz
 
 
 
-**Type**:	Real	
-
-**Range**:	[0,1e+023]	
-
-**Default**:	10.0	
+:Type:	Real	
+:Range:	[0,1e+023]	
+:Default:	10.0	
 
 
 

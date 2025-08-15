@@ -6,11 +6,9 @@ Maximum Divisor Value
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 2100000000}	
-
-**Default**:	42
+:Type:	Integer	
+:Range:	{1 .. 2100000000}	
+:Default:	42
 
 
 

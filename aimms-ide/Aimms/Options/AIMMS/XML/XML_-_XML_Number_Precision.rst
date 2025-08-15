@@ -8,11 +8,9 @@ XML Number Precision
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..16}	
-
-**Default**:	5	
+:Type:	Integer	
+:Range:	{0..16}	
+:Default:	5	
 
 
 

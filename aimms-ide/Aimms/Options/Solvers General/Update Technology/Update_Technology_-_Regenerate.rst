@@ -8,11 +8,9 @@ Regenerate Threshold
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..100}	
-
-**Default**:	25	
+:Type:	Integer	
+:Range:	{0..100}	
+:Default:	25	
 
 
 

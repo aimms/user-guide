@@ -9,11 +9,9 @@ Scale Method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Only scale linear rows and columns	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Only scale linear rows and columns	
 
 
 

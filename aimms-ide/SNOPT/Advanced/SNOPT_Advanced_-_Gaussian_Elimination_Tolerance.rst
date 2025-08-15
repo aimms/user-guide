@@ -6,11 +6,9 @@ Gaussian Elimination Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-13,1e-5] + {na}	
-
-**Default**:	na	
+:Type:	Floating point number	
+:Range:	[1e-13,1e-5] + {na}	
+:Default:	na	
 
 
 

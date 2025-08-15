@@ -6,11 +6,9 @@ Numeric Focus
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 3}	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{0 .. 3}	
+:Default:	0	
 
 
 

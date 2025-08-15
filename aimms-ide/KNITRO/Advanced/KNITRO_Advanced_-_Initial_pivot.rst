@@ -6,11 +6,9 @@ Initial Pivot Treshold
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,0.5]	
-
-**Default**:	1e-8	
+:Type:	Floating point number	
+:Range:	[0,0.5]	
+:Default:	1e-8	
 
 
 

@@ -5,11 +5,9 @@ Absolute Pivot Tolerance Nonlinear Elements
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[2.2e-16,0.001]	
-
-**Default**:	1e-5	
+:Type:	Floating point number	
+:Range:	[2.2e-16,0.001]	
+:Default:	1e-5	
 
 
 

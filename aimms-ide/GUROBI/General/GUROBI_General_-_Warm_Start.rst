@@ -6,11 +6,9 @@ Warm Start
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Original problem	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Original problem	
 
 
 

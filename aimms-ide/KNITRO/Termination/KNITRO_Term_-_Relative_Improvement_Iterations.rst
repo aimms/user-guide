@@ -6,11 +6,9 @@ Relative Improvement Iterations
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..1000000}	
-
-**Default**:	5
+:Type:	Integer	
+:Range:	{1..1000000}	
+:Default:	5
 
 
 

@@ -6,11 +6,9 @@ Pool Replacement Strategy
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	FIFO	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	FIFO	
 
 
 

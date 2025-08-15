@@ -6,11 +6,9 @@ Working Memory Limit
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,inf)	
-
-**Default**:	2048	
+:Type:	Floating point number	
+:Range:	[0,inf)	
+:Default:	2048	
 
 
 

@@ -8,11 +8,9 @@ Cutoff
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	(-inf,inf)	
-
-**Default**:	Na	
+:Type:	Floating point number	
+:Range:	(-inf,inf)	
+:Default:	Na	
 
 
 

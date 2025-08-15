@@ -8,11 +8,9 @@ Derive Definitions Stochastic Parameters
 
 
 
-**Type**:	Selection	
-
-**Range**:	One of the settings listed below	
-
-**Default**:	On	
+:Type:	Selection	
+:Range:	One of the settings listed below	
+:Default:	On	
 
 
 

@@ -6,11 +6,9 @@ Upper Objective Stop
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[-1e75, 1e75)	
-
-**Default**:	1e75	
+:Type:	Floating point number	
+:Range:	[-1e75, 1e75)	
+:Default:	1e75	
 
 
 

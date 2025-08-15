@@ -6,11 +6,9 @@ Optimality
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-9,1e-4]	
-
-**Default**:	1e-6	
+:Type:	Floating point number	
+:Range:	[1e-9,1e-4]	
+:Default:	1e-6	
 
 
 

@@ -6,11 +6,9 @@ Tuner Time Limit
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e20]	
-
-**Default**:	1e8	
+:Type:	Floating point number	
+:Range:	[0,1e20]	
+:Default:	1e8	
 
 
 

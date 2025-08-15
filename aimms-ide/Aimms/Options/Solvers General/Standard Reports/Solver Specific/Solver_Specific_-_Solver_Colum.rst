@@ -8,11 +8,9 @@ Solver Column Row Mapping
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Never	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Never	
 
 
 

@@ -8,11 +8,9 @@ Postsolve Continuous Variables
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	No rounding	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	No rounding	
 
 
 

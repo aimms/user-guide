@@ -8,11 +8,9 @@ Minimum number of refinement steps
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..2147483647}	
-
-**Default**:	1	
+:Type:	Integer	
+:Range:	{0..2147483647}	
+:Default:	1	
 
 
 

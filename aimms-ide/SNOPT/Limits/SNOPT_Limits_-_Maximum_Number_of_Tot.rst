@@ -6,11 +6,9 @@ Maximum Number of Total Iterations
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..1000000}	
-
-**Default**:	1000000	
+:Type:	Integer	
+:Range:	{1..1000000}	
+:Default:	1000000	
 
 
 

@@ -8,11 +8,9 @@ MA97 maximum pivot tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,0.5]	
-
-**Default**:	0.0001	
+:Type:	Floating point number	
+:Range:	[0,0.5]	
+:Default:	0.0001	
 
 
 

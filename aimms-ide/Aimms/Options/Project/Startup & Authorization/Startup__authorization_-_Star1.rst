@@ -8,9 +8,8 @@ Startup Case
 
 
 
-**Type**:	Name of a case	
-
-**Default**:	-	
+:Type:	Name of a case	
+:Default:	-	
 
 
 

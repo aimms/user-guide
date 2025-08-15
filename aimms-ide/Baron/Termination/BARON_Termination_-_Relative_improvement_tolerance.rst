@@ -6,11 +6,9 @@ Relative improvement tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-11,1.0]	
-
-**Default**:	1.0	
+:Type:	Floating point number	
+:Range:	[1e-11,1.0]	
+:Default:	1.0	
 
 
 

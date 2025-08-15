@@ -8,11 +8,9 @@ MPI bound tolerance
 
 
 
-**Type**:	Selection	
-
-**Range**:	[0,1]	
-
-**Default**:	0.0001	
+:Type:	Selection	
+:Range:	[0,1]	
+:Default:	0.0001	
 
 
 

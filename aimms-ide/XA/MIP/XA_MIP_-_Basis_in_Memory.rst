@@ -6,11 +6,9 @@ Basis in Memory
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..2100000000}	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{0..2100000000}	
+:Default:	0	
 
 
 

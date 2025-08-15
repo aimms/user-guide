@@ -6,11 +6,9 @@ Simplex Thread Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-1 .. 128}	
-
-**Default**:	-1	
+:Type:	Integer	
+:Range:	{-1 .. 128}	
+:Default:	-1	
 
 
 

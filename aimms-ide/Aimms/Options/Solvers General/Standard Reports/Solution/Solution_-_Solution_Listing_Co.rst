@@ -8,11 +8,9 @@ Solution Listing Column Name Style
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Algebraic description	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Algebraic description	
 
 
 

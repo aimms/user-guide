@@ -6,11 +6,9 @@ Absolute feasibility tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-12,1e51]	
-
-**Default**:	1e-5	
+:Type:	Floating point number	
+:Range:	[1e-12,1e51]	
+:Default:	1e-5	
 
 
 

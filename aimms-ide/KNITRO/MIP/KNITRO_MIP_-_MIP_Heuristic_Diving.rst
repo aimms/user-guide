@@ -6,11 +6,9 @@ MIP Heuristic Diving
 
 
 
-**Type**:	Bit Selection	
-
-**Range**:	{-1..31}	
-
-**Default**:	-1
+:Type:	Bit Selection	
+:Range:	{-1..31}	
+:Default:	-1
 
 
 

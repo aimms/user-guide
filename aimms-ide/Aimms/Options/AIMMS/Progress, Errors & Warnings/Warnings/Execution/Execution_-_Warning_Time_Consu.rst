@@ -8,11 +8,9 @@ Warning Time Consuming For Threshold
 
 
 
-**Type**:	Integer	
-
-**Range**:	{ 0 .. :ref:`Miscellaneous_Maxint`  }	
-
-**Default**:	64	
+:Type:	Integer	
+:Range:	{ 0 .. :ref:`Miscellaneous_Maxint`  }	
+:Default:	64	
 
 
 

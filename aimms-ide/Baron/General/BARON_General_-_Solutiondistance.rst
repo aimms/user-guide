@@ -8,11 +8,9 @@ Solution distance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-11,1.0]	
-
-**Default**:	1e-4	
+:Type:	Floating point number	
+:Range:	[1e-11,1.0]	
+:Default:	1e-4	
 
 
 

@@ -6,11 +6,9 @@ Crash Merit Function
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Fischer	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Fischer	
 
 
 

@@ -6,11 +6,9 @@ Transformation Level
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Advanced transformation	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Advanced transformation	
 
 
 

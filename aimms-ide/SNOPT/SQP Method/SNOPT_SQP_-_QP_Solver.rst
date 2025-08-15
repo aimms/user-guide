@@ -6,11 +6,9 @@ QP Solver
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Cholesky	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Cholesky	
 
 
 

@@ -5,11 +5,9 @@ Fixed Variables Tolerance Derived Bounds
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[3e-13,1e-8]
-
-**Default**:	1e-12	
+:Type:	Floating point number	
+:Range:	[3e-13,1e-8]
+:Default:	1e-12	
 
 
 

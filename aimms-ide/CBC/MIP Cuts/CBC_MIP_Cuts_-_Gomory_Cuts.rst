@@ -6,11 +6,9 @@ Gomory cuts
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	If promising	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	If promising	
 
 
 

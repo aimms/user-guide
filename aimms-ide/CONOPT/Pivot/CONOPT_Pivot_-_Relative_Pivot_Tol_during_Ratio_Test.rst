@@ -5,11 +5,9 @@ Relative Pivot Tolerance during Ratio Test
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-10,1e-6]	
-
-**Default**:	1e-8	
+:Type:	Floating point number	
+:Range:	[1e-10,1e-6]	
+:Default:	1e-8	
 
 
 

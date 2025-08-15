@@ -6,11 +6,9 @@ Tuning Measure
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Average	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Average	
 
 
 

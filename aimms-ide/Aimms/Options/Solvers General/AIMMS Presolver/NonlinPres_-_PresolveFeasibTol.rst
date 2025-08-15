@@ -8,11 +8,9 @@ Presolve Feasibility Tolerance
 
 
 
-**Type**:	Floating Point Number	
-
-**Range**:	[1e-13, 1]
-
-**Default**:	1e-8	
+:Type:	Floating Point Number	
+:Range:	[1e-13, 1]
+:Default:	1e-8	
 
 
 

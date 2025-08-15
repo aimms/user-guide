@@ -8,11 +8,9 @@ Second order correction trial steps limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..2147483647}	
-
-**Default**:	4	
+:Type:	Integer	
+:Range:	{0..2147483647}	
+:Default:	4	
 
 
 

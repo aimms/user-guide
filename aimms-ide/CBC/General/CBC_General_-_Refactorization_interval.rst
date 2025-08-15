@@ -6,11 +6,9 @@ Refactorization interval
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 999999}	
-
-**Default**:	200	
+:Type:	Integer	
+:Range:	{1 .. 999999}	
+:Default:	200	
 
 
 

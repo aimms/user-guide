@@ -6,11 +6,9 @@ Sequence encoding
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Direct	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Direct	
 
 
 

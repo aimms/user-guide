@@ -6,11 +6,9 @@
 Show Stochastic Data if Available
 =================================
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Never
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Never
 
 
 

@@ -6,11 +6,9 @@ Barrier Density Definition
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 2100000000}	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{1 .. 2100000000}	
+:Default:	0	
 
 
 

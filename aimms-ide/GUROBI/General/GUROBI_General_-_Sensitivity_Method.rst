@@ -6,11 +6,9 @@ Sensitivity Method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Automatic	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Automatic	
 
 
 

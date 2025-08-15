@@ -6,11 +6,9 @@ Linesearch Method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Derivative linesearch	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Derivative linesearch	
 
 
 

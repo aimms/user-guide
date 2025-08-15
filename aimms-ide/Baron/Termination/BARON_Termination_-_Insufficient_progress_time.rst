@@ -6,11 +6,9 @@ Insufficient progress time
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[-1e51,1e51]	
-
-**Default**:	-100	
+:Type:	Floating point number	
+:Range:	[-1e51,1e51]	
+:Default:	-100	
 
 
 

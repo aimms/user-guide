@@ -6,11 +6,9 @@ Strong Branching Iteration Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..1000000}	
-
-**Default**:	1000	
+:Type:	Integer	
+:Range:	{0..1000000}	
+:Default:	1000	
 
 
 

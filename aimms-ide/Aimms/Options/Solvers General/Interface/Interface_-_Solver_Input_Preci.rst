@@ -8,11 +8,9 @@ Solver Input Precision
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..15}	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{0..15}	
+:Default:	0	
 
 
 

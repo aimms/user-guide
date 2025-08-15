@@ -6,11 +6,9 @@ Cut depth
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-1 .. 999999}	
-
-**Default**:	-1	
+:Type:	Integer	
+:Range:	{-1 .. 999999}	
+:Default:	-1	
 
 
 

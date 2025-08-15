@@ -8,11 +8,9 @@ Database String Valued Foreign Keys
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Ignore	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Ignore	
 
 
 

@@ -6,11 +6,9 @@ Method for Linear Feasibility Models
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Standard ratio test method	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Standard ratio test method	
 
 
 

@@ -8,11 +8,9 @@ External dll AIMMS reference
 
 
 
-**Type**:	Selection	
-
-**Range**:	{ ASCII, Unicode, none }	
-
-**Default**:	None	
+:Type:	Selection	
+:Range:	{ ASCII, Unicode, none }	
+:Default:	None	
 
 
 

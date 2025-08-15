@@ -6,11 +6,9 @@ MIP Best Objective Stop
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[-1e100,1e100]	
-
-**Default**:	1e100
+:Type:	Floating point number	
+:Range:	[-1e100,1e100]	
+:Default:	1e100
 
 
 

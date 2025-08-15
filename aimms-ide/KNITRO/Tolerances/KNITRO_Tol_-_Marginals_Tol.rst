@@ -6,11 +6,9 @@ Marginals Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,0.1]	
-
-**Default**:	1e-5	
+:Type:	Floating point number	
+:Range:	[0,0.1]	
+:Default:	1e-5	
 
 
 

@@ -6,11 +6,9 @@ LP Penalty Formulation
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	All	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	All	
 
 
 

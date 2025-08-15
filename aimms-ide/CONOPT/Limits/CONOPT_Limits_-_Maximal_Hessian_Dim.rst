@@ -5,11 +5,9 @@ Maximal Hessian Dimension
 
 
 
-**Type**:	Integer	
-
-**Range**:	{5..:ref:`Miscellaneous_Maxint` }	
-
-**Default**:	500	
+:Type:	Integer	
+:Range:	{5..:ref:`Miscellaneous_Maxint` }	
+:Default:	500	
 
 
 

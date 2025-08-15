@@ -6,11 +6,9 @@ MIP Tasks
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-1 .. 256}	
-
-**Default**:	-1	
+:Type:	Integer	
+:Range:	{-1 .. 256}	
+:Default:	-1	
 
 
 

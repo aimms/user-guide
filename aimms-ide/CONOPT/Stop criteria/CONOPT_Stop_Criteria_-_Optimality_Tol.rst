@@ -5,11 +5,9 @@ Optimality Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[3e-13,1]
-
-**Default**:	1e-7
+:Type:	Floating point number	
+:Range:	[3e-13,1]
+:Default:	1e-7
 
 
 

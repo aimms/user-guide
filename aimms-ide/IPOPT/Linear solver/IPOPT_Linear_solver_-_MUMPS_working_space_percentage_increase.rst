@@ -8,11 +8,9 @@ MUMPS working space percentage increase
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..2147483647}	
-
-**Default**:	1000	
+:Type:	Integer	
+:Range:	{0..2147483647}	
+:Default:	1000	
 
 
 

@@ -6,11 +6,9 @@ Lower Integer Tolerance
 
 
 
-**Type**:	Real	
-
-**Range**:	[0,0.5]	
-
-**Default**:	5e-6	
+:Type:	Real	
+:Range:	[0,0.5]	
+:Default:	5e-6	
 
 
 

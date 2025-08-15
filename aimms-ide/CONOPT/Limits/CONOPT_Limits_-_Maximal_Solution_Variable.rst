@@ -5,11 +5,9 @@ Maximum Solution of a Variable
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e+5,1e+30]
-
-**Default**:	1e15	
+:Type:	Floating point number	
+:Range:	[1e+5,1e+30]
+:Default:	1e15	
 
 
 

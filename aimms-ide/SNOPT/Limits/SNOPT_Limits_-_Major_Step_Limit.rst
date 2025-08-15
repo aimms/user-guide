@@ -6,11 +6,9 @@ Major Step Limit
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e20]	
-
-**Default**:	2.0	
+:Type:	Floating point number	
+:Range:	[0,1e20]	
+:Default:	2.0	
 
 
 

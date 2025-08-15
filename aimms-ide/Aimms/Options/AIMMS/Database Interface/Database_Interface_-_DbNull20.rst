@@ -8,11 +8,9 @@ Database Translate Null to 0
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Off	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Off	
 
 
 

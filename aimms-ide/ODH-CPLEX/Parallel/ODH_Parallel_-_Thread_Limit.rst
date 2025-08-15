@@ -6,11 +6,9 @@ Thread Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-1 .. 1024}	
-
-**Default**:	-1
+:Type:	Integer	
+:Range:	{-1 .. 1024}	
+:Default:	-1
 
 
 

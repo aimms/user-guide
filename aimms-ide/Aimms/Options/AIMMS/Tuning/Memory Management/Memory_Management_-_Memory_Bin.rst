@@ -8,11 +8,9 @@ Memory Bin Allocation Size
 
 
 
-**Type**:	Integer	
-
-**Range**:	{ 1024 … 33554432 }	
-
-**Default**:	1048576	
+:Type:	Integer	
+:Range:	{ 1024 … 33554432 }	
+:Default:	1048576	
 
 
 

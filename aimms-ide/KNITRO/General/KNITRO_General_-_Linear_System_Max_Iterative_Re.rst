@@ -6,11 +6,9 @@ Linear System Max Iterative Refinements
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..1000000}	
-
-**Default**:	2	
+:Type:	Integer	
+:Range:	{0..1000000}	
+:Default:	2	
 
 
 

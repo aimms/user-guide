@@ -8,11 +8,9 @@ Cut off
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0.0,1e51]	
-
-**Default**:	1e51	
+:Type:	Floating point number	
+:Range:	[0.0,1e51]	
+:Default:	1e51	
 
 
 

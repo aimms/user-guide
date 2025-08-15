@@ -6,11 +6,9 @@ Elastic Weight
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e10]	
-
-**Default**:	1e6	
+:Type:	Floating point number	
+:Range:	[0,1e10]	
+:Default:	1e6	
 
 
 

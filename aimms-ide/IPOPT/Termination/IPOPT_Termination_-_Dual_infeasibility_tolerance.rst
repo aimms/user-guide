@@ -8,11 +8,9 @@ Dual infeasibility tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-010,1e+019]	
-
-**Default**:	1	
+:Type:	Floating point number	
+:Range:	[1e-010,1e+019]	
+:Default:	1	
 
 
 

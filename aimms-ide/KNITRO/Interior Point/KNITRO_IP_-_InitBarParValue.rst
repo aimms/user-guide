@@ -6,11 +6,9 @@ Initial Barrier Parameter Value
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-14,1e20]	
-
-**Default**:	0.1	
+:Type:	Floating point number	
+:Range:	[1e-14,1e20]	
+:Default:	0.1	
 
 
 

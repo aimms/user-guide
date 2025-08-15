@@ -8,11 +8,9 @@ Maximum number of nodes in tree
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..10000000}	
-
-**Default**:	1000	
+:Type:	Integer	
+:Range:	{0..10000000}	
+:Default:	1000	
 
 
 

@@ -6,11 +6,9 @@ No Relaxation Heuristic Work
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e100]	
-
-**Default**:	0	
+:Type:	Floating point number	
+:Range:	[0,1e100]	
+:Default:	0	
 
 
 

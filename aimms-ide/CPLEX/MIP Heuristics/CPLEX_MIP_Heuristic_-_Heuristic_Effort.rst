@@ -6,11 +6,9 @@ Heuristic Effort
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0, inf)	
-
-**Default**:	1	
+:Type:	Floating point number	
+:Range:	[0, inf)	
+:Default:	1	
 
 
 

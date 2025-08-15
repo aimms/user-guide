@@ -8,11 +8,9 @@ Save Variable Freezes
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	On	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	On	
 
 
 

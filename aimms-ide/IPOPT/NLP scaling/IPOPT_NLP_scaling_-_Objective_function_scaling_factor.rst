@@ -8,11 +8,9 @@ Objective function scaling factor
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[-1e+019,1e+019]	
-
-**Default**:	1	
+:Type:	Floating point number	
+:Range:	[-1e+019,1e+019]	
+:Default:	1	
 
 
 

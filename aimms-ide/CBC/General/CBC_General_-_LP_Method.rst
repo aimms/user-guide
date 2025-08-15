@@ -6,11 +6,9 @@ LP method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Dual simplex	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Dual simplex	
 
 
 

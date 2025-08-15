@@ -8,11 +8,9 @@ Adjustable Bound
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,inf)	
-
-**Default**:	inf	
+:Type:	Floating point number	
+:Range:	[0,inf)	
+:Default:	inf	
 
 
 

@@ -8,11 +8,9 @@ Menubar for Data Manager
 
 
 
-**Type**:	Name of a menubar	
-
-**Range**:	AIMMS menubar	
-
-**Default**:	-	
+:Type:	Name of a menubar	
+:Range:	AIMMS menubar	
+:Default:	-	
 
 
 

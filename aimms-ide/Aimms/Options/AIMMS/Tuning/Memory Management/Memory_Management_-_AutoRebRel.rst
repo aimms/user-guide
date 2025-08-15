@@ -8,11 +8,9 @@ Auto Rebuild Minimum Difference Relative
 
 
 
-**Type**:	Floating Point Number	
-
-**Range**:	[0.01, 0.99]	
-
-**Default**:	0.75	
+:Type:	Floating Point Number	
+:Range:	[0.01, 0.99]	
+:Default:	0.75	
 
 
 

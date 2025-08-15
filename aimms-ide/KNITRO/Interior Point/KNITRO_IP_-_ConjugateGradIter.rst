@@ -6,11 +6,9 @@ Conjugate Gradient Iteration Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..1000000}	
-
-**Default**:	-1	
+:Type:	Integer	
+:Range:	{0..1000000}	
+:Default:	-1	
 
 
 

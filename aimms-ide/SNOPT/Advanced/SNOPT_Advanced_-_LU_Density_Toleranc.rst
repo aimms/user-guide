@@ -6,11 +6,9 @@ LU Density Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1]	
-
-**Default**:	0.6	
+:Type:	Floating point number	
+:Range:	[0,1]	
+:Default:	0.6	
 
 
 

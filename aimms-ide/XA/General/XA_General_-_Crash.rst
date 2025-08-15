@@ -6,11 +6,9 @@ Crash
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Minimize primal infeasibility	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Minimize primal infeasibility	
 
 
 

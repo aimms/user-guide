@@ -8,11 +8,9 @@ Postsolve Bound Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,0.1]	
-
-**Default**:	1e-10	
+:Type:	Floating point number	
+:Range:	[0,0.1]	
+:Default:	1e-10	
 
 
 

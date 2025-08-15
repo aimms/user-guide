@@ -6,11 +6,9 @@ Perturbation
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,0.01]	
-
-**Default**:	0.0002	
+:Type:	Floating point number	
+:Range:	[0,0.01]	
+:Default:	0.0002	
 
 
 

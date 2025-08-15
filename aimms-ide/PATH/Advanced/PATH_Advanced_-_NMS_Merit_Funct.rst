@@ -6,11 +6,9 @@ NMS Merit Function Values Storage
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 1000000}	
-
-**Default**:	10	
+:Type:	Integer	
+:Range:	{0 .. 1000000}	
+:Default:	10	
 
 
 

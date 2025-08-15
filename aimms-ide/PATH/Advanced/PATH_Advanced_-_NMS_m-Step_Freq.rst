@@ -6,11 +6,9 @@ NMS m-Step Frequency
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 1000000}	
-
-**Default**:	10	
+:Type:	Integer	
+:Range:	{0 .. 1000000}	
+:Default:	10	
 
 
 

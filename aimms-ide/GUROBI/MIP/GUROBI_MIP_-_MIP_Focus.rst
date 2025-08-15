@@ -6,11 +6,9 @@ MIP Focus
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Balanced	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Balanced	
 
 
 

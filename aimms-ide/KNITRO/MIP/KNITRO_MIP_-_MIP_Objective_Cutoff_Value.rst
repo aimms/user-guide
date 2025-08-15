@@ -6,11 +6,9 @@ MIP Objective Cutoff Value
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..1.8e308}	
-
-**Default**:	1.8e308	
+:Type:	Integer	
+:Range:	{0..1.8e308}	
+:Default:	1.8e308	
 
 
 

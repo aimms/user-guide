@@ -8,11 +8,9 @@ Display Inter Column Space
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..40}	
-
-**Default**:	2	
+:Type:	Integer	
+:Range:	{1..40}	
+:Default:	2	
 
 
 

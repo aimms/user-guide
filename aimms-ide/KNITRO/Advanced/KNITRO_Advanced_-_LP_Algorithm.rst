@@ -6,11 +6,9 @@ LP Algorithm
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	AIMMS computes	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	AIMMS computes	
 
 
 

@@ -8,11 +8,9 @@ Element Format
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	No quotes	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	No quotes	
 
 
 

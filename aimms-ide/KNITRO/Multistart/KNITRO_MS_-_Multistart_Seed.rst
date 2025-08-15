@@ -6,11 +6,9 @@ Multistart Seed
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..1000000}	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{0..1000000}	
+:Default:	0	
 
 
 

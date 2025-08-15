@@ -6,11 +6,9 @@ Reduced Cost
 
 
 
-**Type**:	Real	
-
-**Range**:	[0,1e+023]	
-
-**Default**:	1e-7	
+:Type:	Real	
+:Range:	[0,1e+023]	
+:Default:	1e-7	
 
 
 

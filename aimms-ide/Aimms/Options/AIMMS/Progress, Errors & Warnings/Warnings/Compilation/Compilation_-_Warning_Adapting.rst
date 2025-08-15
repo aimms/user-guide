@@ -8,11 +8,9 @@ Warning Adapting Range For Loop
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Common_warning_default	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Common_warning_default	
 
 
 

@@ -6,11 +6,9 @@ Tuning Display
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Minimal	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Minimal	
 
 
 

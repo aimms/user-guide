@@ -8,11 +8,9 @@ Put Element Width
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..32766}	
-
-**Default**:	12	
+:Type:	Integer	
+:Range:	{0..32766}	
+:Default:	12	
 
 
 

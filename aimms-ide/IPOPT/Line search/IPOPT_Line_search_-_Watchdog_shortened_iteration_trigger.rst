@@ -8,11 +8,9 @@ Watchdog shortened iteration trigger
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..2147483647}	
-
-**Default**:	10	
+:Type:	Integer	
+:Range:	{0..2147483647}	
+:Default:	10	
 
 
 

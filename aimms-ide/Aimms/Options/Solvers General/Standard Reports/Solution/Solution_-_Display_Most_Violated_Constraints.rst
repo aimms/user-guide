@@ -8,11 +8,9 @@ Display Most Violated Constraints and Bounds
 
 
 
-**Type**:	Integer	
-
-**Range**:	{-1..:ref:`Miscellaneous_Maxint` }	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{-1..:ref:`Miscellaneous_Maxint` }	
+:Default:	0	
 
 
 

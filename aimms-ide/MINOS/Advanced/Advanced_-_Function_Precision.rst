@@ -9,11 +9,9 @@ Function Precision
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-15,1] + {na}	
-
-**Default**:	na	
+:Type:	Floating point number	
+:Range:	[1e-15,1] + {na}	
+:Default:	na	
 
 
 

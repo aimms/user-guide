@@ -8,11 +8,9 @@ Put String Justification
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Left	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Left	
 
 
 

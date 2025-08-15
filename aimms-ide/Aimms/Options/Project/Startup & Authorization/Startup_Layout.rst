@@ -8,11 +8,9 @@ Startup Layout
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Last use	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Last use	
 
 
 

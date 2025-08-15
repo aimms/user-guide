@@ -6,11 +6,9 @@ Dual Pricing Algorithm
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Determined automatically	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Determined automatically	
 
 
 

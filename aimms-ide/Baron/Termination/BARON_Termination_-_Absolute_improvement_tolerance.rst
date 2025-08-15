@@ -6,11 +6,9 @@ Absolute improvement tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-12,1e51]	
-
-**Default**:	1e51	
+:Type:	Floating point number	
+:Range:	[1e-12,1e51]	
+:Default:	1e51	
 
 
 

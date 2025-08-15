@@ -6,11 +6,9 @@ Proximal Point Method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Euclidean	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Euclidean	
 
 
 

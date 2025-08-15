@@ -8,11 +8,9 @@ Open Bound Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0.0, 0.1]	
-
-**Default**:	1.0e-6	
+:Type:	Floating point number	
+:Range:	[0.0, 0.1]	
+:Default:	1.0e-6	
 
 
 

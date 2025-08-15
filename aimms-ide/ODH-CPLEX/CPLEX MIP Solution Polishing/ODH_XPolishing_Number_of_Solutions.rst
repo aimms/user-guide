@@ -6,11 +6,9 @@ Polishing Number of Solutions
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 2147483647}	
-
-**Default**:	2147483647	
+:Type:	Integer	
+:Range:	{1 .. 2147483647}	
+:Default:	2147483647	
 
 
 

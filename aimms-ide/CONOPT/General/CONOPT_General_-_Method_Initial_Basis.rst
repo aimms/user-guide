@@ -5,11 +5,9 @@ Method for Initial Basis
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Use slacks away from bounds	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Use slacks away from bounds	
 
 
 

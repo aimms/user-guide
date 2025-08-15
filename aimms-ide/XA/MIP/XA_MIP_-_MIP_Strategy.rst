@@ -6,11 +6,9 @@ MIP Strategy
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Proprietary method	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Proprietary method	
 
 
 

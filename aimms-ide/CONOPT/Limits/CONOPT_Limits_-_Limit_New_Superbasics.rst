@@ -5,11 +5,9 @@ Limit on New Superbasics
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..:ref:`Miscellaneous_Maxint` }	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{0..:ref:`Miscellaneous_Maxint` }	
+:Default:	0	
 
 
 

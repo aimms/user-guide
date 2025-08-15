@@ -8,11 +8,9 @@ Warning Excluded Uncertain Parameter Referenced in Uncertainty Constraints
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Common_warning_default
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Common_warning_default
 
 
 

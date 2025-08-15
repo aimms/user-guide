@@ -8,11 +8,9 @@ JIT Body Compilation
 
 
 
-**Type**:	Selection	
-
-**Range**:	On or Off	
-
-**Default**:	Off	
+:Type:	Selection	
+:Range:	On or Off	
+:Default:	Off	
 
 
 

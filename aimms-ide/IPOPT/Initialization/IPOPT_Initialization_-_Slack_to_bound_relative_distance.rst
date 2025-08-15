@@ -7,11 +7,9 @@ Slack to bound relative distance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,0.5]	
-
-**Default**:	0.01	
+:Type:	Floating point number	
+:Range:	[0,0.5]	
+:Default:	0.01	
 
 
 

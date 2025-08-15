@@ -6,11 +6,9 @@ Output Major Iterations Frequency
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 1000000}	
-
-**Default**:	1	
+:Type:	Integer	
+:Range:	{1 .. 1000000}	
+:Default:	1	
 
 
 

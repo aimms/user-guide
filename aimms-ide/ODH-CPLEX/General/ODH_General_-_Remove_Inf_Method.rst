@@ -6,11 +6,9 @@ Remove Infeasibilities Method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Composite objective method	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Composite objective method	
 
 
 

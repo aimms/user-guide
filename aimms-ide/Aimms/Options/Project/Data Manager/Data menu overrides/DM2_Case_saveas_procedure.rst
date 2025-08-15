@@ -6,9 +6,8 @@
 Case saveas procedure
 =====================
 
-**Type**:	Name of a procedure	
-
-**Default**:	-	
+:Type:	Name of a procedure	
+:Default:	-	
 
 
 

@@ -5,11 +5,9 @@ Minimal Scaling Tolerance for Variables
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-8,1.0]	
-
-**Default**:	1e-5	
+:Type:	Floating point number	
+:Range:	[1e-8,1.0]	
+:Default:	1e-5	
 
 
 

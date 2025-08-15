@@ -6,11 +6,9 @@ Box elimination tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-11,10.0]	
-
-**Default**:	1e-8	
+:Type:	Floating point number	
+:Range:	[1e-11,10.0]	
+:Default:	1e-8	
 
 
 

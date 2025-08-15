@@ -8,11 +8,9 @@ Hessian approximation history memory limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..2147483647}	
-
-**Default**:	6	
+:Type:	Integer	
+:Range:	{0..2147483647}	
+:Default:	6	
 
 
 

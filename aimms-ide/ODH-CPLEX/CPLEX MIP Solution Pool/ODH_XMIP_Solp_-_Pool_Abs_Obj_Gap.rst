@@ -6,11 +6,9 @@ Pool Absolute Objective Gap
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e75]	
-
-**Default**:	1e75	
+:Type:	Floating point number	
+:Range:	[0,1e75]	
+:Default:	1e75	
 
 
 

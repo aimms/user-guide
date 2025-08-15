@@ -6,11 +6,9 @@ LU Factor Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1,1e20] + {na}	
-
-**Default**:	na	
+:Type:	Floating point number	
+:Range:	[1,1e20] + {na}	
+:Default:	na	
 
 
 

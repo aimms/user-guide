@@ -6,11 +6,9 @@ Scale Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0.0001, 0.9999]	
-
-**Default**:	0.9	
+:Type:	Floating point number	
+:Range:	[0.0001, 0.9999]	
+:Default:	0.9	
 
 
 

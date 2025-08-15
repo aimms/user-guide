@@ -8,11 +8,9 @@ Time Messages
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	No time messages	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	No time messages	
 
 
 

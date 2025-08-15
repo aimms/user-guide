@@ -6,11 +6,9 @@
 Solution Time has unit Seconds
 ==============================
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	On	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	On	
 
 
 

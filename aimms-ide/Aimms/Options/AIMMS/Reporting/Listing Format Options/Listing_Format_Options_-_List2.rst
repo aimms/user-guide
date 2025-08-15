@@ -8,11 +8,9 @@ Listing Number Precision
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..20}	
-
-**Default**:	3	
+:Type:	Integer	
+:Range:	{0..20}	
+:Default:	3	
 
 
 

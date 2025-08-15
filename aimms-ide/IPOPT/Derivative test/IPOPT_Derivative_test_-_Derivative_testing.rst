@@ -8,11 +8,9 @@ Derivative testing
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Do not perform derivative tests	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Do not perform derivative tests	
 
 
 

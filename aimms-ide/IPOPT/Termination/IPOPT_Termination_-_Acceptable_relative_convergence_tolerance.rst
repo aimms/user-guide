@@ -8,11 +8,9 @@ Acceptable relative convergence tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-010,1e+019]	
-
-**Default**:	1e-006	
+:Type:	Floating point number	
+:Range:	[1e-010,1e+019]	
+:Default:	1e-006	
 
 
 

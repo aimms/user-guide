@@ -8,11 +8,9 @@ Memory Bin Size
 
 
 
-**Type**:	Selection	
-
-**Range**:	One of the settings listed below	
-
-**Default**:	8 K	
+:Type:	Selection	
+:Range:	One of the settings listed below	
+:Default:	8 K	
 
 
 

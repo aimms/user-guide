@@ -8,11 +8,9 @@ Quality function section steps limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0..2147483647}	
-
-**Default**:	8	
+:Type:	Integer	
+:Range:	{0..2147483647}	
+:Default:	8	
 
 
 

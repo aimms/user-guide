@@ -6,11 +6,9 @@ Gradient Computation Method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	AIMMS computes	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	AIMMS computes	
 
 
 

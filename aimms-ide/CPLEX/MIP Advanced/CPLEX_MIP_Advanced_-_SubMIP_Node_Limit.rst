@@ -6,11 +6,9 @@ SubMIP Node Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 2100000000}	
-
-**Default**:	500	
+:Type:	Integer	
+:Range:	{1 .. 2100000000}	
+:Default:	500	
 
 
 

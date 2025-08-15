@@ -6,11 +6,9 @@ Log period
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..2100000000}	
-
-**Default**:	1000	
+:Type:	Integer	
+:Range:	{1..2100000000}	
+:Default:	1000	
 
 
 

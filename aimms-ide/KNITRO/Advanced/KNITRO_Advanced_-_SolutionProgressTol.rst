@@ -6,11 +6,9 @@ Solution Progress Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1]	
-
-**Default**:	1e-12	
+:Type:	Floating point number	
+:Range:	[0,1]	
+:Default:	1e-12	
 
 
 

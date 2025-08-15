@@ -6,11 +6,9 @@ Maximal Absolute Pivot Value
 
 
 
-**Type**:	Real	
-
-**Range**:	[0,1]	
-
-**Default**:	1e-6	
+:Type:	Real	
+:Range:	[0,1]	
+:Default:	1e-6	
 
 
 

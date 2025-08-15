@@ -6,11 +6,9 @@ Perturbation Constant
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-8,INF]	
-
-**Default**:	1e-6	
+:Type:	Floating point number	
+:Range:	[1e-8,INF]	
+:Default:	1e-6	
 
 
 

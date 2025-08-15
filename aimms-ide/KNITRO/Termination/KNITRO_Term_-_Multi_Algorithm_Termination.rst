@@ -6,11 +6,9 @@ Multi Algorithm Termination
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Optimal	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Optimal	
 
 
 

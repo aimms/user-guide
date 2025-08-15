@@ -8,9 +8,8 @@ Case String Character Set
 
 
 
-**Type**:	Selection	
-
-**Default**:	Native
+:Type:	Selection	
+:Default:	Native
 
 
 

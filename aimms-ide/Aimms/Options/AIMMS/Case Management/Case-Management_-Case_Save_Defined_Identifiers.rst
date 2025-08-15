@@ -8,11 +8,9 @@ Case Save Defined Identifiers
 
 
 
-**Type**:		Selection	
-
-**Range**:		The settings listed below	
-
-**Default**:	The default for this option is on
+:Type:		Selection	
+:Range:		The settings listed below	
+:Default:	The default for this option is on
 
 
 

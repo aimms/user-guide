@@ -6,11 +6,9 @@ Difference Interval
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1] + {na}	
-
-**Default**:	na	
+:Type:	Floating point number	
+:Range:	[0,1] + {na}	
+:Default:	na	
 
 
 

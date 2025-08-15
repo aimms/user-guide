@@ -8,11 +8,9 @@ Superlinear decrease rate barrier parameter
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1,2]	
-
-**Default**:	1.5	
+:Type:	Floating point number	
+:Range:	[1,2]	
+:Default:	1.5	
 
 
 

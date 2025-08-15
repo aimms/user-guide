@@ -6,11 +6,9 @@ Restarts
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..1000000}	
-
-**Default**:	0	
+:Type:	Integer	
+:Range:	{1..1000000}	
+:Default:	0	
 
 
 

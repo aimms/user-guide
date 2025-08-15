@@ -6,11 +6,9 @@ Restart Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 3}	
-
-**Default**:	3	
+:Type:	Integer	
+:Range:	{0 .. 3}	
+:Default:	3	
 
 
 

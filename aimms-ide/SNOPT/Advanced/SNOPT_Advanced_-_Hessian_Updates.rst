@@ -6,11 +6,9 @@ Hessian Updates
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..1000000}	
-
-**Default**:	10	
+:Type:	Integer	
+:Range:	{1..1000000}	
+:Default:	10	
 
 
 

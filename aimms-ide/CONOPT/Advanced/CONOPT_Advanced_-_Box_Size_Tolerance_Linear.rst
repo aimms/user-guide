@@ -5,11 +5,9 @@ Box Size Tolerance Linear
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0.01,1e8]
-
-**Default**:	1000	
+:Type:	Floating point number	
+:Range:	[0.01,1e8]
+:Default:	1000	
 
 
 

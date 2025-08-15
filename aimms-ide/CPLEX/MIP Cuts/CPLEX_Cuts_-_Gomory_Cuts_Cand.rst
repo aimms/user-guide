@@ -6,11 +6,9 @@ Gomory Cuts Candidate Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 2100000000}	
-
-**Default**:	200	
+:Type:	Integer	
+:Range:	{1 .. 2100000000}	
+:Default:	200	
 
 
 

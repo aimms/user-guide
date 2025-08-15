@@ -6,11 +6,9 @@ Strong branching
 
 
 
-**Type**:	Integer	
-
-**Range**:	{0 .. 999999}	
-
-**Default**:	5	
+:Type:	Integer	
+:Range:	{0 .. 999999}	
+:Default:	5	
 
 
 

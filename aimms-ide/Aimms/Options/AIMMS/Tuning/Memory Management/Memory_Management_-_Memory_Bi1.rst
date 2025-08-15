@@ -8,11 +8,9 @@ Memory Bin Limit
 
 
 
-**Type**:	Integer	
-
-**Range**:	{ 0 … 4096 }	
-
-**Default**:	1024	
+:Type:	Integer	
+:Range:	{ 0 … 4096 }	
+:Default:	1024	
 
 
 

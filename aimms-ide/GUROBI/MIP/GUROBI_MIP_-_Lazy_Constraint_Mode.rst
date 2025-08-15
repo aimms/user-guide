@@ -3,11 +3,9 @@
 Lazy Constraint Mode
 ====================
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 3}	
-
-**Default**:	1	
+:Type:	Integer	
+:Range:	{1 .. 3}	
+:Default:	1	
 
 This option determines how a lazy constraint, that is placed in the lazy constraint pool, is handled by Gurobi.
 

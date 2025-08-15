@@ -8,11 +8,9 @@ Project Documentation
 
 
 
-**Type**:	Name of a documentation file	
-
-**Range**:	Documentation file	
-
-**Default**:	-	
+:Type:	Name of a documentation file	
+:Range:	Documentation file	
+:Default:	-	
 
 
 

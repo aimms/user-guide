@@ -6,11 +6,9 @@ Optimization Method
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Optimal solution	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Optimal solution	
 
 
 

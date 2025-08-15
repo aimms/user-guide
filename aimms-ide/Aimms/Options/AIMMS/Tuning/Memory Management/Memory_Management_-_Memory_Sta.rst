@@ -8,11 +8,9 @@ Memory Statistics
 
 
 
-**Type**:	Selection	
-
-**Range**:	One of the settings listed below	
-
-**Default**:	Off but warn when used	
+:Type:	Selection	
+:Range:	One of the settings listed below	
+:Default:	Off but warn when used	
 
 
 

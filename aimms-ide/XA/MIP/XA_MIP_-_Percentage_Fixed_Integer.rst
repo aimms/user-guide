@@ -6,11 +6,9 @@ Percentage Fixed Integer Variables
 
 
 
-**Type**:	Real	
-
-**Range**:	[0,100]	
-
-**Default**:	0.0	
+:Type:	Real	
+:Range:	[0,100]	
+:Default:	0.0	
 
 
 

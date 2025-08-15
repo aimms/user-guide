@@ -5,11 +5,9 @@ Minimal Scaling Factor 2nd Order Derivatives
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-9,1.0]	
-
-**Default**:	1e-6	
+:Type:	Floating point number	
+:Range:	[1e-9,1.0]	
+:Default:	1e-6	
 
 
 

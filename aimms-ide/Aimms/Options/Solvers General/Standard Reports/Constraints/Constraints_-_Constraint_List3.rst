@@ -8,11 +8,9 @@ Constraint Listing Variable Values
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	No variable values	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	No variable values	
 
 
 

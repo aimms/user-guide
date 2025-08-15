@@ -8,11 +8,9 @@ Warning Set Order Changes During For Statement
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Warning_in_develop_else_off	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Warning_in_develop_else_off	
 
 
 

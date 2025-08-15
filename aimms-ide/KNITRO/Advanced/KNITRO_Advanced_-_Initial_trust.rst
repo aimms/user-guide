@@ -6,11 +6,9 @@ Initial Trust Scaling Factor
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[1e-14,1e20]	
-
-**Default**:	1.0	
+:Type:	Floating point number	
+:Range:	[1e-14,1e20]	
+:Default:	1.0	
 
 
 

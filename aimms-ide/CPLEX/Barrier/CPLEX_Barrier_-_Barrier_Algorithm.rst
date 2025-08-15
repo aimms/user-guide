@@ -6,11 +6,9 @@ Barrier Algorithm
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Default standard algorithm	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Default standard algorithm	
 
 
 

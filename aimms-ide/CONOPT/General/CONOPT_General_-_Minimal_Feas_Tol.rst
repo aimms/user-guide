@@ -5,11 +5,9 @@ Minimal Feasibility Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[3e-13,1e-5]
-
-**Default**:	4e-10	
+:Type:	Floating point number	
+:Range:	[3e-13,1e-5]
+:Default:	4e-10	
 
 
 

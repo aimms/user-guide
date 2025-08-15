@@ -6,11 +6,9 @@ Barrier Globalize
 
 
 
-**Type**:	Selection	
-
-**Range**:	The settings listed below	
-
-**Default**:	Filter	
+:Type:	Selection	
+:Range:	The settings listed below	
+:Default:	Filter	
 
 
 

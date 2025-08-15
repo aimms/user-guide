@@ -6,11 +6,9 @@ Optimality tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,inf)	
-
-**Default**:	0
+:Type:	Floating point number	
+:Range:	[0,inf)	
+:Default:	0
 
 
 

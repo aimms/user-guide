@@ -6,11 +6,9 @@ Pool Size
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1 .. 2000000000}	
-
-**Default**:	10	
+:Type:	Integer	
+:Range:	{1 .. 2000000000}	
+:Default:	10	
 
 
 

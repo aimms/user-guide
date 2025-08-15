@@ -8,11 +8,9 @@ Auto Rebuild
 
 
 
-**Type**:	Selection	
-
-**Range**:	One of the settings listed below	
-
-**Default**:	Off
+:Type:	Selection	
+:Range:	One of the settings listed below	
+:Default:	Off
 
 
 

@@ -8,11 +8,9 @@ Cholesky Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1]	
-
-**Default**:	1e-8	
+:Type:	Floating point number	
+:Range:	[0,1]	
+:Default:	1e-8	
 
 
 

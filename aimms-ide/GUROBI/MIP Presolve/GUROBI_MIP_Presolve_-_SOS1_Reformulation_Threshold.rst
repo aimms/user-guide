@@ -6,11 +6,9 @@ SOS1 Reformulation Threshold
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[-1,1e10]	
-
-**Default**:	-1	
+:Type:	Floating point number	
+:Range:	[-1,1e10]	
+:Default:	-1	
 
 
 

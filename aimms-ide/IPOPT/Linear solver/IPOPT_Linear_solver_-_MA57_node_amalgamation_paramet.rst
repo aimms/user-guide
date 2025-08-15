@@ -8,11 +8,9 @@ MA57 node amalgamation parameter
 
 
 
-**Type**:	Integer	
-
-**Range**:	{1..2147483647}	
-
-**Default**:	16	
+:Type:	Integer	
+:Range:	{1..2147483647}	
+:Default:	16	
 
 
 

@@ -6,11 +6,9 @@ Infeasibility Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0,1e20]	
-
-**Default**:	1e-8	
+:Type:	Floating point number	
+:Range:	[0,1e20]	
+:Default:	1e-8	
 
 
 

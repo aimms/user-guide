@@ -9,11 +9,9 @@ Crash Tolerance
 
 
 
-**Type**:	Floating point number	
-
-**Range**:	[0, 0.9999]	
-
-**Default**:	0.1	
+:Type:	Floating point number	
+:Range:	[0, 0.9999]	
+:Default:	0.1	
 
 
 
