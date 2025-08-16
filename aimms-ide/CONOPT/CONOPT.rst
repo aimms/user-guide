@@ -11,7 +11,7 @@ CONOPT is a Generalized Reduced Gradient (GRG) algorithm specifically designed f
 .. math::
 
     \begin{array}{ll}
-    \text{Minimize or maximize:} & f(x) \\
+    \text{Minimize or Maximize:} & f(x) \\
     \text{Subject to:} & \\
     & G(x) = b \\
     & l \le x \le u
@@ -65,10 +65,11 @@ Variables become well scaled if they are measured in appropriate units. In most 
 
 
 
-Derivatives will usually be well scaled whenever the variables and equations are well scaled. To see if the derivatives are well scaled, run your model with the general solvers option **Constraint Listing**  set, and look for very small (i.e., close to 0) or very large coefficients in the constraint listing. (The constraint listing is printed in the listing file.) CONOPT computes a measure of the scaling of the Jacobian, both in the initial and in the final point, and if it seems to be large it will be printed in the Message Window. The message looks like:::
+Derivatives will usually be well scaled whenever the variables and equations are well scaled. To see if the derivatives are well scaled, run your model with the general solvers option **Constraint Listing**  set, and look for very small (i.e., close to 0) or very large coefficients in the constraint listing. (The constraint listing is printed in the listing file.) CONOPT computes a measure of the scaling of the Jacobian, both in the initial and in the final point, and if it seems to be large it will be printed in the Message Window. The message looks like:
 
+.. code-block:: text
 
-   ** Warning **	The variance of the derivatives in the initial
+   ** Warning **    The variance of the derivatives in the initial
                     point is large (= 4.1 ). A better initial
                     point, a better scaling, or better bounds on the
                     variables will probably help the optimization.
@@ -79,8 +80,7 @@ The variance is computed as
 
 .. math::
 
-   \sqrt{\sum_{i} (\log (| \text{Jac}(i)|)^2 / N}
-
+   \sqrt{\frac{\sum_{i} \log (| \text{Jac}(i)|)^2}{N}}
 
 
 where :math:`Jac(i)` represents the nonzero Jacobian elements and :math:`N` the number of nonzero Jacobian elements in the model. A variance of 4.1 means that Jacobian values outside the range Exp(-4.1) = 0.017 to Exp(+4.1) = 60.3 are about as common as values inside the range. This range is for most models acceptable, while a variance of 5, corresponding to about half the derivatives outside the range Exp(-5) = 0.0067 to Exp(+5) = 148.4, can be dangerous.

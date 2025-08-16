@@ -9,7 +9,7 @@ CBC is a tool for solving linear optimization problems. Such problems are conven
 
 
 
-``Minimize (or Maximize)`` :math:`c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n}`
+``Minimize or Maximize`` :math:`c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n}`
 
 ``Subject to:`` 
 

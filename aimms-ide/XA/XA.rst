@@ -9,7 +9,7 @@ XA (version 16) is a tool for solving, first of all, linear optimization problem
 
 
 
-``Minimize (or Maximize)`` :math:`c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n}`
+``Minimize or Maximize`` :math:`c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n}`
 
 ``Subject to:`` 
 

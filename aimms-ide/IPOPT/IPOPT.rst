@@ -9,9 +9,9 @@ IPOPT (**I** nterior **P** oint **OPT** imizer) is a software package for large-
 .. math::
 
     \begin{array}{ll}
-    \text{minimize} & f(x) \\
+    \text{Minimize} & f(x) \\
     x \in \mathbb{R}^n & \\
-    \text{subject to} & L_j \le g_j(x) \le U_j \quad j \in J \\
+    \text{Subject to} & L_j \le g_j(x) \le U_j \quad j \in J \\
     & l_i \le x_i \le u_i \quad i \in I
     \end{array}
 
