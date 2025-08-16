@@ -9,7 +9,7 @@ Post Compilation Procedure
 
 
 :Type:	Name of a procedure	
-:Default:	-	
+:Default:	\-	
 
 
 

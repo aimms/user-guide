@@ -5,37 +5,25 @@ MINOS
 
 MINOS is a FORTRAN-based computer program designed to solve nonlinear programming problems expressed in the following form:
 
+.. math::
 
-
-
-.. list-table::
-
-   * - ``minimize`` (x)
-     - Fobj(x) 
-   * - ``subject to`` 
-     - L <= F(x) <= U
-   * - 
-     - l <= x <= u
-
-
-
+    \begin{array}{ll}
+    \text{Minimize} & f(x) \\
+    x \in \mathbb{R}^n & \\
+    \text{Subject to} & L_j \le g_j(x) \le U_j \quad j \in J \\
+    & l_i \le x_i \le u_i \quad i \in I
+    \end{array}
 
 where
 
-x is the vector of variables,
+* :math:`x` is the vector of variables,
+* :math:`f` is the objective function and :math:`g` is a vector of constraint functions,
+* the vectors :math:`L` and :math:`U` denote the lower and upper bounds on the constraints, 
+* the vectors :math:`l` and :math:`u` are the bounds on the variables x.
 
-l and u are vectors of lower and upper bounds on the variables,
+The functions :math:`f(x)` and :math:`g(x)` can be nonlinear and nonconvex, but should be differentiable. Note that equality constraints can be formulated in the above formulation by setting the corresponding components of :math:`L` and :math:`U` to the same value.
 
-Fobj is a differentiable (nonlinear) function,
-
-F is a vector of differentiable nonlinear functions, and
-
-L and U are vectors of lower and upper bounds on F.
-
-
-
-Some of the lower bounds may be – ¥ and some of the upper bounds may be + ¥. The scalar value n will denote the number of variables and m the number of constraints (i.e., the size of vector F) when they appear in this topic.
-
+The optimization problem can be maximized instead of minimized.
 
 
 MINOS has been invented by Bruce Murtagh and Michael Saunders, and has been distributed by Stanford University.
@@ -46,7 +34,12 @@ To solve nonlinear programming problems, MINOS uses a projected augmented Lagran
 
 
 
-The relationship between the model formulation above and the AIMMS model is simple, the inequalities defined in AIMMS with <= or >= are converted into equalities by the addition of properly bounded slacks. Slacks with lower and upper bounds of zero are added to all AIMMS equalities to ensure that the Jacobian matrix - the matrix of derivatives of the functions in g with respect to x - has full row rank. All these slacks are, together with the normal AIMMS variables, included in x. The vector l represents the lower bounds as defined in AIMMS, either with the range specified at declaration, or explicitly with the '.lower' qualifier, and any bounds on the slacks. Similarly, u represents upper bounds as defined in AIMMS and any bounds on the slacks. The function g represents the non-constant terms of the AIMMS equations themselves; non-constant terms appearing on the right-hand side are moved to the left-hand side.
+The relationship between the model formulation above and the AIMMS model is simple, the inequalities defined in AIMMS with <= or >= are converted into equalities
+by the addition of properly bounded slacks. Slacks with lower and upper bounds of zero are added to all AIMMS equalities to ensure that the Jacobian
+matrix - the matrix of derivatives of the functions in :math:`g` with respect to :math:`x` - has full row rank. All these slacks are, together with the normal
+AIMMS variables, included in :math:`x`. The vector :math:`l` represents the lower bounds as defined in AIMMS, either with the range specified at declaration, or explicitly
+with the '.lower' qualifier, and any bounds on the slacks. Similarly, :math:`u` represents upper bounds as defined in AIMMS and any bounds on the slacks.
+The function :math:`g` represents the non-constant terms of the AIMMS equations themselves; non-constant terms appearing on the right-hand side are moved to the left-hand side.
 
 
 

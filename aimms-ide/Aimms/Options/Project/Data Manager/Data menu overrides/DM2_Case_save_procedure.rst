@@ -7,7 +7,7 @@ Case save procedure
 ===================
 
 :Type:	Name of a procedure	
-:Default:	-	
+:Default:	\-	
 
 
 

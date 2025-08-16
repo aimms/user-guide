@@ -45,7 +45,7 @@ While traditional NLP and MINLP algorithms are guaranteed to converge only under
 
 
 
-BARON requires that all nonlinear variables and expressions in the mathematical program are bounded from below and above. It is important that the user provides finite lower and upper bounds on all variables. Providing finite bounds on the variables does not guarantee finite bounds on the nonlinear expressions in the model. For instance, consider the term 1/x for x in [0,1], which has finite lower and upper bounds, but is unbounded. It is important to provide bounds for the variables such that all expressions have finite values.
+BARON requires that all nonlinear variables and expressions in the mathematical program are bounded from below and above. It is important that the user provides finite lower and upper bounds on all variables. Providing finite bounds on the variables does not guarantee finite bounds on the nonlinear expressions in the model. For instance, consider the term :math:`1/x` for :math:`x` in [0,1], which has finite lower and upper bounds, but is unbounded. It is important to provide bounds for the variables such that all expressions have finite values.
 
 
 
@@ -57,7 +57,7 @@ BARON cannot handle constraints that contain goniometric functions or ErrorF fun
 
 
 
-BARON cannot handle powers of the form xy where x and y are variables but AIMMS will automatically reformulate such an expression to the equivalent expression exp(y * log(x)). You should ensure that the level value of x is strictly larger than 0, before the solve statement, otherwise you might get a derivative evaluation error.
+BARON cannot handle powers of the form :math:`x^y` where :math:`x` and :math:`y` are variables but AIMMS will automatically reformulate such an expression to the equivalent expression :math:`\exp(y * \log(x))`. You should ensure that the level value of :math:`x` is strictly larger than 0, before the solve statement, otherwise you might get a derivative evaluation error.
 
 
 
@@ -91,7 +91,7 @@ BARON does not use the AIMMS general solvers options **MIP Relative Optimality T
 
 **Important Notice** 
 
-When using BARON, the general solvers option **Combine Quadratic Terms**  should be turned off. When this option is turned on, quadratic terms in constraint definitions will be combined by the AIMMS translator before passing the constraint to the solver. For instance, if the definition of some constraint contains the quadratic term x * z + y * z then this will be passed as (z + y) * x if this option is turned on, and as x * z + y * z if this option is turned off. In general, BARON is more efficient if this option is turned off. Therefore we advice to switch this option off when using BARON.
+When using BARON, the general solvers option **Combine Quadratic Terms**  should be turned off. When this option is turned on, quadratic terms in constraint definitions will be combined by the AIMMS translator before passing the constraint to the solver. For instance, if the definition of some constraint contains the quadratic term :math:`x * z + y * z` then this will be passed as :math:`(z + y) * x` if this option is turned on, and as :math:`x * z + y * z` if this option is turned off. In general, BARON is more efficient if this option is turned off. Therefore we advice to switch this option off when using BARON.
 
 
 

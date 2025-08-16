@@ -7,7 +7,7 @@ Case loadasactive procedure
 ===========================
 
 :Type:	Name of a procedure	
-:Default:	-	
+:Default:	\-	
 
 
 

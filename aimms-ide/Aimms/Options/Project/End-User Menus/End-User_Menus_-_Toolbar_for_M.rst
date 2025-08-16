@@ -10,7 +10,7 @@ Toolbar for Message Window
 
 :Type:	Name of a toolbar	
 :Range:	AIMMS toolbar	
-:Default:	-	
+:Default:	\-	
 
 
 

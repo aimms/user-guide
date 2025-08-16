@@ -9,7 +9,7 @@ Startup Page
 
 
 :Type:	Name of a page	
-:Default:	-	
+:Default:	\-	
 
 
 
