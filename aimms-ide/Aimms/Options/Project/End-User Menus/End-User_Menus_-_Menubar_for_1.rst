@@ -10,7 +10,7 @@ Menubar for Progress Window
 
 :Type:	Name of a menubar	
 :Range:	AIMMS menubar	
-:Default:	-	
+:Default:	\-	
 
 
 

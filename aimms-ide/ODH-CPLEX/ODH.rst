@@ -6,39 +6,30 @@ ODH CPLEX
 
 ODH-CPLEX is a tool for solving, first of all, mixed integer linear optimization problems. Such problems are conventionally written like this:
 
+.. math::
 
-
-``Minimize (or Maximize)`` c1x1 + c2x2 + ... + cnxn
-
-``Subject to:`` 
-
-a11x1 + a12x2 + … + a1nxn ~ b1
-
-a21x1 + a22x2 + … + a2nxn ~ b2
-
-  …
-
-am1x1 + am2x2 + … + amnxn ~ bm
-
-l1 <= x1 <= u1, …, ln <= xn <= un
-
-
+   \begin{aligned}
+   & \text{Minimize:} \quad && c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n} \\
+   & \text{Subject to:} \\
+   & && a_{11}x_{1} + a_{12}x_{2} + \ldots + a_{1n}x_{n} \sim b_1 \\
+   & && a_{21}x_{1} + a_{22}x_{2} + \ldots + a_{2n}x_{n} \sim b_2 \\
+   & && \vdots \\
+   & && a_{m1}x_{1} + a_{m2}x_{2} + \ldots + a_{mn}x_{n} \sim b_m \\
+   & && l_1 \leq x_1 \leq u_1 \\
+   & && \vdots \\
+   & && l_n \leq x_n \leq u_n
+   \end{aligned}
 
 where,
 
-x is the vector of variables,
+* :math:`x` is the vector of variables,
+* :math:`a`, :math:`b`, and :math:`c` are real numbers,
+* :math:`l` and :math:`u` are vectors of lower and upper bounds, and
+* :math:`\sim` can be either <=, >=, or =.
 
-a, b, and c are real numbers,
+Some of the lower bounds may be –inf and some of the upper bounds may be inf. The scalar value :math:`n` will denote the number of variables and :math:`m` the number of equations.
 
-l and u are vectors of lower and upper bounds, and
-
-~ can be either <=, >=, or =.
-
-
-
-Some of the lower bounds may be –inf and some of the upper bounds may be inf. The scalar value n will denote the number of variables and m the number of equations.
-
-
+The optimization problem can be maximized instead of minimized.
 
 ODH-CPLEX requires that some of the variables are binary or integer. These problems are known as mixed integer programs or MIPs. ODH-CPLEX can also handle certain problems in which the objective function is not linear but quadratic. Such problems are called mixed integer quadratic programs (MIQP) if all constraints are linear. ODH-CPLEX can also handle certain problems in which some of the constraints are quadratic, while the objective function is linear or quadratic. These problems are called mixed integer quadratically constrained programs (MIQCP). ODH-CPLEX can also be used for some types of second-order cone constraints.
 

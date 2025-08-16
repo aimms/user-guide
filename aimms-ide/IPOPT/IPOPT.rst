@@ -24,7 +24,7 @@ where
 
 The functions :math:`f(x)` and :math:`g(x)` can be nonlinear and nonconvex, but should be twice continuously differentiable. Note that equality constraints can be formulated in the above formulation by setting the corresponding components of :math:`L` and :math:`U` to the same value.
 
-
+The optimization problem can be maximized instead of minimized.
 
 IPOPT uses an interior point method, together with a filter linear search procedure. The mathematical details of the algorithm are described in the publication:
 

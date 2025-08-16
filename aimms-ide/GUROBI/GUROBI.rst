@@ -5,22 +5,18 @@ GUROBI
 
 Gurobi is a tool for solving linear optimization problems and nonlinear optimization problems. Linear optimization problems are conventionally written like this:
 
-
-
-``Minimize or Maximize`` :math:`c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n}`
-
-``Subject to:`` 
-
 .. math::
 
    \begin{aligned}
-   a_{11}x_{1} + a_{12}x_{2} + \ldots + a_{1n}x_{n} &\sim b_1 \\
-   a_{21}x_{1} + a_{22}x_{2} + \ldots + a_{2n}x_{n} &\sim b_2 \\
-   \vdots \\
-   a_{m1}x_{1} + a_{m2}x_{2} + \ldots + a_{mn}x_{n} &\sim b_m \\
-   l_1 \leq x_1 \leq u_1 \\
-   \vdots \\
-   l_n \leq x_n \leq u_n
+   & \text{Minimize:} \quad && c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n} \\
+   & \text{Subject to:} \\
+   & && a_{11}x_{1} + a_{12}x_{2} + \ldots + a_{1n}x_{n} \sim b_1 \\
+   & && a_{21}x_{1} + a_{22}x_{2} + \ldots + a_{2n}x_{n} \sim b_2 \\
+   & && \vdots \\
+   & && a_{m1}x_{1} + a_{m2}x_{2} + \ldots + a_{mn}x_{n} \sim b_m \\
+   & && l_1 \leq x_1 \leq u_1 \\
+   & && \vdots \\
+   & && l_n \leq x_n \leq u_n
    \end{aligned}
 
 where,
@@ -31,7 +27,10 @@ where,
 * :math:`\sim` can be either <=, >=, or =.
 
 Some of the lower bounds may be –inf and some of the upper bounds may be inf. 
-The scalar value :math:`n` denotes the number of variables and :math:`m` the number of equations. 
+The scalar value :math:`n` denotes the number of variables and :math:`m` the number of equations.
+
+The optimization problem can be maximized instead of minimized.
+
 Gurobi can handle ranged constraints, i.e., constraints with both a finite lower and upper bound, 
 but it cannot handle (GMP) updates on the left-hand-side or right-hand-side of a ranged constraint.
 

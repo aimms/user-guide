@@ -28,6 +28,8 @@ where,
 
 Some of the lower bounds may be –inf and some of the upper bounds may be inf. The scalar value :math:`n` denotes the number of variables and :math:`m` the number of equations.
 
+The optimization problem can be maximized instead of minimized.
+
 In the most basic linear optimization problem, the variables of the objective function are continuous in the mathematical sense, with no gaps between real values. CPLEX can also be used for solving linear programming problems in which some or all of the variables must assume integer values in the solution. Such problems are known as mixed integer programs or MIPs.
 
 CPLEX can handle problems with multiple objectives; see the section :ref:`CPLEX_Multi_Objective_Optimization` .

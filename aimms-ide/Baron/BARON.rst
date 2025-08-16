@@ -31,7 +31,7 @@ where,
 *   :math:`C` and :math:`D` are matrices for the continuous and integer variables, and
 *   :math:`d` is a vector of right-hand side values of the linear constraints.
 
-
+The optimization problem can be maximized instead of minimized.
 
 The problem is called a nonlinear programming (NLP) problem if there are no integer variables.
 

@@ -6,22 +6,18 @@ COPT
 
 COPT is a tool for solving linear optimization problems. Such problems are conventionally written like this:
 
-
-
-``Minimize or Maximize`` :math:`c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n}`
-
-``Subject to:`` 
-
 .. math::
 
    \begin{aligned}
-   a_{11}x_{1} + a_{12}x_{2} + \ldots + a_{1n}x_{n} &\sim b_1 \\
-   a_{21}x_{1} + a_{22}x_{2} + \ldots + a_{2n}x_{n} &\sim b_2 \\
-   \vdots \\
-   a_{m1}x_{1} + a_{m2}x_{2} + \ldots + a_{mn}x_{n} &\sim b_m \\
-   l_1 \leq x_1 \leq u_1 \\
-   \vdots \\
-   l_n \leq x_n \leq u_n
+   & \text{Minimize:} \quad && c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n} \\
+   & \text{Subject to:} \\
+   & && a_{11}x_{1} + a_{12}x_{2} + \ldots + a_{1n}x_{n} \sim b_1 \\
+   & && a_{21}x_{1} + a_{22}x_{2} + \ldots + a_{2n}x_{n} \sim b_2 \\
+   & && \vdots \\
+   & && a_{m1}x_{1} + a_{m2}x_{2} + \ldots + a_{mn}x_{n} \sim b_m \\
+   & && l_1 \leq x_1 \leq u_1 \\
+   & && \vdots \\
+   & && l_n \leq x_n \leq u_n
    \end{aligned}
 
 where,
@@ -31,11 +27,9 @@ where,
 * :math:`l` and :math:`u` are vectors of lower and upper bounds, and
 * :math:`\sim` can be either <=, >=, or =.
 
-
-
 Some of the lower bounds may be –inf and some of the upper bounds may be inf. The scalar value :math:`n` denotes the number of variables and :math:`m` the number of equations. COPT can handle ranged constraints, i.e., constraints with both a finite lower and upper bound.
 
-
+The optimization problem can be maximized instead of minimized.
 
 In the most basic linear optimization problem, the variables of the objective function are continuous in the mathematical sense, with no gaps between real values. COPT can also be used for solving linear programming problems in which some or all of the variables must assume integer values in the solution. Such problems are known as mixed integer programs or MIPs.
 
