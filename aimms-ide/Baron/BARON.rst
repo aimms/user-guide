@@ -19,21 +19,6 @@ MINLP problems can be expressed in the following form:
     & l_2 \le y \le u_2, \quad y \text{ integer}
     \end{array}
 
-
-.. Minimize: f(x,y)
-.. 
-.. Subject to:
-.. 
-.. h(x,y) <= b
-.. 
-.. Cx + Dy <= d
-.. 
-.. l1 <= x <= u1, x continuous
-.. 
-.. l2 <= y <= u2, y integer
-
-
-
 where,
 
 *   :math:`x` is the vector of continuous variables,

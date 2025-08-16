@@ -15,23 +15,14 @@ IPOPT (**I** nterior **P** oint **OPT** imizer) is a software package for large-
     & l_i \le x_i \le u_i \quad i \in I
     \end{array}
 
+where
 
-.. .. list-table::
-.. 
-..    * - ``minimize`` x in Rn
-..      - f(x)
-..      - 
-..    * - ``subject to`` 
-..      - Lj ≤ gj(x) ≤ Uj
-..      -  j Î J
-..    * - 
-..      - li ≤ xi ≤ ui 
-..      -  i Î I
+* :math:`x` is the vector of variables,
+* :math:`f` is the objective function and :math:`g` is a vector of constraint functions,
+* the vectors :math:`L` and :math:`U` denote the lower and upper bounds on the constraints, 
+* the vectors :math:`l` and :math:`u` are the bounds on the variables x.
 
-
-
-
-where x is the vector of variables, f is the objective function and g is a vector of constraint functions. The vectors L and U denote the lower and upper bounds on the constraints, and the vectors l and u are the bounds on the variables x. The functions f(x) and g(x) can be nonlinear and nonconvex, but should be twice continuously differentiable. Note that equality constraints can be formulated in the above formulation by setting the corresponding components of L and U to the same value.
+The functions :math:`f(x)` and :math:`g(x)` can be nonlinear and nonconvex, but should be twice continuously differentiable. Note that equality constraints can be formulated in the above formulation by setting the corresponding components of :math:`L` and :math:`U` to the same value.
 
 
 
