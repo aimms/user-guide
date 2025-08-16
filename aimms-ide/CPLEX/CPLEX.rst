@@ -24,6 +24,7 @@ CPLEX is a tool for solving, first of all, linear optimization problems. Such pr
    \end{aligned}
 
 where,
+
 * :math:`x` is the vector of variables,
 * :math:`a`, :math:`b`, and :math:`c` are real numbers,
 * :math:`l` and :math:`u` are vectors of lower and upper bounds, and
