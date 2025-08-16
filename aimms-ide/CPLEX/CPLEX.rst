@@ -8,15 +8,16 @@ CPLEX is a tool for solving, first of all, linear optimization problems. Such pr
 .. math::
 
    \begin{aligned}
-   \text{Minimize or Maximize:} & c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n} \\
-   \text{Subject to:} & \\
-   & a_{11}x_{1} + a_{12}x_{2} + \ldots + a_{1n}x_{n} &\sim b_1 \\
-   & a_{21}x_{1} + a_{22}x_{2} + \ldots + a_{2n}x_{n} &\sim b_2 \\
-   & \vdots \\
-   & a_{m1}x_{1} + a_{m2}x_{2} + \ldots + a_{mn}x_{n} &\sim b_m \\
-   & l_1 \leq x_1 \leq u_1 \\
-   & \vdots \\
-   & l_n \leq x_n \leq u_n
+   & \text{Minimize or Maximize:} \\
+   & & c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n} \\
+   & \text{Subject to:} \\
+   & & a_{11}x_{1} + a_{12}x_{2} + \ldots + a_{1n}x_{n} &\sim b_1 \\
+   & & a_{21}x_{1} + a_{22}x_{2} + \ldots + a_{2n}x_{n} &\sim b_2 \\
+   & & \vdots \\
+   & & a_{m1}x_{1} + a_{m2}x_{2} + \ldots + a_{mn}x_{n} &\sim b_m \\
+   & & l_1 \leq x_1 \leq u_1 \\
+   & & \vdots \\
+   & & l_n \leq x_n \leq u_n
    \end{aligned}
 
 where,
