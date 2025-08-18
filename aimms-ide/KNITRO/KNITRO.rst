@@ -13,8 +13,8 @@ Artelys Knitro is a software package for solving nonlinear programming problems 
     \begin{array}{ll}
     \text{Minimize} & f(x,y) \\
     \text{Subject to} & L_j \le g_j(x,y) \le U_j \quad & j \in J \\
-    & l_i \le x_i \le u_i \quad & i \in I
-    & L_k \le h_k(x,y) \le U_k \perp l_i \le x_i \le u_i \quad & k \in C
+    & l_i \le x_i \le u_i \quad & i \in I \\
+    & L_k \le h_k(x,y) \le U_k \enspace \perp l_i \enspace \le x_i \le u_i \quad & k \in C
     \end{array}
 
 where

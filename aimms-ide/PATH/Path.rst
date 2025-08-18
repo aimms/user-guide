@@ -12,18 +12,15 @@ If :math:`l_{if} = -\infty` and :math:`u_{if} = \infty` then
 
 .. list-table::
 
-   * - 
-     - either
+   * - either
      - :math:`x_i = l_{ix}`
      - and
      - :math:`f_i(x) \geq 0`
-   * - 
-     - or
+   * - or
      - :math:`x_i = u_{ix}`
      - and
      - :math:`f_i(x) \leq 0`
-   * - 
-     - or
+   * - or
      - :math:`l_{ix} < x_i < u_{ix}`
      - and
      - :math:`f_i(x) = 0`.
@@ -33,18 +30,15 @@ If :math:`l_{ix} = -\infty` and :math:`u_{ix} = \infty` then
 
 .. list-table::
 
-   * - 
-     - either
+   * - either
      - :math:`x_i = 0`
      - and
      - :math:`l_{if} < f_i(x) < u_{if}`
-   * - 
-     - or
+   * - or
      - :math:`x_i \geq 0`
      - and
      - :math:`f_i(x) = l_{if}`
-   * - 
-     - or
+   * - or
      - :math:`x_i \leq 0`
      - and
      - :math:`f_i(x) = u_{if}`
@@ -54,23 +48,19 @@ In any other situation, where exactly two of the constants :math:`l_{ix}`, :math
 
 .. list-table::
 
-   * - 
-     - either
+   * - either
      - :math:`x_i = l_{ix}`
      - and
      - :math:`l_{if} \leq f_i(x) \leq u_{if}`
-   * - 
-     - or
+   * - or
      - :math:`x_i = u_{ix}`
      - and
      - :math:`l_{if} \leq f_i(x) \leq u_{if}`
-   * - 
-     - or
+   * - or
      - :math:`l_{ix} < x_i < u_{ix}`
      - and
      - :math:`f_i(x) = l_{if}`
-   * - 
-     - or
+   * - or
      - :math:`l_{ix} < x_i < u_{ix}`
      - and
      - :math:`f_i(x) = u_{if}`
@@ -82,18 +72,15 @@ PATH uses a different definition. In PATH, a mixed complementarity condition req
 
 .. list-table::
 
-   * - 
-     - either
+   * - either
      - :math:`x_i = l_{ix}`
      - and
      - :math:`f_i(x) \geq 0`
-   * - 
-     - or
+   * - or
      - :math:`x_i = u_{ix}`
      - and
      - :math:`f_i(x) \leq 0`
-   * - 
-     - or
+   * - or
      - :math:`l_{ix} < x_i < u_{ix}`
      - and
      - :math:`f_i(x) = 0`
