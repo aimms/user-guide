@@ -26,7 +26,7 @@ where,
 * :math:`l` and :math:`u` are vectors of lower and upper bounds, and
 * :math:`\sim` can be either <=, >=, or =.
 
-Some of the lower bounds may be –inf and some of the upper bounds may be inf. 
+Some of the lower bounds may be :math:`-\infty` and some of the upper bounds may be :math:`\infty`. 
 The scalar value :math:`n` denotes the number of variables and :math:`m` the number of equations.
 
 The optimization problem can be maximized instead of minimized.

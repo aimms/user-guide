@@ -4,117 +4,103 @@ PATH
 
 **Description** 
 
-PATH is a tool for solving (square) mixed complementarity problems. Mixed complementarity problems are systems of linear and nonlinear constraints where variables in the model are linked to constraints in the form of mixed complementarity conditions. In AIMMS, a mixed complementarity condition is defined as follows for a given variable xi and an associated function fi(x).
+PATH is a tool for solving (square) mixed complementarity problems. Mixed complementarity problems are systems of linear and nonlinear constraints
+where variables in the model are linked to constraints in the form of mixed complementarity conditions. In AIMMS, a mixed complementarity
+condition is defined as follows for a given variable :math:`x_i` and an associated function :math:`f_i(x)`.
 
-
-
-If lif = -¥ and uif = ¥ then
-
-
-
+If :math:`l_{if} = -\infty` and :math:`u_{if} = \infty` then
 
 .. list-table::
 
    * - 
      - either
-     - xi = lix 
+     - :math:`x_i = l_{ix}`
      - and
-     - fi(x) ≥ 0
+     - :math:`f_i(x) \geq 0`
    * - 
      - or
-     - xi = uix 
+     - :math:`x_i = u_{ix}`
      - and
-     - fi(x) ≤ 0
+     - :math:`f_i(x) \leq 0`
    * - 
      - or
-     - lix < xi  < uix 
+     - :math:`l_{ix} < x_i < u_{ix}`
      - and
-     - fi(x) = 0.
+     - :math:`f_i(x) = 0`.
 
 
-If lix = -¥ and uix = ¥ then
-
-
-
+If :math:`l_{ix} = -\infty` and :math:`u_{ix} = \infty` then
 
 .. list-table::
 
    * - 
      - either
-     - xi = 0 
+     - :math:`x_i = 0`
      - and
-     - lif < fi(x)  < uif 
+     - :math:`l_{if} < f_i(x) < u_{if}`
    * - 
      - or
-     - xi ≥ 0 
+     - :math:`x_i \geq 0`
      - and
-     - fi(x) = lif
+     - :math:`f_i(x) = l_{if}`
    * - 
      - or
-     - xi ≤ 0  
+     - :math:`x_i \leq 0`
      - and
-     - fi(x) = uif.
+     - :math:`f_i(x) = u_{if}`
 
 
-In any other situation, where exactly two of the constants lix, uix, lif and uif are finite, then
-
-
-
+In any other situation, where exactly two of the constants :math:`l_{ix}`, :math:`u_{ix}`, :math:`l_{if}` and :math:`u_{if}` are finite, then
 
 .. list-table::
 
    * - 
      - either
-     - xi = lix 
+     - :math:`x_i = l_{ix}`
      - and
-     - lif ≤ fi(x)  ≤ uif 
+     - :math:`l_{if} \leq f_i(x) \leq u_{if}`
    * - 
      - or
-     - xi = uix 
+     - :math:`x_i = u_{ix}`
      - and
-     - lif ≤ fi(x)  ≤ uif 
+     - :math:`l_{if} \leq f_i(x) \leq u_{if}`
    * - 
      - or
-     - lix < xi  < uix 
+     - :math:`l_{ix} < x_i < u_{ix}`
      - and
-     - fi(x) = lif
+     - :math:`f_i(x) = l_{if}`
    * - 
      - or
-     - lix < xi  < uix 
+     - :math:`l_{ix} < x_i < u_{ix}`
      - and
-     - fi(x) = uif.
-
-
+     - :math:`f_i(x) = u_{if}`
 
 
 **Transformation** 
 
 PATH uses a different definition. In PATH, a mixed complementarity condition requires that:
 
-
-
-
 .. list-table::
 
    * - 
      - either
-     - xi = lix 
+     - :math:`x_i = l_{ix}`
      - and
-     - fi(x) ≥ 0
+     - :math:`f_i(x) \geq 0`
    * - 
      - or
-     - xi = uix 
+     - :math:`x_i = u_{ix}`
      - and
-     - fi(x) ≤ 0
+     - :math:`f_i(x) \leq 0`
    * - 
      - or
-     - lix < xi  < uix 
+     - :math:`l_{ix} < x_i < u_{ix}`
      - and
-     - fi(x) = 0.
+     - :math:`f_i(x) = 0`
 
 
-A complementarity condition modeled in AIMMS is transformed into this formulation. Note that no transformation of the complementarity condition is needed if lif = -¥ and uif = ¥.
-
+A complementarity condition modeled in AIMMS is transformed into this formulation. Note that no transformation of the complementarity condition is needed if
+:math:`l_{if} = -\infty` and :math:`u_{if} = \infty`.
 
 
 PATH requires that the mixed complementarity problem is square (i.e., the number of variables and constraints must be equal) and PATH cannot handle normal inequalities (i.e., inequalities that have no complemented variable). On the other hand, AIMMS does not require that the mixed complementarity problem is square and AIMMS allows that normal inequalities are included. Therefore a mixed complementarity problem defined in AIMMS has to be transformed into the input format needed by PATH. AIMMS will match unassociated variables to 'normal' inequalities, and make the problem square by adding variables or constraints. However, users should avoid normal inequalities if possible and match unassociated variables and normal inequalities when the matching makes sense for their application! Structure and convexity can be destroyed if it is left to the AIMMS to perform the matching, which can have a negative influence on PATH's performance.

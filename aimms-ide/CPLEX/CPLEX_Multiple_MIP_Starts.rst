@@ -7,13 +7,14 @@ CPLEX supports multiple MIP starts; that is, a user may maintain more than one s
 
 A solution in the solution repository can be marked as a MIP start by using the AIMMS routine GMP::Solution::SetMIPStartFlag. For example, to mark the solutions 2 and 3 in the solution repository of a mathematical program 'MP' and solve the MIP use
 
-	gmpMP := GMP::Instance::Generate( MP );
+.. code-block:: text
 
-	GMP::Solution::SetMIPStartFlag( gmpMP, 2, 1 );
+   gmpMP := GMP::Instance::Generate( MP );
 
-	GMP::Solution::SetMIPStartFlag( gmpMP, 3, 1 );
+   GMP::Solution::SetMIPStartFlag( gmpMP, 2, 1 );
+   GMP::Solution::SetMIPStartFlag( gmpMP, 3, 1 );
 
-	GMP::Instance::Solve( gmpMP );
+   GMP::Instance::Solve( gmpMP );
 
 where 'gmpMP' is an element parameter with range 'AllGeneratedMathematicalPrograms'.
 

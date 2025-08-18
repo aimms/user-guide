@@ -11,8 +11,8 @@ IPOPT (**I** nterior **P** oint **OPT** imizer) is a software package for large-
     \begin{array}{ll}
     \text{Minimize} & f(x) \\
     x \in \mathbb{R}^n & \\
-    \text{Subject to} & L_j \le g_j(x) \le U_j \quad j \in J \\
-    & l_i \le x_i \le u_i \quad i \in I
+    \text{Subject to} & L_j \le g_j(x) \le U_j \quad & j \in J \\
+    & l_i \le x_i \le u_i \quad & i \in I
     \end{array}
 
 where
@@ -23,6 +23,8 @@ where
 * the vectors :math:`l` and :math:`u` are the bounds on the variables x.
 
 The functions :math:`f(x)` and :math:`g(x)` can be nonlinear and nonconvex, but should be twice continuously differentiable. Note that equality constraints can be formulated in the above formulation by setting the corresponding components of :math:`L` and :math:`U` to the same value.
+
+Some of the lower bounds may be :math:`-\infty` and some of the upper bounds may be :math:`\infty`. The scalar value :math:`n` denotes the number of variables and :math:`m` the number of constraints (i.e., the size of vector :math:`g`).
 
 The optimization problem can be maximized instead of minimized.
 

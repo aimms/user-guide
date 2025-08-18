@@ -24,6 +24,8 @@ where
 
 The functions :math:`f(x)` and :math:`g(x)` can be nonlinear and nonconvex, but should be differentiable. Note that equality constraints can be formulated in the above formulation by setting the corresponding components of :math:`L` and :math:`U` to the same value.
 
+Some of the lower bounds may be :math:`-\infty` and some of the upper bounds may be :math:`\infty`. The scalar value :math:`n` denotes the number of variables and :math:`m` the number of constraints (i.e., the size of vector :math:`g`).
+
 The optimization problem can be maximized instead of minimized.
 
 

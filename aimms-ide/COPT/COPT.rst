@@ -27,7 +27,8 @@ where,
 * :math:`l` and :math:`u` are vectors of lower and upper bounds, and
 * :math:`\sim` can be either <=, >=, or =.
 
-Some of the lower bounds may be –inf and some of the upper bounds may be inf. The scalar value :math:`n` denotes the number of variables and :math:`m` the number of equations. COPT can handle ranged constraints, i.e., constraints with both a finite lower and upper bound.
+Some of the lower bounds may be :math:`-\infty` and some of the upper bounds may be :math:`\infty`.
+The scalar value :math:`n` denotes the number of variables and :math:`m` the number of equations. COPT can handle ranged constraints, i.e., constraints with both a finite lower and upper bound.
 
 The optimization problem can be maximized instead of minimized.
 
