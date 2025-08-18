@@ -44,7 +44,7 @@ If :math:`l_{ix} = -\infty` and :math:`u_{ix} = \infty` then
      - :math:`f_i(x) = u_{if}`
 
 
-In any other situation, where exactly two of the constants :math:`l_{ix}`, :math:`u_{ix}`, :math:`l_{if}` and :math:`u_{if}` are finite, then
+In any other situation, where *exactly* two of the constants :math:`l_{ix}`, :math:`u_{ix}`, :math:`l_{if}` and :math:`u_{if}` are finite, then
 
 .. list-table::
 

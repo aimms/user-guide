@@ -14,7 +14,7 @@ Artelys Knitro is a software package for solving nonlinear programming problems 
     \text{Minimize} & f(x,y) \\
     \text{Subject to} & L_j \le g_j(x,y) \le U_j \quad & j \in J \\
     & l_i \le x_i \le u_i \quad & i \in I \\
-    & L_k \le h_k(x,y) \le U_k \enspace \perp l_i \enspace \le x_i \le u_i \quad & k \in C
+    & L_k \le h_k(x,y) \le U_k \enspace \perp \enspace l_i \le x_i \le u_i \quad & k \in C
     \end{array}
 
 where
@@ -67,7 +67,7 @@ The Knitro presolver is controlled by the option **Presolve** .
 **Parallel solves** 
 
 Knitro is thread-safe and therefore multiple nonlinear mathematical program instances can be solved in parallel using Knitro (assuming your computer has multiple processors or a multi-core processor). 
-The function :any:`GMP::SolverSession::AsynchronousExecute` should be used to solve multiple mathematical program instances in parallel.
+The procedure :any:`GMP::SolverSession::AsynchronousExecute` should be used to solve multiple mathematical program instances in parallel.
 
 
 **Learn more about** 
