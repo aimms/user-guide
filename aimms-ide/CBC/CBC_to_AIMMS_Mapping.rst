@@ -50,7 +50,7 @@ The table shows in the left column the parameters from CBC that can be set in AI
    * - idiotCrash
      - :ref:`CBC_Simplex_-_Idiot_crash`
    * - increment
-     - :ref:`CBC_MIP_-_Increment`
+     - :ref:`CBC_-_Increment`
    * - integerTolerance
      - :ref:`CBC_MIP_-_Integrality`
    * - knapsackCuts

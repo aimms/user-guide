@@ -48,7 +48,7 @@ The table shows in the left column the AIMMS CBC options while the right column 
      - slogLevel
    * - :ref:`CBC_Logging_-_Status_File`  
      - 
-   * - :ref:`CBC_MIP_-_Increment`  
+   * - :ref:`CBC_-_Increment`  
      - increment
    * - :ref:`CBC_MIP_-_Integrality`  
      - integerTolerance
