@@ -1,4 +1,4 @@
-.. _CBC_MIP_-_Increment:
+.. _CBC_-_Increment:
 
 
 Increment
