@@ -45,7 +45,7 @@ Such a problem is known as quadratic program or QP if the constraints are linear
 and it is known as quadratically constrained program or QCP if some of the constraints are quadratic. 
 Gurobi can also handle QP and QCP problems in which some or all variables must be integer. 
 Such problems are called mixed integer quadratic programs (MIQP) and mixed integer quadratically constrained programs (MIQCP) respectively. 
-Gurobi can also be used for some types of second-order cone constraints, and it can be used to solve programs with a non-convex quadratic objective and/or non-convex quadratic constraints; see the section about :ref:`option-GUROBI-quadratic_programs` .
+Gurobi can also be used for some types of second-order cone constraints, and it can be used to solve programs with a non-convex quadratic objective and/or non-convex quadratic constraints; see the section about :ref:`GUROBI_Quadratic_Programs`.
 
 Gurobi can also handle problems in which the objective function and/or some or all of the constraints are nonlinear. It can handle nonlinear problems using continuous variables only (NLP) and nonlinear problems in which some or all variables must be integer (MINLP). Both problem types are solved to global optimality using a branch-and-bound algorithm. (Note: for some models both QCP and NLP are fitting model types, e.g., if the model only contains quadratic constraints and a linear objective. In that case the methods used by Gurobi for solving the model as QCP or NLP will be different.)
 

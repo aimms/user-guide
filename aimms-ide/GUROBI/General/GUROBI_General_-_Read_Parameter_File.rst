@@ -43,7 +43,7 @@ Heuristics 0.5
 **Multi-objective optimization** 
 
 
-During the solution process of a :ref:`option-GUROBI-multi-objective_optimization`  problem, you may prefer that optimization problems with different priorities are solved with different option settings. Gurobi makes this possible by using parameter files. The parameter file of the first optimization problem, tied to the highest priority (possibly blended) objective, should be named 'gurobi_mo1.prm', the parameter file of the second optimization problem should be named 'gurobi_mo2.prm', etc. You do not have to create a parameter file for every multi-objective optimization pass.
+During the solution process of a :ref:`GUROBI_Multi-Objective_Optimization` problem, you may prefer that optimization problems with different priorities are solved with different option settings. Gurobi makes this possible by using parameter files. The parameter file of the first optimization problem, tied to the highest priority (possibly blended) objective, should be named 'gurobi_mo1.prm', the parameter file of the second optimization problem should be named 'gurobi_mo2.prm', etc. You do not have to create a parameter file for every multi-objective optimization pass.
 
 
 
@@ -92,5 +92,5 @@ If the option **Concurrent MIP**  is set to a value greater than 1, then by swit
 *	:ref:`AIMMS_to_GUROBI_Mapping`  
 *	:ref:`option-GUROBI-concurrent_mip` 
 *	:ref:`Options_MIP_Options_-_MIP_Relative_Opt` 
-*	:ref:`option-GUROBI-multi-objective_optimization` 
+*	:ref:`GUROBI_Multi-Objective_Optimization` 
 *	:ref:`Options_Stop_Criteria_-_Time_Limit` 

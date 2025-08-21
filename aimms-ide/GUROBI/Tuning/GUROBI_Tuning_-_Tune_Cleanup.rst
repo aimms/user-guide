@@ -18,4 +18,4 @@ This option can be used to enable a cleanup phase at the end of tuning. This opt
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-tuning_tool` 
+*	:ref:`GUROBI_Tuning_Tool` 

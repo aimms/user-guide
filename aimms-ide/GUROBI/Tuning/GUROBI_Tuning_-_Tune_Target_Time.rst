@@ -19,4 +19,4 @@ This option sets the target runtime in seconds to be reached. As soon as the tun
 **Learn more about** 
 
 *	:ref:`option-GUROBI-tune_cleanup` 
-*	:ref:`option-GUROBI-tuning_tool` 
+*	:ref:`GUROBI_Tuning_Tool` 

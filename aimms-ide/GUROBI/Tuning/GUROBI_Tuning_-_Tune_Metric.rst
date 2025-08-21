@@ -31,4 +31,4 @@ The default setting chooses the aggregation automatically; setting 'Average' com
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-tuning_tool` 
+*	:ref:`GUROBI_Tuning_Tool` 

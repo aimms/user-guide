@@ -18,4 +18,4 @@ This option limits total tuning runtime (in seconds). The default setting of -1 
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-tuning_tool` 
+*	:ref:`GUROBI_Tuning_Tool` 

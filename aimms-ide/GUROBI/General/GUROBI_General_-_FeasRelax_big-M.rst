@@ -18,4 +18,4 @@ When relaxing a constraint in a feasibility relaxation, it is sometimes necessar
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-feasrelax_(feasibility_relaxation)`  
+*	:ref:`GUROBI_FeasRelax_Feasibility_Relaxation`  

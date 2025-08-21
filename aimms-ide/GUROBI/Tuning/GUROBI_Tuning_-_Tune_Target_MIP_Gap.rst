@@ -19,4 +19,4 @@ This option sets a target MIP gap to be reached. As soon as the tuner has found 
 **Learn more about** 
 
 *	:ref:`option-GUROBI-tune_cleanup` 
-*	:ref:`option-GUROBI-tuning_tool` 
+*	:ref:`GUROBI_Tuning_Tool` 
