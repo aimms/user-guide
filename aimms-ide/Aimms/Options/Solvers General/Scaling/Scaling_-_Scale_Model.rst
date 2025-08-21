@@ -106,7 +106,7 @@ AIMMS reports the scaling score before and after scaling the model. If the Combi
 *	:ref:`Options_Scaling_-_List_Scaling_Factors` 
 *	:ref:`Options_Scaling_-_Scaling_Algorithm` 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Scale_Model` 
-*	:ref:`CBC_General_-_Scaling`
+*	:ref:`option-CBC-scaling`
 *	:ref:`CONOPT_Scaling_-_Scaling_Method`
 *	:ref:`COPT_General_-_Scale`
 *	:ref:`CPLEX_General_-_Scale`
