@@ -1,6 +1,6 @@
 
 
-.. _Options_Matrix_Generation_-_Maximum_Co:
+.. _option-AIMMS-maximum_coefficient_value:
 
 
 Maximum Coefficient Value

@@ -1,6 +1,6 @@
 
 
-.. _Options_Optimization_-_Warning_move_frozen_into_Bounds:
+.. _option-AIMMS-warning_move_frozen_into_bounds:
 
 
 Warning move frozen into bounds
@@ -53,11 +53,11 @@ This option determines what happens when the type of mathematical program does n
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`Model-Explorer_Creating_a_Mathematical_Progra` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

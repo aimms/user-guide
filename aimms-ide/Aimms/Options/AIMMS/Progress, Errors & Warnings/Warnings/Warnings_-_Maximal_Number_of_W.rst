@@ -1,6 +1,6 @@
 
 
-.. _Options_Warnings_-_Maximal_Number_of_W:
+.. _option-AIMMS-maximal_number_of_warnings_reported:
 
 
 Maximal Number of Warnings Reported

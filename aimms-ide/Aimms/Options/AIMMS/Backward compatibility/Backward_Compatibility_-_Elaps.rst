@@ -1,4 +1,4 @@
-.. _Options_Backward_Compatibility_-_Elaps:
+.. _option-AIMMS-elapsed_time_is_unitless:
 
 Elapsed Time is Unitless
 ========================

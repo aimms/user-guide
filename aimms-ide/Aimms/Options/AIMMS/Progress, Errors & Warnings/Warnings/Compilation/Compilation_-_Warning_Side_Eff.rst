@@ -1,6 +1,6 @@
 
 
-.. _Options_Compilation_-_Warning_Side_Eff:
+.. _option-AIMMS-warning_side_effects:
 
 
 Warning Side Effects
@@ -95,10 +95,10 @@ An example of such a side effect occurs in the following model, where the parame
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

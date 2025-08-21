@@ -1,6 +1,6 @@
 
 
-.. _Options_XML_-_XML_Maximal_String_Length:
+.. _option-AIMMS-xml_maximal_string_length:
 
 
 XML Maximal String Length

@@ -1,6 +1,6 @@
 
 
-.. _Options_Update_Technology_-_Regenerate:
+.. _option-AIMMS-regenerate_threshold:
 
 
 Regenerate Threshold

@@ -1,6 +1,6 @@
 
 
-.. _Options_Backward_Compatibility_-_Scalar_Suffix_Reference_Substitution:
+.. _option-AIMMS-scalar_suffix_reference_substitution:
 
 
 Scalar Suffix Reference Substitution
@@ -78,7 +78,7 @@ Possible values of this option are:
 
 **Learn more about** 
 
-*	:ref:`Options_Compilation_-_Warning_Difference_Scalar_Reference_Substitution` 
+*	:ref:`option-AIMMS-warning_difference_scalar_suffix_reference_substitution` 
 
 
 

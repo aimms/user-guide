@@ -1,6 +1,6 @@
 
 
-.. _Options_Sensitivity_-_Calculate_Sensit:
+.. _option-AIMMS-calculate_sensitivity_ranges:
 
 
 Calculate Sensitivity Ranges
@@ -58,7 +58,7 @@ The computations required to compute the shadow price ranges or value ranges may
 **Learn more about** 
 
 *	:ref:`Miscellaneous_Calculation_of_Shadow_Price_Ra`  
-*	:ref:`Options_Sensitivity_-_Time_Limit_Sensitivity_Ranges`  
+*	:ref:`option-AIMMS-time_limit_sensitivity_ranges`  
 
 
 

@@ -1,6 +1,6 @@
 
 
-.. _Options_Variables_-_Save_Variable_Prio:
+.. _option-AIMMS-save_variable_priorities:
 
 
 Save Variable Priorities

@@ -1,6 +1,6 @@
 
 
-.. _Options_Compilation_-_Warning_in_Source_text:
+.. _option-AIMMS-warning_in_source_text:
 
 
 Warning in Source Text
@@ -60,10 +60,10 @@ A warnings in the AIMMS source text is a line of the following form
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

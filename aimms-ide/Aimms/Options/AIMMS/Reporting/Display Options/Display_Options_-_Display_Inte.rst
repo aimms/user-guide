@@ -1,6 +1,6 @@
 
 
-.. _Options_Display_Options_-_Display_Inte:
+.. _option-AIMMS-display_inter_column_space:
 
 
 Display Inter Column Space

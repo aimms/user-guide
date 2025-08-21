@@ -1,6 +1,6 @@
 
 
-.. _Options_MemoryManagement-IdentMemo:
+.. _option-AIMMS-ident_memory_minimum_dimension_for_separate_manager:
 
 
 Ident Memory Minimum Dimension for Separate Manager
@@ -20,4 +20,4 @@ The minimum dimension for an identifier to get it's own memory manager. This opt
 
 **Learn more about** 
 
-*	:ref:`Options_MemoryManagement-UseMultip`  
+*	:ref:`option-AIMMS-use_multiple_memory_managers`  

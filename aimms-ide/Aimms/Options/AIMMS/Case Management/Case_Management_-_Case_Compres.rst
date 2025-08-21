@@ -1,6 +1,6 @@
 
 
-.. _Options_Case_Management_-_Case_Compres:
+.. _option-AIMMS-case_compression_level:
 
 
 Case Compression Level

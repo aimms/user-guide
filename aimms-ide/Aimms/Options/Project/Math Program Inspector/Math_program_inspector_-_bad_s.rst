@@ -1,6 +1,6 @@
 
 
-.. _Options_Math_program_inspector_-_bad_s:
+.. _option-AIMMS-bad_scaling_threshold:
 
 
 Bad scaling threshold

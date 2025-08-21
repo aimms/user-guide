@@ -1,6 +1,6 @@
 
 
-.. _Options_Sensitivity_-_Always_Store_Bas:
+.. _option-AIMMS-always_store_basics:
 
 
 Always Store Basics

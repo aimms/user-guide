@@ -1,6 +1,6 @@
 
 
-.. _Options_Solution_-_Solution_Listing_Ro:
+.. _option-AIMMS-solution_listing_row_name_style:
 
 
 Solution Listing Row Name Style
@@ -33,4 +33,4 @@ This option determines the style used for referencing the constraints in a solut
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_List_pres_reducti` 
+*	:ref:`option-AIMMS-list_presolve_reductions` 

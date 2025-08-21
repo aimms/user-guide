@@ -1,6 +1,6 @@
 
 
-.. _Options_End-User_Menus_-_Menubar_for_1:
+.. _option-AIMMS-menubar_for_progress_window:
 
 
 Menubar for Progress Window

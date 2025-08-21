@@ -1,6 +1,6 @@
 
 
-.. _Options_NonlinPres_-_MINLP_Probing:
+.. _option-AIMMS-minlp_probing:
 
 
 MINLP Probing
@@ -55,9 +55,9 @@ If setting 'Full' is selected then probing will try coefficient improvement more
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_LinearPresolve` 
-*	:ref:`Options_NonlinPres_-_NonlinearPresolve`  
-*	:ref:`Options_NonlinPres_-_Reformulate_Constraints`  
+*	:ref:`option-AIMMS-linear_presolve` 
+*	:ref:`option-AIMMS-nonlinear_presolve`  
+*	:ref:`option-AIMMS-reformulate_constraints`  
 
 
 

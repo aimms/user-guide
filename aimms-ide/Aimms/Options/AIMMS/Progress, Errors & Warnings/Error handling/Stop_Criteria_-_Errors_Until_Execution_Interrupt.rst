@@ -1,6 +1,6 @@
 
 
-.. _Options_Stop_Criteria_-_Errors_Until_Execution_Interrupt:
+.. _option-AIMMS-errors_until_execution_interrupt:
 
 
 Errors Until Execution Interrupt

@@ -1,6 +1,6 @@
 
 
-.. _Options_Backward_Compatibility_Singleton_unit_namespace:
+.. _option-AIMMS-singleton_unit_namespace:
 
 
 Singleton unit namespace

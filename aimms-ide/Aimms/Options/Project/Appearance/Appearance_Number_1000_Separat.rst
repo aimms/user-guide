@@ -1,6 +1,6 @@
 
 
-.. _Options_Appearance_Number_1000_Separat:
+.. _option-AIMMS-number_1000_separator:
 
 
 Number 1000 Separator

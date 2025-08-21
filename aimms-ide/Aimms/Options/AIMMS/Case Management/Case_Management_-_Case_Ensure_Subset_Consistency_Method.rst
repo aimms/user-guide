@@ -1,6 +1,6 @@
 
 
-.. _Options_Case_Management_-_Case_Ensure_Subset_Consistency_Method:
+.. _option-AIMMS-case_ensure_subset_consistency_method:
 
 
 Case ensure subset consistency method

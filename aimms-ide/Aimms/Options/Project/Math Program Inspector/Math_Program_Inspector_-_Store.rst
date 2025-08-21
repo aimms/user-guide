@@ -1,6 +1,6 @@
 
 
-.. _Options_Math_Program_Inspector_-_Store:
+.. _option-AIMMS-store_complete_solver_solution:
 
 
 Store Complete Solver Solution
@@ -18,9 +18,9 @@ This option determines whether AIMMS will store the complete solver solution aft
 
 
 
-*	:ref:`Options_Sensitivity_-_Always_Store_Bas`  
-*	:ref:`Options_Sensitivity_-_Always_Store_Con`  
-*	:ref:`Options_Sensitivity_-_Always_Store_Mar`  
+*	:ref:`option-AIMMS-always_store_basics`  
+*	:ref:`option-AIMMS-always_store_constraint_levels`  
+*	:ref:`option-AIMMS-always_store_marginals`  
 
 
 
@@ -30,8 +30,8 @@ If this option is set to on, the Math Program Inspector has this information ava
 
 
 
-*	:ref:`Options_Postsolve_-_MIP_Calculate_Sensitivity_Info`  
-*	:ref:`Options_Postsolve_-_Postsolve`  
+*	:ref:`option-AIMMS-mip_calculate_sensitivity_information`  
+*	:ref:`option-AIMMS-postsolve`  
 
 
 

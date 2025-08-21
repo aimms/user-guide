@@ -1,6 +1,6 @@
 
 
-.. _Options_Startup__authorization_-_Star1:
+.. _option-AIMMS-startup_case:
 
 
 Startup Case

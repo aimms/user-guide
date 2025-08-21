@@ -1,6 +1,6 @@
 
 
-.. _Options_Memory_-_Initial_Column_Reserv:
+.. _option-AIMMS-initial_column_reservation:
 
 
 Initial Column Reservation

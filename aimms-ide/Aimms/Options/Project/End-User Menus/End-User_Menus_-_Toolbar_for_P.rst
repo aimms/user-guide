@@ -1,6 +1,6 @@
 
 
-.. _Options_End-User_Menus_-_Toolbar_for_P:
+.. _option-AIMMS-toolbar_for_project_window:
 
 
 Toolbar for Project Window

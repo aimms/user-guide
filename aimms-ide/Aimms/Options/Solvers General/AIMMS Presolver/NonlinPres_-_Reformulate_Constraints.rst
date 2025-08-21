@@ -1,6 +1,6 @@
 
 
-.. _Options_NonlinPres_-_Reformulate_Constraints:
+.. _option-AIMMS-reformulate_constraints:
 
 
 Reformulate Constraints
@@ -80,7 +80,7 @@ Setting 'Multi' is only applied if the GMP function GMP::Instance::CreatePresolv
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_MINLP_Probing` 
+*	:ref:`option-AIMMS-minlp_probing` 
 
 
 

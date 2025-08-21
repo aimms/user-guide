@@ -1,6 +1,6 @@
 
 
-.. _Options_Memory_Management_-_Memory_Bi1:
+.. _option-AIMMS-memory_bin_limit:
 
 
 Memory Bin Limit

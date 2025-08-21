@@ -1,6 +1,6 @@
 
 
-.. _Options_Case-Management_-Case_Save_Defined_Identifiers:
+.. _option-AIMMS-case_save_defined_identifiers:
 
 
 Case Save Defined Identifiers
@@ -28,7 +28,7 @@ So when you use case comparison features of the WebUI, or use the case-dot notat
 
 
 
-If you don't need this, then setting it to 'Off' may have a positive effect on both the size of the case file and the time it takes to save the case. This is because prior to saving the defined identifier will be made up-to-date and thus takes execution time. See also the option :ref:`Options_Case-Management_-Save_Data_Update_Definitions` .
+If you don't need this, then setting it to 'Off' may have a positive effect on both the size of the case file and the time it takes to save the case. This is because prior to saving the defined identifier will be made up-to-date and thus takes execution time. See also the option :ref:`option-AIMMS-save_data_update_definitions` .
 
 
 

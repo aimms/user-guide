@@ -1,6 +1,6 @@
 
 
-.. _Options_Listing_Format_Options_-_List1:
+.. _option-AIMMS-listing_number_width:
 
 
 Listing Number Width
@@ -27,7 +27,7 @@ This option specifies the field width used for values printed in constraint and 
 
 **Learn more about** 
 
-*	:ref:`Options_Listing_Format_Options_-_List2`  
+*	:ref:`option-AIMMS-listing_number_precision`  
 
 
 

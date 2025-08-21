@@ -1,6 +1,6 @@
 
 
-.. _Options_Math_program_inspector_-_bound_tol:
+.. _option-AIMMS-mpi_bound_tolerance:
 
 
 MPI bound tolerance

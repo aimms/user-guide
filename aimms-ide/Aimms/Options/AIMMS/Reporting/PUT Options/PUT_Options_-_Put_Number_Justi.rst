@@ -1,6 +1,6 @@
 
 
-.. _Options_PUT_Options_-_Put_Number_Justi:
+.. _option-AIMMS-put_number_justification:
 
 
 Put Number Justification

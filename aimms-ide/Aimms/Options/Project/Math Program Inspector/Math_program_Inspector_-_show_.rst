@@ -1,6 +1,6 @@
 
 
-.. _Options_Math_program_Inspector_-_show_:
+.. _option-AIMMS-show_branch_and_bound_progress:
 
 
 Show branch and bound progress

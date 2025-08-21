@@ -1,6 +1,6 @@
 
 
-.. _Options_Postsolve_-_Postsolve:
+.. _option-AIMMS-postsolve:
 
 
 Postsolve
@@ -85,11 +85,11 @@ The option **Postsolve Integer Variables** determines how AIMMS will handle inte
 
 **Learn more about** 
 
-*	:ref:`Options_Postsolve_-_DoPostsolveAfterInterrupt` 
-*	:ref:`Options_Postsolve_-_MIP_Calculate_Sensitivity_Info`  
-*	:ref:`Options_Postsolve_-_Postsolve_Continuous_Variables` 
-*	:ref:`Options_Postsolve_-_Postsolve_Integer_Variables` 
-*	:ref:`Options_Optimization_-_Warning_unreliable_solution` 
+*	:ref:`option-AIMMS-do_postsolve_after_interrupt` 
+*	:ref:`option-AIMMS-mip_calculate_sensitivity_information`  
+*	:ref:`option-AIMMS-postsolve_continuous_variables` 
+*	:ref:`option-AIMMS-postsolve_integer_variables` 
+*	:ref:`option-AIMMS-warning_unreliable_solution` 
 
 
 

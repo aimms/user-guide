@@ -1,6 +1,6 @@
 
 
-.. _Options_Case_Management_-Case_Size_Overview:
+.. _option-AIMMS-case_size_overview:
 
 
 Case Size Overview

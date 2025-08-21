@@ -1,6 +1,6 @@
 
 
-.. _Options_Startup__authorization_-_Logon:
+.. _option-AIMMS-logon_procedure:
 
 
 Logon Procedure
@@ -29,8 +29,8 @@ This option specifies the procedure that is executed when a user logs on to a mu
 **Learn more about** 
 
 *	:ref:`Model-Explorer_Procedures`  
-*	:ref:`Options_Startup__authorization_-_Logof`  
-*	:ref:`Options_Startup__authorization_-_star2`  
+*	:ref:`option-AIMMS-logoff_procedure`  
+*	:ref:`option-AIMMS-startup_procedure`  
 *	:ref:`Security_User_Management`  
 
 

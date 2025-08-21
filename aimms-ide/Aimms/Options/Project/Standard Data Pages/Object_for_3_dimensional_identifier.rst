@@ -1,6 +1,6 @@
 
 
-.. _Options_Object_for_3_dimensional_identifier:
+.. _option-AIMMS-object_for_3-dimensional_identifier:
 
 
 Object for 3-dimensional identifier

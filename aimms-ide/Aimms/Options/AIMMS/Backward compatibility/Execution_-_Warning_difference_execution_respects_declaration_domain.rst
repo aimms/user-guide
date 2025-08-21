@@ -1,6 +1,6 @@
 
 
-.. _Options_Execution_-_Warning_difference_execution_respects_declaration_domain:
+.. _option-AIMMS-warning_difference_execution_respects_declaration_domain:
 
 
 Warning Difference Execution Respects Declaration Domain
@@ -36,9 +36,9 @@ When the option **Execution respects declaration domain**  in the Backward Compa
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 
-*   :ref:`Options_Backward_Compatibility_-_Execution_respects_declaration_domain` 
+*   :ref:`option-AIMMS-execution_respects_declaration_domain` 
 
 
 

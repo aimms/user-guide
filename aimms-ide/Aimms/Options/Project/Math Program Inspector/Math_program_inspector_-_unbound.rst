@@ -1,6 +1,6 @@
 
 
-.. _Options_Math_program_inspector_-_unbound:
+.. _option-AIMMS-unboundedness_analysis_bound:
 
 
 Unboundedness analysis bound

@@ -1,6 +1,6 @@
 
 
-.. _Options_Postsolve_-_Postsolve_Time_Limit:
+.. _option-AIMMS-postsolve_time_limit:
 
 
 Postsolve Time Limit
@@ -20,4 +20,4 @@ This option specifies a time limit (in CPU seconds) for solving the postsolve LP
 
 **Learn more about** 
 
-*	:ref:`Options_Postsolve_-_Postsolve` 
+*	:ref:`option-AIMMS-postsolve` 

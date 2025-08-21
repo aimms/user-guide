@@ -1,6 +1,6 @@
 
 
-.. _Options_ProgressErrorsWarnings-_Debugger_break_on_execution_error:
+.. _option-AIMMS-debugger_break_on_execution_error:
 
 
 Debugger break on execution error

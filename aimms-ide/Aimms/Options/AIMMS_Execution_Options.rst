@@ -45,7 +45,7 @@ At the bottom there is a possibility to type the part of an option name and sear
 **How to ...** 
 
 *   :ref:`Options_Opening_the_Options_Dialog_Box`  
-*   :ref:`Options_Changing_the_Value_of_an_Optio`  
+*   :ref:`Options_Opening_the_Options_Dialog_Box`  
 *   :ref:`Options_Setting_an_Option_to_its_Defau`  
 *   :ref:`Options_Getting_Help_about_an_Option`  
 

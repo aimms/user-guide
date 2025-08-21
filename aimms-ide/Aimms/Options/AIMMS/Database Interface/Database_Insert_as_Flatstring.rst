@@ -1,6 +1,6 @@
 
 
-.. _Options_Database_Insert_as_Flatstring:
+.. _option-AIMMS-database_insert_as_flatstring:
 
 
 Database Insert as Flatstring

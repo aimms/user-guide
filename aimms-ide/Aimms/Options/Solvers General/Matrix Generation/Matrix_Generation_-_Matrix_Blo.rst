@@ -1,6 +1,6 @@
 
 
-.. _Options_Matrix_Generation_-_Matrix_Blo:
+.. _option-AIMMS-matrix_block_sizes:
 
 
 Matrix Block Sizes

@@ -1,6 +1,6 @@
 
 
-.. _Options_Solution_-_Solution_Listing:
+.. _option-AIMMS-solution_listing:
 
 
 Solution Listing
@@ -35,4 +35,4 @@ This option controls the frequency with which a solution listing is produced. Po
 
 **Learn more about** 
 
-*	:ref:`Options_Standard_Reports_Suppress_Listing_File_Encrypte` 
+*	:ref:`option-AIMMS-suppress_listing_file_encrypted_project` 

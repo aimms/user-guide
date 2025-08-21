@@ -1,6 +1,6 @@
 
 
-.. _Options_Optimization_-_Warning_trivial_row_minimal_percentage:
+.. _option-AIMMS-warning_trivial_row_minimal_percentage:
 
 
 Warning Trivial Row Minimal Percentage
@@ -24,4 +24,4 @@ This option is a helper option of the option ``Warning trivial row`` .
 
 **Learn more about** 
 
-*	:ref:`Options_Optimization_-_Warning_trivial_row` 
+*	:ref:`option-AIMMS-warning_trivial_row` 

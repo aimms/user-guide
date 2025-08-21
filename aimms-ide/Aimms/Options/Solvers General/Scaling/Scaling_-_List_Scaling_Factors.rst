@@ -1,6 +1,6 @@
 
 
-.. _Options_Scaling_-_List_Scaling_Factors:
+.. _option-AIMMS-list_scaling_factors:
 
 
 List Scaling Factors
@@ -54,8 +54,8 @@ At the 'Automatic' setting AIMMS will select 'Symbolic' if the **Scaling Algorit
 
 **Learn more about** 
 
-*	:ref:`Options_Scaling_-_Scale_Model` 
-*	:ref:`Options_Scaling_-_Scaling_Algorithm` 
+*	:ref:`option-AIMMS-scale_model` 
+*	:ref:`option-AIMMS-scaling_algorithm` 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Scale_Model` 
 
 

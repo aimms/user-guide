@@ -1,6 +1,6 @@
 
 
-.. _Options_Stop_Criteria_-_Time_Limit:
+.. _option-AIMMS-time_limit:
 
 
 Time Limit

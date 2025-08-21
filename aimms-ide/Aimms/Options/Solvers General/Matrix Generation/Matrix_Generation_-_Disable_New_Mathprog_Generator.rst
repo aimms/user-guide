@@ -1,6 +1,6 @@
 
 
-.. _Options_Matrix_Generation_-_Disable_New_Mathprog_Generator:
+.. _option-AIMMS-disable_new_mathprog_generator:
 
 
 Disable New Mathprog Generator

@@ -1,6 +1,6 @@
 
 
-.. _Options_Enccoding_Options_-_ascii_case_character_encoding:
+.. _option-AIMMS-ascii_case_character_encoding:
 
 
 Ascii case character encoding

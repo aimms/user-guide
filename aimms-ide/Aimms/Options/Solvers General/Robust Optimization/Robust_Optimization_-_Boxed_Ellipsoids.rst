@@ -1,6 +1,6 @@
 
 
-.. _Options_Robust_Optimization_-_Boxed_Ellipsoids:
+.. _option-AIMMS-boxed_ellipsoids:
 
 
 Boxed Ellipsoids
@@ -37,4 +37,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`Options_Robust_Optimization_-_Transform_Ellipsoids`  
+*	:ref:`option-AIMMS-transform_ellipsoids`  

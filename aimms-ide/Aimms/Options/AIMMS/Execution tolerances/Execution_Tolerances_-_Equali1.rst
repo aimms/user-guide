@@ -1,6 +1,6 @@
 
 
-.. _Options_Execution_Tolerances_-_Equali1:
+.. _option-AIMMS-equality_relative_tolerance:
 
 
 Equality Relative Tolerance
@@ -35,7 +35,7 @@ For a detailed description of these two tolerances and numerical comparison in A
 
 **Learn more about** 
 
-*	:ref:`Options_Execution_Tolerances_-_Equalit` 
+*	:ref:`option-AIMMS-equality_absolute_tolerance` 
 *	:ref:`comparing_numerical_values`  
 
 

@@ -1,6 +1,6 @@
 
 
-.. _Options_Stop_Criteria_-_Intrinsic_procedure_error_handling:
+.. _option-AIMMS-intrinsic_procedure_error_handling:
 
 
 Intrinsic procedure error handling

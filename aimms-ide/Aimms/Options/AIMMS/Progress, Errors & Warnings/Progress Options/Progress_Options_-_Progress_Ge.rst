@@ -1,6 +1,6 @@
 
 
-.. _Options_Progress_Options_-_Progress_Ge:
+.. _option-AIMMS-progress_generation:
 
 
 Progress Generation

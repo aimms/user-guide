@@ -1,6 +1,6 @@
 
 
-.. _Options_End-User_Menus_-_Toolbar_for_2:
+.. _option-AIMMS-toolbar_for_data_manager:
 
 
 Toolbar for Data Manager

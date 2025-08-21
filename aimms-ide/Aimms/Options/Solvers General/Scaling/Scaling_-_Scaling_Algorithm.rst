@@ -1,6 +1,6 @@
 
 
-.. _Options_Scaling_-_Scaling_Algorithm:
+.. _option-AIMMS-scaling_algorithm:
 
 
 Scaling Algorithm
@@ -67,8 +67,8 @@ At the 'Automatic' setting AIMMS will select the Iterative algorithm for a nonli
 
 **Learn more about** 
 
-*	:ref:`Options_Scaling_-_List_Scaling_Factors` 
-*	:ref:`Options_Scaling_-_Scale_Model` 
+*	:ref:`option-AIMMS-list_scaling_factors` 
+*	:ref:`option-AIMMS-scale_model` 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Scale_Model` 
 
 

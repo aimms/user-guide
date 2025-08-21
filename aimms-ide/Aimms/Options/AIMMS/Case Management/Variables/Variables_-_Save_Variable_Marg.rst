@@ -1,6 +1,6 @@
 
 
-.. _Options_Variables_-_Save_Variable_Marg:
+.. _option-AIMMS-save_variable_marginals:
 
 
 Save Variable Marginals

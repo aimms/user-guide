@@ -1,6 +1,6 @@
 
 
-.. _Options_DM2_Case_save_procedure:
+.. _option-AIMMS-case_save_procedure:
 
 
 Case save procedure

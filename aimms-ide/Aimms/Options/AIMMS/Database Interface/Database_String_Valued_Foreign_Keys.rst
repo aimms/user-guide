@@ -1,6 +1,6 @@
 
 
-.. _Options_Database_String_Valued_Foreign_Keys:
+.. _option-AIMMS-database_string_valued_foreign_keys:
 
 
 Database String Valued Foreign Keys

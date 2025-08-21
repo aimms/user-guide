@@ -1,6 +1,6 @@
 
 
-.. _Options_Appearance_Number_Decimal_Sepa:
+.. _option-AIMMS-number_decimal_separator:
 
 
 Number Decimal Separator

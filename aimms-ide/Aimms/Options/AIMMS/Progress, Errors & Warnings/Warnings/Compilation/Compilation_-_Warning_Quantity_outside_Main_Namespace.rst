@@ -1,6 +1,6 @@
 
 
-.. _Options_Compilation_-_Warning_Quantity_outside_Main_Namespace:
+.. _option-AIMMS-warning_quantity_outside_main_namespace:
 
 
 Warning Quantity outside Main Namespace
@@ -32,8 +32,8 @@ If you are creating a (generic) library you can use the attribute Required Units
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

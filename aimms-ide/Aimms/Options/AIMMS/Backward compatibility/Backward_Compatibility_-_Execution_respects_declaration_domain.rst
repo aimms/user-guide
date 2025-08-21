@@ -1,6 +1,6 @@
 
 
-.. _Options_Backward_Compatibility_-_Execution_respects_declaration_domain:
+.. _option-AIMMS-execution_respects_declaration_domain:
 
 
 Execution respects declaration domain
@@ -33,7 +33,7 @@ This option determines whether AIMMS should respect the declaration domain durin
 
 **Learn more about** 
 
-*	:ref:`Options_Execution_-_Warning_difference_execution_respects_declaration_domain`  
+*	:ref:`option-AIMMS-warning_difference_execution_respects_declaration_domain`  
 
 
 

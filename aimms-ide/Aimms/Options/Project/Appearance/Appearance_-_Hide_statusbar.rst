@@ -1,6 +1,6 @@
 
 
-.. _Options_Appearance_-_Hide_statusbar:
+.. _option-AIMMS-hide_statusbar:
 
 
 Hide Statusbar

@@ -1,6 +1,6 @@
 
 
-.. _Options_MIP_Options_-_MIP_Absolute_Opt:
+.. _option-AIMMS-mip_absolute_optimality_tolerance:
 
 
 MIP Absolute Optimality Tolerance

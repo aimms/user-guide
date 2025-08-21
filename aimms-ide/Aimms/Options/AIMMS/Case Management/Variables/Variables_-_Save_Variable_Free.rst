@@ -1,6 +1,6 @@
 
 
-.. _Options_Variables_-_Save_Variable_Free:
+.. _option-AIMMS-save_variable_freezes:
 
 
 Save Variable Freezes

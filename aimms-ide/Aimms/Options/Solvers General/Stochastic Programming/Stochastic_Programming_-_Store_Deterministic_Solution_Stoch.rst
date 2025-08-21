@@ -1,6 +1,6 @@
 
 
-.. _Options_Stochastic_Programming_-_Store_Deterministic_Solution_Stoch:
+.. _option-AIMMS-store_deterministic_solution_as_stochastic:
 
 
 Store Deterministic Solution as Stochastic

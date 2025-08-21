@@ -1,6 +1,6 @@
 
 
-.. _Options_PUT_Options_-_Put_String_Width:
+.. _option-AIMMS-put_string_width:
 
 
 Put String Width

@@ -1,6 +1,6 @@
 
 
-.. _Options_Case-Management_-Save_Data_Update_Definitions:
+.. _option-AIMMS-save_data_update_definitions:
 
 
 Save Data Update Definitions
@@ -16,7 +16,7 @@ Save Data Update Definitions
 
 This option determines whether or not defined parameters and sets whose contents are out of date are evaluated before saving the case. 
 
-Please also see the option :ref:`Options_Case-Management_-Case_Save_Defined_Identifiers`  that controls whether defined identifiers are included at all.
+Please also see the option :ref:`option-AIMMS-case_save_defined_identifiers`  that controls whether defined identifiers are included at all.
 
 
 

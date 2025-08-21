@@ -1,6 +1,6 @@
 
 
-.. _Options_Variables_-_Save_Variable_Rela:
+.. _option-AIMMS-save_variable_relaxes:
 
 
 Save Variable Relaxes

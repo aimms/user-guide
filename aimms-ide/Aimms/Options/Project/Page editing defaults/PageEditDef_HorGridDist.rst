@@ -1,6 +1,6 @@
 
 
-.. _Options_PageEditDef_HorGridDist:
+.. _option-AIMMS-horizontal_grid_distance:
 
 
 Horizontal Grid Distance

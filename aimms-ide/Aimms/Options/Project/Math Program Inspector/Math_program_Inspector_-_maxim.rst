@@ -1,6 +1,6 @@
 
 
-.. _Options_Math_program_Inspector_-_maxim:
+.. _option-AIMMS-maximum_number_of_nodes_in_tree:
 
 
 Maximum number of nodes in tree

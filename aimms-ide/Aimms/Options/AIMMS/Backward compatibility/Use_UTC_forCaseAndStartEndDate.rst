@@ -1,6 +1,6 @@
 
 
-.. _Options_Use_UTC_forCaseAndStartEndDate:
+.. _option-AIMMS-use_utc_forcaseandstartenddate:
 
 
 Use UTC forCaseAndStartEndDate

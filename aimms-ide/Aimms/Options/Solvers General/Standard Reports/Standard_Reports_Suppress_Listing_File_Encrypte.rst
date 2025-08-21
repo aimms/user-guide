@@ -1,6 +1,6 @@
 
 
-.. _Options_Standard_Reports_Suppress_Listing_File_Encrypte:
+.. _option-AIMMS-suppress_listing_file_encrypted_project:
 
 
 Suppress Listing File Encrypted Project
@@ -40,10 +40,10 @@ By default AIMMS will suppress the writing of the constraint and solution listin
 
 **Learn more about** 
 
-*	:ref:`Options_Constraints_-_Constraint_Listi` 
-*	:ref:`Options_Solution_-_Infeasibility_Finde` 
-*	:ref:`Options_Solution_-_Solution_Listing` 
-*	:ref:`Options_Solver_Specific_-_Solver_Colum` 
+*	:ref:`option-AIMMS-constraint_listing` 
+*	:ref:`option-AIMMS-infeasibility_finder` 
+*	:ref:`option-AIMMS-solution_listing` 
+*	:ref:`option-AIMMS-solver_column_row_mapping` 
 
 
 

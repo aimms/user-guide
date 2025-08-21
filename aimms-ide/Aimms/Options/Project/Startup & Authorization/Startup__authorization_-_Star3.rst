@@ -1,6 +1,6 @@
 
 
-.. _Options_Startup__authorization_-_Star3:
+.. _option-AIMMS-startup_page:
 
 
 Startup Page

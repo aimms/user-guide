@@ -1,6 +1,6 @@
 
 
-.. _Options_PUT_Options_-_Put_Number_Toler:
+.. _option-AIMMS-put_number_tolerance:
 
 
 Put Number Tolerance
@@ -20,7 +20,7 @@ This option specifies when numbers are represented by zero by the PUT statement.
 
 **Learn more about** 
 
-*	:ref:`Options_PUT_Options_-_Put_Number_Style`  
+*	:ref:`option-AIMMS-put_number_style`  
 
 
 

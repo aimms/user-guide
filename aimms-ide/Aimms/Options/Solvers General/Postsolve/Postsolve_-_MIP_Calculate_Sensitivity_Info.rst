@@ -1,6 +1,6 @@
 
 
-.. _Options_Postsolve_-_MIP_Calculate_Sensitivity_Info:
+.. _option-AIMMS-mip_calculate_sensitivity_information:
 
 
 MIP Calculate Sensitivity Information
@@ -63,9 +63,9 @@ Sensitivity information can also be calculated if lazy constraints are present. 
 
 **Learn more about** 
 
-*	:ref:`Options_Sensitivity_-_Always_Store_Mar` 
-*	:ref:`Options_Postsolve_-_Postsolve` 
-*	:ref:`Options_Math_Program_Inspector_-_Store` 
+*	:ref:`option-AIMMS-always_store_marginals` 
+*	:ref:`option-AIMMS-postsolve` 
+*	:ref:`option-AIMMS-store_complete_solver_solution` 
 
 
 

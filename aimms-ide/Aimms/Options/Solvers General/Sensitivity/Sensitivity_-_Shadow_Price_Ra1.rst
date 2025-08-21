@@ -1,6 +1,6 @@
 
 
-.. _Options_Sensitivity_-_Shadow_Price_Ra1:
+.. _option-AIMMS-shadow_price_range_relative_tolerance:
 
 
 Shadow Price Range Relative Tolerance
@@ -25,7 +25,7 @@ If the value of this option is too large then the calculated shadow price ranges
 **Learn more about** 
 
 *	:ref:`Miscellaneous_Calculation_of_Shadow_Price_Ra`  
-*	:ref:`Options_Sensitivity_-_Shadow_Price_Ran`  
+*	:ref:`option-AIMMS-shadow_price_range_absolute_tolerance`  
 
 
 

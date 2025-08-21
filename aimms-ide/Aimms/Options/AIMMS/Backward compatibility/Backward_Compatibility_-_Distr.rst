@@ -1,6 +1,6 @@
 
 
-.. _Options_Backward_Compatibility_-_Distr:
+.. _option-AIMMS-distribution_compatibility:
 
 
 Distribution Compatibility

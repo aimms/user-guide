@@ -1,6 +1,6 @@
 
 
-.. _Options_Comparison_-_Case_Sensitive_Element_Comparison:
+.. _option-AIMMS-case_sensitive_element_comparison:
 
 
 Case Sensitive Element Comparison

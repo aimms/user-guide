@@ -1,6 +1,6 @@
 
 
-.. _Options_Enccoding_Options_-_external_dll_AIMMS_reference:
+.. _option-AIMMS-external_dll_aimms_reference:
 
 
 External dll AIMMS reference

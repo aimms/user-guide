@@ -1,6 +1,6 @@
 
 
-.. _Options_Compilation_-_Warning_RoundAmb:
+.. _option-AIMMS-warning_rounding_ambiguity:
 
 
 Warning Rounding Ambiguity
@@ -52,11 +52,11 @@ This option determines what happens during compilation when the unit of an argum
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
-*	:ref:`Options_Case_Management_-_RoundComp` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
+*	:ref:`option-AIMMS-rounding_compatibility` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

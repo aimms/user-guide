@@ -1,6 +1,6 @@
 
 
-.. _Options_Math_program_inspector_-_feas_tol:
+.. _option-AIMMS-mpi_feasibility_tolerance:
 
 
 MPI feasibility tolerance

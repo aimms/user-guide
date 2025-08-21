@@ -1,6 +1,6 @@
 
 
-.. _Options_Solution_-_Solution_Listing_Pr:
+.. _option-AIMMS-solution_listing_printed_when:
 
 
 Solution Listing Printed When
@@ -27,7 +27,7 @@ This option determines whether a solution listing will be produced before and/or
 
 **Learn more about** 
 
-*	:ref:`Options_Solution_-_Solution_Listing` 
+*	:ref:`option-AIMMS-solution_listing` 
 
 
 

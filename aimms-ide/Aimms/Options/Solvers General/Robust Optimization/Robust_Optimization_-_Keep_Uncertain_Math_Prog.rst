@@ -1,6 +1,6 @@
 
 
-.. _Options_Robust_Optimization_-_Keep_Uncertain_Math_Prog:
+.. _option-AIMMS-keep_uncertain_mathematical_program:
 
 
 Keep Uncertain Mathematical Program

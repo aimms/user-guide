@@ -1,6 +1,6 @@
 
 
-.. _Options_Standard_Reports_Empty_columns:
+.. _option-AIMMS-standard_reports_empty_columns:
 
 
 Standard Reports Empty Columns

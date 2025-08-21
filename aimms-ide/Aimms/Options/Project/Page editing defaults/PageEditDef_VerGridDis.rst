@@ -1,6 +1,6 @@
 
 
-.. _Options_PageEditDef_VerGridDis:
+.. _option-AIMMS-vertical_grid_distance:
 
 
 Vertical Grid Distance

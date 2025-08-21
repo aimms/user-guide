@@ -1,6 +1,6 @@
 
 
-.. _Options_Compilation_JIT_Body_compilation:
+.. _option-AIMMS-jit_body_compilation:
 
 
 JIT Body Compilation

@@ -1,6 +1,6 @@
 
 
-.. _Options_XML_-_XML_Number_Precision:
+.. _option-AIMMS-xml_number_precision:
 
 
 XML Number Precision
@@ -20,7 +20,7 @@ This option specifies the number of significant digits used for numbers exported
 
 **Learn more about** 
 
-*	:ref:`Options_XML_-_XML_Number_Width`  
+*	:ref:`option-AIMMS-xml_number_width`  
 
 
 

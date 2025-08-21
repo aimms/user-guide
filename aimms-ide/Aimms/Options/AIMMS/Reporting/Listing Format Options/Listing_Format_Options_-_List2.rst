@@ -1,6 +1,6 @@
 
 
-.. _Options_Listing_Format_Options_-_List2:
+.. _option-AIMMS-listing_number_precision:
 
 
 Listing Number Precision
@@ -27,7 +27,7 @@ This option specifies the number of significant digits used for numbers printed 
 
 **Learn more about** 
 
-*	:ref:`Options_Listing_Format_Options_-_List1`  
+*	:ref:`option-AIMMS-listing_number_width`  
 
 
 

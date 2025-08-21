@@ -1,6 +1,6 @@
 
 
-.. _Options_Memory_Management_-_AutoRebAbs:
+.. _option-AIMMS-auto_rebuild_minimum_difference_absolute:
 
 
 Auto Rebuild Minimum Difference Absolute
@@ -20,8 +20,8 @@ Together with the option Auto Rebuild Minimum Difference Relative this option de
 
 **Learn more about** 
 
-*	:ref:`Options_MemoryManagement-AutoRebuild`  
-*	:ref:`Options_Memory_Management_-_AutoRebRel`  
+*	:ref:`option-AIMMS-auto_rebuild`  
+*	:ref:`option-AIMMS-auto_rebuild_minimum_difference_relative`  
 
 
 

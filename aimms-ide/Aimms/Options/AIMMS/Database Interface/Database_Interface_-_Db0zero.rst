@@ -1,6 +1,6 @@
 
 
-.. _Options_Database_Interface_-_Db0zero:
+.. _option-AIMMS-database_translate_0_to_zero:
 
 
 Database Translate 0 to Zero

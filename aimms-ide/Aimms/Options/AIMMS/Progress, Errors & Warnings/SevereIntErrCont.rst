@@ -1,6 +1,6 @@
 
 
-.. _Options_SevereIntErrCont:
+.. _option-AIMMS-severe_internal_error_contact:
 
 
 Severe Internal Error Contact

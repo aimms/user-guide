@@ -1,6 +1,6 @@
 
 
-.. _Options_Translations_For_Special_Numb3:
+.. _option-AIMMS-formatstring_translate_na:
 
 
 Formatstring Translate NA
@@ -20,7 +20,7 @@ This option specifies to which number na is translated by the FormatString funct
 
 **Learn more about** 
 
-*	:ref:`Options_Translations_For_Special_Numb2`  
+*	:ref:`option-AIMMS-formatstring_translate_special_values`  
 *	:any:`FormatString`
 
 

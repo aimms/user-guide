@@ -1,6 +1,6 @@
 
 
-.. _Options_Solution_-_Solution_Listing_Co:
+.. _option-AIMMS-solution_listing_column_name_style:
 
 
 Solution Listing Column Name Style
@@ -33,4 +33,4 @@ This option determines the style used for referencing the variables in a solutio
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_List_pres_reducti` 
+*	:ref:`option-AIMMS-list_presolve_reductions` 

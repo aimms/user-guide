@@ -1,6 +1,6 @@
 
 
-.. _Options_NonlinPres_-_Presolve_remove_dupl_vars:
+.. _option-AIMMS-presolve_remove_duplicate_variables:
 
 
 Presolve Remove Duplicate Variables
@@ -56,8 +56,8 @@ In this case, it is possible to fix the variable Y = 0, and remove it.
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_LinearPresolve` 
-*	:ref:`Options_NonlinPres_-_NonlinearPresolve`  
+*	:ref:`option-AIMMS-linear_presolve` 
+*	:ref:`option-AIMMS-nonlinear_presolve`  
 
 
 

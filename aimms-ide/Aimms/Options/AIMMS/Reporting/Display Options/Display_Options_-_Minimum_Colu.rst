@@ -1,6 +1,6 @@
 
 
-.. _Options_Display_Options_-_Minimum_Colu:
+.. _option-AIMMS-minimum_column_fill_percentage_tabular_display:
 
 
 Minimum Column Fill Percentage Tabular Display
@@ -20,7 +20,7 @@ This option determines how data of 2 or 3 dimensional identifiers should be writ
 
 **Learn more about** 
 
-*	:ref:`Options_Listing_Format_Options_-_Listi`  
+*	:ref:`option-AIMMS-listing_page_width`  
 
 
 

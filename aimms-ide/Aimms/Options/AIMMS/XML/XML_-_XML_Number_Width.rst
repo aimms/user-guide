@@ -1,6 +1,6 @@
 
 
-.. _Options_XML_-_XML_Number_Width:
+.. _option-AIMMS-xml_number_width:
 
 
 XML Number Width
@@ -20,7 +20,7 @@ This option specifies the minimal width of the string used to represent a number
 
 **Learn more about** 
 
-*	:ref:`Options_XML_-_XML_Number_Precision`  
+*	:ref:`option-AIMMS-xml_number_precision`  
 
 
 

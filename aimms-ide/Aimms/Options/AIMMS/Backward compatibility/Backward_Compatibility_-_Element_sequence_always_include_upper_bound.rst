@@ -1,6 +1,6 @@
 
 
-.. _Options_Backward_Compatibility_-_Element_sequence_always_include_upper_bound:
+.. _option-AIMMS-element_sequence_always_include_upper_bound:
 
 
 Element sequence always include upper bound
@@ -26,7 +26,7 @@ An element sequence can be specified using the syntax { lo .. up by incr }.  Eve
 
 **Learn more about** 
 
-*	:ref:`Options_Compilation_-_Warning_element_sequence_upperbound_not_included` 
+*	:ref:`option-AIMMS-warning_element_sequence_upperbound_not_included` 
 
 
 

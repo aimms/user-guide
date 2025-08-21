@@ -1,6 +1,6 @@
 
 
-.. _Options_Help_-_Application_Help_File:
+.. _option-AIMMS-application_help_file:
 
 
 Application Help File

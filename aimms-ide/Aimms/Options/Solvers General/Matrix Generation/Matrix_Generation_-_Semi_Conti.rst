@@ -1,6 +1,6 @@
 
 
-.. _Options_Matrix_Generation_-_Semi_Conti:
+.. _option-AIMMS-semi_continuous_max_bound:
 
 
 Semi Continuous Max Bound

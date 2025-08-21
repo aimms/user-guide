@@ -1,6 +1,6 @@
 
 
-.. _Options_Warnings_-_Common_warning_Default:
+.. _option-AIMMS-common_warning_default:
 
 
 Common warning default
@@ -45,7 +45,7 @@ This option provides the actual warning level for options that have option value
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`sec:exec.error`  
 
 

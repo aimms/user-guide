@@ -1,6 +1,6 @@
 
 
-.. _Options_Postsolve_-_Postsolve_Continuous_Variables:
+.. _option-AIMMS-postsolve_continuous_variables:
 
 
 Postsolve Continuous Variables
@@ -54,9 +54,9 @@ If the value equals 'Round to nearest bound and resolve LP' then AIMMS checks wh
 
 **Learn more about** 
 
-*	:ref:`Options_Postsolve_-_Postsolve` 
-*	:ref:`Options_Postsolve_-_Postsolve_Bound_Tolerance` 
-*	:ref:`Options_Postsolve_-_Repeat_Postsolve` 
+*	:ref:`option-AIMMS-postsolve` 
+*	:ref:`option-AIMMS-postsolve_bound_tolerance` 
+*	:ref:`option-AIMMS-repeat_postsolve` 
 
 
 

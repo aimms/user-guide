@@ -1,6 +1,6 @@
 
 
-.. _Options_Startup__authorization_-_Inter:
+.. _option-AIMMS-interrupt_procedure:
 
 
 Interrupt Procedure

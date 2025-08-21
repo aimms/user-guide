@@ -1,6 +1,6 @@
 
 
-.. _Options_WebUI_-_WebUI_Maximum_Number_of_Entries_in_Widget:
+.. _option-AIMMS-webui_maximum_number_of_entries_in_widget:
 
 
 WebUI Maximum Number of Entries in Widget

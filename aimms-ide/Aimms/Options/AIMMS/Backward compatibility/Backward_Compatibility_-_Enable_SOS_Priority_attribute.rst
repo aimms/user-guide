@@ -1,6 +1,6 @@
 
 
-.. _Options_Backward_Compatibility_-_Enable_SOS_Priority_attribute:
+.. _option-AIMMS-enable_sos_priority_attribute:
 
 
 Enable SOS Priority attribute

@@ -1,6 +1,6 @@
 
 
-.. _Options_Stop_Criteria_-_External_procedure_error_handling:
+.. _option-AIMMS-external_procedure_error_handling:
 
 
 External procedure error handling

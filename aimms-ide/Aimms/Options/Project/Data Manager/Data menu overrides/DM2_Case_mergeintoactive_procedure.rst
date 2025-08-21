@@ -1,6 +1,6 @@
 
 
-.. _Options_DM2_Case_mergeintoactive_procedure:
+.. _option-AIMMS-case_mergeintoactive_procedure:
 
 
 Case mergeintoactive procedure

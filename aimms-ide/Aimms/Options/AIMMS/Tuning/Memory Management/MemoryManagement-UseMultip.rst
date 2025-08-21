@@ -1,4 +1,4 @@
-.. _Options_MemoryManagement-UseMultip:
+.. _option-AIMMS-use_multiple_memory_managers:
 
 Use Multiple Memory Managers
 ============================

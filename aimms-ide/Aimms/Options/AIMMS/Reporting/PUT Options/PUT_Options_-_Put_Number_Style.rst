@@ -1,6 +1,6 @@
 
 
-.. _Options_PUT_Options_-_Put_Number_Style:
+.. _option-AIMMS-put_number_style:
 
 
 Put Number Style

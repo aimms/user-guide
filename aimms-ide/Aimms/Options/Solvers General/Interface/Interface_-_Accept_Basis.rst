@@ -1,6 +1,6 @@
 
 
-.. _Options_Interface_-_Accept_Basis:
+.. _option-AIMMS-accept_basis:
 
 
 Accept Basis

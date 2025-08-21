@@ -1,6 +1,6 @@
 
 
-.. _Options_Execution_-_Warning_Truncate_T:
+.. _option-AIMMS-warning_truncate_table:
 
 
 Warning Truncate Table
@@ -53,10 +53,10 @@ This option determines the behavior of AIMMS when a truncate table command is us
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

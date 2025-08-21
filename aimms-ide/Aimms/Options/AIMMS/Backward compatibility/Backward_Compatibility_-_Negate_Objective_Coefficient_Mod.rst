@@ -1,6 +1,6 @@
 
 
-.. _Options_Backward_Compatibility_-_Negate_Objective_Coefficient_Mod:
+.. _option-AIMMS-negate_objective_coefficient_modifications:
 
 
 Negate Objective Coefficient Modifications

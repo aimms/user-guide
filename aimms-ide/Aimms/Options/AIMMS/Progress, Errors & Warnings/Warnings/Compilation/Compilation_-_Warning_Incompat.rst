@@ -1,6 +1,6 @@
 
 
-.. _Options_Compilation_-_Warning_Incompat:
+.. _option-AIMMS-warning_incompatible_argument_data_type:
 
 
 Warning Incompatible Argument Data Type
@@ -89,10 +89,10 @@ An example of such a situation arises in the following model fragment, where the
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

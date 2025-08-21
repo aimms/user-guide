@@ -1,6 +1,6 @@
 
 
-.. _Options_NonlinPres_-_PresolvConstrUsed:
+.. _option-AIMMS-presolve_constraints_used:
 
 
 Presolve Constraints Used
@@ -40,8 +40,8 @@ The largest amount of reductions will be obtained if all constraints are used; h
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_LinearPresolve` 
-*	:ref:`Options_NonlinPres_-_NonlinearPresolve`  
+*	:ref:`option-AIMMS-linear_presolve` 
+*	:ref:`option-AIMMS-nonlinear_presolve`  
 
 
 

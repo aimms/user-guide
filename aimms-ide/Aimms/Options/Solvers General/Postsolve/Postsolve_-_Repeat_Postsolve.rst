@@ -1,6 +1,6 @@
 
 
-.. _Options_Postsolve_-_Repeat_Postsolve:
+.. _option-AIMMS-repeat_postsolve:
 
 
 Repeat Postsolve
@@ -40,8 +40,8 @@ This option is only used if the option **Postsolve Continuous Variables**  is se
 
 **Learn more about** 
 
-*	:ref:`Options_Postsolve_-_Postsolve` 
-*	:ref:`Options_Postsolve_-_Postsolve_Continuous_Variables` 
+*	:ref:`option-AIMMS-postsolve` 
+*	:ref:`option-AIMMS-postsolve_continuous_variables` 
 
 
 

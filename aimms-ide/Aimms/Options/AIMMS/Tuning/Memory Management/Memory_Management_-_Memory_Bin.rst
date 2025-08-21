@@ -1,6 +1,6 @@
 
 
-.. _Options_Memory_Management_-_Memory_Bin:
+.. _option-AIMMS-memory_bin_allocation_size:
 
 
 Memory Bin Allocation Size
@@ -39,10 +39,10 @@ The higher the setting of this option, the faster the AIMMS memory manager will 
 
 **Learn more about** 
 
-*	:ref:`Options_Memory_Management_-_Memory_Bi1`  
-*	:ref:`Options_Memory_Management_-_Memory_Bi3`  
-*	:ref:`Options_Memory_Management_-_Memory_Bi2`  
-*	:ref:`Options_Memory_Management_-_Memory_Sta`  
+*	:ref:`option-AIMMS-memory_bin_limit`  
+*	:ref:`option-AIMMS-memory_bin_size`  
+*	:ref:`option-AIMMS-memory_bin_resolution`  
+*	:ref:`option-AIMMS-memory_statistics`  
 *	:any:`MemoryStatistics`
 
 

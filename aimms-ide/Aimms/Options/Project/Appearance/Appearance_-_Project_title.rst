@@ -1,6 +1,6 @@
 
 
-.. _Options_Appearance_-_Project_title:
+.. _option-AIMMS-project_title:
 
 
 Project Title

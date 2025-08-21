@@ -1,6 +1,6 @@
 
 
-.. _Options_Matrix_Generation_-_Differenci:
+.. _option-AIMMS-differencing_delta:
 
 
 Differencing Delta

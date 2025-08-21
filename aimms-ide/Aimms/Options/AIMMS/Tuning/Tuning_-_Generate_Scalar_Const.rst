@@ -1,6 +1,6 @@
 
 
-.. _Options_Tuning_-_Generate_Scalar_Const:
+.. _option-AIMMS-generate_scalar_constraints_first:
 
 
 Generate Scalar Constraints First

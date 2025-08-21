@@ -1,6 +1,6 @@
 
 
-.. _Options_Enhanced_long_run_responsiveness:
+.. _option-AIMMS-enhanced_long_run_responsiveness:
 
 
 Enhanced long run responsiveness

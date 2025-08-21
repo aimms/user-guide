@@ -1,6 +1,6 @@
 
 
-.. _Options_PUT_Options_-_Put_Number_Decim:
+.. _option-AIMMS-put_number_decimals:
 
 
 Put Number Decimals

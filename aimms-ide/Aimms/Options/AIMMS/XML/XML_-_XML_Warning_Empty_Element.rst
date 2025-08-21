@@ -1,4 +1,4 @@
-.. _Options_XML_-_XML_Warning_Empty_Element:
+.. _option-AIMMS-xml_warning_empty_element:
 
 XML Warning Empty Element
 =========================

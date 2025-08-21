@@ -1,6 +1,6 @@
 
 
-.. _Options_Matrix_Generation-Mathematical_Program_Type_Check:
+.. _option-AIMMS-mathematical_program_type_check:
 
 
 Mathematical Program Type Check

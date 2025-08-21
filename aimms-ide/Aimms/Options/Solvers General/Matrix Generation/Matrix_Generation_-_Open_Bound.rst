@@ -1,6 +1,6 @@
 
 
-.. _Options_Matrix_Generation_-_Open_Bound:
+.. _option-AIMMS-open_bound_tolerance:
 
 
 Open Bound Tolerance

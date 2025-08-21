@@ -1,6 +1,6 @@
 
 
-.. _Options_Appearance_Use_Subpage_Resize_Delay:
+.. _option-AIMMS-use_subpage_resize_delay:
 
 
 Use Subpage Resize Delay

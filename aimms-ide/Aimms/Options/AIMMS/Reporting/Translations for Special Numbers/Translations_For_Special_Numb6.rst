@@ -1,6 +1,6 @@
 
 
-.. _Options_Translations_For_Special_Numb6:
+.. _option-AIMMS-put_translate_special_values:
 
 
 Put Translate Special Values
@@ -32,11 +32,11 @@ If this option has the value "on", then the special values are translated accord
 
 **Learn more about** 
 
-*	:ref:`Options_Translations_For_Special_Numb7`  
-*	:ref:`Options_Translations_For_Special_Numb8`  
-*	:ref:`Options_Translations_For_Special_Numb9`  
-*	:ref:`Options_Translations_For_Special_Num10`  
-*	:ref:`Options_Translations_For_Special_Num11`  
+*	:ref:`option-AIMMS-put_translate_inf`  
+*	:ref:`option-AIMMS-put_translate_mininf`  
+*	:ref:`option-AIMMS-put_translate_na`  
+*	:ref:`option-AIMMS-put_translate_undf`  
+*	:ref:`option-AIMMS-put_translate_zero`  
 
 
 

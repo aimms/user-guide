@@ -1,6 +1,6 @@
 
 
-.. _Options_Interface_-_Use_Quadratic_Structure:
+.. _option-AIMMS-use_quadratic_structure:
 
 
 Use Quadratic Structure

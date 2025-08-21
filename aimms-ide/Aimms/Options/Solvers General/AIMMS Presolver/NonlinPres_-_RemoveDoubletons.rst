@@ -1,6 +1,6 @@
 
 
-.. _Options_NonlinPres_-_RemoveDoubletons:
+.. _option-AIMMS-remove_doubletons:
 
 
 Remove Doubletons
@@ -52,8 +52,8 @@ If the value of this option is 'Always' then the AIMMS Presolver will remove all
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_LinearPresolve` 
-*	:ref:`Options_NonlinPres_-_NonlinearPresolve`  
+*	:ref:`option-AIMMS-linear_presolve` 
+*	:ref:`option-AIMMS-nonlinear_presolve`  
 
 
 

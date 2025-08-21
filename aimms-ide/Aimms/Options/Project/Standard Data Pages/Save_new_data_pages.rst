@@ -1,6 +1,6 @@
 
 
-.. _Options_Save_new_data_pages:
+.. _option-AIMMS-save_new_data_pages:
 
 
 Save new data pages

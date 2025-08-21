@@ -1,6 +1,6 @@
 
 
-.. _Options_Translations_For_Special_Numb9:
+.. _option-AIMMS-put_translate_na:
 
 
 Put Translate NA
@@ -20,7 +20,7 @@ This option specifies to which number na is translated by the PUT statement if t
 
 **Learn more about** 
 
-*	:ref:`Options_Translations_For_Special_Numb6` 
+*	:ref:`option-AIMMS-put_translate_special_values` 
 
 
 

@@ -1,6 +1,6 @@
 
 
-.. _Options_Stop_Criteria_-_Max_errors_during_file_read:
+.. _option-AIMMS-max_errors_during_file_read:
 
 
 Max errors during file read

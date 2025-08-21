@@ -1,6 +1,6 @@
 
 
-.. _Options_MPI_Store_NL_Presolve_info:
+.. _option-AIMMS-store_nonlinear_presolve_info:
 
 
 Store Nonlinear Presolve Info
@@ -27,7 +27,7 @@ This option determines whether AIMMS will store MPI related information during t
 **Learn more about** 
 
 *	:ref:`Diagnostic-Tools_AIMMS_Math_Program_Inspector` 
-*	:ref:`Options_NonlinPres_-_NonlinearPresolve` 
+*	:ref:`option-AIMMS-nonlinear_presolve` 
 
 
 

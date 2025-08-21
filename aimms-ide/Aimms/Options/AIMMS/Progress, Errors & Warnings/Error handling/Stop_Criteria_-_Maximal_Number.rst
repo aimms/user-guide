@@ -1,6 +1,6 @@
 
 
-.. _Options_Stop_Criteria_-_Maximal_Number:
+.. _option-AIMMS-maximal_number_of_execution_errors_reported:
 
 
 Maximal Number of Execution Errors Reported

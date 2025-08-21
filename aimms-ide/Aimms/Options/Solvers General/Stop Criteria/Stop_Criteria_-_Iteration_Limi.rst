@@ -1,6 +1,6 @@
 
 
-.. _Options_Stop_Criteria_-_Iteration_Limi:
+.. _option-AIMMS-iteration_limit:
 
 
 Iteration Limit

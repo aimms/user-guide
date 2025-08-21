@@ -1,6 +1,6 @@
 
 
-.. _Options_End-User_Menus_-_Use_Empty_Toolbar:
+.. _option-AIMMS-use_empty_toolbar_instead_of_none:
 
 
 Use Empty Toolbar instead of None

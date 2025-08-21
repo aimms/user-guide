@@ -1,6 +1,6 @@
 
 
-.. _Options_Execution_-_Warning_Ensuring_Case_Consistency:
+.. _option-AIMMS-warning_ensuring_case_consistency:
 
 
 Warning Ensuring Case Consistency
@@ -45,10 +45,10 @@ At the end of a case load AIMMS attempts to attain subset consistency as control
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

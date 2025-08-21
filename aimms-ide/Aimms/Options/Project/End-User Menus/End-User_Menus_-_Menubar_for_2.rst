@@ -1,6 +1,6 @@
 
 
-.. _Options_End-User_Menus_-_Menubar_for_2:
+.. _option-AIMMS-menubar_for_data_manager:
 
 
 Menubar for Data Manager

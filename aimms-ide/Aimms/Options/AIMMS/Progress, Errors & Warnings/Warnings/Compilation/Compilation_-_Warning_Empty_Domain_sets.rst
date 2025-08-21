@@ -1,6 +1,6 @@
 
 
-.. _Options_Compilation_-_Warning_Empty_Domain_sets:
+.. _option-AIMMS-warning_empty_domain_sets:
 
 
 Warning Empty Domain Sets
@@ -86,10 +86,10 @@ For example, this situation arises in the following model fragment:
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

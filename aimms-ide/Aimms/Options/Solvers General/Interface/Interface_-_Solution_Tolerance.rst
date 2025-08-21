@@ -1,6 +1,6 @@
 
 
-.. _Options_Interface_-_Solution_Tolerance:
+.. _option-AIMMS-solution_tolerance:
 
 
 Solution Tolerance

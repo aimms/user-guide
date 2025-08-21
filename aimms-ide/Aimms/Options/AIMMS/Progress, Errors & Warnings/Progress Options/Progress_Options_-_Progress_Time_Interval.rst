@@ -1,6 +1,6 @@
 
 
-.. _Options_Progress_Options_-_Progress_Time_Interval:
+.. _option-AIMMS-progress_time_interval:
 
 
 Progress Time Interval
@@ -38,4 +38,4 @@ The option **Progress Solution**  can be used to control progress reports based 
 
 **Learn more about** 
 
-*	:ref:`Options_Progress_Options_-_Progress_So` 
+*	:ref:`option-AIMMS-progress_solution` 

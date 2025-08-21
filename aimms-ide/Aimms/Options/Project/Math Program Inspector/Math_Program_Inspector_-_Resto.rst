@@ -1,6 +1,6 @@
 
 
-.. _Options_Math_Program_Inspector_-_Resto:
+.. _option-AIMMS-restore_original_solution_after_analysis:
 
 
 Restore Original Solution After Analysis

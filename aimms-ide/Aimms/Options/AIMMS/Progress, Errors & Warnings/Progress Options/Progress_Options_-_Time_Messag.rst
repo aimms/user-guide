@@ -1,6 +1,6 @@
 
 
-.. _Options_Progress_Options_-_Time_Messag:
+.. _option-AIMMS-time_messages:
 
 
 Time Messages

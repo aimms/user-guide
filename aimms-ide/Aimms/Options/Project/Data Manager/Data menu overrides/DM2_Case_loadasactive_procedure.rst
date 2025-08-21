@@ -1,6 +1,6 @@
 
 
-.. _Options_DM2_Case_loadasactive_procedure:
+.. _option-AIMMS-case_loadasactive_procedure:
 
 
 Case loadasactive procedure

@@ -1,6 +1,6 @@
 
 
-.. _Options_MemoryManagement-Rebuild_before_solve:
+.. _option-AIMMS-rebuild_before_solve:
 
 
 Rebuild Before Solve

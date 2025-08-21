@@ -1,6 +1,6 @@
 
 
-.. _Options_Translations_For_Special_Numb4:
+.. _option-AIMMS-formatstring_translate_mininf:
 
 
 Formatstring Translate Mininf
@@ -20,7 +20,7 @@ This option specifies to which number -inf is translated by the FormatString fun
 
 **Learn more about** 
 
-*	:ref:`Options_Translations_For_Special_Numb2`  
+*	:ref:`option-AIMMS-formatstring_translate_special_values`  
 *	:any:`FormatString`
 
 

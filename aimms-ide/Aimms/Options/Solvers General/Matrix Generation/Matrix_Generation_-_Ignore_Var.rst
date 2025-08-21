@@ -1,6 +1,6 @@
 
 
-.. _Options_Matrix_Generation_-_Ignore_Var:
+.. _option-AIMMS-ignore_variable_inline_property:
 
 
 Ignore Variable Inline Property

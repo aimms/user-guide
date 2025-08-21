@@ -1,6 +1,6 @@
 
 
-.. _Options_Compilation_-_Warning_element_sequence_upperbound_not_included:
+.. _option-AIMMS-warning_element_sequence_upperbound_not_included:
 
 
 Warning element sequence upperbound not included
@@ -70,11 +70,11 @@ For example, this situation arises in the following model fragment:
 
 **Learn more about** 
 
-*	:ref:`Options_Backward_Compatibility_-_Element_sequence_always_include_upper_bound` 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-element_sequence_always_include_upper_bound` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

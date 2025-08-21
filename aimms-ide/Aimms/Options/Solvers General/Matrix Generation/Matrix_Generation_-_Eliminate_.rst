@@ -1,6 +1,6 @@
 
 
-.. _Options_Matrix_Generation_-_Eliminate_:
+.. _option-AIMMS-eliminate_nonvar_columns:
 
 
 Eliminate Nonvar Columns

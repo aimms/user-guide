@@ -1,6 +1,6 @@
 
 
-.. _Options_Execution_-_Suppress_Error_Mes:
+.. _option-AIMMS-suppress_error_messages_of_val_function:
 
 
 Suppress Error Messages of Val Function
@@ -33,7 +33,7 @@ The function ``val``  translates strings to numbers. For example, ``val("2009")`
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`sec:exec.error`  
 
 

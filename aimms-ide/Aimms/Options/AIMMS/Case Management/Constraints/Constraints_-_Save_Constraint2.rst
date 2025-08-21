@@ -1,6 +1,6 @@
 
 
-.. _Options_Constraints_-_Save_Constraint2:
+.. _option-AIMMS-save_constraint_marginals:
 
 
 Save Constraint Marginals

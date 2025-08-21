@@ -1,6 +1,6 @@
 
 
-.. _Options_MIP_Options_-_Maximal_Number_o:
+.. _option-AIMMS-maximal_number_of_integer_solutions:
 
 
 Maximal Number of Integer Solutions

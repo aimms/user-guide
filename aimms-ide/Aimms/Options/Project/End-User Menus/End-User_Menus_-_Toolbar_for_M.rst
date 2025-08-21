@@ -1,6 +1,6 @@
 
 
-.. _Options_End-User_Menus_-_Toolbar_for_M:
+.. _option-AIMMS-toolbar_for_message_window:
 
 
 Toolbar for Message Window

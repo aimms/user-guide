@@ -1,6 +1,6 @@
 
 
-.. _Options_Sensitivity_-_Time_Limit_Sensitivity_Ranges:
+.. _option-AIMMS-time_limit_sensitivity_ranges:
 
 
 Time Limit Sensitivity Ranges
@@ -27,7 +27,7 @@ This option specifies a time limit (in CPU seconds) for each LP problem that is 
 
 **Learn more about** 
 
-*	:ref:`Options_Sensitivity_-_Calculate_Sensit`  
+*	:ref:`option-AIMMS-calculate_sensitivity_ranges`  
 *	:ref:`Miscellaneous_Calculation_of_Shadow_Price_Ra`  
 
 

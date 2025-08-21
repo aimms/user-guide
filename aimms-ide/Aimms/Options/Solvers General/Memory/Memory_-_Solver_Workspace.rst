@@ -1,6 +1,6 @@
 
 
-.. _Options_Memory_-_Solver_Workspace:
+.. _option-AIMMS-solver_workspace:
 
 
 Solver Workspace

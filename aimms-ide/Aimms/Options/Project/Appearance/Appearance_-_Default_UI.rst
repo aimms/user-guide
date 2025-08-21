@@ -1,6 +1,6 @@
 
 
-.. _Options_Appearance_-_Default_UI:
+.. _option-AIMMS-default_ui:
 
 
 Default UI

@@ -1,6 +1,6 @@
 
 
-.. _Options_Optimization_-_Warning_Non_Optimal:
+.. _option-AIMMS-warning_non_optimal:
 
 
 Warning Non Optimal
@@ -54,10 +54,10 @@ This option determines what happens when the solution found by a solver is non-o
 **Learn more about** 
 
 *	:ref:`sec:mp.suffix`
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

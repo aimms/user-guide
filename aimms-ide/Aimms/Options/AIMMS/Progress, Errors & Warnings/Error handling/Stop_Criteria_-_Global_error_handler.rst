@@ -1,6 +1,6 @@
 
 
-.. _Options_Stop_Criteria_-_Global_error_handler:
+.. _option-AIMMS-global_error_handler:
 
 
 Global error handler

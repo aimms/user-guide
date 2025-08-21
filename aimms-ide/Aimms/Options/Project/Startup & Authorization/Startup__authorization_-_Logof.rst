@@ -1,6 +1,6 @@
 
 
-.. _Options_Startup__authorization_-_Logof:
+.. _option-AIMMS-logoff_procedure:
 
 
 Logoff Procedure
@@ -35,7 +35,7 @@ This option specifies the procedure that is executed when a user logs off from a
 **How to ...** 
 
 *	:ref:`Security_Linking_to_a_User_Database`  
-*	:ref:`Options_Startup__authorization_-_Logon`  
+*	:ref:`option-AIMMS-logon_procedure`  
 *	:ref:`Security_Changing_Group_within_an_Appli`  
 *	:ref:`Security_Changing_User_within_an_Applic`  
 *	:ref:`Security_Changing_Authorization_Level_w`  
@@ -47,7 +47,7 @@ This option specifies the procedure that is executed when a user logs off from a
 
 *	:ref:`Model-Explorer_Procedures`  
 *	:ref:`Security_User_Management`  
-*	:ref:`Options_Startup__authorization_-_Logon`  
+*	:ref:`option-AIMMS-logon_procedure`  
 
 
 

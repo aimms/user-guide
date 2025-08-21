@@ -1,6 +1,6 @@
 
 
-.. _Options_Feasibility_relaxation_optimiz:
+.. _option-AIMMS-feasibility_relaxation_optimize_original_objective:
 
 
 Feasibility Relaxation Optimize Original Objective
@@ -46,8 +46,8 @@ This option is only relevant if the option **Feasibility Relaxation**  is set to
 **Learn more about** 
 
 *	`Infeasibility analysis <https://documentation.aimms.com/language-reference/optimization-modeling-components/solving-mathematical-programs/infeasibility-analysis.html>`_ (Language Reference)
-*	:ref:`Options_Feasibility_relaxation`  
-*	:ref:`Options_Feasibility_relaxation_objecti`  
+*	:ref:`option-AIMMS-feasibility_relaxation`  
+*	:ref:`option-AIMMS-feasibility_relaxation_objective`  
 
 
 

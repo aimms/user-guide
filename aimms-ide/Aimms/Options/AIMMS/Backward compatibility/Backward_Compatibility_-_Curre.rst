@@ -1,4 +1,4 @@
-.. _Options_Backward_Compatibility_-_Curre:
+.. _option-AIMMS-current_time_in_localdst:
 
 Current time in LocalDST
 ========================

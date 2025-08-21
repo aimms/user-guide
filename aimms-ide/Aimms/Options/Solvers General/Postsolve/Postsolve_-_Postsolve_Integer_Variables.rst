@@ -1,6 +1,6 @@
 
 
-.. _Options_Postsolve_-_Postsolve_Integer_Variables:
+.. _option-AIMMS-postsolve_integer_variables:
 
 
 Postsolve Integer Variables
@@ -55,5 +55,5 @@ If the value equals 'Round integers and resolve LP' then AIMMS checks whether th
 
 **Learn more about** 
 
-*	:ref:`Options_Postsolve_-_MIP_Calculate_Sensitivity_Info`  
-*	:ref:`Options_Postsolve_-_Postsolve` 
+*	:ref:`option-AIMMS-mip_calculate_sensitivity_information`  
+*	:ref:`option-AIMMS-postsolve` 

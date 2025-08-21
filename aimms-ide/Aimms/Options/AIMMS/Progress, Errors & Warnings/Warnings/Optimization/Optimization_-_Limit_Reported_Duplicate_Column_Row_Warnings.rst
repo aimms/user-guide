@@ -1,6 +1,6 @@
 
 
-.. _Options_Optimization_-_Limit_Reported_Duplicate_Column_Row_Warnings:
+.. _option-AIMMS-limit_reported_duplicate_column_row_warnings:
 
 
 Limit reported duplicate column row warnings

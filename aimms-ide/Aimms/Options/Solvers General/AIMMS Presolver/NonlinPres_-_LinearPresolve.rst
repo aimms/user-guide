@@ -1,6 +1,6 @@
 
 
-.. _Options_NonlinPres_-_LinearPresolve:
+.. _option-AIMMS-linear_presolve:
 
 
 Linear Presolve
@@ -49,13 +49,13 @@ The amount of reductions that the AIMMS Presolver can do is influenced by the op
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_MINLP_Probing` 
-*	:ref:`Options_NonlinPres_-_NonlinearPresolve` 
-*	:ref:`Options_NonlinPres_-_PresolvConstrUsed` 
-*	:ref:`Options_NonlinPres_-_Presolve_copy_model` 
-*	:ref:`Options_NonlinPres_-_Presolve_Dual_Reductions` 
-*	:ref:`Options_NonlinPres_-_Presolve_remove_dupl_vars` 
-*	:ref:`Options_NonlinPres_-_RemoveDoubletons` 
+*	:ref:`option-AIMMS-minlp_probing` 
+*	:ref:`option-AIMMS-nonlinear_presolve` 
+*	:ref:`option-AIMMS-presolve_constraints_used` 
+*	:ref:`option-AIMMS-presolve_copy_model` 
+*	:ref:`option-AIMMS-presolve_dual_reductions` 
+*	:ref:`option-AIMMS-presolve_remove_duplicate_variables` 
+*	:ref:`option-AIMMS-remove_doubletons` 
 
 
 

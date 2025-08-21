@@ -1,6 +1,6 @@
 
 
-.. _Options_Solver_Specific_-_Solver_Windo:
+.. _option-AIMMS-solver_window_messages:
 
 
 Solver Window Messages

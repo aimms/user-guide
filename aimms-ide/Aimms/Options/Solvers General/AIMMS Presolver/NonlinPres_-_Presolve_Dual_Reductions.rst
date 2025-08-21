@@ -1,6 +1,6 @@
 
 
-.. _Options_NonlinPres_-_Presolve_Dual_Reductions:
+.. _option-AIMMS-presolve_dual_reductions:
 
 
 Presolve Dual Reductions
@@ -58,8 +58,8 @@ In any feasible solution in which y equals 1 we can change its solution value to
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_LinearPresolve` 
-*	:ref:`Options_NonlinPres_-_NonlinearPresolve`  
+*	:ref:`option-AIMMS-linear_presolve` 
+*	:ref:`option-AIMMS-nonlinear_presolve`  
 
 
 

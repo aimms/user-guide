@@ -1,6 +1,6 @@
 
 
-.. _Options_Translations_For_Special_Numb2:
+.. _option-AIMMS-formatstring_translate_special_values:
 
 
 Formatstring Translate Special Values
@@ -32,11 +32,11 @@ If this option has the value "on", then the special values are translated accord
 
 **Learn more about** 
 
-*	:ref:`Options_Translations_For_Special_Numb5`  
-*	:ref:`Options_Translations_For_Special_Numb4`  
-*	:ref:`Options_Translations_For_Special_Numb3`  
-*	:ref:`Options_Translations_For_Special_Numb1`  
-*	:ref:`Options_Translations_For_Special_Numbe`  
+*	:ref:`option-AIMMS-formatstring_translate_inf`  
+*	:ref:`option-AIMMS-formatstring_translate_mininf`  
+*	:ref:`option-AIMMS-formatstring_translate_na`  
+*	:ref:`option-AIMMS-formatstring_translate_undf`  
+*	:ref:`option-AIMMS-formatstring_translate_zero`  
 *	:any:`FormatString`
 
 

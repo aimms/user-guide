@@ -1,6 +1,6 @@
 
 
-.. _Options_Robust_Optimization_-_Cholesky_tolerance:
+.. _option-AIMMS-cholesky_tolerance:
 
 
 Cholesky Tolerance

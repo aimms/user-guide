@@ -1,6 +1,6 @@
 
 
-.. _Options_Compilation_-_Warning_Adapting:
+.. _option-AIMMS-warning_adapting_range_for_loop:
 
 
 Warning Adapting Range For Loop
@@ -65,10 +65,10 @@ When this option doesn't issue an error AIMMS will still try to execute the for 
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

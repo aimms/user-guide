@@ -1,6 +1,6 @@
 
 
-.. _Options_Robust_Optimization_-_Slater_Condition_Check:
+.. _option-AIMMS-slater_condition_check:
 
 
 Slater Condition Check
@@ -42,8 +42,8 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`Options_Robust_Optimization_-_Constraint_Listing_RO` 
-*	:ref:`Options_Robust_Optimization_-_Slater_Condition_Tolerance`  
+*	:ref:`option-AIMMS-constraint_listing_robust_optimization` 
+*	:ref:`option-AIMMS-slater_condition_tolerance`  
 
 
 

@@ -1,6 +1,6 @@
 
 
-.. _Options_Tuning_-_Profiler_Store_Data:
+.. _option-AIMMS-profiler_store_data:
 
 
 Profiler Store Data

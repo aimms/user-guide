@@ -1,6 +1,6 @@
 
 
-.. _Options_Tooltips_-_Identifiers_in_Mode:
+.. _option-AIMMS-identifiers_in_model_tree:
 
 
 Identifiers in Model Tree

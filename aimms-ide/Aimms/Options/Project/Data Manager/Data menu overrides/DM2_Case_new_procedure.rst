@@ -1,6 +1,6 @@
 
 
-.. _Options_DM2_Case_new_procedure:
+.. _option-AIMMS-case_new_procedure:
 
 
 Case new procedure

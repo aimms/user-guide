@@ -1,6 +1,6 @@
 
 
-.. _Options_Appearance_-_IDE_Theme:
+.. _option-AIMMS-ide_theme:
 
 
 IDE Theme

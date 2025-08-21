@@ -1,6 +1,6 @@
 
 
-.. _Options_NonlinPres_-_Presolve_copy_model:
+.. _option-AIMMS-presolve_copy_model:
 
 
 Presolve Copy Model
@@ -46,4 +46,4 @@ Currently, this option is only effective for linear models for which the option 
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_LinearPresolve` 
+*	:ref:`option-AIMMS-linear_presolve` 

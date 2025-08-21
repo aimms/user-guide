@@ -1,6 +1,6 @@
 
 
-.. _Options_Interface-CombineQuadratic:
+.. _option-AIMMS-combine_quadratic_terms:
 
 
 Combine Quadratic Terms

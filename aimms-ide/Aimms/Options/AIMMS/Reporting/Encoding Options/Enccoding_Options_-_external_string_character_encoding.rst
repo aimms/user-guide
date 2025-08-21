@@ -1,6 +1,6 @@
 
 
-.. _Options_Enccoding_Options_-_external_string_character_encoding:
+.. _option-AIMMS-external_string_character_encoding:
 
 
 External string character encoding

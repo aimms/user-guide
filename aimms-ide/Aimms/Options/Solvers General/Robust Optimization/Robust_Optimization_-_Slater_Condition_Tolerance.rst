@@ -1,6 +1,6 @@
 
 
-.. _Options_Robust_Optimization_-_Slater_Condition_Tolerance:
+.. _option-AIMMS-slater_condition_tolerance:
 
 
 Slater Condition Tolerance
@@ -20,4 +20,4 @@ This tolerance specifies the feasibility tolerance for the problem that is solve
 
 **Learn more about** 
 
-*	:ref:`Options_Robust_Optimization_-_Slater_Condition_Check`  
+*	:ref:`option-AIMMS-slater_condition_check`  

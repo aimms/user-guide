@@ -1,6 +1,6 @@
 
 
-.. _Options_Robust_Optimization_-_Constraint_Listing_RO:
+.. _option-AIMMS-constraint_listing_robust_optimization:
 
 
 Constraint Listing Robust Optimization
@@ -41,8 +41,8 @@ AIMMS will only print listing files related to robust optimization if the genera
 
 **Learn more about** 
 
-*	:ref:`Options_Constraints_-_Constraint_Listi` 
-*	:ref:`Options_Constraints_-_Constraint_List3`  
+*	:ref:`option-AIMMS-constraint_listing` 
+*	:ref:`option-AIMMS-constraint_listing_variable_values`  
 
 
 

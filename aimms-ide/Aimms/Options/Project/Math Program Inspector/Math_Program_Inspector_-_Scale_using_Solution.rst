@@ -1,6 +1,6 @@
 
 
-.. _Options_Math_Program_Inspector_-_Scale_using_Solution:
+.. _option-AIMMS-scale_using_solution:
 
 
 Scale Using Solution

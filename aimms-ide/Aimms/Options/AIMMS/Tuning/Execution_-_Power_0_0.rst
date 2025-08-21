@@ -1,6 +1,6 @@
 
 
-.. _Options_Execution_-_Power_0_0:
+.. _option-AIMMS-power_0_0:
 
 
 Power_0_0

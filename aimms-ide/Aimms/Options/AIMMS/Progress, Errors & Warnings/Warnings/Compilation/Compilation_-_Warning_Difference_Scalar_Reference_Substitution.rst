@@ -1,6 +1,6 @@
 
 
-.. _Options_Compilation_-_Warning_Difference_Scalar_Reference_Substitution:
+.. _option-AIMMS-warning_difference_scalar_suffix_reference_substitution:
 
 
 Warning Difference Scalar Suffix Reference Substitution
@@ -108,11 +108,11 @@ This option controls how you will be alerted against a potential difference in e
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W`  
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported`  
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Backward_Compatibility_-_Scalar_Suffix_Reference_Substitution` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-scalar_suffix_reference_substitution` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

@@ -1,6 +1,6 @@
 
 
-.. _Options_Interface_-_Solver_Input_Preci:
+.. _option-AIMMS-solver_input_precision:
 
 
 Solver Input Precision

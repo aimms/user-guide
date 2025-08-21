@@ -1,6 +1,6 @@
 
 
-.. _Options_Display_Options_-_Display_Colu:
+.. _option-AIMMS-display_column_width:
 
 
 Display Column Width

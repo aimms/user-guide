@@ -1,6 +1,6 @@
 
 
-.. _Options_Variables_-_Save_Variable_Basi:
+.. _option-AIMMS-save_variable_basics:
 
 
 Save Variable Basics

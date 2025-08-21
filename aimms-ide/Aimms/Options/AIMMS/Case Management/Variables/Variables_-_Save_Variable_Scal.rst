@@ -1,6 +1,6 @@
 
 
-.. _Options_Variables_-_Save_Variable_Scal:
+.. _option-AIMMS-save_variable_scales:
 
 
 Save Variable Scales

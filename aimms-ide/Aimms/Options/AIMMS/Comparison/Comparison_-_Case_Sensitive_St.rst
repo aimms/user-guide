@@ -1,6 +1,6 @@
 
 
-.. _Options_Comparison_-_Case_Sensitive_St:
+.. _option-AIMMS-case_sensitive_string_comparison:
 
 
 Case Sensitive String Comparison

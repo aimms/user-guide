@@ -1,6 +1,6 @@
 
 
-.. _Options_Math_Program_Inspector_-_show2:
+.. _option-AIMMS-show_branch_and_bound_tree:
 
 
 Show branch and bound tree

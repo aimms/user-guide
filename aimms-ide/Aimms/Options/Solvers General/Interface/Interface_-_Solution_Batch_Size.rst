@@ -1,6 +1,6 @@
 
 
-.. _Options_Interface_-_Solution_Batch_Size:
+.. _option-AIMMS-solution_batch_size:
 
 
 Solution Batch Size

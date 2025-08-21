@@ -1,6 +1,6 @@
 
 
-.. _Options_Progress_Options_-_Progress_Co:
+.. _option-AIMMS-progress_compilation:
 
 
 Progress Compilation

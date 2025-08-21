@@ -1,6 +1,6 @@
 
 
-.. _Options_Constraints_-_Save_Constraint3:
+.. _option-AIMMS-save_constraint_scales:
 
 
 Save Constraint Scales

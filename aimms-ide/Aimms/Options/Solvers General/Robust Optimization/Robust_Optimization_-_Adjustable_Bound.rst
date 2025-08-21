@@ -1,6 +1,6 @@
 
 
-.. _Options_Robust_Optimization_-_Adjustable_Bound:
+.. _option-AIMMS-adjustable_bound:
 
 
 Adjustable Bound

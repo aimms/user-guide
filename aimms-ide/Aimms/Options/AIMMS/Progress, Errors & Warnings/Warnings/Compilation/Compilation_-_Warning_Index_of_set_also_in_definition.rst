@@ -1,6 +1,6 @@
 
 
-.. _Options_Compilation_-_Warning_Index_of_set_also_in_definition:
+.. _option-AIMMS-warning_index_of_set_also_in_definition:
 
 
 Warning Index of Set also in Definition
@@ -84,10 +84,10 @@ In the above example, the index ess is both declared as an index of ExampleSubSe
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

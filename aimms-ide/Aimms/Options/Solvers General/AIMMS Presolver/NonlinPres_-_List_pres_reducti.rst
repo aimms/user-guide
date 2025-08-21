@@ -1,6 +1,6 @@
 
 
-.. _Options_NonlinPres_-_List_pres_reducti:
+.. _option-AIMMS-list_presolve_reductions:
 
 
 List Presolve Reductions
@@ -47,7 +47,7 @@ If the option **MINLP Probing**  is switched on then also the nonlinear constrai
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_MINLP_Probing` 
-*	:ref:`Options_Scaling_-_Scale_Model` 
-*	:ref:`Options_Solution_-_Solution_Listing_Co` 
-*	:ref:`Options_Solution_-_Solution_Listing_Ro` 
+*	:ref:`option-AIMMS-minlp_probing` 
+*	:ref:`option-AIMMS-scale_model` 
+*	:ref:`option-AIMMS-solution_listing_column_name_style` 
+*	:ref:`option-AIMMS-solution_listing_row_name_style` 

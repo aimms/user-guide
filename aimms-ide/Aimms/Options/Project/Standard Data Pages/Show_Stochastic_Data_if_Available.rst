@@ -1,6 +1,6 @@
 
 
-.. _Options_Show_Stochastic_Data_if_Available:
+.. _option-AIMMS-show_stochastic_data_if_available:
 
 
 Show Stochastic Data if Available

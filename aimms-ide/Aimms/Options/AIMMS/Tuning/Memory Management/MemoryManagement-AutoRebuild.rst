@@ -1,6 +1,6 @@
 
 
-.. _Options_MemoryManagement-AutoRebuild:
+.. _option-AIMMS-auto_rebuild:
 
 
 Auto Rebuild
@@ -34,8 +34,8 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`Options_Memory_Management_-_AutoRebAbs` 
-*	:ref:`Options_Memory_Management_-_AutoRebRel` 
+*	:ref:`option-AIMMS-auto_rebuild_minimum_difference_absolute` 
+*	:ref:`option-AIMMS-auto_rebuild_minimum_difference_relative` 
 
 
 

@@ -1,6 +1,6 @@
 
 
-.. _Options_Progress_Options_-_Major_Messa:
+.. _option-AIMMS-major_messages:
 
 
 Major Messages

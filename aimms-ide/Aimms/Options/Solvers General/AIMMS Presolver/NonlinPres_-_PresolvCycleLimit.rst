@@ -1,6 +1,6 @@
 
 
-.. _Options_NonlinPres_-_PresolvCycleLimit:
+.. _option-AIMMS-presolve_cycle_limit:
 
 
 Presolve Cycle Limit
@@ -24,4 +24,4 @@ The AIMMS Presolver might do one additional iteration of improving the variable 
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_Presolve_Dual_Reductions` 
+*	:ref:`option-AIMMS-presolve_dual_reductions` 

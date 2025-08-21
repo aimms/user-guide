@@ -1,6 +1,6 @@
 
 
-.. _Options_Scaling_-_Scale_Model:
+.. _option-AIMMS-scale_model:
 
 
 Scale Model
@@ -102,9 +102,9 @@ AIMMS reports the scaling score before and after scaling the model. If the Combi
 
 **Learn more about** 
 
-*	:ref:`Options_Scaling_-_Constraint_Listing_Scaled_Model` 
-*	:ref:`Options_Scaling_-_List_Scaling_Factors` 
-*	:ref:`Options_Scaling_-_Scaling_Algorithm` 
+*	:ref:`option-AIMMS-constraint_listing_scaled_model` 
+*	:ref:`option-AIMMS-list_scaling_factors` 
+*	:ref:`option-AIMMS-scaling_algorithm` 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Scale_Model` 
 *	:ref:`option-CBC-scaling`
 *	:ref:`option-CONOPT-scaling_method`

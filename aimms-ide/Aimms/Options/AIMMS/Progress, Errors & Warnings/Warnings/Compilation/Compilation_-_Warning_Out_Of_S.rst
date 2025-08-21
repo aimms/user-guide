@@ -1,6 +1,6 @@
 
 
-.. _Options_Compilation_-_Warning_Out_Of_S:
+.. _option-AIMMS-warning_out_of_specified_scope:
 
 
 Warning Out of Specified Scope
@@ -33,8 +33,8 @@ This option determines what happens during compilation when an identifier does n
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

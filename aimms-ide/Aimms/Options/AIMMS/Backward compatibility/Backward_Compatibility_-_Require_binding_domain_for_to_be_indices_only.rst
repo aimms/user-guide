@@ -1,6 +1,6 @@
 
 
-.. _Options_Backward_Compatibility_-_Require_binding_domain_for_to_be_indices_only:
+.. _option-AIMMS-require_binding_domain_for_to_be_indices_only:
 
 
 Require Binding domain for to be indices only

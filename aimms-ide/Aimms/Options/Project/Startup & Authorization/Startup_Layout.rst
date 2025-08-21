@@ -1,6 +1,6 @@
 
 
-.. _Options_Startup_Layout:
+.. _option-AIMMS-startup_layout:
 
 
 Startup Layout

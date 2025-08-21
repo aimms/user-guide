@@ -1,6 +1,6 @@
 
 
-.. _Options_Execution_-_Halt_acts_as_raise_error:
+.. _option-AIMMS-halt_acts_as_raise_error:
 
 
 Halt acts as raise error
@@ -32,7 +32,7 @@ The normal execution of a ``HALT``  statement does not respect any error handler
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`sec:exec.error`  
 
 

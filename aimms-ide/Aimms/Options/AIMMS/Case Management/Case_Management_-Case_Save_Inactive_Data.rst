@@ -1,6 +1,6 @@
 
 
-.. _Options_Case_Management_-Case_Save_Inactive_Data:
+.. _option-AIMMS-case_save_inactive_data:
 
 
 Case Save Inactive Data

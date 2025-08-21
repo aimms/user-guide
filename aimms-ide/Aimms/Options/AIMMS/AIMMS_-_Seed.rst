@@ -1,6 +1,6 @@
 
 
-.. _Options_AIMMS_-_Seed:
+.. _option-AIMMS-seed:
 
 
 Seed

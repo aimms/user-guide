@@ -1,6 +1,6 @@
 
 
-.. _Options_Solution_-_Infeasibility_Finde:
+.. _option-AIMMS-infeasibility_finder:
 
 
 Infeasibility Finder
@@ -43,7 +43,7 @@ If this option is switched 'On' and a model is infeasible, extra information wil
 *	:ref:`option-Baron-compute_iis`
 *	:ref:`option-XA-force` 
 *	:ref:`Model-Explorer_Creating_a_Mathematical_Progra`  
-*	:ref:`Options_Standard_Reports_Suppress_Listing_File_Encrypte` 
+*	:ref:`option-AIMMS-suppress_listing_file_encrypted_project` 
 
 
 

@@ -1,6 +1,6 @@
 
 
-.. _Options_Solution_Time_has_unit_Seconds:
+.. _option-AIMMS-solution_time_has_unit_seconds:
 
 
 Solution Time has unit Seconds

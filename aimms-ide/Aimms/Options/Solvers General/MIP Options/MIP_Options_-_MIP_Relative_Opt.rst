@@ -1,6 +1,6 @@
 
 
-.. _Options_MIP_Options_-_MIP_Relative_Opt:
+.. _option-AIMMS-mip_relative_optimality_tolerance:
 
 
 MIP Relative Optimality Tolerance

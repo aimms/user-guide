@@ -1,6 +1,6 @@
 
 
-.. _Options_Translations_For_Special_Numb8:
+.. _option-AIMMS-put_translate_mininf:
 
 
 Put Translate Mininf
@@ -20,7 +20,7 @@ This option specifies to which number -inf is translated by the PUT statement if
 
 **Learn more about** 
 
-*	:ref:`Options_Translations_For_Special_Numb6` 
+*	:ref:`option-AIMMS-put_translate_special_values` 
 
 
 

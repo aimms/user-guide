@@ -1,6 +1,6 @@
 
 
-.. _Options_DatabaseInterface-DRUP:
+.. _option-AIMMS-duplicate_row_update_protection:
 
 
 Duplicate Row Update Protection

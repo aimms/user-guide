@@ -1,6 +1,6 @@
 
 
-.. _Options_Display_Options_-_Display_Inac:
+.. _option-AIMMS-display_inactive_data:
 
 
 Display Inactive Data

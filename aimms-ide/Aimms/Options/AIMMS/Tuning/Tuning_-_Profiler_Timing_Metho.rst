@@ -1,6 +1,6 @@
 
 
-.. _Options_Tuning_-_Profiler_Timing_Metho:
+.. _option-AIMMS-profiler_timing_method:
 
 
 Profiler Timing Method

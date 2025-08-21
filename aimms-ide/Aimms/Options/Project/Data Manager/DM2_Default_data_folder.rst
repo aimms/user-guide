@@ -1,6 +1,6 @@
 
 
-.. _Options_DM2_Default_data_folder:
+.. _option-AIMMS-default_data_folder:
 
 
 Default data folder

@@ -1,6 +1,6 @@
 
 
-.. _Options_Warnings_-_Communicate_warnings_to_end_users:
+.. _option-AIMMS-communicate_warnings_to_end_users:
 
 
 Communicate warnings to end users

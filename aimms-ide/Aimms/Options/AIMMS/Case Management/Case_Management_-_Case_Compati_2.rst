@@ -1,6 +1,6 @@
 
 
-.. _Options_Case_Management_-_Case_Compati_2:
+.. _option-AIMMS-case_compatibility:
 
 
 Case Compatibility
@@ -22,7 +22,7 @@ To be able to make constant improvements to AIMMS, it is sometimes necessary to 
 Possible values are:
 
 *	Aimms_3_14
-*	Aimms_4_80 (improved ordering of identifiers in a case, for better performance, and this is required if you want to use the Native_Linux or Native_Windows character encodings. See :ref:`Options_Case_Management_-Case_String_Character` 
+*	Aimms_4_80 (improved ordering of identifiers in a case, for better performance, and this is required if you want to use the Native_Linux or Native_Windows character encodings. See :ref:`option-AIMMS-case_string_character_set` 
 
 
 
@@ -38,7 +38,7 @@ We advice you to set this option to older versions only if the cases need to be 
 
 **Learn more about** 
 
-*	:ref:`Options_Case_Management_-_Case_Compres`  
+*	:ref:`option-AIMMS-case_compression_level`  
 
 
 

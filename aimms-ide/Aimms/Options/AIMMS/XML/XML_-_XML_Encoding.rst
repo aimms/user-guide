@@ -1,6 +1,6 @@
 
 
-.. _Options_XML_-_XML_Encoding:
+.. _option-AIMMS-xml_encoding:
 
 
 XML Encoding

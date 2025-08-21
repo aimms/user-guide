@@ -1,6 +1,6 @@
 
 
-.. _Options_Translations_For_Special_Numb7:
+.. _option-AIMMS-put_translate_inf:
 
 
 Put Translate Inf
@@ -20,7 +20,7 @@ This option specifies to which number inf is translated by the PUT statement if 
 
 **Learn more about** 
 
-*	:ref:`Options_Translations_For_Special_Numb6`  
+*	:ref:`option-AIMMS-put_translate_special_values`  
 
 
 

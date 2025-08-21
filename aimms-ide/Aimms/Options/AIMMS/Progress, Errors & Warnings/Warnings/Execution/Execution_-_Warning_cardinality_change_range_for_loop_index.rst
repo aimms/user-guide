@@ -1,6 +1,6 @@
 
 
-.. _Options_Execution_-_Warning_cardinality_change_range_for_loop_index:
+.. _option-AIMMS-warning_cardinality_change_range_for_loop_index:
 
 
 Warning Cardinality Change Range For Loop Index
@@ -53,11 +53,11 @@ This option specifies what happens when, during execution, the range of a for lo
 
 **Learn more about** 
 
-*	:ref:`Options_Warnings_-_Maximal_Number_of_W` 
-*	:ref:`Options_Compilation_-_Warning_Adapting` 
+*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
+*	:ref:`option-AIMMS-warning_adapting_range_for_loop` 
 *	:ref:`Options_Warnings_-_Common_warning_default` 
 *	:ref:`Options_Warnings_-_Strict_warning_default` 
-*	:ref:`Options_Warnings_-_Communicate_warnings_to_end_users` 
+*	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 
 

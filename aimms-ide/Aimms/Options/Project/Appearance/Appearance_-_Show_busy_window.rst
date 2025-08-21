@@ -1,6 +1,6 @@
 
 
-.. _Options_Appearance_-_Show_busy_window:
+.. _option-AIMMS-show_busy_window:
 
 
 Show Busy Window

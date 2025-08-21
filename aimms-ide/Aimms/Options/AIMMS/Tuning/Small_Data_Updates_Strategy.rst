@@ -1,6 +1,6 @@
 
 
-.. _Options_Small_Data_Updates_Strategy:
+.. _option-AIMMS-small_data_updates_strategy:
 
 
 Small Data Updates Strategy

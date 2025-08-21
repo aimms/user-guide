@@ -1,6 +1,6 @@
 
 
-.. _Options_Sensitivity_-_Always_Store_Mar:
+.. _option-AIMMS-always_store_marginals:
 
 
 Always Store Marginals

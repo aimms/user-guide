@@ -1,6 +1,6 @@
 
 
-.. _Options_Enccoding_Options_-_default_input_character_encoding:
+.. _option-AIMMS-default_input_character_encoding:
 
 
 Default input character encoding

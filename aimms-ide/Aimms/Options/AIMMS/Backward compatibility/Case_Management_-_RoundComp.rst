@@ -1,6 +1,6 @@
 
 
-.. _Options_Case_Management_-_RoundComp:
+.. _option-AIMMS-rounding_compatibility:
 
 
 Rounding Compatibility
@@ -31,8 +31,8 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`Options_Case_Management_-_Case_Compres`  
-*	:ref:`Options_Compilation_-_Warning_RoundAmb`  
+*	:ref:`option-AIMMS-case_compression_level`  
+*	:ref:`option-AIMMS-warning_rounding_ambiguity`  
 
 
 

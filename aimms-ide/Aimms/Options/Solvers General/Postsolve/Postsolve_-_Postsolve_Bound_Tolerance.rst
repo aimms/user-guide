@@ -1,6 +1,6 @@
 
 
-.. _Options_Postsolve_-_Postsolve_Bound_Tolerance:
+.. _option-AIMMS-postsolve_bound_tolerance:
 
 
 Postsolve Bound Tolerance
@@ -27,8 +27,8 @@ This option specifies the bound tolerance used for continuous variables. If the 
 
 **Learn more about** 
 
-*	:ref:`Options_Postsolve_-_Postsolve` 
-*	:ref:`Options_Postsolve_-_Postsolve_Continuous_Variables` 
+*	:ref:`option-AIMMS-postsolve` 
+*	:ref:`option-AIMMS-postsolve_continuous_variables` 
 
 
 

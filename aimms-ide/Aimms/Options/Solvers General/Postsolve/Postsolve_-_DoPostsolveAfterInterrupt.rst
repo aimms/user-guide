@@ -1,6 +1,6 @@
 
 
-.. _Options_Postsolve_-_DoPostsolveAfterInterrupt:
+.. _option-AIMMS-do_postsolve_after_interrupt:
 
 
 Do Postsolve after Interrupt
@@ -42,10 +42,10 @@ Possible values of this option are:
 
 **Learn more about** 
 
-*	:ref:`Options_Postsolve_-_MIP_Calculate_Sensitivity_Info`  
-*	:ref:`Options_Postsolve_-_Postsolve` 
-*	:ref:`Options_Postsolve_-_Postsolve_Continuous_Variables` 
-*	:ref:`Options_Postsolve_-_Postsolve_Integer_Variables` 
+*	:ref:`option-AIMMS-mip_calculate_sensitivity_information`  
+*	:ref:`option-AIMMS-postsolve` 
+*	:ref:`option-AIMMS-postsolve_continuous_variables` 
+*	:ref:`option-AIMMS-postsolve_integer_variables` 
 
 
 

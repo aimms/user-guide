@@ -1,6 +1,6 @@
 
 
-.. _Options_Math_program_inspector_-_Use_IIS_from_solver:
+.. _option-AIMMS-use_iis_from_solver:
 
 
 Use IIS from solver
@@ -67,4 +67,4 @@ Letting the solver calculate the IIS has one minor disadvantage, namely in some 
 **Learn more about** 
 
 *	:ref:`Diagnostic-Tools_AIMMS_Math_Program_Inspector` 
-*	:ref:`Options_Solution_-_Infeasibility_Finde` 
+*	:ref:`option-AIMMS-infeasibility_finder` 

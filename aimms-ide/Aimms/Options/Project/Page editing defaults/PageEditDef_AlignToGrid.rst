@@ -1,6 +1,6 @@
 
 
-.. _Options_PageEditDef_AlignToGrid:
+.. _option-AIMMS-align_objects_to_grid:
 
 
 Align Objects to Grid

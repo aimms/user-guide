@@ -1,6 +1,6 @@
 
 
-.. _Options_Startup_Open_WebUI_on_startup:
+.. _option-AIMMS-open_webui_on_startup:
 
 
 Open WebUI on startup

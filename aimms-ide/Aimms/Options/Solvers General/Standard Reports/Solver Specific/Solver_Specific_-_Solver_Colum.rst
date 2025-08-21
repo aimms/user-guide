@@ -1,6 +1,6 @@
 
 
-.. _Options_Solver_Specific_-_Solver_Colum:
+.. _option-AIMMS-solver_column_row_mapping:
 
 
 Solver Column Row Mapping

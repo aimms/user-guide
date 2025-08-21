@@ -1,6 +1,6 @@
 
 
-.. _Options_Display_Options_-_Single_Colum:
+.. _option-AIMMS-single_column_display:
 
 
 Single Column Display

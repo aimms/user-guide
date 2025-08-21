@@ -1,6 +1,6 @@
 
 
-.. _Options_Stop_Criteria_-_Maximal_Numbe1:
+.. _option-AIMMS-maximal_number_of_domain_errors:
 
 
 Maximal Number of Domain Errors

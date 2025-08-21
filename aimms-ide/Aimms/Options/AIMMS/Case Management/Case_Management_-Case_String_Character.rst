@@ -1,6 +1,6 @@
 
 
-.. _Options_Case_Management_-Case_String_Character:
+.. _option-AIMMS-case_string_character_set:
 
 
 Case String Character Set
@@ -27,5 +27,5 @@ Possible values are:
 
 *	Native (for the current operating system, translates to either Native_Linux or Native_Windows)
 *	UTF8 (produces the smallest cases)
-*	Native_Linux (requires :ref:`Options_Case_Management_-_Case_Compati_2`  to be at least aimms_4_80)
-*	Native_Windows (requires :ref:`Options_Case_Management_-_Case_Compati_2`  to be at least aimms_4_80)
+*	Native_Linux (requires :ref:`option-AIMMS-case_compatibility`  to be at least aimms_4_80)
+*	Native_Windows (requires :ref:`option-AIMMS-case_compatibility`  to be at least aimms_4_80)

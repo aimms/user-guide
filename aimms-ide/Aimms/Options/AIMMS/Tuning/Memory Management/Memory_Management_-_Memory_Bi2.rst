@@ -1,6 +1,6 @@
 
 
-.. _Options_Memory_Management_-_Memory_Bi2:
+.. _option-AIMMS-memory_bin_resolution:
 
 
 Memory Bin Resolution
@@ -50,10 +50,10 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`Options_Memory_Management_-_Memory_Bi1`  
-*	:ref:`Options_Memory_Management_-_Memory_Bin`  
-*	:ref:`Options_Memory_Management_-_Memory_Bi3`  
-*	:ref:`Options_Memory_Management_-_Memory_Sta`  
+*	:ref:`option-AIMMS-memory_bin_limit`  
+*	:ref:`option-AIMMS-memory_bin_allocation_size`  
+*	:ref:`option-AIMMS-memory_bin_size`  
+*	:ref:`option-AIMMS-memory_statistics`  
 *	:any:`MemoryStatistics`
 
 

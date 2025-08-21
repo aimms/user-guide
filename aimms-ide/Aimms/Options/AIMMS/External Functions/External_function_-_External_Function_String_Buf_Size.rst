@@ -1,6 +1,6 @@
 
 
-.. _Options_External_function_-_External_Function_String_Buf_Size:
+.. _option-AIMMS-external_function_string_buf_size:
 
 
 External function string buf size

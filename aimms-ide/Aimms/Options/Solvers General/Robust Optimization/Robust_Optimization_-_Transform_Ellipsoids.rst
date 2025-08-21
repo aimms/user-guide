@@ -1,6 +1,6 @@
 
 
-.. _Options_Robust_Optimization_-_Transform_Ellipsoids:
+.. _option-AIMMS-transform_ellipsoids:
 
 
 Transform Ellipsoids
@@ -47,7 +47,7 @@ At the default setting both transformations are applied. Possible values are:
 
 **Learn more about** 
 
-*	:ref:`Options_Robust_Optimization_-_Boxed_Ellipsoids`  
+*	:ref:`option-AIMMS-boxed_ellipsoids`  
 
 
 

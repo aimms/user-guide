@@ -1,6 +1,6 @@
 
 
-.. _Options_Appearance_-_Hide_Tabs:
+.. _option-AIMMS-hide_tabs:
 
 
 Hide Tabs

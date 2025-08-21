@@ -1,6 +1,6 @@
 
 
-.. _Options_PUT_Options_-_Put_String_Justi:
+.. _option-AIMMS-put_string_justification:
 
 
 Put String Justification

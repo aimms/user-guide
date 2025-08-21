@@ -1,6 +1,6 @@
 
 
-.. _Options_Scaling_-_Constraint_Listing_Scaled_Model:
+.. _option-AIMMS-constraint_listing_scaled_model:
 
 
 Constraint Listing Scaled Model
@@ -32,8 +32,8 @@ If this option is switched on and if the option **Scale Model**  has been switch
 
 **Learn more about** 
 
-*	:ref:`Options_Constraints_-_Constraint_Listi` 
-*	:ref:`Options_Scaling_-_Scale_Model` 
+*	:ref:`option-AIMMS-constraint_listing` 
+*	:ref:`option-AIMMS-scale_model` 
 
 
 

@@ -1,6 +1,6 @@
 
 
-.. _Options_Database_Interface_-_DbNull20:
+.. _option-AIMMS-database_translate_null_to_0:
 
 
 Database Translate Null to 0

@@ -1,6 +1,6 @@
 
 
-.. _Options_Database_Interface_-_Database2:
+.. _option-AIMMS-database_translate_case:
 
 
 Database Translate Case

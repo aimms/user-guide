@@ -1,6 +1,6 @@
 
 
-.. _Options_Database_Foreign_Key_Write_Mod:
+.. _option-AIMMS-database_foreign_key_handling:
 
 
 Database Foreign Key Handling
