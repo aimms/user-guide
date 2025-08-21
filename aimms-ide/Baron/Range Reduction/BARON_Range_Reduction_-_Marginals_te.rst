@@ -1,6 +1,6 @@
 
 
-.. _Baron_Range_Reduction_-_Marginals_te:
+.. _option-Baron-marginals_testing:
 
 
 Marginals testing

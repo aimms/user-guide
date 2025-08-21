@@ -1,6 +1,6 @@
 
 
-.. _Baron_Logging_-_File_name:
+.. _option-Baron-file_name:
 
 
 File name
@@ -33,10 +33,10 @@ If the value of this option is 'Use baron' then, for instance, the model file wi
 
 **Learn more about** 
 
-*	:ref:`Baron_Logging_-_Keep_model_file` 
-*	:ref:`Baron_Logging_-_Keep_results_file` 
-*	:ref:`Baron_Logging_-_Keep_summary_file` 
-*	:ref:`Baron_Logging_-_Keep_times_file`  
+*	:ref:`option-Baron-keep_model_file` 
+*	:ref:`option-Baron-keep_results_file` 
+*	:ref:`option-Baron-keep_summary_file` 
+*	:ref:`option-Baron-keep_times_file`  
 
 
 

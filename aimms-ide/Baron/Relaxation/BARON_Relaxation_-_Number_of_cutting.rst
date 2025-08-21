@@ -1,4 +1,4 @@
-.. _Baron_Relaxation_-_Number_of_cutting:
+.. _option-Baron-number_of_cutting_plane_rounds:
 
 
 Number of cutting plane rounds
@@ -25,7 +25,7 @@ This option specifies the number of rounds of cutting plane generation at LP rel
 
 **Learn more about** 
 
-*	:ref:`Baron_General_-_LP_solver` 
+*	:ref:`option-Baron-lp_solver` 
 
 
 

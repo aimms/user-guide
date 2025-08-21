@@ -1,4 +1,4 @@
-.. _Baron_Termination_-_Insufficient_progress_terminat:
+.. _option-Baron-insufficient_progress_termination:
 
 
 Insufficient progress termination
@@ -40,9 +40,9 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`Baron_Termination_-_Absolute_improvement_tolerance` 
-*	:ref:`Baron_Termination_-_Insufficient_progress_time` 
-*	:ref:`Baron_Termination_-_Relative_improvement_tolerance` 
+*	:ref:`option-Baron-absolute_improvement_tolerance` 
+*	:ref:`option-Baron-insufficient_progress_time` 
+*	:ref:`option-Baron-relative_improvement_tolerance` 
 
 
 

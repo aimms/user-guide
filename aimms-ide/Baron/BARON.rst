@@ -103,15 +103,15 @@ When using BARON, the general solvers option **Combine Quadratic Terms**  should
 *   :ref:`Options_AIMMS_Execution_Options`  
 *   :ref:`Baron_Convex_constraints` 
 *   :ref:`Baron_Relaxation_only_constr` 
-*   :ref:`Baron_General_-_Maximal_variable_bound` 
+*   :ref:`option-Baron-maximal_variable_bound` 
 *   :ref:`Options_NonlinPres_-_NonlinearPresolve` 
 *   :ref:`Options_Interface-CombineQuadratic`  
 *   :ref:`Baron_Variable_Priorities` 
 *   :ref:`Baron_Improving_MINLP_Performance` 
-*   :ref:`Baron_Termination_-_Absolute_terminat` 
-*   :ref:`Baron_General_-_Compute_IIS` 
-*   :ref:`Baron_General_-_Cutoff` 
-*   :ref:`Baron_Termination_-_Relative_terminat` 
+*   :ref:`option-Baron-absolute_termination_tolerance` 
+*   :ref:`option-Baron-compute_iis` 
+*   :ref:`option-Baron-cut_off` 
+*   :ref:`option-Baron-relative_termination_tolerance` 
 
 
 

@@ -1,4 +1,4 @@
-.. _Baron_Range_Reduction_-_Optimality_b:
+.. _option-Baron-optimality_based_tightening:
 
 
 Optimality based tightening

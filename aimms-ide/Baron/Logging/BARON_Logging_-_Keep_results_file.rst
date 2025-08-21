@@ -1,6 +1,6 @@
 
 
-.. _Baron_Logging_-_Keep_results_file:
+.. _option-Baron-keep_results_file:
 
 
 Keep results file
@@ -33,7 +33,7 @@ This option determines whether the results file should be kept after the model i
 
 **Learn more about** 
 
-*	:ref:`Baron_Logging_-_File_name` 
+*	:ref:`option-Baron-file_name` 
 
 
 

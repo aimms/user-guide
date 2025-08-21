@@ -1,6 +1,6 @@
 
 
-.. _Baron_General_-_Local_solution:
+.. _option-Baron-local_solution:
 
 
 Local solution

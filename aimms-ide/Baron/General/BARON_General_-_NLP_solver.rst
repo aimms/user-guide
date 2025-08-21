@@ -1,6 +1,6 @@
 
 
-.. _Baron_General_-_NLP_solver:
+.. _option-Baron-nlp_solver:
 
 
 NLP solver
@@ -70,8 +70,8 @@ If this option is set to 'None' then BARON will not do any local searches for fi
 
 **Learn more about** 
 
-*	:ref:`Baron_Local_Search_Heuristic_-_Numbe` 
-*	:ref:`Baron_Local_Search_Heuristic_-_Upper` 
+*	:ref:`option-Baron-number_of_preprocessing_searches` 
+*	:ref:`option-Baron-upper_bounding` 
 *	`FilterSD <https://github.com/coin-or/Ipopt>`_ (Internet link)
 *	`IPOPT <https://github.com/coin-or/Ipopt>`_ (Internet link)
 

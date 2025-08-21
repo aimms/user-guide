@@ -1,6 +1,6 @@
 
 
-.. _Baron_Logging_-_Keep_model_file:
+.. _option-Baron-keep_model_file:
 
 
 Keep model file
@@ -33,7 +33,7 @@ This option determines whether the model file, which is passed to BARON, should 
 
 **Learn more about** 
 
-*	:ref:`Baron_Logging_-_File_name` 
+*	:ref:`option-Baron-file_name` 
 
 
 

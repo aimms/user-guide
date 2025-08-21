@@ -1,6 +1,6 @@
 
 
-.. _Baron_Branching_-_Variable_selection:
+.. _option-Baron-variable_selection_strategy:
 
 
 Variable selection strategy

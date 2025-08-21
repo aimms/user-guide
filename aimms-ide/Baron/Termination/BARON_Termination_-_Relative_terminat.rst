@@ -1,4 +1,4 @@
-.. _Baron_Termination_-_Relative_terminat:
+.. _option-Baron-relative_termination_tolerance:
 
 
 Relative termination tolerance
@@ -20,7 +20,7 @@ where :math:`L` and :math:`U` are the lower and upper bounds to the optimization
 
 **Learn more about** 
 
-*	:ref:`Baron_Termination_-_Absolute_terminat` 
+*	:ref:`option-Baron-absolute_termination_tolerance` 
 
 
 

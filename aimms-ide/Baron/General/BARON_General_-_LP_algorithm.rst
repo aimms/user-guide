@@ -1,6 +1,6 @@
 
 
-.. _Baron_General_-_LP_algorithm:
+.. _option-Baron-lp_algorithm:
 
 
 LP algorithm
@@ -28,7 +28,7 @@ This option specifies which algorithm the LP solver should use. At the default s
 
 **Learn more about** 
 
-*	:ref:`Baron_General_-_LP_solver` 
+*	:ref:`option-Baron-lp_solver` 
 
 
 

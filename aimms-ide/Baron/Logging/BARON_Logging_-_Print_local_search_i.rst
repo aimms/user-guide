@@ -1,6 +1,6 @@
 
 
-.. _Baron_Logging_-_Print_local_search_i:
+.. _option-Baron-print_local_search_information:
 
 
 Print local search information
@@ -26,7 +26,7 @@ This option controls the output from local search written to the results file. I
 
 **Learn more about** 
 
-*	:ref:`Baron_Logging_-_Keep_results_file` 
+*	:ref:`option-Baron-keep_results_file` 
 
 
 

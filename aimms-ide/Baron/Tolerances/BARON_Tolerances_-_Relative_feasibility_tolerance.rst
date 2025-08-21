@@ -1,4 +1,4 @@
-.. _Baron_Tolerances_-_Relative_feasibility_tolerance:
+.. _option-Baron-relative_feasibility_tolerance:
 
 
 Relative feasibility tolerance
@@ -18,4 +18,4 @@ This option specifies the relative constraint feasibility tolerance.
 
 **Learn more about** 
 
-*	:ref:`Baron_Tolerances_-_Absolute_feasibility_tolerance` 
+*	:ref:`option-Baron-absolute_feasibility_tolerance` 

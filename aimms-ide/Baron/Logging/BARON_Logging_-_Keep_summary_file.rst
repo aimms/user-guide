@@ -1,6 +1,6 @@
 
 
-.. _Baron_Logging_-_Keep_summary_file:
+.. _option-Baron-keep_summary_file:
 
 
 Keep summary file
@@ -34,7 +34,7 @@ This option determines whether the summary file should be kept after the model i
 
 **Learn more about** 
 
-*	:ref:`Baron_Logging_-_File_name` 
+*	:ref:`option-Baron-file_name` 
 *	:ref:`Options_Progress_Options_-_Progress_Time_Interval` 
 
 

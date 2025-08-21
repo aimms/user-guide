@@ -15,79 +15,79 @@ The table shows in the left column the AIMMS BARON options; the right column dis
 
    * - **Option name in AIMMS**
      - **Name in BARON**
-   * - :ref:`Baron_Branching_-_Point_selection_st`
+   * - :ref:`option-Baron-point_selection_strategy`
      - brptstra
-   * - :ref:`Baron_Branching_-_Node_select`
+   * - :ref:`option-Baron-node_selection`
      - nodesel
-   * - :ref:`Baron_Branching_-_Variable_selection`
+   * - :ref:`option-Baron-variable_selection_strategy`
      - brvarstra
-   * - :ref:`Baron_General_-_Automatically_set_mi`
+   * - :ref:`option-Baron-automatically_set_missing_bounds`
      - autobounds
-   * - :ref:`Baron_General_-_Compute_IIS`
+   * - :ref:`option-Baron-compute_iis`
      - compiis
-   * - :ref:`Baron_General_-_Cutoff`
+   * - :ref:`option-Baron-cut_off`
      - cutoff
-   * - :ref:`Baron_General_-_Find_feasible_soluti`
+   * - :ref:`option-Baron-find_feasible_solution_only`
      - firstfeas
-   * - :ref:`Baron_General_-_IIS_include_integers`
+   * - :ref:`option-Baron-iis_include_integers`
      - iisint
-   * - :ref:`Baron_General_-_Local_solution`
+   * - :ref:`option-Baron-local_solution`
      - firstloc
-   * - :ref:`Baron_General_-_LP_algorithm`
+   * - :ref:`option-Baron-lp_algorithm`
      - lpalg
-   * - :ref:`Baron_General_-_LP_solver`
+   * - :ref:`option-Baron-lp_solver`
      - lpsol
-   * - :ref:`Baron_General_-_NLP_solver`
+   * - :ref:`option-Baron-nlp_solver`
      - nlpsol
-   * - :ref:`Baron_General_-_Numberofbestsolutio`
+   * - :ref:`option-Baron-number_of_best_solutions`
      - numsol
-   * - :ref:`Baron_General_-_Solutiondistance`
+   * - :ref:`option-Baron-solution_distance`
      - isoltol
-   * - :ref:`Baron_Local_Search_Heuristic_-_Numbe`
+   * - :ref:`option-Baron-number_of_preprocessing_searches`
      - numloc
-   * - :ref:`Baron_Local_Search_Heuristic_-_Upper`
+   * - :ref:`option-Baron-upper_bounding`
      - dolocal
-   * - :ref:`Baron_Logging_-_Print_local_search_i`
+   * - :ref:`option-Baron-print_local_search_information`
      - locres
-   * - :ref:`Baron_Parallel_-_Thread_limit_MIP`
+   * - :ref:`option-Baron-thread_limit_mip`
      - threads
-   * - :ref:`Baron_Range_Reduction_-_Bounds_tight`
+   * - :ref:`option-Baron-bounds_tightening`
      - tdo
-   * - :ref:`Baron_Range_Reduction_-_Feasibility_`
+   * - :ref:`option-Baron-feasibility_based_tightening`
      - lbttdo
-   * - :ref:`Baron_Range_Reduction_-_Marginals_te`
+   * - :ref:`option-Baron-marginals_testing`
      - mdo
-   * - :ref:`Baron_Range_Reduction_-_Number_of_pr`
+   * - :ref:`option-Baron-number_of_probing_problems`
      - pdo
-   * - :ref:`Baron_Range_Reduction_-_Optimality_b`
+   * - :ref:`option-Baron-optimality_based_tightening`
      - obttdo
-   * - :ref:`Baron_Relaxation_-_Number_of_cutting`
+   * - :ref:`option-Baron-number_of_cutting_plane_rounds`
      - noutiter
-   * - :ref:`Baron_Relaxation_-_Number_of_grid_points`
+   * - :ref:`option-Baron-number_of_grid_points`
      - outgrid
-   * - :ref:`Baron_Relaxation_-_Number_of_outer_a`
+   * - :ref:`option-Baron-number_of_outer_approximators`
      - nouter1
-   * - :ref:`Baron_Relaxation_-_Number_of_outer_approximators_m`
+   * - :ref:`option-Baron-number_of_outer_approximators_multi`
      - noutpervar
-   * - :ref:`Baron_Termination_-_Absolute_improvement_tolerance`
+   * - :ref:`option-Baron-absolute_improvement_tolerance`
      - DeltaA
-   * - :ref:`Baron_Termination_-_Absolute_terminat`
+   * - :ref:`option-Baron-absolute_termination_tolerance`
      - epsa
-   * - :ref:`Baron_Termination_-_Insufficient_progress_terminat`
+   * - :ref:`option-Baron-insufficient_progress_termination`
      - DeltaTerm
-   * - :ref:`Baron_Termination_-_Insufficient_progress_time`
+   * - :ref:`option-Baron-insufficient_progress_time`
      - DeltaT
-   * - :ref:`Baron_Termination_-_Relative_improvement_tolerance`
+   * - :ref:`option-Baron-relative_improvement_tolerance`
      - DeltaD
-   * - :ref:`Baron_Termination_-_Relative_terminat`
+   * - :ref:`option-Baron-relative_termination_tolerance`
      - epsr
-   * - :ref:`Baron_Tolerances_-_Absolute_feasibility_tolerance`
+   * - :ref:`option-Baron-absolute_feasibility_tolerance`
      - AbsConFeasTol
-   * - :ref:`Baron_Tolerances_-_Absolute_Integrality_toler`
+   * - :ref:`option-Baron-absolute_integrality_tolerance`
      - AbsIntFeasTol
-   * - :ref:`Baron_Tolerances_-_Box_elimination_t`
+   * - :ref:`option-Baron-box_elimination_tolerance`
      - boxtol
-   * - :ref:`Baron_Tolerances_-_Relative_feasibility_tolerance`
+   * - :ref:`option-Baron-relative_feasibility_tolerance`
      - RelConFeasTol
-   * - :ref:`Baron_Tolerances_-_Relative_Integrality_toler`
+   * - :ref:`option-Baron-relative_integrality_tolerance`
      - RelIntFeasTol

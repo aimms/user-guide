@@ -1,4 +1,4 @@
-.. _Baron_Tolerances_-_Relative_Integrality_toler:
+.. _option-Baron-relative_integrality_tolerance:
 
 
 Relative integrality tolerance
@@ -18,4 +18,4 @@ This option specifies the relative integer feasibility tolerance.
 
 **Learn more about** 
 
-*	:ref:`Baron_Tolerances_-_Absolute_Integrality_toler` 
+*	:ref:`option-Baron-absolute_integrality_tolerance` 

@@ -1,6 +1,6 @@
 
 
-.. _Baron_Range_Reduction_-_Number_of_pr:
+.. _option-Baron-number_of_probing_problems:
 
 
 Number of probing problems

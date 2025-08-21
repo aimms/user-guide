@@ -1,6 +1,6 @@
 
 
-.. _Baron_General_-_Compute_IIS:
+.. _option-Baron-compute_iis:
 
 
 Compute IIS
@@ -42,5 +42,5 @@ The option **IIS Include Integers**  determines whether or not general integer v
 
 **Learn more about** 
 
-*	:ref:`Baron_General_-_IIS_include_integers` 
+*	:ref:`option-Baron-iis_include_integers` 
 *	:ref:`Options_Solution_-_Infeasibility_Finde`  

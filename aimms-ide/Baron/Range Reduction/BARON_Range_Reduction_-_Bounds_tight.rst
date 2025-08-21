@@ -1,6 +1,6 @@
 
 
-.. _Baron_Range_Reduction_-_Bounds_tight:
+.. _option-Baron-bounds_tightening:
 
 
 Bounds tightening
@@ -33,7 +33,7 @@ This option specifies the nonlinear feasibility-based range reduction/tightening
 
 **Learn more about** 
 
-*	:ref:`Baron_Range_Reduction_-_Feasibility_` 
+*	:ref:`option-Baron-feasibility_based_tightening` 
 
 
 

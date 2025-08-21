@@ -1,6 +1,6 @@
 
 
-.. _Baron_General_-_Numberofbestsolutio:
+.. _option-Baron-number_of_best_solutions:
 
 
 Number of best solutions
@@ -29,7 +29,7 @@ the second best solution for the mathematical program 'frac1' will be send to th
 **Learn more about** 
 
 *	:any:`GMP::Solution::SendToModel`
-*	:ref:`Baron_General_-_Solutiondistance` 
+*	:ref:`option-Baron-solution_distance` 
 
 
 

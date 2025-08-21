@@ -1,6 +1,6 @@
 
 
-.. _Baron_General_-_Find_feasible_soluti:
+.. _option-Baron-find_feasible_solution_only:
 
 
 Find feasible solution only

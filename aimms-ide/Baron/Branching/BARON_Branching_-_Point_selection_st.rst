@@ -1,6 +1,6 @@
 
 
-.. _Baron_Branching_-_Point_selection_st:
+.. _option-Baron-point_selection_strategy:
 
 
 Point selection strategy

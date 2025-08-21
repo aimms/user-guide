@@ -1,4 +1,4 @@
-.. _Baron_Relaxation_-_Number_of_grid_points:
+.. _option-Baron-number_of_grid_points:
 
 
 Number of grid points

@@ -1,6 +1,6 @@
 
 
-.. _Baron_Branching_-_Node_select:
+.. _option-Baron-node_selection:
 
 
 Node selection

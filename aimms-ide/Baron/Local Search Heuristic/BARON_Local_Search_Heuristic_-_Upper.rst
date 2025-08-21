@@ -1,6 +1,6 @@
 
 
-.. _Baron_Local_Search_Heuristic_-_Upper:
+.. _option-Baron-upper_bounding:
 
 
 Upper bounding

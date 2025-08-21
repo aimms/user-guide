@@ -1,6 +1,6 @@
 
 
-.. _Baron_General_-_Automatically_set_mi:
+.. _option-Baron-automatically_set_missing_bounds:
 
 
 Automatically set missing bounds

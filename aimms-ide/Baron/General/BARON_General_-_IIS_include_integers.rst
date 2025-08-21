@@ -1,6 +1,6 @@
 
 
-.. _Baron_General_-_IIS_include_integers:
+.. _option-Baron-iis_include_integers:
 
 
 IIS include integers
@@ -32,4 +32,4 @@ If this option is switched on then general integer variables should be considere
 
 **Learn more about** 
 
-*	:ref:`Baron_General_-_Compute_IIS` 
+*	:ref:`option-Baron-compute_iis` 

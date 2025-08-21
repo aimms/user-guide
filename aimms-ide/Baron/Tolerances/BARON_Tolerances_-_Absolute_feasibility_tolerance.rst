@@ -1,4 +1,4 @@
-.. _Baron_Tolerances_-_Absolute_feasibility_tolerance:
+.. _option-Baron-absolute_feasibility_tolerance:
 
 
 Absolute feasibility tolerance
@@ -18,4 +18,4 @@ This option specifies the absolute constraint feasibility tolerance.
 
 **Learn more about** 
 
-*	:ref:`Baron_Tolerances_-_Relative_feasibility_tolerance` 
+*	:ref:`option-Baron-relative_feasibility_tolerance` 

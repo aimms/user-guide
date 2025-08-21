@@ -1,6 +1,6 @@
 
 
-.. _Baron_Local_Search_Heuristic_-_Numbe:
+.. _option-Baron-number_of_preprocessing_searches:
 
 
 Number of preprocessing searches

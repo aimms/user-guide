@@ -1,6 +1,6 @@
 
 
-.. _Baron_Logging_-_Keep_times_file:
+.. _option-Baron-keep_times_file:
 
 
 Keep times file
@@ -33,7 +33,7 @@ This option determines whether the times file should be kept after the model is 
 
 **Learn more about** 
 
-*	:ref:`Baron_Logging_-_File_name` 
+*	:ref:`option-Baron-file_name` 
 
 
 

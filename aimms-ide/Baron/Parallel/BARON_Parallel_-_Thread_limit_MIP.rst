@@ -1,6 +1,6 @@
 
 
-.. _Baron_Parallel_-_Thread_limit_MIP:
+.. _option-Baron-thread_limit_mip:
 
 
 Thread limit MIP

@@ -1,6 +1,6 @@
 
 
-.. _Baron_General_-_Maximal_variable_bound:
+.. _option-Baron-maximal_variable_bound:
 
 
 Maximal variable bound

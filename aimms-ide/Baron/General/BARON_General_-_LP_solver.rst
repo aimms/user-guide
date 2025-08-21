@@ -1,6 +1,6 @@
 
 
-.. _Baron_General_-_LP_solver:
+.. _option-Baron-lp_solver:
 
 
 LP solver

@@ -1,4 +1,4 @@
-.. _Baron_Relaxation_-_Number_of_outer_a:
+.. _option-Baron-number_of_outer_approximators:
 
 
 Number of outer approximators

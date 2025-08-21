@@ -1,6 +1,6 @@
 
 
-.. _Baron_Logging_-_Pass_model_names:
+.. _option-Baron-pass_model_names:
 
 
 Pass model names
@@ -35,7 +35,7 @@ If this option is turned on, the AIMMS names of the variables and constraints ar
 
 **Learn more about** 
 
-*	:ref:`Baron_Logging_-_Keep_model_file` 
+*	:ref:`option-Baron-keep_model_file` 
 
 
 

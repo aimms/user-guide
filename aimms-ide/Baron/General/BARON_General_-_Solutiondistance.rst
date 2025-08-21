@@ -1,6 +1,6 @@
 
 
-.. _Baron_General_-_Solutiondistance:
+.. _option-Baron-solution_distance:
 
 
 Solution distance
@@ -28,7 +28,7 @@ The distance between two solutions x and y is calculated according to the infini
 
 **Learn more about** 
 
-*	:ref:`Baron_General_-_Numberofbestsolutio` 
+*	:ref:`option-Baron-number_of_best_solutions` 
 
 
 

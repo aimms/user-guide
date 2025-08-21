@@ -1,6 +1,6 @@
 
 
-.. _Baron_Logging_-_Model_file_page_widt:
+.. _option-Baron-model_file_page_width:
 
 
 Model file page width
@@ -20,7 +20,7 @@ This option specifies the page width, in characters, used when creating the mode
 
 **Learn more about** 
 
-*	:ref:`Baron_Logging_-_Keep_model_file` 
+*	:ref:`option-Baron-keep_model_file` 
 
 
 

@@ -1,6 +1,6 @@
 
 
-.. _Baron_Range_Reduction_-_Feasibility_:
+.. _option-Baron-feasibility_based_tightening:
 
 
 Feasibility based tightening
@@ -33,4 +33,4 @@ This option specifies the linear feasibility-based range reduction/tightening (p
 
 **Learn more about** 
 
-*	:ref:`Baron_Range_Reduction_-_Bounds_tight` 
+*	:ref:`option-Baron-bounds_tightening` 

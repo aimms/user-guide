@@ -1,4 +1,4 @@
-.. _Baron_Termination_-_Absolute_terminat:
+.. _option-Baron-absolute_termination_tolerance:
 
 
 Absolute termination tolerance
@@ -18,7 +18,7 @@ BARON terminates if U - L <= e, where U and L are the lower and upper bounds to 
 
 **Learn more about** 
 
-*	:ref:`Baron_Termination_-_Relative_terminat` 
+*	:ref:`option-Baron-relative_termination_tolerance` 
 
 
 
