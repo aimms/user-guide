@@ -37,7 +37,7 @@ Setting 'Use partial solutions' means that COPT will only load feasible MIP star
 
 **Note** 
 
-*	COPT also supports :ref:`option-COPT-multiple_mip_starts` .
+*	COPT also supports :ref:`COPT_Multiple_MIP_Starts` .
 
 
 
@@ -45,7 +45,7 @@ Setting 'Use partial solutions' means that COPT will only load feasible MIP star
 **Learn more about** 
 
 *	:ref:`option-COPT-mip_start_node_limit` 
-*	:ref:`option-COPT-multiple_mip_starts` 
+*	:ref:`COPT_Multiple_MIP_Starts` 
 
 
 
