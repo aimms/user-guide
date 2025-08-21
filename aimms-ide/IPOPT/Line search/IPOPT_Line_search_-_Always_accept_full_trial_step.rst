@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Line_search_-_Always_accept_full_trial_step:
+.. _option-IPOPT-always_accept_full_trial_step:
 
 
 Always accept full trial step

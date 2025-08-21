@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Barrier_-_Adaptive_strategy_factor_limit:
+.. _option-IPOPT-adaptive_strategy_factor_limit:
 
 
 Adaptive strategy factor limit
@@ -27,4 +27,4 @@ This option specifies the factor for initialization of maximum value for the bar
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Barrier_-_Barrier_parameter_update_strategy` 
+*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 

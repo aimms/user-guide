@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_NLP_scaling_-_Maximum_gradient_after_NLP_scaling:
+.. _option-IPOPT-maximum_gradient_after_nlp_scaling:
 
 
 Maximum gradient after NLP scaling
@@ -27,4 +27,4 @@ This option sets the gradient scaling cut-off. If the maximum gradient is above 
 
 **Learn more about** 
 
-*	:ref:`IPOPT_NLP_scaling_-_NLP_scaling_method` 
+*	:ref:`option-IPOPT-nlp_scaling_method` 

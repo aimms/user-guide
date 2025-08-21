@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_NLP_scaling_-_NLP_scaling_method:
+.. _option-IPOPT-nlp_scaling_method:
 
 
 NLP scaling method
@@ -39,4 +39,4 @@ Setting 'Equilibration based' means: scale the problem so that first derivatives
 
 **Learn more about** 
 
-*	:ref:`IPOPT_NLP_scaling_-_Maximum_gradient_after_NLP_scaling` 
+*	:ref:`option-IPOPT-maximum_gradient_after_nlp_scaling` 

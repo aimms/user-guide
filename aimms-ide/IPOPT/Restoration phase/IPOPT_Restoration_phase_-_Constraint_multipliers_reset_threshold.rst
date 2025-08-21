@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Restoration_phase_-_Constraint_multipliers_reset_threshold:
+.. _option-IPOPT-constraint_multipliers_reset_threshold:
 
 
 Constraint multipliers reset threshold

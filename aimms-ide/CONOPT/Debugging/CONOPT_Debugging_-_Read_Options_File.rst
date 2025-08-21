@@ -21,7 +21,7 @@ If this option is turned on, CONOPT will read options from the option file named
 
 
 
-The option file uses the CONOPT names of the options, which can be found in the :ref:`CONOPT_AIMMS_to_CONOPT_Mapping` .
+The option file uses the CONOPT names of the options, which can be found in the :ref:`AIMMS_to_CONOPT_Mapping`.
 
 
 
@@ -29,4 +29,4 @@ The option file uses the CONOPT names of the options, which can be found in the 
 
 **Learn more about** 
 
-*	:ref:`CONOPT_AIMMS_to_CONOPT_Mapping` 
+*	:ref:`AIMMS_to_CONOPT_Mapping` 

@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_NLP_-_Assume_equality_constraints_are_linear:
+.. _option-IPOPT-assume_equality_constraints_are_linear:
 
 
 Assume equality constraints are linear

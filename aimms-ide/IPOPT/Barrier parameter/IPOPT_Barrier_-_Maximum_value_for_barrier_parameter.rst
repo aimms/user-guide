@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Barrier_-_Maximum_value_for_barrier_parameter:
+.. _option-IPOPT-maximum_value_for_barrier_parameter:
 
 
 Maximum value for barrier parameter
@@ -24,5 +24,5 @@ This option is only used if 'Adaptive' is selected for option **Barrier Paramete
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Barrier_-_Adaptive_strategy_factor_limit` 
-*	:ref:`IPOPT_Barrier_-_Barrier_parameter_update_strategy` 
+*	:ref:`option-IPOPT-adaptive_strategy_factor_limit` 
+*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 

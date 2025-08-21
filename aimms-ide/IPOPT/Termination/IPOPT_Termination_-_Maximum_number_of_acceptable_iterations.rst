@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Termination_-_Maximum_number_of_acceptable_iterations:
+.. _option-IPOPT-maximum_number_of_acceptable_iterations:
 
 
 Maximum number of acceptable iterations
@@ -20,4 +20,4 @@ This option sets the number of "acceptable" iterates before triggering terminati
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Termination_-_Acceptable_relative_convergence_tolerance` 
+*	:ref:`option-IPOPT-acceptable_relative_convergence_tolerance` 

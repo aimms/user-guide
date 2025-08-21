@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Termination_-_Acceptable_constraint_violation_tolerance:
+.. _option-IPOPT-acceptable_constraint_violation_tolerance:
 
 
 Acceptable constraint violation tolerance
@@ -20,4 +20,4 @@ This option specifies the acceptable absolute tolerance on the constraint violat
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Termination_-_Acceptable_relative_convergence_tolerance` 
+*	:ref:`option-IPOPT-acceptable_relative_convergence_tolerance` 

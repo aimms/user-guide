@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Hessian_perturbation_-_First_Hessian_perturbation_increase_factor:
+.. _option-IPOPT-first_hessian_perturbation_increase_factor:
 
 First Hessian perturbation increase factor
 ==========================================
@@ -19,4 +19,4 @@ This option sets the increase factor for x-s perturbation for the very first per
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Hessian_perturbation_-_Hessian_perturbation_increase_factor` 
+*	:ref:`option-IPOPT-hessian_perturbation_increase_factor` 

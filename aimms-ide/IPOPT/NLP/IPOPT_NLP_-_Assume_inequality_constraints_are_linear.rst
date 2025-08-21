@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_NLP_-_Assume_inequality_constraints_are_linear:
+.. _option-IPOPT-assume_inequality_constraints_are_linear:
 
 
 Assume inequality constraints are linear

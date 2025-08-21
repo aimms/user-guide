@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Output_-_Print_all_available_algorithmic_options:
+.. _option-IPOPT-print_all_available_algorithmic_options:
 
 
 Print all available algorithmic options
@@ -26,4 +26,4 @@ Switch to print all algorithmic options. If selected, the algorithm will print t
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Output_-_Status_file` 
+*	:ref:`option-IPOPT-status_file` 

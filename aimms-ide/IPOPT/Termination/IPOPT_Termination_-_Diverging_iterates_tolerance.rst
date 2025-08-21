@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Termination_-_Diverging_iterates_tolerance:
+.. _option-IPOPT-diverging_iterates_tolerance:
 
 
 Diverging iterates tolerance

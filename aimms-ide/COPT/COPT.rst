@@ -68,7 +68,7 @@ When solving a problem COPT allows variables to slightly violate their bounds as
 
 *	`COPT <https://www.cardopt.com/copt>`_ (Internet link)
 *	:ref:`COPT_to_AIMMS_Mapping`  
-*	:ref:`COPT_AIMMS_to_COPT_Mapping`  
+*	:ref:`AIMMS_to_COPT_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	:ref:`COPT_Multiple_MIP_Starts` 
 *	:ref:`COPT_Quadratic_Programs` 

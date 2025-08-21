@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_Linear_solver_selection:
+.. _option-IPOPT-linear_solver_selection:
 
 
 Linear solver selection
@@ -59,7 +59,7 @@ The Pardiso DLL or HSL DLL should be placed in the Solvers directory of the AIMM
 
 
 
-Instructions for building the HSL DLL can be found in the section :ref:`IPOPT_HSL_libraries` . 
+Instructions for building the HSL DLL can be found in the section :ref:`HSL_libraries`. 
 Information about the recommended HSL solver can be found in the `HSL for IPOPT <https://licences.stfc.ac.uk/product/coin-hsl>`_ link.
 
 
@@ -74,7 +74,7 @@ See the prerequisites for IPOPT for more information on these third party compon
 
 **Learn more about** 
 
-*	:ref:`IPOPT_HSL_libraries` 
+*	:ref:`HSL_libraries` 
 *	`IPOPT: Prerequisites <https://coin-or.github.io/Ipopt/INSTALL.html>`_ (Internet link)
 *	`MUMPS <https://mumps-solver.org>`_ (Internet link)
 *	`HSL for IPOPT <https://licences.stfc.ac.uk/product/coin-hsl>`_ (Internet link)

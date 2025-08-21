@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_NLP_scaling_-_Objective_function_scaling_factor:
+.. _option-IPOPT-objective_function_scaling_factor:
 
 
 Objective function scaling factor
@@ -20,4 +20,4 @@ This option sets a scaling factor for the objective function. The scaling is see
 
 **Learn more about** 
 
-*	:ref:`IPOPT_NLP_scaling_-_NLP_scaling_method` 
+*	:ref:`option-IPOPT-nlp_scaling_method` 

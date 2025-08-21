@@ -1,6 +1,6 @@
 
 
-.. _COPT_AIMMS_to_COPT_Mapping:
+.. _AIMMS_to_COPT_Mapping:
 
 
 AIMMS to COPT Mapping

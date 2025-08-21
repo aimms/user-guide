@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_NLP_-_Minus_infinity_lower_bound:
+.. _option-IPOPT-minus_infinity_lower_bound:
 
 
 Minus infinity lower bound
@@ -20,4 +20,4 @@ Any bound less than or equal to this value will be considered -inf (i.e., not lo
 
 **Learn more about** 
 
-*	:ref:`IPOPT_NLP_-_Infinity_upper_bound` 
+*	:ref:`option-IPOPT-infinity_upper_bound` 

@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Multipliers_-_Equality_multipliers_switch_tolerance:
+.. _option-IPOPT-equality_multipliers_switch_tolerance:
 
 
 Equality multipliers switch tolerance
@@ -20,4 +20,4 @@ This option specifies the tolerance for switching to full equality multiplier st
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Multipliers_-_Constraint_multipliers_step_size_method` 
+*	:ref:`option-IPOPT-constraint_multipliers_step_size_method` 

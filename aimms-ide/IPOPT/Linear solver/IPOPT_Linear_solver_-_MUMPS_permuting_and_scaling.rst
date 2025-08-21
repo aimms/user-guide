@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_MUMPS_permuting_and_scaling:
+.. _option-IPOPT-mumps_permuting_and_scaling:
 
 
 MUMPS permuting and scaling
@@ -27,4 +27,4 @@ This option controls permuting and scaling in MUMPS. (This is ICNTL(6) in MUMPS.
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_solver_selection` 
+*	:ref:`option-IPOPT-linear_solver_selection` 

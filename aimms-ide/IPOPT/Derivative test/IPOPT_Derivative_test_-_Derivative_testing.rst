@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Derivative_test_-_Derivative_testing:
+.. _option-IPOPT-derivative_testing:
 
 
 Derivative testing

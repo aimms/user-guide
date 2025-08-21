@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Restoration_phase_-_Maximum_multipliers_infeasible_problem:
+.. _option-IPOPT-maximum_multipliers_infeasible_problem:
 
 
 Maximum multipliers infeasible problem
@@ -20,4 +20,4 @@ This option sets the multiplier threshold for activating the **Quickly Detect In
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Restoration_phase_-_Quickly_detect_infeasible_problem` 
+*	:ref:`option-IPOPT-quickly_detect_infeasible_problem` 

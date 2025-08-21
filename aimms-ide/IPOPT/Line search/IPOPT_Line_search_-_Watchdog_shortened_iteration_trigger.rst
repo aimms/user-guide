@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Line_search_-_Watchdog_shortened_iteration_trigger:
+.. _option-IPOPT-watchdog_shortened_iteration_trigger:
 
 
 Watchdog shortened iteration trigger

@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Quasi-Newton_-_Hessian_approximation_successive_iterations_limit:
+.. _option-IPOPT-hessian_approximation_successive_iterations_limit:
 
 
 Hessian approximation successive iterations limit
@@ -27,4 +27,4 @@ This option specifies the threshold for successive iterations where update is sk
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Quasi-Newton_-_Method_for_Hessian_computation` 
+*	:ref:`option-IPOPT-method_for_hessian_computation` 

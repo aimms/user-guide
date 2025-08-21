@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Termination_-_Complementarity_tolerance:
+.. _option-IPOPT-complementarity_tolerance:
 
 
 Complementarity tolerance

@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Hessian_perturbation_-_Jacobian_regularization_value:
+.. _option-IPOPT-jacobian_regularization_value:
 
 
 Jacobian regularization value

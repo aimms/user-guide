@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Barrier_-_Barrier_parameter_initial_value:
+.. _option-IPOPT-barrier_parameter_initial_value:
 
 
 Barrier parameter initial value
@@ -20,4 +20,4 @@ This option determines the initial value for the barrier parameter (mu). It is o
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Barrier_-_Barrier_parameter_update_strategy` 
+*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 

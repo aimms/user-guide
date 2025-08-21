@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Multipliers_-_Recalculate_constraint_multipliers:
+.. _option-IPOPT-recalculate_constraint_multipliers:
 
 
 Recalculate constraint multipliers
@@ -30,4 +30,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Multipliers_-_Recalculate_constraint_multipliers_tolerance` 
+*	:ref:`option-IPOPT-recalculate_constraint_multipliers_tolerance` 

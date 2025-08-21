@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Termination_-_Acceptable_relative_convergence_tolerance:
+.. _option-IPOPT-acceptable_relative_convergence_tolerance:
 
 
 Acceptable relative convergence tolerance
@@ -20,6 +20,6 @@ This option determines which (scaled) overall optimality error is considered to 
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Termination_-_Dual_infeasibility_tolerance` 
-*	:ref:`IPOPT_Termination_-_Maximum_number_of_acceptable_iterations` 
-*	:ref:`IPOPT_Termination_-_Relative_convergence_tolerance` 
+*	:ref:`option-IPOPT-dual_infeasibility_tolerance` 
+*	:ref:`option-IPOPT-maximum_number_of_acceptable_iterations` 
+*	:ref:`option-IPOPT-relative_convergence_tolerance` 

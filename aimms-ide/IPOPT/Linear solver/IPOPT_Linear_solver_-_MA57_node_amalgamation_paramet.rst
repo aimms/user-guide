@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_MA57_node_amalgamation_paramet:
+.. _option-IPOPT-ma57_node_amalgamation_parameter:
 
 
 MA57 node amalgamation parameter
@@ -26,4 +26,4 @@ This option controls the node amalgamation for the linear solver MA57.
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_solver_selection` 
+*	:ref:`option-IPOPT-linear_solver_selection` 

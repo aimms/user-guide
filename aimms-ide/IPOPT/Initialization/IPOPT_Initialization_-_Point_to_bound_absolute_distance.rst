@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Initialization_-_Point_to_bound_absolute_distance:
+.. _option-IPOPT-point_to_bound_absolute_distance:
 
 
 Point to bound absolute distance
@@ -20,4 +20,4 @@ This option determines how much the initial point might have to be modified in o
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Initialization_-_Point_to_bound_relative_distance` 
+*	:ref:`option-IPOPT-point_to_bound_relative_distance` 

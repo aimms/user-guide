@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_MA57_small_pivot_parameter:
+.. _option-IPOPT-ma57_small_pivot_parameter:
 
 
 MA57 small pivot parameter
@@ -33,4 +33,4 @@ If this option is switched on, then when small entries are detected by the linea
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_solver_selection` 
+*	:ref:`option-IPOPT-linear_solver_selection` 

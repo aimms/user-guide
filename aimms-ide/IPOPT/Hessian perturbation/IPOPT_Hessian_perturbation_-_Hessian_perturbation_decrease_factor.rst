@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Hessian_perturbation_-_Hessian_perturbation_decrease_factor:
+.. _option-IPOPT-hessian_perturbation_decrease_factor:
 
 
 Hessian perturbation decrease factor

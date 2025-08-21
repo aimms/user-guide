@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Restoration_phase_-_Quickly_detect_infeasible_problem:
+.. _option-IPOPT-quickly_detect_infeasible_problem:
 
 Quickly detect infeasible problem
 =================================
@@ -25,5 +25,5 @@ This option can be used to enable heuristics to quickly detect an infeasible pro
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Restoration_phase_-_Maximum_multipliers_infeasible_problem` 
-*	:ref:`IPOPT_Restoration_phase_-_Minimum_violation_infeasible_problem` 
+*	:ref:`option-IPOPT-maximum_multipliers_infeasible_problem` 
+*	:ref:`option-IPOPT-minimum_violation_infeasible_problem` 

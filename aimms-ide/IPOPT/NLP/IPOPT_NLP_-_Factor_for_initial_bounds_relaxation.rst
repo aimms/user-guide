@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_NLP_-_Factor_for_initial_bounds_relaxation:
+.. _option-IPOPT-factor_for_initial_bounds_relaxation:
 
 
 Factor for initial bounds relaxation

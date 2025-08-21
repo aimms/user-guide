@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Output_-_Status_file:
+.. _option-IPOPT-status_file:
 
 
 Status file
@@ -32,4 +32,4 @@ Use option **Output Verbosity Level**  to control the amount of information prin
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Output_-_Output_verbosity_level` 
+*	:ref:`option-IPOPT-output_verbosity_level` 

@@ -40,7 +40,7 @@ The principle in common between these two pools allows the optimization algorith
 **Learn more about** 
 
 *	:ref:`option-GUROBI-dual_reductions` 
-*	:ref:`option-GUROBI-indicator_constraints` 
+*	:ref:`GUROBI_Indicator_Constraints` 
 *	:ref:`option-GUROBI-lazy_constraint_mode`  
 *	:any:`GMP::Instance::SetCallbackAddCut`
 *	:any:`GMP::Instance::SetCallbackAddLazyConstraint`

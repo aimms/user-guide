@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Barrier_-_Minimum_value_for_barrier_parameter:
+.. _option-IPOPT-minimum_value_for_barrier_parameter:
 
 
 Minimum value for barrier parameter
@@ -32,10 +32,10 @@ This option is only used if 'Adaptive' is selected for option **Barrier Paramete
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Barrier_-_Barrier_convergence_tolerance_factor` 
-*	:ref:`IPOPT_Barrier_-_Barrier_parameter_update_strategy` 
-*	:ref:`IPOPT_Termination_-_Complementarity_tolerance` 
-*	:ref:`IPOPT_Termination_-_Relative_convergence_tolerance` 
+*	:ref:`option-IPOPT-barrier_convergence_tolerance_factor` 
+*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 
+*	:ref:`option-IPOPT-complementarity_tolerance` 
+*	:ref:`option-IPOPT-relative_convergence_tolerance` 
 
 
 

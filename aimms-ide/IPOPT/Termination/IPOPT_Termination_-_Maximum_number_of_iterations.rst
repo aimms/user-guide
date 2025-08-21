@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Termination_-_Maximum_number_of_iterations:
+.. _option-IPOPT-maximum_number_of_iterations:
 
 
 Maximum number of iterations

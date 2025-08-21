@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_NLP_-_Assume_quadratic_problem:
+.. _option-IPOPT-assume_quadratic_problem:
 
 
 Assume quadratic problem

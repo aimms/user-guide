@@ -119,7 +119,7 @@ The procedure :any:`GMP::SolverSession::AsynchronousExecute` should be used to s
 **Learn more about** 
 
 *	:ref:`CONOPT_to_AIMMS_Mapping`  
-*	:ref:`CONOPT_AIMMS_to_CONOPT_Mapping`  
+*	:ref:`AIMMS_to_CONOPT_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	:ref:`CONOPT_Description_of_CONOPT_Algorithm` 
 *	:ref:`CONOPTTroubleshooting` 

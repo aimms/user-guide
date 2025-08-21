@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Restoration_phase_-_Required_infeasibility_reduction:
+.. _option-IPOPT-required_infeasibility_reduction:
 
 
 Required infeasibility reduction

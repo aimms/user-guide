@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_NLP_-_Fixed_variable_handling:
+.. _option-IPOPT-fixed_variable_handling:
 
 
 Fixed variable handling
@@ -33,4 +33,4 @@ The main difference between the possible settings is that the starting point in 
 
 **Learn more about** 
 
-*	:ref:`IPOPT_NLP_-_Factor_for_initial_bounds_relaxation` 
+*	:ref:`option-IPOPT-factor_for_initial_bounds_relaxation` 

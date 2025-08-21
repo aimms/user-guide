@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Restoration_phase_-_Force_start_in_restoration_phase:
+.. _option-IPOPT-force_start_in_restoration_phase:
 
 
 Force start in restoration phase

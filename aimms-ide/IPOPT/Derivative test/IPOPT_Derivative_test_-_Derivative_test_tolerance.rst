@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Derivative_test_-_Derivative_test_tolerance:
+.. _option-IPOPT-derivative_test_tolerance:
 
 
 Derivative test tolerance

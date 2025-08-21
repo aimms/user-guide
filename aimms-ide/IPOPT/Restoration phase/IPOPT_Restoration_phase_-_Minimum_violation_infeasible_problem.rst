@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Restoration_phase_-_Minimum_violation_infeasible_problem:
+.. _option-IPOPT-minimum_violation_infeasible_problem:
 
 
 Minimum violation infeasible problem
@@ -20,4 +20,4 @@ This option sets the threshold for disabling **Quickly Detect Infeasible Problem
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Restoration_phase_-_Quickly_detect_infeasible_problem` 
+*	:ref:`option-IPOPT-quickly_detect_infeasible_problem` 

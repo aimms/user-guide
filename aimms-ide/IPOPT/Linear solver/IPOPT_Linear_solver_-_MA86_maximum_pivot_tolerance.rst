@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_MA86_maximum_pivot_tolerance:
+.. _option-IPOPT-ma86_maximum_pivot_tolerance:
 
 
 MA86 maximum pivot tolerance
@@ -27,5 +27,5 @@ This option specifies the maximum pivot tolerance for the linear solver MA86. IP
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_solver_selection` 
-*	:ref:`IPOPT_Linear_solver_-_MA86_pivot_tolerance` 
+*	:ref:`option-IPOPT-linear_solver_selection` 
+*	:ref:`option-IPOPT-ma86_pivot_tolerance` 

@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Derivative_test_-_Derivative_checker_verbosity:
+.. _option-IPOPT-derivative_checker_verbosity:
 
 
 Derivative checker verbosity

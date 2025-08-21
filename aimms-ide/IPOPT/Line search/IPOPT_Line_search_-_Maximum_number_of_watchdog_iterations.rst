@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Line_search_-_Maximum_number_of_watchdog_iterations:
+.. _option-IPOPT-maximum_number_of_watchdog_iterations:
 
 
 Maximum number of watchdog iterations

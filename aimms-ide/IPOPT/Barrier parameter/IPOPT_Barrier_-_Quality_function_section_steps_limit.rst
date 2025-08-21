@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Barrier_-_Quality_function_section_steps_limit:
+.. _option-IPOPT-quality_function_section_steps_limit:
 
 
 Quality function section steps limit
@@ -24,4 +24,4 @@ This option is only used if 'Quality function' is selected for option **Adaptive
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Barrier_-_Adaptive_strategy_oracle` 
+*	:ref:`option-IPOPT-adaptive_strategy_oracle` 

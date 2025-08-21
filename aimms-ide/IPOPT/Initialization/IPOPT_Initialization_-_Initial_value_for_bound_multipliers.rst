@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Initialization_-_Initial_value_for_bound_multipliers:
+.. _option-IPOPT-initial_value_for_bound_multipliers:
 
 
 Initial value for bound multipliers

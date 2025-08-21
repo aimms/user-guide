@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Hessian_perturbation_-_Maximum_Hessian_perturbation:
+.. _option-IPOPT-maximum_hessian_perturbation:
 
 
 Maximum Hessian perturbation

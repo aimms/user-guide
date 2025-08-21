@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Quasi-Newton_-_Method_for_Hessian_computation:
+.. _option-IPOPT-method_for_hessian_computation:
 
 
 Method for Hessian computation

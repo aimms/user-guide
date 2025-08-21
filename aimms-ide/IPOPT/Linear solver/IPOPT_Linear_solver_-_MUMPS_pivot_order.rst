@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_MUMPS_pivot_order:
+.. _option-IPOPT-mumps_pivot_order:
 
 
 MUMPS pivot order
@@ -27,4 +27,4 @@ Controls pivot order in MUMPS. (This is ICNTL(7) in MUMPS.)
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_solver_selection` 
+*	:ref:`option-IPOPT-linear_solver_selection` 

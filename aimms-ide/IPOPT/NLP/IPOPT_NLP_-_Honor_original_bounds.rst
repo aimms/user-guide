@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_NLP_-_Honor_original_bounds:
+.. _option-IPOPT-honor_original_bounds:
 
 
 Honor original bounds
@@ -26,4 +26,4 @@ This option indicates whether final points should be projected into original bou
 
 **Learn more about** 
 
-*	:ref:`IPOPT_NLP_-_Factor_for_initial_bounds_relaxation` 
+*	:ref:`option-IPOPT-factor_for_initial_bounds_relaxation` 

@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Barrier_-_Barrier_convergence_tolerance_factor:
+.. _option-IPOPT-barrier_convergence_tolerance_factor:
 
 
 Barrier convergence tolerance factor
@@ -24,4 +24,4 @@ This option is also used in the adaptive barrier parameter strategy during the m
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Barrier_-_Barrier_parameter_update_strategy` 
+*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 

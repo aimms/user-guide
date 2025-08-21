@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Termination_-_Relative_convergence_tolerance:
+.. _option-IPOPT-relative_convergence_tolerance:
 
 
 Relative convergence tolerance
@@ -20,6 +20,6 @@ This option determines the convergence tolerance for the algorithm. The algorith
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Termination_-_Acceptable_relative_convergence_tolerance` 
-*	:ref:`IPOPT_Termination_-_Complementarity_tolerance` 
-*	:ref:`IPOPT_Termination_-_Dual_infeasibility_tolerance` 
+*	:ref:`option-IPOPT-acceptable_relative_convergence_tolerance` 
+*	:ref:`option-IPOPT-complementarity_tolerance` 
+*	:ref:`option-IPOPT-dual_infeasibility_tolerance` 

@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Barrier_-_Execute_Mehrotra_algorithm:
+.. _option-IPOPT-execute_mehrotra_algorithm:
 
 
 Execute Mehrotra algorithm
@@ -36,9 +36,9 @@ Also, unless otherwise specified, the values of the options **Slack to Bound Min
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Barrier_-_Adaptive_strategy_oracle` 
-*	:ref:`IPOPT_Line_search_-_Corrector_steps_type` 
-*	:ref:`IPOPT_Multipliers_-_Equality_multipliers_switch_tolerance` 
-*	:ref:`IPOPT_Initialization_-_Initial_value_for_bound_multipliers` 
-*	:ref:`IPOPT_Initialization_-_Point_to_bound_absolute_distance` 
-*	:ref:`IPOPT_Initialization_-_Point_to_bound_relative_distance` 
+*	:ref:`option-IPOPT-adaptive_strategy_oracle` 
+*	:ref:`option-IPOPT-corrector_steps_type` 
+*	:ref:`option-IPOPT-equality_multipliers_switch_tolerance` 
+*	:ref:`option-IPOPT-initial_value_for_bound_multipliers` 
+*	:ref:`option-IPOPT-point_to_bound_absolute_distance` 
+*	:ref:`option-IPOPT-point_to_bound_relative_distance` 

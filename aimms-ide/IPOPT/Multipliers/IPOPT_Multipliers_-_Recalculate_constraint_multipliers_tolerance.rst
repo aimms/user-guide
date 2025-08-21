@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Multipliers_-_Recalculate_constraint_multipliers_tolerance:
+.. _option-IPOPT-recalculate_constraint_multipliers_tolerance:
 
 
 Recalculate constraint multipliers tolerance
@@ -20,4 +20,4 @@ This option specifies the feasibility threshold for recomputation of multipliers
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Multipliers_-_Recalculate_constraint_multipliers` 
+*	:ref:`option-IPOPT-recalculate_constraint_multipliers` 

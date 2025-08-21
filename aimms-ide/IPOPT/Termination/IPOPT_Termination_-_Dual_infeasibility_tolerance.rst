@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Termination_-_Dual_infeasibility_tolerance:
+.. _option-IPOPT-dual_infeasibility_tolerance:
 
 
 Dual infeasibility tolerance

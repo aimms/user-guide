@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_NLP_-_Check_derivatives_for_invalid_numbers:
+.. _option-IPOPT-check_derivatives_for_invalid_numbers:
 
 
 Check derivatives for invalid numbers
@@ -30,4 +30,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Output_-_Output_verbosity_level` 
+*	:ref:`option-IPOPT-output_verbosity_level` 

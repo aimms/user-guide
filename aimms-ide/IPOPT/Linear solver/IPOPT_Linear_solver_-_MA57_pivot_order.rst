@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_MA57_pivot_order:
+.. _option-IPOPT-ma57_pivot_order:
 
 
 MA57 pivot order
@@ -26,4 +26,4 @@ This option controls the pivot order for the linear solver MA57.
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_solver_selection` 
+*	:ref:`option-IPOPT-linear_solver_selection` 

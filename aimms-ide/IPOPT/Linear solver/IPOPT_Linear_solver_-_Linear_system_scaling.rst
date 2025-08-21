@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_Linear_system_scaling:
+.. _option-IPOPT-linear_system_scaling:
 
 
 Linear system scaling
@@ -26,4 +26,4 @@ This option indicates that linear scaling is only done if it seems required. Thi
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_system_scaling_method` 
+*	:ref:`option-IPOPT-linear_system_scaling_method` 

@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Termination_-_Acceptable_dual_infeasibility_tolerance:
+.. _option-IPOPT-acceptable_dual_infeasibility_tolerance:
 
 
 Acceptable dual infeasibility tolerance
@@ -20,4 +20,4 @@ This option specifies the acceptable absolute tolerance on the dual infeasibilit
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Termination_-_Acceptable_relative_convergence_tolerance` 
+*	:ref:`option-IPOPT-acceptable_relative_convergence_tolerance` 

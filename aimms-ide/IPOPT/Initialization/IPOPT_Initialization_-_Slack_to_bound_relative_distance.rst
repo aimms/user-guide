@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Initialization_-_Slack_to_bound_relative_distance:
+.. _option-IPOPT-slack_to_bound_relative_distance:
 
 Slack to bound relative distance
 ================================
@@ -19,4 +19,4 @@ This option determines how much the initial slack variables might have to be mod
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Initialization_-_Slack_to_bound_absolute_distance` 
+*	:ref:`option-IPOPT-slack_to_bound_absolute_distance` 

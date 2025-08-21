@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Restoration_phase_-_Reduction_factor_primal_dual_error:
+.. _option-IPOPT-reduction_factor_primal_dual_error:
 
 
 Reduction factor primal dual error

@@ -1,7 +1,6 @@
 
 
 .. _HSL_libraries:
-.. _IPOPT_HSL_libraries:
 
 
 HSL libraries
@@ -59,5 +58,5 @@ After building libhsl.dll and copying it, you can select HSL as the linear solve
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_solver_selection` 
+*	:ref:`option-IPOPT-linear_solver_selection` 
 *	`HSL for IPOPT <https://licences.stfc.ac.uk/product/coin-hsl>`_ (Internet link)

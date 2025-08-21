@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_MA57_scaling:
+.. _option-IPOPT-ma57_scaling:
 
 
 MA57 scaling
@@ -33,4 +33,4 @@ This option controls the internal scaling option of the linear solver MA57. Poss
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_solver_selection` 
+*	:ref:`option-IPOPT-linear_solver_selection` 

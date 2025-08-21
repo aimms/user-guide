@@ -1,4 +1,4 @@
-.. _IPOPT_Termination_-_Constraint_violation_tolerance:
+.. _option-IPOPT-constraint_violation_tolerance:
 
 Constraint violation tolerance
 ==============================

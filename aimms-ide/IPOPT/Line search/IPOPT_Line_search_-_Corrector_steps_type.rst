@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Line_search_-_Corrector_steps_Type:
+.. _option-IPOPT-corrector_steps_type:
 
 
 Corrector steps type
@@ -27,4 +27,4 @@ This option specifies the type of corrector steps that should be taken. If the s
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Barrier_-_Barrier_parameter_update_strategy` 
+*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 

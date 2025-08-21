@@ -1,7 +1,6 @@
 
 
 .. _AIMMS_to_BARON_Mapping:
-.. _Baron_AIMMS_to_BARON_Mapping:
 
 
 AIMMS to BARON Mapping

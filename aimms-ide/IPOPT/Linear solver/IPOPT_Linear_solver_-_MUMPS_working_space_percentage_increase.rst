@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_MUMPS_working_space_percentage_increase:
+.. _option-IPOPT-mumps_working_space_percentage_increase:
 
 
 MUMPS working space percentage increase
@@ -27,4 +27,4 @@ This option specifies the percentage increase in the estimated working space for
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_solver_selection` 
+*	:ref:`option-IPOPT-linear_solver_selection` 

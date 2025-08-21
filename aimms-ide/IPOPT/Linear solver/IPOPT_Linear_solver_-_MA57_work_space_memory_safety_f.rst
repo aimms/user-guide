@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_MA57_work_space_memory_safety_f:
+.. _option-IPOPT-ma57_work_space_memory_safety_factor:
 
 
 MA57 work space memory safety factor
@@ -27,4 +27,4 @@ This option determines the safety factor for work space memory allocation for th
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_solver_selection` 
+*	:ref:`option-IPOPT-linear_solver_selection` 

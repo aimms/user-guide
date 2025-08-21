@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Barrier_-_Barrier_parameter_update_strategy:
+.. _option-IPOPT-barrier_parameter_update_strategy:
 
 
 Barrier parameter update strategy

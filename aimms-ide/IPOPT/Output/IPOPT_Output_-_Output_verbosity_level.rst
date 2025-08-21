@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Output_-_Output_verbosity_level:
+.. _option-IPOPT-output_verbosity_level:
 
 
 Output verbosity level
@@ -20,4 +20,4 @@ This option sets the default verbosity level for console output. The larger this
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Output_-_Status_file` 
+*	:ref:`option-IPOPT-status_file` 

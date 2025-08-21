@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Quasi-Newton_-_Hessian_approximation_history_memory_limit:
+.. _option-IPOPT-hessian_approximation_history_memory_limit:
 
 
 Hessian approximation history memory limit
@@ -27,4 +27,4 @@ This option specifies the maximum size of the history for the limited quasi-Newt
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Quasi-Newton_-_Method_for_Hessian_computation` 
+*	:ref:`option-IPOPT-method_for_hessian_computation` 

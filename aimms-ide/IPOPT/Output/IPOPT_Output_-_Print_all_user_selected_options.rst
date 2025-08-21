@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Output_-_Print_all_user_selected_options:
+.. _option-IPOPT-print_all_user_selected_options:
 
 
 Print all user selected options
@@ -26,4 +26,4 @@ Switch to print all options set by the user. If selected, the algorithm will pri
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Output_-_Status_file` 
+*	:ref:`option-IPOPT-status_file` 

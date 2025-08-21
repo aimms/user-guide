@@ -1,7 +1,6 @@
 
 
 .. _AIMMS_to_CONOPT_Mapping:
-.. _CONOPT_AIMMS_to_CONOPT_Mapping:
 
 
 AIMMS to CONOPT Mapping

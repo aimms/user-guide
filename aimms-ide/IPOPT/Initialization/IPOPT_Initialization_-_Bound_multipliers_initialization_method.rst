@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Initialization_-_Bound_multipliers_initialization_method:
+.. _option-IPOPT-bound_multipliers_initialization_method:
 
 
 Bound multipliers initialization method
@@ -32,5 +32,5 @@ If 'Constant' is chosen then all bound multipliers are initialized to the value 
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Barrier_-_Barrier_parameter_initial_value` 
-*	:ref:`IPOPT_Initialization_-_Initial_value_for_bound_multipliers` 
+*	:ref:`option-IPOPT-barrier_parameter_initial_value` 
+*	:ref:`option-IPOPT-initial_value_for_bound_multipliers` 

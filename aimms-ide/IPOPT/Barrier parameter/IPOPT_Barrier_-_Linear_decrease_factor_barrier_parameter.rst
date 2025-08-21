@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Barrier_-_Linear_decrease_factor_barrier_parameter:
+.. _option-IPOPT-linear_decrease_factor_barrier_parameter:
 
 
 Linear decrease factor barrier parameter
@@ -24,5 +24,5 @@ This option is also used in the adaptive barrier parameter strategy during the m
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Barrier_-_Barrier_parameter_update_strategy` 
-*	:ref:`IPOPT_Barrier_-_Superlinear_decrease_rate_barrier_parameter` 
+*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 
+*	:ref:`option-IPOPT-superlinear_decrease_rate_barrier_parameter` 

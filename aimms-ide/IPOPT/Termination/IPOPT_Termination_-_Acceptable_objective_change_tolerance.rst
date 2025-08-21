@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Termination_-_Acceptable_objective_change_tolerance:
+.. _option-IPOPT-acceptable_objective_change_tolerance:
 
 
 Acceptable objective change tolerance
@@ -20,4 +20,4 @@ Acceptable objective change tolerance
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Termination_-_Acceptable_relative_convergence_tolerance` 
+*	:ref:`option-IPOPT-acceptable_relative_convergence_tolerance` 

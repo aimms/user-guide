@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Barrier_-_Fixed_mode_oracle:
+.. _option-IPOPT-fixed_mode_oracle:
 
 
 Fixed mode oracle
@@ -34,4 +34,4 @@ Setting 'probing' corresponds to Mehrotra's probing heuristic. Setting 'Loqo' re
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Barrier_-_Barrier_parameter_update_strategy` 
+*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 

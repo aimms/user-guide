@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Hessian_perturbation_-_Minimum_Hessian_perturbation:
+.. _option-IPOPT-minimum_hessian_perturbation:
 
 
 Minimum Hessian perturbation

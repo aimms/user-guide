@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Barrier_-_Adaptive_strategy_oracle:
+.. _option-IPOPT-adaptive_strategy_oracle:
 
 
 Adaptive strategy oracle
@@ -40,4 +40,4 @@ Setting 'probing' corresponds to Mehrotra's probing heuristic. Setting 'Loqo' re
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Barrier_-_Barrier_parameter_update_strategy` 
+*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 

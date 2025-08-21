@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Multipliers_-_Constraint_multipliers_step_size_method:
+.. _option-IPOPT-constraint_multipliers_step_size_method:
 
 
 Constraint multipliers step size method
@@ -70,4 +70,4 @@ Setting 'Acceptor' calls LSAcceptor to get the step size.
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Multipliers_-_Equality_multipliers_switch_tolerance` 
+*	:ref:`option-IPOPT-equality_multipliers_switch_tolerance` 

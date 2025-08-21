@@ -1,7 +1,6 @@
 
 
 .. _AIMMS_to_CBC_Mapping:
-.. _CBC_AIMMS_to_CBC_Mapping:
 
 
 AIMMS to CBC Mapping

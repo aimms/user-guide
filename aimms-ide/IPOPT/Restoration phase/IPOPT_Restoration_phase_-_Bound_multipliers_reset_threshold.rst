@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Restoration_phase_-_Bound_multipliers_reset_threshold:
+.. _option-IPOPT-bound_multipliers_reset_threshold:
 
 
 Bound multipliers reset threshold

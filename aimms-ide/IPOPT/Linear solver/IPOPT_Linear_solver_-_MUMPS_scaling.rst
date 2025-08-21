@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_MUMPS_scaling:
+.. _option-IPOPT-mumps_scaling:
 
 
 MUMPS scaling
@@ -27,4 +27,4 @@ This option controls scaling in MUMPS. (This is ICNTL(8) in MUMPS.)
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_solver_selection` 
+*	:ref:`option-IPOPT-linear_solver_selection` 

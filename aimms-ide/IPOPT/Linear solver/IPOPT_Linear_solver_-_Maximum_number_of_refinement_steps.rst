@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_Maximum_number_of_refinement_steps:
+.. _option-IPOPT-maximum_number_of_refinement_steps:
 
 
 Maximum number of refinement steps
@@ -20,4 +20,4 @@ This option determines the maximum number of iterative refinement steps per line
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Minimum_number_of_refinement_steps` 
+*	:ref:`option-IPOPT-minimum_number_of_refinement_steps` 

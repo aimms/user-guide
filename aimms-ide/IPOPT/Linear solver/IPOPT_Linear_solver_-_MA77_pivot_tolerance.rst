@@ -1,6 +1,6 @@
 
 
-.. _IPOPT_Linear_solver_-_MA77_pivot_tolerance:
+.. _option-IPOPT-ma77_pivot_tolerance:
 
 
 MA77 pivot tolerance
@@ -27,5 +27,5 @@ This option specifies the pivot tolerance for the linear solver MA77. A smaller 
 
 **Learn more about** 
 
-*	:ref:`IPOPT_Linear_solver_-_Linear_solver_selection` 
-*	:ref:`IPOPT_Linear_solver_-_MA77_maximum_pivot_tolerance` 
+*	:ref:`option-IPOPT-linear_solver_selection` 
+*	:ref:`option-IPOPT-ma77_maximum_pivot_tolerance` 
