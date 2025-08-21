@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Box_Size_Tolerance_Linear:
+.. _option-CONOPT-box_size_tolerance_linear:
 
 Box Size Tolerance Linear
 =========================
@@ -17,14 +17,14 @@ This option specifies the initial box size for trust region models for the Linea
 
 **Note** 
 
-*	More on the Linear Feasibility Model and Phase 0 can be found in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm` .
+*	More on the Linear Feasibility Model and Phase 0 can be found in the section :ref:`option-CONOPT-description_of_conopt_algorithm` .
 
 
 
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Advanced_-_Box_Size_Tolerance` 
+*	:ref:`option-CONOPT-box_size_tolerance` 
 *	:ref:`CONOPT_Description_of_CONOPT_Algorithm` 
 
 

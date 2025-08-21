@@ -1,4 +1,4 @@
-.. _CONOPT_Pivot_-_Relative_Pivot_Tol:
+.. _option-CONOPT-relative_pivot_tolerance:
 
 Relative Pivot Tolerance
 ========================
@@ -17,4 +17,4 @@ A pivot element is only considered acceptable relative to other elements in the 
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Pivot_-_Absolute_Pivot_Tol_Nonlinear_Elements`  
+*	:ref:`option-CONOPT-absolute_pivot_tolerance_nonlinear_elements`  

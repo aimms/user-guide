@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Zero_Filter_Tol_Jacobian_Elem:
+.. _option-CONOPT-zero_filter_tolerance_jacobian_elements:
 
 Zero Filter Tolerance Jacobian Elements
 =======================================
@@ -17,4 +17,4 @@ This option specifies the zero filter for Jacobian elements and inversion result
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Pivot_-_Absolute_Pivot_Tol` 
+*	:ref:`option-CONOPT-absolute_pivot_tolerance` 

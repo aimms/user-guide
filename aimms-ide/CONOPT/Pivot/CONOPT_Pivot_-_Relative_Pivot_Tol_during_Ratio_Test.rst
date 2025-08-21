@@ -1,4 +1,4 @@
-.. _CONOPT_Pivot_-_Relative_Pivot_Tol_during_Ratio_Test:
+.. _option-CONOPT-relative_pivot_tolerance_during_ratio_test:
 
 Relative Pivot Tolerance during Ratio Test
 ==========================================
@@ -17,4 +17,4 @@ This option specifies the relative pivot tolerance during ratio-tests. During ra
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Pivot_-_Relative_Pivot_Tol`  
+*	:ref:`option-CONOPT-relative_pivot_tolerance`  

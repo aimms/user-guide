@@ -1,4 +1,4 @@
-.. _CONOPT_Scaling_-_Scaling_Method:
+.. _option-CONOPT-scaling_method:
 
 Scaling Method
 ==============
@@ -55,7 +55,7 @@ Value 'Moving average': As 'Geometric mean' but the terms are computed based on 
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Scaling_-_Maximal_Scaling_Factor`  
-*	:ref:`CONOPT_Scaling_-_Minimal_Jacobian_Element_Scaling`  
-*	:ref:`CONOPT_Scaling_-_Minimal_Scaling_Factor`  
-*	:ref:`CONOPT_Scaling_-_Rescale_frequency`  
+*	:ref:`option-CONOPT-maximal_scaling_factor`  
+*	:ref:`option-CONOPT-minimal_jacobian_element_for_scaling`  
+*	:ref:`option-CONOPT-minimal_scaling_factor`  
+*	:ref:`option-CONOPT-rescale_frequency`  

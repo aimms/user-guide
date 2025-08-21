@@ -1,4 +1,4 @@
-.. _CONOPT_Limits_-_Limit_Hessian_Eval_Errors:
+.. _option-CONOPT-limit_on_hessian_evaluation_errors:
 
 Limit on Hessian Evaluation Errors
 ==================================

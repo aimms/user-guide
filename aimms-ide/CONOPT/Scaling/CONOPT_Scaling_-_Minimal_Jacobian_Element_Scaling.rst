@@ -1,4 +1,4 @@
-.. _CONOPT_Scaling_-_Minimal_Jacobian_Element_Scaling:
+.. _option-CONOPT-minimal_jacobian_element_for_scaling:
 
 Minimal Jacobian Element for Scaling
 ====================================

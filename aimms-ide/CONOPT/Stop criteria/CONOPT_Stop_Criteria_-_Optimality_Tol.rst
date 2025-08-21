@@ -1,4 +1,4 @@
-.. _CONOPT_Stop_Criteria_-_Optimality_Tol:
+.. _option-CONOPT-optimality_tolerance:
 
 Optimality Tolerance
 ====================

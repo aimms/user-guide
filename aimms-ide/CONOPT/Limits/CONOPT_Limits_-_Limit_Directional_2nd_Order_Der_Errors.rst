@@ -1,4 +1,4 @@
-.. _CONOPT_Limits_-_Limit_Directional_2nd_Order_Der_Errors:
+.. _option-CONOPT-limit_on_directional_2nd_order_derivative_errors:
 
 Limit on Directional 2nd Order Derivative Errors
 ================================================

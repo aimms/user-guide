@@ -1,4 +1,4 @@
-.. _CONOPT_Debugging_-_Tolerance_2nd_Order_Der_Check:
+.. _option-CONOPT-tolerance_2nd_order_derivatives_check:
 
 Tolerance 2nd Order Derivatives Check
 =====================================
@@ -17,7 +17,7 @@ The second order derivatives calculated by AIMMS are tested by CONOPT if the opt
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Debugging_-_Check_2nd_Order_Der`  
+*	:ref:`option-CONOPT-check_2nd_order_derivatives`  
 
 
 

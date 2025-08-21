@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Method_Defined_Variables:
+.. _option-CONOPT-method_for_defined_variables:
 
 
 Method for Defined Variables

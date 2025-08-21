@@ -1,4 +1,4 @@
-.. _CONOPT_Scaling_-_Minimal_Scaling_Factor:
+.. _option-CONOPT-minimal_scaling_factor:
 
 Minimal Scaling Factor
 ======================
@@ -17,4 +17,4 @@ Scale factors used to scale variables and equations are projected on the range *
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Scaling_-_Maximal_Scaling_Factor`  
+*	:ref:`option-CONOPT-maximal_scaling_factor`  

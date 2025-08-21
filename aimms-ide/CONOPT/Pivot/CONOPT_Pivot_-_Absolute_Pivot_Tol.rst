@@ -1,4 +1,4 @@
-.. _CONOPT_Pivot_-_Absolute_Pivot_Tol:
+.. _option-CONOPT-absolute_pivot_tolerance:
 
 Absolute Pivot Tolerance
 ========================
@@ -17,4 +17,4 @@ A pivot element is only considered acceptable if its absolute value is larger th
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Pivot_-_Relative_Pivot_Tol`  
+*	:ref:`option-CONOPT-relative_pivot_tolerance`  

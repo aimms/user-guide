@@ -1,4 +1,4 @@
-.. _CONOPT_General_-_Method_Initial_Basis:
+.. _option-CONOPT-method_for_initial_basis:
 
 Method for Initial Basis
 ========================
@@ -27,7 +27,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Advanced_-_SLP_Mode`  
+*	:ref:`option-CONOPT-slp_mode`  
 
 
 

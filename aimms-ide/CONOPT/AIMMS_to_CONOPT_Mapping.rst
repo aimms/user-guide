@@ -17,123 +17,123 @@ the CONOPT parameter that is associated with it.
 
    * - **Option name in AIMMS**
      - **Name in CONOPT**
-   * - :ref:`CONOPT_Advanced_-_Box_Size_Factor_Linear_Var`
+   * - :ref:`option-CONOPT-box_size_factor_linear_variables`
      - RTBOXF
-   * - :ref:`CONOPT_Advanced_-_Box_Size_Tolerance`
+   * - :ref:`option-CONOPT-box_size_tolerance`
      - RTBOX
-   * - :ref:`CONOPT_Advanced_-_Box_Size_Tolerance_Linear`
+   * - :ref:`option-CONOPT-box_size_tolerance_linear`
      - RTBOXL
-   * - :ref:`CONOPT_Advanced_-_Fixed_Var_Tol_Derived_Bounds`
+   * - :ref:`option-CONOPT-fixed_variables_tolerance_derived_bounds`
      - RTBNDT
-   * - :ref:`CONOPT_Advanced_-_Fixed_Var_Tol_Init_Bounds`
+   * - :ref:`option-CONOPT-fixed_variables_tolerance_initial_bounds`
      - RTBNDI
-   * - :ref:`CONOPT_Advanced_-_Logical_Switch_Slacks`
+   * - :ref:`option-CONOPT-logical_switch_for_selection_of_slacks`
      - LSLACK
-   * - :ref:`CONOPT_Advanced_-_Method_Defined_Variables`
+   * - :ref:`option-CONOPT-method_for_defined_variables`
      - LMUSDF
-   * - :ref:`CONOPT_Advanced_-_Method_Finding_Max_Step`
+   * - :ref:`option-CONOPT-method_for_finding_maximal_step`
      - LMMXSF
-   * - :ref:`CONOPT_Advanced_-_Method_Finding_Max_Tight_Step`
+   * - :ref:`option-CONOPT-method_for_finding_maximal_tight_step`
      - LMMXST
-   * - :ref:`CONOPT_Advanced_-_Method_Linear_Feas_Models`
+   * - :ref:`option-CONOPT-method_for_linear_feasibility_models`
      - LMETHOD
-   * - :ref:`CONOPT_Advanced_-_Method_Reduced_Hessian`
+   * - :ref:`option-CONOPT-method_for_reduced_hessian`
      - LMNDIA
-   * - :ref:`CONOPT_Advanced_-_Penalty_Constraints_Ratio`
+   * - :ref:`option-CONOPT-penalty_constraints_ratio`
      - RTNOPN
-   * - :ref:`CONOPT_Advanced_-_Relative_Obj_Accuracy`
+   * - :ref:`option-CONOPT-relative_objective_accuracy`
      - RTOBJR
-   * - :ref:`CONOPT_Advanced_-_SLP_Mode`
+   * - :ref:`option-CONOPT-slp_mode`
      - LSESLP
-   * - :ref:`CONOPT_Advanced_-_SQP_Mode`
+   * - :ref:`option-CONOPT-sqp_mode`
      - LSESQP
-   * - :ref:`CONOPT_Advanced_-_Steplength_Multiplier`
+   * - :ref:`option-CONOPT-steplength_multiplier`
      - RVSTLM
-   * - :ref:`CONOPT_Advanced_-_Use_No_Penalty_Model`
+   * - :ref:`option-CONOPT-use_no-penalty_model`
      - DONOPEN
-   * - :ref:`CONOPT_Advanced_-_Zero_Filter_Tol_Jacobian_Elem`
+   * - :ref:`option-CONOPT-zero_filter_tolerance_jacobian_elements`
      - RTMINA
-   * - :ref:`CONOPT_Debugging_-_Check_1st_Order_Der`
+   * - :ref:`option-CONOPT-check_1st_order_derivatives`
      - LKDEBG
-   * - :ref:`CONOPT_Debugging_-_Check_2nd_Order_Der`
+   * - :ref:`option-CONOPT-check_2nd_order_derivatives`
      - LKDEB2
-   * - :ref:`CONOPT_Debugging_-_Tolerance_2nd_Order_Der_Check`
+   * - :ref:`option-CONOPT-tolerance_2nd_order_derivatives_check`
      - RT2DRV
-   * - :ref:`CONOPT_General_-_Bound_Tolerance`
+   * - :ref:`option-CONOPT-bound_tolerance`
      - RTBND1
-   * - :ref:`CONOPT_General_-_Feas_Tol_Triangular`
+   * - :ref:`option-CONOPT-feasibility_tolerance_triangular_part`
      - RTNWTR
-   * - :ref:`CONOPT_General_-_Maximal_Feas_Tol`
+   * - :ref:`option-CONOPT-maximal_feasibility_tolerance`
      - RTNWMA
-   * - :ref:`CONOPT_General_-_Method_Initial_Basis`
+   * - :ref:`option-CONOPT-method_for_initial_basis`
      - LSCRSH
-   * - :ref:`CONOPT_General_-_Minimal_Feas_Tol`
+   * - :ref:`option-CONOPT-minimal_feasibility_tolerance`
      - RTNWMI
-   * - :ref:`CONOPT_General_-_Model_is_Convex`
+   * - :ref:`option-CONOPT-model_is_convex`
      - ISCONVEX
-   * - :ref:`CONOPT_General_-_Model_is_Square`
+   * - :ref:`option-CONOPT-model_is_square_system`
      - LSSQRS
-   * - :ref:`CONOPT_Limits_-_Limit_Candidates_Defined_Variable`
+   * - :ref:`option-CONOPT-limit_on_candidates_for_defined_variable`
      - LFUSDF
-   * - :ref:`CONOPT_Limits_-_Limit_Degenerate_Iterations`
+   * - :ref:`option-CONOPT-limit_on_degenerate_iterations`
      - LFDEGI
-   * - :ref:`CONOPT_Limits_-_Limit_Directional_2nd_Order_Der_Errors`
+   * - :ref:`option-CONOPT-limit_on_directional_2nd_order_derivative_errors`
      - LF2DRV
-   * - :ref:`CONOPT_Limits_-_Limit_Hessian_Eval_Errors`
+   * - :ref:`option-CONOPT-limit_on_hessian_evaluation_errors`
      - LFHSOK
-   * - :ref:`CONOPT_Limits_-_Limit_Linear_Feas_Model_Rounds`
+   * - :ref:`option-CONOPT-limit_on_linear_feasibility_model_rounds`
      - NROUNDS
-   * - :ref:`CONOPT_Limits_-_Limit_New_Superbasics`
+   * - :ref:`option-CONOPT-limit_on_new_superbasics`
      - LFMXNS
-   * - :ref:`CONOPT_Limits_-_Maximal_Hessian_Dim`
+   * - :ref:`option-CONOPT-maximal_hessian_dimension`
      - LFNSUP
-   * - :ref:`CONOPT_Limits_-_Maximal_Solution_Variable`
+   * - :ref:`option-CONOPT-maximum_solution_of_a_variable`
      - RTMAXV
-   * - :ref:`CONOPT_Pivot_-_Absolute_Pivot_Tol`
+   * - :ref:`option-CONOPT-absolute_pivot_tolerance`
      - RTPIVA
-   * - :ref:`CONOPT_Pivot_-_Absolute_Pivot_Tol_Initial_Basis`
+   * - :ref:`option-CONOPT-absolute_pivot_tolerance_initial_basis`
      - RTIPVA
-   * - :ref:`CONOPT_Pivot_-_Absolute_Pivot_Tol_Nonlinear_Elements`
+   * - :ref:`option-CONOPT-absolute_pivot_tolerance_nonlinear_elements`
      - RTPIVT
-   * - :ref:`CONOPT_Pivot_-_Relative_Pivot_Tol`
+   * - :ref:`option-CONOPT-relative_pivot_tolerance`
      - RTPIVR
-   * - :ref:`CONOPT_Pivot_-_Relative_Pivot_Tol_during_Basis_Updates`
+   * - :ref:`option-CONOPT-relative_pivot_tolerance_during_basis_updates`
      - RTPIVU
-   * - :ref:`CONOPT_Pivot_-_Relative_Pivot_Tol_during_Ratio_Test`
+   * - :ref:`option-CONOPT-relative_pivot_tolerance_during_ratio_test`
      - RTPIVS
-   * - :ref:`CONOPT_Pivot_-_Relative_Pivot_Tol_during_Basis_Updates`
+   * - :ref:`option-CONOPT-relative_pivot_tolerance_during_basis_updates`
      - RTIPVR
-   * - :ref:`CONOPT_Preprocessing_-_Preprocessor`
+   * - :ref:`option-CONOPT-preprocessor`
      - DOPREP
-   * - :ref:`CONOPT_Preprocessing_-_Use_Interval_Evaluations`
+   * - :ref:`option-CONOPT-use_interval_evaluations`
      - DOINTV
-   * - :ref:`CONOPT_Reporting_-_Log_Frequency`
+   * - :ref:`option-CONOPT-log_frequency`
      - LFILOG
-   * - :ref:`CONOPT_Reporting_-_Log_Frequency_SLP_SQP`
+   * - :ref:`option-CONOPT-log_frequency_slp_and_sqp`
      - LFILOS
-   * - :ref:`CONOPT_Scaling_-_Maximal_Scaling_Factor`
+   * - :ref:`option-CONOPT-maximal_scaling_factor`
      - RTMAXS
-   * - :ref:`CONOPT_Scaling_-_Minimal_Jacobian_Element_Scaling`
+   * - :ref:`option-CONOPT-minimal_jacobian_element_for_scaling`
      - RTMINJ
-   * - :ref:`CONOPT_Scaling_-_Minimal_Scaling_Factor`
+   * - :ref:`option-CONOPT-minimal_scaling_factor`
      - RTMINS
-   * - :ref:`CONOPT_Scaling_-_Minimal_Scaling_Factor_2nd_Order_Der`
+   * - :ref:`option-CONOPT-minimal_scaling_factor_2nd_order_derivatives`
      - RTMNS2
-   * - :ref:`CONOPT_Scaling_-_Minimal_Scaling_Tol_Vars`
+   * - :ref:`option-CONOPT-minimal_scaling_tolerance_for_variables`
      - RTMINV
-   * - :ref:`CONOPT_Scaling_-_Rescale_frequency`
+   * - :ref:`option-CONOPT-rescale_frequency`
      - LFSCAL
-   * - :ref:`CONOPT_Scaling_-_Scaling_Method`
+   * - :ref:`option-CONOPT-scaling_method`
      - LMSCAL
-   * - :ref:`CONOPT_Stop_Criteria_-_Accuracy_One_Dim_Search`
+   * - :ref:`option-CONOPT-accuracy_one_dimensional_search`
      - RTONED
-   * - :ref:`CONOPT_Stop_Criteria_-_Limit_Slow_Progress`
+   * - :ref:`option-CONOPT-limit_for_slow_progress`
      - LFNICR
-   * - :ref:`CONOPT_Stop_Criteria_-_Max_Number_Stalled_Iter`
+   * - :ref:`option-CONOPT-maximal_number_of_stalled_iterations`
      - LFSTAL
-   * - :ref:`CONOPT_Stop_Criteria_-_Optimality_Tol`
+   * - :ref:`option-CONOPT-optimality_tolerance`
      - RTREDG
-   * - :ref:`CONOPT_Stop_Criteria_-_Optimality_Tol_Infeasible`
+   * - :ref:`option-CONOPT-optimality_tolerance_infeasible`
      - RTREDI
-   * - :ref:`CONOPT_Stop_Criteria_-_Slow_Progress_Tol`
+   * - :ref:`option-CONOPT-slow_progress_tolerance`
      - RTOBJL

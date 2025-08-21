@@ -1,4 +1,4 @@
-.. _CONOPT_Scaling_-_Maximal_Scaling_Factor:
+.. _option-CONOPT-maximal_scaling_factor:
 
 Maximal Scaling Factor
 ======================
@@ -17,5 +17,5 @@ Scale factors are projected on the interval from **Minimal Scaling Factor**  to 
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Limits_-_Maximal_Solution_Variable`  
-*	:ref:`CONOPT_Scaling_-_Minimal_Scaling_Factor`  
+*	:ref:`option-CONOPT-maximum_solution_of_a_variable`  
+*	:ref:`option-CONOPT-minimal_scaling_factor`  

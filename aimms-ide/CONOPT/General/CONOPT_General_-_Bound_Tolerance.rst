@@ -1,4 +1,4 @@
-.. _CONOPT_General_-_Bound_Tolerance:
+.. _option-CONOPT-bound_tolerance:
 
 Bound Tolerance
 ===============

@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Relative_Obj_Accuracy:
+.. _option-CONOPT-relative_objective_accuracy:
 
 
 Relative Objective Accuracy
@@ -18,7 +18,7 @@ CONOPT assumes that the reduced objective function can be computed to an accurac
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Stop_Criteria_-_Limit_Slow_Progress`  
+*	:ref:`option-CONOPT-limit_for_slow_progress`  
 
 
 

@@ -1,4 +1,4 @@
-.. _CONOPT_Preprocessing_-_Use_Interval_Evaluations:
+.. _option-CONOPT-use_interval_evaluations:
 
 Use Interval Evaluations
 ========================
@@ -23,4 +23,4 @@ This option specifies a flag for using intervals in the preprocessor. If turned 
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Preprocessing_-_Preprocessor` 
+*	:ref:`option-CONOPT-preprocessor` 

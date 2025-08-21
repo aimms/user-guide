@@ -1,4 +1,4 @@
-.. _CONOPT_General_-_Minimal_Feas_Tol:
+.. _option-CONOPT-minimal_feasibility_tolerance:
 
 Minimal Feasibility Tolerance
 =============================
@@ -21,7 +21,7 @@ The feasibility tolerance used by CONOPT is dynamic. As long as we are far from 
 
 **Learn more about** 
 
-*	:ref:`CONOPT_General_-_Maximal_Feas_Tol`  
+*	:ref:`option-CONOPT-maximal_feasibility_tolerance`  
 
 
 

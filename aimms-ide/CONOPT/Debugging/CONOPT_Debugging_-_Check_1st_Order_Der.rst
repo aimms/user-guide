@@ -1,4 +1,4 @@
-.. _CONOPT_Debugging_-_Check_1st_Order_Der:
+.. _option-CONOPT-check_1st_order_derivatives:
 
 Check 1st Order Derivatives
 ===========================
@@ -30,7 +30,7 @@ This options controls how often the derivatives are tested. Debugging of derivat
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Debugging_-_Check_2nd_Order_Der`  
+*	:ref:`option-CONOPT-check_2nd_order_derivatives`  
 
 
 

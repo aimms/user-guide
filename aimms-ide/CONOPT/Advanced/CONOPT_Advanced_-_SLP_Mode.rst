@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_SLP_Mode:
+.. _option-CONOPT-slp_mode:
 
 SLP Mode
 ========

@@ -1,4 +1,4 @@
-.. _CONOPT_Limits_-_Maximal_Hessian_Dim:
+.. _option-CONOPT-maximal_hessian_dimension:
 
 Maximal Hessian Dimension
 =========================

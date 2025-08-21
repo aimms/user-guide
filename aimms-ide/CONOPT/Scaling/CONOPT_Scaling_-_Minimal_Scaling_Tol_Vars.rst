@@ -1,4 +1,4 @@
-.. _CONOPT_Scaling_-_Minimal_Scaling_Tol_Vars:
+.. _option-CONOPT-minimal_scaling_tolerance_for_variables:
 
 Minimal Scaling Tolerance for Variables
 =======================================

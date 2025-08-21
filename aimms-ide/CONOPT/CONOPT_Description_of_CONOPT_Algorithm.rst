@@ -196,10 +196,10 @@ CONOPT 4 can use multiple threads for some internal computations and for functio
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Limits_-_Limit_Linear_Feas_Model_Rounds`  
-*	:ref:`CONOPT_Advanced_-_Method_Linear_Feas_Models` 
-*	:ref:`CONOPT_General_-_Model_is_Convex` 
-*	:ref:`CONOPT_Advanced_-_Penalty_Constraints_Ratio`  
-*	:ref:`CONOPT_Preprocessing_-_Preprocessor` 
-*	:ref:`CONOPT_Parallel_-_Thread_Limit` 
-*	:ref:`CONOPT_Advanced_-_Use_No_Penalty_Model`  
+*	:ref:`option-CONOPT-limit_on_linear_feasibility_model_rounds`  
+*	:ref:`option-CONOPT-method_for_linear_feasibility_models` 
+*	:ref:`option-CONOPT-model_is_convex` 
+*	:ref:`option-CONOPT-penalty_constraints_ratio`  
+*	:ref:`option-CONOPT-preprocessor` 
+*	:ref:`option-CONOPT-thread_limit` 
+*	:ref:`option-CONOPT-use_no-penalty_model`  

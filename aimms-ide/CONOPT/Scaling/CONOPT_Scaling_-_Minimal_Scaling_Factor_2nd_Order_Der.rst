@@ -1,4 +1,4 @@
-.. _CONOPT_Scaling_-_Minimal_Scaling_Factor_2nd_Order_Der:
+.. _option-CONOPT-minimal_scaling_factor_2nd_order_derivatives:
 
 Minimal Scaling Factor 2nd Order Derivatives
 ============================================
@@ -17,4 +17,4 @@ This option sets a lower bound for scale factors based on large 2nd derivatives.
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Scaling_-_Minimal_Scaling_Factor`  
+*	:ref:`option-CONOPT-minimal_scaling_factor`  

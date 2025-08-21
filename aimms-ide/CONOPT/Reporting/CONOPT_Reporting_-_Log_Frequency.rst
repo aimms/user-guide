@@ -1,4 +1,4 @@
-.. _CONOPT_Reporting_-_Log_Frequency:
+.. _option-CONOPT-log_frequency:
 
 Log Frequency
 =============
@@ -24,7 +24,7 @@ This option determines the frequency for printing the iteration log. The iterati
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Reporting_-_Log_Frequency_SLP_SQP`  
+*	:ref:`option-CONOPT-log_frequency_slp_and_sqp`  
 
 
 

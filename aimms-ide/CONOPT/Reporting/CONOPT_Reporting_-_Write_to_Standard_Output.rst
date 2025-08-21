@@ -1,4 +1,4 @@
-.. _CONOPT_Reporting_-_Write_to_Standard_Output:
+.. _option-CONOPT-write_to_standard_output:
 
 Write to Standard Output
 ========================
@@ -31,6 +31,6 @@ This option is normally only useful for Linux.
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Reporting_-_Log_Frequency`  
-*	:ref:`CONOPT_Reporting_-_Log_Frequency_SLP_SQP` 
-*	:ref:`CONOPT_Reporting_-_Status_File_Display`  
+*	:ref:`option-CONOPT-log_frequency`  
+*	:ref:`option-CONOPT-log_frequency_slp_and_sqp` 
+*	:ref:`option-CONOPT-status_file_display`  

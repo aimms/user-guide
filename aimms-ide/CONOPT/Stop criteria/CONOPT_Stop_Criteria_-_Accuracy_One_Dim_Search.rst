@@ -1,4 +1,4 @@
-.. _CONOPT_Stop_Criteria_-_Accuracy_One_Dim_Search:
+.. _option-CONOPT-accuracy_one_dimensional_search:
 
 Accuracy One Dimensional Search
 ===============================

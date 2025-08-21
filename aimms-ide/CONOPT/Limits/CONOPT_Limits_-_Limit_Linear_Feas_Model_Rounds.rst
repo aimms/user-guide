@@ -1,4 +1,4 @@
-.. _CONOPT_Limits_-_Limit_Linear_Feas_Model_Rounds:
+.. _option-CONOPT-limit_on_linear_feasibility_model_rounds:
 
 Limit on Linear Feasibility Model Rounds
 ========================================
@@ -24,4 +24,4 @@ This option limits the number of rounds in which Linear Feasibility Models are s
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Advanced_-_Method_Linear_Feas_Models`  
+*	:ref:`option-CONOPT-method_for_linear_feasibility_models`  

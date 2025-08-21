@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_SQP_Mode:
+.. _option-CONOPT-sqp_mode:
 
 
 SQP Mode

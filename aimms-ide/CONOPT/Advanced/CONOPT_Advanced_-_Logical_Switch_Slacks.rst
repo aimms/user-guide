@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Logical_Switch_Slacks:
+.. _option-CONOPT-logical_switch_for_selection_of_slacks:
 
 Logical Switch for Selection of Slacks
 ======================================
@@ -23,7 +23,7 @@ When this option is switched on, CONOPT will select all infeasible slacks as the
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Advanced_-_SLP_Mode` 
+*	:ref:`option-CONOPT-slp_mode` 
 
 
 

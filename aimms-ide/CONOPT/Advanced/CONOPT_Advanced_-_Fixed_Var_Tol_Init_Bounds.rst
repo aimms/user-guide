@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Fixed_Var_Tol_Init_Bounds:
+.. _option-CONOPT-fixed_variables_tolerance_initial_bounds:
 
 Fixed Variables Tolerance Initial Bounds
 ========================================
@@ -17,4 +17,4 @@ This option specifies the tolerance for defining variables as fixed based on ini
 
 **Learn more about** 
 
-*	:ref:`CONOPT_General_-_Bound_Tolerance` 
+*	:ref:`option-CONOPT-bound_tolerance` 

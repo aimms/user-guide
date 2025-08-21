@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Penalty_Constraints_Ratio:
+.. _option-CONOPT-penalty_constraints_ratio:
 
 
 Penalty Constraints Ratio
@@ -18,7 +18,7 @@ This option sets a limit on the ratio of penalty constraints for the No-Penalty 
 
 **Note** 
 
-*	The No-Penalty Model and the Full Model are described in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm` .
+*	The No-Penalty Model and the Full Model are described in the section :ref:`option-CONOPT-description_of_conopt_algorithm` .
 
 
 
@@ -26,7 +26,7 @@ This option sets a limit on the ratio of penalty constraints for the No-Penalty 
 **Learn more about** 
 
 *	:ref:`CONOPT_Description_of_CONOPT_Algorithm` 
-*	:ref:`CONOPT_Advanced_-_Use_No_Penalty_Model`  
+*	:ref:`option-CONOPT-use_no-penalty_model`  
 
 
 

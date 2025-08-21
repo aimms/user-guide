@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Box_Size_Tolerance:
+.. _option-CONOPT-box_size_tolerance:
 
 Box Size Tolerance
 ==================
@@ -17,14 +17,14 @@ This option specifies the initial box size for trust region models for the overa
 
 **Note** 
 
-*	More about Phase 0 can be found in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm` .
+*	More about Phase 0 can be found in the section :ref:`option-CONOPT-description_of_conopt_algorithm` .
 
 
 
 
 **Learn more about** 
 
-*	:ref:`CONOPTDescription_of_CONOPT_Algorithm` 
+*	:ref:`option-CONOPT-description_of_conopt_algorithm` 
 
 
 

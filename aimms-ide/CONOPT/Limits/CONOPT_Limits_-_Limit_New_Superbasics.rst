@@ -1,4 +1,4 @@
-.. _CONOPT_Limits_-_Limit_New_Superbasics:
+.. _option-CONOPT-limit_on_new_superbasics:
 
 Limit on New Superbasics
 ========================

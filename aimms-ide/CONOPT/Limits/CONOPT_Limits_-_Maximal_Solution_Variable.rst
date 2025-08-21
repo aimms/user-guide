@@ -1,4 +1,4 @@
-.. _CONOPT_Limits_-_Maximal_Solution_Variable:
+.. _option-CONOPT-maximum_solution_of_a_variable:
 
 Maximum Solution of a Variable
 ==============================

@@ -1,4 +1,4 @@
-.. _CONOPT_Debugging_-_Check_2nd_Order_Der:
+.. _option-CONOPT-check_2nd_order_derivatives:
 
 Check 2nd Order Derivatives
 ===========================
@@ -30,8 +30,8 @@ This options controls how often the second order derivatives are tested. Debuggi
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Debugging_-_Check_1st_Order_Der` 
-*	:ref:`CONOPT_Debugging_-_Tolerance_2nd_Order_Der_Check` 
+*	:ref:`option-CONOPT-check_1st_order_derivatives` 
+*	:ref:`option-CONOPT-tolerance_2nd_order_derivatives_check` 
 
 
 

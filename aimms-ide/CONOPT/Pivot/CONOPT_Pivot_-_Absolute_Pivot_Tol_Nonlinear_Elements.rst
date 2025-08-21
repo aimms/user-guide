@@ -1,4 +1,4 @@
-.. _CONOPT_Pivot_-_Absolute_Pivot_Tol_Nonlinear_Elements:
+.. _option-CONOPT-absolute_pivot_tolerance_nonlinear_elements:
 
 Absolute Pivot Tolerance Nonlinear Elements
 ===========================================
@@ -17,4 +17,4 @@ This option specifies the smallest pivot that can be used for nonlinear or varia
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Pivot_-_Absolute_Pivot_Tol_Nonlinear_Elements`  
+*	:ref:`option-CONOPT-absolute_pivot_tolerance_nonlinear_elements`  

@@ -1,4 +1,4 @@
-.. _CONOPT_Limits_-_Limit_Candidates_Defined_Variable:
+.. _option-CONOPT-limit_on_candidates_for_defined_variable:
 
 Limit on Candidates for Defined Variable
 ========================================

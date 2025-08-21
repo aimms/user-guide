@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Fixed_Var_Tol_Derived_Bounds:
+.. _option-CONOPT-fixed_variables_tolerance_derived_bounds:
 
 Fixed Variables Tolerance Derived Bounds
 ========================================
@@ -17,4 +17,4 @@ A variable is considered fixed if the distance between the bounds is less than F
 
 **Learn more about** 
 
-*	:ref:`CONOPT_General_-_Bound_Tolerance` 
+*	:ref:`option-CONOPT-bound_tolerance` 

@@ -41,7 +41,7 @@ CONOPT has been designed for large, sparse models. This means that the dimension
 
 
 
-Information about the algorithm used by CONOPT can be found in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm` .
+Information about the algorithm used by CONOPT can be found in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm`.
 
 
 

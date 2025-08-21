@@ -90,7 +90,7 @@ then CONOPT might show the third error message if X and Y are close to 0. To rep
 
 *	:ref:`Options_NonlinPres_-_NonlinearPresolve` 
 *	:ref:`Options_NonlinPres_-_DisplayInfyAnalys` 
-*	:ref:`CONOPT_Limits_-_Maximal_Solution_Variable` 
+*	:ref:`option-CONOPT-maximum_solution_of_a_variable` 
 
 
 

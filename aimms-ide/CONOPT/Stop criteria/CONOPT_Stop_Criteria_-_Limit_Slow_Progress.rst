@@ -1,4 +1,4 @@
-.. _CONOPT_Stop_Criteria_-_Limit_Slow_Progress:
+.. _option-CONOPT-limit_for_slow_progress:
 
 Limit for Slow Progress
 =======================
@@ -17,7 +17,7 @@ This option sets the maximum number of consecutive iterations of a slow progress
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Stop_Criteria_-_Slow_Progress_Tol`  
+*	:ref:`option-CONOPT-slow_progress_tolerance`  
 
 
 

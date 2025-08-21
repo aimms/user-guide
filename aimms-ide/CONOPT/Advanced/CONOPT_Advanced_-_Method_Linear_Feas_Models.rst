@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Method_Linear_Feas_Models:
+.. _option-CONOPT-method_for_linear_feasibility_models:
 
 
 Method for Linear Feasibility Models
@@ -24,7 +24,7 @@ This option specifies the method used for the Linear Feasibility Models. Possibl
 
 
 
-The Linear Feasibility Model and the three methods are described in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm` .
+The Linear Feasibility Model and the three methods are described in the section :ref:`option-CONOPT-description_of_conopt_algorithm` .
 
 
 
@@ -40,7 +40,7 @@ The Linear Feasibility Model and the three methods are described in the section 
 **Learn more about** 
 
 *	:ref:`CONOPT_Description_of_CONOPT_Algorithm` 
-*	:ref:`CONOPT_Limits_-_Limit_Linear_Feas_Model_Rounds`  
+*	:ref:`option-CONOPT-limit_on_linear_feasibility_model_rounds`  
 
 
 

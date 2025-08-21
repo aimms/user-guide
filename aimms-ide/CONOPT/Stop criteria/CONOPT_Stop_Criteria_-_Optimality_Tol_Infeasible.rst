@@ -1,4 +1,4 @@
-.. _CONOPT_Stop_Criteria_-_Optimality_Tol_Infeasible:
+.. _option-CONOPT-optimality_tolerance_infeasible:
 
 Optimality Tolerance Infeasible
 ===============================

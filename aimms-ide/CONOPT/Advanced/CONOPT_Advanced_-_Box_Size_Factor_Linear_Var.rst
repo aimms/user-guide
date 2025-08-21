@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Box_Size_Factor_Linear_Var:
+.. _option-CONOPT-box_size_factor_linear_variables:
 
 
 Box Size Factor Linear Variables
@@ -18,14 +18,14 @@ This option specifies the box size factor for linear variables applied to trust 
 
 **Note** 
 
-*	More about Phase 0 can be found in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm` .
+*	More about Phase 0 can be found in the section :ref:`option-CONOPT-description_of_conopt_algorithm` .
 
 
 
 
 **Learn more about** 
 
-*	:ref:`CONOPTDescription_of_CONOPT_Algorithm` 
+*	:ref:`option-CONOPT-description_of_conopt_algorithm` 
 
 
 

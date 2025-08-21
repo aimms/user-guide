@@ -1,4 +1,4 @@
-.. _CONOPT_Pivot_-_Absolute_Pivot_Tol_Initial_Basis:
+.. _option-CONOPT-absolute_pivot_tolerance_initial_basis:
 
 Absolute Pivot Tolerance Initial Basis
 ======================================
@@ -17,5 +17,5 @@ This option specifies the relative pivot tolerance used during the search for a 
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Pivot_-_Absolute_Pivot_Tol_Nonlinear_Elements`  
-*	:ref:`CONOPT_Pivot_-_Relative_Pivot_Tol_Initial_Basis`  
+*	:ref:`option-CONOPT-absolute_pivot_tolerance_nonlinear_elements`  
+*	:ref:`option-CONOPT-relative_pivot_tolerance_initial_basis`  

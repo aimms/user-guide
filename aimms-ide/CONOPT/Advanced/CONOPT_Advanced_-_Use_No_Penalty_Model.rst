@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Use_No_Penalty_Model:
+.. _option-CONOPT-use_no-penalty_model:
 
 
 Use No-Penalty Model
@@ -30,14 +30,14 @@ When turned on (the default) CONOPT will create and solve a smaller model withou
 
 **Note** 
 
-*	The No-Penalty Model is described in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm` .
+*	The No-Penalty Model is described in the section :ref:`option-CONOPT-description_of_conopt_algorithm` .
 
 
 
 
 **Learn more about** 
 
-*	:ref:`CONOPTDescription_of_CONOPT_Algorithm` 
+*	:ref:`option-CONOPT-description_of_conopt_algorithm` 
 
 
 

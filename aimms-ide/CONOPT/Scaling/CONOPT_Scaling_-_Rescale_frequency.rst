@@ -1,4 +1,4 @@
-.. _CONOPT_Scaling_-_Rescale_frequency:
+.. _option-CONOPT-rescale_frequency:
 
 Rescale Frequency
 =================

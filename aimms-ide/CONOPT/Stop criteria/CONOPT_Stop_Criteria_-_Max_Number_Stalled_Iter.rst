@@ -1,4 +1,4 @@
-.. _CONOPT_Stop_Criteria_-_Max_Number_Stalled_Iter:
+.. _option-CONOPT-maximal_number_of_stalled_iterations:
 
 Maximal Number of Stalled Iterations
 ====================================

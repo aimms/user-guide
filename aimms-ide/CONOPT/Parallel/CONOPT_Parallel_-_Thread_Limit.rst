@@ -1,4 +1,4 @@
-.. _CONOPT_Parallel_-_Thread_Limit:
+.. _option-CONOPT-thread_limit:
 
 Thread Limit
 ============

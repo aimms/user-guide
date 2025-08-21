@@ -1,4 +1,4 @@
-.. _CONOPT_Advanced_-_Method_Finding_Max_Step:
+.. _option-CONOPT-method_for_finding_maximal_step:
 
 
 Method for Finding Maximal Step
@@ -35,7 +35,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Advanced_-_Method_Finding_Max_Tight_Step` 
+*	:ref:`option-CONOPT-method_for_finding_maximal_tight_step` 
 
 
 

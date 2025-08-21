@@ -1,4 +1,4 @@
-.. _CONOPT_General_-_Feas_Tol_Triangular:
+.. _option-CONOPT-feasibility_tolerance_triangular_part:
 
 Feasibility Tolerance Triangular Part
 =====================================
@@ -17,7 +17,7 @@ Triangular equations are usually solved to an accuracy of **Minimal Feasibility 
 
 **Learn more about** 
 
-*	:ref:`CONOPT_General_-_Minimal_Feas_Tol`  
+*	:ref:`option-CONOPT-minimal_feasibility_tolerance`  
 
 
 

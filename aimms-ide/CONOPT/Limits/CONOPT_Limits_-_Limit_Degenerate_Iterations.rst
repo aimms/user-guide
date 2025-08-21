@@ -1,4 +1,4 @@
-.. _CONOPT_Limits_-_Limit_Degenerate_Iterations:
+.. _option-CONOPT-limit_on_degenerate_iterations:
 
 Limit on Degenerate Iterations
 ==============================

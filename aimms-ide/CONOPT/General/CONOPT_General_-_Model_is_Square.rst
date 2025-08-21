@@ -1,4 +1,4 @@
-.. _CONOPT_General_-_Model_is_Square:
+.. _option-CONOPT-model_is_square_system:
 
 Model is Square System
 ======================
