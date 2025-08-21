@@ -1,4 +1,4 @@
-.. _XA_MIP_-_Selection_of_Nodes:
+.. _option-XA-selection_of_nodes:
 
 
 Selection of Nodes
@@ -24,7 +24,7 @@ When solving mixed integer models XA must decide how to handle node generation, 
 
 **Learn more about** 
 
-*	:ref:`XA_MIP_-_MIP_Basis`  
+*	:ref:`option-XA-mip_basis`  
 
 
 

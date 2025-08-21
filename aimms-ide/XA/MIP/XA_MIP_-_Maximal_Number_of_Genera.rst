@@ -1,4 +1,4 @@
-.. _XA_MIP_-_Maximal_Number_of_Genera:
+.. _option-XA-maximal_number_of_generated_nodes:
 
 
 Maximal Number of Generated Nodes

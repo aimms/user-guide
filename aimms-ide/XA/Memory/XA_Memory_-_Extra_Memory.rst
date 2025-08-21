@@ -1,4 +1,4 @@
-.. _XA_Memory_-_Extra_Memory:
+.. _option-XA-extra_memory:
 
 
 Extra Memory
@@ -28,7 +28,7 @@ This option is ignored if the option **Solver workspace**  has been set to a val
 
 **Learn more about** 
 
-*	:ref:`XA_Memory_-_Minimal_Memory_Size`  
+*	:ref:`option-XA-minimal_memory_size`  
 *	:ref:`Options_Memory_-_Solver_Workspace`  
 
 

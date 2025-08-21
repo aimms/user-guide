@@ -1,4 +1,4 @@
-.. _XA_Simplex_-_Degenerate_Pivots:
+.. _option-XA-degenerate_pivots:
 
 
 Degenerate Pivots

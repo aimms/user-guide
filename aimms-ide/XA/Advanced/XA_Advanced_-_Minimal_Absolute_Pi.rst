@@ -1,4 +1,4 @@
-.. _XA_Advanced_-_Minimal_Absolute_Pi:
+.. _option-XA-minimal_absolute_pivot_value:
 
 
 Minimal Absolute Pivot Value
@@ -24,7 +24,7 @@ Extreme caution should be exercised when changing the value of this option becau
 
 **Learn more about** 
 
-*	:ref:`XA_Advanced_-_Maximal_Absolute_Pi`  
+*	:ref:`option-XA-maximal_absolute_pivot_value`  
 
 
 

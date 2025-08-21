@@ -1,4 +1,4 @@
-.. _XA_Memory_-_Minimal_Memory_Size:
+.. _option-XA-minimal_memory_size:
 
 
 Minimal Memory Size
@@ -22,7 +22,7 @@ max(100 ** number of non-zeros + **Extra Memory**  , the value of this option).
 
 **Learn more about** 
 
-*	:ref:`XA_Memory_-_Extra_Memory`  
+*	:ref:`option-XA-extra_memory`  
 *	:ref:`Options_Memory_-_Solver_Workspace`  
 
 

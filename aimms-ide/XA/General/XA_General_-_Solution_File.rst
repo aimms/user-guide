@@ -1,4 +1,4 @@
-.. _XA_General_-_Solution_File:
+.. _option-XA-solution_file:
 
 
 Solution File

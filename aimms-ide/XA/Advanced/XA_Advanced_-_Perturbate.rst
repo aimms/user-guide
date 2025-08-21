@@ -1,4 +1,4 @@
-.. _XA_Advanced_-_Perturbate:
+.. _option-XA-perturbate:
 
 
 Perturbate
@@ -24,7 +24,7 @@ Extreme caution should be exercised when changing the value of this option becau
 
 **Learn more about** 
 
-*	:ref:`XA_Simplex_-_Degenerate_Pivots`  
+*	:ref:`option-XA-degenerate_pivots`  
 
 
 

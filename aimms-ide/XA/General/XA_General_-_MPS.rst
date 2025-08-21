@@ -1,4 +1,4 @@
-.. _XA_General_-_MPS:
+.. _option-XA-mps:
 
 
 MPS

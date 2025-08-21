@@ -1,4 +1,4 @@
-.. _XA_General_-_Presolve_Activity_Types:
+.. _option-XA-presolve_activity_types:
 
 
 Presolve Activity Types
@@ -75,7 +75,7 @@ When you know that your model does not have a lot of unnecessary rows or columns
 
 **Learn more about** 
 
-*	:ref:`XA_General_-_Presolve`  
+*	:ref:`option-XA-presolve`  
 
 
 

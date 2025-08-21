@@ -1,4 +1,4 @@
-.. _XA_General_-_LP_Method:
+.. _option-XA-lp_method:
 
 
 LP Method

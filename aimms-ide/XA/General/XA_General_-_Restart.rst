@@ -1,4 +1,4 @@
-.. _XA_General_-_Restart:
+.. _option-XA-restart:
 
 
 Restart
@@ -28,7 +28,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`XA_General_-_Restart_File_Number`  
+*	:ref:`option-XA-restart_file_number`  
 
 
 

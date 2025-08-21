@@ -1,4 +1,4 @@
-.. _XA_MIP_-_MIP_Strategy:
+.. _option-XA-mip_strategy:
 
 
 MIP Strategy
@@ -38,9 +38,9 @@ The setting "Column randomly selected" is useful when solving very large problem
 
 **Learn more about** 
 
-*	:ref:`XA_MIP_-_MIP_Strategy_Branching_P`  
-*	:ref:`XA_MIP_-_MIP_Strategy_Estimate_In`  
-*	:ref:`XA_MIP_-_MIP_Strategy_Split_Node_`  
+*	:ref:`option-XA-mip_strategy_branching_priorities`  
+*	:ref:`option-XA-mip_strategy_estimate_integer_solution`  
+*	:ref:`option-XA-mip_strategy_split_node_list`  
 
 
 

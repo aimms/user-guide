@@ -1,4 +1,4 @@
-.. _XA_Simplex_-_Reduced_Cost:
+.. _option-XA-reduced_cost:
 
 
 Reduced Cost

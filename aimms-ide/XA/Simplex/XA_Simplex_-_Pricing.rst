@@ -1,4 +1,4 @@
-.. _XA_Simplex_-_Pricing:
+.. _option-XA-pricing:
 
 
 Pricing

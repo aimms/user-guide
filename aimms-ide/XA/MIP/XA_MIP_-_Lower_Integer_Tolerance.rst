@@ -1,4 +1,4 @@
-.. _XA_MIP_-_Lower_Integer_Tolerance:
+.. _option-XA-lower_integer_tolerance:
 
 
 Lower Integer Tolerance
@@ -18,7 +18,7 @@ This option determines the lower integer tolerance. For example, if the value of
 
 **Learn more about** 
 
-*	:ref:`XA_MIP_-_Upper_Integer_Tolerance` 
+*	:ref:`option-XA-upper_integer_tolerance` 
 
 
 

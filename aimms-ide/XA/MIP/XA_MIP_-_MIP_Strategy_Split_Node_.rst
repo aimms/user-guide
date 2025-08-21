@@ -1,4 +1,4 @@
-.. _XA_MIP_-_MIP_Strategy_Split_Node_:
+.. _option-XA-mip_strategy_split_node_list:
 
 
 MIP Strategy Split Node List
@@ -34,9 +34,9 @@ If you set this option to a non-default value then sometimes the solution time i
 
 **Learn more about** 
 
-*	:ref:`XA_MIP_-_MIP_Strategy`  
-*	:ref:`XA_MIP_-_MIP_Strategy_Branching_P`  
-*	:ref:`XA_MIP_-_MIP_Strategy_Estimate_In`  
+*	:ref:`option-XA-mip_strategy`  
+*	:ref:`option-XA-mip_strategy_branching_priorities`  
+*	:ref:`option-XA-mip_strategy_estimate_integer_solution`  
 
 
 

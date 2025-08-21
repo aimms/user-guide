@@ -1,4 +1,4 @@
-.. _XA_MIP_-_MIP_Branch_Order:
+.. _option-XA-mip_branch_order:
 
 
 MIP Branch Order

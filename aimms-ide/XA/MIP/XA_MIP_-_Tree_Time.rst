@@ -1,4 +1,4 @@
-.. _XA_MIP_-_Tree_Time:
+.. _option-XA-tree_time:
 
 
 Tree Time
@@ -18,7 +18,7 @@ The amount of time (in seconds) to spend at the current tree depth before retrea
 
 **Learn more about** 
 
-*	:ref:`XA_MIP_-_Tree_Depth`  
+*	:ref:`option-XA-tree_depth`  
 
 
 

@@ -1,4 +1,4 @@
-.. _XA_MIP_-_Dual_Simplex:
+.. _option-XA-dual_simplex:
 
 
 Dual Simplex

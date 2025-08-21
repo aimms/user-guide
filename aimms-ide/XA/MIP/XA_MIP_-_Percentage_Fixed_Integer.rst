@@ -1,4 +1,4 @@
-.. _XA_MIP_-_Percentage_Fixed_Integer:
+.. _option-XA-percentage_fixed_integer_variables:
 
 
 Percentage Fixed Integer Variables

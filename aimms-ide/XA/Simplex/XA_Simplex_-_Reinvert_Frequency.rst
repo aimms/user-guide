@@ -1,4 +1,4 @@
-.. _XA_Simplex_-_Reinvert_Frequency:
+.. _option-XA-reinvert_frequency:
 
 
 Reinvert Frequency

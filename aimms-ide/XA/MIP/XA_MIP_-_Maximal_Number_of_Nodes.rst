@@ -1,4 +1,4 @@
-.. _XA_MIP_-_Maximal_Number_of_Nodes:
+.. _option-XA-maximal_number_of_nodes:
 
 
 Maximal Number of Nodes

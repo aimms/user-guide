@@ -1,4 +1,4 @@
-.. _XA_General_-_Force:
+.. _option-XA-force:
 
 
 Force

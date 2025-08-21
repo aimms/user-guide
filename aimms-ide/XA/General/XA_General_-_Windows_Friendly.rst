@@ -1,4 +1,4 @@
-.. _XA_General_-_Windows_Friendly:
+.. _option-XA-windows_friendly:
 
 
 Windows Friendly

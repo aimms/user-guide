@@ -1,7 +1,6 @@
 
 
 .. _AIMMS_to_XA_Mapping:
-.. _XA_AIMMS_to_XA_Mapping:
 
 
 AIMMS to XA Mapping
@@ -15,97 +14,97 @@ The table shows in the left column the AIMMS XA options; the right column displa
 
    * - **Option name in AIMMS**
      - **Name in XA**
-   * - :ref:`XA_Advanced_-_Dual_Activity_Toler`
+   * - :ref:`option-XA-dual_activity_tolerance`
      - SET TOLERANCE DUAL
-   * - :ref:`XA_Advanced_-_Maximal_Absolute_Pi`
+   * - :ref:`option-XA-maximal_absolute_pivot_value`
      - SET REJPIVOT
-   * - :ref:`XA_Advanced_-_Minimal_Absolute_Pi`
+   * - :ref:`option-XA-minimal_absolute_pivot_value`
      - SET YPIVOT
-   * - :ref:`XA_Advanced_-_Perturbate`
+   * - :ref:`option-XA-perturbate`
      - SET PERTURBATE
-   * - :ref:`XA_Advanced_-_Primal_Activity_Tol`
+   * - :ref:`option-XA-primal_activity_tolerance`
      - SET TOLERANCE PRIMAL
-   * - :ref:`XA_Advanced_-_Size_of_Smallest_El`
+   * - :ref:`option-XA-size_of_smallest_element`
      - SET ELEMSIZE
-   * - :ref:`XA_General_-_Crash`
+   * - :ref:`option-XA-crash`
      - SET CRASH
-   * - :ref:`XA_General_-_Force`
+   * - :ref:`option-XA-force`
      - CONFLICT
-   * - :ref:`XA_General_-_LP_Method`
+   * - :ref:`option-XA-lp_method`
      - SET BARRIER
-   * - :ref:`XA_General_-_MPS`
+   * - :ref:`option-XA-mps`
      - TOMPS
-   * - :ref:`XA_General_-_Presolve`
+   * - :ref:`option-XA-presolve`
      - SET ELIMINATE
-   * - :ref:`XA_General_-_Presolve_Activity_Types`
+   * - :ref:`option-XA-presolve_activity_types`
      - PRESOLVE
-   * - :ref:`XA_General_-_Restart`
+   * - :ref:`option-XA-restart`
      - SET RESTART
-   * - :ref:`XA_General_-_Restart_File_Number`
+   * - :ref:`option-XA-restart_file_number`
      - 
-   * - :ref:`XA_General_-_Scale`
+   * - :ref:`option-XA-scale`
      - SET SCALE
-   * - :ref:`XA_General_-_Solution_File`
+   * - :ref:`option-XA-solution_file`
      -
-   * - :ref:`XA_General_-_Windows_Friendly`
+   * - :ref:`option-XA-windows_friendly`
      - SET WINFRIENDLY
-   * - :ref:`XA_Logging_-_Node_Log`
+   * - :ref:`option-XA-node_log`
      -
-   * - :ref:`XA_Logging_-_Simplex_Log`
+   * - :ref:`option-XA-simplex_log`
      -
-   * - :ref:`XA_Memory_-_Extra_Memory`
+   * - :ref:`option-XA-extra_memory`
      -
-   * - :ref:`XA_Memory_-_Minimal_Memory_Size`
+   * - :ref:`option-XA-minimal_memory_size`
      -
-   * - :ref:`XA_MIP_-_Basis_in_Memory`
+   * - :ref:`option-XA-basis_in_memory`
      - SET BASISMEMORY
-   * - :ref:`XA_MIP_-_Dual_Simplex`
+   * - :ref:`option-XA-dual_simplex`
      - SET DUALSIMPLEX
-   * - :ref:`XA_MIP_-_Lower_Integer_Tolerance`
+   * - :ref:`option-XA-lower_integer_tolerance`
      - SET LTOLERANCE
-   * - :ref:`XA_MIP_-_Maximal_Number_of_Genera`
+   * - :ref:`option-XA-maximal_number_of_generated_nodes`
      - SET LIMITNODES
-   * - :ref:`XA_MIP_-_Maximal_Number_of_Nodes`
+   * - :ref:`option-XA-maximal_number_of_nodes`
      - SET MAXNODES
-   * - :ref:`XA_MIP_-_MIP_Basis`
+   * - :ref:`option-XA-mip_basis`
      -
-   * - :ref:`XA_MIP_-_MIP_Branch_Order`
+   * - :ref:`option-XA-mip_branch_order`
      - PRIORITY
-   * - :ref:`XA_MIP_-_MIP_Postsolve`
+   * - :ref:`option-XA-mip_postsolve`
      -
-   * - :ref:`XA_MIP_-_MIP_Strategy`
+   * - :ref:`option-XA-mip_strategy`
      - STRATEGY
-   * - :ref:`XA_MIP_-_MIP_Strategy_Branching_P`
+   * - :ref:`option-XA-mip_strategy_branching_priorities`
      - STRATEGY
-   * - :ref:`XA_MIP_-_MIP_Strategy_Estimate_In`
+   * - :ref:`option-XA-mip_strategy_estimate_integer_solution`
      - STRATEGY
-   * - :ref:`XA_MIP_-_MIP_Strategy_Split_Node_`
+   * - :ref:`option-XA-mip_strategy_split_node_list`
      - STRATEGY
-   * - :ref:`XA_MIP_-_MIP_Update`
+   * - :ref:`option-XA-mip_update`
      -
-   * - :ref:`XA_MIP_-_Percentage_Fixed_Integer`
+   * - :ref:`option-XA-percentage_fixed_integer_variables`
      - SET INTPCT
-   * - :ref:`XA_MIP_-_Selection_of_Nodes`
+   * - :ref:`option-XA-selection_of_nodes`
      - SET RUNNER
-   * - :ref:`XA_MIP_-_Stop_After`
+   * - :ref:`option-XA-stop_after`
      - STOPAFTER
-   * - :ref:`XA_MIP_-_Stop_Unchanged`
+   * - :ref:`option-XA-stop_unchanged`
      - STOPUNCHANGED
-   * - :ref:`XA_MIP_-_Tree_Depth`
+   * - :ref:`option-XA-tree_depth`
      - TREEDEPTH
-   * - :ref:`XA_MIP_-_Tree_Time`
+   * - :ref:`option-XA-tree_time`
      - TREETIME
-   * - :ref:`XA_MIP_-_Upper_Integer_Tolerance`
+   * - :ref:`option-XA-upper_integer_tolerance`
      - SET UTOLERANCE
-   * - :ref:`XA_Simplex_-_Degenerate_Pivots`
+   * - :ref:`option-XA-degenerate_pivots`
      - SET DEGENITER
-   * - :ref:`XA_Simplex_-_Markowitz`
+   * - :ref:`option-XA-markowitz`
      - SET MARKOWITZ
-   * - :ref:`XA_Simplex_-_Pricing`
+   * - :ref:`option-XA-pricing`
      - SET PRICING
-   * - :ref:`XA_Simplex_-_Primal_Infeasibility`
+   * - :ref:`option-XA-primal_infeasibility`
      - SET XTOZERO
-   * - :ref:`XA_Simplex_-_Reduced_Cost`
+   * - :ref:`option-XA-reduced_cost`
      - SET REDUCEDCOST
-   * - :ref:`XA_Simplex_-_Reinvert_Frequency`
+   * - :ref:`option-XA-reinvert_frequency`
      - SET REINVERTFREQ

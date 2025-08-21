@@ -1,4 +1,4 @@
-.. _XA_Logging_-_Node_Log:
+.. _option-XA-node_log:
 
 
 Node Log

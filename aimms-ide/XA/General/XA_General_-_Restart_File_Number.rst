@@ -1,4 +1,4 @@
-.. _XA_General_-_Restart_File_Number:
+.. _option-XA-restart_file_number:
 
 
 Restart File Number
@@ -18,7 +18,7 @@ This option represents the number part of the restart file names.
 
 **Learn more about** 
 
-*	:ref:`XA_General_-_Restart`  
+*	:ref:`option-XA-restart`  
 
 
 

@@ -1,4 +1,4 @@
-.. _XA_MIP_-_Basis_in_Memory:
+.. _option-XA-basis_in_memory:
 
 
 Basis in Memory

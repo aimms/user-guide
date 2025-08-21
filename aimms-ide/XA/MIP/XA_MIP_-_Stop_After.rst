@@ -1,4 +1,4 @@
-.. _XA_MIP_-_Stop_After:
+.. _option-XA-stop_after:
 
 
 Stop After

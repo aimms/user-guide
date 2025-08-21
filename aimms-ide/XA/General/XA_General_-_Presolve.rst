@@ -1,4 +1,4 @@
-.. _XA_General_-_Presolve:
+.. _option-XA-presolve:
 
 
 Presolve
@@ -24,7 +24,7 @@ Setting this option to yes will cause XA's presolver to be called to make proble
 
 **Learn more about** 
 
-*	:ref:`XA_General_-_Presolve_Activity_Types`  
+*	:ref:`option-XA-presolve_activity_types`  
 
 
 

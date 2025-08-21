@@ -48,8 +48,8 @@ XA 16 can also handle certain problems in which the objective function is not li
 **Learn more about** 
 
 *	`XA <http://www.sunsetsoft.com>`_ (Internet link)
-*	:ref:`XA_to_AIMMS_Mapping`  
-*	:ref:`XA_AIMMS_to_XA_Mapping`  
+*	:ref:`XA_to_AIMMS_Mappings`  
+*	:ref:`AIMMS_to_XA_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	:ref:`Miscellaneous_Solver_Configuration` 
 *	:ref:`XA_Troubleshooting`  

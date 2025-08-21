@@ -1,4 +1,4 @@
-.. _XA_MIP_-_Tree_Depth:
+.. _option-XA-tree_depth:
 
 
 Tree Depth
@@ -18,7 +18,7 @@ This option determines the node depth to retreat back to after the number of sec
 
 **Learn more about** 
 
-*	:ref:`XA_MIP_-_Tree_Time`  
+*	:ref:`option-XA-tree_time`  
 
 
 

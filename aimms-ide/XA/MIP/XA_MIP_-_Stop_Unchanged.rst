@@ -1,4 +1,4 @@
-.. _XA_MIP_-_Stop_Unchanged:
+.. _option-XA-stop_unchanged:
 
 
 Stop Unchanged

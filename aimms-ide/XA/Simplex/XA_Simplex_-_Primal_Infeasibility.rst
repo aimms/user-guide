@@ -1,4 +1,4 @@
-.. _XA_Simplex_-_Primal_Infeasibility:
+.. _option-XA-primal_infeasibility:
 
 
 Primal Infeasibility

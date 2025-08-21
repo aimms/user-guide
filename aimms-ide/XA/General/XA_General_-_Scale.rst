@@ -1,4 +1,4 @@
-.. _XA_General_-_Scale:
+.. _option-XA-scale:
 
 
 Scale

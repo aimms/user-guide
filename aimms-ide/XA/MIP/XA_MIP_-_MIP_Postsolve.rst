@@ -1,4 +1,4 @@
-.. _XA_MIP_-_MIP_Postsolve:
+.. _option-XA-mip_postsolve:
 
 
 MIP Postsolve
@@ -27,8 +27,8 @@ XA does not round the found integer values of a MIP to the nearest integer value
 
 **Learn more about** 
 
-*	:ref:`XA_MIP_-_Lower_Integer_Tolerance`  
-*	:ref:`XA_MIP_-_Upper_Integer_Tolerance`  
+*	:ref:`option-XA-lower_integer_tolerance`  
+*	:ref:`option-XA-upper_integer_tolerance`  
 
 
 

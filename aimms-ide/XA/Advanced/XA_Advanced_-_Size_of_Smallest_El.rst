@@ -1,4 +1,4 @@
-.. _XA_Advanced_-_Size_of_Smallest_El:
+.. _option-XA-size_of_smallest_element:
 
 
 Size of Smallest Element

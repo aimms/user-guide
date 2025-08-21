@@ -1,4 +1,4 @@
-.. _XA_MIP_-_MIP_Basis:
+.. _option-XA-mip_basis:
 
 
 MIP Basis

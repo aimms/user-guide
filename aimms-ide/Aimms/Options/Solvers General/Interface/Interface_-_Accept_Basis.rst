@@ -43,5 +43,5 @@ An Accept Basis value of 1 always accepts a provided basis and an Accept Basis o
 *   COPT:   :ref:`option-COPT-restart`
 *   CPLEX:  :ref:`option-CPLEX-restart`
 *   GUROBI: :ref:`option-GUROBI-restart`
-*   XA:     :ref:`XA_General_-_Restart`
+*   XA:     :ref:`option-XA-restart`
 

@@ -1,4 +1,4 @@
-.. _XA_Logging_-_Simplex_Log:
+.. _option-XA-simplex_log:
 
 
 Simplex Log

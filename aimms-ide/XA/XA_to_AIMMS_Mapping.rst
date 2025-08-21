@@ -1,6 +1,6 @@
 
 
-.. _XA_to_AIMMS_Mapping:
+.. _XA_to_AIMMS_Mappings:
 
 
 XA to AIMMS Mapping
@@ -15,78 +15,78 @@ The table shows in the left column the parameters from XA that can be set in AIM
    * - **Name in XA**
      - **Option name in AIMMS**
    * - CONFLICT
-     - :ref:`XA_General_-_Force`
+     - :ref:`option-XA-force`
    * - PRESOLVE
-     - :ref:`XA_General_-_Presolve_Activity_Types`
+     - :ref:`option-XA-presolve_activity_types`
    * - PRIORITY
-     - :ref:`XA_MIP_-_MIP_Branch_Order`
+     - :ref:`option-XA-mip_branch_order`
    * - SET BARRIER
-     - :ref:`XA_General_-_LP_Method`
+     - :ref:`option-XA-lp_method`
    * - SET BASISMEMORY
-     - :ref:`XA_MIP_-_Basis_in_Memory`
+     - :ref:`option-XA-basis_in_memory`
    * - SET CRASH
-     - :ref:`XA_General_-_Crash`
+     - :ref:`option-XA-crash`
    * - SET DEGENITER
-     - :ref:`XA_Simplex_-_Degenerate_Pivots`
+     - :ref:`option-XA-degenerate_pivots`
    * - SET DUALSIMPLEX
-     - :ref:`XA_MIP_-_Dual_Simplex`
+     - :ref:`option-XA-dual_simplex`
    * - SET ELEMSIZE
-     - :ref:`XA_Advanced_-_Size_of_Smallest_El`
+     - :ref:`option-XA-size_of_smallest_element`
    * - SET ELIMINATE
-     - :ref:`XA_General_-_Presolve`
+     - :ref:`option-XA-presolve`
    * - SET INTPCT
-     - :ref:`XA_MIP_-_Percentage_Fixed_Integer`
+     - :ref:`option-XA-percentage_fixed_integer_variables`
    * - SET LIMITNODES
-     - :ref:`XA_MIP_-_Maximal_Number_of_Genera`
+     - :ref:`option-XA-maximal_number_of_generated_nodes`
    * - SET LTOLERANCE
-     - :ref:`XA_MIP_-_Lower_Integer_Tolerance`
+     - :ref:`option-XA-lower_integer_tolerance`
    * - SET MARKOWITZ
-     - :ref:`XA_Simplex_-_Markowitz`
+     - :ref:`option-XA-markowitz`
    * - SET MAXNODES
-     - :ref:`XA_MIP_-_Maximal_Number_of_Nodes`
+     - :ref:`option-XA-maximal_number_of_nodes`
    * - SET PERTURBATE
-     - :ref:`XA_Advanced_-_Perturbate`
+     - :ref:`option-XA-perturbate`
    * - SET PRICING
-     - :ref:`XA_Simplex_-_Pricing`
+     - :ref:`option-XA-pricing`
    * - SET REDUCEDCOST
-     - :ref:`XA_Simplex_-_Reduced_Cost`
+     - :ref:`option-XA-reduced_cost`
    * - SET REINVERTFREQ
-     - :ref:`XA_Simplex_-_Reinvert_Frequency`
+     - :ref:`option-XA-reinvert_frequency`
    * - SET REJPIVOT
-     - :ref:`XA_Advanced_-_Maximal_Absolute_Pi`
+     - :ref:`option-XA-maximal_absolute_pivot_value`
    * - SET RESTART
-     - :ref:`XA_General_-_Restart`
+     - :ref:`option-XA-restart`
    * - SET RUNNER
-     - :ref:`XA_MIP_-_Selection_of_Nodes`
+     - :ref:`option-XA-selection_of_nodes`
    * - SET SCALE
-     - :ref:`XA_General_-_Scale`
+     - :ref:`option-XA-scale`
    * - SET TOLERANCE DUAL
-     - :ref:`XA_Advanced_-_Dual_Activity_Toler`
+     - :ref:`option-XA-dual_activity_tolerance`
    * - SET TOLERANCE PRIMAL
-     - :ref:`XA_Advanced_-_Primal_Activity_Tol`
+     - :ref:`option-XA-primal_activity_tolerance`
    * - SET UTOLERANCE
-     - :ref:`XA_MIP_-_Upper_Integer_Tolerance`
+     - :ref:`option-XA-upper_integer_tolerance`
    * - SET WINFRIENDLY
-     - :ref:`XA_General_-_Windows_Friendly`
+     - :ref:`option-XA-windows_friendly`
    * - SET XTOZERO
-     - :ref:`XA_Simplex_-_Primal_Infeasibility`
+     - :ref:`option-XA-primal_infeasibility`
    * - SET YPIVOT
-     - :ref:`XA_Advanced_-_Minimal_Absolute_Pi`
+     - :ref:`option-XA-minimal_absolute_pivot_value`
    * - STOPAFTER
-     - :ref:`XA_MIP_-_Stop_After`
+     - :ref:`option-XA-stop_after`
    * - STOPUNCHANGED
-     - :ref:`XA_MIP_-_Stop_Unchanged`
+     - :ref:`option-XA-stop_unchanged`
    * - STRATEGY
-     - :ref:`XA_MIP_-_MIP_Strategy`
+     - :ref:`option-XA-mip_strategy`
    * - 
-     - :ref:`XA_MIP_-_MIP_Strategy_Branching_P`
+     - :ref:`option-XA-mip_strategy_branching_priorities`
    * - 
-     - :ref:`XA_MIP_-_MIP_Strategy_Estimate_In`
+     - :ref:`option-XA-mip_strategy_estimate_integer_solution`
    * - 
-     - :ref:`XA_MIP_-_MIP_Strategy_Split_Node_`
+     - :ref:`option-XA-mip_strategy_split_node_list`
    * - TOMPS
-     - :ref:`XA_General_-_MPS`
+     - :ref:`option-XA-mps`
    * - TREEDEPTH
-     - :ref:`XA_MIP_-_Tree_Depth`
+     - :ref:`option-XA-tree_depth`
    * - TREETIME
-     - :ref:`XA_MIP_-_Tree_Time`
+     - :ref:`option-XA-tree_time`

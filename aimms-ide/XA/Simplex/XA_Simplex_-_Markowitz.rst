@@ -1,4 +1,4 @@
-.. _XA_Simplex_-_Markowitz:
+.. _option-XA-markowitz:
 
 
 Markowitz

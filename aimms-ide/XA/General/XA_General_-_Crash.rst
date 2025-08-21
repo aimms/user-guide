@@ -1,4 +1,4 @@
-.. _XA_General_-_Crash:
+.. _option-XA-crash:
 
 
 Crash
