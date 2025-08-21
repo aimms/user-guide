@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XPrepr_-_Limit_Substitut:
+.. _option-ODHCPLEX-limit_substitutions:
 
 
 Limit Substitutions
@@ -18,4 +18,4 @@ This option can be used to limit the variable substitutions by the **Aggregator*
 
 **Learn more about** 
 
-*	 :ref:`ODH-CPLEX_XPrepr_-_Aggregator` 
+*	 :ref:`option-ODHCPLEX-aggregator` 

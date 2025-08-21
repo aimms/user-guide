@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_Solp_-_Do_Populate:
+.. _option-ODHCPLEX-do_populate:
 
 
 Do Populate
@@ -37,12 +37,12 @@ This option should be switched on before a normal solve statement (or before GMP
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_Solp_-_Pool_Abs_Obj_Gap`  
-*	:ref:`ODH-CPLEX_XMIP_Solp_-_Pool_Intensity`  
-*	:ref:`ODH-CPLEX_XMIP_Solp_-_Pool_Rel_Obj_Gap`  
-*	:ref:`ODH-CPLEX_XMIP_Solp_-_Pool_Repl_Strat`  
-*	:ref:`ODH-CPLEX_XMIP_Solp_-_Populate_time_limit`  
-*	:ref:`ODH-CPLEX_XMIP_Solp_-_Population_Limit`  
+*	:ref:`option-ODHCPLEX-pool_absolute_objective_gap`  
+*	:ref:`option-ODHCPLEX-pool_intensity`  
+*	:ref:`option-ODHCPLEX-pool_relative_objective_gap`  
+*	:ref:`option-ODHCPLEX-pool_replacement_strategy`  
+*	:ref:`option-ODHCPLEX-populate_time_limit`  
+*	:ref:`option-ODHCPLEX-population_limit`  
 
 
 

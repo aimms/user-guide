@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Heuristic_-_Recurse_Iteration_Limit_Solution:
+.. _option-ODHCPLEX-recurse_iteration_limit_solution:
 
 
 Recurse Iteration Limit Solution
@@ -22,5 +22,5 @@ This option is only active if the option **Recurse**  is set to a value other th
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_Heuristic_-_Recurse`  
-*	:ref:`ODH-CPLEX_Heuristic_-_Recurse_Iteration_Limit`  
+*	:ref:`option-ODHCPLEX-recurse`  
+*	:ref:`option-ODHCPLEX-recurse_iteration_limit`  

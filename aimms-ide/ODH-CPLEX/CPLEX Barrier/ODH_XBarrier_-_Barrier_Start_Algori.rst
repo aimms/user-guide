@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XBarrier_-_Barrier_Start_Algori:
+.. _option-ODHCPLEX-barrier_start_algorithm:
 
 
 Barrier Start Algorithm
@@ -26,7 +26,7 @@ This option sets the algorithm to be used to compute the initial starting point 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XPrepr_-_Presolve_Pass_D`  
+*	:ref:`option-ODHCPLEX-presolve_pass_dual`  
 
 
 

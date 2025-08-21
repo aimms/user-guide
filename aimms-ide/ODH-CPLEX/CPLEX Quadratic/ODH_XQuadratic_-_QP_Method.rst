@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XQuadratic_-_QP_Method:
+.. _option-ODHCPLEX-qp_method:
 
 
 QP Method
@@ -34,7 +34,7 @@ This option determines which algorithm is used for solving QP problems and MIQP 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XPar_-_GlobalThreadLimit`  
+*	:ref:`option-ODHCPLEX-global_thread_limit`  
 
 
 

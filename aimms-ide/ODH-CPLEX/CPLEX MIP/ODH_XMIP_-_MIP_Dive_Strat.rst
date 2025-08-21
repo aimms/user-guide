@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_MIP_Dive_Strat:
+.. _option-ODHCPLEX-mip_dive_strategy:
 
 
 MIP Dive Strategy

@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XGeneral_-_Cleanup_Coefficients:
+.. _option-ODHCPLEX-cleanup_coefficients:
 
 
 Cleanup Coefficients
@@ -18,4 +18,4 @@ CPLEX will change matrix coefficients that are smaller in magnitude than the val
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XGeneral_-_Round_Coefficients`  
+*	:ref:`option-ODHCPLEX-round_coefficients`  

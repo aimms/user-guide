@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_Cut_Limit:
+.. _option-ODHCPLEX-cut_limit:
 
 
 Cut Limit
@@ -29,7 +29,7 @@ A setting of 0 means no cuts.
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XCuts_-_Gomory_Cuts`  
+*	:ref:`option-ODHCPLEX-gomory_cuts`  
 
 
 

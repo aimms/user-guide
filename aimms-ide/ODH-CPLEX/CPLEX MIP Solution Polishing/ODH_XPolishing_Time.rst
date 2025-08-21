@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XPolishing_Time:
+.. _option-ODHCPLEX-polishing_time:
 
 
 Polishing Time
@@ -47,5 +47,5 @@ If CPLEX does not find a solution in the first 100 seconds, then this procedure 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XPolishing_Time_Deterministic`  
+*	:ref:`option-ODHCPLEX-polishing_time_deterministic`  
 *	:ref:`Options_Stop_Criteria_-_Time_Limit`  

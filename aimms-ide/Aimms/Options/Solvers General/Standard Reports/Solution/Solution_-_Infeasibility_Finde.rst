@@ -41,7 +41,7 @@ If this option is switched 'On' and a model is infeasible, extra information wil
 **Learn more about** 
 
 *	:ref:`option-Baron-compute_iis`
-*	:ref:`XA_General_-_Force` 
+*	:ref:`option-XA-force` 
 *	:ref:`Model-Explorer_Creating_a_Mathematical_Progra`  
 *	:ref:`Options_Standard_Reports_Suppress_Listing_File_Encrypte` 
 

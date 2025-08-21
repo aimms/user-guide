@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Advanced_-_Initial_Divisor_Value_Sub:
+.. _option-ODHCPLEX-initial_divisor_value_sub_models:
 
 
 Initial Divisor Value Sub Models
@@ -22,7 +22,7 @@ This option is ignored if the option **Initial Divisor Value**  is set.
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_Advanced_-_Initial_Divisor_Value`  
+*	:ref:`option-ODHCPLEX-initial_divisor_value`  
 
 
 

@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_MIP_Priority_Order_Switch:
+.. _option-ODHCPLEX-mip_priority_order_switch:
 
 
 MIP Priority Order Switch
@@ -37,4 +37,4 @@ A priority order can be specified in two ways, namely (1) by specifying a branch
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Priority_Order_Type` 
+*	:ref:`option-ODHCPLEX-mip_priority_order_type` 

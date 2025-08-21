@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XSimplex_-_Singular:
+.. _option-ODHCPLEX-singular:
 
 
 Singular

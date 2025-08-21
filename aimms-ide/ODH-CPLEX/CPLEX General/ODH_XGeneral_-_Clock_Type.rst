@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XGeneral_-_Clock_Type:
+.. _option-ODHCPLEX-clock_type:
 
 
 Clock Type
@@ -31,7 +31,7 @@ The setting 'Automatic' allows CPLEX to choose wall clock time when other parame
 
 **Learn more about** 
 
-*	 :ref:`ODH-CPLEX_XPar_-_GlobalThreadLimit` 
+*	 :ref:`option-ODHCPLEX-global_thread_limit` 
 
 
 

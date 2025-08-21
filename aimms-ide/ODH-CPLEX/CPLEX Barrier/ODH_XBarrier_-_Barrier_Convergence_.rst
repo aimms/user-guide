@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XBarrier_-_Barrier_Convergence_:
+.. _option-ODHCPLEX-barrier_convergence_tolerance:
 
 
 Barrier Convergence Tolerance
@@ -29,7 +29,7 @@ Changing this tolerance to a smaller value may result in greater numerical preci
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XQuadratic_-_Barrier_Conv_Toler` 
+*	:ref:`option-ODHCPLEX-barrier_convergence_tolerance_for_qcp` 
 
 
 

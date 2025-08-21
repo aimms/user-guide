@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_Disjunct_Cuts:
+.. _option-ODHCPLEX-disjunctive_cuts:
 
 
 Disjunctive Cuts

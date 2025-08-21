@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Logging_-_Status_Display:
+.. _option-ODHCPLEX-status_display:
 
 
 Status Display
@@ -44,7 +44,7 @@ The logging information is written to the AIMMS message window if the general so
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XLogging_-_MIP_Display` 
+*	:ref:`option-ODHCPLEX-mip_display` 
 *	:ref:`Options_Solver_Specific_-_Solver_Listi`   (General solvers option)
 *	:ref:`Options_Solver_Specific_-_Solver_List1`   (General solvers option)
 *	:ref:`Options_Solver_Specific_-_Solver_Windo`   (General solvers option)

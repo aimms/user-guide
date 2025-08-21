@@ -1,5 +1,5 @@
 
-.. _ODH-CPLEX_XMIP_-_MIP_Cand_List:
+.. _option-ODHCPLEX-mip_candidate_list:
 
 
 MIP Candidate List
@@ -19,7 +19,7 @@ The setting of this option specifies the length of the candidate list when using
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_Select_Variables`  
+*	:ref:`option-ODHCPLEX-select_variables`  
 
 
 

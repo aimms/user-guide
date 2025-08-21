@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_Advanced_-_SubMIP_Subproblem_Algorithm:
+.. _option-ODHCPLEX-submip_subproblem_algorithm:
 
 
 SubMIP Subproblem Algorithm

@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_General_-_Presolve:
+.. _option-ODHCPLEX-presolve:
 
 
 Presolve
@@ -25,4 +25,4 @@ This option determines whether the CPLEX presolve should be applied to the full 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_General_-_ODH_Presolve`  
+*	:ref:`option-ODHCPLEX-odh_presolve`  

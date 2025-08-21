@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XNetwork_-_Network_Pricing:
+.. _option-ODHCPLEX-network_pricing:
 
 
 Network Pricing
@@ -33,5 +33,5 @@ The setting "Automatic", the default, shows the best performance for most proble
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Method`  
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Start_Algorit`  
+*	:ref:`option-ODHCPLEX-mip_method`  
+*	:ref:`option-ODHCPLEX-mip_start_algorithm`  

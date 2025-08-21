@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_Nr_of_Simplex_Iter:
+.. _option-ODHCPLEX-number_of_simplex_iterations:
 
 
 Number of Simplex Iterations
@@ -18,7 +18,7 @@ The option controls the number of simplex iterations performed on each variable 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_Select_Variables`  
+*	:ref:`option-ODHCPLEX-select_variables`  
 
 
 

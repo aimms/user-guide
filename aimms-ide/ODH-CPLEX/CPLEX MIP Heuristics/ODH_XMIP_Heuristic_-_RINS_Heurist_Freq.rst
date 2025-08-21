@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_Heuristic_-_RINS_Heurist_Freq:
+.. _option-ODHCPLEX-rins_heuristic_frequency:
 
 
 RINS Heuristic Frequency

@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XPar_-_Auxiliary_Root_Threads:
+.. _option-ODHCPLEX-auxiliary_root_threads:
 
 
 Auxiliary Root Threads
@@ -45,7 +45,7 @@ At its default value, 0, CPLEX automatically chooses the number of threads to us
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XPar_-_GlobalThreadLimit` 
+*	:ref:`option-ODHCPLEX-global_thread_limit` 
 
 
 

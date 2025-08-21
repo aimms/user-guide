@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XBarrier_-_Barrier_cross:
+.. _option-ODHCPLEX-barrier_crossover_algorithm:
 
 
 Barrier Crossover Algorithm

@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Heuristic_-_Recurse_Decomposition_Method:
+.. _option-ODHCPLEX-recurse_decomposition_method:
 
 
 Recurse Decomposition Method
@@ -31,7 +31,7 @@ This option is only active if the option **Recurse**  is set to a value other th
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_Heuristic_-_Recurse`  
+*	:ref:`option-ODHCPLEX-recurse`  
 
 
 

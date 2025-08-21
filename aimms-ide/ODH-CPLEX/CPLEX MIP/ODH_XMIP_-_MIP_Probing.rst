@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_MIP_Probing:
+.. _option-ODHCPLEX-mip_probing:
 
 
 MIP Probing
@@ -33,4 +33,4 @@ The probing feature can help in many different ways on difficult models. Probing
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_Probing_Time` 
+*	:ref:`option-ODHCPLEX-probing_time` 

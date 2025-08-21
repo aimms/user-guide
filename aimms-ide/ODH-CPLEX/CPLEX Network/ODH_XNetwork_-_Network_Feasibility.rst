@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XNetwork_-_Network_Feasibility:
+.. _option-ODHCPLEX-network_feasibility:
 
 
 Network Feasibility
@@ -25,5 +25,5 @@ The network feasibility tolerance specifies the degree to which a problem's flow
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Method`  
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Start_Algorit`  
+*	:ref:`option-ODHCPLEX-mip_method`  
+*	:ref:`option-ODHCPLEX-mip_start_algorithm`  

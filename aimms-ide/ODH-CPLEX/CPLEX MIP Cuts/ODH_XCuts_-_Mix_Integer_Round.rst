@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_Mix_Integer_Round:
+.. _option-ODHCPLEX-mixed_integer_rounding_cuts:
 
 
 Mixed Integer Rounding Cuts

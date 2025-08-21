@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_RLT_Cuts:
+.. _option-ODHCPLEX-rlt_cuts:
 
 
 RLT Cuts
@@ -34,7 +34,7 @@ This option controls the addition of cuts based on the Reformulation Linearizati
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XQuadratic_-_Solution_Target` 
+*	:ref:`option-ODHCPLEX-solution_target` 
 
 
 

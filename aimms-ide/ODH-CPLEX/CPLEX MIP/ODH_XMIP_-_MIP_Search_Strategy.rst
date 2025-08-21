@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_MIP_Search_Strategy:
+.. _option-ODHCPLEX-mip_search_strategy:
 
 
 MIP Search Strategy
@@ -58,7 +58,7 @@ If the value of this option equals 'Apply branch-and-cut' then CPLEX will use on
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XPar_-_GlobalThreadLimit` 
+*	:ref:`option-ODHCPLEX-global_thread_limit` 
 *	:ref:`Options_Progress_Options_-_Progress_Time_Interval` 
 
 

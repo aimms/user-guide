@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_Write_MIP_Starts:
+.. _option-ODHCPLEX-write_mip_starts:
 
 
 Write MIP Starts
@@ -28,6 +28,6 @@ Possible values of this option are:
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XGeneral_-_LP_File`  
-*	:ref:`ODH-CPLEX_XGeneral_-_MemoryEmphasis`  
-*	:ref:`ODH-CPLEX_XGeneral_-_Sav_File`  
+*	:ref:`option-ODHCPLEX-lp_file`  
+*	:ref:`option-ODHCPLEX-memory_emphasis`  
+*	:ref:`option-ODHCPLEX-sav_file`  

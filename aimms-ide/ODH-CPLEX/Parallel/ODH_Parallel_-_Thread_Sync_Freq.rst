@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Parallel_-_Thread_Sync_Freq:
+.. _option-ODHCPLEX-thread_synchronization_frequency:
 
 
 Thread Synchronization Frequency

@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XPrepr_-_Aggregator:
+.. _option-ODHCPLEX-aggregator:
 
 
 Aggregator
@@ -30,4 +30,4 @@ Another option, which affects only the aggregator, is**Limit Substitutions** . O
 
 **Learn more about** 
 
-*	 :ref:`ODH-CPLEX_XPrepr_-_Limit_Substitut` 
+*	 :ref:`option-ODHCPLEX-limit_substitutions` 

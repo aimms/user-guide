@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_General_-_Quick_First_Solve:
+.. _option-ODHCPLEX-quick_first_solve:
 
 
 Quick First Solve
@@ -36,7 +36,7 @@ If set to 'Yes', the existing presolved model is used.
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_General_-_Presolve`  
+*	:ref:`option-ODHCPLEX-presolve`  
 
 
 

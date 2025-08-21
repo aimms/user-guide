@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_Gomory_Cuts:
+.. _option-ODHCPLEX-gomory_cuts:
 
 
 Gomory Cuts

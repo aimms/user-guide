@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Advanced_-_Maximum_Divisor_Value:
+.. _option-ODHCPLEX-maximum_divisor_value:
 
 
 Maximum Divisor Value
@@ -18,15 +18,15 @@ This option sets the maximum divisor value. The model divisor is gradually incre
 
 **Note** 
 
-*	See the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure`  for more information.
+*	See the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure` for more information.
 
 
 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_Advanced_-_Initial_Divisor_Value`  
-*	:ref:`ODH-CPLEX_General_-_Search_Mode`  
+*	:ref:`option-ODHCPLEX-initial_divisor_value`  
+*	:ref:`option-ODHCPLEX-search_mode`  
 *	:ref:`ODH-CPLEX_-_Specifying_Model_Structure` 
 
 

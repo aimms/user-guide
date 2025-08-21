@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Advanced_-_Maximum_Divisor_Repeats_Inf:
+.. _option-ODHCPLEX-maximum_divisor_repeats_infeasible:
 
 
 Maximum Divisor Repeats Infeasible
@@ -18,14 +18,14 @@ This option sets the maximum number of sub-model repeat solves for each divisor 
 
 **Note** 
 
-*	See the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure`  for more information.
+*	See the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure` for more information.
 
 
 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_Advanced_-_Initial_Divisor_Value`  
+*	:ref:`option-ODHCPLEX-initial_divisor_value`  
 *	:ref:`ODH-CPLEX_-_Specifying_Model_Structure` 
 
 

@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Heuristic_-_Recurse_Minimum_Iterations:
+.. _option-ODHCPLEX-recurse_minimum_iterations:
 
 
 Recurse Minimum Iterations
@@ -22,4 +22,4 @@ This option is only active if the option **Recurse**  is set to a value other th
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_Heuristic_-_Recurse`  
+*	:ref:`option-ODHCPLEX-recurse`  

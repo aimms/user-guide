@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XSimplex_-_Optimality:
+.. _option-ODHCPLEX-optimality:
 
 
 Optimality

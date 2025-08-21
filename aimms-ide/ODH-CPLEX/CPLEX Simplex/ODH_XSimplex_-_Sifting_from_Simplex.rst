@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XSimplex_-_Sifting_from_Simplex:
+.. _option-ODHCPLEX-sifting_from_simplex:
 
 
 Sifting from Simplex
@@ -24,5 +24,5 @@ This option can be used to turn on (or off) sifting from simplex optimization. B
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Method`  
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Start_Algorit`  
+*	:ref:`option-ODHCPLEX-mip_method`  
+*	:ref:`option-ODHCPLEX-mip_start_algorithm`  

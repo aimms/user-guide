@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_Probing_Time:
+.. _option-ODHCPLEX-probing_time:
 
 
 Probing Time
@@ -25,5 +25,5 @@ This option limits the amount of time (in seconds) CPLEX should spend in probing
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Probing` 
-*	:ref:`ODH-CPLEX_XMIP_-_Probing_Time_Deterministic` 
+*	:ref:`option-ODHCPLEX-mip_probing` 
+*	:ref:`option-ODHCPLEX-probing_time_deterministic` 

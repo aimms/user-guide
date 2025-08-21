@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_General_-_Reject_Inf_Solutions:
+.. _option-ODHCPLEX-reject_infeasible_solutions:
 
 
 Reject Infeasible Solutions

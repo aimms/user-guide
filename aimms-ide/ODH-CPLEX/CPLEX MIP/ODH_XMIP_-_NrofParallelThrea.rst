@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_NrofParallelThrea:
+.. _option-ODHCPLEX-number_of_parallel_threads:
 
 
 Number of Parallel Threads

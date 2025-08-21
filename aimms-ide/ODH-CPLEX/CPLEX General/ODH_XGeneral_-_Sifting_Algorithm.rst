@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XGeneral_-_Sifting_Algorithm:
+.. _option-ODHCPLEX-sifting_algorithm:
 
 
 Sifting Algorithm
@@ -45,10 +45,10 @@ Sifting can be selected for solving LP and MIP models using the following option
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Method`  
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Start_Algorit` 
-*	:ref:`ODH-CPLEX_XMIP_Advanced_-_SubMIP_Start_Algorithm`
-*	:ref:`ODH-CPLEX_XMIP_Advanced_-_SubMIP_Subproblem_Algorithm`
+*	:ref:`option-ODHCPLEX-mip_method`  
+*	:ref:`option-ODHCPLEX-mip_start_algorithm` 
+*	:ref:`option-ODHCPLEX-submip_start_algorithm`
+*	:ref:`option-ODHCPLEX-submip_subproblem_algorithm`
 
 
 

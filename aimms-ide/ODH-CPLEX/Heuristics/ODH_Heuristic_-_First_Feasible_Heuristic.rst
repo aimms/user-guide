@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Heuristic_-_First_Feasible_Heuristic:
+.. _option-ODHCPLEX-first_feasible_heuristic:
 
 
 First Feasible Heuristic
@@ -32,4 +32,4 @@ This option determines whether the First Feasible Heuristic for finding an initi
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_General_-_Search_Mode`  
+*	:ref:`option-ODHCPLEX-search_mode`  

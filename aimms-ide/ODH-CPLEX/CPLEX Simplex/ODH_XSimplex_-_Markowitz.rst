@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XSimplex_-_Markowitz:
+.. _option-ODHCPLEX-markowitz:
 
 
 Markowitz

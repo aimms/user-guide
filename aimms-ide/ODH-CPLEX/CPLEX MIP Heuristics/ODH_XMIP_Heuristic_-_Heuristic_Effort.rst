@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_Heuristic_-_Heuristic_Effort:
+.. _option-ODHCPLEX-heuristic_effort:
 
 
 Heuristic Effort
@@ -25,4 +25,4 @@ The value of this option is used to increase (if > 1) or decrease (if < 1) the e
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_Heuristic_-_Heuristic_Freq` 
+*	:ref:`option-ODHCPLEX-heuristic_frequency` 

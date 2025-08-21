@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Advanced_-_Decomposition_Density:
+.. _option-ODHCPLEX-decomposition_density:
 
 
 Decomposition Density
@@ -18,7 +18,7 @@ This option specifies the matrix density above which automatic decomposition ass
 
 **Note** 
 
-*	See the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure`  for more information.
+*	See the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure` for more information.
 
 
 

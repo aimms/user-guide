@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_Implied_Bound_Cuts:
+.. _option-ODHCPLEX-implied_bound_cuts:
 
 
 Implied Bound Cuts
@@ -38,4 +38,4 @@ In some models, binary variables imply bounds on nonbinary variables (that is, g
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XCuts_-_Local_Implied_Bound_Cuts`  
+*	:ref:`option-ODHCPLEX-local_implied_bound_cuts`  

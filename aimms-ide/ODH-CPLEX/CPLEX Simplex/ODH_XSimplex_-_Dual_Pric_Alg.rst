@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XSimplex_-_Dual_Pric_Alg:
+.. _option-ODHCPLEX-dual_pricing_algorithm:
 
 
 Dual Pricing Algorithm

@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XGeneral_-_Conflict_Algorithm:
+.. _option-ODHCPLEX-conflict_algorithm:
 
 
 Conflict Algorithm

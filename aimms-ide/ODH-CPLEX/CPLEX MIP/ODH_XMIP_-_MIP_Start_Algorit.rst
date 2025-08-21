@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_MIP_Start_Algorit:
+.. _option-ODHCPLEX-mip_start_algorithm:
 
 
 MIP Start Algorithm
@@ -54,5 +54,5 @@ The concurrent optimizer requires more memory than any individual optimizer, and
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XPar_-_GlobalThreadLimit`  
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Method` 
+*	:ref:`option-ODHCPLEX-global_thread_limit`  
+*	:ref:`option-ODHCPLEX-mip_method` 

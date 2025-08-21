@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_MIP_Method:
+.. _option-ODHCPLEX-mip_method:
 
 
 MIP Method
@@ -42,4 +42,4 @@ With the setting "Sifting", CPLEX solves a sequence of LP subproblems, where the
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Start_Algorit` 
+*	:ref:`option-ODHCPLEX-mip_start_algorithm` 

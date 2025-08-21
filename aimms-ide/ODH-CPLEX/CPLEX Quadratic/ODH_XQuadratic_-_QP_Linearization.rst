@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XQuadratic_-_QP_Linearization:
+.. _option-ODHCPLEX-qp_linearization:
 
 
 QP Linearization
@@ -49,4 +49,4 @@ This option interacts with the option **Solution Target** :
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XQuadratic_-_Solution_Target`  
+*	:ref:`option-ODHCPLEX-solution_target`  

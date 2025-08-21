@@ -12,7 +12,7 @@ The parameter file should be named 'odh.prm' and should be placed in the main AI
 (i.e., the folder containing the .aimms file). 
 If the parameter file is present then it will be used by ODH-CPLEX.
 
-The ODH-CPLEX parameter name corresponding to an AIMMS option can be found in :ref:`ODH-CPLEX_AIMMS_to_ODH_Mapping` . 
+The ODH-CPLEX parameter name corresponding to an AIMMS option can be found in :ref:`AIMMS_to_ODH_Mapping`. 
 The syntax for the parameters that influence the heuristic sub-model CPLEX solves is the following: SUB_<parameter> 
 where <parameter> refers to the ODH-CPLEX parameter name (for the main CPLEX solve in ODH-CPLEX). 
 The syntax for the parameters that influence the heuristic sub-model CPLEX solves in Phase I is the following: PHASE1_<parameter>. 
@@ -33,9 +33,9 @@ the third line sets it to 5 for the heuristic sub-model CPLEX solves.
 
 **Learn more about** 
 
-*   :ref:`ODH-CPLEX_AIMMS_to_ODH_Mapping`  
-*   :ref:`ODH-CPLEX_XMIP_Heuristic_-_RINS_Heurist_Freq`  
-*   :ref:`ODH-CPLEX_Parallel_-_Thread_Limit`  
+*   :ref:`AIMMS_to_ODH_Mapping`  
+*   :ref:`option-ODHCPLEX-rins_heuristic_frequency`  
+*   :ref:`option-ODHCPLEX-thread_limit`  
 
 
 

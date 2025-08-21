@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_Lift_and_Project_Cuts:
+.. _option-ODHCPLEX-lift_and_project_cuts:
 
 
 Lift and Project Cuts

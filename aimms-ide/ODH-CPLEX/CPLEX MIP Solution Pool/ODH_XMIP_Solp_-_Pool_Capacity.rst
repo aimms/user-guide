@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_Solp_-_Pool_Capacity:
+.. _option-ODHCPLEX-pool_capacity:
 
 
 Pool Capacity
@@ -22,5 +22,5 @@ This option has only meaning if the option **Do** **Populate**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_Solp_-_Do_Populate`  
-*	:ref:`ODH-CPLEX_XMIP_Solp_-_Pool_Repl_Strat`  
+*	:ref:`option-ODHCPLEX-do_populate`  
+*	:ref:`option-ODHCPLEX-pool_replacement_strategy`  

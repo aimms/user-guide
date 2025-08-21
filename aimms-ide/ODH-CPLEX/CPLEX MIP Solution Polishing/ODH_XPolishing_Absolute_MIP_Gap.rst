@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XPolishing_Absolute_MIP_Gap:
+.. _option-ODHCPLEX-polishing_absolute_mip_gap:
 
 
 Polishing Absolute MIP Gap
@@ -22,4 +22,4 @@ CPLEX must have a feasible solution in order to start polishing. It must also ha
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XPolishing_Relative_MIP_Gap`  
+*	:ref:`option-ODHCPLEX-polishing_relative_mip_gap`  

@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Heuristic_-_First_Feasible_Heuristic_Effort_Level:
+.. _option-ODHCPLEX-first_feasible_heuristic_effort_level:
 
 
 First Feasible Heuristic Effort Level
@@ -35,5 +35,5 @@ The larger the effort level, the more effort is expended before giving up.
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_Heuristic_-_First_Feasible_Heuristic`  
-*	:ref:`ODH-CPLEX_General_-_Search_Mode`  
+*	:ref:`option-ODHCPLEX-first_feasible_heuristic`  
+*	:ref:`option-ODHCPLEX-search_mode`  

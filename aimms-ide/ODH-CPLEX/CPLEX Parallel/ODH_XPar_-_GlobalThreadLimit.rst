@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XPar_-_GlobalThreadLimit:
+.. _option-ODHCPLEX-global_thread_limit:
 
 
 Global Thread Limit
@@ -53,9 +53,9 @@ This option also determines the amount of threads used by the concurrent optimiz
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XPar_-_Auxiliary_Root_Threads` 
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Start_Algorit` 
-*	:ref:`ODH-CPLEX_XPar_-_Parallel_Mode` 
+*	:ref:`option-ODHCPLEX-auxiliary_root_threads` 
+*	:ref:`option-ODHCPLEX-mip_start_algorithm` 
+*	:ref:`option-ODHCPLEX-parallel_mode` 
 
 
 

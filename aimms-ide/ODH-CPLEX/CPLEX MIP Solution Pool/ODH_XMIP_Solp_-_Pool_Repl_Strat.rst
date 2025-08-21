@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_Solp_-_Pool_Repl_Strat:
+.. _option-ODHCPLEX-pool_replacement_strategy:
 
 
 Pool Replacement Strategy
@@ -43,7 +43,7 @@ This option has only meaning if the option **Do Populate**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_Solp_-_Do_Populate`  
+*	:ref:`option-ODHCPLEX-do_populate`  
 
 
 

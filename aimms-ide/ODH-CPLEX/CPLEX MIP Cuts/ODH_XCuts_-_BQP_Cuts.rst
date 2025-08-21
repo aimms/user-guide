@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_BQP_Cuts:
+.. _option-ODHCPLEX-bqp_cuts:
 
 
 BQP Cuts
@@ -58,4 +58,4 @@ B = { (x, X) : 0 <= x <= 1, X_ij = x_i x_j if i is different from j, X_ii = 0 }
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XQuadratic_-_Solution_Target`  
+*	:ref:`option-ODHCPLEX-solution_target`  

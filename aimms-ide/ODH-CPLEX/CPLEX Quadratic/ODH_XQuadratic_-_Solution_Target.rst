@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XQuadratic_-_Solution_Target:
+.. _option-ODHCPLEX-solution_target:
 
 
 Solution Target
@@ -50,5 +50,5 @@ When this option is set to 'Search for global optimum', if the problem type is Q
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XCuts_-_Clique_Cuts` 
-*	:ref:`ODH-CPLEX_XCuts_-_RLT_Cuts` 
+*	:ref:`option-ODHCPLEX-clique_cuts` 
+*	:ref:`option-ODHCPLEX-rlt_cuts` 

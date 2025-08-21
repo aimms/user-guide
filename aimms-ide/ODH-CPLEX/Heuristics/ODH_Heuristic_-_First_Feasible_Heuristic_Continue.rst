@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Heuristic_-_First_Feasible_Heuristic_Continue:
+.. _option-ODHCPLEX-first_feasible_heuristic_continue:
 
 
 First Feasible Heuristic Continue
@@ -31,5 +31,5 @@ This option determines whether the **First Feasible Heuristic**  should continue
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_Heuristic_-_First_Feasible_Heuristic`  
-*	:ref:`ODH-CPLEX_General_-_Search_Mode`  
+*	:ref:`option-ODHCPLEX-first_feasible_heuristic`  
+*	:ref:`option-ODHCPLEX-search_mode`  

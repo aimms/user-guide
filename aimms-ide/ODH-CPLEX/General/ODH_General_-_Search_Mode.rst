@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_General_-_Search_Mode:
+.. _option-ODHCPLEX-search_mode:
 
 
 Search Mode
@@ -43,7 +43,7 @@ With setting 'Feasible solution', ODH-CPLEX will try to find a solution to the p
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_Heuristic_-_First_Feasible_Heuristic`  
-*	:ref:`ODH-CPLEX_Advanced_-_Maximum_Divisor_Value`  
-*	:ref:`ODH-CPLEX_General_-_Objective_Target`  
+*	:ref:`option-ODHCPLEX-first_feasible_heuristic`  
+*	:ref:`option-ODHCPLEX-maximum_divisor_value`  
+*	:ref:`option-ODHCPLEX-objective_target`  
 *	:ref:`Options_Stop_Criteria_-_Time_Limit`   (General solvers option)

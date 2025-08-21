@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_GUB_Cover_Cuts:
+.. _option-ODHCPLEX-gub_cover_cuts:
 
 
 GUB Cover Cuts

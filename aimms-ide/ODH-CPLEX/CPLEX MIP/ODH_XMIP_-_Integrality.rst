@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_Integrality:
+.. _option-ODHCPLEX-integrality:
 
 
 Integrality
@@ -26,7 +26,7 @@ The setting of this option specifies the amount by which an integer variable can
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XSimplex_-_Feasibility`  
+*	:ref:`option-ODHCPLEX-feasibility`  
 
 
 

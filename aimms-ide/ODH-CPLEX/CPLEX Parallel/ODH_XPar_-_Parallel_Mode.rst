@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XPar_-_Parallel_Mode:
+.. _option-ODHCPLEX-parallel_mode:
 
 
 Parallel Mode
@@ -99,7 +99,7 @@ Cases where you might wish to turn off deterministic search include situations w
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XPar_-_GlobalThreadLimit` 
+*	:ref:`option-ODHCPLEX-global_thread_limit` 
 
 
 

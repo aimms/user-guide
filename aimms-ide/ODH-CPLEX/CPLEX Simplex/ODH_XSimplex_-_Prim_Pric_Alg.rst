@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XSimplex_-_Prim_Pric_Alg:
+.. _option-ODHCPLEX-primal_pricing_algorithm:
 
 
 Primal Pricing Algorithm

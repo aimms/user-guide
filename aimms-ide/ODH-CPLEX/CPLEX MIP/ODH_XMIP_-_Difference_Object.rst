@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_Difference_Object:
+.. _option-ODHCPLEX-difference_objective:
 
 
 Difference Objective

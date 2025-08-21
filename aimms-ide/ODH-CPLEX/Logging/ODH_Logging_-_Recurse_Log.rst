@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Logging_-_Recurse_Log:
+.. _option-ODHCPLEX-recurse_log:
 
 
 Recurse Log
@@ -36,4 +36,4 @@ This option is only active if the option **Recurse**  is set to a value other th
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_Heuristic_-_Recurse`  
+*	:ref:`option-ODHCPLEX-recurse`  

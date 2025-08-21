@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XSimplex_-_Pricing:
+.. _option-ODHCPLEX-pricing:
 
 
 Pricing

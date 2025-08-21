@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XQuadratic_-_MIQCP_Strategy:
+.. _option-ODHCPLEX-miqcp_strategy:
 
 
 MIQCP Strategy

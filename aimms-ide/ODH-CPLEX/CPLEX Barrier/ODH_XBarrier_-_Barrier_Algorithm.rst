@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XBarrier_-_Barrier_Algorithm:
+.. _option-ODHCPLEX-barrier_algorithm:
 
 
 Barrier Algorithm

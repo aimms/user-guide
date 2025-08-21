@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_Advanced_-_SubMIP_Scale:
+.. _option-ODHCPLEX-submip_scale:
 
 
 SubMIP Scale

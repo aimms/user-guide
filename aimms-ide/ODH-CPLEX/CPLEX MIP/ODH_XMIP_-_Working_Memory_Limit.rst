@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_Working_Memory_Limit:
+.. _option-ODHCPLEX-working_memory_limit:
 
 
 Working Memory Limit
@@ -22,7 +22,7 @@ These actions are defined by the option **Node File** , which controls how CPLEX
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_Node_File`  
+*	:ref:`option-ODHCPLEX-node_file`  
 
 
 

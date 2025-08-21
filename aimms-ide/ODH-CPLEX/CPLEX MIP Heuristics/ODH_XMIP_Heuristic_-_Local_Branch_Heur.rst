@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_Heuristic_-_Local_Branch_Heur:
+.. _option-ODHCPLEX-local_branching_heuristic:
 
 
 Local Branching Heuristic

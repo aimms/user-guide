@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XGeneral_-_Updates_Batch_Size:
+.. _option-ODHCPLEX-updates_batch_size:
 
 
 Updates Batch Size

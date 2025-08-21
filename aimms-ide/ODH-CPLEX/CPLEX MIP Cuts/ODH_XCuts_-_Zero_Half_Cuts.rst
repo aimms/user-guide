@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_Zero_Half_Cuts:
+.. _option-ODHCPLEX-zero_half_cuts:
 
 
 Zero Half Cuts

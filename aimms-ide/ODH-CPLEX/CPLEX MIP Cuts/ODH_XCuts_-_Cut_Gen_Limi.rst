@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_Cut_Gen_Limi:
+.. _option-ODHCPLEX-cut_generation_limit:
 
 
 Cut Generation Limit
@@ -18,8 +18,8 @@ This option limits the number of constraints that can be aggregated for generati
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XCuts_-_Flow_Cover_Cuts`  
-*	:ref:`ODH-CPLEX_XCuts_-_Mix_Integer_Round` 
+*	:ref:`option-ODHCPLEX-flow_cover_cuts`  
+*	:ref:`option-ODHCPLEX-mixed_integer_rounding_cuts` 
 
 
 

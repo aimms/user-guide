@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XSimplex_-_Feasibility:
+.. _option-ODHCPLEX-feasibility:
 
 
 Feasibility
@@ -30,7 +30,7 @@ This option also controls indirectly the maximum constraint violation as it cont
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_Integrality`  
+*	:ref:`option-ODHCPLEX-integrality`  
 
 
 

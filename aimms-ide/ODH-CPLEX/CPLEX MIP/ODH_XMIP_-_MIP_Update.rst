@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_MIP_Update:
+.. _option-ODHCPLEX-mip_update:
 
 
 MIP Update
@@ -24,7 +24,7 @@ When solving an updated version of an already loaded model, CPLEX retrieves thes
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Basis` 
+*	:ref:`option-ODHCPLEX-mip_basis` 
 
 
 

@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XLogging_-_Barrier_Display:
+.. _option-ODHCPLEX-barrier_display:
 
 
 Barrier Display
@@ -35,10 +35,10 @@ The setting of this option determines the level of barrier progress information 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XLogging_-_MIP_Display` 
+*	:ref:`option-ODHCPLEX-mip_display` 
 *	:ref:`Options_Solver_Specific_-_Solver_List1`   (General solvers option)
 *	:ref:`Options_Solver_Specific_-_Solver_Windo`   (General solvers option)
-*	:ref:`ODH-CPLEX_Logging_-_Status_Display` 
+*	:ref:`option-ODHCPLEX-status_display` 
 
 
 

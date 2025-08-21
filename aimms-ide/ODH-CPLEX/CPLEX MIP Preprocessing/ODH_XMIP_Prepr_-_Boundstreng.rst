@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_Prepr_-_Boundstreng:
+.. _option-ODHCPLEX-boundstrength:
 
 
 Boundstrength

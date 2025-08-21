@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Advanced_-_Initial_Divisor_Value:
+.. _option-ODHCPLEX-initial_divisor_value:
 
 
 Initial Divisor Value
@@ -18,14 +18,14 @@ This option sets the starting value of the model divisor, which increases until 
 
 **Note** 
 
-*	See the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure`  for more information.
+*	See the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure` for more information.
 
 
 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_Advanced_-_Maximum_Divisor_Value`  
+*	:ref:`option-ODHCPLEX-maximum_divisor_value`  
 *	:ref:`ODH-CPLEX_-_Specifying_Model_Structure` 
 
 

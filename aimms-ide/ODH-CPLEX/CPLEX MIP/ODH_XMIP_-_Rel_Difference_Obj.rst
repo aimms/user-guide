@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_Rel_Difference_Obj:
+.. _option-ODHCPLEX-relative_difference_objective:
 
 
 Relative Difference Objective
@@ -18,7 +18,7 @@ The value of this option is used to update the cutoff each time a mixed integer 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_Difference_Object`  
+*	:ref:`option-ODHCPLEX-difference_objective`  
 
 
 

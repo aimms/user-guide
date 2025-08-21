@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Advanced_-_Write_Decomposition_File:
+.. _option-ODHCPLEX-write_decomposition_file:
 
 
 Write Decomposition File
@@ -30,16 +30,16 @@ Decomposition files are written only if one of the options **LP File** , **MPS**
 
 **Note** 
 
-*	The decomposition file will only be written if a decomposition has been specified in the model, using the routine GMP::Column::SetDecomposition, as explained in the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure` .
+*	The decomposition file will only be written if a decomposition has been specified in the model, using the routine GMP::Column::SetDecomposition, as explained in the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure`.
 
 
 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XGeneral_-_LP_File`  
-*	:ref:`ODH-CPLEX_XGeneral_-_MPS`  
-*	:ref:`ODH-CPLEX_XGeneral_-_Sav_File`  
+*	:ref:`option-ODHCPLEX-lp_file`  
+*	:ref:`option-ODHCPLEX-mps`  
+*	:ref:`option-ODHCPLEX-sav_file`  
 *	:ref:`ODH-CPLEX_-_Specifying_Model_Structure` 
 
 

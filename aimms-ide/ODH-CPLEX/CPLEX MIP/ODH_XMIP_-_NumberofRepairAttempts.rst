@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_NumberofRepairAttempts:
+.. _option-ODHCPLEX-number_of_repair_attempts:
 
 
 Number of Repair Attempts
@@ -26,4 +26,4 @@ n:	Indicates the frequency
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XGeneral_-_AdvancedStart` 
+*	:ref:`option-ODHCPLEX-advanced_start` 

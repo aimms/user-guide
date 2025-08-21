@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_Gomory_Cuts_Cand:
+.. _option-ODHCPLEX-gomory_cuts_candidate_limit:
 
 
 Gomory Cuts Candidate Limit
@@ -18,7 +18,7 @@ This option limits the number of candidate variables for generating Gomory cuts 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XCuts_-_Gomory_Cuts`  
+*	:ref:`option-ODHCPLEX-gomory_cuts`  
 
 
 

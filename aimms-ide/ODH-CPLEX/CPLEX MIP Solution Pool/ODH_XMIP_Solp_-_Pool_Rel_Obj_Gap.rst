@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_Solp_-_Pool_Rel_Obj_Gap:
+.. _option-ODHCPLEX-pool_relative_objective_gap:
 
 
 Pool Relative Objective Gap
@@ -30,5 +30,5 @@ This option has only meaning if the option **Do** **Populate**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_Solp_-_Do_Populate`  
-*	:ref:`ODH-CPLEX_XMIP_Solp_-_Pool_Abs_Obj_Gap`  
+*	:ref:`option-ODHCPLEX-do_populate`  
+*	:ref:`option-ODHCPLEX-pool_absolute_objective_gap`  

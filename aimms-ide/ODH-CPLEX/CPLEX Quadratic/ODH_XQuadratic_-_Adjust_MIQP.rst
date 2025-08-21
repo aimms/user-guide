@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XQuadratic_-_Adjust_MIQP:
+.. _option-ODHCPLEX-adjust_miqp:
 
 
 Adjust MIQP

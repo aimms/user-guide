@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XLogging_-_Clone_Log_Files:
+.. _option-ODHCPLEX-clone_log_files:
 
 
 Clone Log Files
@@ -43,8 +43,8 @@ The clone log files are written in the project folder (and not to the log direct
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XLogging_-_Barrier_Display` 
-*	:ref:`ODH-CPLEX_XPar_-_GlobalThreadLimit`  
-*	:ref:`ODH-CPLEX_XLogging_-_MIP_Display` 
-*	:ref:`ODH-CPLEX_XLogging_-_MIP_Interval` 
-*	:ref:`ODH-CPLEX_XLogging_-_Simplex_Display` 
+*	:ref:`option-ODHCPLEX-barrier_display` 
+*	:ref:`option-ODHCPLEX-global_thread_limit`  
+*	:ref:`option-ODHCPLEX-mip_display` 
+*	:ref:`option-ODHCPLEX-mip_interval` 
+*	:ref:`option-ODHCPLEX-simplex_display` 

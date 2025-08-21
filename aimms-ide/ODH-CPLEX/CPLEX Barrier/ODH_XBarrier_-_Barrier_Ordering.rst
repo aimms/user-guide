@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XBarrier_-_Barrier_Ordering:
+.. _option-ODHCPLEX-barrier_ordering:
 
 
 Barrier Ordering

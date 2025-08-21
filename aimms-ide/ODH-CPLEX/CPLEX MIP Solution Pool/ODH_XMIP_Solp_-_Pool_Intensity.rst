@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_Solp_-_Pool_Intensity:
+.. _option-ODHCPLEX-pool_intensity:
 
 
 Pool Intensity
@@ -69,7 +69,7 @@ This option has only meaning if the option **Do Populate**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_Solp_-_Do_Populate`  
+*	:ref:`option-ODHCPLEX-do_populate`  
 
 
 

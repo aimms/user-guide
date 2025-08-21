@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XGeneral_-_AdvancedStart:
+.. _option-ODHCPLEX-advanced_start:
 
 
 Advanced Start
@@ -65,7 +65,7 @@ For continuous models with setting "Automatic", CPLEX will use an advanced basis
 **Learn more about** 
 
 *	:ref:`Options_Interface_-_Accept_Basis`  
-*	:ref:`ODH-CPLEX_XMIP_-_NumberofRepairAttempts`  
+*	:ref:`option-ODHCPLEX-number_of_repair_attempts`  
 
 
 

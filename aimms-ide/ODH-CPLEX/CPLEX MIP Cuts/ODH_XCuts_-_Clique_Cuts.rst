@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XCuts_-_Clique_Cuts:
+.. _option-ODHCPLEX-clique_cuts:
 
 
 Clique Cuts

@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XNetwork_-_Network_Optimality:
+.. _option-ODHCPLEX-network_optimality:
 
 
 Network Optimality
@@ -25,5 +25,5 @@ The network optimality tolerance specifies the amount a reduced cost may violate
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Method`  
-*	:ref:`ODH-CPLEX_XMIP_-_MIP_Start_Algorit`  
+*	:ref:`option-ODHCPLEX-mip_method`  
+*	:ref:`option-ODHCPLEX-mip_start_algorithm`  

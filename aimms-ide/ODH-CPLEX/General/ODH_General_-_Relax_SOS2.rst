@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_General_-_Relax_SOS2:
+.. _option-ODHCPLEX-relax_sos2:
 
 
 Relax SOS2

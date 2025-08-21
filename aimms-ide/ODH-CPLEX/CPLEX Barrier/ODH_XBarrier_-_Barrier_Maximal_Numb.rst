@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XBarrier_-_Barrier_Maximal_Numb:
+.. _option-ODHCPLEX-barrier_maximal_number_of_corrections:
 
 
 Barrier Maximal Number of Corrections
@@ -26,7 +26,7 @@ n:	n corrections
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XLogging_-_Barrier_Display` 
+*	:ref:`option-ODHCPLEX-barrier_display` 
 
 
 

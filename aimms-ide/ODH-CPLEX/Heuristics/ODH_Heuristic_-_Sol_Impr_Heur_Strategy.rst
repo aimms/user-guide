@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_Heuristic_-_Sol_Impr_Heur_Strategy:
+.. _option-ODHCPLEX-solution_improvement_heuristic_strategy:
 
 
 Solution Improvement Heuristic Strategy
@@ -31,6 +31,6 @@ The aggressive strategy setting attempts to make more progress with each sub-mod
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_Advanced_-_Initial_Divisor_Value`  
-*	:ref:`ODH-CPLEX_Advanced_-_Maximum_Divisor_Repeats`  
-*	:ref:`ODH-CPLEX_Advanced_-_Maximum_Divisor_Value`  
+*	:ref:`option-ODHCPLEX-initial_divisor_value`  
+*	:ref:`option-ODHCPLEX-maximum_divisor_repeats`  
+*	:ref:`option-ODHCPLEX-maximum_divisor_value`  

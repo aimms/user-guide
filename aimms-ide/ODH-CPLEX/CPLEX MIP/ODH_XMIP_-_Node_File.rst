@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_-_Node_File:
+.. _option-ODHCPLEX-node_file:
 
 
 Node File
@@ -32,7 +32,7 @@ If the node file parameter is set to 'None' when the tree memory limit is reache
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_-_Working_Memory_Limit` 
+*	:ref:`option-ODHCPLEX-working_memory_limit` 
 
 
 

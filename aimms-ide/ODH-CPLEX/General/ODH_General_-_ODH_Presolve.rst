@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_General_-_ODH_Presolve:
+.. _option-ODHCPLEX-odh_presolve:
 
 
 ODH Presolve
@@ -24,4 +24,4 @@ This option is an indicator for the ODH engine using a separate presolve within 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_General_-_Presolve`  
+*	:ref:`option-ODHCPLEX-presolve`  

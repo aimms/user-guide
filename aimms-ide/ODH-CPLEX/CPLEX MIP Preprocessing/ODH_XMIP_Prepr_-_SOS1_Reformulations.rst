@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XMIP_Prepr_-_SOS1_Reformulations:
+.. _option-ODHCPLEX-sos1_reformulations:
 
 
 SOS1 Reformulations
@@ -56,7 +56,7 @@ For a more thorough exploration of the theory supporting SOS reformulations, see
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XMIP_Prepr_-_SOS2_Reformulations`  
+*	:ref:`option-ODHCPLEX-sos2_reformulations`  
 
 
 

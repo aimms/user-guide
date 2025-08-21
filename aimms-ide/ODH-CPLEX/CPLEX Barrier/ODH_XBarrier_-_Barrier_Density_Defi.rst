@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XBarrier_-_Barrier_Density_Defi:
+.. _option-ODHCPLEX-barrier_density_definition:
 
 
 Barrier Density Definition

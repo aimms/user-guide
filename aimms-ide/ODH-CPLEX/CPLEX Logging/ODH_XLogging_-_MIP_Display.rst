@@ -1,4 +1,4 @@
-.. _ODH-CPLEX_XLogging_-_MIP_Display:
+.. _option-ODHCPLEX-mip_display:
 
 
 MIP Display
@@ -55,12 +55,12 @@ The logging information is written to the AIMMS message window if the general so
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_XLogging_-_Barrier_Display` 
-*	:ref:`ODH-CPLEX_XLogging_-_MIP_Display` 
-*	:ref:`ODH-CPLEX_XLogging_-_Simplex_Display` 
+*	:ref:`option-ODHCPLEX-barrier_display` 
+*	:ref:`option-ODHCPLEX-mip_display` 
+*	:ref:`option-ODHCPLEX-simplex_display` 
 *	:ref:`Options_Solver_Specific_-_Solver_List1`   (General solvers option)
 *	:ref:`Options_Solver_Specific_-_Solver_Windo`   (General solvers option)
-*	:ref:`ODH-CPLEX_Logging_-_Status_Display` 
+*	:ref:`option-ODHCPLEX-status_display` 
 
 
 
