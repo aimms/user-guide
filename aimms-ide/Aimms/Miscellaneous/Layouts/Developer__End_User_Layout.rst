@@ -32,5 +32,5 @@ See also:
 
 
 *   :ref:`Miscellaneous_Saving_and_Restoring_Layouts` 
-*   :ref:`Options_Startup_Layout` 
+*   :ref:`option-AIMMS-startup_layout` 
 

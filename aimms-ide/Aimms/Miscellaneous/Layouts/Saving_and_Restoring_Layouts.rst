@@ -12,11 +12,11 @@ The AIMMS IDE can save the layout of the currently opened docked (and floating) 
 
 
 
-By default, the layout is saved when closing the project, and this layout is restored upon re-opening the project. Via the option :ref:`Options_Startup_Layout`  you can change this default behavior, for example to make sure that an end-user application always starts with a default (developer defined) layout.
+By default, the layout is saved when closing the project, and this layout is restored upon re-opening the project. Via the option :ref:`option-AIMMS-startup_layout` you can change this default behavior, for example to make sure that an end-user application always starts with a default (developer defined) layout.
 
 
 
-How and when a layout is saved and restored, depends on the setting of the option :ref:`Options_Startup_Layout` . This option has three possible values: 'Last use', 'From project' and 'System default'.
+How and when a layout is saved and restored, depends on the setting of the option :ref:`option-AIMMS-startup_layout`. This option has three possible values: 'Last use', 'From project' and 'System default'.
 
 
 

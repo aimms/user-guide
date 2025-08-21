@@ -54,8 +54,8 @@ Not all data sources that can be accessed from AIMMS support transactions. When 
 
 *	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`sec:db.transaction` 
-*	:ref:`Options_Warnings_-_Common_warning_default` 
-*	:ref:`Options_Warnings_-_Strict_warning_default` 
+*	:ref:`option-AIMMS-common_warning_default` 
+*	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 
 

@@ -24,7 +24,7 @@ If you want to guarantee the same solution for subsequent solves of NLP problems
 
 **Learn more about** 
 
-*	:ref:`Options_Interface_-_Accept_Basis`  
+*	:ref:`option-AIMMS-accept_basis`  
 
 
 
