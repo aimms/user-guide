@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Round_Coefficients:
+.. _option-CPLEX-round_coefficients:
 
 
 Round Coefficients
@@ -29,4 +29,4 @@ Coefficients like 10.99999999 may arise as round-off errors if the matrix coeffi
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_Cleanup_Coefficients`  
+*	:ref:`option-CPLEX-cleanup_coefficients`  

@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Solp_-_Pool_Repl_Strat:
+.. _option-CPLEX-pool_replacement_strategy:
 
 
 Pool Replacement Strategy
@@ -43,7 +43,7 @@ This option has only meaning if the option **Do Populate**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_Solp_-_Do_Populate`  
+*	:ref:`option-CPLEX-do_populate`  
 
 
 

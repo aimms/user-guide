@@ -1,4 +1,4 @@
-.. _CPLEX_QP_-_QCP_Dual_Values:
+.. _option-CPLEX-qcp_dual_values:
 
 
 QCP Dual Values

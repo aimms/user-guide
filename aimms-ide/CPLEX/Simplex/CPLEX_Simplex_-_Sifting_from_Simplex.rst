@@ -1,4 +1,4 @@
-.. _CPLEX_Simplex_-_Sifting_from_Simplex:
+.. _option-CPLEX-sifting_from_simplex:
 
 
 Sifting from Simplex
@@ -24,4 +24,4 @@ This option can be used to turn on (or off) sifting from simplex optimization. B
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_LP_Method` 
+*	:ref:`option-CPLEX-lp_method` 

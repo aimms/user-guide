@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Solp_-_Pool_Intensity:
+.. _option-CPLEX-pool_intensity:
 
 
 Pool Intensity
@@ -69,7 +69,7 @@ This option has only meaning if the option **Do Populate**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_Solp_-_Do_Populate`  
+*	:ref:`option-CPLEX-do_populate`  
 
 
 

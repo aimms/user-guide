@@ -1,4 +1,4 @@
-.. _CPLEX_Barrier_-_Barrier_Algorithm:
+.. _option-CPLEX-barrier_algorithm:
 
 
 Barrier Algorithm

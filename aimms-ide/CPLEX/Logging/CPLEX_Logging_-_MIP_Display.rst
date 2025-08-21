@@ -1,4 +1,4 @@
-.. _CPLEX_Logging_-_MIP_Display:
+.. _option-CPLEX-mip_display:
 
 
 MIP Display
@@ -55,10 +55,10 @@ The difference between settings 'All' and 'Remark' for option **Solver Listing M
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Logging_-_Barrier_Display` 
-*	:ref:`CPLEX_Logging_-_MIP_Interval` 
-*	:ref:`CPLEX_MIP_-_MIP_Search_Strategy` 
-*	:ref:`CPLEX_Logging_-_Simplex_Display` 
+*	:ref:`option-CPLEX-barrier_display` 
+*	:ref:`option-CPLEX-mip_interval` 
+*	:ref:`option-CPLEX-mip_search_strategy` 
+*	:ref:`option-CPLEX-simplex_display` 
 *	:ref:`Options_Solver_Specific_-_Solver_Listi`  
 *	:ref:`Options_Solver_Specific_-_Solver_List1`  
 

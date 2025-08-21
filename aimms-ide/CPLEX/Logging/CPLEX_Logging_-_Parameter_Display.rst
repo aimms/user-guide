@@ -1,4 +1,4 @@
-.. _CPLEX_Logging_-_Parameter_Display:
+.. _option-CPLEX-parameter_display:
 
 
 Parameter Display
@@ -33,6 +33,6 @@ This option is only used if the CPLEX log file is created by activating one of t
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Logging_-_Barrier_Display` 
-*	:ref:`CPLEX_Logging_-_MIP_Display` 
-*	:ref:`CPLEX_Logging_-_Simplex_Display` 
+*	:ref:`option-CPLEX-barrier_display` 
+*	:ref:`option-CPLEX-mip_display` 
+*	:ref:`option-CPLEX-simplex_display` 

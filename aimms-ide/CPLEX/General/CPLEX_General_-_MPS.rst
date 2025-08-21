@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_MPS:
+.. _option-CPLEX-mps:
 
 
 MPS

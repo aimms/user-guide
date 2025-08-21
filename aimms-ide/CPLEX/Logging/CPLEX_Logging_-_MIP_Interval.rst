@@ -1,4 +1,4 @@
-.. _CPLEX_Logging_-_MIP_Interval:
+.. _option-CPLEX-mip_interval:
 
 
 MIP Interval
@@ -32,7 +32,7 @@ The logging information is written to the file 'CPLEX 22.1.sta' if the general s
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Logging_-_MIP_Display` 
+*	:ref:`option-CPLEX-mip_display` 
 *	:ref:`Options_Solver_Specific_-_Solver_Listi`  
 *	:ref:`Options_Solver_Specific_-_Solver_List1`  
 

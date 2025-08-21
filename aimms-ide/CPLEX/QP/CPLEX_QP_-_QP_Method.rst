@@ -1,4 +1,4 @@
-.. _CPLEX_QP_-_QP_Method:
+.. _option-CPLEX-qp_method:
 
 
 QP Method
@@ -34,7 +34,7 @@ This option determines which algorithm is used for solving QP problems and MIQP 
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Par_-_GlobalThreadLimit`  
+*	:ref:`option-CPLEX-global_thread_limit`  
 
 
 

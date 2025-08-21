@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Write_Parameter_File:
+.. _option-CPLEX-write_parameter_file:
 
 
 Write Parameter File
@@ -47,7 +47,7 @@ CPX_PARAM_STARTALG   2
 
 
 
-The parameters are printed using the CPLEX C API names as can be found in the:ref:`CPLEX_AIMMS_to_CPLEX_Mapping`  from AIMMS option names to CPLEX parameter names.
+The parameters are printed using the CPLEX C API names as can be found in the:ref:`option-CPLEX-aimms_to_cplex_mapping`  from AIMMS option names to CPLEX parameter names.
 
 
 
@@ -62,6 +62,6 @@ The parameters are printed using the CPLEX C API names as can be found in the:re
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_LP_File`  
-*	:ref:`CPLEX_General_-_MPS`  
-*	:ref:`CPLEX_General_-_Sav_File`  
+*	:ref:`option-CPLEX-lp_file`  
+*	:ref:`option-CPLEX-mps`  
+*	:ref:`option-CPLEX-sav_file`  

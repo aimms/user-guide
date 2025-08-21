@@ -1,4 +1,4 @@
-.. _CPLEX_Tuning_-_Tuning_Time_Limit_Deter:
+.. _option-CPLEX-tuning_time_limit_deterministic:
 
 
 Tuning Time Limit Deterministic
@@ -30,6 +30,6 @@ If you want to run a tuning session with unlimited time per model, then set the 
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Tuning_Tool` 
+*	:ref:`option-CPLEX-tuning_tool` 
 *	:ref:`Options_Stop_Criteria_-_Time_Limit`  
-*	:ref:`CPLEX_Tuning_-_Tuning_Time_Limit` 
+*	:ref:`option-CPLEX-tuning_time_limit` 

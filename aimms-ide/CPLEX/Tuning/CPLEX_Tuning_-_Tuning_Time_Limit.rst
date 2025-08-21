@@ -1,4 +1,4 @@
-.. _CPLEX_Tuning_-_Tuning_Time_Limit:
+.. _option-CPLEX-tuning_time_limit:
 
 
 Tuning Time Limit
@@ -29,6 +29,6 @@ For an overall time limit on tuning, use the general solvers option **Time Limit
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Tuning_Tool` 
+*	:ref:`option-CPLEX-tuning_tool` 
 *	:ref:`Options_Stop_Criteria_-_Time_Limit`  
-*	:ref:`CPLEX_Tuning_-_Tuning_Time_Limit_Deter` 
+*	:ref:`option-CPLEX-tuning_time_limit_deterministic` 

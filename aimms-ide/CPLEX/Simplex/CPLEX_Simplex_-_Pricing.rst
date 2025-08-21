@@ -1,4 +1,4 @@
-.. _CPLEX_Simplex_-_Pricing:
+.. _option-CPLEX-pricing:
 
 
 Pricing

@@ -1,4 +1,4 @@
-.. _CPLEX_Benders_-_Benders_Optimality_Cut_Toleran:
+.. _option-CPLEX-benders_optimality_cut_tolerance:
 
 
 Benders Optimality Cut Tolerance
@@ -18,4 +18,4 @@ This option specifies a tolerance for the optimality of cuts when CPLEX solves a
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Benders_-_Benders_Strategy` 
+*	:ref:`option-CPLEX-benders_strategy` 

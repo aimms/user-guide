@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Check_Solution:
+.. _option-CPLEX-check_solution:
 
 
 Check Solution
@@ -62,8 +62,8 @@ By default, if the value of this option equals 'Yes' then AIMMS will print stati
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_Display_Solution_Statistics`  
-*	:ref:`CPLEX_General_-_MemoryEmphasis`  
+*	:ref:`option-CPLEX-display_solution_statistics`  
+*	:ref:`option-CPLEX-memory_emphasis`  
 *	:ref:`Options_Postsolve_-_MIP_Calculate_Sensitivity_Info` 
 *	:ref:`Options_Postsolve_-_Postsolve` 
 

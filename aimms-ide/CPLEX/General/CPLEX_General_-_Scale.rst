@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Scale:
+.. _option-CPLEX-scale:
 
 
 Scale

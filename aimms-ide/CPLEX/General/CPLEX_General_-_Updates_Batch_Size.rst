@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Updates_Batch_Size:
+.. _option-CPLEX-updates_batch_size:
 
 
 Updates Batch Size

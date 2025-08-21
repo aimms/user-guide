@@ -1,4 +1,4 @@
-.. _CPLEX_Tuning_-_Tuning_Repeater:
+.. _option-CPLEX-tuning_repeater:
 
 
 Tuning Repeater
@@ -29,6 +29,6 @@ This option applies to only one problem in a tuning session. That is, this optio
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Tuning_Tool` 
+*	:ref:`option-CPLEX-tuning_tool` 
 *	:any:`GMP::Tuning::TuneSingleGMP`
-*	:ref:`CPLEX_Tuning_-_Tuning_Measure` 
+*	:ref:`option-CPLEX-tuning_measure` 

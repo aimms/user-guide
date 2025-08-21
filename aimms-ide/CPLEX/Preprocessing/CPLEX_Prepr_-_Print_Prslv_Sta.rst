@@ -1,4 +1,4 @@
-.. _CPLEX_Prepr_-_Print_Prslv_Sta:
+.. _option-CPLEX-print_presolve_status:
 
 
 Print Presolve Status
@@ -67,7 +67,7 @@ This option is especially useful to detect which constraints with a Big M value 
 
 **Learn more about** 
 
-*	 :ref:`CPLEX_Indicator_Constraints` 
+*	 :ref:`option-CPLEX-indicator_constraints` 
 
 
 

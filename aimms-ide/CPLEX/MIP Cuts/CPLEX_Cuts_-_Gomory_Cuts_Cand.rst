@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_Gomory_Cuts_Cand:
+.. _option-CPLEX-gomory_cuts_candidate_limit:
 
 
 Gomory Cuts Candidate Limit
@@ -18,7 +18,7 @@ This option limits the number of candidate variables for generating Gomory cuts 
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Cuts_-_Gomory_Cuts`  
+*	:ref:`option-CPLEX-gomory_cuts`  
 
 
 

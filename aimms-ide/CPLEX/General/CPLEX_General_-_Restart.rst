@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Restart:
+.. _option-CPLEX-restart:
 
 
 Restart
@@ -28,7 +28,7 @@ When this option is set to "Yes", the solver will restart a problem if the solut
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_Restart_File_Nr` 
+*	:ref:`option-CPLEX-restart_file_number` 
 
 
 

@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_MIP_Probing:
+.. _option-CPLEX-mip_probing:
 
 
 MIP Probing
@@ -33,4 +33,4 @@ The probing feature can help in many different ways on difficult models. Probing
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_-_Probing_Time` 
+*	:ref:`option-CPLEX-probing_time` 

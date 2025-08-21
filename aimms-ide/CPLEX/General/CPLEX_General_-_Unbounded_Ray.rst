@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Unbounded_Ray:
+.. _option-CPLEX-unbounded_ray:
 
 
 Unbounded Ray
@@ -33,5 +33,5 @@ This option specifies whether CPLEX should calculate an unbounded ray once CPLEX
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_LP_Method`  
-*	:ref:`CPLEX_Prepr_-_Presolve`  
+*	:ref:`option-CPLEX-lp_method`  
+*	:ref:`option-CPLEX-presolve`  

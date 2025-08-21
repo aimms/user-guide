@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Solution_Type:
+.. _option-CPLEX-solution_type:
 
 
 Solution Type
@@ -45,5 +45,5 @@ When the value of this option is 'Nonbasic', CPLEX seeks a pair of primal-dual s
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Barrier_-_Barrier_cross` 
-*	:ref:`CPLEX_General_-_LP_Method` 
+*	:ref:`option-CPLEX-barrier_crossover_algorithm` 
+*	:ref:`option-CPLEX-lp_method` 

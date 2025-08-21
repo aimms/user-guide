@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Farkas_Infeasibility_Proof:
+.. _option-CPLEX-farkas_infeasibility_proof:
 
 
 Farkas Infeasibility Proof
@@ -91,5 +91,5 @@ The quantity yTb - yTA z in some sense denotes the degree of infeasibility. It i
 **Learn more about** 
 
 *	:ref:`Options_Sensitivity_-_Always_Store_Con`  
-*	:ref:`CPLEX_General_-_LP_Method`  
-*	:ref:`CPLEX_Prepr_-_Presolve`  
+*	:ref:`option-CPLEX-lp_method`  
+*	:ref:`option-CPLEX-presolve`  

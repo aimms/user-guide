@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_MIP_Dive_Strat:
+.. _option-CPLEX-mip_dive_strategy:
 
 
 MIP Dive Strategy

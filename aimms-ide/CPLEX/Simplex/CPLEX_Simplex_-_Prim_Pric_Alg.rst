@@ -1,4 +1,4 @@
-.. _CPLEX_Simplex_-_Prim_Pric_Alg:
+.. _option-CPLEX-primal_pricing_algorithm:
 
 
 Primal Pricing Algorithm

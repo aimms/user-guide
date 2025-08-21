@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Heuristic_-_RINS_Heurist_Freq:
+.. _option-CPLEX-rins_heuristic_frequency:
 
 
 RINS Heuristic Frequency

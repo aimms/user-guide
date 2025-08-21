@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Advanced_-_SubMIP_Scale:
+.. _option-CPLEX-submip_scale:
 
 
 SubMIP Scale
@@ -23,7 +23,7 @@ This option decides how to scale the problem matrix when CPLEX solves a subMIP d
 
 
 
-SubMIPS are described in the section :ref:`CPLEX_SubMIP` .
+SubMIPS are described in the section :ref:`option-CPLEX-submip` .
 
 
 
@@ -38,4 +38,4 @@ SubMIPS are described in the section :ref:`CPLEX_SubMIP` .
 
 **Learn more about** 
 
-*	:ref:`CPLEX_SubMIP` 
+*	:ref:`option-CPLEX-submip` 

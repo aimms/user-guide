@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_Cut_Limit:
+.. _option-CPLEX-cut_limit:
 
 
 Cut Limit
@@ -29,7 +29,7 @@ A setting of 0 means no cuts.
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Cuts_-_Gomory_Cuts`  
+*	:ref:`option-CPLEX-gomory_cuts`  
 
 
 

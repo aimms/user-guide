@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Random_Seed:
+.. _option-CPLEX-random_seed:
 
 
 Random Seed

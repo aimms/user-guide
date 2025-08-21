@@ -1,4 +1,4 @@
-.. _CPLEX_Prepr_-_Pre_reduction_types:
+.. _option-CPLEX-preprocessing_reduction_types:
 
 
 Preprocessing Reduction Types
@@ -44,4 +44,4 @@ If the model uses lazy constraints (either through a callback or a pool) then CP
 
 **Learn more about** 
 
-*	:ref:`CPLEX_User_Cuts_and_Lazy_Constraints` 
+*	:ref:`option-CPLEX-user_cuts_and_lazy_constraints` 

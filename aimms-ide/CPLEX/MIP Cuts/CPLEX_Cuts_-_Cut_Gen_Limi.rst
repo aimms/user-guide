@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_Cut_Gen_Limi:
+.. _option-CPLEX-cut_generation_limit:
 
 
 Cut Generation Limit
@@ -18,8 +18,8 @@ This option limits the number of constraints that can be aggregated for generati
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Cuts_-_Flow_Cover_Cuts`  
-*	:ref:`CPLEX_Cuts_-_Mix_Integer_Round` 
+*	:ref:`option-CPLEX-flow_cover_cuts`  
+*	:ref:`option-CPLEX-mixed_integer_rounding_cuts` 
 
 
 

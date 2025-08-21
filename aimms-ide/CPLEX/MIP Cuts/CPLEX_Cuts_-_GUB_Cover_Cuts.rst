@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_GUB_Cover_Cuts:
+.. _option-CPLEX-gub_cover_cuts:
 
 
 GUB Cover Cuts

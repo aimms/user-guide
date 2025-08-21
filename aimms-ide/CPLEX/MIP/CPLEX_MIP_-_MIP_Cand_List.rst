@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_MIP_Cand_List:
+.. _option-CPLEX-mip_candidate_list:
 
 
 MIP Candidate List
@@ -18,7 +18,7 @@ The setting of this option specifies the length of the candidate list when using
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_-_Select_Variables`  
+*	:ref:`option-CPLEX-select_variables`  
 
 
 

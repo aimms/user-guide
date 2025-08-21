@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_Mix_Integer_Round:
+.. _option-CPLEX-mixed_integer_rounding_cuts:
 
 
 Mixed Integer Rounding Cuts

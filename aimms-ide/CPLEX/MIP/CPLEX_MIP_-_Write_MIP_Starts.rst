@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_Write_MIP_Starts:
+.. _option-CPLEX-write_mip_starts:
 
 
 Write MIP Starts
@@ -28,6 +28,6 @@ Possible values of this option are:
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_LP_File`  
-*	:ref:`CPLEX_General_-_MPS`  
-*	:ref:`CPLEX_General_-_Sav_File`  
+*	:ref:`option-CPLEX-lp_file`  
+*	:ref:`option-CPLEX-mps`  
+*	:ref:`option-CPLEX-sav_file`  

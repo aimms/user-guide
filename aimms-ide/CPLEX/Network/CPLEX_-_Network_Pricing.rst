@@ -1,4 +1,4 @@
-.. _CPLEX_-_Network_Pricing:
+.. _option-CPLEX-network_pricing:
 
 
 Network Pricing

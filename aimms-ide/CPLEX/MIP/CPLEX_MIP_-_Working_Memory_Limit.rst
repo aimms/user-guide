@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_Working_Memory_Limit:
+.. _option-CPLEX-working_memory_limit:
 
 
 Working Memory Limit
@@ -22,7 +22,7 @@ These actions are defined by the option **Node File** , which controls how CPLEX
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_-_Node_File`  
+*	:ref:`option-CPLEX-node_file`  
 
 
 

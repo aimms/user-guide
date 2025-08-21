@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_Rel_Difference_Obj:
+.. _option-CPLEX-relative_difference_objective:
 
 
 Relative Difference Objective
@@ -18,7 +18,7 @@ The value of this option is used to update the cutoff each time a mixed integer 
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_-_Difference_Object`  
+*	:ref:`option-CPLEX-difference_objective`  
 
 
 

@@ -1,4 +1,4 @@
-.. _CPLEX_Tuning_-_Tuning_Measure:
+.. _option-CPLEX-tuning_measure:
 
 
 Tuning Measure
@@ -36,5 +36,5 @@ This option is only meaningful if the value of option**Tuning Repeater**  is lar
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Tuning_Tool` 
-*	:ref:`CPLEX_Tuning_-_Tuning_Repeater` 
+*	:ref:`option-CPLEX-tuning_tool` 
+*	:ref:`option-CPLEX-tuning_repeater` 

@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Heuristic_-_Heuristic_Freq:
+.. _option-CPLEX-heuristic_frequency:
 
 
 Heuristic Frequency
@@ -25,4 +25,4 @@ The value of this option determines how often to apply the periodic heuristic. S
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_Heuristic_-_Heuristic_Effort` 
+*	:ref:`option-CPLEX-heuristic_effort` 

@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Prepr_-_SOS1_Reformulations:
+.. _option-CPLEX-sos1_reformulations:
 
 
 SOS1 Reformulations
@@ -56,4 +56,4 @@ For a more thorough exploration of the theory supporting SOS reformulations, see
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_Prepr_-_SOS2_Reformulations`  
+*	:ref:`option-CPLEX-sos2_reformulations`  

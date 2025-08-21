@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Data_Check:
+.. _option-CPLEX-data_check_and_modeling_assistance:
 
 
 Data Check and Modeling Assistance

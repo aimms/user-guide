@@ -1,4 +1,4 @@
-.. _CPLEX_Barrier_-_Barrier_Always:
+.. _option-CPLEX-barrier_always:
 
 
 Barrier Always

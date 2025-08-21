@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_Clique_Cuts:
+.. _option-CPLEX-clique_cuts:
 
 
 Clique Cuts

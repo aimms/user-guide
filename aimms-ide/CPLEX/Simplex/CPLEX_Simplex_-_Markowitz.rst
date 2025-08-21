@@ -1,4 +1,4 @@
-.. _CPLEX_Simplex_-_Markowitz:
+.. _option-CPLEX-markowitz:
 
 
 Markowitz

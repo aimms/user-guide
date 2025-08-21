@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Display_Solution_Statistics:
+.. _option-CPLEX-display_solution_statistics:
 
 
 Display Solution Statistics
@@ -41,15 +41,15 @@ For LP and QP problems that are solved using the simplex algorithm (or the sifti
 
 
 
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics`  (unscaled only).
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics`  (unscaled only).
 
 
 
@@ -66,14 +66,14 @@ For LP and QP problems that are solved using the barrier algorithm, the followin
 
 
 
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` .
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` .
 
 
 
@@ -84,12 +84,12 @@ For MIP and MIQP problems the following statistics are printed:
 
 
 
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics`  (if indicator constraints are present).
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics`  (if indicator constraints are present).
 
 
 
@@ -106,14 +106,14 @@ For QCP and MIQCP problems the following statistics are printed:
 
 
 
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics`  (only MIQCP);
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics` ;
-#.  :ref:`CPLEX_General_-_Display_Solution_Statistics`  (if indicator constraints are present).
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics`  (only MIQCP);
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics` ;
+#.  :ref:`option-CPLEX-display_solution_statistics`  (if indicator constraints are present).
 
 
 
@@ -286,14 +286,14 @@ The CPLEX barrier optimizer stops when it finds feasible primal and dual solutio
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Barrier_-_Barrier_Convergence_`  
-*	:ref:`CPLEX_General_-_Check_Solution`  
-*	:ref:`CPLEX_Simplex_-_Feasibility`  
-*	:ref:`CPLEX_MIP_-_Integrality`  
-*	:ref:`CPLEX_General_-_LP_Method`  
-*	:ref:`CPLEX_General_-_MemoryEmphasis`  
-*	:ref:`CPLEX_MIP_-_MIP_Kappa`  
-*	:ref:`CPLEX_Simplex_-_Optimality`  
+*	:ref:`option-CPLEX-barrier_convergence_tolerance`  
+*	:ref:`option-CPLEX-check_solution`  
+*	:ref:`option-CPLEX-feasibility`  
+*	:ref:`option-CPLEX-integrality`  
+*	:ref:`option-CPLEX-lp_method`  
+*	:ref:`option-CPLEX-memory_emphasis`  
+*	:ref:`option-CPLEX-mip_kappa`  
+*	:ref:`option-CPLEX-optimality`  
 *	:ref:`Options_Postsolve_-_Postsolve` 
-*	:ref:`CPLEX_General_-_Solution_Type`  
+*	:ref:`option-CPLEX-solution_type`  
 *	:ref:`Options_Solver_Specific_-_Solver_List1`  

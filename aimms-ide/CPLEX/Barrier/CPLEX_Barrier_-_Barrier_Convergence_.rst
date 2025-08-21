@@ -1,4 +1,4 @@
-.. _CPLEX_Barrier_-_Barrier_Convergence_:
+.. _option-CPLEX-barrier_convergence_tolerance:
 
 
 Barrier Convergence Tolerance
@@ -29,7 +29,7 @@ Changing this tolerance to a smaller value may result in greater numerical preci
 
 **Learn more about** 
 
-*	:ref:`CPLEX_QP_-_Barrier_Conv_Toler` 
+*	:ref:`option-CPLEX-barrier_convergence_tolerance_for_qcp` 
 
 
 

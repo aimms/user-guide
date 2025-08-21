@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_Nr_of_Simplex_Iter:
+.. _option-CPLEX-number_of_simplex_iterations:
 
 
 Number of Simplex Iterations
@@ -18,7 +18,7 @@ The option controls the number of simplex iterations performed on each variable 
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_-_Select_Variables`  
+*	:ref:`option-CPLEX-select_variables`  
 
 
 

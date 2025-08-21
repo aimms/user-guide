@@ -1,4 +1,4 @@
-.. _CPLEX_Polishing_Number_of_Solutions:
+.. _option-CPLEX-polishing_number_of_solutions:
 
 
 Polishing Number of Solutions

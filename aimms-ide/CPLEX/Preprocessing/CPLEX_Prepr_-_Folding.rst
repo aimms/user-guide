@@ -1,4 +1,4 @@
-.. _CPLEX_Prepr_-_Folding:
+.. _option-CPLEX-folding:
 
 
 Folding

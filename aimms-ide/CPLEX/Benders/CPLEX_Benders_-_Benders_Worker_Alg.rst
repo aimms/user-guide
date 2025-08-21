@@ -1,4 +1,4 @@
-.. _CPLEX_Benders_-_Benders_Worker_Alg:
+.. _option-CPLEX-benders_worker_algorithm:
 
 
 Benders Worker Algorithm
@@ -34,4 +34,4 @@ Given a formulation of a problem, CPLEX can decompose the model into a single ma
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Benders_-_Benders_Strategy` 
+*	:ref:`option-CPLEX-benders_strategy` 

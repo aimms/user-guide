@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_MIP_Priority_Order_Switch:
+.. _option-CPLEX-mip_priority_order_switch:
 
 
 MIP Priority Order Switch
@@ -38,4 +38,4 @@ A priority order can be specified in two ways, namely (1) by specifying a branch
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_-_MIP_Priority_Order_Type` 
+*	:ref:`option-CPLEX-mip_priority_order_type` 

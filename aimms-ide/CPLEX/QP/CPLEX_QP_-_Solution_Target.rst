@@ -1,4 +1,4 @@
-.. _CPLEX_QP_-_Solution_Target:
+.. _option-CPLEX-solution_target:
 
 
 Solution Target
@@ -50,5 +50,5 @@ When this option is set to 'Search for global optimum', if the problem type is Q
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Cuts_-_BQP_Cuts` 
-*	:ref:`CPLEX_Cuts_-_RLT_Cuts` 
+*	:ref:`option-CPLEX-bqp_cuts` 
+*	:ref:`option-CPLEX-rlt_cuts` 

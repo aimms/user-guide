@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Clock_Type:
+.. _option-CPLEX-clock_type:
 
 
 Clock Type
@@ -31,7 +31,7 @@ The setting 'Automatic' allows CPLEX to choose wall clock time when other option
 
 **Learn more about** 
 
-*	 :ref:`CPLEX_Par_-_GlobalThreadLimit` 
+*	 :ref:`option-CPLEX-global_thread_limit` 
 
 
 

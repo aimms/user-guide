@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_Integrality:
+.. _option-CPLEX-integrality:
 
 
 Integrality
@@ -26,7 +26,7 @@ The setting of this option specifies the amount by which an integer variable can
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Simplex_-_Feasibility`  
+*	:ref:`option-CPLEX-feasibility`  
 
 
 

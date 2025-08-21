@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Conflict_Algorithm:
+.. _option-CPLEX-conflict_algorithm:
 
 
 Conflict Algorithm

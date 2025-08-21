@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_Cover_Cuts:
+.. _option-CPLEX-cover_cuts:
 
 
 Cover Cuts

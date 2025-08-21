@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_MIP_Kappa:
+.. _option-CPLEX-mip_kappa:
 
 
 MIP Kappa
@@ -163,6 +163,6 @@ The highest condition number encountered during a MIP solve.
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_-_MIP_Method` 
-*	:ref:`CPLEX_General_-_NumericalEmphasis` 
+*	:ref:`option-CPLEX-mip_method` 
+*	:ref:`option-CPLEX-numerical_emphasis` 
 *	:ref:`Options_Solver_Specific_-_Solver_List1`  

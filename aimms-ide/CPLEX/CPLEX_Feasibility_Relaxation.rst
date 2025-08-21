@@ -1,6 +1,5 @@
 
 
-.. _CPX221_Feasibility_Relaxation:
 .. _CPLEX_Feasibility_Relaxation:
 
 
@@ -54,7 +53,7 @@ If this option is disabled, AIMMS will stop after Phase I and return a minimum-c
 *	:ref:`Options_Feasibility_relaxation` 
 *	:ref:`Options_Feasibility_relaxation_objecti` 
 *	:ref:`Options_Feasibility_relaxation_optimiz` 
-*	:ref:`CPLEX_General_-_Feasopt_tolerance` 
+*	:ref:`option-CPLEX-feasopt_tolerance` 
 
 
 

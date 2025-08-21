@@ -1,4 +1,4 @@
-.. _CPLEX_Barrier_-_Barrier_Ordering:
+.. _option-CPLEX-barrier_ordering:
 
 
 Barrier Ordering

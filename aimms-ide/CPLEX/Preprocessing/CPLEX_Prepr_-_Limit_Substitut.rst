@@ -1,4 +1,4 @@
-.. _CPLEX_Prepr_-_Limit_Substitut:
+.. _option-CPLEX-limit_substitutions:
 
 
 Limit Substitutions
@@ -18,4 +18,4 @@ This option can be used to limit the variable substitutions by the **Aggregator*
 
 **Learn more about** 
 
-*	 :ref:`CPLEX_Prepr_-_Aggregator` 
+*	 :ref:`option-CPLEX-aggregator` 

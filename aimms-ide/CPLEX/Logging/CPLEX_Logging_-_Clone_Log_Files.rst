@@ -1,4 +1,4 @@
-.. _CPLEX_Logging_-_Clone_Log_Files:
+.. _option-CPLEX-clone_log_files:
 
 
 Clone Log Files
@@ -23,7 +23,7 @@ This option specifies whether CPLEX clones the log files of nodes during paralle
 
 
 
-The concurrent optimizer is described in the section :ref:`CPLEX_Parallel_Concurrent_Optimizer` . It can be enabled by setting the option **LP Method** . The amount of information printed to the clone log files is controlled by the options **Barrier Display**  and **Simplex Display** .
+The concurrent optimizer is described in the section :ref:`option-CPLEX-parallel_concurrent_optimizer` . It can be enabled by setting the option **LP Method** . The amount of information printed to the clone log files is controlled by the options **Barrier Display**  and **Simplex Display** .
 
 
 
@@ -43,10 +43,10 @@ The clone log files are written in the project folder (and not to the log direct
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Logging_-_Barrier_Display` 
-*	:ref:`CPLEX_Par_-_GlobalThreadLimit`  
-*	:ref:`CPLEX_General_-_LP_Method` 
-*	:ref:`CPLEX_Logging_-_MIP_Display` 
-*	:ref:`CPLEX_Logging_-_MIP_Interval` 
-*	:ref:`CPLEX_Parallel_Concurrent_Optimizer` 
-*	:ref:`CPLEX_Logging_-_Simplex_Display` 
+*	:ref:`option-CPLEX-barrier_display` 
+*	:ref:`option-CPLEX-global_thread_limit`  
+*	:ref:`option-CPLEX-lp_method` 
+*	:ref:`option-CPLEX-mip_display` 
+*	:ref:`option-CPLEX-mip_interval` 
+*	:ref:`option-CPLEX-parallel_concurrent_optimizer` 
+*	:ref:`option-CPLEX-simplex_display` 

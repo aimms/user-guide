@@ -1,4 +1,4 @@
-.. _CPLEX_-_Network_Optimality:
+.. _option-CPLEX-network_optimality:
 
 
 Network Optimality

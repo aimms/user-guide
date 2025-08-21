@@ -1,4 +1,4 @@
-.. _CPLEX_Logging_-_Tuning_Display:
+.. _option-CPLEX-tuning_display:
 
 
 Tuning Display
@@ -43,4 +43,4 @@ The logging information is written to the file 'CPLEX 22.1.sta' if the general s
 
 *	:ref:`Options_Solver_Specific_-_Solver_Listi`  
 *	:ref:`Options_Solver_Specific_-_Solver_List1`  
-*	:ref:`CPLEX_Tuning_Tool` 
+*	:ref:`option-CPLEX-tuning_tool` 

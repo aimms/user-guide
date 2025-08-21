@@ -1,4 +1,4 @@
-.. _CPLEX_Polishing_Time:
+.. _option-CPLEX-polishing_time:
 
 
 Polishing Time
@@ -47,5 +47,5 @@ If CPLEX does not find a solution in the first 100 seconds, then this procedure 
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Polishing_Time_Deterministic`  
+*	:ref:`option-CPLEX-polishing_time_deterministic`  
 *	:ref:`Options_Stop_Criteria_-_Time_Limit`  

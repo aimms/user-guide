@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Sensitivity_Method:
+.. _option-CPLEX-sensitivity_method:
 
 
 Sensitivity Method
@@ -49,8 +49,8 @@ Multiple LP problems are solved to calculate shadow price ranges for constraints
 **Learn more about** 
 
 *	:ref:`Options_Sensitivity_-_Calculate_Sensit` 
-*	:ref:`CPLEX_Par_-_GlobalThreadLimit`  
-*	:ref:`CPLEX_General_-_LP_Method` 
+*	:ref:`option-CPLEX-global_thread_limit`  
+*	:ref:`option-CPLEX-lp_method` 
 
 
 

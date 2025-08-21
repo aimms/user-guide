@@ -1,4 +1,4 @@
-.. _CPLEX_Simplex_-_Optimality:
+.. _option-CPLEX-optimality:
 
 
 Optimality

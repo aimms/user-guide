@@ -34,5 +34,5 @@ In AIMMS, a constraint is used as a range filter if the constraint has property 
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Solution_Pool`  
-*	:ref:`CPLEX_MIP_Solp_-_Do_Populate`  
+*	:ref:`option-CPLEX-solution_pool`  
+*	:ref:`option-CPLEX-do_populate`  

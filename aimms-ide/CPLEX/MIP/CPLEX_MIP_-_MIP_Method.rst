@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_MIP_Method:
+.. _option-CPLEX-mip_method:
 
 
 MIP Method
@@ -65,4 +65,4 @@ With the setting 'Sifting', CPLEX solves a sequence of LP subproblems, where the
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_-_MIP_Start_Algorit` 
+*	:ref:`option-CPLEX-mip_start_algorithm` 

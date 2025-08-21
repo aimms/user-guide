@@ -1,4 +1,4 @@
-.. _CPLEX_QP_-_MIQCP_Strategy:
+.. _option-CPLEX-miqcp_strategy:
 
 
 MIQCP Strategy

@@ -47,13 +47,13 @@ In case the CPLEX Presolver declares a model as infeasible, the solution reporte
 **Learn more about** 
 
 *	:ref:`Options_Postsolve_-_Postsolve`  
-*	:ref:`CPLEX_MIP_-_Node_File`  
-*	:ref:`CPLEX_General_-_Check_Solution`  
-*	:ref:`CPLEX_General_-_Display_Solution_Statistics`  
-*	:ref:`CPLEX_General_-_Scale`  
-*	:ref:`CPLEX_Simplex_-_Feasibility` 
-*	:ref:`CPLEX_Prepr_-_Presolve`  
-*	:ref:`CPLEX_Prepr_-_Pre_reduction_types`  
+*	:ref:`option-CPLEX-node_file`  
+*	:ref:`option-CPLEX-check_solution`  
+*	:ref:`option-CPLEX-display_solution_statistics`  
+*	:ref:`option-CPLEX-scale`  
+*	:ref:`option-CPLEX-feasibility` 
+*	:ref:`option-CPLEX-presolve`  
+*	:ref:`option-CPLEX-preprocessing_reduction_types`  
 
 
 

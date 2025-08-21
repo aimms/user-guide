@@ -1,4 +1,4 @@
-.. _CPLEX_QP_-_QP_Linearization:
+.. _option-CPLEX-qp_linearization:
 
 
 QP Linearization
@@ -49,4 +49,4 @@ This option interacts with the option **Solution Target** :
 
 **Learn more about** 
 
-*	:ref:`CPLEX_QP_-_Solution_Target`  
+*	:ref:`option-CPLEX-solution_target`  

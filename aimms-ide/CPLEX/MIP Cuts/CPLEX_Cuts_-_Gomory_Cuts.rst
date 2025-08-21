@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_Gomory_Cuts:
+.. _option-CPLEX-gomory_cuts:
 
 
 Gomory Cuts

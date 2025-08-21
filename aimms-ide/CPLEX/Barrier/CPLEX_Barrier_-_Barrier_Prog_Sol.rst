@@ -1,4 +1,4 @@
-.. _CPLEX_Barrier_-_Barrier_Prog_Sol:
+.. _option-CPLEX-barrier_progress_solution:
 
 
 Barrier Progress Solution

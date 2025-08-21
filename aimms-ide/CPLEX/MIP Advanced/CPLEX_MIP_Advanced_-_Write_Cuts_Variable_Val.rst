@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Advanced_-_Write_Cuts_Variable_Val:
+.. _option-CPLEX-write_cuts_variable_values:
 
 
 Write Cuts Variable Values
@@ -43,5 +43,5 @@ The level values correspond to the fractional solution found at the end of the r
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_Advanced_-_Find_Fractional_Root_Solution` 
-*	:ref:`CPLEX_MIP_Advanced_-_Write_Cuts` 
+*	:ref:`option-CPLEX-find_fractional_root_solution` 
+*	:ref:`option-CPLEX-write_cuts` 

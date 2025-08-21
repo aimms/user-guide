@@ -1,4 +1,4 @@
-.. _CPLEX_-_Network_Extraction_L:
+.. _option-CPLEX-network_extraction_level:
 
 
 Network Extraction Level
@@ -25,7 +25,7 @@ This option establishes the level of network extraction for network simplex opti
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_LP_Method` 
+*	:ref:`option-CPLEX-lp_method` 
 
 
 

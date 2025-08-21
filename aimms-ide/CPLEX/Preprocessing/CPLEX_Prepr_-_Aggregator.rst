@@ -1,4 +1,4 @@
-.. _CPLEX_Prepr_-_Aggregator:
+.. _option-CPLEX-aggregator:
 
 
 Aggregator
@@ -30,4 +30,4 @@ Another option, which affects only the aggregator, is**Limit Substitutions** . O
 
 **Learn more about** 
 
-*	 :ref:`CPLEX_Prepr_-_Limit_Substitut` 
+*	 :ref:`option-CPLEX-limit_substitutions` 

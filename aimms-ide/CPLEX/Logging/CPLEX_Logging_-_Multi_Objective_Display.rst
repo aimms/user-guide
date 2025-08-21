@@ -1,4 +1,4 @@
-.. _CPLEX_Logging_-_Multi_Objective_Display:
+.. _option-CPLEX-multi_objective_display:
 
 
 Multi Objective Display

@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_MIP_Update:
+.. _option-CPLEX-mip_update:
 
 
 MIP Update
@@ -24,7 +24,7 @@ When solving an updated version of an already loaded model, CPLEX retrieves thes
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_-_MIP_Basis` 
+*	:ref:`option-CPLEX-mip_basis` 
 
 
 

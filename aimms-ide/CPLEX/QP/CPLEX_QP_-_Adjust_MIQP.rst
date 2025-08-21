@@ -1,4 +1,4 @@
-.. _CPLEX_QP_-_Adjust_MIQP:
+.. _option-CPLEX-adjust_miqp:
 
 
 Adjust MIQP

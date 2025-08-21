@@ -1,4 +1,4 @@
-.. _CPLEX_Barrier_-_Barrier_Start_Algori:
+.. _option-CPLEX-barrier_start_algorithm:
 
 
 Barrier Start Algorithm
@@ -26,7 +26,7 @@ This option sets the algorithm to be used to compute the initial starting point 
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Prepr_-_Presolve_Pass_D`  
+*	:ref:`option-CPLEX-presolve_pass_dual`  
 
 
 

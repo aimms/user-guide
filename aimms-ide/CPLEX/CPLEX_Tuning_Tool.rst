@@ -94,10 +94,10 @@ CPLEX is equipped with a few options that control the tuning process, e.g., **Tu
 *	:ref:`Options_MIP_Options_-_MIP_Absolute_Opt`  
 *	:ref:`Options_MIP_Options_-_MIP_Relative_Opt`  
 *	:ref:`Options_Stop_Criteria_-_Time_Limit`  
-*	:ref:`CPLEX_Logging_-_Tuning_Display`  
-*	:ref:`CPLEX_Tuning_-_Tuning_Measure`  
-*	:ref:`CPLEX_Tuning_-_Tuning_Repeater`  
-*	:ref:`CPLEX_Tuning_-_Tuning_Time_Limit`  
+*	:ref:`option-CPLEX-tuning_display`  
+*	:ref:`option-CPLEX-tuning_measure`  
+*	:ref:`option-CPLEX-tuning_repeater`  
+*	:ref:`option-CPLEX-tuning_time_limit`  
 
 
 

@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Prepr_-_Preproc_Sym:
+.. _option-CPLEX-preprocessing_symmetry:
 
 
 Preprocessing Symmetry

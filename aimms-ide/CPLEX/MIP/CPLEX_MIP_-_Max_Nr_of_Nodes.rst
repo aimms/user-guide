@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_Max_Nr_of_Nodes:
+.. _option-CPLEX-maximal_number_of_nodes:
 
 
 Maximal Number of Nodes

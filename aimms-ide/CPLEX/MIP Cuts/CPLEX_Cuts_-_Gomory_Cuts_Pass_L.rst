@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_Gomory_Cuts_Pass_L:
+.. _option-CPLEX-gomory_cuts_pass_limit:
 
 
 Gomory Cuts Pass Limit
@@ -18,7 +18,7 @@ This option limits the passes for generating Gomory cuts for the problem. At the
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Cuts_-_Gomory_Cuts`  
+*	:ref:`option-CPLEX-gomory_cuts`  
 
 
 

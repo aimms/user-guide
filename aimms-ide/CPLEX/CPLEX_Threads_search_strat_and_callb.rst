@@ -95,7 +95,7 @@ The table also shows that if branch-and-cut is selected as the search strategy t
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Par_-_GlobalThreadLimit` 
-*	:ref:`CPLEX_MIP_-_MIP_Search_Strategy` 
-*	:ref:`CPLEX_Par_-_Parallel_Mode` 
-*	:ref:`CPLEX_MIP_-_Use_Generic_Callbacks` 
+*	:ref:`option-CPLEX-global_thread_limit` 
+*	:ref:`option-CPLEX-mip_search_strategy` 
+*	:ref:`option-CPLEX-parallel_mode` 
+*	:ref:`option-CPLEX-use_generic_callbacks` 

@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Solp_-_Population_Limit:
+.. _option-CPLEX-population_limit:
 
 
 Population Limit
@@ -38,7 +38,7 @@ This option has only meaning if the option **Do** **Populate**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_Solp_-_Do_Populate`  
-*	:ref:`CPLEX_MIP_Solp_-_Pool_Abs_Obj_Gap`  
-*	:ref:`CPLEX_MIP_Solp_-_Pool_Capacity`  
-*	:ref:`CPLEX_MIP_Solp_-_Pool_Rel_Obj_Gap`  
+*	:ref:`option-CPLEX-do_populate`  
+*	:ref:`option-CPLEX-pool_absolute_objective_gap`  
+*	:ref:`option-CPLEX-pool_capacity`  
+*	:ref:`option-CPLEX-pool_relative_objective_gap`  

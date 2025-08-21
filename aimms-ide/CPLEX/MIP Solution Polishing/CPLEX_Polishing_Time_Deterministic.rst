@@ -1,4 +1,4 @@
-.. _CPLEX_Polishing_Time_Deterministic:
+.. _option-CPLEX-polishing_time_deterministic:
 
 
 Polishing Time Deterministic
@@ -29,4 +29,4 @@ CPLEX must have a feasible solution in order to start polishing. It must also ha
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Polishing_Time`  
+*	:ref:`option-CPLEX-polishing_time`  

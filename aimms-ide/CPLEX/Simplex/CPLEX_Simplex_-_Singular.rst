@@ -1,4 +1,4 @@
-.. _CPLEX_Simplex_-_Singular:
+.. _option-CPLEX-singular:
 
 
 Singular

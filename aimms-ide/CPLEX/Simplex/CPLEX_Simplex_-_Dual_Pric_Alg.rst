@@ -1,4 +1,4 @@
-.. _CPLEX_Simplex_-_Dual_Pric_Alg:
+.. _option-CPLEX-dual_pricing_algorithm:
 
 
 Dual Pricing Algorithm

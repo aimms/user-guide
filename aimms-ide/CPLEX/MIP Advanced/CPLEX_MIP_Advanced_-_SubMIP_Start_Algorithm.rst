@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Advanced_-_SubMIP_Start_Algorithm:
+.. _option-CPLEX-submip_start_algorithm:
 
 
 SubMIP Start Algorithm
@@ -26,7 +26,7 @@ This option sets which continuous optimizer will be used to solve the initial re
 
 
 
-SubMIPS are described in the section :ref:`CPLEX_SubMIP` .
+SubMIPS are described in the section :ref:`option-CPLEX-submip` .
 
 
 
@@ -71,4 +71,4 @@ Sifting solves a sequence of LP subproblems, where the results from one subprobl
 
 **Learn more about** 
 
-*	:ref:`CPLEX_SubMIP` 
+*	:ref:`option-CPLEX-submip` 

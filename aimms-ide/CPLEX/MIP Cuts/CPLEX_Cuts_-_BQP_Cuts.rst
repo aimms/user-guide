@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_BQP_Cuts:
+.. _option-CPLEX-bqp_cuts:
 
 
 BQP Cuts
@@ -58,4 +58,4 @@ B = { (x, X) : 0 <= x <= 1, X_ij = x_i x_j if i is different from j, X_ii = 0 }
 
 **Learn more about** 
 
-*	:ref:`CPLEX_QP_-_Solution_Target`  
+*	:ref:`option-CPLEX-solution_target`  

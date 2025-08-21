@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Solp_-_Populate_time_limit:
+.. _option-CPLEX-populate_time_limit:
 
 
 Populate Time Limit
@@ -26,5 +26,5 @@ This option has only meaning if the option **Do** **Populate**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_Solp_-_Do_Populate`  
+*	:ref:`option-CPLEX-do_populate`  
 *	:ref:`Options_Stop_Criteria_-_Time_Limit`  

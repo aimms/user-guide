@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Advanced_-_Upper_Objective_Stop:
+.. _option-CPLEX-upper_objective_stop:
 
 
 Upper Objective Stop
@@ -22,7 +22,7 @@ This option is ignored if the problem is multi-objective.
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_Advanced_-_Lower_Objective_Stop` 
+*	:ref:`option-CPLEX-lower_objective_stop` 
 
 
 

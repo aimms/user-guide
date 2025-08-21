@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_AdvancedStart:
+.. _option-CPLEX-advanced_start:
 
 
 Advanced Start
@@ -56,7 +56,7 @@ For continuous models with setting "Automatic", CPLEX will use an advanced basis
 
 **Note** 
 
-*	CPLEX also supports :ref:`CPLEX_Multiple_MIP_Starts` .
+*	CPLEX also supports :ref:`option-CPLEX-multiple_mip_starts` .
 *	If this option is not switched off and if GMP functionality is used (e.g., GMP::Instance::Solve), then CPLEX can resume a solve that was interrupted or hit a time, node or iteration limit.
 
 
@@ -65,8 +65,8 @@ For continuous models with setting "Automatic", CPLEX will use an advanced basis
 **Learn more about** 
 
 *	:ref:`Options_Interface_-_Accept_Basis`  
-*	:ref:`CPLEX_MIP_-_NumberofRepairAttempts`  
-*	:ref:`CPLEX_Multiple_MIP_Starts` 
+*	:ref:`option-CPLEX-number_of_repair_attempts`  
+*	:ref:`option-CPLEX-multiple_mip_starts` 
 
 
 

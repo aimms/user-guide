@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_StealthMode:
+.. _option-CPLEX-stealth_mode:
 
 
 Stealth Mode

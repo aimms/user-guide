@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_Use_Generic_Callbacks:
+.. _option-CPLEX-use_generic_callbacks:
 
 
 Use Generic Callbacks
@@ -84,12 +84,12 @@ The usage of generic callback also has some disadvantages:
 
 *	:any:`GMP::SolverSession::GetNodeObjective`
 *	:any:`GMP::SolverSession::GetNodesLeft`
-*	:ref:`CPLEX_Threads_search_strat_and_callb` 
-*	:ref:`CPLEX_Par_-_GlobalThreadLimit` 
-*	:ref:`CPLEX_MIP_-_MIP_Search_Strategy` 
-*	:ref:`CPLEX_Par_-_Parallel_Mode` 
+*	:ref:`option-CPLEX-callback_procedures` 
+*	:ref:`option-CPLEX-global_thread_limit` 
+*	:ref:`option-CPLEX-mip_search_strategy` 
+*	:ref:`option-CPLEX-parallel_mode` 
 *	:ref:`Options_Postsolve_-_Postsolve` 
-*	:ref:`CPLEX_QP_-_Solution_Target` 
+*	:ref:`option-CPLEX-solution_target` 
 
 
 

@@ -1,4 +1,4 @@
-.. _CPLEX_Logging_-_Simplex_Display:
+.. _option-CPLEX-simplex_display:
 
 
 Simplex Display
@@ -40,7 +40,7 @@ There is no difference between settings 'All' and 'Remark' for option **Solver L
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_Sensitivity_Method` 
+*	:ref:`option-CPLEX-sensitivity_method` 
 *	:ref:`Options_Solver_Specific_-_Solver_Listi`  
 *	:ref:`Options_Solver_Specific_-_Solver_List1`  
 

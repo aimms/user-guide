@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_Local_Implied_Bound_Cuts:
+.. _option-CPLEX-local_implied_bound_cuts:
 
 
 Local Implied Bound Cuts
@@ -39,4 +39,4 @@ In some models, binary variables imply bounds on nonbinary variables (that is, g
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Cuts_-_Implied_Bound_Cuts`  
+*	:ref:`option-CPLEX-implied_bound_cuts`  

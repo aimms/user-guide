@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_RLT_Cuts:
+.. _option-CPLEX-rlt_cuts:
 
 
 RLT Cuts
@@ -34,7 +34,7 @@ This option controls the addition of cuts based on the Reformulation Linearizati
 
 **Learn more about** 
 
-*	:ref:`CPLEX_QP_-_Solution_Target` 
+*	:ref:`option-CPLEX-solution_target` 
 
 
 

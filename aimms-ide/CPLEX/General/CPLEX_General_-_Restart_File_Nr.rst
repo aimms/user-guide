@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Restart_File_Nr:
+.. _option-CPLEX-restart_file_number:
 
 
 Restart File Number
@@ -18,7 +18,7 @@ This option represents the number part of the restart file name.
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_Restart` 
+*	:ref:`option-CPLEX-restart` 
 
 
 

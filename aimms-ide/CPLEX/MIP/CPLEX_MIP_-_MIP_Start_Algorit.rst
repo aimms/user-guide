@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_MIP_Start_Algorit:
+.. _option-CPLEX-mip_start_algorithm:
 
 
 MIP Start Algorithm
@@ -57,7 +57,7 @@ Sifting solves a sequence of LP subproblems, where the results from one subprobl
 
 
 
-On a multiprocessor computer, the concurrent optimizer launches distinct LP optimizers on multiple threads to solve the initial relaxation of the MIP, terminating as soon as the first optimizer finishes. The concurrent optimizer is described in the section :ref:`CPLEX_Parallel_Concurrent_Optimizer` . The amount of threads available to the concurrent optimizer is controlled by the option **Global Thread Limit** .
+On a multiprocessor computer, the concurrent optimizer launches distinct LP optimizers on multiple threads to solve the initial relaxation of the MIP, terminating as soon as the first optimizer finishes. The concurrent optimizer is described in the section :ref:`option-CPLEX-parallel_concurrent_optimizer` . The amount of threads available to the concurrent optimizer is controlled by the option **Global Thread Limit** .
 
 
 
@@ -78,6 +78,6 @@ The concurrent optimizer requires more memory than any individual optimizer, and
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Par_-_GlobalThreadLimit`  
-*	:ref:`CPLEX_MIP_-_MIP_Method` 
-*	:ref:`CPLEX_Parallel_Concurrent_Optimizer` 
+*	:ref:`option-CPLEX-global_thread_limit`  
+*	:ref:`option-CPLEX-mip_method` 
+*	:ref:`option-CPLEX-parallel_concurrent_optimizer` 

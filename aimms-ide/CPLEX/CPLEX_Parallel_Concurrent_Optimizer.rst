@@ -45,7 +45,7 @@ If this apparent wait during the race between concurrent optimizers poses a prob
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Par_-_GlobalThreadLimit` 
-*	:ref:`CPLEX_General_-_LP_Method` 
-*	:ref:`CPLEX_MIP_-_MIP_Start_Algorit` 
-*	:ref:`CPLEX_Par_-_Parallel_Mode` 
+*	:ref:`option-CPLEX-global_thread_limit` 
+*	:ref:`option-CPLEX-lp_method` 
+*	:ref:`option-CPLEX-mip_start_algorithm` 
+*	:ref:`option-CPLEX-parallel_mode` 

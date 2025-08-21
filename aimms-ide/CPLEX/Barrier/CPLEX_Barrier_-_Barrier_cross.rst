@@ -1,4 +1,4 @@
-.. _CPLEX_Barrier_-_Barrier_cross:
+.. _option-CPLEX-barrier_crossover_algorithm:
 
 
 Barrier Crossover Algorithm
@@ -32,7 +32,7 @@ This option determines which, if any, crossover is performed at the end of a bar
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_Solution_Type` 
+*	:ref:`option-CPLEX-solution_type` 
 
 
 

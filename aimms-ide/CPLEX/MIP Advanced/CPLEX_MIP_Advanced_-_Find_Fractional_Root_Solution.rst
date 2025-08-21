@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Advanced_-_Find_Fractional_Root_Solution:
+.. _option-CPLEX-find_fractional_root_solution:
 
 
 Find Fractional Root Solution
@@ -71,7 +71,7 @@ If this option is activated then CPLEX will interrupt the solve after processing
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_-_MIP_Search_Strategy` 
-*	:ref:`CPLEX_MIP_-_Use_Generic_Callbacks` 
-*	:ref:`CPLEX_MIP_Advanced_-_Write_Cuts` 
-*	:ref:`CPLEX_MIP_Advanced_-_Write_Cuts_Variable_Val` 
+*	:ref:`option-CPLEX-mip_search_strategy` 
+*	:ref:`option-CPLEX-use_generic_callbacks` 
+*	:ref:`option-CPLEX-write_cuts` 
+*	:ref:`option-CPLEX-write_cuts_variable_values` 

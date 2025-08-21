@@ -1,4 +1,4 @@
-.. _CPLEX_Par_-_Auxiliary_Root_Threads:
+.. _option-CPLEX-auxiliary_root_threads:
 
 
 Auxiliary Root Threads
@@ -45,7 +45,7 @@ At its default value, 0, CPLEX automatically chooses the number of threads to us
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Par_-_GlobalThreadLimit` 
+*	:ref:`option-CPLEX-global_thread_limit` 
 
 
 

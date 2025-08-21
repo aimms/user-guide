@@ -35,7 +35,7 @@ A subMIP is usually smaller in size than the MIP that CPLEX is currently solving
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_Advanced_-_SubMIP_Node_Limit`  
-*	:ref:`CPLEX_MIP_Advanced_-_SubMIP_Scale`  
-*	:ref:`CPLEX_MIP_Advanced_-_SubMIP_Start_Algorithm`  
-*	:ref:`CPLEX_MIP_Advanced_-_SubMIP_Subproblem_Algorithm`  
+*	:ref:`option-CPLEX-submip_node_limit`  
+*	:ref:`option-CPLEX-submip_scale`  
+*	:ref:`option-CPLEX-submip_start_algorithm`  
+*	:ref:`option-CPLEX-submip_subproblem_algorithm`  

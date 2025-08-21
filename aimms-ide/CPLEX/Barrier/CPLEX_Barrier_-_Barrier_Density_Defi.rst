@@ -1,4 +1,4 @@
-.. _CPLEX_Barrier_-_Barrier_Density_Defi:
+.. _option-CPLEX-barrier_density_definition:
 
 
 Barrier Density Definition

@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Sifting_Algorithm:
+.. _option-CPLEX-sifting_algorithm:
 
 
 Sifting Algorithm
@@ -45,13 +45,13 @@ Sifting can be selected for solving LP and MIP models using the following option
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Benders_-_Benders_Worker_Alg`  
-*	:ref:`CPLEX_General_-_LP_Method`  
-*	:ref:`CPLEX_MIP_-_MIP_Method`  
-*	:ref:`CPLEX_MIP_-_MIP_Start_Algorit` 
-*	:ref:`CPLEX_General_-_Solution_Type` 
-*	:ref:`CPLEX_MIP_Advanced_-_SubMIP_Start_Algorithm` 
-*	:ref:`CPLEX_MIP_Advanced_-_SubMIP_Subproblem_Algorithm` 
+*	:ref:`option-CPLEX-benders_worker_algorithm`  
+*	:ref:`option-CPLEX-lp_method`  
+*	:ref:`option-CPLEX-mip_method`  
+*	:ref:`option-CPLEX-mip_start_algorithm` 
+*	:ref:`option-CPLEX-solution_type` 
+*	:ref:`option-CPLEX-submip_start_algorithm` 
+*	:ref:`option-CPLEX-submip_subproblem_algorithm` 
 
 
 

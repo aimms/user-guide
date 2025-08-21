@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Cleanup_Coefficients:
+.. _option-CPLEX-cleanup_coefficients:
 
 
 Cleanup Coefficients
@@ -18,4 +18,4 @@ CPLEX will change matrix coefficients that are smaller in magnitude than the val
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_Round_Coefficients`  
+*	:ref:`option-CPLEX-round_coefficients`  

@@ -1,4 +1,4 @@
-.. _CPLEX_Simplex_-_Refactor:
+.. _option-CPLEX-refactor:
 
 
 Refactor

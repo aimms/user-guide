@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Solp_-_Pool_Capacity:
+.. _option-CPLEX-pool_capacity:
 
 
 Pool Capacity
@@ -22,5 +22,5 @@ This option has only meaning if the option **Do** **Populate**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_Solp_-_Do_Populate`  
-*	:ref:`CPLEX_MIP_Solp_-_Pool_Repl_Strat`  
+*	:ref:`option-CPLEX-do_populate`  
+*	:ref:`option-CPLEX-pool_replacement_strategy`  

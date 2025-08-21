@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_Difference_Object:
+.. _option-CPLEX-difference_objective:
 
 
 Difference Objective

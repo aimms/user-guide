@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_LP_Method:
+.. _option-CPLEX-lp_method:
 
 
 LP Method
@@ -33,7 +33,7 @@ Sifting solves a sequence of LP subproblems, where the results from one subprobl
 
 
 
-On a multiprocessor computer, the concurrent optimizer launches distinct LP optimizers on multiple threads, terminating as soon as the first optimizer finishes. The concurrent optimizer is described in the section :ref:`CPLEX_Parallel_Concurrent_Optimizer` . The amount of threads available to the concurrent optimizer is controlled by the option **Global Thread Limit** .
+On a multiprocessor computer, the concurrent optimizer launches distinct LP optimizers on multiple threads, terminating as soon as the first optimizer finishes. The concurrent optimizer is described in the section :ref:`option-CPLEX-parallel_concurrent_optimizer` . The amount of threads available to the concurrent optimizer is controlled by the option **Global Thread Limit** .
 
 
 
@@ -58,11 +58,11 @@ The concurrent optimizer requires more memory than any individual optimizer, and
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Par_-_GlobalThreadLimit`  
-*	:ref:`CPLEX_Parallel_Concurrent_Optimizer` 
+*	:ref:`option-CPLEX-global_thread_limit`  
+*	:ref:`option-CPLEX-parallel_concurrent_optimizer` 
 *	:ref:`Options_Postsolve_-_Postsolve` 
-*	:ref:`CPLEX_General_-_Sensitivity_Method` 
-*	:ref:`CPLEX_General_-_Solution_Type` 
+*	:ref:`option-CPLEX-sensitivity_method` 
+*	:ref:`option-CPLEX-solution_type` 
 
 
 

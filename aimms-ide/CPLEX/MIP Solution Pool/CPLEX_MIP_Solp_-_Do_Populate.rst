@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Solp_-_Do_Populate:
+.. _option-CPLEX-do_populate:
 
 
 Do Populate
@@ -37,13 +37,13 @@ This option should be switched on before a normal solve statement (or before GMP
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Solution_Pool`  
-*	:ref:`CPLEX_MIP_Solp_-_Pool_Abs_Obj_Gap`  
-*	:ref:`CPLEX_MIP_Solp_-_Pool_Intensity`  
-*	:ref:`CPLEX_MIP_Solp_-_Pool_Rel_Obj_Gap`  
-*	:ref:`CPLEX_MIP_Solp_-_Pool_Repl_Strat`  
-*	:ref:`CPLEX_MIP_Solp_-_Populate_time_limit`  
-*	:ref:`CPLEX_MIP_Solp_-_Population_Limit`  
+*	:ref:`option-CPLEX-solution_pool`  
+*	:ref:`option-CPLEX-pool_absolute_objective_gap`  
+*	:ref:`option-CPLEX-pool_intensity`  
+*	:ref:`option-CPLEX-pool_relative_objective_gap`  
+*	:ref:`option-CPLEX-pool_replacement_strategy`  
+*	:ref:`option-CPLEX-populate_time_limit`  
+*	:ref:`option-CPLEX-population_limit`  
 
 
 

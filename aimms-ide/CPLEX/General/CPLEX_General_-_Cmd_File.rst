@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Cmd_File:
+.. _option-CPLEX-cmd_file:
 
 
 Cmd File
@@ -34,9 +34,9 @@ The command file will be named cpxddddd.cmd, where ddddd denotes a 5-digit seque
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_LP_File`  
-*	:ref:`CPLEX_General_-_MPS`  
-*	:ref:`CPLEX_General_-_Sav_File`  
+*	:ref:`option-CPLEX-lp_file`  
+*	:ref:`option-CPLEX-mps`  
+*	:ref:`option-CPLEX-sav_file`  
 
 
 

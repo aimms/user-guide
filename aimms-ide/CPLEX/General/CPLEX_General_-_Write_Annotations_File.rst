@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Write_Annotations_File:
+.. _option-CPLEX-write_annotations_file:
 
 
 Write Annotations File
@@ -34,7 +34,7 @@ Annotation files can (only) be used to write the specified decomposition (of the
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Benders_-_Benders_Strategy` 
-*	:ref:`CPLEX_General_-_LP_File`  
-*	:ref:`CPLEX_General_-_MPS`  
-*	:ref:`CPLEX_General_-_Sav_File`  
+*	:ref:`option-CPLEX-benders_strategy` 
+*	:ref:`option-CPLEX-lp_file`  
+*	:ref:`option-CPLEX-mps`  
+*	:ref:`option-CPLEX-sav_file`  

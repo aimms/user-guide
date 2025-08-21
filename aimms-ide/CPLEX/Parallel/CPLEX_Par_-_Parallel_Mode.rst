@@ -1,4 +1,4 @@
-.. _CPLEX_Par_-_Parallel_Mode:
+.. _option-CPLEX-parallel_mode:
 
 
 Parallel Mode
@@ -53,7 +53,7 @@ Parallel MIP optimization can be opportunistic or deterministic. Parallel barrie
 
 
 
-Concurrent optimization can be opportunistic or deterministic. In either mode, when six or more threads are available, concurrent optimization launches primal simplex, dual simplex, and barrier optimizers by default. If ten threads are available to CPLEX, concurrent optimization launches primal simplex, dual simplex, barrier, and sifting (if sifting is applicable to the current type of problem). The concurrent optimizer is described in the section :ref:`CPLEX_Parallel_Concurrent_Optimizer` .
+Concurrent optimization can be opportunistic or deterministic. In either mode, when six or more threads are available, concurrent optimization launches primal simplex, dual simplex, and barrier optimizers by default. If ten threads are available to CPLEX, concurrent optimization launches primal simplex, dual simplex, barrier, and sifting (if sifting is applicable to the current type of problem). The concurrent optimizer is described in the section :ref:`option-CPLEX-parallel_concurrent_optimizer` .
 
 
 
@@ -93,10 +93,10 @@ Cases where you might wish to turn off deterministic search include situations w
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Threads_search_strat_and_callb` 
-*	:ref:`CPLEX_Par_-_GlobalThreadLimit` 
-*	:ref:`CPLEX_Parallel_Concurrent_Optimizer` 
-*	:ref:`CPLEX_MIP_-_Use_Generic_Callbacks` 
+*	:ref:`option-CPLEX-callback_procedures` 
+*	:ref:`option-CPLEX-global_thread_limit` 
+*	:ref:`option-CPLEX-parallel_concurrent_optimizer` 
+*	:ref:`option-CPLEX-use_generic_callbacks` 
 
 
 

@@ -22,7 +22,7 @@ This option can be used to read in a file with COPT option (parameter) settings.
 
 
 
-The parameter file uses COPT names instead of AIMMS names for the options. The :ref:`option-COPT-aimms_to_copt_mapping`  can be used to find the COPT parameter name corresponding to an option in AIMMS.
+The parameter file uses COPT names instead of AIMMS names for the options. The :ref:`COPT_to_AIMMS_Mapping`  can be used to find the COPT parameter name corresponding to an option in AIMMS.
 
 
 
@@ -37,4 +37,4 @@ The parameter file uses COPT names instead of AIMMS names for the options. The :
 
 **Learn more about** 
 
-*	:ref:`option-COPT-aimms_to_copt_mapping` 
+*	:ref:`COPT_to_AIMMS_Mapping` 

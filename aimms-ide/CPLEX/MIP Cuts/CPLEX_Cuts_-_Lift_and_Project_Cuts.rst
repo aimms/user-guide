@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_Lift_and_Project_Cuts:
+.. _option-CPLEX-lift_and_project_cuts:
 
 
 Lift and Project Cuts

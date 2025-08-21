@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Heuristic_-_Local_Branch_Heur:
+.. _option-CPLEX-local_branching_heuristic:
 
 
 Local Branching Heuristic

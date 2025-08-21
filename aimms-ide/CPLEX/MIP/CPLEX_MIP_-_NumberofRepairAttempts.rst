@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_NumberofRepairAttempts:
+.. _option-CPLEX-number_of_repair_attempts:
 
 
 Number of Repair Attempts
@@ -26,4 +26,4 @@ n:	Indicates the frequency
 
 **Learn more about** 
 
-*	:ref:`CPLEX_General_-_AdvancedStart` 
+*	:ref:`option-CPLEX-advanced_start` 

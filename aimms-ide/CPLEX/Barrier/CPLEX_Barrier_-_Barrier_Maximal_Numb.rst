@@ -1,4 +1,4 @@
-.. _CPLEX_Barrier_-_Barrier_Maximal_Numb:
+.. _option-CPLEX-barrier_maximal_number_of_corrections:
 
 
 Barrier Maximal Number of Corrections
@@ -26,7 +26,7 @@ n:	n corrections
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Logging_-_Barrier_Display` 
+*	:ref:`option-CPLEX-barrier_display` 
 
 
 

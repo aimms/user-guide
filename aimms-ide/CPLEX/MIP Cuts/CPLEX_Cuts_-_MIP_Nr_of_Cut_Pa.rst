@@ -1,4 +1,4 @@
-.. _CPLEX_Cuts_-_MIP_Nr_of_Cut_Pa:
+.. _option-CPLEX-mip_number_of_cut_passes:
 
 
 MIP Number of Cut Passes

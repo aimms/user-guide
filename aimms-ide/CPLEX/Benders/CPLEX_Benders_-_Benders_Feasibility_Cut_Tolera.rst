@@ -1,4 +1,4 @@
-.. _CPLEX_Benders_-_Benders_Feasibility_Cut_Tolera:
+.. _option-CPLEX-benders_feasibility_cut_tolerance:
 
 
 Benders Feasibility Cut Tolerance
@@ -18,4 +18,4 @@ This option specifies a tolerance for the feasibility of cuts when CPLEX solves 
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Benders_-_Benders_Strategy`  
+*	:ref:`option-CPLEX-benders_strategy`  

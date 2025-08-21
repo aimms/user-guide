@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_Prepr_-_Coef_Reduc:
+.. _option-CPLEX-coefficient_reduction:
 
 
 Coefficient Reduction

@@ -1,4 +1,4 @@
-.. _CPLEX_Simplex_-_Feasibility:
+.. _option-CPLEX-feasibility:
 
 
 Feasibility
@@ -30,7 +30,7 @@ This option also controls indirectly the maximum constraint violation as it cont
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_-_Integrality`  
+*	:ref:`option-CPLEX-integrality`  
 
 
 

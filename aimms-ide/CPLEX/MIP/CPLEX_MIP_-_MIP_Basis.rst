@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_MIP_Basis:
+.. _option-CPLEX-mip_basis:
 
 
 MIP Basis

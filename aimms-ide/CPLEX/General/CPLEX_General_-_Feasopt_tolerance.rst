@@ -1,4 +1,4 @@
-.. _CPLEX_General_-_Feasopt_tolerance:
+.. _option-CPLEX-feasopt_tolerance:
 
 
 Feasopt Tolerance
@@ -27,5 +27,5 @@ Using this option, you can implement other stopping criteria as well. To do so, 
 
 **Learn more about** 
 
-· 	:ref:`CPLEX_Feasibility_Relaxation`  
+· 	:ref:`option-CPLEX-feasopt_(feasibility_relaxation)`  
 

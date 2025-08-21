@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_Probing_Time_Deterministic:
+.. _option-CPLEX-probing_time_deterministic:
 
 
 Probing Time Deterministic
@@ -25,5 +25,5 @@ This option limits the amount of time (expressed in deterministic ticks) CPLEX s
 
 **Learn more about** 
 
-*	:ref:`CPLEX_MIP_-_MIP_Probing` 
-*	:ref:`CPLEX_MIP_-_Probing_Time` 
+*	:ref:`option-CPLEX-mip_probing` 
+*	:ref:`option-CPLEX-probing_time` 

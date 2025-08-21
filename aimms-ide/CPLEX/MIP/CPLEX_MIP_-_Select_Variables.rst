@@ -1,4 +1,4 @@
-.. _CPLEX_MIP_-_Select_Variables:
+.. _option-CPLEX-select_variables:
 
 
 Select Variables

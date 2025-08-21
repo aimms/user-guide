@@ -1,4 +1,4 @@
-.. _CPLEX_Benders_-_Benders_Decomposition_Check_Limit:
+.. _option-CPLEX-benders_decomposition_check_limit:
 
 
 Benders Decomposition Check Limit
@@ -44,7 +44,7 @@ Of course, the ``22.1`` in the filename will be replaced by the actual CPLEX ver
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Benders_-_Benders_Strategy` 
+*	:ref:`option-CPLEX-benders_strategy` 
 *	:ref:`Options_Solver_Specific_-_Solver_List1` 
 
 
