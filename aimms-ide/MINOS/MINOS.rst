@@ -66,9 +66,9 @@ The nonlinear presolve algorithm is switched off by default. To use it you shoul
 **Learn more about** 
 
 *	`MINOS <https://web.stanford.edu/group/SOL/home_software.html>`_ (Internet link)
-*	:ref:`MINOS_MINOS_to_AIMMS_Mapping`  
-*	:ref:`MINOS_AIMMS_to_MINOS_Mapping`  
-*	:ref:`MINOS_Description_of_MINOS_Algorithm` 
+*	:ref:`MINOS_to_AIMMS_Mapping`  
+*	:ref:`AIMMS_to_MINOS_Mapping`  
+*	:ref:`Description_of_MINOS_Algorithm` 
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	:ref:`Options_Stop_Criteria_-_Iteration_Limi`  
 *	:ref:`Options_NonlinPres_-_NonlinearPresolve` 

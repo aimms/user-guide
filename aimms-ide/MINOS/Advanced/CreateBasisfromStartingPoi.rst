@@ -1,7 +1,6 @@
 
 
-.. _CreateBasisfromStartingPoi:
-.. _MINOS_CreateBasisfromStartingPoi:
+.. _option-MINOS-create_basis_from_starting_point:
 
 
 Create Basis from Starting Point

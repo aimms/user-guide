@@ -1,7 +1,7 @@
 
 
 .. _RowTolerance:
-.. _MINOS_RowTolerance:
+.. _option-MINOS-row_tolerance:
 
 
 Row Tolerance

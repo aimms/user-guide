@@ -1,7 +1,6 @@
 
 
 .. _Description_of_MINOS_Algorithm:
-.. _MINOS_Description_of_MINOS_Algorithm:
 
 
 Description of MINOS Algorithm
@@ -107,9 +106,9 @@ Finally, upper and lower bounds on the variables (and on the constraints) are ex
 
 **Learn more about** 
 
-*	:ref:`MINOS_DampingParameter`  
-*	:ref:`MINOS_PenaltyParameter`  
-*	:ref:`MINOS_Scaling_-_Scale_Method`  
+*	:ref:`option-MINOS-damping_parameter`  
+*	:ref:`option-MINOS-penalty_parameter`  
+*	:ref:`option-MINOS-scale_method`  
 
 
 

@@ -1,7 +1,7 @@
 
 
 .. _RadiusofConvergence:
-.. _MINOS_RadiusofConvergence:
+.. _option-MINOS-radius_of_convergence:
 
 
 Radius of Convergence
@@ -21,5 +21,5 @@ This option determines when the penalty parameter r will be reduced (if initiali
 
 **Learn more about** 
 
-*	:ref:`MINOS_PenaltyParameter`  
-*	:ref:`MINOS_RowTolerance`  
+*	:ref:`option-MINOS-penalty_parameter`  
+*	:ref:`option-MINOS-row_tolerance`  

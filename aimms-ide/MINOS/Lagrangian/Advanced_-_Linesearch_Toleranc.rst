@@ -1,7 +1,7 @@
 
 
 .. _Advanced_-_Linesearch_Toleranc:
-.. _MINOS_Advanced_-_Linesearch_Toleranc:
+.. _option-MINOS-linesearch_tolerance:
 
 
 Linesearch Tolerance

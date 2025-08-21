@@ -1,7 +1,7 @@
 
 
 .. _Advanced_-_LU_Update_Tolerance:
-.. _MINOS_Advanced_-_LU_Update_Tolerance:
+.. _option-MINOS-lu_update_tolerance:
 
 
 LU Update Tolerance
@@ -25,7 +25,7 @@ For large and relatively dense problems, 25.0 (say) may give a marked improvemen
 
 **Learn more about** 
 
-*	:ref:`MINOS_Advanced_-_LU_Factor_Tol`  
+*	:ref:`option-MINOS-lu_factor_tolerance`  
 
 
 

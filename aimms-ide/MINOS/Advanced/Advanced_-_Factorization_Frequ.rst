@@ -1,7 +1,7 @@
 
 
 .. _Advanced_-_Factorization_Frequ:
-.. _MINOS_Advanced_-_Factorization_Frequ:
+.. _option-MINOS-factorization_frequency:
 
 
 Factorization Frequency
@@ -33,8 +33,8 @@ When the constraints are nonlinear, the **Maximum Number of Minor Iterations**  
 
 **Learn more about** 
 
-*	:ref:`MINOS_Advanced_-_Check_Frequen` 
-*	:ref:`MINOS_-_Maximum_Number_of_Min` 
+*	:ref:`option-MINOS-check_frequency` 
+*	:ref:`option-MINOS-maximum_number_of_minor_iterations` 
 
  
 

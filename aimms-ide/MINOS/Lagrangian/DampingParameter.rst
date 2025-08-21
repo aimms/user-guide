@@ -1,7 +1,7 @@
 
 
 .. _DampingParameter:
-.. _MINOS_DampingParameter:
+.. _option-MINOS-damping_parameter:
 
 
 Damping Parameter

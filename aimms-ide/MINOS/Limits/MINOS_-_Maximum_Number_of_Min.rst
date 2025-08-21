@@ -1,4 +1,4 @@
-.. _MINOS_-_Maximum_Number_of_Min:
+.. _option-MINOS-maximum_number_of_minor_iterations:
 
 
 Maximum Number of Minor Iterations
@@ -27,7 +27,7 @@ Note that the global solvers option **Iteration Limit**  defines (in case of MIN
 **Learn more about** 
 
 *	:ref:`Options_Stop_Criteria_-_Iteration_Limi`  
-*	:ref:`MINOS_Limits_-_Maximum_Number_of_Tot`  
+*	:ref:`option-MINOS-maximum_number_of_total_iterations`  
 
 
 

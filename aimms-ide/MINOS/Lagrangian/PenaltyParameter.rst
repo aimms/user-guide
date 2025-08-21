@@ -1,7 +1,7 @@
 
 
 .. _PenaltyParameter:
-.. _MINOS_PenaltyParameter:
+.. _option-MINOS-penalty_parameter:
 
 
 Penalty Parameter
@@ -39,6 +39,6 @@ If several related problems are to be solved, the following strategy for setting
 
 **Learn more about** 
 
-*	:ref:`MINOS_DampingParameter`  
-*	:ref:`MINOS_Limits_-_Maximum_Number_of_Tot`  
-*	:ref:`MINOS_RadiusofConvergence`  
+*	:ref:`option-MINOS-damping_parameter`  
+*	:ref:`option-MINOS-maximum_number_of_total_iterations`  
+*	:ref:`option-MINOS-radius_of_convergence`  

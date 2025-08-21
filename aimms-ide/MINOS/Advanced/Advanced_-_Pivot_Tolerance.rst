@@ -1,7 +1,7 @@
 
 
 .. _Advanced_-_Pivot_Tolerance:
-.. _MINOS_Advanced_-_Pivot_Tolerance:
+.. _option-MINOS-pivot_tolerance:
 
 
 Pivot Tolerance

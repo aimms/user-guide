@@ -1,7 +1,7 @@
 
 
 .. _Feasibility_-_Feasibility_Tole:
-.. _MINOS_Feasibility_-_Feasibility_Tole:
+.. _option-MINOS-feasibility_tolerance:
 
 
 Feasibility Tolerance
@@ -49,8 +49,8 @@ Feasibility with respect to the nonlinear constraints themselves is measured aga
 
 **Learn more about** 
 
-*	:ref:`MINOS_RowTolerance`  
-*	:ref:`MINOS_Scaling_-_Scale_Method`  
+*	:ref:`option-MINOS-row_tolerance`  
+*	:ref:`option-MINOS-scale_method`  
 
 
 

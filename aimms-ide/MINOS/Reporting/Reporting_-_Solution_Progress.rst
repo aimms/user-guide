@@ -1,7 +1,7 @@
 
 
 .. _Reporting_-_Solution_Progress:
-.. _MINOS_Reporting_-_Solution_Progress:
+.. _option-MINOS-solution_progress:
 
 
 Solution Progress

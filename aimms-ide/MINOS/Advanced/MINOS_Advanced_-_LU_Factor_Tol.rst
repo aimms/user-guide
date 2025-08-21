@@ -1,4 +1,4 @@
-.. _MINOS_Advanced_-_LU_Factor_Tol:
+.. _option-MINOS-lu_factor_tolerance:
 
 
 LU Factor Tolerance
@@ -26,7 +26,7 @@ For certain very special structures (e.g., band matrices) it may be necessary to
 
 **Learn more about** 
 
-*	:ref:`MINOS_Advanced_-_LU_Update_Tolerance`  
+*	:ref:`option-MINOS-lu_update_tolerance`  
 
 
 

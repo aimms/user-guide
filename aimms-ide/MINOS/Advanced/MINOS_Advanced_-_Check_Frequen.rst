@@ -1,4 +1,4 @@
-.. _MINOS_Advanced_-_Check_Frequen:
+.. _option-MINOS-check_frequency:
 
 
 Check Frequency

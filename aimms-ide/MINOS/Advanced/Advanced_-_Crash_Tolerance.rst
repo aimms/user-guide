@@ -1,7 +1,7 @@
 
 
 .. _Advanced_-_Crash_Tolerance:
-.. _MINOS_Advanced_-_Crash_Tolerance:
+.. _option-MINOS-crash_tolerance:
 
 
 Crash Tolerance
@@ -25,7 +25,7 @@ When the value of this option is unequal to 0, the basis obtained by Crash may n
 
 **Learn more about** 
 
-*	:ref:`MINOS_Advanced_-_Calling_Crash`  
+*	:ref:`option-MINOS-calling_crash_procedure`  
 
 
 

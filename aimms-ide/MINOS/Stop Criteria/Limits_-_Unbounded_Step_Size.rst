@@ -1,7 +1,7 @@
 
 
 .. _Limits_-_Unbounded_Step_Size:
-.. _MINOS_Limits_-_Unbounded_Step_Size:
+.. _option-MINOS-unbounded_step_size:
 
 
 Unbounded Step Size
@@ -29,7 +29,7 @@ Unboundedness in x is best avoided by placing finite upper and lower bounds on t
 
 **Learn more about** 
 
-*	:ref:`MINOS_Limits_-_Unbounded_Objec`  
+*	:ref:`option-MINOS-unbounded_objective_value`  
 
 
 

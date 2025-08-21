@@ -1,7 +1,7 @@
 
 
 .. _Advanced_-_Function_Precision:
-.. _MINOS_Advanced_-_Function_Precision:
+.. _option-MINOS-function_precision:
 
 
 Function Precision

@@ -1,4 +1,4 @@
-.. _MINOS_Advanced_-_Calling_Crash:
+.. _option-MINOS-calling_crash_procedure:
 
 
 Calling Crash Procedure
@@ -38,7 +38,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`MINOS_Advanced_-_Crash_Tolerance`  
+*	:ref:`option-MINOS-crash_tolerance`  
 
 
 

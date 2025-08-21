@@ -1,7 +1,6 @@
 
 
 .. _AIMMS_to_MINOS_Mapping:
-.. _MINOS_AIMMS_to_MINOS_Mapping:
 
 
 AIMMS to MINOS Mapping
@@ -15,49 +14,49 @@ The table shows in the left column the AIMMS MINOS options; the right column dis
 
    * - **Option name in AIMMS**
      - **Name in MINOS**
-   * - :ref:`MINOS_Advanced_-_Calling_Crash`
+   * - :ref:`option-MINOS-calling_crash_procedure`
      - CRASH OPTION
-   * - :ref:`MINOS_Advanced_-_Check_Frequen`
+   * - :ref:`option-MINOS-check_frequency`
      - CHECK FREQUENCY
-   * - :ref:`MINOS_Advanced_-_Crash_Tolerance`
+   * - :ref:`option-MINOS-crash_tolerance`
      - CRASH TOLERANCE
-   * - :ref:`MINOS_Advanced_-_Factorization_Frequ`
+   * - :ref:`option-MINOS-factorization_frequency`
      - FACTORIZATION FREQUENCY
-   * - :ref:`MINOS_Advanced_-_Function_Precision`
+   * - :ref:`option-MINOS-function_precision`
      - FUNCTION PRECISION
-   * - :ref:`MINOS_Advanced_-_LU_Factor_Tol`
+   * - :ref:`option-MINOS-lu_factor_tolerance`
      - LU FACTOR TOLERANCE
-   * - :ref:`MINOS_Advanced_-_LU_Update_Tolerance`
+   * - :ref:`option-MINOS-lu_update_tolerance`
      - LU UPDATE TOLERANCE
-   * - :ref:`MINOS_Advanced_-_Pivot_Tolerance`
+   * - :ref:`option-MINOS-pivot_tolerance`
      - PIVOT TOLERANCE
-   * - :ref:`MINOS_SubspaceTolerance`
+   * - :ref:`option-MINOS-subspace_tolerance`
      - SUBSPACE TOLERANCE
-   * - :ref:`MINOS_WeightonLinearObjective`
+   * - :ref:`option-MINOS-weight_on_linear_objective`
      - WEIGHT ON LINEAR OBJECTIVE
-   * - :ref:`MINOS_Feasibility_-_Feasibility_Tole`
+   * - :ref:`option-MINOS-feasibility_tolerance`
      - FEASIBILITY TOLERANCE
-   * - :ref:`MINOS_RowTolerance`
+   * - :ref:`option-MINOS-row_tolerance`
      - ROW TOLERANCE
-   * - :ref:`MINOS_DampingParameter`
+   * - :ref:`option-MINOS-damping_parameter`
      - MAJOR DAMPING PARAMETER
-   * - :ref:`MINOS_Advanced_-_Linesearch_Toleranc`
+   * - :ref:`option-MINOS-linesearch_tolerance`
      - LINESEARCH TOLERANCE
-   * - :ref:`MINOS_PenaltyParameter`
+   * - :ref:`option-MINOS-penalty_parameter`
      - PENALTY PARAMETER
-   * - :ref:`MINOS_RadiusofConvergence`
+   * - :ref:`option-MINOS-radius_of_convergence`
      - RADIUS OF CONVERGENCE
-   * - :ref:`MINOS_-_Maximum_Number_of_Min`
+   * - :ref:`option-MINOS-maximum_number_of_minor_iterations`
      - MINOR ITERATIONS
-   * - :ref:`MINOS_Limits_-_Maximum_Number_of_Tot`
+   * - :ref:`option-MINOS-maximum_number_of_total_iterations`
      - ITERATIONS LIMIT
-   * - :ref:`MINOS_Scaling_-_Scale_Method`
+   * - :ref:`option-MINOS-scale_method`
      - SCALE OPTION
-   * - :ref:`MINOS_Scaling_-_Scale_Tolerance`
+   * - :ref:`option-MINOS-scale_tolerance`
      - SCALE TOLERANCE
-   * - :ref:`MINOS_Limits_-_Optimality_Tolerance`
+   * - :ref:`option-MINOS-optimality_tolerance`
      - OPTIMALITY TOLERANCE
-   * - :ref:`MINOS_Limits_-_Unbounded_Objec`
+   * - :ref:`option-MINOS-unbounded_objective_value`
      - UNBOUNDED OBJECTIVE VALUE
-   * - :ref:`MINOS_Limits_-_Unbounded_Step_Size`
+   * - :ref:`option-MINOS-unbounded_step_size`
      - UNBOUNDED STEP SIZE
