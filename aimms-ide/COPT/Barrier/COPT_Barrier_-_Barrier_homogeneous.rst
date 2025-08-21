@@ -1,4 +1,4 @@
-.. _COPT_Barrier_-_Barrier_homogeneous:
+.. _option-COPT-barrier_homogeneous:
 
 Barrier Homogeneous
 ===================

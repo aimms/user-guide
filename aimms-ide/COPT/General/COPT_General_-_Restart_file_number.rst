@@ -1,4 +1,4 @@
-.. _COPT_General_-_Restart_file_number:
+.. _option-COPT-restart_file_number:
 
 
 Restart File Number
@@ -18,7 +18,7 @@ This option represents the number part of the restart file name.
 
 **Learn more about** 
 
-*	:ref:`COPT_General_-_Restart` 
+*	:ref:`option-COPT-restart` 
 
 
 

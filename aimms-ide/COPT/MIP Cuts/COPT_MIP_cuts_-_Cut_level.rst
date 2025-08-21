@@ -1,4 +1,4 @@
-.. _COPT_MIP_cuts_-_Cut_level:
+.. _option-COPT-cut_level:
 
 
 Cut Level

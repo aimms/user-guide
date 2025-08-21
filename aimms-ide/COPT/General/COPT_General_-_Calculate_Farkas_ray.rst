@@ -1,4 +1,4 @@
-.. _COPT_General_-_Calculate_Farkas_ray:
+.. _option-COPT-calculate_farkas_ray:
 
 
 Calculate Farkas Ray
@@ -47,6 +47,6 @@ If this option is activated then COPT calculates an unbounded ray once COPT dete
 **Learn more about** 
 
 *	:ref:`Options_Sensitivity_-_Always_Store_Con`  
-*	:ref:`COPT_Barrier_-_Crossover`  
-*	:ref:`COPT_General_-_LP_method`  
-*	:ref:`COPT_Presolve_-_Presolve`  
+*	:ref:`option-COPT-crossover`  
+*	:ref:`option-COPT-lp_method`  
+*	:ref:`option-COPT-presolve`  

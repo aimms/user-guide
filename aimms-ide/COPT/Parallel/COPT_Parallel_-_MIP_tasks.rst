@@ -1,4 +1,4 @@
-.. _COPT_Parallel_-_MIP_tasks:
+.. _option-COPT-mip_tasks:
 
 
 MIP Tasks

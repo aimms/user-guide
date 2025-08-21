@@ -1,4 +1,4 @@
-.. _COPT_MIP_cuts_-_Node_cut_rounds:
+.. _option-COPT-node_cut_rounds:
 
 
 Node Cut Rounds

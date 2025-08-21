@@ -1,4 +1,4 @@
-.. _COPT_General_-_Matrix_tolerance:
+.. _option-COPT-matrix_tolerance:
 
 
 Matrix Tolerance

@@ -1,4 +1,4 @@
-.. _COPT_MIP_heuristics_-_Heuristic_level:
+.. _option-COPT-heuristic_level:
 
 
 Heuristic Level

@@ -1,4 +1,4 @@
-.. _COPT_General_-_Scale:
+.. _option-COPT-scale:
 
 
 Scale

@@ -1,4 +1,4 @@
-.. _COPT_General_-_IIS_method:
+.. _option-COPT-iis_method:
 
 
 IIS Method

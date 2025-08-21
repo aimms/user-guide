@@ -1,4 +1,4 @@
-.. _COPT_Parallel_-_Simplex_thread_limit:
+.. _option-COPT-simplex_thread_limit:
 
 
 Simplex Thread Limit
@@ -18,7 +18,7 @@ This option specifies the number of threads used by the dual simplex algorithm. 
 
 **Learn more about** 
 
-*	:ref:`COPT_Parallel_-_Thread_limit` 
+*	:ref:`option-COPT-thread_limit` 
 
 
 

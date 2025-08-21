@@ -1,7 +1,6 @@
 
 
-.. _COPT60_Barrier_-_Barrier_ordering:
-.. _COPT_Barrier_-_Barrier_ordering:
+.. _option-COPT-barrier_ordering:
 
 
 Barrier Ordering

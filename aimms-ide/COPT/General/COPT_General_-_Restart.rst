@@ -1,4 +1,4 @@
-.. _COPT_General_-_Restart:
+.. _option-COPT-restart:
 
 Restart
 =======
@@ -42,5 +42,5 @@ This option also determines whether a restart file is written. If this option is
 
 **Learn more about** 
 
-*	:ref:`COPT_MIP_-_MIP_start` 
-*	:ref:`COPT_General_-_Restart_file_number` 
+*	:ref:`option-COPT-mip_start` 
+*	:ref:`option-COPT-restart_file_number` 

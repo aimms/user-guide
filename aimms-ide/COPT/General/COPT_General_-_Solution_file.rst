@@ -1,4 +1,4 @@
-.. _COPT_General_-_Solution_file:
+.. _option-COPT-solution_file:
 
 Solution File
 =============

@@ -1,4 +1,4 @@
-.. _COPT_General_-_Write_parameter_file:
+.. _option-COPT-write_parameter_file:
 
 
 Write Parameter File
@@ -22,7 +22,7 @@ By setting this option to 'Yes' a COPT parameter file will be written. The file 
 
 
 
-The parameter file uses COPT names instead of AIMMS names for the options. The :ref:`COPT_AIMMS_to_COPT_Mapping`  can be used to find the COPT parameter name corresponding to an option in AIMMS.
+The parameter file uses COPT names instead of AIMMS names for the options. The :ref:`option-COPT-aimms_to_copt_mapping`  can be used to find the COPT parameter name corresponding to an option in AIMMS.
 
 
 
@@ -30,5 +30,5 @@ The parameter file uses COPT names instead of AIMMS names for the options. The :
 
 **Learn more about** 
 
-*	:ref:`COPT_General_-_MPS` 
-*	:ref:`COPT_AIMMS_to_COPT_Mapping` 
+*	:ref:`option-COPT-mps` 
+*	:ref:`option-COPT-aimms_to_copt_mapping` 

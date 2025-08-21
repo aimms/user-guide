@@ -1,4 +1,4 @@
-.. _COPT_General_-_Updates_batch_size:
+.. _option-COPT-updates_batch_size:
 
 
 Updates Batch Size

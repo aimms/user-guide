@@ -1,4 +1,4 @@
-.. _COPT_Logging_-_Output_file:
+.. _option-COPT-output_file:
 
 
 Output File
@@ -39,7 +39,7 @@ There is no difference between settings 'All' and 'Remark' for option **Solver L
 
 **Learn more about** 
 
-*	:ref:`COPT_General_-_Sensitivity_method` 
+*	:ref:`option-COPT-sensitivity_method` 
 *	:ref:`Options_Solver_Specific_-_Solver_Listi`  
 *	:ref:`Options_Solver_Specific_-_Solver_List1`  
 

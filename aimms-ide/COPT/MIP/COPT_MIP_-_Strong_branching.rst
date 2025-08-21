@@ -1,4 +1,4 @@
-.. _COPT_MIP_-_Strong_branching:
+.. _option-COPT-strong_branching:
 
 
 Strong Branching

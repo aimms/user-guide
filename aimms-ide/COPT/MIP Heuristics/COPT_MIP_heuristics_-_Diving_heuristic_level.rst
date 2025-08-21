@@ -1,4 +1,4 @@
-.. _COPT_MIP_heuristics_-_Diving_heuristic_level:
+.. _option-COPT-diving_heuristic_level:
 
 
 Diving Heuristic Level

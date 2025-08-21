@@ -1,6 +1,5 @@
 
 
-.. _COPT60_SOS_Types:
 .. _COPT_SOS_Types:
 
 

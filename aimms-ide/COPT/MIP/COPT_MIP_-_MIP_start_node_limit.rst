@@ -1,4 +1,4 @@
-.. _COPT_MIP_-_MIP_start_node_limit:
+.. _option-COPT-mip_start_node_limit:
 
 
 MIP Start Node Limit
@@ -18,4 +18,4 @@ This option limits the number of branch-and-bound nodes explored when completing
 
 **Learn more about** 
 
-*	:ref:`COPT_MIP_-_MIP_start` 
+*	:ref:`option-COPT-mip_start` 

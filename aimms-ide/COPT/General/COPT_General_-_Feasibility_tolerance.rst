@@ -1,4 +1,4 @@
-.. _COPT_General_-_Feasibility_tolerance:
+.. _option-COPT-feasibility_tolerance:
 
 
 Feasibility Tolerance

@@ -1,4 +1,4 @@
-.. _COPT_Parallel_-_Thread_limit:
+.. _option-COPT-thread_limit:
 
 
 Thread Limit

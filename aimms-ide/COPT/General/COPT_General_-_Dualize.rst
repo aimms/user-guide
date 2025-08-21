@@ -1,4 +1,4 @@
-.. _COPT_General_-_Dualize:
+.. _option-COPT-dualize:
 
 
 Dualize

@@ -1,6 +1,5 @@
 
 
-.. _COPT60_Quadratic_Programs:
 .. _COPT_Quadratic_Programs:
 
 

@@ -1,4 +1,4 @@
-.. _COPT_General_-_LP_method:
+.. _option-COPT-lp_method:
 
 
 LP Method

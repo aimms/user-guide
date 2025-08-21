@@ -1,4 +1,4 @@
-.. _COPT_General_-_Sensitivity_method:
+.. _option-COPT-sensitivity_method:
 
 
 Sensitivity Method
@@ -39,7 +39,7 @@ Multiple LP problems are solved to calculate shadow price ranges for constraints
 **Learn more about** 
 
 *	:ref:`Options_Sensitivity_-_Calculate_Sensit` 
-*	:ref:`COPT_General_-_LP_method` 
+*	:ref:`option-COPT-lp_method` 
 
 
 

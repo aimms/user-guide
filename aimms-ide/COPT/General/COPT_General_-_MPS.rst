@@ -1,4 +1,4 @@
-.. _COPT_General_-_MPS:
+.. _option-COPT-mps:
 
 
 MPS

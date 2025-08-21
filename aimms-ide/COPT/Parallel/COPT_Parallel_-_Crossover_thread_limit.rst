@@ -1,4 +1,4 @@
-.. _COPT_Parallel_-_Crossover_thread_limit:
+.. _option-COPT-crossover_thread_limit:
 
 
 Crossover Thread Limit
@@ -18,7 +18,7 @@ This option specifies the number of threads used during crossover. At the defaul
 
 **Learn more about** 
 
-*	:ref:`COPT_Parallel_-_Thread_limit` 
+*	:ref:`option-COPT-thread_limit` 
 
 
 

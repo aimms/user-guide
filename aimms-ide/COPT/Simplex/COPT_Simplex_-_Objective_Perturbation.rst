@@ -1,4 +1,4 @@
-.. _COPT_Simplex_-_Objective_Perturbation:
+.. _option-COPT-objective_perturbation:
 
 
 Objective Perturbation

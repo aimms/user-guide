@@ -1,4 +1,4 @@
-.. _COPT_Simplex_-_Pricing:
+.. _option-COPT-pricing:
 
 
 Pricing

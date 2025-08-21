@@ -1,4 +1,4 @@
-.. _COPT_Presolve_-_Presolve:
+.. _option-COPT-presolve:
 
 
 Presolve

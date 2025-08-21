@@ -14,73 +14,73 @@ The table shows in the left column the AIMMS COPT options; the right column disp
 
    * - **Option name in AIMMS**
      - **Option name in COPT**
-   * - :ref:`COPT_Barrier_-_Barrier_homogeneous`
+   * - :ref:`option-COPT-barrier_homogeneous`
      - BarHomogeneous
-   * - :ref:`COPT_Barrier_-_Barrier_ordering`
+   * - :ref:`option-COPT-barrier_ordering`
      - BarOrder
-   * - :ref:`COPT_Barrier_-_Crossover`
+   * - :ref:`option-COPT-crossover`
      - Crossover
-   * - :ref:`COPT_General_-_Calculate_Farkas_ray`
+   * - :ref:`option-COPT-calculate_farkas_ray`
      - ReqFarkasRay
-   * - :ref:`COPT_General_-_Dual_tolerance`
+   * - :ref:`option-COPT-dual_tolerance`
      - DualTol
-   * - :ref:`COPT_General_-_Dualize`
+   * - :ref:`option-COPT-dualize`
      - Dualize
-   * - :ref:`COPT_General_-_Feasibility_tolerance`
+   * - :ref:`option-COPT-feasibility_tolerance`
      - FeasTol
-   * - :ref:`COPT_General_-_IIS_method`
+   * - :ref:`option-COPT-iis_method`
      - IISMethod
-   * - :ref:`COPT_General_-_LP_method`
+   * - :ref:`option-COPT-lp_method`
      - LpMethod
-   * - :ref:`COPT_General_-_Matrix_tolerance`
+   * - :ref:`option-COPT-matrix_tolerance`
      - MatrixTol
-   * - :ref:`COPT_General_-_Scale`
+   * - :ref:`option-COPT-scale`
      - Scaling
-   * - :ref:`COPT_Logging_-_Log_to_console`
+   * - :ref:`option-COPT-log_to_console`
      - LogToConsole
-   * - :ref:`COPT_MIP_-_Integrality_tolerance`
+   * - :ref:`option-COPT-integrality_tolerance`
      - IntTol
-   * - :ref:`COPT_MIP_-_MIP_start`
+   * - :ref:`option-COPT-mip_start`
      - MipStartMode
-   * - :ref:`COPT_MIP_-_MIP_start_node_limit`
+   * - :ref:`option-COPT-mip_start_node_limit`
      - MipStartNodeLimit
-   * - :ref:`COPT_MIP_-_Node_limit`
+   * - :ref:`option-COPT-node_limit`
      - NodeLimit
-   * - :ref:`COPT_MIP_-_Strong_branching`
+   * - :ref:`option-COPT-strong_branching`
      - StrongBranching
-   * - :ref:`COPT_MIP_cuts_-_Cut_level`
+   * - :ref:`option-COPT-cut_level`
      - CutLevel
-   * - :ref:`COPT_MIP_cuts_-_Node_cut_rounds`
+   * - :ref:`option-COPT-node_cut_rounds`
      - NodeCutRounds
-   * - :ref:`COPT_MIP_cuts_-_Root_cut_level`
+   * - :ref:`option-COPT-root_cut_level`
      - RootCutLevel
-   * - :ref:`COPT_MIP_cuts_-_Root_cut_rounds`
+   * - :ref:`option-COPT-root_cut_rounds`
      - RootCutRounds
-   * - :ref:`COPT_MIP_cuts_-_Tree_cut_level`
+   * - :ref:`option-COPT-tree_cut_level`
      - TreeCutLevel
-   * - :ref:`COPT_MIP_heuristics_-_Diving_heuristic_level`
+   * - :ref:`option-COPT-diving_heuristic_level`
      - DivingHeurLevel
-   * - :ref:`COPT_MIP_heuristics_-_Heuristic_level`
+   * - :ref:`option-COPT-heuristic_level`
      - HeurLevel
-   * - :ref:`COPT_MIP_heuristics_-_Rounding_heuristic_level`
+   * - :ref:`option-COPT-rounding_heuristic_level`
      - RoundingHeurLevel
-   * - :ref:`COPT_MIP_heuristics_-_SubMIP_heuristic_level`
+   * - :ref:`option-COPT-submip_heuristic_level`
      - SubMipHeurLevel
-   * - :ref:`COPT_Parallel_-_Barrier_thread_limit`
+   * - :ref:`option-COPT-barrier_thread_limit`
      - BarThreads
-   * - :ref:`COPT_Parallel_-_Crossover_thread_limit`
+   * - :ref:`option-COPT-crossover_thread_limit`
      - CrossoverThreads
-   * - :ref:`COPT_Parallel_-_MIP_tasks`
+   * - :ref:`option-COPT-mip_tasks`
      - MipTasks
-   * - :ref:`COPT_Parallel_-_Simplex_thread_limit`
+   * - :ref:`option-COPT-simplex_thread_limit`
      - SimplexThreads
-   * - :ref:`COPT_Parallel_-_Thread_limit`
+   * - :ref:`option-COPT-thread_limit`
      - Threads
-   * - :ref:`COPT_Presolve_-_Presolve`
+   * - :ref:`option-COPT-presolve`
      - Presolve
-   * - :ref:`COPT_Simplex_-_Objective_Perturbation`
+   * - :ref:`option-COPT-objective_perturbation`
      - DualPerturb
-   * - :ref:`COPT_Simplex_-_Pricing`
+   * - :ref:`option-COPT-pricing`
      - DualPrice
 
 

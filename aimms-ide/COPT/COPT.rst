@@ -75,6 +75,6 @@ When solving a problem COPT allows variables to slightly violate their bounds as
 *	:ref:`COPT_Solution_Pool` 
 *	:ref:`COPT_SOS_Types` 
 *	:ref:`COPT_Troubleshooting` 
-*	:ref:`COPT_MIP_-_MIP_start` 
+*	:ref:`option-COPT-mip_start` 
 *	:ref:`Options_Postsolve_-_Postsolve` 
-*	:ref:`COPT_Parallel_-_Thread_limit` 
+*	:ref:`option-COPT-thread_limit` 

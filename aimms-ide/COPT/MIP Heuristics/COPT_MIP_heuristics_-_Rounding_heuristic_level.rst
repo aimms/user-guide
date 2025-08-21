@@ -1,4 +1,4 @@
-.. _COPT_MIP_heuristics_-_Rounding_heuristic_level:
+.. _option-COPT-rounding_heuristic_level:
 
 
 Rounding Heuristic Level

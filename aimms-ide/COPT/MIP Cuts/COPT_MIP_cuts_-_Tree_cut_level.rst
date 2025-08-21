@@ -1,4 +1,4 @@
-.. _COPT_MIP_cuts_-_Tree_cut_level:
+.. _option-COPT-tree_cut_level:
 
 
 Tree Cut Level

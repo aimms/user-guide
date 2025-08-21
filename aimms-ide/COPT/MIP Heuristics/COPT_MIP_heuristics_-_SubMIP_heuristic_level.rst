@@ -1,4 +1,4 @@
-.. _COPT_MIP_heuristics_-_SubMIP_heuristic_level:
+.. _option-COPT-submip_heuristic_level:
 
 
 SubMIP Heuristic Level

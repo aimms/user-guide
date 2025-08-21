@@ -1,6 +1,5 @@
 
 
-.. _COPT60_Multiple_MIP_Starts:
 .. _COPT_Multiple_MIP_Starts:
 
 
@@ -43,4 +42,4 @@ where 'gmpMP' is an element parameter with range 'AllGeneratedMathematicalProgra
 **Learn more about** 
 
 *	:any:`GMP::Solution::SetMIPStartFlag`
-*	:ref:`COPT_MIP_-_MIP_start` 
+*	:ref:`option-COPT-mip_start` 

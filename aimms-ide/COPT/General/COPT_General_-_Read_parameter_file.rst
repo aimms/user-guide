@@ -1,4 +1,4 @@
-.. _COPT_General_-_Read_parameter_file:
+.. _option-COPT-read_parameter_file:
 
 
 Read Parameter File
@@ -22,7 +22,7 @@ This option can be used to read in a file with COPT option (parameter) settings.
 
 
 
-The parameter file uses COPT names instead of AIMMS names for the options. The :ref:`COPT_AIMMS_to_COPT_Mapping`  can be used to find the COPT parameter name corresponding to an option in AIMMS.
+The parameter file uses COPT names instead of AIMMS names for the options. The :ref:`option-COPT-aimms_to_copt_mapping`  can be used to find the COPT parameter name corresponding to an option in AIMMS.
 
 
 
@@ -37,4 +37,4 @@ The parameter file uses COPT names instead of AIMMS names for the options. The :
 
 **Learn more about** 
 
-*	:ref:`COPT_AIMMS_to_COPT_Mapping` 
+*	:ref:`option-COPT-aimms_to_copt_mapping` 

@@ -1,4 +1,4 @@
-.. _COPT_General_-_Dual_tolerance:
+.. _option-COPT-dual_tolerance:
 
 
 Dual Tolerance

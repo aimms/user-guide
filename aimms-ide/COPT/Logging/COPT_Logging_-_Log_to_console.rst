@@ -1,4 +1,4 @@
-.. _COPT_Logging_-_Log_to_console:
+.. _option-COPT-log_to_console:
 
 
 Log To Console

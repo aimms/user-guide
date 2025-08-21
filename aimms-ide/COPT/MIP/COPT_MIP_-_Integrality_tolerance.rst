@@ -1,4 +1,4 @@
-.. _COPT_MIP_-_Integrality_tolerance:
+.. _option-COPT-integrality_tolerance:
 
 
 Integrality Tolerance
