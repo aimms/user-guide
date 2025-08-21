@@ -1,7 +1,6 @@
 
 
 .. _CONOPT_Description_of_CONOPT_Algorithm:
-.. _CONOPTDescription_of_CONOPT_Algorithm:
 
 
 Description of CONOPT Algorithm

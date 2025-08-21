@@ -17,7 +17,7 @@ This option specifies the initial box size for trust region models for the Linea
 
 **Note** 
 
-*	More on the Linear Feasibility Model and Phase 0 can be found in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm`.
+*	More on the Linear Feasibility Model and Phase 0 can be found in the section :ref:`CONOPT_Description_of_CONOPT_Algorithm`.
 
 
 

@@ -41,7 +41,7 @@ CONOPT has been designed for large, sparse models. This means that the dimension
 
 
 
-Information about the algorithm used by CONOPT can be found in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm`.
+Information about the algorithm used by CONOPT can be found in the section :ref:`CONOPT_Description_of_CONOPT_Algorithm`.
 
 
 
@@ -121,7 +121,7 @@ The procedure :any:`GMP::SolverSession::AsynchronousExecute` should be used to s
 *	:ref:`CONOPT_to_AIMMS_Mapping`  
 *	:ref:`CONOPT_AIMMS_to_CONOPT_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
-*	:ref:`CONOPTDescription_of_CONOPT_Algorithm` 
+*	:ref:`CONOPT_Description_of_CONOPT_Algorithm` 
 *	:ref:`CONOPTTroubleshooting` 
 *	:ref:`Options_Constraints_-_Constraint_Listi` 
 *	:ref:`Options_NonlinPres_-_NonlinearPresolve` 

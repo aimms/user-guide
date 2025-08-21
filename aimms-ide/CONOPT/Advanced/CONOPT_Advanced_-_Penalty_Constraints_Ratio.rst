@@ -18,7 +18,7 @@ This option sets a limit on the ratio of penalty constraints for the No-Penalty 
 
 **Note** 
 
-*	The No-Penalty Model and the Full Model are described in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm`.
+*	The No-Penalty Model and the Full Model are described in the section :ref:`CONOPT_Description_of_CONOPT_Algorithm`.
 
 
 
