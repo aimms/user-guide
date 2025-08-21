@@ -1,4 +1,4 @@
-.. _SNOPT_Limits_-_Maximum_Number_of_Tot:
+.. _option-SNOPT-maximum_number_of_total_iterations:
 
 
 Maximum Number of Total Iterations
@@ -18,7 +18,7 @@ This option determines the maximum number of minor iterations allowed, summed ov
 
 **Learn more about** 
 
-*	:ref:`SNOPT_-_Maximum_Number_of_Min`  
+*	:ref:`option-SNOPT-maximum_number_of_minor_iterations`  
 
 
 

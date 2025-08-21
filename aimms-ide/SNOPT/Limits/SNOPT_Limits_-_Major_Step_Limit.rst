@@ -1,4 +1,4 @@
-.. _SNOPT_Limits_-_Major_Step_Limit:
+.. _option-SNOPT-major_step_limit:
 
 
 Major Step Limit

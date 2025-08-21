@@ -1,4 +1,4 @@
-.. _SNOPT_Reporting_-_Solution_Progress:
+.. _option-SNOPT-solution_progress:
 
 
 Solution Progress

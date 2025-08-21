@@ -1,4 +1,4 @@
-.. _SNOPT_Scaling_-_Scale_Tolerance:
+.. _option-SNOPT-scale_tolerance:
 
 
 Scale Tolerance

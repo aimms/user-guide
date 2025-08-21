@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Linesearch_Toleranc:
+.. _option-SNOPT-linesearch_tolerance:
 
 
 Linesearch Tolerance

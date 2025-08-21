@@ -1,4 +1,4 @@
-.. _SNOPT_SQP_-_QP_Solver:
+.. _option-SNOPT-qp_solver:
 
 
 QP Solver
@@ -61,4 +61,4 @@ The conjugate-gradient solver is appropriate for problems with large numbers of 
 
 **Learn more about** 
 
-*	:ref:`SNOPT_SQP_-_Reduced_Hessian_Dimension`  
+*	:ref:`option-SNOPT-reduced_hessian_dimension`  

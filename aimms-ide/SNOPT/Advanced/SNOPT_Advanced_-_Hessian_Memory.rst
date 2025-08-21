@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Hessian_Memory:
+.. _option-SNOPT-hessian_memory:
 
 
 Hessian Memory
@@ -41,8 +41,8 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Advanced_-_Hessian_Frequency`  
-*	:ref:`SNOPT_Advanced_-_Hessian_Updates`  
+*	:ref:`option-SNOPT-hessian_frequency`  
+*	:ref:`option-SNOPT-hessian_updates`  
 
 
 

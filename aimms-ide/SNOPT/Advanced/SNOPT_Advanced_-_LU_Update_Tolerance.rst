@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_LU_Update_Tolerance:
+.. _option-SNOPT-lu_update_tolerance:
 
 
 LU Update Tolerance
@@ -26,7 +26,7 @@ For certain very regular structures (e.g., band matrices) it may be necessary to
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Advanced_-_LU_Factor_Tol`  
+*	:ref:`option-SNOPT-lu_factor_tolerance`  
 
 
 

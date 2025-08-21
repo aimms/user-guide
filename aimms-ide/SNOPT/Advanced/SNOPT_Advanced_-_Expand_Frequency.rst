@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Expand_Frequency:
+.. _option-SNOPT-expand_frequency:
 
 
 Expand Frequency
@@ -24,8 +24,8 @@ Increasing the value of this option helps to reduce the number of slightly infea
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Feasibility_-_Feasibility_Tole`  
-*	:ref:`SNOPT_Advanced_-_Pivot_Tolerance`  
+*	:ref:`option-SNOPT-feasibility_tolerance`  
+*	:ref:`option-SNOPT-pivot_tolerance`  
 
 
 

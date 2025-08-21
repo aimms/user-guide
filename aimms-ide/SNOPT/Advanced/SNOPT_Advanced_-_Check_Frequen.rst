@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Check_Frequen:
+.. _option-SNOPT-check_frequency:
 
 
 Check Frequency

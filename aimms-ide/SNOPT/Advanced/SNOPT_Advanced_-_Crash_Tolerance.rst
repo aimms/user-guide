@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Crash_Tolerance:
+.. _option-SNOPT-crash_tolerance:
 
 
 Crash Tolerance
@@ -22,7 +22,7 @@ When the value of this option is unequal to 0, the basis obtained by Crash may n
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Advanced_-_Calling_Crash`  
+*	:ref:`option-SNOPT-calling_crash_procedure`  
 
 
 

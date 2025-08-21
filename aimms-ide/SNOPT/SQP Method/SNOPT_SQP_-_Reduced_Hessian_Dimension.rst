@@ -1,4 +1,4 @@
-.. _SNOPT_SQP_-_Reduced_Hessian_Dimension:
+.. _option-SNOPT-reduced_hessian_dimension:
 
 
 Reduced Hessian Dimension
@@ -22,4 +22,4 @@ The default value of -1 is special; in that case the reduced Hessian dimension i
 
 **Learn more about** 
 
-*	:ref:`SNOPT_SQP_-_QP_Solver`  
+*	:ref:`option-SNOPT-qp_solver`  

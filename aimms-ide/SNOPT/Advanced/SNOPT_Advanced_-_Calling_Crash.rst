@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Calling_Crash:
+.. _option-SNOPT-calling_crash_procedure:
 
 
 Calling Crash Procedure
@@ -38,7 +38,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Advanced_-_Crash_Tolerance`  
+*	:ref:`option-SNOPT-crash_tolerance`  
 
 
 

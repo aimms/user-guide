@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Pivot_Tolerance:
+.. _option-SNOPT-pivot_tolerance:
 
 
 Pivot Tolerance
@@ -30,8 +30,8 @@ The default value of this option depends on the relative precision of the comput
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Advanced_-_Expand_Frequency`  
-*	:ref:`SNOPT_Feasibility_-_Feasibility_Tole`  
+*	:ref:`option-SNOPT-expand_frequency`  
+*	:ref:`option-SNOPT-feasibility_tolerance`  
 
 
 

@@ -1,4 +1,4 @@
-.. _SNOPT_SQP_-_LinesearchMethod:
+.. _option-SNOPT-linesearch_method:
 
 
 Linesearch Method
@@ -32,4 +32,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`SNOPT_SQP_-_DerivativeOption`  
+*	:ref:`option-SNOPT-derivative_option`  

@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_LU_Density_Toleranc:
+.. _option-SNOPT-lu_density_tolerance:
 
 
 LU Density Tolerance

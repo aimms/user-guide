@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Factorization_Frequ:
+.. _option-SNOPT-factorization_frequency:
 
 
 Factorization Frequency
@@ -26,7 +26,7 @@ When the objective function is nonlinear, fewer basis updates will occur as an o
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Advanced_-_Check_Frequen`  
+*	:ref:`option-SNOPT-check_frequency`  
 
  
 

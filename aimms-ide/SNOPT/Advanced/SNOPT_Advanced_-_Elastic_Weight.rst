@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Elastic_Weight:
+.. _option-SNOPT-elastic_weight:
 
 
 Elastic Weight

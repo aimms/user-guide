@@ -1,4 +1,4 @@
-.. _SNOPT_Limits_-_Major_Optimality_Tole:
+.. _option-SNOPT-major_optimality_tolerance:
 
 
 Major Optimality Tolerance
@@ -18,7 +18,7 @@ This option specifies the final accuracy of the dual variables. On successful te
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Limits_-_Optimality_Tolerance`  
+*	:ref:`option-SNOPT-optimality_tolerance`  
 
 
 

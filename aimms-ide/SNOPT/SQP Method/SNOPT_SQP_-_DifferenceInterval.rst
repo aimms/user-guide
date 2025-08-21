@@ -1,4 +1,4 @@
-.. _SNOPT_SQP_-_DifferenceInterval:
+.. _option-SNOPT-difference_interval:
 
 
 Difference Interval
@@ -35,4 +35,4 @@ The default value of this option depends on the relative precision of the comput
 
 **Learn more about** 
 
-*	:ref:`SNOPT_SQP_-_DerivativeOption`  
+*	:ref:`option-SNOPT-derivative_option`  

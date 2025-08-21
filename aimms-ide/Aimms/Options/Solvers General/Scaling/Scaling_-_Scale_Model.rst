@@ -112,7 +112,7 @@ AIMMS reports the scaling score before and after scaling the model. If the Combi
 *	:ref:`option-CPLEX-scale`
 *	:ref:`option-GUROBI-scale`
 *	:ref:`option-KNITRO-scaling`
-*	:ref:`SNOPT_Scaling_-_Scale_Method`
+*	:ref:`option-SNOPT-scale_method`
 
 
 

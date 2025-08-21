@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Gaussian_Elimination_Tolerance:
+.. _option-SNOPT-gaussian_elimination_tolerance:
 
 
 Gaussian Elimination Tolerance

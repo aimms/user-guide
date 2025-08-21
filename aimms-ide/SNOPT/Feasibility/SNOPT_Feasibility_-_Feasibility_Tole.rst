@@ -1,4 +1,4 @@
-.. _SNOPT_Feasibility_-_Feasibility_Tole:
+.. _option-SNOPT-feasibility_tolerance:
 
 
 Feasibility Tolerance
@@ -34,8 +34,8 @@ In reality, SNOPT uses the feasibility tolerance for satisfying the bounds on x 
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Advanced_-_Elastic_Weight`  
-*	:ref:`SNOPT_Scaling_-_Scale_Method`  
+*	:ref:`option-SNOPT-elastic_weight`  
+*	:ref:`option-SNOPT-scale_method`  
 
 
 

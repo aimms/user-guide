@@ -72,11 +72,11 @@ The nonlinear presolve algorithm is switched off by default. To use it you shoul
 **Learn more about** 
 
 *	`SNOPT <https://ccom.ucsd.edu/~optimizers/solvers/snopt/>`_ (Internet link)
-*	:ref:`SNOPT_SNOPT_to_AIMMS_Mapping` 
-*	:ref:`SNOPT_AIMMS_to_SNOPT_Mapping`  
+*	:ref:`SNOPT_to_AIMMS_Mapping` 
+*	:ref:`AIMMS_to_SNOPT_Mapping`  
 *	:ref:`SNOPT_Description_of_SNOPT_Algorithm` 
 *	:ref:`Options_AIMMS_Execution_Options`  
-*	:ref:`SNOPT_Advanced_-_Calling_Crash`  
-*	:ref:`SNOPT_Advanced_-_Hessian_Updates`  
+*	:ref:`option-SNOPT-calling_crash_procedure`  
+*	:ref:`option-SNOPT-hessian_updates`  
 *	:ref:`Options_Stop_Criteria_-_Iteration_Limi`  
 *	:ref:`Options_NonlinPres_-_NonlinearPresolve` 

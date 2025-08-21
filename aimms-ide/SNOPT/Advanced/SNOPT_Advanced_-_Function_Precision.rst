@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Function_Precision:
+.. _option-SNOPT-function_precision:
 
 
 Function Precision

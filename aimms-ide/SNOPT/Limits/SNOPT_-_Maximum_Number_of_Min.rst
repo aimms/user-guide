@@ -1,4 +1,4 @@
-.. _SNOPT_-_Maximum_Number_of_Min:
+.. _option-SNOPT-maximum_number_of_minor_iterations:
 
 
 Maximum Number of Minor Iterations
@@ -22,7 +22,7 @@ Note that the global solvers option **Iteration Limit**  defines (in case of SNO
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Limits_-_Maximum_Number_of_Tot`  
+*	:ref:`option-SNOPT-maximum_number_of_total_iterations`  
 
 
 

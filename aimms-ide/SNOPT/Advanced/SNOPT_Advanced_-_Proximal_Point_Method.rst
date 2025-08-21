@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Proximal_Point_Method:
+.. _option-SNOPT-proximal_point_method:
 
 
 Proximal Point Method

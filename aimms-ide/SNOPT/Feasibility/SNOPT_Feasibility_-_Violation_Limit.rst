@@ -1,4 +1,4 @@
-.. _SNOPT_Feasibility_-_Violation_Limit:
+.. _option-SNOPT-violation_limit:
 
 
 Violation Limit

@@ -1,4 +1,4 @@
-.. _SNOPT_Limits_-_New_Superbasics_Limit:
+.. _option-SNOPT-new_superbasics_limit:
 
 
 New Superbasics Limit

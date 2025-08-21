@@ -1,4 +1,4 @@
-.. _SNOPT_Feasibility_-_Major_Feasibilit:
+.. _option-SNOPT-major_feasibility_tolerance:
 
 
 Major Feasibility Tolerance

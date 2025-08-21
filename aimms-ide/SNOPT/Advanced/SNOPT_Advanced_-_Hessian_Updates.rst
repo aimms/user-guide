@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Hessian_Updates:
+.. _option-SNOPT-hessian_updates:
 
 
 Hessian Updates
@@ -29,8 +29,8 @@ Broadly speaking, the more updates stored, the better the quality of the approxi
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Advanced_-_Hessian_Frequency`  
-*	:ref:`SNOPT_Advanced_-_Hessian_Memory`  
+*	:ref:`option-SNOPT-hessian_frequency`  
+*	:ref:`option-SNOPT-hessian_memory`  
 
 
 

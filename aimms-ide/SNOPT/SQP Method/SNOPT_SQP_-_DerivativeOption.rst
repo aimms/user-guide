@@ -1,4 +1,4 @@
-.. _SNOPT_SQP_-_DerivativeOption:
+.. _option-SNOPT-derivative_option:
 
 
 Derivative Option
@@ -36,4 +36,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`SNOPT_SQP_-_DifferenceInterval`  
+*	:ref:`option-SNOPT-difference_interval`  

@@ -1,4 +1,4 @@
-.. _SNOPT_Limits_-_Optimality_Tolerance:
+.. _option-SNOPT-optimality_tolerance:
 
 
 Optimality Tolerance
@@ -46,7 +46,7 @@ If the objective is scaled down to be very small, the optimality test reduces to
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Limits_-_Major_Optimality_Tole`  
+*	:ref:`option-SNOPT-major_optimality_tolerance`  
 
 
 

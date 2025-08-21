@@ -1,4 +1,4 @@
-.. _SNOPT_Reporting_-_Print_Summary_File:
+.. _option-SNOPT-print_summary_file:
 
 
 Print Summary File

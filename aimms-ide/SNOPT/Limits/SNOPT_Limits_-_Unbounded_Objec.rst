@@ -1,4 +1,4 @@
-.. _SNOPT_Limits_-_Unbounded_Objec:
+.. _option-SNOPT-unbounded_objective_value:
 
 
 Unbounded Objective Value
@@ -26,7 +26,7 @@ Unboundedness in x is best avoided by placing finite upper and lower bounds on t
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Limits_-_Unbounded_Step_Size`  
+*	:ref:`option-SNOPT-unbounded_step_size`  
 
 
 

@@ -104,8 +104,8 @@ If a QP subproblem proves to be infeasible or unbounded (or if the dual variable
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Advanced_-_Elastic_Weight`  
-*	:ref:`SNOPT_Limits_-_Optimality_Tolerance`  
+*	:ref:`option-SNOPT-elastic_weight`  
+*	:ref:`option-SNOPT-optimality_tolerance`  
 
 
 

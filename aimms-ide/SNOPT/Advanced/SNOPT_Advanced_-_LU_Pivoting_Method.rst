@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_LU_Pivoting_Method:
+.. _option-SNOPT-lu_pivoting_method:
 
 
 LU Pivoting Method
@@ -33,7 +33,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Advanced_-_LU_Factor_Tol`  
+*	:ref:`option-SNOPT-lu_factor_tolerance`  
 
 
 

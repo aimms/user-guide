@@ -1,4 +1,4 @@
-.. _SNOPT_Scaling_-_Scale_Method:
+.. _option-SNOPT-scale_method:
 
 
 Scale Method

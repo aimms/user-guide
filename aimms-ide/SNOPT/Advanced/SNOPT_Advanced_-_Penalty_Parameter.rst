@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Penalty_Parameter:
+.. _option-SNOPT-penalty_parameter:
 
 
 Penalty Parameter

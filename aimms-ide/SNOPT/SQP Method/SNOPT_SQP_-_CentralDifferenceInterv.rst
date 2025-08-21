@@ -1,4 +1,4 @@
-.. _SNOPT_SQP_-_CentralDifferenceInterv:
+.. _option-SNOPT-central_difference_interval:
 
 
 Central Difference Interval
@@ -28,4 +28,4 @@ On most computers the default equals 6.0e-6.
 
 **Learn more about** 
 
-*	:ref:`SNOPT_SQP_-_DerivativeOption`  
+*	:ref:`option-SNOPT-derivative_option`  

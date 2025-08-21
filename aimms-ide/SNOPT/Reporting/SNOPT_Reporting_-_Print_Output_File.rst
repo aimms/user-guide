@@ -1,4 +1,4 @@
-.. _SNOPT_Reporting_-_Print_Output_File:
+.. _option-SNOPT-print_output_file:
 
 
 Print Output File
@@ -31,6 +31,6 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Reporting_-_Major_Print_Level`  
-*	:ref:`SNOPT_Reporting_-_Minor_Print_Level`  
-*	:ref:`SNOPT_Reporting_-_Print_Frequency`  
+*	:ref:`option-SNOPT-major_print_level`  
+*	:ref:`option-SNOPT-minor_print_level`  
+*	:ref:`option-SNOPT-print_frequency`  

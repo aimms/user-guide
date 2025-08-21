@@ -1,4 +1,4 @@
-.. _SNOPT_Advanced_-_Hessian_Frequency:
+.. _option-SNOPT-hessian_frequency:
 
 
 Hessian Frequency
@@ -25,8 +25,8 @@ This option determines the number of BFGS updates after which the Hessian approx
 
 **Learn more about** 
 
-*	:ref:`SNOPT_Advanced_-_Hessian_Memory`  
-*	:ref:`SNOPT_Advanced_-_Hessian_Updates`  
+*	:ref:`option-SNOPT-hessian_memory`  
+*	:ref:`option-SNOPT-hessian_updates`  
 
 
 
