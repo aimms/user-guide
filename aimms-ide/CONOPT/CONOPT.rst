@@ -105,7 +105,7 @@ To use it you should switch on the AIMMS general solvers option **Nonlinear Pres
 **Parallel solves** 
 
 CONOPT 4 is thread-safe and therefore multiple nonlinear mathematical program instances can be solved in parallel using CONOPT 4 (assuming your computer has multiple processors or a multi-core processor). 
-The function GMP::SolverSession::AsynchronousExecute should be used to solve multiple mathematical program instances in parallel.
+The procedure :any:`GMP::SolverSession::AsynchronousExecute` should be used to solve multiple mathematical program instances in parallel.
 
 
 
