@@ -18,14 +18,14 @@ This option specifies the box size factor for linear variables applied to trust 
 
 **Note** 
 
-*	More about Phase 0 can be found in the section :ref:`option-CONOPT-description_of_conopt_algorithm` .
+*	More about Phase 0 can be found in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm`.
 
 
 
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-description_of_conopt_algorithm` 
+*	:ref:`CONOPTDescription_of_CONOPT_Algorithm` 
 
 
 

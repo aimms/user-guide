@@ -24,7 +24,7 @@ This option specifies the method used for the Linear Feasibility Models. Possibl
 
 
 
-The Linear Feasibility Model and the three methods are described in the section :ref:`option-CONOPT-description_of_conopt_algorithm` .
+The Linear Feasibility Model and the three methods are described in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm`.
 
 
 

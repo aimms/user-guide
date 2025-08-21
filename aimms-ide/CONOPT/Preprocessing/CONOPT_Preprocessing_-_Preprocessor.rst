@@ -23,11 +23,11 @@ This option specifies a flag the preprocessor. If turned on (default), CONOPT wi
 
 **Note** 
 
-*	The preprocessor is described in the section :ref:`option-CONOPT-description_of_conopt_algorithm` .
+*	The preprocessor is described in the section :ref:`CONOPTDescription_of_CONOPT_Algorithm`.
 
 
 
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-description_of_conopt_algorithm` 
+*	:ref:`CONOPTDescription_of_CONOPT_Algorithm` 
