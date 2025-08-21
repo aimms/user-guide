@@ -1,4 +1,4 @@
-.. _GUROBI_Logging_-_Output_File:
+.. _option-GUROBI-output_file:
 
 
 Output File
@@ -46,9 +46,9 @@ There is no difference between settings 'All' and 'Remark' for option **Solver L
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Logging_-_Display_Solution_Quality` 
-*	:ref:`GUROBI_Logging_-_Output_File_Display_Interval` 
-*	:ref:`GUROBI_General_-_Sensitivity_Method` 
+*	:ref:`option-GUROBI-display_solution_quality` 
+*	:ref:`option-GUROBI-output_file_display_interval` 
+*	:ref:`option-GUROBI-sensitivity_method` 
 *	:ref:`Options_Solver_Specific_-_Solver_Listi`  
 *	:ref:`Options_Solver_Specific_-_Solver_List1`  
 

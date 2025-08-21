@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Scale:
+.. _option-GUROBI-scale:
 
 
 Scale

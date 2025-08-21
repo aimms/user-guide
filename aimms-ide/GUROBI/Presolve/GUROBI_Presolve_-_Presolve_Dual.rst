@@ -1,4 +1,4 @@
-.. _GUROBI_Presolve_-_Presolve_Dual:
+.. _option-GUROBI-presolve_dual:
 
 
 Presolve Dual

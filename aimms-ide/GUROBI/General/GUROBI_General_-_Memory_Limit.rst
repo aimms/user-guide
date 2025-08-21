@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Memory_Limit:
+.. _option-GUROBI-memory_limit:
 
 
 Memory Limit
@@ -37,7 +37,7 @@ Memory usage is also tracked across all threads. One consequence of this is that
 
 **Learn more about** 
 
-*	:ref:`GUROBI_General_-_Soft_Memory_Limit`  
+*	:ref:`option-GUROBI-soft_memory_limit`  
 
 
 

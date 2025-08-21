@@ -1,4 +1,4 @@
-.. _GUROBI_Quadratic_-_PSD_Tolerance:
+.. _option-GUROBI-psd_tolerance:
 
 
 PSD Tolerance

@@ -1,4 +1,4 @@
-.. _GUROBI_Simplex_-_Network_Algorithm:
+.. _option-GUROBI-network_algorithm:
 
 
 Network Algorithm

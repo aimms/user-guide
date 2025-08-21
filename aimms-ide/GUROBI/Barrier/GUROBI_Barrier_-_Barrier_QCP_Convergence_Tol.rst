@@ -1,4 +1,4 @@
-.. _GUROBI_Barrier_-_Barrier_QCP_Convergence_Tol:
+.. _option-GUROBI-barrier_qcp_convergence_tolerance:
 
 
 Barrier QCP Convergence Tolerance

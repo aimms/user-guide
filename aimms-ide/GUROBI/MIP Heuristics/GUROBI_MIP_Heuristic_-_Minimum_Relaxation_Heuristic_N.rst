@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Heuristic_-_Minimum_Relaxation_Heuristic_N:
+.. _option-GUROBI-minimum_relaxation_heuristic_node_limit:
 
 
 Minimum Relaxation Heuristic Node Limit

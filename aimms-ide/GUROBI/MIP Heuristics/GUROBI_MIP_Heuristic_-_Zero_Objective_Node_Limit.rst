@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Heuristic_-_Zero_Objective_Node_Limit:
+.. _option-GUROBI-zero_objective_node_limit:
 
 
 Zero Objective Node Limit

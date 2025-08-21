@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_MIP_Focus:
+.. _option-GUROBI-mip_focus:
 
 
 MIP Focus

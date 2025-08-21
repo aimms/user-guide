@@ -1,4 +1,4 @@
-.. _GUROBI_Simplex_-_Norm_Adjust:
+.. _option-GUROBI-norm_adjust:
 
 
 Norm Adjust

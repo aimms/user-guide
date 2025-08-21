@@ -1,4 +1,4 @@
-.. _GUROBI_Simplex_-_Degenerate_Simplex_Moves_Limit:
+.. _option-GUROBI-degenerate_simplex_moves_limit:
 
 
 Degenerate Simplex Moves Limit

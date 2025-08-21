@@ -40,4 +40,4 @@ where 'gmpMP' is an element parameter with range 'AllGeneratedMathematicalProgra
 **Learn more about** 
 
 *	:any:`GMP::Solution::SetMIPStartFlag`
-*	:ref:`GUROBI_MIP_-_MIP_Start` 
+*	:ref:`option-GUROBI-mip_start` 

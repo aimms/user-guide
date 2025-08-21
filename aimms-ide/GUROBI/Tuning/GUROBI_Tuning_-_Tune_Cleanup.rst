@@ -1,4 +1,4 @@
-.. _GUROBI_Tuning_-_Tune_Cleanup:
+.. _option-GUROBI-tune_cleanup:
 
 
 Tune Cleanup
@@ -18,4 +18,4 @@ This option can be used to enable a cleanup phase at the end of tuning. This opt
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Tuning_Tool` 
+*	:ref:`option-GUROBI-tuning_tool` 

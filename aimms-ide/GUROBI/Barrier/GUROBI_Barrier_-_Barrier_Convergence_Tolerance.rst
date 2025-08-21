@@ -1,4 +1,4 @@
-.. _GUROBI_Barrier_-_Barrier_Convergence_Tolerance:
+.. _option-GUROBI-barrier_convergence_tolerance:
 
 
 Barrier Convergence Tolerance
@@ -22,4 +22,4 @@ Tightening this tolerance often produces a more accurate solution, which can som
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Barrier_-_Barrier_QCP_Convergence_Tol` 
+*	:ref:`option-GUROBI-barrier_qcp_convergence_tolerance` 

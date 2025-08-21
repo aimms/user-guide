@@ -1,4 +1,4 @@
-.. _GUROBI_Solution_Pool_-_Pool_Gap:
+.. _option-GUROBI-pool_gap:
 
 
 Pool Gap
@@ -25,4 +25,4 @@ This option determines the maximum gap for stored solutions. When this option is
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Solution_Pool_-_Pool_Absolute_Gap` 
+*	:ref:`option-GUROBI-pool_absolute_gap` 

@@ -1,4 +1,4 @@
-.. _GUROBI_Solution_Pool:
+.. GUROBI_Solution_Pool:
 
 
 Solution Pool
@@ -86,8 +86,8 @@ Optimal solution found at node 123 - now completing solution pool...
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Solution_Pool_-_Pool_Absolute_Gap` 
-*	:ref:`GUROBI_Solution_Pool_-_Pool_Gap` 
-*	:ref:`GUROBI_Solution_Pool_-_Pool_Search_Mode` 
-*	:ref:`GUROBI_Solution_Pool_-_Pool_Size` 
+*	:ref:`option-GUROBI-pool_absolute_gap` 
+*	:ref:`option-GUROBI-pool_gap` 
+*	:ref:`option-GUROBI-pool_search_mode` 
+*	:ref:`option-GUROBI-pool_size` 
 *	:any:`GMP::Solution::SendToModel`

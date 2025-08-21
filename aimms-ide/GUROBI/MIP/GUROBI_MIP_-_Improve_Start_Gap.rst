@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_Improve_Start_Gap:
+.. _option-GUROBI-improve_start_gap:
 
 
 Improve Start Gap
@@ -18,5 +18,5 @@ The MIP solver can change option settings in the middle of the search in order t
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_-_Improve_Start_Nodes`  
-*	:ref:`GUROBI_MIP_-_Improve_Start_Time`  
+*	:ref:`option-GUROBI-improve_start_nodes`  
+*	:ref:`option-GUROBI-improve_start_time`  

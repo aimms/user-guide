@@ -1,4 +1,4 @@
-.. _GUROBI_Quadratic_-_MIQCP_Formulation:
+.. _option-GUROBI-miqcp_formulation:
 
 
 MIQCP Formulation

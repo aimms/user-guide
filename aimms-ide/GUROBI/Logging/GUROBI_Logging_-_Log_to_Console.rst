@@ -1,4 +1,4 @@
-.. _GUROBI_Logging_-_Log_to_Console:
+.. _option-GUROBI-log_to_console:
 
 
 Log to Console
@@ -24,8 +24,8 @@ This option can be used to activate console logging. Possible values are:
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Logging_-_Output_File` 
-*	:ref:`GUROBI_Logging_-_Output_File_Display_Interval` 
+*	:ref:`option-GUROBI-output_file` 
+*	:ref:`option-GUROBI-output_file_display_interval` 
 
 
 

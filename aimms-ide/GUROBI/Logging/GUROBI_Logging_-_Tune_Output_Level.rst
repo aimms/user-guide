@@ -1,4 +1,4 @@
-.. _GUROBI_Logging_-_Tune_Output_Level:
+.. _option-GUROBI-tune_output_level:
 
 
 Tune Output Level
@@ -37,5 +37,5 @@ Level 3 produces tuning summary output, plus detailed solver output, for each op
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Logging_-_Output_File` 
-*	:ref:`GUROBI_Tuning_Tool` 
+*	:ref:`option-GUROBI-output_file` 
+*	:ref:`option-GUROBI-tuning_tool` 

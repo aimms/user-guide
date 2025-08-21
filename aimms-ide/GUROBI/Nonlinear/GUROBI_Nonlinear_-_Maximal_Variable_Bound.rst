@@ -1,4 +1,4 @@
-.. _GUROBI_Nonlinear_-_Maximal_Variable_Bound:
+.. _option-GUROBI-maximal_variable_bound:
 
 
 Maximal Variable Bound

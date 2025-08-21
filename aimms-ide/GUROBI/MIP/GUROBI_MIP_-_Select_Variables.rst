@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_Select_Variables:
+.. _option-GUROBI-select_variables:
 
 
 Select Variables

@@ -1,4 +1,4 @@
-.. _GUROBI_Logging_-_Output_File_Display_Interval:
+.. _option-GUROBI-output_file_display_interval:
 
 
 Output File Display Interval
@@ -25,6 +25,6 @@ This option controls the frequency at which log lines are printed (in seconds) t
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Logging_-_Output_File` 
+*	:ref:`option-GUROBI-output_file` 
 *	:ref:`Options_Progress_Options_-_Progress_Co` 
 *	:ref:`Options_Progress_Options_-_Progress_Time_Interval` 

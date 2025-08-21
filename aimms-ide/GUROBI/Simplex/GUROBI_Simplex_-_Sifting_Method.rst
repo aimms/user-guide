@@ -1,4 +1,4 @@
-.. _GUROBI_Simplex_-_Sifting_Method:
+.. _option-GUROBI-sifting_method:
 
 
 Sifting Method
@@ -32,4 +32,4 @@ Note that this option only has an effect when you are using dual simplex and **S
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Simplex_-_Sifting`  
+*	:ref:`option-GUROBI-sifting`  

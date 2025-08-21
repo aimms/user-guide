@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Time:
+.. _option-GUROBI-no_relaxation_heuristic_time:
 
 
 No Relaxation Heuristic Time
@@ -29,4 +29,4 @@ Note that this option will introduce non-determinism - different runs may take d
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Work`  
+*	:ref:`option-GUROBI-no_relaxation_heuristic_work`  

@@ -1,4 +1,4 @@
-.. _GUROBI_Nonlinear_-_Nonlinear_Optimality_Tol:
+.. _option-GUROBI-nonlinear_optimality_tolerance:
 
 
 Nonlinear Optimality Tolerance

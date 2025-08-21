@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Cuts_-_Flow_Cover_Cuts:
+.. _option-GUROBI-flow_cover_cuts:
 
 
 Flow Cover Cuts
@@ -32,7 +32,7 @@ This option overrides option **Global Cut Control** .
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_Cuts_-_Global_Cut_Control`  
+*	:ref:`option-GUROBI-global_cut_control`  
 
 
 

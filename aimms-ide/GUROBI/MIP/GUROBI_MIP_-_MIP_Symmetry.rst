@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_MIP_Symmetry:
+.. _option-GUROBI-mip_symmetry:
 
 
 MIP Symmetry

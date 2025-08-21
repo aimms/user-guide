@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_Disconnected_Component_Strateg:
+.. _option-GUROBI-disconnected_component_strategy:
 
 
 Disconnected Component Strategy

@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Presolve_-_Presolve_Sparsify_Reduction:
+.. _option-GUROBI-presolve_sparsify_reduction:
 
 
 Presolve Sparsify Reduction

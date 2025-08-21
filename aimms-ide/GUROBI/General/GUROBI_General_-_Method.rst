@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Method:
+.. _option-GUROBI-method:
 
 
 Method
@@ -62,11 +62,11 @@ Setting 'Deterministic concurrent' gives the exact same result each time, while 
 
 **Learn more about** 
 
-*	:ref:`GUROBI_General_-_Concurrent_Method` 
-*	:ref:`GUROBI_MIP_-_MIP_Node_Method` 
+*	:ref:`option-GUROBI-concurrent_method` 
+*	:ref:`option-GUROBI-mip_node_method` 
 *	:ref:`Options_Postsolve_-_Postsolve` 
-*	:ref:`GUROBI_General_-_Sensitivity_Method` 
-*	:ref:`GUROBI_Parallel_-_Thread_Limit` 
+*	:ref:`option-GUROBI-sensitivity_method` 
+*	:ref:`option-GUROBI-thread_limit` 
 
 
 

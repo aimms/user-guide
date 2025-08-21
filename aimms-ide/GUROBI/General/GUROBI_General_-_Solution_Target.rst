@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Solution_Target:
+.. _option-GUROBI-solution_target:
 
 
 Solution Target

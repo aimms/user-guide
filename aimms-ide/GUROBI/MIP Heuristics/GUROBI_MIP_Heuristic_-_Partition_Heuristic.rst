@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Heuristic_-_Partition_Heuristic:
+.. _option-GUROBI-partition_heuristic:
 
 Partition Heuristic
 ===================

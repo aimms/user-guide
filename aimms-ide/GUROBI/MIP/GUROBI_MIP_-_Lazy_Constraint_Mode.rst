@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_Lazy_Constraint_Mode:
+.. _option-GUROBI-lazy_constraint_mode:
 
 Lazy Constraint Mode
 ====================

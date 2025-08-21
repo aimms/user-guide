@@ -1,4 +1,4 @@
-.. _GUROBI_Tuning_-_Tune_Trials:
+.. _option-GUROBI-tune_trials:
 
 
 Tune Trials
@@ -25,4 +25,4 @@ Performance on a MIP model can sometimes experience significant variations due t
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Tuning_Tool` 
+*	:ref:`option-GUROBI-tuning_tool` 

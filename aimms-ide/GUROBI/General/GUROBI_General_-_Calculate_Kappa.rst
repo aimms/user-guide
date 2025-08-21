@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Calculate_Kappa:
+.. _option-GUROBI-calculate_kappa:
 
 
 Calculate Kappa

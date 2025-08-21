@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Numeric_Focus:
+.. _option-GUROBI-numeric_focus:
 
 
 Numeric Focus

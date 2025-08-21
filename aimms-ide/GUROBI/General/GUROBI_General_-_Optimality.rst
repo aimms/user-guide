@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Optimality:
+.. _option-GUROBI-optimality:
 
 
 Optimality

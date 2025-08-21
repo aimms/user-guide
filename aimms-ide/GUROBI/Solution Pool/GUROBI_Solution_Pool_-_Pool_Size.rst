@@ -1,4 +1,4 @@
-.. _GUROBI_Solution_Pool_-_Pool_Size:
+.. _option-GUROBI-pool_size:
 
 
 Pool Size
@@ -25,4 +25,4 @@ This option determines how many MIP solutions are stored. For non-default values
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Solution_Pool_-_Pool_Search_Mode` 
+*	:ref:`option-GUROBI-pool_search_mode` 

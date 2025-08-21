@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Feasibility:
+.. _option-GUROBI-feasibility:
 
 
 Feasibility
@@ -29,7 +29,7 @@ This option also controls the maximum constraint violation.
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_-_Integrality`  
+*	:ref:`option-GUROBI-integrality`  
 
 
 

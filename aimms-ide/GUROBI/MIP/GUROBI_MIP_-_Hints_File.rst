@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_Hints_File:
+.. _option-GUROBI-hints_file:
 
 
 Hints File

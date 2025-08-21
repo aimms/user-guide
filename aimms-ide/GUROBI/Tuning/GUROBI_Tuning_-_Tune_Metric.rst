@@ -1,4 +1,4 @@
-.. _GUROBI_Tuning_-_Tune_Metric:
+.. _option-GUROBI-tune_metric:
 
 
 Tune Metric
@@ -31,4 +31,4 @@ The default setting chooses the aggregation automatically; setting 'Average' com
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Tuning_Tool` 
+*	:ref:`option-GUROBI-tuning_tool` 

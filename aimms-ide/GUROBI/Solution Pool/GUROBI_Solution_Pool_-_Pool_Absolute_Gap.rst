@@ -1,4 +1,4 @@
-.. _GUROBI_Solution_Pool_-_Pool_Absolute_Gap:
+.. _option-GUROBI-pool_absolute_gap:
 
 
 Pool Absolute Gap
@@ -25,4 +25,4 @@ This option determines how large a (absolute) gap to tolerate in stored solution
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Solution_Pool_-_Pool_Gap` 
+*	:ref:`option-GUROBI-pool_gap` 

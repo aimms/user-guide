@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Work:
+.. _option-GUROBI-no_relaxation_heuristic_work:
 
 
 No Relaxation Heuristic Work
@@ -29,4 +29,4 @@ The work metric used in this option is tough to define precisely. A single unit 
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Time`  
+*	:ref:`option-GUROBI-no_relaxation_heuristic_time`  

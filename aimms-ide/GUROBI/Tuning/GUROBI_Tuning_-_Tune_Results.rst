@@ -1,4 +1,4 @@
-.. _GUROBI_Tuning_-_Tune_Results:
+.. _option-GUROBI-tune_results:
 
 
 Tune Results
@@ -25,4 +25,4 @@ The tuning tool often finds multiple option sets that produce better results tha
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Tuning_Tool` 
+*	:ref:`option-GUROBI-tuning_tool` 

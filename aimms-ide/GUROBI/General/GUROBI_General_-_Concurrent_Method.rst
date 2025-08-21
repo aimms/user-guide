@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Concurrent_Method:
+.. _option-GUROBI-concurrent_method:
 
 
 Concurrent Method
@@ -33,5 +33,5 @@ This option is only used when solving a continuous model or the root node of a M
 
 **Learn more about** 
 
-*	:ref:`GUROBI_General_-_Method` 
-*	:ref:`GUROBI_General_-_Sensitivity_Method` 
+*	:ref:`option-GUROBI-method` 
+*	:ref:`option-GUROBI-sensitivity_method` 

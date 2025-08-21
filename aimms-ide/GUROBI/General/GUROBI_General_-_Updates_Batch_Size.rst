@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Updates_Batch_Size:
+.. _option-GUROBI-updates_batch_size:
 
 
 Updates Batch Size

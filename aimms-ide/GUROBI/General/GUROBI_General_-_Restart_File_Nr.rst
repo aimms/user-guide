@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Restart_File_Nr:
+.. _option-GUROBI-restart_file_number:
 
 
 Restart File Number
@@ -18,7 +18,7 @@ This option represents the number part of the restart file name.
 
 **Learn more about** 
 
-*	:ref:`GUROBI_General_-_Restart` 
+*	:ref:`option-GUROBI-restart` 
 
 
 

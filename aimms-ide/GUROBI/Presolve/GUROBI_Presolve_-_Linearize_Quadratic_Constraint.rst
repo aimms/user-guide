@@ -1,4 +1,4 @@
-.. _GUROBI_Presolve_-_Linearize_Quadratic_Constraint:
+.. _option-GUROBI-linearize_quadratic_constraints:
 
 
 Linearize Quadratic Constraints

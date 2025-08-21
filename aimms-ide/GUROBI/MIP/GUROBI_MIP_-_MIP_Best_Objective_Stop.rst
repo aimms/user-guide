@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_MIP_Best_Objective_Stop:
+.. _option-GUROBI-mip_best_objective_stop:
 
 
 MIP Best Objective Stop
@@ -18,4 +18,4 @@ This option controls the objective value to stop optimization. Gurobi terminates
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_-_MIP_Best_Bound_Stop` 
+*	:ref:`option-GUROBI-mip_best_bound_stop` 

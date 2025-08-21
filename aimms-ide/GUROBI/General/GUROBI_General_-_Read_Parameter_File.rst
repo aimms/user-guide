@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Read_Parameter_File:
+.. _option-GUROBI-read_parameter_file:
 
 
 Read Parameter File
@@ -43,7 +43,7 @@ Heuristics 0.5
 **Multi-objective optimization** 
 
 
-During the solution process of a :ref:`GUROBI_Multi-Objective_Optimization`  problem, you may prefer that optimization problems with different priorities are solved with different option settings. Gurobi makes this possible by using parameter files. The parameter file of the first optimization problem, tied to the highest priority (possibly blended) objective, should be named 'gurobi_mo1.prm', the parameter file of the second optimization problem should be named 'gurobi_mo2.prm', etc. You do not have to create a parameter file for every multi-objective optimization pass.
+During the solution process of a :ref:`option-GUROBI-multi-objective_optimization`  problem, you may prefer that optimization problems with different priorities are solved with different option settings. Gurobi makes this possible by using parameter files. The parameter file of the first optimization problem, tied to the highest priority (possibly blended) objective, should be named 'gurobi_mo1.prm', the parameter file of the second optimization problem should be named 'gurobi_mo2.prm', etc. You do not have to create a parameter file for every multi-objective optimization pass.
 
 
 
@@ -81,7 +81,7 @@ If the option **Concurrent MIP**  is set to a value greater than 1, then by swit
 
 **Note** 
 
-*	The parameter file uses Gurobi names instead of AIMMS names for the options. The :ref:`GUROBI_AIMMS_to_GUROBI_Mapping`  can be used to find the Gurobi parameter name corresponding to an option in AIMMS.
+*	The parameter file uses Gurobi names instead of AIMMS names for the options. The :ref:`AIMMS_to_GUROBI_Mapping` can be used to find the Gurobi parameter name corresponding to an option in AIMMS.
 *	If the setting of an option was changed in the AIMMS project, and the option is not present in the parameter file, then the AIMMS option setting will be used. In other words, the parameter file does not reset options to their default value if they are not present in the parameter file.
 
 
@@ -89,8 +89,8 @@ If the option **Concurrent MIP**  is set to a value greater than 1, then by swit
 
 **Learn more about** 
 
-*	:ref:`GUROBI_AIMMS_to_GUROBI_Mapping`  
-*	:ref:`GUROBI_Parallel_-_Concurrent_MIP` 
+*	:ref:`AIMMS_to_GUROBI_Mapping`  
+*	:ref:`option-GUROBI-concurrent_mip` 
 *	:ref:`Options_MIP_Options_-_MIP_Relative_Opt` 
-*	:ref:`GUROBI_Multi-Objective_Optimization` 
+*	:ref:`option-GUROBI-multi-objective_optimization` 
 *	:ref:`Options_Stop_Criteria_-_Time_Limit` 

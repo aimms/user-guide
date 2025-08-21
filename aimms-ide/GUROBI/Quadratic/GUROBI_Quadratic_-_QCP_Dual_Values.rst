@@ -1,4 +1,4 @@
-.. _GUROBI_Quadratic_-_QCP_Dual_Values:
+.. _option-GUROBI-qcp_dual_values:
 
 
 QCP Dual Values
@@ -31,4 +31,4 @@ This option determines whether dual variable values are computed for QCP models.
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Quadratic_-_Nonconvex_Strategy` 
+*	:ref:`option-GUROBI-nonconvex_strategy` 

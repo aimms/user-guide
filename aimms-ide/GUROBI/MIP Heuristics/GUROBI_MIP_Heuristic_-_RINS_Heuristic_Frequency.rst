@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Heuristic_-_RINS_Heuristic_Frequency:
+.. _option-GUROBI-rins_heuristic_frequency:
 
 
 RINS Heuristic Frequency

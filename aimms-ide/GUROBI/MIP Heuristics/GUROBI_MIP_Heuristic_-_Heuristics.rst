@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Heuristic_-_Heuristics:
+.. _option-GUROBI-heuristics:
 
 
 Heuristics

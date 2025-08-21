@@ -1,4 +1,4 @@
-.. _GUROBI_Presolve_-_Dual_Reductions:
+.. _option-GUROBI-dual_reductions:
 
 
 Dual Reductions

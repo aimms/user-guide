@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Cuts_-_Global_Cut_Control:
+.. _option-GUROBI-global_cut_control:
 
 
 Global Cut Control
@@ -33,22 +33,22 @@ Setting the value of this option to 'Aggressive' would apply all cut types aggre
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_Cuts_-_Clique_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_Cover_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_Dual_Implied_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_Flow_Cover_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_Flow_Path_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_GUB_Cover_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_Implied_Bound_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_Lift_and_Project_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_MIP_Separation_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_MIR_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_Mixing_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_Mod_K_cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_Network_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_Projected_Implied_Bound_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_Sub_MIP_Cuts`  
-*	:ref:`GUROBI_MIP_Cuts_-_Zero_Half_Cuts`  
+*	:ref:`option-GUROBI-clique_cuts`  
+*	:ref:`option-GUROBI-cover_cuts`  
+*	:ref:`option-GUROBI-dual_implied_cuts`  
+*	:ref:`option-GUROBI-flow_cover_cuts`  
+*	:ref:`option-GUROBI-flow_path_cuts`  
+*	:ref:`option-GUROBI-gub_cover_cuts`  
+*	:ref:`option-GUROBI-implied_bound_cuts`  
+*	:ref:`option-GUROBI-lift_and_project_cuts`  
+*	:ref:`option-GUROBI-mip_separation_cuts`  
+*	:ref:`option-GUROBI-mir_cuts`  
+*	:ref:`option-GUROBI-mixing_cuts`  
+*	:ref:`option-GUROBI-mod_k_cuts`  
+*	:ref:`option-GUROBI-network_cuts`  
+*	:ref:`option-GUROBI-projected_implied_bound_cuts`  
+*	:ref:`option-GUROBI-sub_mip_cuts`  
+*	:ref:`option-GUROBI-zero_half_cuts`  
 
 
 

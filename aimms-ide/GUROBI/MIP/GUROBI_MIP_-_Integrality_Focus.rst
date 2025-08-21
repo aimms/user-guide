@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_Integrality_Focus:
+.. _option-GUROBI-integrality_focus:
 
 
 Integrality Focus
@@ -36,7 +36,7 @@ Reducing the value of the **Integrality**  option can mitigate the effects of su
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_-_Integrality`  
+*	:ref:`option-GUROBI-integrality`  
 
 
 

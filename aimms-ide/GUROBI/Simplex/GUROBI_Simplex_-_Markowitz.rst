@@ -1,4 +1,4 @@
-.. _GUROBI_Simplex_-_Markowitz:
+.. _option-GUROBI-markowitz:
 
 
 Markowitz

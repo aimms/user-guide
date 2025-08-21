@@ -1,4 +1,4 @@
-.. _GUROBI_Presolve_-_Presolve:
+.. _option-GUROBI-presolve:
 
 
 Presolve
@@ -26,7 +26,7 @@ This option controls the presolve level. Possible values are:
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Presolve_-_Presolve_Aggregation`  
+*	:ref:`option-GUROBI-presolve_aggregation`  
 
 
 

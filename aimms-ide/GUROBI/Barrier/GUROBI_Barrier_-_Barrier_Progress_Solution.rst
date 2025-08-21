@@ -1,4 +1,4 @@
-.. _GUROBI_Barrier_-_Barrier_Progress_Solution:
+.. _option-GUROBI-barrier_progress_solution:
 
 
 Barrier Progress Solution

@@ -1,4 +1,4 @@
-.. _GUROBI_Quadratic_-_NLP_Heuristic:
+.. _option-GUROBI-nlp_heuristic:
 
 
 NLP Heuristic
@@ -37,4 +37,4 @@ The NLP heuristic uses a non-linear barrier solver to find feasible solutions to
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Quadratic_-_Nonconvex_Strategy` 
+*	:ref:`option-GUROBI-nonconvex_strategy` 

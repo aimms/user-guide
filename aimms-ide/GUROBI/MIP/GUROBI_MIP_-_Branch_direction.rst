@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_Branch_direction:
+.. _option-GUROBI-branch_direction:
 
 
 Branch Direction

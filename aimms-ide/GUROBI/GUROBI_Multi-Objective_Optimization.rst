@@ -92,9 +92,9 @@ During the solution process, you may prefer that optimization problems with diff
 **Learn more about** 
 
 *	:any:`GMP::Column::SetAsMultiObjective`
-*	:ref:`GUROBI_General_-_Multi_objective_method` 
-*	:ref:`GUROBI_Presolve_-_Multi_Objective_Presolve` 
-*	:ref:`GUROBI_General_-_Read_Parameter_File` 
+*	:ref:`option-GUROBI-multi_objective_method` 
+*	:ref:`option-GUROBI-multi_objective_presolve` 
+*	:ref:`option-GUROBI-read_parameter_file` 
 
 
 

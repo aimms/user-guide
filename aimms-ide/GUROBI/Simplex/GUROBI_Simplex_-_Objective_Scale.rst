@@ -1,4 +1,4 @@
-.. _GUROBI_Simplex_-_Objective_Scale:
+.. _option-GUROBI-objective_scale:
 
 
 Objective Scale

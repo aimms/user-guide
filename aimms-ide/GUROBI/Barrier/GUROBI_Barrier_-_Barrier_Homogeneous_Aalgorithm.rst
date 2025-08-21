@@ -1,4 +1,4 @@
-.. _GUROBI_Barrier_-_Barrier_Homogeneous_Aalgorithm:
+.. _option-GUROBI-barrier_homogeneous_algorithm:
 
 
 Barrier Homogeneous Algorithm

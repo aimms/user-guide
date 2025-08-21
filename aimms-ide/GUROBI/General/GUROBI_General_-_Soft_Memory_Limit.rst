@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Soft_Memory_Limit:
+.. _option-GUROBI-soft_memory_limit:
 
 
 Soft Memory Limit
@@ -30,7 +30,7 @@ Memory usage is tracked across all threads. One consequence of this is that term
 
 **Learn more about** 
 
-*	:ref:`GUROBI_General_-_Memory_Limit`  
+*	:ref:`option-GUROBI-memory_limit`  
 
 
 

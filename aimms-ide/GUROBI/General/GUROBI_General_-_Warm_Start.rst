@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Warm_Start:
+.. _option-GUROBI-warm_start:
 
 
 Warm Start
@@ -62,4 +62,4 @@ With a value of 'Presolved problem', simplex will use the crushed start vector o
 
 **Learn more about** 
 
-*	:ref:`GUROBI_General_-_Method` 
+*	:ref:`option-GUROBI-method` 

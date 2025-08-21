@@ -1,4 +1,4 @@
-.. _GUROBI_Simplex_-_Pricing:
+.. _option-GUROBI-pricing:
 
 
 Pricing

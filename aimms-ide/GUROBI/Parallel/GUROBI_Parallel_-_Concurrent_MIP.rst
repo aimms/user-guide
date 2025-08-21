@@ -1,4 +1,4 @@
-.. _GUROBI_Parallel_-_Concurrent_MIP:
+.. _option-GUROBI-concurrent_mip:
 
 
 Concurrent MIP
@@ -43,9 +43,9 @@ If you switch on the option **Read Parameter File**  then you can specify multip
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Logging_-_Output_File` 
-*	:ref:`GUROBI_General_-_Read_Parameter_File` 
-*	:ref:`GUROBI_Parallel_-_Thread_Limit` 
+*	:ref:`option-GUROBI-output_file` 
+*	:ref:`option-GUROBI-read_parameter_file` 
+*	:ref:`option-GUROBI-thread_limit` 
 
 
 

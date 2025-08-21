@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Farkas_Infeasibility_Proof:
+.. _option-GUROBI-farkas_infeasibility_proof:
 
 
 Farkas Infeasibility Proof
@@ -42,6 +42,6 @@ Possible values of this option are:
 **Learn more about** 
 
 *	:ref:`Options_Sensitivity_-_Always_Store_Con`  
-*	:ref:`GUROBI_Barrier_-_Barrier_Crossover`  
-*	:ref:`GUROBI_General_-_Method`  
-*	:ref:`GUROBI_Presolve_-_Presolve`  
+*	:ref:`option-GUROBI-barrier_crossover`  
+*	:ref:`option-GUROBI-method`  
+*	:ref:`option-GUROBI-presolve`  

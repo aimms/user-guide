@@ -1,4 +1,4 @@
-.. _GUROBI_Barrier_-_Barrier_Iteration_Limit:
+.. _option-GUROBI-barrier_iteration_limit:
 
 
 Barrier Iteration Limit

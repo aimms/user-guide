@@ -1,4 +1,4 @@
-.. _GUROBI_Barrier_-_Barrier_Crossover:
+.. _option-GUROBI-barrier_crossover:
 
 
 Barrier Crossover

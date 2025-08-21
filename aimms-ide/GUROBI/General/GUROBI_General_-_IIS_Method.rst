@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_IIS_Method:
+.. _option-GUROBI-iis_method:
 
 
 IIS Method

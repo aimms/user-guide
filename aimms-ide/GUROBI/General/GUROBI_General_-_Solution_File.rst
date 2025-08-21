@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Solution_File:
+.. _option-GUROBI-solution_file:
 
 
 Solution File

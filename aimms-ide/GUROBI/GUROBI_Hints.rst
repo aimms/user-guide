@@ -1,4 +1,4 @@
-.. _GUROBI_Hints:
+.. __GUROBI_Hints:
 
 
 Hints
@@ -53,4 +53,4 @@ Optionally, you can also read hints from a file, as controlled by the option **H
 **Learn more about** 
 
 *	:any:`GMP::Solution::SetColumnValue`
-*	:ref:`GUROBI_MIP_-_Hints_File`  
+*	:ref:`option-GUROBI-hints_file`  

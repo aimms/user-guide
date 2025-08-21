@@ -1,4 +1,4 @@
-.. _GUROBI_Tuning_-_Tune_Target_Time:
+.. _option-GUROBI-tune_target_time:
 
 
 Tune Target Time
@@ -18,5 +18,5 @@ This option sets the target runtime in seconds to be reached. As soon as the tun
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Tuning_-_Tune_Cleanup` 
-*	:ref:`GUROBI_Tuning_Tool` 
+*	:ref:`option-GUROBI-tune_cleanup` 
+*	:ref:`option-GUROBI-tuning_tool` 

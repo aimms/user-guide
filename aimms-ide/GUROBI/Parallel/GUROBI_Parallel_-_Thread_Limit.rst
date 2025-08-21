@@ -1,4 +1,4 @@
-.. _GUROBI_Parallel_-_Thread_Limit:
+.. _option-GUROBI-thread_limit:
 
 
 Thread Limit
@@ -42,8 +42,8 @@ Gurobi imposes a soft limit of 32 threads for the automatic setting (0). If your
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Parallel_-_Concurrent_MIP` 
-*	:ref:`GUROBI_General_-_Method` 
+*	:ref:`option-GUROBI-concurrent_mip` 
+*	:ref:`option-GUROBI-method` 
 
 
 

@@ -1,4 +1,4 @@
-.. _GUROBI_Quadratic_-_Nonconvex_Strategy:
+.. _option-GUROBI-nonconvex_strategy:
 
 
 Nonconvex Strategy

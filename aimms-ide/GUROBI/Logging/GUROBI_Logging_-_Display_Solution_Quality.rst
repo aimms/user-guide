@@ -1,4 +1,4 @@
-.. _GUROBI_Logging_-_Display_Solution_Quality:
+.. _option-GUROBI-display_solution_quality:
 
 
 Display Solution Quality
@@ -30,7 +30,7 @@ The option **Output File**  should be set to 'Yes' to generate a Gurobi output f
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Logging_-_Output_File` 
+*	:ref:`option-GUROBI-output_file` 
 
 
 

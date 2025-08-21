@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Cuts_-_Gomory_Cuts_Passes_L:
+.. _option-GUROBI-gomory_cut_passes_limit:
 
 
 Gomory Cut Passes Limit

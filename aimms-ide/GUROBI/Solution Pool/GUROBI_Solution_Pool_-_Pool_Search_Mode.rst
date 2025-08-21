@@ -1,4 +1,4 @@
-.. _GUROBI_Solution_Pool_-_Pool_Search_Mode:
+.. _option-GUROBI-pool_search_mode:
 
 
 Pool Search Mode
@@ -44,4 +44,4 @@ Obtaining an OPTIMAL optimization return status with setting ''Find best solutio
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Solution_Pool_-_Pool_Size` 
+*	:ref:`option-GUROBI-pool_size` 

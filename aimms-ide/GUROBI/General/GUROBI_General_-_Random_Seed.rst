@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Random_Seed:
+.. _option-GUROBI-random_seed:
 
 
 Random Seed

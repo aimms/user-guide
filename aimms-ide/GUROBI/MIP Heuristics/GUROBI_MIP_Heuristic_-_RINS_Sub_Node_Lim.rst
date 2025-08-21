@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Heuristic_-_RINS_Sub_Node_Lim:
+.. _option-GUROBI-rins_sub_mip_node_limit:
 
 
 RINS Sub MIP Node Limit

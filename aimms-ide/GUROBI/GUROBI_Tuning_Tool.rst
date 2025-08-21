@@ -99,12 +99,12 @@ Gurobi is equipped with a few options that control the tuning process, e.g., **T
 
 *	:any:`GMP::Tuning::TuneSingleGMP`
 *	:any:`GMP::Tuning::TuneMultipleMPS`
-*	:ref:`GUROBI_Tuning_-_Tune_Cleanup` 
-*	:ref:`GUROBI_Tuning_-_Tune_Criterion` 
-*	:ref:`GUROBI_Tuning_-_Tune_Metric` 
-*	:ref:`GUROBI_Logging_-_Tune_Output_Level` 
-*	:ref:`GUROBI_Tuning_-_Tune_Results` 
-*	:ref:`GUROBI_Tuning_-_Tune_Target_MIP_Gap` 
-*	:ref:`GUROBI_Tuning_-_Tune_Target_Time` 
-*	:ref:`GUROBI_Tuning_-_Tune_Time_Limit` 
-*	:ref:`GUROBI_Tuning_-_Tune_Trials` 
+*	:ref:`option-GUROBI-tune_cleanup` 
+*	:ref:`option-GUROBI-tune_criterion` 
+*	:ref:`option-GUROBI-tune_metric` 
+*	:ref:`option-GUROBI-tune_output_level` 
+*	:ref:`option-GUROBI-tune_results` 
+*	:ref:`option-GUROBI-tune_target_mip_gap` 
+*	:ref:`option-GUROBI-tune_target_time` 
+*	:ref:`option-GUROBI-tune_time_limit` 
+*	:ref:`option-GUROBI-tune_trials` 

@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Sensitivity_Method:
+.. _option-GUROBI-sensitivity_method:
 
 
 Sensitivity Method
@@ -48,8 +48,8 @@ Multiple LP problems are solved to calculate shadow price ranges for constraints
 **Learn more about** 
 
 *	:ref:`Options_Sensitivity_-_Calculate_Sensit` 
-*	:ref:`GUROBI_General_-_Concurrent_Method` 
-*	:ref:`GUROBI_General_-_Method` 
+*	:ref:`option-GUROBI-concurrent_method` 
+*	:ref:`option-GUROBI-method` 
 
 
 

@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_MPS_Dual:
+.. _option-GUROBI-mps_dual:
 
 
 MPS Dual
@@ -34,4 +34,4 @@ This option can be used to generate a model file with the dual formulation of th
 
 **Learn more about** 
 
-*	:ref:`GUROBI_General_-_MPS` 
+*	:ref:`option-GUROBI-mps` 

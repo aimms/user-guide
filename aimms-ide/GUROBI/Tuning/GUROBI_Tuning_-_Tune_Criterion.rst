@@ -1,4 +1,4 @@
-.. _GUROBI_Tuning_-_Tune_Criterion:
+.. _option-GUROBI-tune_criterion:
 
 
 Tune Criterion
@@ -33,4 +33,4 @@ The primary tuning criterion is always to minimize the runtime required to find 
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Tuning_Tool` 
+*	:ref:`option-GUROBI-tuning_tool` 

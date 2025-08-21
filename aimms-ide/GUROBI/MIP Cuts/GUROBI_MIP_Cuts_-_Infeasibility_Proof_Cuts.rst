@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Cuts_-_Infeasibility_Proof_Cuts:
+.. _option-GUROBI-infeasibility_proof_cuts:
 
 
 Infeasibility Proof Cuts
@@ -32,4 +32,4 @@ This option overrides option **Global Cut Control** .
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_Cuts_-_Global_Cut_Control`  
+*	:ref:`option-GUROBI-global_cut_control`  

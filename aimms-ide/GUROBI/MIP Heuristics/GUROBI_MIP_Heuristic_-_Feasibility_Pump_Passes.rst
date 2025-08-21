@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Heuristic_-_Feasibility_Pump_Passes:
+.. _option-GUROBI-feasibility_pump_passes:
 
 
 Feasibility Pump Passes

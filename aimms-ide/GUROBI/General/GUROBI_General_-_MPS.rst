@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_MPS:
+.. _option-GUROBI-mps:
 
 
 MPS
@@ -34,7 +34,7 @@ This option can be used to generate a model file of the loaded model. The model 
 
 **Learn more about** 
 
-*	:ref:`GUROBI_General_-_Restart` 
+*	:ref:`option-GUROBI-restart` 
 
 
 

@@ -1,4 +1,4 @@
-.. _GUROBI_Presolve_-_Presolve_Aggregation:
+.. _option-GUROBI-presolve_aggregation:
 
 
 Presolve Aggregation
@@ -31,4 +31,4 @@ In rare instances, aggregation can lead to an accumulation of numerical errors. 
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Presolve_-_Presolve`  
+*	:ref:`option-GUROBI-presolve`  

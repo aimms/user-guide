@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Multi_objective_method:
+.. _option-GUROBI-multi_objective_method:
 
 
 Multi Objective Method
@@ -39,4 +39,4 @@ When solving a continuous multi-objective optimization model using a hierarchica
 
 **Learn more about** 
 
-*	:ref:`GUROBI_General_-_Method` 
+*	:ref:`option-GUROBI-method` 

@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_MIP_Start:
+.. _option-GUROBI-mip_start:
 
 
 MIP Start
@@ -25,12 +25,12 @@ This option determines whether Gurobi should load a start solution (if available
 **Note** 
 
 *	MIP starts can also be used for NLP and MINLP models.
-*	Gurobi also supports :ref:`GUROBI_Multiple_MIP_Starts` .
+*	Gurobi also supports :ref:`option-GUROBI-multiple_mip_starts` .
 
 
 
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_-_MIP_Start_Node_Limit` 
-*	:ref:`GUROBI_Multiple_MIP_Starts` 
+*	:ref:`option-GUROBI-mip_start_node_limit` 
+*	:ref:`option-GUROBI-multiple_mip_starts` 

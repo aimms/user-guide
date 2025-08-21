@@ -1,4 +1,4 @@
-.. _GUROBI_Presolve_-_Multi_Objective_Presolve:
+.. _option-GUROBI-multi_objective_presolve:
 
 
 Multi Objective Presolve

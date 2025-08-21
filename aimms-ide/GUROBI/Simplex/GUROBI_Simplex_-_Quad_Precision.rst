@@ -1,4 +1,4 @@
-.. _GUROBI_Simplex_-_Quad_Precision:
+.. _option-GUROBI-quad_precision:
 
 
 Quad Precision

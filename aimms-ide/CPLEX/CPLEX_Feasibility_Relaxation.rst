@@ -10,7 +10,7 @@ CPLEX allows the calculation of a minimum-cost relaxation for a given mathematic
 
 
 
-Feasibility relaxation can be enabled by adding penalty values to the mathematical program and setting the option :ref:`Options_Feasibility_relaxation`  to "Advanced" (keeping the option at "Standard" will apply the regular AIMMS method of violation penalties). 
+Feasibility relaxation can be enabled by adding penalty values to the mathematical program and setting the option :ref:`Options_Feasibility_relaxation` to "Advanced" (keeping the option at "Standard" will apply the regular AIMMS method of violation penalties).
 
 Feasibility relaxation allows several options for the objective in the minimum-cost relaxation. The options are: 
 
@@ -25,11 +25,11 @@ Here, the weights are the penalty values that are specified for the mathematical
 
 
 
-The objective for the minimum-cost relaxation can be set using the option :ref:`Options_Feasibility_relaxation_objecti` . 
+The objective for the minimum-cost relaxation can be set using the option :ref:`Options_Feasibility_relaxation_objecti`. 
 
 
 
-After computing a minimum-cost relaxation (also referred to as 'Phase I'), CPLEX can optionally optimize the original objective among all solutions with a minimum-cost relaxation ('Phase II'). This can be enabled by setting the option :ref:`Options_Feasibility_relaxation_optimiz` .
+After computing a minimum-cost relaxation (also referred to as 'Phase I'), CPLEX can optionally optimize the original objective among all solutions with a minimum-cost relaxation ('Phase II'). This can be enabled by setting the option :ref:`Options_Feasibility_relaxation_optimiz`.
 
 If this option is disabled, AIMMS will stop after Phase I and return a minimum-cost relaxation. If the option is enabled, AIMMS will continue to Phase II and return a solution that optimizes the original objective, among all solutions with a minimum cost violation. 
 
@@ -53,9 +53,3 @@ If this option is disabled, AIMMS will stop after Phase I and return a minimum-c
 *	:ref:`Options_Feasibility_relaxation_objecti` 
 *	:ref:`Options_Feasibility_relaxation_optimiz` 
 *	:ref:`option-CPLEX-feasopt_tolerance` 
-
-
-
-
-
-

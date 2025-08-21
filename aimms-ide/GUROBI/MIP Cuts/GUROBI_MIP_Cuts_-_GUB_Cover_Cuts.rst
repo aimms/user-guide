@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Cuts_-_GUB_Cover_Cuts:
+.. _option-GUROBI-gub_cover_cuts:
 
 
 GUB Cover Cuts
@@ -32,4 +32,4 @@ This option overrides option **Global Cut Control** .
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_Cuts_-_Global_Cut_Control`  
+*	:ref:`option-GUROBI-global_cut_control`  

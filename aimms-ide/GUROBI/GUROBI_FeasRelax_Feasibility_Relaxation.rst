@@ -56,7 +56,7 @@ If this option is disabled, AIMMS will stop after Phase I and return a minimum-c
 *	:ref:`Options_Feasibility_relaxation` 
 *	:ref:`Options_Feasibility_relaxation_objecti` 
 *	:ref:`Options_Feasibility_relaxation_optimiz` 
-*	:ref:`GUROBI_General_-_FeasRelax_big-M` 
+*	:ref:`option-GUROBI-feasrelax_big_m` 
 
 
 

@@ -1,4 +1,4 @@
-.. _GUROBI_Quadratic_-_MIQCP_Method:
+.. _option-GUROBI-miqcp_method:
 
 
 MIQCP Method

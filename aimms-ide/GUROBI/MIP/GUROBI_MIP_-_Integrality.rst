@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_Integrality:
+.. _option-GUROBI-integrality:
 
 
 Integrality
@@ -29,8 +29,8 @@ If this option is set too small, Gurobi may falsely conclude that the problem is
 
 **Learn more about** 
 
-*	:ref:`GUROBI_General_-_Feasibility`  
-*	:ref:`GUROBI_MIP_-_Integrality_Focus`  
+*	:ref:`option-GUROBI-feasibility`  
+*	:ref:`option-GUROBI-integrality_focus`  
 
 
 

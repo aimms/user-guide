@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_MIP_Start_Node_Limit:
+.. _option-GUROBI-mip_start_node_limit:
 
 
 MIP Start Node Limit
@@ -25,5 +25,5 @@ This option limits the number of branch-and-bound nodes explored when completing
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_-_MIP_Start` 
-*	:ref:`GUROBI_MIP_Heuristic_-_RINS_Sub_Node_Lim` 
+*	:ref:`option-GUROBI-mip_start` 
+*	:ref:`option-GUROBI-rins_sub_mip_node_limit` 

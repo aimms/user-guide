@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_FeasRelax_big-M:
+.. _option-GUROBI-feasrelax_big_m:
 
 
 FeasRelax Big M
@@ -18,4 +18,4 @@ When relaxing a constraint in a feasibility relaxation, it is sometimes necessar
 
 **Learn more about** 
 
-*	:ref:`GUROBI_FeasRelax_Feasibility_Relaxation`  
+*	:ref:`option-GUROBI-feasrelax_(feasibility_relaxation)`  

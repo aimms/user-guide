@@ -1,4 +1,4 @@
-.. _GUROBI_Tuning_-_Tune_Target_MIP_Gap:
+.. _option-GUROBI-tune_target_mip_gap:
 
 
 Tune Target MIP Gap
@@ -18,5 +18,5 @@ This option sets a target MIP gap to be reached. As soon as the tuner has found 
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Tuning_-_Tune_Cleanup` 
-*	:ref:`GUROBI_Tuning_Tool` 
+*	:ref:`option-GUROBI-tune_cleanup` 
+*	:ref:`option-GUROBI-tuning_tool` 

@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Presolve_-_SOS1_Reformulation_Threshold:
+.. _option-GUROBI-sos1_reformulation_threshold:
 
 
 SOS1 Reformulation Threshold
@@ -29,8 +29,8 @@ The default value of -1 chooses a threshold automatically. You should set this o
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_Presolve_-_SOS1_Encoding` 
-*	:ref:`GUROBI_MIP_Presolve_-_SOS2_Reformulation_Threshold` 
+*	:ref:`option-GUROBI-sos1_encoding` 
+*	:ref:`option-GUROBI-sos2_reformulation_threshold` 
 
 
 

@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_-_MIP_Node_Method:
+.. _option-GUROBI-mip_node_method:
 
 
 MIP Node Method
@@ -39,4 +39,4 @@ At the default value Gurobi chooses automatically. Barrier is not an option for 
 
 **Learn more about** 
 
-*	:ref:`GUROBI_General_-_Method` 
+*	:ref:`option-GUROBI-method` 

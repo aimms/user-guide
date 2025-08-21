@@ -1,4 +1,4 @@
-.. _GUROBI_MIP_Presolve_-_MIP_OBBT:
+.. _option-GUROBI-mip_obbt:
 
 
 MIP OBBT

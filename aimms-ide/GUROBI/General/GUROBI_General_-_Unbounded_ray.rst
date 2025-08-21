@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Unbounded_ray:
+.. _option-GUROBI-unbounded_ray:
 
 
 Unbounded Ray
@@ -33,6 +33,6 @@ This option specifies whether Gurobi should calculate an unbounded ray once Guro
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Barrier_-_Barrier_Crossover`  
-*	:ref:`GUROBI_General_-_Method`  
-*	:ref:`GUROBI_Presolve_-_Presolve`  
+*	:ref:`option-GUROBI-barrier_crossover`  
+*	:ref:`option-GUROBI-method`  
+*	:ref:`option-GUROBI-presolve`  

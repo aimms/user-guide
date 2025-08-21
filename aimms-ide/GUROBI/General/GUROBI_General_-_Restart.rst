@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Restart:
+.. _option-GUROBI-restart:
 
 
 Restart
@@ -43,8 +43,8 @@ This option also determines whether a restart file is written. If this option is
 
 **Learn more about** 
 
-*	:ref:`GUROBI_MIP_-_MIP_Start` 
-*	:ref:`GUROBI_General_-_Restart_File_Nr` 
+*	:ref:`option-GUROBI-mip_start` 
+*	:ref:`option-GUROBI-restart_file_number` 
 
 
 

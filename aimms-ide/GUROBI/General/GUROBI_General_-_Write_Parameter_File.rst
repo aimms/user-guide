@@ -1,4 +1,4 @@
-.. _GUROBI_General_-_Write_Parameter_File:
+.. _option-GUROBI-write_parameter_file:
 
 
 Write Parameter File
@@ -28,7 +28,7 @@ A Gurobi parameter (PRM) file is used to specify parameter settings. The file co
 
 
 
-The parameters are printed using the Gurobi C API names as can be found in the:ref:`GUROBI_AIMMS_to_GUROBI_Mapping`  from AIMMS option names to Gurobi parameter names.
+The parameters are printed using the Gurobi C API names as can be found in the:ref:`AIMMS_to_GUROBI_Mapping` from AIMMS option names to Gurobi parameter names.
 
 
 

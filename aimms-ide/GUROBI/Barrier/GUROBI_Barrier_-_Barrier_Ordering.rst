@@ -1,4 +1,4 @@
-.. _GUROBI_Barrier_-_Barrier_Ordering:
+.. _option-GUROBI-barrier_ordering:
 
 
 Barrier Ordering
