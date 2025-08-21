@@ -1,4 +1,4 @@
-.. _CBC_General_-_Perturbation:
+.. _option-CBC-perturbation:
 
 
 Perturbation

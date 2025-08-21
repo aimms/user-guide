@@ -18,115 +18,115 @@ The table shows in the left column the AIMMS CBC options while the right column 
 
    * - **Option name in AIMMS** 
      - **Name in CBC** 
-   * - :ref:`CBC_Barrier_-_Barrier_crossover` 
+   * - :ref:`option-CBC-barrier_crossover` 
      - crossover
-   * - :ref:`CBC_Barrier_-_Barrier_Scaling` 
+   * - :ref:`option-CBC-barrier_scaling` 
      - bscale
-   * - :ref:`CBC_General_-_Dual_Feasibility_Tol`  
+   * - :ref:`option-CBC-dual_feasibility_tolerance`  
      - dualTolerance
-   * - :ref:`CBC_General_-_LP_Method`  
+   * - :ref:`option-CBC-lp_method`  
      - 
-   * - :ref:`CBC_General_-_MPS`  
+   * - :ref:`option-CBC-mps`  
      - 
-   * - :ref:`CBC_General_-_Objective_scale_factor`  
+   * - :ref:`option-CBC-objective_scale_factor`  
      - objectiveScale
-   * - :ref:`CBC_General_-_Perturbation`  
+   * - :ref:`option-CBC-perturbation`  
      - perturbation
-   * - :ref:`CBC_General_-_Primal_feasibility_tol` 
+   * - :ref:`option-CBC-primal_feasibility_tolerance` 
      - primalTolerance
-   * - :ref:`CBC_General_-_Refactorization_interval` 
+   * - :ref:`option-CBC-refactorization_interval` 
      - maxFactor
-   * - :ref:`CBC_General_-_RHS_scale_factor` 
+   * - :ref:`option-CBC-rhs_scale_factor` 
      - rhsScale
-   * - :ref:`CBC_General_-_Scaling`  
+   * - :ref:`option-CBC-scaling`  
      - scaling
-   * - :ref:`CBC_General_-_Sifting`  
+   * - :ref:`option-CBC-sifting`  
      - sprintCrash
-   * - :ref:`CBC_Logging_-_MIP_print_frequency`  
+   * - :ref:`option-CBC-mip_print_frequency`  
      - 
-   * - :ref:`CBC_Logging_-_Output_Level`  
+   * - :ref:`option-CBC-output_level`  
      - slogLevel
-   * - :ref:`CBC_Logging_-_Status_File`  
+   * - :ref:`option-CBC-status_file`  
      - 
-   * - :ref:`CBC_-_Increment`  
+   * - :ref:`option-CBC-increment`  
      - increment
-   * - :ref:`CBC_MIP_-_Integrality`  
+   * - :ref:`option-CBC-integrality`  
      - integerTolerance
-   * - :ref:`CBC_MIP_-_MIP_Basis`  
+   * - :ref:`option-CBC-mip_basis`  
      - 
-   * - :ref:`CBC_MIP_-_MIP_presolve`  
+   * - :ref:`option-CBC-mip_presolve`  
      - preprocess
-   * - :ref:`CBC_MIP_-_MIP_Start`  
+   * - :ref:`option-CBC-mip_start`  
      - 
-   * - :ref:`CBC_MIP_-_Node_selection`  
+   * - :ref:`option-CBC-node_selection`  
      - nodeStrategy
-   * - :ref:`CBC_MIP_-_Strong_branching`  
+   * - :ref:`option-CBC-strong_branching`  
      - strongbranching
-   * - :ref:`CBC_MIP_-_Trust_pseudo_costs`  
+   * - :ref:`option-CBC-trust_pseudo_costs`  
      - trustPseudoCosts
-   * - :ref:`CBC_MIP_-_Variable_Selection`  
+   * - :ref:`option-CBC-variable_selection`  
      - costStrategy
-   * - :ref:`CBC_MIP_Cuts_-_Clique_Cuts`  
+   * - :ref:`option-CBC-clique_cuts`  
      - cliqueCuts
-   * - :ref:`CBC_MIP_Cuts_-_Cut_Depth` 
+   * - :ref:`option-CBC-cut_depth` 
      - cutDepth
-   * - :ref:`CBC_MIP_Cuts_-_Cut_passes_root_node` 
+   * - :ref:`option-CBC-cut_passes_root_node` 
      - passCuts
-   * - :ref:`CBC_MIP_Cuts_-_Cut_passes_tree` 
+   * - :ref:`option-CBC-cut_passes_tree` 
      - passTree
-   * - :ref:`CBC_MIP_Cuts_-_Flow_Cover_Cuts` 
+   * - :ref:`option-CBC-flow_cover_cuts` 
      - flowCoverCuts
-   * - :ref:`CBC_MIP_Cuts_-_Global_Cut_Control`  
+   * - :ref:`option-CBC-global_cut_control`  
      - cuts
-   * - :ref:`CBC_MIP_Cuts_-_Gomory_Cuts` 
+   * - :ref:`option-CBC-gomory_cuts` 
      - gomoryCuts
-   * - :ref:`CBC_MIP_Cuts_-_Knapsack_Cuts` 
+   * - :ref:`option-CBC-knapsack_cuts` 
      - knapsackCuts
-   * - :ref:`CBC_MIP_Cuts_-_Lift_and_Project_Cuts` 
+   * - :ref:`option-CBC-lift_and_project_cuts` 
      - liftAndProjectCuts
-   * - :ref:`CBC_MIP_Cuts_-_MIR_Cuts`  
+   * - :ref:`option-CBC-mir_cuts`  
      - mixedIntegerRoundingCuts
-   * - :ref:`CBC_MIP_Cuts_-_Probing_cuts`  
+   * - :ref:`option-CBC-probing_cuts`  
      - probingCuts
-   * - :ref:`CBC_MIP_Cuts_-_Reduce_and_split_cuts`  
+   * - :ref:`option-CBC-reduce_and_split_cuts`  
      - reduceAndSplitCuts
-   * - :ref:`CBC_MIP_Cuts_-_Residual_capacity_cuts`  
+   * - :ref:`option-CBC-residual_capacity_cuts`  
      - residualCapacityCuts
-   * - :ref:`CBC_MIP_Cuts_-_Slow_cut_passes`  
+   * - :ref:`option-CBC-slow_cut_passes`  
      - slowcutpasses
-   * - :ref:`CBC_MIP_Cuts_-_Two_MIR_cuts`  
+   * - :ref:`option-CBC-two_mir_cuts`  
      - twoMirCuts
-   * - :ref:`CBC_MIP_Cuts_-_Zero_half_cuts`  
+   * - :ref:`option-CBC-zero_half_cuts`  
      - zeroHalfCuts
-   * - :ref:`CBC_MIP_Heur_-_Combine_solutions`  
+   * - :ref:`option-CBC-combine_solutions`  
      - combineSolutions
-   * - :ref:`CBC_MIP_Heur_-_Feasibility_pump`  
+   * - :ref:`option-CBC-feasibility_pump`  
      - feasibilityPump
-   * - :ref:`CBC_MIP_Heur_-_Feasibility_pump_passes`  
+   * - :ref:`option-CBC-feasibility_pump_passes`  
      - passFeasibilityPump
-   * - :ref:`CBC_MIP_Heur_-_Greedy_heuristic`  
+   * - :ref:`option-CBC-greedy_heuristic`  
      - greedyHeuristic
-   * - :ref:`CBC_MIP_Heur_-_Heuristics`  
+   * - :ref:`option-CBC-heuristics`  
      - heuristicsOnOff
-   * - :ref:`CBC_MIP_Heur_-_Local_tree_search`  
+   * - :ref:`option-CBC-local_tree_search`  
      - localTreeSearch
-   * - :ref:`CBC_MIP_Heur_-_Proximity_search` 
+   * - :ref:`option-CBC-proximity_search` 
      - proximity
-   * - :ref:`CBC_MIP_Heur_-_RINS_heuristic`  
+   * - :ref:`option-CBC-rins_heuristic`  
      - rins
-   * - :ref:`CBC_MIP_Heur_-_Rounding_heuristic`  
+   * - :ref:`option-CBC-rounding_heuristic`  
      - roundingHeuristic
-   * - :ref:`CBC_Presolve_-_Presolve` 
+   * - :ref:`option-CBC-presolve` 
      - presolve
-   * - :ref:`CBC_Presolve_-_Presolve_tolerance`  
+   * - :ref:`option-CBC-presolve_tolerance`  
      - preTolerance
-   * - :ref:`CBC_Simplex_-_Crash` 
+   * - :ref:`option-CBC-crash` 
      - crash	
-   * - :ref:`CBC_Simplex_-_Dual_pivot` 
+   * - :ref:`option-CBC-dual_pivot` 
      - dualPivot
-   * - :ref:`CBC_Simplex_-_Idiot_crash` 
+   * - :ref:`option-CBC-idiot_crash` 
      - idiotCrash
-   * - :ref:`CBC_Simplex_-_Primal_pivot`  
+   * - :ref:`option-CBC-primal_pivot`  
      - primalPivot
 
 

@@ -1,4 +1,4 @@
-.. _CBC_General_-_LP_Method:
+.. _option-CBC-lp_method:
 
 
 LP method

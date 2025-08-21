@@ -1,4 +1,4 @@
-.. _CBC_MIP_Cuts_-_Probing_cuts:
+.. _option-CBC-probing_cuts:
 
 
 Probing cuts
@@ -33,5 +33,5 @@ This option overrides the option **Global Cut Control** .
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_Cuts_-_Cut_Depth`  
-*	:ref:`CBC_MIP_Cuts_-_Global_Cut_Control`  
+*	:ref:`option-CBC-cut_depth`  
+*	:ref:`option-CBC-global_cut_control`  

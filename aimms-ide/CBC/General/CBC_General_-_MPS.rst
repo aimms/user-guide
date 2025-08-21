@@ -1,4 +1,4 @@
-.. _CBC_General_-_MPS:
+.. _option-CBC-mps:
 
 
 MPS

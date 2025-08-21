@@ -1,4 +1,4 @@
-.. _CBC_MIP_-_Strong_branching:
+.. _option-CBC-strong_branching:
 
 
 Strong branching
@@ -18,4 +18,4 @@ This option sets the number of variables to look at in strong branching. In orde
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_-_Trust_pseudo_costs` 
+*	:ref:`option-CBC-trust_pseudo_costs` 

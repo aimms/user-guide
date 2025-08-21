@@ -1,4 +1,4 @@
-.. _CBC_Simplex_-_Primal_pivot:
+.. _option-CBC-primal_pivot:
 
 
 Primal pivot
@@ -28,4 +28,4 @@ This option specifies the primal pivot selection algorithm. Possible values are:
 
 **Learn more about** 
 
-*	:ref:`CBC_Simplex_-_Dual_pivot`  
+*	:ref:`option-CBC-dual_pivot`  

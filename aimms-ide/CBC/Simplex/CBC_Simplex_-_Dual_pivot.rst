@@ -1,4 +1,4 @@
-.. _CBC_Simplex_-_Dual_pivot:
+.. _option-CBC-dual_pivot:
 
 
 Dual pivot
@@ -25,4 +25,4 @@ This option specifies the dual pivot selection algorithm. Settings 'Steepest' an
 
 **Learn more about** 
 
-*	:ref:`CBC_Simplex_-_Primal_pivot`  
+*	:ref:`option-CBC-primal_pivot`  

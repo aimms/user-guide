@@ -1,4 +1,4 @@
-.. _CBC_MIP_Heur_-_Local_tree_search:
+.. _option-CBC-local_tree_search:
 
 
 Local tree search

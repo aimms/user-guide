@@ -1,4 +1,4 @@
-.. _CBC_MIP_Cuts_-_Cut_passes_tree:
+.. _option-CBC-cut_passes_tree:
 
 
 Cut passes tree

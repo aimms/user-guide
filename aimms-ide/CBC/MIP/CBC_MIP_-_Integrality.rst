@@ -1,4 +1,4 @@
-.. _CBC_MIP_-_Integrality:
+.. _option-CBC-integrality:
 
 
 Integrality
@@ -29,4 +29,4 @@ If this option is set too small, CBC may falsely conclude that the problem is in
 
 **Learn more about** 
 
-*	:ref:`CBC_General_-_Primal_feasibility_tol`  
+*	:ref:`option-CBC-primal_feasibility_tolerance`  

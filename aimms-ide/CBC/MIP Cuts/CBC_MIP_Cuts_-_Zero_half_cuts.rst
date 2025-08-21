@@ -1,4 +1,4 @@
-.. _CBC_MIP_Cuts_-_Zero_half_cuts:
+.. _option-CBC-zero_half_cuts:
 
 
 Zero half cuts
@@ -39,8 +39,8 @@ So far, zero-half cuts may help only on a small subset of problems and may need 
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_Cuts_-_Cut_Depth`  
-*	:ref:`CBC_MIP_Cuts_-_Global_Cut_Control`  
+*	:ref:`option-CBC-cut_depth`  
+*	:ref:`option-CBC-global_cut_control`  
 
 
 

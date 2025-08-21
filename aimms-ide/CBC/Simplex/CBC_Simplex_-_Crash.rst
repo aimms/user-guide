@@ -1,4 +1,4 @@
-.. _CBC_Simplex_-_Crash:
+.. _option-CBC-crash:
 
 
 Crash
@@ -26,4 +26,4 @@ This option determines whether to create a basis for the problem. If crash is sw
 
 **Learn more about** 
 
-*	:ref:`CBC_Simplex_-_Idiot_crash`  
+*	:ref:`option-CBC-idiot_crash`  

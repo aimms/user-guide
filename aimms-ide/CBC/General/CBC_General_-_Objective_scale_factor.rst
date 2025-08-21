@@ -1,4 +1,4 @@
-.. _CBC_General_-_Objective_scale_factor:
+.. _option-CBC-objective_scale_factor:
 
 
 Objective scale factor

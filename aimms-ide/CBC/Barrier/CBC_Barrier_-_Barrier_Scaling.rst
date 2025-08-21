@@ -1,4 +1,4 @@
-.. _CBC_Barrier_-_Barrier_Scaling:
+.. _option-CBC-barrier_scaling:
 
 
 Barrier scaling

@@ -1,4 +1,4 @@
-.. _CBC_MIP_Cuts_-_Residual_capacity_cuts:
+.. _option-CBC-residual_capacity_cuts:
 
 
 Residual capacity cuts
@@ -33,5 +33,5 @@ This option is not influenced by the option **Global Cut Control** .
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_Cuts_-_Cut_Depth`  
-*	:ref:`CBC_MIP_Cuts_-_Global_Cut_Control`  
+*	:ref:`option-CBC-cut_depth`  
+*	:ref:`option-CBC-global_cut_control`  

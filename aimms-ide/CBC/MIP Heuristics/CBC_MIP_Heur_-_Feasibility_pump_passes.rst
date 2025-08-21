@@ -1,4 +1,4 @@
-.. _CBC_MIP_Heur_-_Feasibility_pump_passes:
+.. _option-CBC-feasibility_pump_passes:
 
 
 Feasibility pump passes
@@ -18,4 +18,4 @@ This option fine tunes the Feasibility Pump heuristic by doing more or fewer pas
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_Heur_-_Feasibility_pump`  
+*	:ref:`option-CBC-feasibility_pump`  

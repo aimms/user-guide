@@ -1,4 +1,4 @@
-.. _CBC_General_-_RHS_scale_factor:
+.. _option-CBC-rhs_scale_factor:
 
 
 RHS scale factor

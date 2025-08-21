@@ -1,4 +1,4 @@
-.. _CBC_MIP_-_Variable_Selection:
+.. _option-CBC-variable_selection:
 
 
 Variable selection

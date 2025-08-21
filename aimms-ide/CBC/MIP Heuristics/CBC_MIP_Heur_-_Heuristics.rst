@@ -1,4 +1,4 @@
-.. _CBC_MIP_Heur_-_Heuristics:
+.. _option-CBC-heuristics:
 
 
 Heuristics
@@ -24,8 +24,8 @@ This option can be used to switch on or off all heuristics. Then you can set ind
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_Heur_-_Combine_solutions`  
-*	:ref:`CBC_MIP_Heur_-_Feasibility_pump`  
-*	:ref:`CBC_MIP_Heur_-_Greedy_heuristic`  
-*	:ref:`CBC_MIP_Heur_-_Local_tree_search`  
-*	:ref:`CBC_MIP_Heur_-_RINS_heuristic`  
+*	:ref:`option-CBC-combine_solutions`  
+*	:ref:`option-CBC-feasibility_pump`  
+*	:ref:`option-CBC-greedy_heuristic`  
+*	:ref:`option-CBC-local_tree_search`  
+*	:ref:`option-CBC-rins_heuristic`  

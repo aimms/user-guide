@@ -1,4 +1,4 @@
-.. _CBC_MIP_Heur_-_Feasibility_pump:
+.. _option-CBC-feasibility_pump:
 
 
 Feasibility pump
@@ -30,5 +30,5 @@ With setting 'On' the Feasibility Pump heuristic is used after preprocessing. Se
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_Heur_-_Feasibility_pump_passes`  
-*	:ref:`CBC_MIP_Heur_-_Heuristics`  
+*	:ref:`option-CBC-feasibility_pump_passes`  
+*	:ref:`option-CBC-heuristics`  

@@ -1,4 +1,4 @@
-.. _CBC_General_-_Refactorization_interval:
+.. _option-CBC-refactorization_interval:
 
 
 Refactorization interval

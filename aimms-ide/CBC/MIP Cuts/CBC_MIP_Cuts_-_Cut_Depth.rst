@@ -1,4 +1,4 @@
-.. _CBC_MIP_Cuts_-_Cut_Depth:
+.. _option-CBC-cut_depth:
 
 
 Cut depth

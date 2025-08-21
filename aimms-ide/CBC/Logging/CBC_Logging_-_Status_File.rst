@@ -1,4 +1,4 @@
-.. _CBC_Logging_-_Status_File:
+.. _option-CBC-status_file:
 
 
 Status file

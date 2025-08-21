@@ -1,4 +1,4 @@
-.. _CBC_MIP_-_Node_selection:
+.. _option-CBC-node_selection:
 
 
 Node selection

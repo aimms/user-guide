@@ -1,4 +1,4 @@
-.. _CBC_Barrier_-_Barrier_crossover:
+.. _option-CBC-barrier_crossover:
 
 
 Barrier crossover

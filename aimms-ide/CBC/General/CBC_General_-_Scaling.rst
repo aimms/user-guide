@@ -1,4 +1,4 @@
-.. _CBC_General_-_Scaling:
+.. _option-CBC-scaling:
 
 
 Scaling

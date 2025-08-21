@@ -1,4 +1,4 @@
-.. _CBC_MIP_-_MIP_Basis:
+.. _option-CBC-mip_basis:
 
 
 MIP basis

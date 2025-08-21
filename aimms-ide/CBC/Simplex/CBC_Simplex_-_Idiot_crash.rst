@@ -1,4 +1,4 @@
-.. _CBC_Simplex_-_Idiot_crash:
+.. _option-CBC-idiot_crash:
 
 
 Idiot crash
@@ -18,4 +18,4 @@ Idiot crash is a type of 'crash' which works well on some homogeneous problems. 
 
 **Learn more about** 
 
-*	:ref:`CBC_Simplex_-_Crash`  
+*	:ref:`option-CBC-crash`  

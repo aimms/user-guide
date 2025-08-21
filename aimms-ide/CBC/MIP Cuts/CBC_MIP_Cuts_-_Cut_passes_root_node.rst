@@ -1,4 +1,4 @@
-.. _CBC_MIP_Cuts_-_Cut_passes_root_node:
+.. _option-CBC-cut_passes_root_node:
 
 
 Cut passes root node

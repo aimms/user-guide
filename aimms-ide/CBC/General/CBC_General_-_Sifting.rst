@@ -1,4 +1,4 @@
-.. _CBC_General_-_Sifting:
+.. _option-CBC-sifting:
 
 
 Sifting

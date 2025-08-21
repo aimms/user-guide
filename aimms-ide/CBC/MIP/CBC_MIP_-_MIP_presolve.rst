@@ -1,4 +1,4 @@
-.. _CBC_MIP_-_MIP_presolve:
+.. _option-CBC-mip_presolve:
 
 
 MIP presolve
@@ -37,4 +37,4 @@ Setting 'Clique inequalities' will turn <= clique constraints into equality cons
 
 **Learn more about** 
 
-*	:ref:`CBC_Presolve_-_Presolve` 
+*	:ref:`option-CBC-presolve` 

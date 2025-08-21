@@ -1,4 +1,4 @@
-.. _CBC_MIP_-_Trust_pseudo_costs:
+.. _option-CBC-trust_pseudo_costs:
 
 
 Trust pseudo costs
@@ -18,4 +18,4 @@ This option sets the number of branches before we trust pseudo-costs. Using stro
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_-_Strong_branching` 
+*	:ref:`option-CBC-strong_branching` 

@@ -1,4 +1,4 @@
-.. _CBC_MIP_Heur_-_RINS_heuristic:
+.. _option-CBC-rins_heuristic:
 
 
 RINS heuristic
@@ -25,4 +25,4 @@ This option determines whether to use Relaxed Induced Neighborhood Search (RINS)
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_Heur_-_Heuristics`  
+*	:ref:`option-CBC-heuristics`  

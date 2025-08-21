@@ -1,4 +1,4 @@
-.. _CBC_MIP_Heur_-_Combine_solutions:
+.. _option-CBC-combine_solutions:
 
 
 Combine solutions
@@ -30,4 +30,4 @@ Setting 'Before' means that the combine solutions heuristic is used before prepr
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_Heur_-_Heuristics`  
+*	:ref:`option-CBC-heuristics`  

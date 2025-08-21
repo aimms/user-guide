@@ -1,4 +1,4 @@
-.. _CBC_MIP_Heur_-_Rounding_heuristic:
+.. _option-CBC-rounding_heuristic:
 
 
 Rounding heuristic
@@ -30,4 +30,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_Heur_-_Heuristics`  
+*	:ref:`option-CBC-heuristics`  

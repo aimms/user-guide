@@ -1,4 +1,4 @@
-.. _CBC_MIP_Heur_-_Proximity_search:
+.. _option-CBC-proximity_search:
 
 
 Proximity search

@@ -1,4 +1,4 @@
-.. _CBC_Logging_-_Output_Level:
+.. _option-CBC-output_level:
 
 
 Output level
@@ -18,4 +18,4 @@ The option sets the level of detail in (LP) solver output. If 0 then there shoul
 
 **Learn more about** 
 
-*	:ref:`CBC_Logging_-_Status_File` 
+*	:ref:`option-CBC-status_file` 

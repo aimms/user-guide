@@ -1,4 +1,4 @@
-.. _CBC_MIP_Cuts_-_Lift_and_Project_Cuts:
+.. _option-CBC-lift_and_project_cuts:
 
 
 Lift and project cuts
@@ -37,5 +37,5 @@ This option is not influenced by the option **Global Cut Control** .
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_Cuts_-_Cut_Depth`  
-*	:ref:`CBC_MIP_Cuts_-_Global_Cut_Control`  
+*	:ref:`option-CBC-cut_depth`  
+*	:ref:`option-CBC-global_cut_control`  

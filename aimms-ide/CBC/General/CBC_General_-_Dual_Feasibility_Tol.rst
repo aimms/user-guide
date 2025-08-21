@@ -1,4 +1,4 @@
-.. _CBC_General_-_Dual_Feasibility_Tol:
+.. _option-CBC-dual_feasibility_tolerance:
 
 
 Dual feasibility tolerance

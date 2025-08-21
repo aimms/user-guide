@@ -1,4 +1,4 @@
-.. _CBC_MIP_Cuts_-_Slow_cut_passes:
+.. _option-CBC-slow_cut_passes:
 
 
 Slow cut passes
@@ -22,5 +22,5 @@ This option determines the number of rounds that slow cut generators should be a
 
 **Learn more about** 
 
-*	:ref:`CBC_MIP_Cuts_-_Lift_and_Project_Cuts`  
-*	:ref:`CBC_MIP_Cuts_-_Reduce_and_split_cuts`  
+*	:ref:`option-CBC-lift_and_project_cuts`  
+*	:ref:`option-CBC-reduce_and_split_cuts`  

@@ -1,4 +1,4 @@
-.. _CBC_General_-_Primal_feasibility_tol:
+.. _option-CBC-primal_feasibility_tolerance:
 
 
 Primal feasibility tolerance
