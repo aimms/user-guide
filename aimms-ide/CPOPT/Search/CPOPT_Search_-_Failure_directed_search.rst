@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Failure_directed_search:
+.. _option-CPOPT-failure_directed_search:
 
 
 Failure directed search
@@ -36,6 +36,6 @@ When this option is switched on then CP Optimizer starts failure-directed search
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Search_-_Failure_directed_search_emphas` 
-*	:ref:`CPOPT_Search_-_Failure_directed_search_memory` 
+*	:ref:`option-CPOPT-failure_directed_search_emphasis` 
+*	:ref:`option-CPOPT-failure_directed_search_memory_limit` 
 *	:ref:`CPOPT_Search_-_Search_type` 

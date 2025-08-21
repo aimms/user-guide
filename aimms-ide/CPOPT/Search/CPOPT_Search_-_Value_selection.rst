@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Value_selection:
+.. _option-CPOPT-value_selection:
 
 
 Value selection
@@ -29,4 +29,4 @@ This option specifies the value selection heuristic being used in a search strat
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Search_-_Variable_selection` 
+*	:ref:`option-CPOPT-variable_selection` 

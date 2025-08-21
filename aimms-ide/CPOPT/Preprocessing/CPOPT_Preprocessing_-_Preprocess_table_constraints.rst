@@ -1,4 +1,4 @@
-.. _CPOPT_Preprocessing_-_Preprocess_table_constraints:
+.. _option-CPOPT-preprocess_table_constraints:
 
 
 Preprocess table constraints

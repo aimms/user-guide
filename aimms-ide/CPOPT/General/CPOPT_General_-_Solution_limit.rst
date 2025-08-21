@@ -1,4 +1,4 @@
-.. _CPOPT_General_-_Solution_limit:
+.. _option-CPOPT-solution_limit:
 
 
 Solution limit

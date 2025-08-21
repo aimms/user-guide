@@ -1,4 +1,4 @@
-.. _CPOPT_Logging_-_Mod_file:
+.. _option-CPOPT-mod_file:
 
 
 Mod file
@@ -37,6 +37,6 @@ The mod file cannot be printed in the following situations:
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Inference_-_Cardinality_encoding` 
-*	:ref:`CPOPT_Logging_-_Mod_file_write_constraint_name` 
-*	:ref:`CPOPT_Inference_-_Sequence_encoding` 
+*	:ref:`option-CPOPT-cardinality_encoding` 
+*	:ref:`option-CPOPT-mod_file_write_constraint_names` 
+*	:ref:`option-CPOPT-sequence_encoding` 

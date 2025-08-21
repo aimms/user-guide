@@ -29,7 +29,7 @@ For many models, dynamic search finds feasible and optimal solutions more quickl
 
 
 
-An important drawback of the dynamic search algorithm is that it cannot be used in combination with some callbacks, if the option **Use Generic Callbacks**  is set to 'No'. The branch, candidate, cut, heuristic and lazy constraints callback procedures will not be executed if 'Apply dynamic search' is chosen and the option **Use Generic Callbacks**  is set to 'No'. However, the callback procedures for incumbent, iterations, status change and time are still executed. See the section :ref:`option-CPLEX-callback_procedures` . If the generic callback implementation is used by CPLEX, activated by setting the option **Use Generic Callbacks**  to 'Yes', then all callback procedures (branch, candidate, cut, heuristic, incumbent, iterations, lazy constraints, status change and time) can be used in combination with the dynamic search algorithm.
+An important drawback of the dynamic search algorithm is that it cannot be used in combination with some callbacks, if the option **Use Generic Callbacks**  is set to 'No'. The branch, candidate, cut, heuristic and lazy constraints callback procedures will not be executed if 'Apply dynamic search' is chosen and the option **Use Generic Callbacks**  is set to 'No'. However, the callback procedures for incumbent, iterations, status change and time are still executed. See the section :ref:`CPLEX_Threads_search_strat_and_callb` . If the generic callback implementation is used by CPLEX, activated by setting the option **Use Generic Callbacks**  to 'Yes', then all callback procedures (branch, candidate, cut, heuristic, incumbent, iterations, lazy constraints, status change and time) can be used in combination with the dynamic search algorithm.
 
 
 
@@ -58,7 +58,7 @@ If the value of this option equals 'Apply branch-and-cut' then CPLEX will use on
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-callback_procedures` 
+*	:ref:`CPLEX_Threads_search_strat_and_callb` 
 *	:ref:`option-CPLEX-global_thread_limit` 
 *	:ref:`Options_Progress_Options_-_Progress_Time_Interval` 
 *	:ref:`option-CPLEX-stealth_mode` 

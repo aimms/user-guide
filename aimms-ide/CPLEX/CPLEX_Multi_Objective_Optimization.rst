@@ -90,14 +90,14 @@ During the solution process, you may prefer that optimization problems with diff
 *	Multi-objective optimization is not supported for models with quadratic terms in the objectives or in the constraints.
 *	Sensitivity information and basis information are not available for multi-objective optimization.
 *	Solution polishing is not available for multi-objective optimization.
-*	The branch, candidate, cut, heuristic and lazy constraints callback procedures are not supported for multi-objective optimization. (The incumbent callback is supported for multi-objective optimization; see the section :ref:`option-CPLEX-callback_procedures` .)
+*	The branch, candidate, cut, heuristic and lazy constraints callback procedures are not supported for multi-objective optimization. (The incumbent callback is supported for multi-objective optimization; see the section :ref:`CPLEX_Threads_search_strat_and_callb` .)
 *	Generic callbacks will be used for solving multi-objective optimization models even if the option **Use Generic Callbacks**  is set to 'No'. As a consequence, when solving a multi-objective LP model CPLEX cannot be interrupted and no progress information is provided during the solve.
 
 
 **Learn more about** 
 
 *	:any:`GMP::Column::SetAsMultiObjective`
-*	:ref:`option-CPLEX-callback_procedures` 
+*	:ref:`CPLEX_Threads_search_strat_and_callb` 
 *	:ref:`option-CPLEX-read_parameter_file` 
 *	:ref:`option-CPLEX-use_generic_callbacks` 
 

@@ -1,4 +1,4 @@
-.. _CPOPT_Logging_-_Mod_file_write_constraint_name:
+.. _option-CPOPT-mod_file_write_constraint_names:
 
 
 Mod file write constraint names
@@ -24,4 +24,4 @@ This option can be used to print constraint names to a mod file. This option is 
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Logging_-_Mod_file` 
+*	:ref:`option-CPOPT-mod_file` 

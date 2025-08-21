@@ -1,4 +1,4 @@
-.. _CPOPT_Parallel_-_Number_of_workers:
+.. _option-CPOPT-number_of_workers:
 
 
 Number of workers

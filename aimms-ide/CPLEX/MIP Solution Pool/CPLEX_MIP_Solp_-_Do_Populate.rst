@@ -37,7 +37,7 @@ This option should be switched on before a normal solve statement (or before GMP
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-solution_pool`  
+*	:ref:`CPLEX_Solution_Pool`  
 *	:ref:`option-CPLEX-pool_absolute_objective_gap`  
 *	:ref:`option-CPLEX-pool_intensity`  
 *	:ref:`option-CPLEX-pool_relative_objective_gap`  

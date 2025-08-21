@@ -14,8 +14,8 @@ Furthermore, you can use the solution pool and tools associated with it to explo
 *   You can collect solutions within a given percentage of the optimal solution. To do so, apply the solution pool gap options **Pool Absolute Objective Gap**  or **Pool Relative Objective Gap** .
 
 
-*   You can collect a set of diverse solutions. To do so, use the option **Pool Replacement Strategy**  to set the solution pool replacement strategy to 'Diverse solutions'. In order to control the diversity of solutions even more finely, you can apply a diversity filter, as explained in :ref:`option-CPLEX-solution_pool_filters` .
-*   In an advanced application of the populate feature, you can collect solutions with specific properties by using filters. Filters allow you to control properties of the solutions generated and stored in the solution pool. See :ref:`option-CPLEX-solution_pool_filters` .
+*   You can collect a set of diverse solutions. To do so, use the option **Pool Replacement Strategy**  to set the solution pool replacement strategy to 'Diverse solutions'. In order to control the diversity of solutions even more finely, you can apply a diversity filter, as explained in :ref:`CPLEX_Filters`.
+*   In an advanced application of the populate feature, you can collect solutions with specific properties by using filters. Filters allow you to control properties of the solutions generated and stored in the solution pool. See :ref:`CPLEX_Filters`.
 *   You can collect all solutions or all optimal solutions to a MIP model. To do so, set the option **Pool Intensity**  to 'Very aggressive'.
 
 
@@ -64,7 +64,7 @@ the second best solution for the mathematical program 'frac1' will be send to th
 **Learn more about** 
 
 *	:ref:`option-CPLEX-do_populate`  
-*	:ref:`option-CPLEX-solution_pool_filters` 
+*	:ref:`CPLEX_Filters` 
 *	:ref:`option-CPLEX-maximal_number_of_nodes`  
 *	:ref:`option-CPLEX-pool_absolute_objective_gap`  
 *	:ref:`option-CPLEX-pool_intensity`  

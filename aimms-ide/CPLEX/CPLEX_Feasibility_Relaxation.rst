@@ -48,8 +48,7 @@ If this option is disabled, AIMMS will stop after Phase I and return a minimum-c
 **Learn more about** 
 
 
-· 	`Violation penalties <https://documentation.aimms.com/language-reference/optimization-modeling-components/solving-mathematical-programs/infeasibility-analysis.html>`_ (Language Reference)
-
+* 	`Violation penalties <https://documentation.aimms.com/language-reference/optimization-modeling-components/solving-mathematical-programs/infeasibility-analysis.html>`_ (Language Reference)
 *	:ref:`Options_Feasibility_relaxation` 
 *	:ref:`Options_Feasibility_relaxation_objecti` 
 *	:ref:`Options_Feasibility_relaxation_optimiz` 

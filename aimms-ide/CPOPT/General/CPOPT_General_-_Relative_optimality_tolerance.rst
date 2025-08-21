@@ -1,4 +1,4 @@
-.. _CPOPT_General_-_Relative_optimality_tolerance:
+.. _option-CPOPT-relative_optimality_tolerance:
 
 
 Relative optimality tolerance
@@ -22,4 +22,4 @@ This option is used in conjunction with option **Optimality Tolerance** . The op
 
 **Learn more about** 
 
-*	:ref:`CPOPT_General_-_Optimality_tolerance` 
+*	:ref:`option-CPOPT-optimality_tolerance` 

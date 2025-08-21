@@ -47,7 +47,7 @@ CPX_PARAM_STARTALG   2
 
 
 
-The parameters are printed using the CPLEX C API names as can be found in the:ref:`option-CPLEX-aimms_to_cplex_mapping`  from AIMMS option names to CPLEX parameter names.
+The parameters are printed using the CPLEX C API names as can be found in the:ref:`CPLEX_to_AIMMS_Mapping` from AIMMS option names to CPLEX parameter names.
 
 
 

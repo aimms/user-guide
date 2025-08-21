@@ -1,4 +1,4 @@
-.. _CPOPT:
+.. _option-CPOPT-cp_optimizer:
 
 
 CP Optimizer
@@ -27,12 +27,12 @@ CP Optimizer now maintains a bound on the objective (a lower bound for minimizat
 **Learn more about** 
 
 *	`CP Optimizer <https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-cp-optimizer>`_ (Internet link)
-*	:ref:`CP Optimizer_CPOPT_to_AIMMS_Mapping`  
-*	:ref:`CP Optimizer_AIMMS_to_CPOPT_Mapping`  
+*	:ref:`CPOPT_to_AIMMS_Mapping`  
+*	:ref:`AIMMS_to_CPOPT_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	:ref:`Options_MIP_Options_-_Maximal_Number_o`  
 *	:ref:`Options_MIP_Options_-_MIP_Absolute_Opt`  
 *	:ref:`Options_MIP_Options_-_MIP_Relative_Opt`  
-*	:ref:`CPOPT_General_-_Optimality_tolerance` 
-*	:ref:`CPOPT_General_-_Relative_optimality_tolerance` 
-*	:ref:`CPOPT_General_-_Solution_limit` 
+*	:ref:`option-CPOPT-optimality_tolerance` 
+*	:ref:`option-CPOPT-relative_optimality_tolerance` 
+*	:ref:`option-CPOPT-solution_limit` 

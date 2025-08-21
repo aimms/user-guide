@@ -23,13 +23,13 @@ This option specifies whether CPLEX clones the log files of nodes during paralle
 
 
 
-The concurrent optimizer is described in the section :ref:`option-CPLEX-parallel_concurrent_optimizer` . It can be enabled by setting the option **LP Method** . The amount of information printed to the clone log files is controlled by the options **Barrier Display**  and **Simplex Display** .
+The concurrent optimizer is described in the section :ref:`CPLEX_Parallel_Concurrent_Optimizer`. It can be enabled by setting the option **LP Method** . The amount of information printed to the clone log files is controlled by the options **Barrier Display**  and **Simplex Display** .
 
 
 
 
 
-The parallel MIP optimizer is controlled by the option **Global Thread Limit** . The amount of information printed to the clone log files is controlled by the options **MIP Display**  and **MIP Interval** .
+The parallel MIP optimizer is controlled by the option **Global Thread Limit**. The amount of information printed to the clone log files is controlled by the options **MIP Display**  and **MIP Interval**.
 
 
 
@@ -48,5 +48,5 @@ The clone log files are written in the project folder (and not to the log direct
 *	:ref:`option-CPLEX-lp_method` 
 *	:ref:`option-CPLEX-mip_display` 
 *	:ref:`option-CPLEX-mip_interval` 
-*	:ref:`option-CPLEX-parallel_concurrent_optimizer` 
+*	:ref:`CPLEX_Parallel_Concurrent_Optimizer` 
 *	:ref:`option-CPLEX-simplex_display` 

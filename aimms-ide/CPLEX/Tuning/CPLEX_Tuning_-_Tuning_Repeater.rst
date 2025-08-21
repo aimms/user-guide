@@ -29,6 +29,6 @@ This option applies to only one problem in a tuning session. That is, this optio
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-tuning_tool` 
+*	:ref:`CPLEX_Tuning_Tool` 
 *	:any:`GMP::Tuning::TuneSingleGMP`
 *	:ref:`option-CPLEX-tuning_measure` 

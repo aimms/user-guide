@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Branch_limit:
+.. _option-CPOPT-branch_limit:
 
 
 Branch limit

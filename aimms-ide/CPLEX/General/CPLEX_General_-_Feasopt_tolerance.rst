@@ -27,5 +27,5 @@ Using this option, you can implement other stopping criteria as well. To do so, 
 
 **Learn more about** 
 
-· 	:ref:`option-CPLEX-feasopt_(feasibility_relaxation)`  
+* 	:ref:`CPLEX_Feasibility_Relaxation`  
 

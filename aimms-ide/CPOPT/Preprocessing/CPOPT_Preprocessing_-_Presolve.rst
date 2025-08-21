@@ -1,4 +1,4 @@
-.. _CPOPT_Preprocessing_-_Presolve:
+.. _option-CPOPT-presolve:
 
 
 Presolve

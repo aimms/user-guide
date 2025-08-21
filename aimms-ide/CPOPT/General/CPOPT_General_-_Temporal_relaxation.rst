@@ -1,4 +1,4 @@
-.. _CPOPT_General_-_Temporal_relaxation:
+.. _option-CPOPT-temporal_relaxation:
 
 
 Temporal relaxation

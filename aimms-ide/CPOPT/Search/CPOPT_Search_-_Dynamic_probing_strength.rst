@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Dynamic_probing_strength:
+.. _option-CPOPT-dynamic_probing_strength:
 
 
 Dynamic probing strength
@@ -22,4 +22,4 @@ Possible values for this parameter range from 0.001 to 10000. A value of 1.0 ind
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Search_-_Dynamic_probing` 
+*	:ref:`option-CPOPT-dynamic_probing` 

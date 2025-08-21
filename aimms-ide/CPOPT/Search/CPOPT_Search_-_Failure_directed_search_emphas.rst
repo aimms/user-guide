@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Failure_directed_search_emphas:
+.. _option-CPOPT-failure_directed_search_emphasis:
 
 
 Failure directed search emphasis
@@ -22,5 +22,5 @@ Any other value means that once failure-directed search has started, it is used 
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Search_-_Failure_directed_search` 
-*	:ref:`CPOPT_Parallel_-_Number_of_workers` 
+*	:ref:`option-CPOPT-failure_directed_search` 
+*	:ref:`option-CPOPT-number_of_workers` 

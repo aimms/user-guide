@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Restart_growth_factor:
+.. _option-CPOPT-restart_growth_factor:
 
 
 Restart growth factor
@@ -22,5 +22,5 @@ The initial fail limit can be controlled with the option **Restart Failure Limit
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Search_-_Restart_failure_limit` 
+*	:ref:`option-CPOPT-restart_failure_limit` 
 *	:ref:`CPOPT_Search_-_Search_type` 

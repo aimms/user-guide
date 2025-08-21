@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Failure_directed_search_memory:
+.. _option-CPOPT-failure_directed_search_memory_limit:
 
 
 Failure directed search memory limit
@@ -29,7 +29,7 @@ Failure-directed search can sometimes consume a lot of memory, especially when e
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Search_-_Failure_directed_search` 
+*	:ref:`option-CPOPT-failure_directed_search` 
 
 
 

@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Number_of_search_points:
+.. _option-CPOPT-number_of_search_points:
 
 
 Number of search points

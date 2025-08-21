@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Search_Type:
+.. _option-CPOPT-search_type:
 
 
 Search type
@@ -64,12 +64,12 @@ The value 'Neighborhood' is new in CP Optimizer If this value is selected then a
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Search_-_Dynamic_probing` 
-*	:ref:`CPOPT_Search_-_Number_of_search_points` 
-*	:ref:`CPOPT_Parallel_-_Number_of_workers` 
-*	:ref:`CPOPT_Search_-_Restart_failure_limit` 
-*	:ref:`CPOPT_Search_-_Restart_growth_factor` 
-*	:ref:`CPOPT_General_-_Starting_point` 
+*	:ref:`option-CPOPT-dynamic_probing` 
+*	:ref:`option-CPOPT-number_of_search_points` 
+*	:ref:`option-CPOPT-number_of_workers` 
+*	:ref:`option-CPOPT-restart_failure_limit` 
+*	:ref:`option-CPOPT-restart_growth_factor` 
+*	:ref:`option-CPOPT-starting_point` 
 
 
 

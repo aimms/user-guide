@@ -1,4 +1,4 @@
-.. _CPOPT_General_-_Solution_storage_limit:
+.. _option-CPOPT-solution_storage_limit:
 
 
 Solution storage limit
@@ -59,4 +59,4 @@ The solution stored at position 1 (in the solution repository) is the final and 
 
 **Learn more about** 
 
-*	:ref:`CPOPT_General_-_Solution_limit` 
+*	:ref:`option-CPOPT-solution_limit` 

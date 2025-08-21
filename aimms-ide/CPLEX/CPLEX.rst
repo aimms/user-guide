@@ -94,8 +94,8 @@ CPLEX requires that your computer's CPU supports SSE2. SSE2 was first introduced
 **Learn more about** 
 
 *	`CPLEX <https://www.ibm.com/products/ilog-cplex-optimization-studio/>`_ (Internet link)
-*	:ref:`CPLEX_CPLEX_to_AIMMS_Mapping`  
-*	:ref:`CPLEX_AIMMS_to_CPLEX_Mapping`  
+*	:ref:`CPLEX_to_AIMMS_Mapping`  
+*	:ref:`AIMMS_to_CPLEX_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	:ref:`CPLEX_Benders_Decomposition` 
 *	:ref:`CPLEX_Threads_search_strat_and_callb` 

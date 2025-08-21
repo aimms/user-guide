@@ -1,4 +1,4 @@
-.. _CPOPT_Inference_-_Count_inference_level:
+.. _option-CPOPT-count_inference_level:
 
 
 Count inference level
@@ -31,4 +31,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Inference_-_Default_inference_level` 
+*	:ref:`option-CPOPT-default_inference_level` 

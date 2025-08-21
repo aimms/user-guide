@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Dynamic_probing:
+.. _option-CPOPT-dynamic_probing:
 
 
 Dynamic probing
@@ -31,5 +31,5 @@ The strength of probing can be defined by option **Dynamic Probing Strength** . 
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Search_-_Dynamic_probing_strength` 
+*	:ref:`option-CPOPT-dynamic_probing_strength` 
 *	:ref:`CPOPT_Search_-_Search_type` 

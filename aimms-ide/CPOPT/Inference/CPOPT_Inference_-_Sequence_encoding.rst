@@ -1,4 +1,4 @@
-.. _CPOPT_Inference_-_Sequence_encoding:
+.. _option-CPOPT-sequence_encoding:
 
 
 Sequence encoding
@@ -51,4 +51,4 @@ Encoding 'Partial sum' follows the encoding proposed by Sebastian Brand, Nina Na
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Logging_-_Mod_file` 
+*	:ref:`option-CPOPT-mod_file` 

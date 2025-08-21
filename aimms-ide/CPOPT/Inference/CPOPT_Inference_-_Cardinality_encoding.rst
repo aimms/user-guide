@@ -1,4 +1,4 @@
-.. _CPOPT_Inference_-_Cardinality_encoding:
+.. _option-CPOPT-cardinality_encoding:
 
 
 Cardinality encoding

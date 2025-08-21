@@ -1,4 +1,4 @@
-.. _CPOPT_Logging_-_Log_period:
+.. _option-CPOPT-log_period:
 
 
 Log period
@@ -25,4 +25,4 @@ The CP Optimizer search log includes information that is displayed periodically.
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Logging_-_Log_verbosity` 
+*	:ref:`option-CPOPT-log_verbosity` 

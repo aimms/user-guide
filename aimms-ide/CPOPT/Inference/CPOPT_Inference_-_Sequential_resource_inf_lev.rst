@@ -1,4 +1,4 @@
-.. _CPOPT_Inference_-_Sequential_resource_inf_lev:
+.. _option-CPOPT-sequential_resource_inference_level:
 
 
 Sequential resource inference level
@@ -31,4 +31,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Inference_-_Default_inference_level` 
+*	:ref:`option-CPOPT-default_inference_level` 

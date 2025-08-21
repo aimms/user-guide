@@ -1,4 +1,4 @@
-.. _CPOPT_Logging_-_Warning_level:
+.. _option-CPOPT-warning_level:
 
 
 Warning level

@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Random_seed:
+.. _option-CPOPT-random_seed:
 
 
 Random seed

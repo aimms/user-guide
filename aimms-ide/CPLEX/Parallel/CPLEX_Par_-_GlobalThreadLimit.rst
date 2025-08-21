@@ -36,7 +36,7 @@ In order to use parallel optimization in conjunction with a branch, candidate, c
 
 
 
-This option also determines the amount of threads used by the concurrent optimizer which can be switched on using the option **LP Method**  or **MIP Start Algorithm** . The concurrent optimizer is described in the section :ref:`option-CPLEX-parallel_concurrent_optimizer` .
+This option also determines the amount of threads used by the concurrent optimizer which can be switched on using the option **LP Method**  or **MIP Start Algorithm**. The concurrent optimizer is described in the section :ref:`CPLEX_Parallel_Concurrent_Optimizer`.
 
 
 
@@ -50,10 +50,10 @@ This option also determines the amount of threads used by the concurrent optimiz
 **Learn more about** 
 
 *	:ref:`option-CPLEX-auxiliary_root_threads` 
-*	:ref:`option-CPLEX-callback_procedures` 
+*	:ref:`CPLEX_Threads_search_strat_and_callb` 
 *	:ref:`option-CPLEX-lp_method` 
 *	:ref:`option-CPLEX-mip_start_algorithm` 
-*	:ref:`option-CPLEX-parallel_concurrent_optimizer` 
+*	:ref:`CPLEX_Parallel_Concurrent_Optimizer` 
 *	:ref:`option-CPLEX-parallel_mode` 
 *	:ref:`option-CPLEX-use_generic_callbacks` 
 

@@ -1,4 +1,4 @@
-.. _CPOPT_General_-_Starting_point:
+.. _option-CPOPT-starting_point:
 
 
 Starting point

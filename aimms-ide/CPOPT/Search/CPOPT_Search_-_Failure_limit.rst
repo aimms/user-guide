@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Failure_limit:
+.. _option-CPOPT-failure_limit:
 
 
 Failure limit

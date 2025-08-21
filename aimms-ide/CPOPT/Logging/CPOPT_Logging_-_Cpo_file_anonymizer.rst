@@ -1,4 +1,4 @@
-.. _CPOPT_Logging_-_Cpo_file_anonymizer:
+.. _option-CPOPT-cpo_file_anonymizer:
 
 
 Cpo file anonymizer
@@ -24,4 +24,4 @@ This option can be used to anonymize the names of variables and constraints in t
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Logging_-_Cpo_file` 
+*	:ref:`option-CPOPT-cpo_file` 

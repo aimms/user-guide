@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Restart_failure_limit:
+.. _option-CPOPT-restart_failure_limit:
 
 
 Restart failure limit

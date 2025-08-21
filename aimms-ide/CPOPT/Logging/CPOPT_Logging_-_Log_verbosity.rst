@@ -1,4 +1,4 @@
-.. _CPOPT_Logging_-_Log_verbosity:
+.. _option-CPOPT-log_verbosity:
 
 
 Log verbosity
@@ -32,4 +32,4 @@ The search log is printed in the status file which is named 'CP Optimizer 22.1.s
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Logging_-_Log_period` 
+*	:ref:`option-CPOPT-log_period` 

@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Variable_selection:
+.. _option-CPOPT-variable_selection:
 
 
 Variable selection
@@ -38,4 +38,4 @@ This option specifies the variable selection heuristic being used in a search st
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Search_-_Value_selection` 
+*	:ref:`option-CPOPT-value_selection` 

@@ -1,7 +1,6 @@
 
 
 .. _CPOPT_to_AIMMS_Mapping:
-.. _CP Optimizer_CPOPT_to_AIMMS_Mapping:
 
 
 CP Optimizer to AIMMS Mapping
@@ -16,66 +15,66 @@ The table shows in the left column the parameters from CP Optimizer that can be 
    * - **Name in CP Optimizer**
      - **Option name in AIMMS**
    * - AllDiffInferenceLevel
-     - :ref:`CPOPT_Inference_-_Alldiff_inference_level`
+     - :ref:`option-CPOPT-alldiff_inference_level`
    * - BranchLimit
-     - :ref:`CPOPT_Search_-_Branch_limit`
+     - :ref:`option-CPOPT-branch_limit`
    * - ChoicePointLimit
-     - :ref:`CPOPT_Search_-_Choice_point_limit`
+     - :ref:`option-CPOPT-choice_point_limit`
    * - CountInferenceLevel
-     - :ref:`CPOPT_Inference_-_Count_inference_level`
+     - :ref:`option-CPOPT-count_inference_level`
    * - CumulFunctionInferenceLevel
-     - :ref:`CPOPT_Inference_-_Parallel_resource_inf_lev`
+     - :ref:`option-CPOPT-parallel_resource_inference_level`
    * - DefaultInferenceLevel
-     - :ref:`CPOPT_Inference_-_Default_inference_level`
+     - :ref:`option-CPOPT-default_inference_level`
    * - DynamicProbing
-     - :ref:`CPOPT_Search_-_Dynamic_probing`
+     - :ref:`option-CPOPT-dynamic_probing`
    * - DynamicProbingStrength
-     - :ref:`CPOPT_Search_-_Dynamic_probing_strength`
+     - :ref:`option-CPOPT-dynamic_probing_strength`
    * - ElementInferenceLevel
-     - :ref:`CPOPT_Inference_-_Element_inference_level`
+     - :ref:`option-CPOPT-element_inference_level`
    * - FailureDirectedSearch
-     - :ref:`CPOPT_Search_-_Failure_directed_search`
+     - :ref:`option-CPOPT-failure_directed_search`
    * - FailureDirectedSearchEmphasis
-     - :ref:`CPOPT_Search_-_Failure_directed_search_emphas`
+     - :ref:`option-CPOPT-failure_directed_search_emphasis`
    * - FailureDirectedSearchMaxMemory
-     - :ref:`CPOPT_Search_-_Failure_directed_search_memory`
+     - :ref:`option-CPOPT-failure_directed_search_memory_limit`
    * - FailLimit
-     - :ref:`CPOPT_Search_-_Failure_limit`
+     - :ref:`option-CPOPT-failure_limit`
    * - LogPeriod
-     - :ref:`CPOPT_Logging_-_Log_period`
+     - :ref:`option-CPOPT-log_period`
    * - LogVerbosity
-     - :ref:`CPOPT_Logging_-_Log_verbosity`
+     - :ref:`option-CPOPT-log_verbosity`
    * - ModelAnonymizer
-     - :ref:`CPOPT_Logging_-_Cpo_file_anonymizer`
+     - :ref:`option-CPOPT-cpo_file_anonymizer`
    * - MultiPointNumberOfSearchPoints
-     - :ref:`CPOPT_Search_-_Number_of_search_points`
+     - :ref:`option-CPOPT-number_of_search_points`
    * - NoOverlapInferenceLevel
-     - :ref:`CPOPT_Inference_-_Sequential_resource_inf_lev`
+     - :ref:`option-CPOPT-sequential_resource_inference_level`
    * - OptimalityTolerance
-     - :ref:`CPOPT_General_-_Optimality_tolerance`
+     - :ref:`option-CPOPT-optimality_tolerance`
    * - PrecedenceInferenceLevel
-     - :ref:`CPOPT_Inference_-_Precedence_inference_level`
+     - :ref:`option-CPOPT-precedence_inference_level`
    * - Presolve
-     - :ref:`CPOPT_Preprocessing_-_Presolve`
+     - :ref:`option-CPOPT-presolve`
    * - RandomSeed
-     - :ref:`CPOPT_Search_-_Random_seed`
+     - :ref:`option-CPOPT-random_seed`
    * - RelativeOptimalityTolerance
-     - :ref:`CPOPT_General_-_Relative_optimality_tolerance`
+     - :ref:`option-CPOPT-relative_optimality_tolerance`
    * - RestartFailLimit
-     - :ref:`CPOPT_Search_-_Restart_failure_limit`
+     - :ref:`option-CPOPT-restart_failure_limit`
    * - RestartGrowthFactor
-     - :ref:`CPOPT_Search_-_Restart_growth_factor`
+     - :ref:`option-CPOPT-restart_growth_factor`
    * - SearchType
      - :ref:`CPOPT_Search_-_Search_type`
    * - SequenceInferenceLevel
-     - :ref:`CPOPT_Inference_-_Sequence_inference_level`
+     - :ref:`option-CPOPT-sequence_inference_level`
    * - SolutionLimit
-     - :ref:`CPOPT_General_-_Solution_limit`
+     - :ref:`option-CPOPT-solution_limit`
    * - TemporalRelaxation
-     - :ref:`CPOPT_General_-_Temporal_relaxation`
+     - :ref:`option-CPOPT-temporal_relaxation`
    * - TimeMode
-     - :ref:`CPOPT_General_-_Time_mode`
+     - :ref:`option-CPOPT-time_mode`
    * - WarningLevel
-     - :ref:`CPOPT_Logging_-_Warning_level`
+     - :ref:`option-CPOPT-warning_level`
    * - Workers
-     - :ref:`CPOPT_Parallel_-_Number_of_workers`
+     - :ref:`option-CPOPT-number_of_workers`

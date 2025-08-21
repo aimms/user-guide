@@ -1,4 +1,4 @@
-.. _CPOPT_Preprocessing_-_Preprocess_Cumulative:
+.. _option-CPOPT-preprocess_cumulative:
 
 
 Preprocess cumulative

@@ -1,4 +1,4 @@
-.. _CPOPT_Logging_-_Cpo_file:
+.. _option-CPOPT-cpo_file:
 
 
 Cpo file
@@ -31,4 +31,4 @@ This option can be used to generate a cpo file of the current model loaded. The 
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Logging_-_Cpo_file_anonymizer` 
+*	:ref:`option-CPOPT-cpo_file_anonymizer` 

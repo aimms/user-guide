@@ -1,4 +1,4 @@
-.. _CPOPT_General_-_Time_mode:
+.. _option-CPOPT-time_mode:
 
 
 Time mode
@@ -28,5 +28,5 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Parallel_-_Number_of_workers` 
+*	:ref:`option-CPOPT-number_of_workers` 
 *	:ref:`Options_Stop_Criteria_-_Time_Limit`  

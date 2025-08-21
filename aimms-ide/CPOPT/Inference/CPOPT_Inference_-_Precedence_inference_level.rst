@@ -1,4 +1,4 @@
-.. _CPOPT_Inference_-_Precedence_inference_level:
+.. _option-CPOPT-precedence_inference_level:
 
 
 Precedence inference level
@@ -31,4 +31,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Inference_-_Default_inference_level` 
+*	:ref:`option-CPOPT-default_inference_level` 

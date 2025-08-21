@@ -1,4 +1,4 @@
-.. _CPOPT_Preprocessing_-_Substitute_variables:
+.. _option-CPOPT-substitute_variables:
 
 
 Substitute variables

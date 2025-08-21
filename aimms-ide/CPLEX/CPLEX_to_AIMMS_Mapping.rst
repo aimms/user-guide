@@ -1,7 +1,6 @@
 
 
 .. _CPLEX_to_AIMMS_Mapping:
-.. _CPLEX_CPLEX_to_AIMMS_Mapping:
 
 
 CPLEX to AIMMS Mapping

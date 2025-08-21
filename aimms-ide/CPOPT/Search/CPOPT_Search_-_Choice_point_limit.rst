@@ -1,4 +1,4 @@
-.. _CPOPT_Search_-_Choice_point_limit:
+.. _option-CPOPT-choice_point_limit:
 
 
 Choice point limit
