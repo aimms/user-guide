@@ -1,4 +1,4 @@
-.. _PATH_Reporting_-_Output_Restart_Log:
+.. _option-PATH-output_restart_log:
 
 
 Output Restart Log
@@ -24,8 +24,8 @@ If the value of this option is set to 'Yes' (default) and the option **Create St
 
 **Learn more about** 
 
-*	:ref:`PATH_Reporting_-_CreateStatFile`  
-*	:ref:`PATH_Limits_-_Restart_Limit`  
+*	:ref:`option-PATH-create_status_file`  
+*	:ref:`option-PATH-restart_limit`  
 
 
 

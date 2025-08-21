@@ -1,4 +1,4 @@
-.. _PATH_Advanced_-_NMS_Number_of_W:
+.. _option-PATH-nms_number_of_watchdog_steps:
 
 
 NMS Number of Watchdog Steps
@@ -24,7 +24,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`PATH_Advanced_-_NMS`  
+*	:ref:`option-PATH-nms`  
 
 
 

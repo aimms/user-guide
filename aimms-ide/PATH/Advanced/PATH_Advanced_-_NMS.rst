@@ -1,4 +1,4 @@
-.. _PATH_Advanced_-_NMS:
+.. _option-PATH-nms:
 
 
 NMS

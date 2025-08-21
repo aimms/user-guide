@@ -1,4 +1,4 @@
-.. _PATH_Advanced_-_Max_Nr_of_Grad:
+.. _option-PATH-maximal_number_of_gradient_steps:
 
 
 Maximal Number of Gradient Steps
@@ -24,7 +24,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`PATH_Limits_-_Restart_Limit`  
+*	:ref:`option-PATH-restart_limit`  
 
 
 

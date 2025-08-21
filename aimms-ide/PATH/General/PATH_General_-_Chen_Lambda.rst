@@ -1,4 +1,4 @@
-.. _PATH_General_-_Chen_Lambda:
+.. _option-PATH-chen_lambda:
 
 
 Chen Lambda

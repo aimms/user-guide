@@ -1,4 +1,4 @@
-.. _PATH_Reporting_-_O_Minor_Iter_f:
+.. _option-PATH-output_minor_iterations_frequency:
 
 
 Output Minor Iterations Frequency
@@ -18,8 +18,8 @@ This option controls the frequency of the minor iteration logging to the PATH st
 
 **Learn more about** 
 
-*	:ref:`PATH_Reporting_-_CreateStatFile`  
-*	:ref:`PATH_Reporting_-_O_Minor_Itera`  
+*	:ref:`option-PATH-create_status_file`  
+*	:ref:`option-PATH-output_minor_iterations`  
 
 
 

@@ -100,8 +100,8 @@ PATH is equipped with parameters that influence its performance. AIMMS is equipp
 
 **Learn more about** 
 
-*	:ref:`PATH_Path_to_AIMMS_Mapping`  
-*	:ref:`PATH_AIMMS_to_Path_Mapping`  
+*	:ref:`Path_to_AIMMS_Mapping`  
+*	:ref:`AIMMS_to_Path_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	:ref:`Complementarity Variable <sec:compl.variable>`  
 

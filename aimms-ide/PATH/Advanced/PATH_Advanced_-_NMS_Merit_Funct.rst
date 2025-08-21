@@ -1,4 +1,4 @@
-.. _PATH_Advanced_-_NMS_Merit_Funct:
+.. _option-PATH-nms_merit_function_values_storage:
 
 
 NMS Merit Function Values Storage
@@ -24,7 +24,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`PATH_Advanced_-_NMS`  
+*	:ref:`option-PATH-nms`  
 
 
 

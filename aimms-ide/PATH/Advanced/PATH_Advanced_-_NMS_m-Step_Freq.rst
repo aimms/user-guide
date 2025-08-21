@@ -1,4 +1,4 @@
-.. _PATH_Advanced_-_NMS_m-Step_Freq:
+.. _option-PATH-nms_m-step_frequency:
 
 
 NMS m-Step Frequency
@@ -24,7 +24,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`PATH_Advanced_-_NMS`  
+*	:ref:`option-PATH-nms`  
 
 
 

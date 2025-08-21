@@ -1,4 +1,4 @@
-.. _PATH_Reporting_-_Output_Preproc:
+.. _option-PATH-output_preprocess:
 
 
 Output Preprocess
@@ -18,7 +18,7 @@ This option controls the level of preprocessing information written to the PATH 
 
 **Learn more about** 
 
-*	:ref:`PATH_Reporting_-_CreateStatFile`  
+*	:ref:`option-PATH-create_status_file`  
 
 
 

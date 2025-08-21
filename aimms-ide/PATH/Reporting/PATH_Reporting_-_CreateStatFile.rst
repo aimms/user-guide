@@ -1,4 +1,4 @@
-.. _PATH_Reporting_-_CreateStatFile:
+.. _option-PATH-create_status_file:
 
 
 Create Status File

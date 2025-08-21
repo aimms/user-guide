@@ -1,4 +1,4 @@
-.. _PATH_Limits_-_Restart_Limit:
+.. _option-PATH-restart_limit:
 
 
 Restart Limit
@@ -78,15 +78,15 @@ This option sets the maximal number of restarts that PATH should make if it coul
 
 **Learn more about** 
 
-*	:ref:`PATH_Advanced_-_Gradient_Search`  
-*	:ref:`PATH_Advanced_-_Initial_Perturb`  
-*	:ref:`PATH_Advanced_-_NMS_m-Step_Freq`  
-*	:ref:`PATH_Advanced_-_NMS_Initial_Ref`  
-*	:ref:`PATH_Advanced_-_NMS_Merit_Funct`  
-*	:ref:`PATH_Advanced_-_NMS_Search_Type`  
-*	:ref:`PATH_Crash_-_Crash_Method`  
-*	:ref:`PATH_Crash_-_Crash_Method_S_Typ`  
-*	:ref:`PATH_Crash_-_Max_Nr_Basis_Chang`  
+*	:ref:`option-PATH-gradient_search_type`  
+*	:ref:`option-PATH-initial_perturbation`  
+*	:ref:`option-PATH-nms_m-step_frequency`  
+*	:ref:`option-PATH-nms_initial_reference_factor`  
+*	:ref:`option-PATH-nms_merit_function_values_storage`  
+*	:ref:`option-PATH-nms_search_type`  
+*	:ref:`option-PATH-crash_method`  
+*	:ref:`option-PATH-crash_method_search_type`  
+*	:ref:`option-PATH-maximal_number_of_basis_changes`  
 
 
 

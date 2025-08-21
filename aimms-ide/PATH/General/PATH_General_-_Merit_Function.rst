@@ -1,4 +1,4 @@
-.. _PATH_General_-_Merit_Function:
+.. _option-PATH-merit_function:
 
 
 Merit Function

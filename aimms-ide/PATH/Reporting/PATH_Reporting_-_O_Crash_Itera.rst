@@ -1,4 +1,4 @@
-.. _PATH_Reporting_-_O_Crash_Itera:
+.. _option-PATH-output_crash_iterations:
 
 
 Output Crash Iterations
@@ -24,8 +24,8 @@ If the value of this option is set to 'Yes' (default) and the option **Create St
 
 **Learn more about** 
 
-*	:ref:`PATH_Reporting_-_CreateStatFile`  
-*	:ref:`PATH_Reporting_-_O_Crash_Iter_f`  
+*	:ref:`option-PATH-create_status_file`  
+*	:ref:`option-PATH-output_crash_iterations_frequency`  
 
 
 

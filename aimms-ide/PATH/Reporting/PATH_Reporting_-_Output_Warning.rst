@@ -1,4 +1,4 @@
-.. _PATH_Reporting_-_Output_Warning:
+.. _option-PATH-output_warnings:
 
 
 Output Warnings
@@ -24,7 +24,7 @@ If the value of this option is set to 'Yes' and the option **Create Status File*
 
 **Learn more about** 
 
-*	:ref:`PATH_Reporting_-_CreateStatFile`  
+*	:ref:`option-PATH-create_status_file`  
 
 
 

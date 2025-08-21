@@ -1,4 +1,4 @@
-.. _PATH_Limits_-_Minor_Itera_Limit:
+.. _option-PATH-minor_iteration_limit:
 
 
 Minor Iteration Limit

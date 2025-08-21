@@ -1,4 +1,4 @@
-.. _PATH_Reporting_-_Output_Linear_Mode:
+.. _option-PATH-output_linear_model:
 
 
 Output Linear Model
@@ -24,7 +24,7 @@ If the value of this option is set to 'Yes' and the option **Create Status File*
 
 **Learn more about** 
 
-*	:ref:`PATH_Reporting_-_CreateStatFile`  
+*	:ref:`option-PATH-create_status_file`  
 
 
 

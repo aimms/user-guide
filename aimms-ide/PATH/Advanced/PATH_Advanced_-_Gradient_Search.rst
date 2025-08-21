@@ -1,4 +1,4 @@
-.. _PATH_Advanced_-_Gradient_Search:
+.. _option-PATH-gradient_search_type:
 
 
 Gradient Search Type

@@ -1,4 +1,4 @@
-.. _PATH_Advanced_-_Lemke_Rank_Def:
+.. _option-PATH-lemke_rank_deficiency_attempts:
 
 
 Lemke Rank Deficiency Attempts
@@ -24,5 +24,5 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`PATH_Advanced_-_Frequency_Lemke`  
-*	:ref:`PATH_Advanced_-_Lemke_Start_Typ`  
+*	:ref:`option-PATH-frequency_of_lemke_starts`  
+*	:ref:`option-PATH-lemke_start_type`  

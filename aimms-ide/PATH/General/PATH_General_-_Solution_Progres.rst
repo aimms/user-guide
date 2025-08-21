@@ -1,4 +1,4 @@
-.. _PATH_General_-_Solution_Progres:
+.. _option-PATH-solution_progress:
 
 
 Solution Progress

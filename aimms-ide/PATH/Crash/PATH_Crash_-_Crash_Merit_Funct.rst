@@ -1,4 +1,4 @@
-.. _PATH_Crash_-_Crash_Merit_Funct:
+.. _option-PATH-crash_merit_function:
 
 
 Crash Merit Function
@@ -25,8 +25,8 @@ This option determines which merit function is chosen by PATH in the crash phase
 
 **Learn more about** 
 
-*	:ref:`PATH_General_-_Merit_Function`  
-*	:ref:`PATH_Crash_-_Crash_Method`  
+*	:ref:`option-PATH-merit_function`  
+*	:ref:`option-PATH-crash_method`  
 
 
 

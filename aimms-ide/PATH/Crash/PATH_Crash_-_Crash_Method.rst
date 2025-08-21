@@ -1,4 +1,4 @@
-.. _PATH_Crash_-_Crash_Method:
+.. _option-PATH-crash_method:
 
 
 Crash Method

@@ -1,4 +1,4 @@
-.. _PATH_Limits_-_Major_Iter_Limit:
+.. _option-PATH-major_iteration_limit:
 
 
 Major Iteration Limit

@@ -1,4 +1,4 @@
-.. _PATH_Crash_-_Minimal_Prob_Dimen:
+.. _option-PATH-minimal_problem_dimension:
 
 
 Minimal Problem Dimension
@@ -18,7 +18,7 @@ If the dimension of the problem is smaller than the value of this option, PATH d
 
 **Learn more about** 
 
-*	:ref:`PATH_Crash_-_Crash_Method`  
+*	:ref:`option-PATH-crash_method`  
 
 
 

@@ -1,4 +1,4 @@
-.. _PATH_Crash_-_Max_Nr_Basis_Chang:
+.. _option-PATH-maximal_number_of_basis_changes:
 
 
 Maximal Number of Basis Changes
@@ -24,7 +24,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`PATH_Crash_-_Crash_Method`  
+*	:ref:`option-PATH-crash_method`  
 
 
 

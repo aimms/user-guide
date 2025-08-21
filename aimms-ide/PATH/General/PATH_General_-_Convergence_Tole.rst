@@ -1,4 +1,4 @@
-.. _PATH_General_-_Convergence_Tole:
+.. _option-PATH-convergence_tolerance:
 
 
 Convergence Tolerance
@@ -18,7 +18,7 @@ The solve is stopped if the value of the merit function is below the value of th
 
 **Learn more about** 
 
-*	:ref:`PATH_General_-_Merit_Function`  
+*	:ref:`option-PATH-merit_function`  
 
 
 

@@ -1,4 +1,4 @@
-.. _PATH_Crash_-_Crash_Method_S_Typ:
+.. _option-PATH-crash_method_search_type:
 
 
 Crash Method Search Type
@@ -33,7 +33,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`PATH_Crash_-_Crash_Method`  
+*	:ref:`option-PATH-crash_method`  
 
 
 

@@ -1,4 +1,4 @@
-.. _PATH_Crash_-_Crash_Iterat_Limit:
+.. _option-PATH-crash_iteration_limit:
 
 
 Crash Iteration Limit
@@ -18,7 +18,7 @@ This option sets the maximal number of iterations allowed in the crash phase. Th
 
 **Learn more about** 
 
-*	:ref:`PATH_Crash_-_Crash_Method`  
+*	:ref:`option-PATH-crash_method`  
 
 
 

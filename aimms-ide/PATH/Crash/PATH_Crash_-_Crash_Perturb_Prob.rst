@@ -1,4 +1,4 @@
-.. _PATH_Crash_-_Crash_Perturb_Prob:
+.. _option-PATH-crash_perturb_problem:
 
 
 Crash Perturb Problem
@@ -33,7 +33,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`PATH_Crash_-_Crash_Method`  
+*	:ref:`option-PATH-crash_method`  
 
 
 

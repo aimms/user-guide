@@ -1,4 +1,4 @@
-.. _PATH_Advanced_-_NMS_Search_Type:
+.. _option-PATH-nms_search_type:
 
 
 NMS Search Type
@@ -33,7 +33,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`PATH_Advanced_-_NMS`  
+*	:ref:`option-PATH-nms`  
 
 
 

@@ -1,4 +1,4 @@
-.. _PATH_Advanced_-_NMS_Initial_Ref:
+.. _option-PATH-nms_initial_reference_factor:
 
 
 NMS Initial Reference Factor
@@ -24,7 +24,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`PATH_Advanced_-_NMS`  
+*	:ref:`option-PATH-nms`  
 
 
 
