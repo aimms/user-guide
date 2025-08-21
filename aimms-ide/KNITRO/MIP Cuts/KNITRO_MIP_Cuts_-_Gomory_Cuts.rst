@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_Cuts_-_Gomory_Cuts:
+.. _option-KNITRO-gomory_cuts:
 
 
 Gomory Cuts

@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_Strong_Branch_Candidates_Limit:
+.. _option-KNITRO-strong_branching_candidates_limit:
 
 
 Strong Branching Candidates Limit
@@ -18,6 +18,6 @@ This option specifies the maximum number of candidates to explore for MIP strong
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MIP_-_MIP_Branching_Rule`  
-*	:ref:`KNITRO_MIP_-_Strong_Branch_Iter_Limit`  
-*	:ref:`KNITRO_MIP_-_Strong_Branching_Level`  
+*	:ref:`option-KNITRO-mip_branching_rule`  
+*	:ref:`option-KNITRO-strong_branching_iteration_limit`  
+*	:ref:`option-KNITRO-strong_branching_level`  

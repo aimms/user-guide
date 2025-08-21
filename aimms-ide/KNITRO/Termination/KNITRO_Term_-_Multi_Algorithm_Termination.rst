@@ -1,4 +1,4 @@
-.. _KNITRO_Term_-_Multi_Algorithm_Termination:
+.. _option-KNITRO-multi_algorithm_termination:
 
 
 Multi Algorithm Termination
@@ -32,4 +32,4 @@ This option is only active if the option **Algorithm**  is set to 'Multi-algorit
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
+*	:ref:`option-KNITRO-algorithm` 

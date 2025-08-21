@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Warm_Start_Strategy:
+.. _option-KNITRO-warm_start_strategy:
 
 
 Warm Start Strategy
@@ -42,5 +42,5 @@ This option is currently only used for the Knitro barrier/interior-point algorit
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
-*	:ref:`KNITRO_IP_-_InitBarParValue` 
+*	:ref:`option-KNITRO-algorithm` 
+*	:ref:`option-KNITRO-initial_barrier_parameter_value` 

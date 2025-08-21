@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Feas_mode_act_tol:
+.. _option-KNITRO-feasible_mode_activation_tolerance:
 
 
 Feasible Mode Activation Tolerance
@@ -33,7 +33,7 @@ by which the iterate must be feasible with respect to the inequality constraints
 
 **Learn more about** 
 
-*	:ref:`KNITRO_IP_-_Feasible_mode`  
+*	:ref:`option-KNITRO-feasible_mode`  
 
 
 

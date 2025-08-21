@@ -1,4 +1,4 @@
-.. _KNITRO_Reporting_-_StatusFileDi:
+.. _option-KNITRO-status_file_display:
 
 
 Status File Display

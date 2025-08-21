@@ -1,4 +1,4 @@
-.. _KNITRO_Presolve_-_Presolve_Passes:
+.. _option-KNITRO-presolve_passes:
 
 
 Presolve Passes
@@ -18,4 +18,4 @@ This option sets a maximum limit on the number of passes through the Knitro pres
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Presolve_-_Presolve`  
+*	:ref:`option-KNITRO-presolve`  

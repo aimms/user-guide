@@ -1,4 +1,4 @@
-.. _KNITRO_Tuner_-_Tuner_Output:
+.. _option-KNITRO-tuner_output:
 
 
 Tuner Output
@@ -50,5 +50,5 @@ This option only has effect if the option **Tuner**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Reporting_-_StatusFileDi`  
-*	:ref:`KNITRO_Tuner_-_Tuner`  
+*	:ref:`option-KNITRO-status_file_display`  
+*	:ref:`option-KNITRO-tuner`  

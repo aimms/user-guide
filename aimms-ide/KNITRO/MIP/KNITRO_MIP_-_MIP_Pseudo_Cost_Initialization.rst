@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Pseudo_Cost_Initialization:
+.. _option-KNITRO-mip_pseudo_cost_initialization:
 
 
 MIP Pseudo Cost Initialization

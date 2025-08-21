@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Integer_Variables_Strategy:
+.. _option-KNITRO-mip_integer_variables_strategy:
 
 
 MIP Integer Variables Strategy

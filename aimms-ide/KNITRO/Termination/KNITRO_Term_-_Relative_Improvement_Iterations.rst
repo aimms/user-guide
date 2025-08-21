@@ -1,4 +1,4 @@
-.. _KNITRO_Term_-_Relative_Improvement_Iterations:
+.. _option-KNITRO-relative_improvement_iterations:
 
 
 Relative Improvement Iterations
@@ -18,4 +18,4 @@ The optimization process will terminate if the relative change in the objective 
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Term_-_Relative_Improvement_Tolerance`  
+*	:ref:`option-KNITRO-relative_improvement_tolerance`  

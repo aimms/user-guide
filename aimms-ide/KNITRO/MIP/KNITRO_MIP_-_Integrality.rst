@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_Integrality:
+.. _option-KNITRO-integrality:
 
 
 Integrality

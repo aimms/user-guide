@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_Solution_Progress_Iterations:
+.. _option-KNITRO-solution_progress_iterations:
 
 
 Solution Progress Iterations
@@ -22,5 +22,5 @@ If set to 0, Knitro chooses this value based on the solver and context. Currentl
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MIP_-_MIP_Method` 
-*	:ref:`KNITRO_Advanced_-_SolutionProgressTol` 
+*	:ref:`option-KNITRO-mip_method` 
+*	:ref:`option-KNITRO-solution_progress_tolerance` 

@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Implications:
+.. _option-KNITRO-mip_implications:
 
 
 MIP Implications

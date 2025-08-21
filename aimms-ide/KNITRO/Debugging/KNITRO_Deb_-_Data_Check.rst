@@ -1,4 +1,4 @@
-.. _KNITRO_Deb_-_Data_Check:
+.. _option-KNITRO-data_check:
 
 
 Data Check

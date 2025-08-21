@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_LP_Presolve:
+.. _option-KNITRO-lp_presolve:
 
 
 LP Presolve

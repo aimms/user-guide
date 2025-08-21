@@ -1,4 +1,4 @@
-.. _KNITRO_MS_-_MS_Single_Solve_Tim:
+.. _option-KNITRO-multistart_single_solve_time_limit:
 
 
 Multistart Single Solve Time Limit
@@ -18,7 +18,7 @@ This option specifies, in seconds, the maximal allowable CPU time used by a sing
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MS_-_Multistart`  
+*	:ref:`option-KNITRO-multistart`  
 
 
 

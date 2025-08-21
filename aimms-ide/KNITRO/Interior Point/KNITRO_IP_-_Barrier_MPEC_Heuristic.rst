@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Barrier_MPEC_Heuristic:
+.. _option-KNITRO-barrier_mpec_heuristic:
 
 
 Barrier MPEC Heuristic
@@ -30,8 +30,8 @@ In some cases enabling this heuristic can speedup the convergence to the solutio
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
-*	:ref:`KNITRO_Complementarities` 
+*	:ref:`option-KNITRO-algorithm` 
+*	:ref:`option-KNITRO-complementarities` 
 
 
 

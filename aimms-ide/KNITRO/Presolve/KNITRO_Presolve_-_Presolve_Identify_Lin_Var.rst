@@ -1,4 +1,4 @@
-.. _KNITRO_Presolve_-_Presolve_Identify_Lin_Var:
+.. _option-KNITRO-presolve_identify_linear_variables:
 
 
 Presolve Identify Linear Variables
@@ -24,4 +24,4 @@ This option determines whether or not Knitro should try to identify linear varia
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Presolve_-_Presolve`  
+*	:ref:`option-KNITRO-presolve`  

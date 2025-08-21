@@ -1,4 +1,4 @@
-.. _KNITRO_Tuner_-_Tuner_Time_Limit:
+.. _option-KNITRO-tuner_time_limit:
 
 
 Tuner Time Limit
@@ -23,4 +23,4 @@ This option only has effect if the option **Tuner**  is switched on.
 **Learn more about** 
 
 *	:ref:`Options_Stop_Criteria_-_Time_Limit`  
-*	:ref:`KNITRO_Tuner_-_Tuner`  
+*	:ref:`option-KNITRO-tuner`  

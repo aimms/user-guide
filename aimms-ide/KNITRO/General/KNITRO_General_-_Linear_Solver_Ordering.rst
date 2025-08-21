@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Linear_Solver_Ordering:
+.. _option-KNITRO-linear_solver_ordering:
 
 
 Linear Solver Ordering
@@ -50,4 +50,4 @@ With the setting 'METIS', use METIS ordering.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Linear_Solver` 
+*	:ref:`option-KNITRO-linear_solver` 

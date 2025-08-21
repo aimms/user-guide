@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Act_QPpenalty:
+.. _option-KNITRO-act_qppenalty:
 
 
 Act QPpenalty

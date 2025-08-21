@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Barrier_Corrector_Steps_Limit:
+.. _option-KNITRO-barrier_corrector_steps_limit:
 
 
 Barrier Corrector Steps Limit
@@ -26,7 +26,7 @@ This option has no effect on the Active Set and SQP algorithms.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
+*	:ref:`option-KNITRO-algorithm` 
 
 
 

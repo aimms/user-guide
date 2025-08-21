@@ -1,4 +1,4 @@
-.. _KNITRO_Hessian_-_Limited_Memory_Size:
+.. _option-KNITRO-limited_memory_size:
 
 
 Limited Memory Size
@@ -22,4 +22,4 @@ Larger values may give a more accurate, but more expensive, Hessian approximatio
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Hessian_-_Hes_Comp_Meth` 
+*	:ref:`option-KNITRO-hessian_computation_method` 

@@ -1,4 +1,4 @@
-.. _KNITRO_Presolve_-_Presolve_Initial_Point_Shift:
+.. _option-KNITRO-presolve_initial_point:
 
 
 Presolve Initial Point 

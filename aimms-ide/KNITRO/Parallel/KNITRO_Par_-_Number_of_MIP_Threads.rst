@@ -1,4 +1,4 @@
-.. _KNITRO_Par_-_Number_of_MIP_Threads:
+.. _option-KNITRO-number_of_mip_threads:
 
 
 Number of MIP Threads
@@ -22,4 +22,4 @@ This option is effective when the option **MIP Method**  is set to 'Branch_and_b
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MIP_-_MIP_Method`  
+*	:ref:`option-KNITRO-mip_method`  

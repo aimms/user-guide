@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_Initial_pivot:
+.. _option-KNITRO-initial_pivot_treshold:
 
 
 Initial Pivot Treshold

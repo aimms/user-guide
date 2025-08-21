@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Heuristic_Terminate:
+.. _option-KNITRO-mip_heuristic_terminate:
 
 
 MIP Heuristic Terminate

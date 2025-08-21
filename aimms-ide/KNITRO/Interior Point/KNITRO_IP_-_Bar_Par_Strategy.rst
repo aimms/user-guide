@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Bar_Par_Strategy:
+.. _option-KNITRO-barrier_parameter_strategy:
 
 
 Barrier Parameter Strategy
@@ -47,7 +47,7 @@ This option has no effect on the Active Set and SQP algorithms.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
+*	:ref:`option-KNITRO-algorithm` 
 
 
 

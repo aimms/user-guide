@@ -73,14 +73,14 @@ The procedure :any:`GMP::SolverSession::AsynchronousExecute` should be used to s
 **Learn more about** 
 
 *	`Knitro <https://www.artelys.com/solvers/knitro/>`_ (Internet link)
-*	:ref:`KNITRO_KNITRO_to_AIMMS_Mapping` 
-*	:ref:`KNITRO_AIMMS_to_KNITRO_Mapping`  
-*	:ref:`KNITRO_Description_KNITRO_Algorithms` 
+*	:ref:`KNITRO_to_AIMMS_Mapping` 
+*	:ref:`AIMMS_to_KNITRO_Mapping`  
+*	:ref:`Description_KNITRO_Algorithms` 
 *	:ref:`KNITRO_Complementarities` 
 *	:ref:`KNITRO_Tuner` 
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	:ref:`Options_Stop_Criteria_-_Iteration_Limi`  
-*	:ref:`KNITRO_MS_-_Multistart`  
+*	:ref:`option-KNITRO-multistart`  
 *	:ref:`Options_NonlinPres_-_NonlinearPresolve` 
-*	:ref:`KNITRO_Presolve_-_Presolve`  
+*	:ref:`option-KNITRO-presolve`  
 *	:ref:`Options_Stop_Criteria_-_Time_Limit`  

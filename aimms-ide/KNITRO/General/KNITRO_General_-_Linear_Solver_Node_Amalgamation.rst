@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Linear_Solver_Node_Amalgamation:
+.. _option-KNITRO-linear_solver_node_amalgamation:
 
 
 Linear Solver Node Amalgamation
@@ -18,4 +18,4 @@ This option controls the node amalgamation for the 'MA57', 'MA86' and 'MA97' **L
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Linear_Solver` 
+*	:ref:`option-KNITRO-linear_solver` 

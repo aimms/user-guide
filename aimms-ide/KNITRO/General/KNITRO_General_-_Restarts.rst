@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Restarts:
+.. _option-KNITRO-restarts:
 
 
 Restarts

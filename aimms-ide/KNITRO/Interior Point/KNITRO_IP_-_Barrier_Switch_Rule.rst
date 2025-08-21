@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Barrier_Switch_Rule:
+.. _option-KNITRO-barrier_switch_rule:
 
 
 Barrier Switch Rule
@@ -38,4 +38,4 @@ This option has no effect on the Active Set and SQP algorithms.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
+*	:ref:`option-KNITRO-algorithm` 

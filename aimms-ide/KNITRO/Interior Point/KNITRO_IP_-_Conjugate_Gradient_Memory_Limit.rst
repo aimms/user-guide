@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Conjugate_Gradient_Memory_Limit:
+.. _option-KNITRO-conjugate_gradient_memory_limit:
 
 
 Conjugate Gradient Memory Limit
@@ -22,4 +22,4 @@ n:	At most n nonzero elements per column.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_IP_-_Conjugate_Gradient_Preconditio`  
+*	:ref:`option-KNITRO-conjugate_gradient_preconditioner`  

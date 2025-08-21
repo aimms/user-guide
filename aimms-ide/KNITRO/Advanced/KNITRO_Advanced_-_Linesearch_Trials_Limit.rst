@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_Linesearch_Trials_Limit:
+.. _option-KNITRO-linesearch_trials_limit:
 
 
 Linesearch Trials Limit
@@ -22,4 +22,4 @@ This option has no effect on the Interior-CG or Active-Set algorithm.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Advanced_-_Linesearch_Strategy`  
+*	:ref:`option-KNITRO-linesearch_strategy`  

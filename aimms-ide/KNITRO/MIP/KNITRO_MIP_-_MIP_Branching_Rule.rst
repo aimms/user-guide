@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Branching_Rule:
+.. _option-KNITRO-mip_branching_rule:
 
 
 MIP Branching Rule
@@ -38,6 +38,6 @@ In case of strong branching, the options **Strong Branching Candidates Limit** ,
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MIP_-_Strong_Branch_Candidates_Limit`  
-*	:ref:`KNITRO_MIP_-_Strong_Branch_Iter_Limit`  
-*	:ref:`KNITRO_MIP_-_Strong_Branching_Level`  
+*	:ref:`option-KNITRO-strong_branching_candidates_limit`  
+*	:ref:`option-KNITRO-strong_branching_iteration_limit`  
+*	:ref:`option-KNITRO-strong_branching_level`  

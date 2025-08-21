@@ -1,4 +1,4 @@
-.. _KNITRO_Par_-_Number_of_Multistart_Threads:
+.. _option-KNITRO-number_of_multistart_threads:
 
 
 Number of Multistart Threads
@@ -22,7 +22,7 @@ When the multistart procedure is run in parallel, Knitro will produce the same s
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MS_-_Multistart`  
-*	:ref:`KNITRO_MS_-_Multistart_Deterministic`  
-*	:ref:`KNITRO_MS_-_MS_Termination_Conditi`  
-*	:ref:`KNITRO_Par_-_Number_of_Threads`  
+*	:ref:`option-KNITRO-multistart`  
+*	:ref:`option-KNITRO-multistart_deterministic`  
+*	:ref:`option-KNITRO-multistart_termination_condition`  
+*	:ref:`option-KNITRO-number_of_threads`  

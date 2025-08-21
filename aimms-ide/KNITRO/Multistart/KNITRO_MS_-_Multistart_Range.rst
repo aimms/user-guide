@@ -1,4 +1,4 @@
-.. _KNITRO_MS_-_Multistart_Range:
+.. _option-KNITRO-multistart_range:
 
 
 Multistart Range
@@ -32,5 +32,5 @@ This option has only effect if the option **Multistart**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MS_-_Multistart`  
-*	:ref:`KNITRO_MS_-_Multistart_Range_Unbounded_Var`  
+*	:ref:`option-KNITRO-multistart`  
+*	:ref:`option-KNITRO-multistart_range_unbounded_variable`  

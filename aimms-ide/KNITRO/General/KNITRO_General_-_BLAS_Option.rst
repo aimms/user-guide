@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_BLAS_Option:
+.. _option-KNITRO-blas_option:
 
 
 BLAS Option
@@ -39,4 +39,4 @@ BLAS (Basic Linear Algebra Subroutines) and LAPACK (Linear Algebra PACKage) func
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Par_-_Number_of_BLAS_threads` 
+*	:ref:`option-KNITRO-number_of_blas_threads` 

@@ -1,4 +1,4 @@
-.. _KNITRO_Term_-_AbsOptTol:
+.. _option-KNITRO-absolute_optimality_tolerance:
 
 
 Absolute Optimality Tolerance
@@ -22,4 +22,4 @@ The feasibility error is defined as the maximum violation among all constraints.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Term_-_RelOptTol`  
+*	:ref:`option-KNITRO-relative_optimality_tolerance`  

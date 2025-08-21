@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Linear_Solver_Out_of_Core:
+.. _option-KNITRO-linear_solver_out_of_core:
 
 
 Linear Solver Out of Core
@@ -31,4 +31,4 @@ With setting 'Automatic' Knitro bases the decision to solve out-of-core dependin
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Linear_Solver` 
+*	:ref:`option-KNITRO-linear_solver` 

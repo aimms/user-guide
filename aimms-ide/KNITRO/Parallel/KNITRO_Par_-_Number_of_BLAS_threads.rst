@@ -1,4 +1,4 @@
-.. _KNITRO_Par_-_Number_of_BLAS_threads:
+.. _option-KNITRO-number_of_blas_threads:
 
 
 Number of BLAS Threads
@@ -25,5 +25,5 @@ This option specifies the number of threads to use for parallel BLAS. The BLAS f
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_BLAS_Option` 
-*	:ref:`KNITRO_Par_-_Number_of_Lin_Sys_Threads` 
+*	:ref:`option-KNITRO-blas_option` 
+*	:ref:`option-KNITRO-number_of_linear_system_threads` 

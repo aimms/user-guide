@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Heuristic_Iteration_Limit:
+.. _option-KNITRO-mip_heuristic_iteration_limit:
 
 
 MIP Heuristic Iteration Limit
@@ -18,4 +18,4 @@ This option specifies the maximum number of iterations to allow for the MIP heur
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MIP_-_MIP_Heuristic`  
+*	:ref:`option-KNITRO-mip_heuristic`  

@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Initial_Barrier_Penalty_Value:
+.. _option-KNITRO-initial_barrier_penalty_value_mpec:
 
 
 Initial Barrier Penalty Value MPEC

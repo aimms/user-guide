@@ -1,4 +1,4 @@
-.. _KNITRO_Par_-_Number_of_Lin_Sys_Threads:
+.. _option-KNITRO-number_of_linear_system_threads:
 
 
 Number of Linear System Threads
@@ -29,5 +29,5 @@ This option only has effect if the option **Linear Solver**  is set to 'MKL PARD
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Linear_Solver`  
-*	:ref:`KNITRO_Par_-_Number_of_BLAS_threads` 
+*	:ref:`option-KNITRO-linear_solver`  
+*	:ref:`option-KNITRO-number_of_blas_threads` 

@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_Node_Algorithm:
+.. _option-KNITRO-node_algorithm:
 
 
 Node Algorithm
@@ -34,7 +34,7 @@ See the option **Algorithm**  for more information about the algorithms.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm`  
+*	:ref:`option-KNITRO-algorithm`  
 
 
 

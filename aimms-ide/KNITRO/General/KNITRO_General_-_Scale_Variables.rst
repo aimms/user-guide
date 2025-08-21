@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Scale_Variables:
+.. _option-KNITRO-scale_variables:
 
 
 Scale Variables
@@ -24,4 +24,4 @@ This option determines the strategy that Knitro applies for scaling variables. I
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Scaling` 
+*	:ref:`option-KNITRO-scaling` 

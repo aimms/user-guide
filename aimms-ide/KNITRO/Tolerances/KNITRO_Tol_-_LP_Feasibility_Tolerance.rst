@@ -1,4 +1,4 @@
-.. _KNITRO_Tol_-_LP_Feasibility_Tolerance:
+.. _option-KNITRO-lp_feasibility_tolerance:
 
 
 LP Feasibility Tolerance
@@ -18,4 +18,4 @@ This option specifies the feasibility tolerance used for linear programming subp
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
+*	:ref:`option-KNITRO-algorithm` 

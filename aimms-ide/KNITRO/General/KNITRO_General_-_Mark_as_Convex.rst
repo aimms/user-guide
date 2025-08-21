@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Mark_as_Convex:
+.. _option-KNITRO-mark_as_convex:
 
 
 Mark as Convex

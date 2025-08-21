@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Objective_Cutoff_Value:
+.. _option-KNITRO-mip_objective_cutoff_value:
 
 
 MIP Objective Cutoff Value

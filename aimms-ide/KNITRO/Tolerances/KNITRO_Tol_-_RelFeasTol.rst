@@ -1,4 +1,4 @@
-.. _KNITRO_Tol_-_RelFeasTol:
+.. _option-KNITRO-relative_feasibility_tolerance:
 
 
 Relative Feasibility Tolerance
@@ -30,4 +30,4 @@ where (x0,y0) represents the initial point, g the constraint functions, and L an
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Tol_-_AbsFeasTol`  
+*	:ref:`option-KNITRO-absolute_feasibility_tolerance`  

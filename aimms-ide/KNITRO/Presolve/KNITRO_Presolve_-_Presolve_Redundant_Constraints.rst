@@ -1,4 +1,4 @@
-.. _KNITRO_Presolve_-_Presolve_Redundant_Constraints:
+.. _option-KNITRO-presolve_redundant_constraints:
 
 
 Presolve Redundant Constraints

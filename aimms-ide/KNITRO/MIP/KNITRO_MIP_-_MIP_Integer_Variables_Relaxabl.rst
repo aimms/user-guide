@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Integer_Variables_Relaxabl:
+.. _option-KNITRO-mip_integer_variables_relaxable:
 
 
 MIP Integer Variables Relaxable

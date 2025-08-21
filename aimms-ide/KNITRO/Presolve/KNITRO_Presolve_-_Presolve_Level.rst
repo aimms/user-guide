@@ -1,4 +1,4 @@
-.. _KNITRO_Presolve_-_Presolve_Level:
+.. _option-KNITRO-presolve_level:
 
 
 Presolve Level
@@ -31,4 +31,4 @@ At the default setting ('Automatic') Knitro decides.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Presolve_-_Presolve`  
+*	:ref:`option-KNITRO-presolve`  

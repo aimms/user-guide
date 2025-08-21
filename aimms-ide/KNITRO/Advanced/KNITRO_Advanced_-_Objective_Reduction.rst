@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_Objective_Reduction:
+.. _option-KNITRO-objective_reduction:
 
 
 Objective Reduction

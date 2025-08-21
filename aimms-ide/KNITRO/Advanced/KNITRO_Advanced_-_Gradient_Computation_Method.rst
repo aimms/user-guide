@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_Gradient_Computation_Method:
+.. _option-KNITRO-gradient_computation_method:
 
 
 Gradient Computation Method

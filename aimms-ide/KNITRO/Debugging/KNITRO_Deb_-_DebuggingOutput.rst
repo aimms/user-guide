@@ -1,4 +1,4 @@
-.. _KNITRO_Deb_-_DebuggingOutput:
+.. _option-KNITRO-debugging_output:
 
 
 Debugging Output

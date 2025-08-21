@@ -1,4 +1,4 @@
-.. _KNITRO_MS_-_Solution_Distance:
+.. _option-KNITRO-solution_distance:
 
 
 Solution Distance
@@ -31,5 +31,5 @@ This option has only effect if option **Number of Best Solutions**  is activated
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MS_-_Multistart`  
-*	:ref:`KNITRO_MS_-_Number_of_Best_Solutions`  
+*	:ref:`option-KNITRO-multistart`  
+*	:ref:`option-KNITRO-number_of_best_solutions`  

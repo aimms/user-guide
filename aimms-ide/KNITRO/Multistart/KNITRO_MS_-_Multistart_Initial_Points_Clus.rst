@@ -1,4 +1,4 @@
-.. _KNITRO_MS_-_Multistart_Initial_Points_Clus:
+.. _option-KNITRO-multistart_initial_points_cluster:
 
 
 Multistart Initial Points Cluster
@@ -36,4 +36,4 @@ With the setting 'Single linkage', Knitro applies single linkage based clusterin
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MS_-_Multistart`  
+*	:ref:`option-KNITRO-multistart`  

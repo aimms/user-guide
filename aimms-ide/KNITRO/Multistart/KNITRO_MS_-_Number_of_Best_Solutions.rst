@@ -1,4 +1,4 @@
-.. _KNITRO_MS_-_Number_of_Best_Solutions:
+.. _option-KNITRO-number_of_best_solutions:
 
 
 Number of Best Solutions
@@ -35,8 +35,8 @@ This option has only effect if the option **Multistart**  is switched on.
 **Learn more about** 
 
 *	:any:`GMP::Solution::SendToModel`
-*	:ref:`KNITRO_MS_-_Multistart`  
-*	:ref:`KNITRO_MS_-_Solution_Distance` 
+*	:ref:`option-KNITRO-multistart`  
+*	:ref:`option-KNITRO-solution_distance` 
 
 
 

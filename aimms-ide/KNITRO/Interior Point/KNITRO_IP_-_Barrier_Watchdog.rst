@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Barrier_Watchdog:
+.. _option-KNITRO-barrier_watchdog:
 
 
 Barrier Watchdog

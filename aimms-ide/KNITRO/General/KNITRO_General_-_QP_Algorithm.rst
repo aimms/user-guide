@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_QP_Algorithm:
+.. _option-KNITRO-qp_algorithm:
 
 
 QP Algorithm
@@ -33,4 +33,4 @@ This option indicates which algorithm to use to solve quadratic programming (QP)
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
+*	:ref:`option-KNITRO-algorithm` 

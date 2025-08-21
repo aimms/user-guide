@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Rounding:
+.. _option-KNITRO-mip_rounding:
 
 
 MIP Rounding

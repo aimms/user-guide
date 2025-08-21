@@ -1,4 +1,4 @@
-.. _KNITRO_MS_-_Multistart:
+.. _option-KNITRO-multistart:
 
 
 Multistart
@@ -55,7 +55,7 @@ By default the multistart algorithm is deterministic. This is controlled by the 
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MS_-_Multistart_Deterministic`  
-*	:ref:`KNITRO_MS_-_MS_Termination_Conditi`  
-*	:ref:`KNITRO_MS_-_Nr_multi_points`  
-*	:ref:`KNITRO_Par_-_Number_of_Threads` 
+*	:ref:`option-KNITRO-multistart_deterministic`  
+*	:ref:`option-KNITRO-multistart_termination_condition`  
+*	:ref:`option-KNITRO-number_of_multistart_points`  
+*	:ref:`option-KNITRO-number_of_threads` 

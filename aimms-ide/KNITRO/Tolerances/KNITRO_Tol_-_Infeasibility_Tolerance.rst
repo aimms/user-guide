@@ -1,4 +1,4 @@
-.. _KNITRO_Tol_-_Infeasibility_Tolerance:
+.. _option-KNITRO-infeasibility_tolerance:
 
 
 Infeasibility Tolerance
@@ -18,4 +18,4 @@ This option specifies the (relative) tolerance used for declaring infeasibility 
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Term_-_Infeas_Tol_Iteration_Limit` 
+*	:ref:`option-KNITRO-infeasibility_tolerance_iteration_limit` 

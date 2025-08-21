@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Barrier_Refinement:
+.. _option-KNITRO-barrier_refinement:
 
 
 Barrier Refinement
@@ -30,5 +30,5 @@ This option has no effect on the Active Set and SQP algorithms.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
-*	:ref:`KNITRO_IP_-_CrossoverIterLimit` 
+*	:ref:`option-KNITRO-algorithm` 
+*	:ref:`option-KNITRO-crossover_iterations_limit` 

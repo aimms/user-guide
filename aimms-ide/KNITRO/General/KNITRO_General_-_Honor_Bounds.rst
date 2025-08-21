@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Honor_Bounds:
+.. _option-KNITRO-honor_bounds:
 
 
 Honor Bounds
@@ -31,4 +31,4 @@ This option might be switched to 'Always' if the objective function or a nonline
 
 **Learn more about** 
 
-*	:ref:`KNITRO_IP_-_Feasible_mode`  
+*	:ref:`option-KNITRO-feasible_mode`  

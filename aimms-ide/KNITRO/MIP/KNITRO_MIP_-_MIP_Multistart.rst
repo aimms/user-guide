@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Multistart:
+.. _option-KNITRO-mip_multistart:
 
 
 MIP Multistart

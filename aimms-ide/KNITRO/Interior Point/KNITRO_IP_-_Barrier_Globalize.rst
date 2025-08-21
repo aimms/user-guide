@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Barrier_Globalize:
+.. _option-KNITRO-barrier_globalize:
 
 
 Barrier Globalize
@@ -49,7 +49,7 @@ This option has no effect on the Active Set and SQP algorithms.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
+*	:ref:`option-KNITRO-algorithm` 
 
 
 

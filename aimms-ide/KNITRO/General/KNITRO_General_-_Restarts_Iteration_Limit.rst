@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Restarts_Iteration_Limit:
+.. _option-KNITRO-restarts_iteration_limit:
 
 
 Restarts Iteration Limit
@@ -24,4 +24,4 @@ n:	At most n iterations are allowed without convergence before enforcing an auto
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Restarts` 
+*	:ref:`option-KNITRO-restarts` 

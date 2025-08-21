@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Linear_Solver_Scaling:
+.. _option-KNITRO-linear_solver_scaling:
 
 
 Linear Solver Scaling
@@ -24,4 +24,4 @@ This option enables scaling for the linear system solver. Applying scaling may a
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Linear_Solver` 
+*	:ref:`option-KNITRO-linear_solver` 

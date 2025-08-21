@@ -1,4 +1,4 @@
-.. _KNITRO_Tuner_-_Tuner_Terminate:
+.. _option-KNITRO-tuner_terminate:
 
 
 Tuner Terminate
@@ -37,4 +37,4 @@ This option only has effect if the option **Tuner**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Tuner_-_Tuner`  
+*	:ref:`option-KNITRO-tuner`  

@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_InitBarParValue:
+.. _option-KNITRO-initial_barrier_parameter_value:
 
 
 Initial Barrier Parameter Value

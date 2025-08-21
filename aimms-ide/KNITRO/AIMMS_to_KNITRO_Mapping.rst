@@ -1,7 +1,6 @@
 
 
 .. _AIMMS_to_KNITRO_Mapping:
-.. _KNITRO_AIMMS_to_KNITRO_Mapping:
 
 
 AIMMS to Knitro Mapping
@@ -15,305 +14,305 @@ The table shows in the left column the AIMMS Knitro options; the right column di
 
    * - **Option name in AIMMS**
      - **Name in Knitro**
-   * - :ref:`KNITRO_Advanced_-_Estimate_Noise_in_the_Model`
+   * - :ref:`option-KNITRO-estimate_noise_in_the_model`
      - findiff_estnoise
-   * - :ref:`KNITRO_Advanced_-_Gradient_Computation_Method`
+   * - :ref:`option-KNITRO-gradient_computation_method`
      - gradopt
-   * - :ref:`KNITRO_Advanced_-_Initial_Penalty_Value`
+   * - :ref:`option-KNITRO-initial_penalty_value`
      - initpenalty
-   * - :ref:`KNITRO_Advanced_-_Initial_pivot`
+   * - :ref:`option-KNITRO-initial_pivot_treshold`
      - linsolver_pivottol
-   * - :ref:`KNITRO_Advanced_-_Initial_trust`
+   * - :ref:`option-KNITRO-initial_trust_scaling_factor`
      - delta
-   * - :ref:`KNITRO_Advanced_-_Linesearch_Strategy`
+   * - :ref:`option-KNITRO-linesearch_strategy`
      - linesearch
-   * - :ref:`KNITRO_Advanced_-_Linesearch_Trials_Limit`
+   * - :ref:`option-KNITRO-linesearch_trials_limit`
      - linesearch_maxtrials
-   * - :ref:`KNITRO_Advanced_-_LP_Algorithm`
+   * - :ref:`option-KNITRO-lp_algorithm`
      - act_lpalg
-   * - :ref:`KNITRO_Advanced_-_Objective_Reduction`
+   * - :ref:`option-KNITRO-objective_reduction`
      - act_lppenalty
-   * - :ref:`KNITRO_Advanced_-_LP_Presolve`
+   * - :ref:`option-KNITRO-lp_presolve`
      - act_lppresolve
-   * - :ref:`KNITRO_Advanced_-_QP_and_QCQP_Initialization_Str`
+   * - :ref:`option-KNITRO-qp_and_qcqp_initialization_strategy`
      - ncvx_qcqp_init
-   * - :ref:`KNITRO_Advanced_-_Solution_Progress_Iterations`
+   * - :ref:`option-KNITRO-solution_progress_iterations`
      - xtol_iters
-   * - :ref:`KNITRO_Advanced_-_SolutionProgressTol`
+   * - :ref:`option-KNITRO-solution_progress_tolerance`
      - xtol
-   * - :ref:`KNITRO_Deb_-_Data_Check`
+   * - :ref:`option-KNITRO-data_check`
      - datacheck
-   * - :ref:`KNITRO_Deb_-_Debugging_MIP_output`
+   * - :ref:`option-KNITRO-debugging_mip_output`
      - mip_debug
-   * - :ref:`KNITRO_Deb_-_DebuggingOutput`
+   * - :ref:`option-KNITRO-debugging_output`
      - debug
-   * - :ref:`KNITRO_General_-_Act_QPpenalty`
+   * - :ref:`option-KNITRO-act_qppenalty`
      - act_qppenalty
-   * - :ref:`KNITRO_General_-_Algorithm`
+   * - :ref:`option-KNITRO-algorithm`
      - algorithm
-   * - :ref:`KNITRO_General_-_BLAS_Option`
+   * - :ref:`option-KNITRO-blas_option`
      - blasoption
-   * - :ref:`KNITRO_General_-_Honor_Bounds`
+   * - :ref:`option-KNITRO-honor_bounds`
      - honorbnds
-   * - :ref:`KNITRO_General_-_Linear_Solver`
+   * - :ref:`option-KNITRO-linear_solver`
      - linsolver
-   * - :ref:`KNITRO_General_-_Linear_Solver_Node_Amalgamation`
+   * - :ref:`option-KNITRO-linear_solver_node_amalgamation`
      - linsolver_nodeamalg
-   * - :ref:`KNITRO_General_-_Linear_Solver_Ordering`
+   * - :ref:`option-KNITRO-linear_solver_ordering`
      - linsolver_ordering
-   * - :ref:`KNITRO_General_-_Linear_Solver_Out_of_Core`
+   * - :ref:`option-KNITRO-linear_solver_out_of_core`
      - linsolver_ooc
-   * - :ref:`KNITRO_General_-_Linear_Solver_Scaling`
+   * - :ref:`option-KNITRO-linear_solver_scaling`
      - linsolver_scaling
-   * - :ref:`KNITRO_General_-_Linear_System_Max_Iterative_Re`
+   * - :ref:`option-KNITRO-linear_system_max_iterative_refinements`
      - linsolver_maxitref
-   * - :ref:`KNITRO_General_-_LP_Solver`
+   * - :ref:`option-KNITRO-lp_solver`
      - act_lpsolver
-   * - :ref:`KNITRO_General_-_Mark_as_Convex`
+   * - :ref:`option-KNITRO-mark_as_convex`
      - convex
-   * - :ref:`KNITRO_General_-_QP_Algorithm`
+   * - :ref:`option-KNITRO-qp_algorithm`
      - act_qpalg
-   * - :ref:`KNITRO_General_-_Restarts`
+   * - :ref:`option-KNITRO-restarts`
      - restarts
-   * - :ref:`KNITRO_General_-_Restarts_Iteration_Limit`
+   * - :ref:`option-KNITRO-restarts_iteration_limit`
      - restarts_maxit
-   * - :ref:`KNITRO_General_-_Scale_Variables`
+   * - :ref:`option-KNITRO-scale_variables`
      - scale_vars
-   * - :ref:`KNITRO_General_-_Scaling`
+   * - :ref:`option-KNITRO-scaling`
      - scale
-   * - :ref:`KNITRO_General_-_Unbound_range`
+   * - :ref:`option-KNITRO-unboundedness_range`
      - objrange
-   * - :ref:`KNITRO_General_-_Warm_Start_Strategy`
+   * - :ref:`option-KNITRO-warm_start_strategy`
      - strat_warm_start
-   * - :ref:`KNITRO_Hessian_-_Hes_Comp_Meth`
+   * - :ref:`option-KNITRO-hessian_computation_method`
      - hessopt
-   * - :ref:`KNITRO_Hessian_-_Limited_Memory_Size`
+   * - :ref:`option-KNITRO-limited_memory_size`
      - lmsize
-   * - :ref:`KNITRO_Hessian_-_SecondOrderCor`
+   * - :ref:`option-KNITRO-second_order_correction`
      - soc
-   * - :ref:`KNITRO_IP_-_Barrier_Corrector_Steps_Limit`
+   * - :ref:`option-KNITRO-barrier_corrector_steps_limit`
      - bar_maxcorrectors
-   * - :ref:`KNITRO_IP_-_Barrier_Enable_Conic`
+   * - :ref:`option-KNITRO-barrier_enable_conic`
      - bar_conic_enable
-   * - :ref:`KNITRO_IP_-_Barrier_Globalize`
+   * - :ref:`option-KNITRO-barrier_globalize`
      - bar_globalize
-   * - :ref:`KNITRO_IP_-_Barrier_Maximum_Mu`
+   * - :ref:`option-KNITRO-barrier_maximum_mu`
      - bar_maxmu
-   * - :ref:`KNITRO_IP_-_Barrier_MPEC_Heuristic`
+   * - :ref:`option-KNITRO-barrier_mpec_heuristic`
      - bar_mpec_heuristic
-   * - :ref:`KNITRO_IP_-_Bar_Par_Strategy`
+   * - :ref:`option-KNITRO-barrier_parameter_strategy`
      - bar_murule
-   * - :ref:`KNITRO_IP_-_Barrier_Penalty_Constraint_St`
+   * - :ref:`option-KNITRO-barrier_penalty_constraint_strategy`
      - bar_penaltycons
-   * - :ref:`KNITRO_IP_-_Barrier_Penalty_Parameter_St`
+   * - :ref:`option-KNITRO-barrier_penalty_parameter_strategy`
      - bar_penaltyrule
-   * - :ref:`KNITRO_IP_-_Barrier_Refinement`
+   * - :ref:`option-KNITRO-barrier_refinement`
      - bar_refinement
-   * - :ref:`KNITRO_IP_-_Barrier_Relax_Constraints`
+   * - :ref:`option-KNITRO-barrier_relax_constraints`
      - bar_relaxcons
-   * - :ref:`KNITRO_IP_-_Barrier_Slack_Bound_Push`
+   * - :ref:`option-KNITRO-barrier_slack_bound_push`
      - bar_slackboundpush
-   * - :ref:`KNITRO_IP_-_Barrier_Switch_Objective`
+   * - :ref:`option-KNITRO-barrier_switch_objective`
      - bar_switchobj
-   * - :ref:`KNITRO_IP_-_Barrier_Switch_Rule`
+   * - :ref:`option-KNITRO-barrier_switch_rule`
      - bar_switchrule
-   * - :ref:`KNITRO_IP_-_Barrier_Watchdog`
+   * - :ref:`option-KNITRO-barrier_watchdog`
      - bar_watchdog
-   * - :ref:`KNITRO_IP_-_ConjugateGradIter`
+   * - :ref:`option-KNITRO-conjugate_gradient_iteration_limit`
      - cg_maxit
-   * - :ref:`KNITRO_IP_-_Conjugate_Gradient_Memory_Limit`
+   * - :ref:`option-KNITRO-conjugate_gradient_memory_limit`
      - cg_pmem
-   * - :ref:`KNITRO_IP_-_Conjugate_Gradient_Preconditio`
+   * - :ref:`option-KNITRO-conjugate_gradient_preconditioner`
      - cg_precond
-   * - :ref:`KNITRO_IP_-_Conjugate_Gradient_Stopping_To`
+   * - :ref:`option-KNITRO-conjugate_gradient_stopping_tolerance`
      - cg_stoptol
-   * - :ref:`KNITRO_IP_-_CrossoverIterLimit`
+   * - :ref:`option-KNITRO-crossover_iterations_limit`
      - bar_maxcrossit
-   * - :ref:`KNITRO_IP_-_Direct_Step_Interval`
+   * - :ref:`option-KNITRO-direct_step_interval`
      - bar_directinterval
-   * - :ref:`KNITRO_IP_-_Feasible_mode`
+   * - :ref:`option-KNITRO-feasible_mode`
      - bar_feasible
-   * - :ref:`KNITRO_IP_-_Feas_mode_act_tol`
+   * - :ref:`option-KNITRO-feasible_mode_activation_tolerance`
      - bar_feasmodetol
-   * - :ref:`KNITRO_IP_-_InitBarParValue`
+   * - :ref:`option-KNITRO-initial_barrier_parameter_value`
      - bar_initmu
-   * - :ref:`KNITRO_IP_-_Initial_Barrier_Penalty_Value`
+   * - :ref:`option-KNITRO-initial_barrier_penalty_value_mpec`
      - bar_initpi_mpec
-   * - :ref:`KNITRO_IP_-_Initial_Point_Strat`
+   * - :ref:`option-KNITRO-initial_point_strategy`
      - bar_initpt
-   * - :ref:`KNITRO_IP_-_Linear_System_Form_Used`
+   * - :ref:`option-KNITRO-linear_system_form_used`
      - bar_linsys
-   * - :ref:`KNITRO_IP_-_Linear_System_Memory_Usage`
+   * - :ref:`option-KNITRO-linear_system_memory_usage`
      - bar_linsys_storage
-   * - :ref:`KNITRO_IP_-_RefactorizationLim`
+   * - :ref:`option-KNITRO-refactorization_limit`
      - bar_maxrefactor
-   * - :ref:`KNITRO_MIP_-_Integrality`
+   * - :ref:`option-KNITRO-integrality`
      - mip_integer_tol
-   * - :ref:`KNITRO_MIP_-_Maximal_Number_of_Nodes`
+   * - :ref:`option-KNITRO-maximal_number_of_nodes`
      - mip_maxnodes
-   * - :ref:`KNITRO_MIP_-_Maximal_Nr_Subproblem_Slvs`
+   * - :ref:`option-KNITRO-maximal_number_of_subproblem_solves`
      - mip_maxsolves
-   * - :ref:`KNITRO_MIP_-_MIP_Algorithm`
+   * - :ref:`option-KNITRO-mip_algorithm`
      - mip_lpalg
-   * - :ref:`KNITRO_MIP_-_MIP_Branching_Rule`
+   * - :ref:`option-KNITRO-mip_branching_rule`
      - mip_branchrule
-   * - :ref:`KNITRO_MIP_-_MIP_GUB_Branch`
+   * - :ref:`option-KNITRO-mip_gub_branch`
      - mip_gub_branch
-   * - :ref:`KNITRO_MIP_-_MIP_Heuristic`
+   * - :ref:`option-KNITRO-mip_heuristic`
      - mip_heuristic
-   * - :ref:`KNITRO_MIP_-_MIP_Heuristic_Diving`
+   * - :ref:`option-KNITRO-mip_heuristic_diving`
      - mip_heuristic_diving
-   * - :ref:`KNITRO_MIP_-_MIP_Heuristic_Feasibility_Pump`
+   * - :ref:`option-KNITRO-mip_heuristic_feasibility_pump`
      - mip_heuristic_feaspump
-   * - :ref:`KNITRO_MIP_-_MIP_Heuristic_Iteration_Limit`
+   * - :ref:`option-KNITRO-mip_heuristic_iteration_limit`
      - mip_heuristic_maxit
-   * - :ref:`KNITRO_MIP_-_MIP_Heuristic_Large_Neighborhood_Search`
+   * - :ref:`option-KNITRO-mip_heuristic_large_neighborhood_search`
      - mip_heuristic_lns
-   * - :ref:`KNITRO_MIP_-_MIP_Heuristic_Local_Search`
+   * - :ref:`option-KNITRO-mip_heuristic_local_search`
      - mip_heuristic_local_search
-   * - :ref:`KNITRO_MIP_-_MIP_Heuristic_MPEC`
+   * - :ref:`option-KNITRO-mip_heuristic_mpec`
      - mip_heuristic_mpec
-   * - :ref:`KNITRO_MIP_-_MIP_Heuristic_Strategy`
+   * - :ref:`option-KNITRO-mip_heuristic_strategy`
      - mip_heuristic_strategy
-   * - :ref:`KNITRO_MIP_-_MIP_Heuristic_Terminate`
+   * - :ref:`option-KNITRO-mip_heuristic_terminate`
      - mip_heuristic_terminate
-   * - :ref:`KNITRO_MIP_-_MIP_Implications`
+   * - :ref:`option-KNITRO-mip_implications`
      - mip_implications
-   * - :ref:`KNITRO_MIP_-_MIP_Integer_Variables_Relaxabl`
+   * - :ref:`option-KNITRO-mip_integer_variables_relaxable`
      - mip_relaxable
-   * - :ref:`KNITRO_MIP_-_MIP_Integer_Variables_Strategy`
+   * - :ref:`option-KNITRO-mip_integer_variables_strategy`
      - mip_intvar_strategy
-   * - :ref:`KNITRO_MIP_-_MIP_Method`
+   * - :ref:`option-KNITRO-mip_method`
      - mip_method
-   * - :ref:`KNITRO_MIP_-_MIP_MISQP_Heuristic`
+   * - :ref:`option-KNITRO-mip_misqp_heuristic`
      - mip_heuristic_misqp
-   * - :ref:`KNITRO_MIP_-_MIP_Multistart`
+   * - :ref:`option-KNITRO-mip_multistart`
      - mip_multistart
-   * - :ref:`KNITRO_MIP_-_MIP_Objective_Cutoff_Value`
+   * - :ref:`option-KNITRO-mip_objective_cutoff_value`
      - mip_cutoff
-   * - :ref:`KNITRO_MIP_-_MIP_Pseudo_Cost_Initialization`
+   * - :ref:`option-KNITRO-mip_pseudo_cost_initialization`
      - mip_pseudoinit
-   * - :ref:`KNITRO_MIP_-_MIP_Restart`
+   * - :ref:`option-KNITRO-mip_restart`
      - mip_restart
-   * - :ref:`KNITRO_MIP_-_MIP_Rounding`
+   * - :ref:`option-KNITRO-mip_rounding`
      - mip_rounding
-   * - :ref:`KNITRO_MIP_-_MIP_Start_Algorithm`
+   * - :ref:`option-KNITRO-mip_start_algorithm`
      - mip_rootalg
-   * - :ref:`KNITRO_MIP_-_MIP_Terminate`
+   * - :ref:`option-KNITRO-mip_terminate`
      - mip_terminate
-   * - :ref:`KNITRO_MIP_-_Node_Algorithm`
+   * - :ref:`option-KNITRO-node_algorithm`
      - mip_nodealg
-   * - :ref:`KNITRO_MIP_-_Node_Selection`
+   * - :ref:`option-KNITRO-node_selection`
      - mip_selectrule
-   * - :ref:`KNITRO_MIP_-_Node_Selection_Direction`
+   * - :ref:`option-KNITRO-node_selection_direction`
      - mip_selectdir
-   * - :ref:`KNITRO_MIP_-_Strong_Branch_Candidates_Limit`
+   * - :ref:`option-KNITRO-strong_branching_candidates_limit`
      - mip_strong_candlim
-   * - :ref:`KNITRO_MIP_-_Strong_Branch_Iter_Limit`
+   * - :ref:`option-KNITRO-strong_branching_iteration_limit`
      - mip_strong_maxit
-   * - :ref:`KNITRO_MIP_-_Strong_Branching_Level`
+   * - :ref:`option-KNITRO-strong_branching_level`
      - mip_strong_level
-   * - :ref:`KNITRO_MIP_Cuts_-_Clique_cuts`
+   * - :ref:`option-KNITRO-clique_cuts`
      - mip_clique
-   * - :ref:`KNITRO_MIP_Cuts_-_Flowcover_Cuts`
+   * - :ref:`option-KNITRO-flow_cover_cuts`
      - mip_cut_flowcover
-   * - :ref:`KNITRO_MIP_Cuts_-_Gomory_Cuts`
+   * - :ref:`option-KNITRO-gomory_cuts`
      - mip_gomory
-   * - :ref:`KNITRO_MIP_Cuts_-_Knapsack_cuts`
+   * - :ref:`option-KNITRO-knapsack_cuts`
      - mip_knapsack
-   * - :ref:`KNITRO_MIP_Cuts_-_Lift_and_Project_Cuts`
+   * - :ref:`option-KNITRO-lift_and_project_cuts`
      - mip_liftproject
-   * - :ref:`KNITRO_MIP_Cuts_-_MIR_cuts`
+   * - :ref:`option-KNITRO-mir_cuts`
      - mip_mir
-   * - :ref:`KNITRO_MIP_Cuts_-_Probing_Cuts`
+   * - :ref:`option-KNITRO-probing_cuts`
      - mip_cut_probing
-   * - :ref:`KNITRO_MIP_Cuts_-_Zero_Half_cuts`
+   * - :ref:`option-KNITRO-zero_half_cuts`
      - mip_zerohalf
-   * - :ref:`KNITRO_MS_-_Multistart`
+   * - :ref:`option-KNITRO-multistart`
      - ms_enable
-   * - :ref:`KNITRO_MS_-_Multistart_Deterministic`
+   * - :ref:`option-KNITRO-multistart_deterministic`
      - ms_deterministic
-   * - :ref:`KNITRO_MS_-_Multistart_Initial_Points_Clus`
+   * - :ref:`option-KNITRO-multistart_initial_points_cluster`
      - ms_initpt_cluster
-   * - :ref:`KNITRO_MS_-_Multistart_Range`
+   * - :ref:`option-KNITRO-multistart_range`
      - ms_startptrange
-   * - :ref:`KNITRO_MS_-_Multistart_Range_Unbounded_Var`
+   * - :ref:`option-KNITRO-multistart_range_unbounded_variable`
      - ms_maxbndrange
-   * - :ref:`KNITRO_MS_-_Multistart_Seed`
+   * - :ref:`option-KNITRO-multistart_seed`
      - ms_seed
-   * - :ref:`KNITRO_MS_-_MS_Termination_Conditi`
+   * - :ref:`option-KNITRO-multistart_termination_condition`
      - ms_terminate
-   * - :ref:`KNITRO_MS_-_Number_of_Best_Solutions`
+   * - :ref:`option-KNITRO-number_of_best_solutions`
      - ms_num_to_save
-   * - :ref:`KNITRO_MS_-_Nr_multi_points`
+   * - :ref:`option-KNITRO-number_of_multistart_points`
      - ms_maxsolves
-   * - :ref:`KNITRO_MS_-_Solution_Distance`
+   * - :ref:`option-KNITRO-solution_distance`
      - ms_savetol
-   * - :ref:`KNITRO_Par_-_Number_of_Gradient_Computation_Threads`
+   * - :ref:`option-KNITRO-number_of_gradient_computation_threads`
      - findiff_numthreads
-   * - :ref:`KNITRO_Par_-_Number_of_BLAS_threads`
+   * - :ref:`option-KNITRO-number_of_blas_threads`
      - blas_numthreads
-   * - :ref:`KNITRO_Par_-_Number_of_Lin_Sys_Threads`
+   * - :ref:`option-KNITRO-number_of_linear_system_threads`
      - linsolver_numthreads
-   * - :ref:`KNITRO_Par_-_Number_of_MIP_Threads`
+   * - :ref:`option-KNITRO-number_of_mip_threads`
      - mip_numthreads
-   * - :ref:`KNITRO_Par_-_Number_of_Multistart_Threads`
+   * - :ref:`option-KNITRO-number_of_multistart_threads`
      - ms_numthreads
-   * - :ref:`KNITRO_Par_-_Number_of_Threads`
+   * - :ref:`option-KNITRO-number_of_threads`
      - numthreads
-   * - :ref:`KNITRO_Presolve_-_Presolve`
+   * - :ref:`option-KNITRO-presolve`
      - presolve
-   * - :ref:`KNITRO_Presolve_-_Presolve_Initial_Point_Shift`
+   * - :ref:`option-KNITRO-presolve_initial_point`
      - presolve_initpt
-   * - :ref:`KNITRO_Presolve_-_Presolve_Level`
+   * - :ref:`option-KNITRO-presolve_level`
      - presolve_level
-   * - :ref:`KNITRO_Presolve_-_Presolve_Passes`
+   * - :ref:`option-KNITRO-presolve_passes`
      - presolve_passes
-   * - :ref:`KNITRO_Presolve_-_Presolve_Redundant_Constraints`
+   * - :ref:`option-KNITRO-presolve_redundant_constraints`
      - presolveop_redundant
-   * - :ref:`KNITRO_Presolve_-_Presolve_Substitution`
+   * - :ref:`option-KNITRO-presolve_substitution`
      - presolveop_substitution
-   * - :ref:`KNITRO_Presolve_-_Presolve_Substitution_Tolerance`
+   * - :ref:`option-KNITRO-presolve_substitution_tolerance`
      - presolveop_substitution_tol
-   * - :ref:`KNITRO_Presolve_-_Presolve_Tolerance`
+   * - :ref:`option-KNITRO-presolve_tolerance`
      - presolve_tol
-   * - :ref:`KNITRO_Presolve_-_Tighten_Variable_Bounds`
+   * - :ref:`option-KNITRO-tighten_variable_bounds`
      - presolveop_tighten
-   * - :ref:`KNITRO_Reporting_-_MIP_Output_Level`
+   * - :ref:`option-KNITRO-mip_output_level`
      - mip_outinterval
-   * - :ref:`KNITRO_Reporting_-_Multi_Algorithm_Output`
+   * - :ref:`option-KNITRO-multi_algorithm_output`
      - ma_outsub
-   * - :ref:`KNITRO_Reporting_-_StatusFileDi`
+   * - :ref:`option-KNITRO-status_file_display`
      - outlev
-   * - :ref:`KNITRO_Term_-_AbsOptTol`
+   * - :ref:`option-KNITRO-absolute_optimality_tolerance`
      - opttol_abs
-   * - :ref:`KNITRO_Term_-_Function_Evaluations_Limit`
+   * - :ref:`option-KNITRO-function_evaluations_limit`
      - maxfevals
-   * - :ref:`KNITRO_Term_-_Infeas_Tol_Iteration_Limit`
+   * - :ref:`option-KNITRO-infeasibility_tolerance_iteration_limit`
      - infeastol_iters
-   * - :ref:`KNITRO_Term_-_Multi_Algorithm_Termination`
+   * - :ref:`option-KNITRO-multi_algorithm_termination`
      - ma_terminate
-   * - :ref:`KNITRO_Term_-_Objective_Goal`
+   * - :ref:`option-KNITRO-objective_goal`
      - fstopval
-   * - :ref:`KNITRO_Term_-_Relative_Improvement_Iterations`
+   * - :ref:`option-KNITRO-relative_improvement_iterations`
      - ftol_iters
-   * - :ref:`KNITRO_Term_-_Relative_Improvement_Tolerance`
+   * - :ref:`option-KNITRO-relative_improvement_tolerance`
      - ftol
-   * - :ref:`KNITRO_Term_-_RelOptTol`
+   * - :ref:`option-KNITRO-relative_optimality_tolerance`
      - opttol
-   * - :ref:`KNITRO_Tol_-_AbsFeasTol`
+   * - :ref:`option-KNITRO-absolute_feasibility_tolerance`
      - feastol_abs
-   * - :ref:`KNITRO_Tol_-_Infeasibility_Tolerance`
+   * - :ref:`option-KNITRO-infeasibility_tolerance`
      - infeastol
-   * - :ref:`KNITRO_Tol_-_LP_Feasibility_Tolerance`
+   * - :ref:`option-KNITRO-lp_feasibility_tolerance`
      - act_lpfeastol
-   * - :ref:`KNITRO_Tol_-_RelFeasTol`
+   * - :ref:`option-KNITRO-relative_feasibility_tolerance`
      - feastol
-   * - :ref:`KNITRO_Tuner_-_Tuner`
+   * - :ref:`option-KNITRO-tuner`
      - tuner
-   * - :ref:`KNITRO_Tuner_-_Tuner_Output`
+   * - :ref:`option-KNITRO-tuner_output`
      - tuner_outsub
-   * - :ref:`KNITRO_Tuner_-_Tuner_Terminate`
+   * - :ref:`option-KNITRO-tuner_terminate`
      - tuner_terminate
-   * - :ref:`KNITRO_Tuner_-_Tuner_Time_Limit`
+   * - :ref:`option-KNITRO-tuner_time_limit`
      - tuner_maxtime_cpu

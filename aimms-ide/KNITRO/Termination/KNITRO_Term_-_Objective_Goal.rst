@@ -1,4 +1,4 @@
-.. _KNITRO_Term_-_Objective_Goal:
+.. _option-KNITRO-objective_goal:
 
 
 Objective Goal

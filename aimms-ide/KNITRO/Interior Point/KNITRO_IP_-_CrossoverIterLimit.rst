@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_CrossoverIterLimit:
+.. _option-KNITRO-crossover_iterations_limit:
 
 
 Crossover Iterations Limit
@@ -50,8 +50,8 @@ The extra cost of performing crossover is problem dependent. In most small or me
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm`  
-*	:ref:`KNITRO_Reporting_-_StatusFileDi`  
+*	:ref:`option-KNITRO-algorithm`  
+*	:ref:`option-KNITRO-status_file_display`  
 
 
 

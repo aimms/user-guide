@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Start_Algorithm:
+.. _option-KNITRO-mip_start_algorithm:
 
 
 MIP Start Algorithm
@@ -34,4 +34,4 @@ Nonlinear programming subproblems use the algorithm specified by the option **Al
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm`  
+*	:ref:`option-KNITRO-algorithm`  

@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Restart:
+.. _option-KNITRO-mip_restart:
 
 
 MIP Restart

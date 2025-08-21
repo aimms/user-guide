@@ -1,4 +1,4 @@
-.. _KNITRO_MS_-_Multistart_Seed:
+.. _option-KNITRO-multistart_seed:
 
 
 Multistart Seed
@@ -18,4 +18,4 @@ This option specifies the seed value used to generate random initial points in m
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MS_-_Multistart`  
+*	:ref:`option-KNITRO-multistart`  

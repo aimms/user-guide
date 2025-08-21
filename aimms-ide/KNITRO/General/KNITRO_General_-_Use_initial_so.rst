@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Use_initial_so:
+.. _option-KNITRO-use_initial_solution:
 
 
 Use Initial Solution

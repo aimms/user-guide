@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Feasible_mode:
+.. _option-KNITRO-feasible_mode:
 
 
 Feasible Mode
@@ -58,5 +58,5 @@ This option and the option **Honor Bounds**  may be useful in applications where
 
 **Learn more about** 
 
-*	:ref:`KNITRO_IP_-_Feas_mode_act_tol`  
-*	:ref:`KNITRO_General_-_Honor_Bounds`  
+*	:ref:`option-KNITRO-feasible_mode_activation_tolerance`  
+*	:ref:`option-KNITRO-honor_bounds`  

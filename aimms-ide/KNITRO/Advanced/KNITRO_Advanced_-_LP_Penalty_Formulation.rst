@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_LP_Penalty_Formulation:
+.. _option-KNITRO-lp_penalty_formulation:
 
 
 LP Penalty Formulation

@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_Cuts_-_Flowcover_Cuts:
+.. _option-KNITRO-flow_cover_cuts:
 
 
 Flow Cover Cuts

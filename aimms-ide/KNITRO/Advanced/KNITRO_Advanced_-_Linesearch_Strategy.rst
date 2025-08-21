@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_Linesearch_Strategy:
+.. _option-KNITRO-linesearch_strategy:
 
 
 Linesearch Strategy
@@ -32,4 +32,4 @@ This option has no effect on the Interior-CG or Active-Set algorithm.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
+*	:ref:`option-KNITRO-algorithm` 

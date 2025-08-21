@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_Cuts_-_MIR_cuts:
+.. _option-KNITRO-mir_cuts:
 
 
 MIR Cuts

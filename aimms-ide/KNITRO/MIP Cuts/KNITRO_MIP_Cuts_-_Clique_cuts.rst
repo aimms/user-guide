@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_Cuts_-_Clique_cuts:
+.. _option-KNITRO-clique_cuts:
 
 
 Clique Cuts

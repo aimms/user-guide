@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Algorithm:
+.. _option-KNITRO-algorithm:
 
 
 Algorithm
@@ -61,6 +61,6 @@ The setting 'Multi-algorithm' runs all four algorithms above either sequentially
 
 **Learn more about** 
 
-*	:ref:`KNITRO_IP_-_CrossoverIterLimit`  
-*	:ref:`KNITRO_Term_-_Multi_Algorithm_Termination`  
-*	:ref:`KNITRO_Par_-_Number_of_Threads` 
+*	:ref:`option-KNITRO-crossover_iterations_limit`  
+*	:ref:`option-KNITRO-multi_algorithm_termination`  
+*	:ref:`option-KNITRO-number_of_threads` 

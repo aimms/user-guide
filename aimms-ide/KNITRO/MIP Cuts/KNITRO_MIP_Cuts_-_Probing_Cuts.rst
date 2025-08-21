@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_Cuts_-_Probing_Cuts:
+.. _option-KNITRO-probing_cuts:
 
 
 Probing Cuts

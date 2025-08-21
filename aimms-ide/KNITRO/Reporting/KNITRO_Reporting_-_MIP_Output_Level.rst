@@ -1,4 +1,4 @@
-.. _KNITRO_Reporting_-_MIP_Output_Level:
+.. _option-KNITRO-mip_output_level:
 
 
 MIP Output Level
@@ -22,4 +22,4 @@ To create the status file, the option **Status File Display**  should be set to 
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Reporting_-_StatusFileDi`  
+*	:ref:`option-KNITRO-status_file_display`  

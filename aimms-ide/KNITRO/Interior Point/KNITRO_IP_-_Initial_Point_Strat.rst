@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Initial_Point_Strat:
+.. _option-KNITRO-initial_point_strategy:
 
 
 Initial Point Strategy
@@ -26,5 +26,5 @@ This option determines whether or not the interior-point algorithms in Knitro sh
 
 **Learn more about** 
 
-*	:ref:`KNITRO_IP_-_Feasible_mode`  
-*	:ref:`KNITRO_General_-_Honor_Bounds`  
+*	:ref:`option-KNITRO-feasible_mode`  
+*	:ref:`option-KNITRO-honor_bounds`  

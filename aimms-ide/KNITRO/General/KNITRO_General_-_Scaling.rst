@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Scaling:
+.. _option-KNITRO-scaling:
 
 
 Scaling
@@ -24,4 +24,4 @@ This option determines whether Knitro should performs a scaling of the objective
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Scale_Variables` 
+*	:ref:`option-KNITRO-scale_variables` 

@@ -1,4 +1,4 @@
-.. _KNITRO_Reporting_-_Multi_Algorithm_Output:
+.. _option-KNITRO-multi_algorithm_output:
 
 
 Multi Algorithm Output
@@ -30,4 +30,4 @@ This option is only active if the option **Algorithm**  is set to 'Multi-algorit
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
+*	:ref:`option-KNITRO-algorithm` 

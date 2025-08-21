@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Heuristic_Strategy:
+.. _option-KNITRO-mip_heuristic_strategy:
 
 
 MIP Heuristic Strategy

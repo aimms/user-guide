@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_Cuts_-_Knapsack_cuts:
+.. _option-KNITRO-knapsack_cuts:
 
 
 Knapsack Cuts

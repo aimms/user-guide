@@ -1,4 +1,4 @@
-.. _KNITRO_Term_-_Infeas_Tol_Iteration_Limit:
+.. _option-KNITRO-infeasibility_tolerance_iteration_limit:
 
 
 Infeasibility Tolerance Iteration Limit
@@ -18,4 +18,4 @@ This option can be used to control termination when there is little progress in 
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Tol_-_Infeasibility_Tolerance` 
+*	:ref:`option-KNITRO-infeasibility_tolerance` 

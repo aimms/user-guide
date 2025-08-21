@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Linear_System_Form_Used:
+.. _option-KNITRO-linear_system_form_used:
 
 
 Linear System Form Used

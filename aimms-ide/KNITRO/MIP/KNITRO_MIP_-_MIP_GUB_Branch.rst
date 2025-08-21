@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_GUB_Branch:
+.. _option-KNITRO-mip_gub_branch:
 
 
 MIP GUB Branch

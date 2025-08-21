@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_Initial_Penalty_Value:
+.. _option-KNITRO-initial_penalty_value:
 
 
 Initial Penalty Value

@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Barrier_Maximum_Mu:
+.. _option-KNITRO-barrier_maximum_mu:
 
 
 Barrier Maximum Mu
@@ -22,4 +22,4 @@ This option has no effect on the Active Set and SQP algorithms.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
+*	:ref:`option-KNITRO-algorithm` 

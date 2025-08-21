@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Heuristic_Large_Neighborhood_Search:
+.. _option-KNITRO-mip_heuristic_large_neighborhood_search:
 
 MIP Heuristic Large Neighborhood Search
 =======================================
@@ -15,7 +15,7 @@ This option specifies whether or not to enable the MIP large neighborhood search
 
 
 
-*	-1 (auto): Let Knitro determine automatically from :ref:`KNITRO_MIP_-_MIP_Heuristic_Strategy` 
+*	-1 (auto): Let Knitro determine automatically from :ref:`option-KNITRO-mip_heuristic_strategy` 
 *	0 (disable): Disable all large neighborhood search heuristics
 *	1 (bit 0): Enable relaxation enforced neighborhood search (RENS) heuristic
 *	2 (bit 1): Enable relaxation induced neighborhood search (RINS) heuristic
@@ -31,8 +31,8 @@ Knitro considers the bit values of this parameter. For example, if this paramete
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MIP_-_MIP_Heuristic` 
-*	:ref:`KNITRO_MIP_-_MIP_Heuristic_Strategy` 
+*	:ref:`option-KNITRO-mip_heuristic` 
+*	:ref:`option-KNITRO-mip_heuristic_strategy` 
 
 
 

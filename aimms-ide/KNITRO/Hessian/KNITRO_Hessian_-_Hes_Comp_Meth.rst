@@ -1,4 +1,4 @@
-.. _KNITRO_Hessian_-_Hes_Comp_Meth:
+.. _option-KNITRO-hessian_computation_method:
 
 
 Hessian Computation Method
@@ -33,4 +33,4 @@ With setting 'Hessian-vector products' Knitro will use a finite difference metho
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm`  
+*	:ref:`option-KNITRO-algorithm`  

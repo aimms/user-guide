@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_Maximal_Nr_Subproblem_Slvs:
+.. _option-KNITRO-maximal_number_of_subproblem_solves:
 
 
 Maximal Number of Subproblem Solves

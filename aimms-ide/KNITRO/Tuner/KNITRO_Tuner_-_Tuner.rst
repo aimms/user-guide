@@ -1,4 +1,4 @@
-.. _KNITRO_Tuner_-_Tuner:
+.. _option-KNITRO-tuner:
 
 
 Tuner
@@ -23,7 +23,7 @@ This option determines whether to invoke the Knitro-Tuner. Possible values are:
 
 
 
-A description of the Knitro-Tuner can be found in the :ref:`KNITRO_Tuner`  section. Setting 'Automated' will cause Knitro to automatically run your model with a variety of automatically determined option settings. With setting 'Customized' you can tell Knitro which options you want it to tune (as well as specify the values for particular options that you want Knitro to explore); this is done through the Tuner options file.
+A description of the Knitro-Tuner can be found in the :ref:`option-KNITRO-tuner`  section. Setting 'Automated' will cause Knitro to automatically run your model with a variety of automatically determined option settings. With setting 'Customized' you can tell Knitro which options you want it to tune (as well as specify the values for particular options that you want Knitro to explore); this is done through the Tuner options file.
 
 
 
@@ -31,7 +31,7 @@ A description of the Knitro-Tuner can be found in the :ref:`KNITRO_Tuner`  secti
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Tuner` 
-*	:ref:`KNITRO_Tuner_-_Tuner_Output`  
-*	:ref:`KNITRO_Tuner_-_Tuner_Terminate`  
-*	:ref:`KNITRO_Tuner_-_Tuner_Time_Limit`  
+*	:ref:`option-KNITRO-tuner` 
+*	:ref:`option-KNITRO-tuner_output`  
+*	:ref:`option-KNITRO-tuner_terminate`  
+*	:ref:`option-KNITRO-tuner_time_limit`  

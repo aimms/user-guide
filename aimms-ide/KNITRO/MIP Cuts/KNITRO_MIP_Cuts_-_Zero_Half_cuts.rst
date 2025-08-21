@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_Cuts_-_Zero_Half_cuts:
+.. _option-KNITRO-zero_half_cuts:
 
 
 Zero Half Cuts

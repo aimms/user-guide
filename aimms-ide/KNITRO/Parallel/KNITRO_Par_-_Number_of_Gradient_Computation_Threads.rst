@@ -1,4 +1,4 @@
-.. _KNITRO_Par_-_Number_of_Gradient_Computation_Threads:
+.. _option-KNITRO-number_of_gradient_computation_threads:
 
 
 Number of Gradient Computation Threads
@@ -20,4 +20,4 @@ This option is only used if the option **Gradient Computation Method**  is set t
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Advanced_-_Gradient_Computation_Method` 
+*	:ref:`option-KNITRO-gradient_computation_method` 

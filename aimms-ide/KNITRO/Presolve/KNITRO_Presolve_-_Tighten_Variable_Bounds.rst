@@ -1,4 +1,4 @@
-.. _KNITRO_Presolve_-_Tighten_Variable_Bounds:
+.. _option-KNITRO-tighten_variable_bounds:
 
 
 Tighten Variable Bounds
@@ -37,4 +37,4 @@ At setting 'Off' variable bounds are tightened, unless it removes a constraint.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Presolve_-_Presolve`  
+*	:ref:`option-KNITRO-presolve`  

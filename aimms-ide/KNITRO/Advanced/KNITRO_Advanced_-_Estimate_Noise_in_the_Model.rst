@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_Estimate_Noise_in_the_Model:
+.. _option-KNITRO-estimate_noise_in_the_model:
 
 
 Estimate Noise in the Model

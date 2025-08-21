@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Heuristic_MPEC:
+.. _option-KNITRO-mip_heuristic_mpec:
 
 
 MIP Heuristic MPEC
@@ -23,7 +23,7 @@ This option specifies whether or not to enable the MIP MPEC heuristic. Possible 
 
 
 
-Setting 'Automatic' lets Knitro determine automatically from :ref:`KNITRO_MIP_-_MIP_Heuristic_Strategy` . Setting 'Off' means that MPEC heuristic is not applied.
+Setting 'Automatic' lets Knitro determine automatically from :ref:`option-KNITRO-mip_heuristic_strategy` . Setting 'Off' means that MPEC heuristic is not applied.
 
 
 
@@ -31,4 +31,4 @@ Setting 'Automatic' lets Knitro determine automatically from :ref:`KNITRO_MIP_-_
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MIP_-_MIP_Heuristic_Strategy`  
+*	:ref:`option-KNITRO-mip_heuristic_strategy`  

@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Linear_System_Memory_Usage:
+.. _option-KNITRO-linear_system_memory_usage:
 
 
 Linear System Memory Usage

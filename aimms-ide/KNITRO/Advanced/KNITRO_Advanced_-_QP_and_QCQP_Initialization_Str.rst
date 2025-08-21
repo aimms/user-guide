@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_QP_and_QCQP_Initialization_Str:
+.. _option-KNITRO-qp_and_qcqp_initialization_strategy:
 
 
 QP and QCQP Initialization Strategy

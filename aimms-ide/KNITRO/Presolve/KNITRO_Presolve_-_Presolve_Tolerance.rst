@@ -1,4 +1,4 @@
-.. _KNITRO_Presolve_-_Presolve_Tolerance:
+.. _option-KNITRO-presolve_tolerance:
 
 
 Presolve Tolerance
@@ -18,4 +18,4 @@ This option determines the tolerance used by the Knitro presolver to remove vari
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Presolve_-_Presolve`  
+*	:ref:`option-KNITRO-presolve`  

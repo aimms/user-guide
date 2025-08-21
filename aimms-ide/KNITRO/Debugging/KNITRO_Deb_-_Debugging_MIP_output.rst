@@ -1,4 +1,4 @@
-.. _KNITRO_Deb_-_Debugging_MIP_output:
+.. _option-KNITRO-debugging_mip_output:
 
 
 Debugging MIP output

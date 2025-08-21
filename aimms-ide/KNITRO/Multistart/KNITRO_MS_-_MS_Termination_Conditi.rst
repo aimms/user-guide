@@ -1,4 +1,4 @@
-.. _KNITRO_MS_-_MS_Termination_Conditi:
+.. _option-KNITRO-multistart_termination_condition:
 
 
 Multistart Termination Condition
@@ -63,5 +63,5 @@ This option has only effect if the option **Multistart**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MS_-_Multistart`  
-*	:ref:`KNITRO_MS_-_Nr_multi_points`  
+*	:ref:`option-KNITRO-multistart`  
+*	:ref:`option-KNITRO-number_of_multistart_points`  

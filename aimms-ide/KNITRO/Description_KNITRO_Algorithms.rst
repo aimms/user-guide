@@ -1,7 +1,6 @@
 
 
 .. _Description_KNITRO_Algorithms:
-.. _KNITRO_Description_KNITRO_Algorithms:
 
 
 Description of Knitro Algorithms
@@ -49,9 +48,9 @@ Knitro offers a crossover feature in which the interior point method switches to
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm`  
-*	:ref:`KNITRO_IP_-_CrossoverIterLimit`  
-*	:ref:`KNITRO_IP_-_Feasible_mode`  
+*	:ref:`option-KNITRO-algorithm`  
+*	:ref:`option-KNITRO-crossover_iterations_limit`  
+*	:ref:`option-KNITRO-feasible_mode`  
 
 
 

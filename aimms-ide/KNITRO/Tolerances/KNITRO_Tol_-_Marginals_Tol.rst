@@ -1,4 +1,4 @@
-.. _KNITRO_Tol_-_Marginals_Tol:
+.. _option-KNITRO-marginals_tolerance:
 
 
 Marginals Tolerance

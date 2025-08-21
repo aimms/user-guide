@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_LP_Algorithm:
+.. _option-KNITRO-lp_algorithm:
 
 
 LP Algorithm
@@ -38,4 +38,4 @@ This option has no effect on the Interior/Direct and Interior/CG algorithms.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_LP_Solver` 
+*	:ref:`option-KNITRO-lp_solver` 

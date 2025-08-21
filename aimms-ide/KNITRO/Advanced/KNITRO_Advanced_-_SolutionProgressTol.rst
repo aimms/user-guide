@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_SolutionProgressTol:
+.. _option-KNITRO-solution_progress_tolerance:
 
 
 Solution Progress Tolerance
@@ -18,7 +18,7 @@ The optimization will terminate when the relative change in the solution estimat
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Advanced_-_Solution_Progress_Iterations` 
+*	:ref:`option-KNITRO-solution_progress_iterations` 
 
 
 

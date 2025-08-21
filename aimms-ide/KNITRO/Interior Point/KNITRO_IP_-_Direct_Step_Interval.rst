@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Direct_Step_Interval:
+.. _option-KNITRO-direct_step_interval:
 
 
 Direct Step Interval
@@ -22,7 +22,7 @@ Setting the value to 0 will try to enforce that only direct steps are taken whic
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
+*	:ref:`option-KNITRO-algorithm` 
 
 
 

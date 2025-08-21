@@ -1,4 +1,4 @@
-.. _KNITRO_General_-_Linear_System_Max_Iterative_Re:
+.. _option-KNITRO-linear_system_max_iterative_refinements:
 
 
 Linear System Max Iterative Refinements

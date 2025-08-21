@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Barrier_Penalty_Parameter_St:
+.. _option-KNITRO-barrier_penalty_parameter_strategy:
 
 
 Barrier Penalty Parameter Strategy
@@ -37,4 +37,4 @@ This option has no effect on the Active Set and SQP algorithms.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm` 
+*	:ref:`option-KNITRO-algorithm` 

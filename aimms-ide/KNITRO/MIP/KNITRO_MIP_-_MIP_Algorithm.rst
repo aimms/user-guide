@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Algorithm:
+.. _option-KNITRO-mip_algorithm:
 
 
 MIP Algorithm
@@ -44,7 +44,7 @@ See the option **Algorithm**  for more information about the algorithms.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_General_-_Algorithm`  
-*	:ref:`KNITRO_MIP_-_MIP_Method`  
-*	:ref:`KNITRO_MIP_-_MIP_Start_Algorithm`  
-*	:ref:`KNITRO_MIP_-_Node_Algorithm`  
+*	:ref:`option-KNITRO-algorithm`  
+*	:ref:`option-KNITRO-mip_method`  
+*	:ref:`option-KNITRO-mip_start_algorithm`  
+*	:ref:`option-KNITRO-node_algorithm`  

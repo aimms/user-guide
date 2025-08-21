@@ -1,4 +1,4 @@
-.. _KNITRO_MS_-_Nr_multi_points:
+.. _option-KNITRO-number_of_multistart_points:
 
 
 Number of Multistart Points
@@ -22,7 +22,7 @@ The value of 0 has a special meaning; it lets Knitro automatically choose a valu
 
 **Learn more about** 
 
-*	:ref:`KNITRO_MS_-_Multistart`  
+*	:ref:`option-KNITRO-multistart`  
 
 
 

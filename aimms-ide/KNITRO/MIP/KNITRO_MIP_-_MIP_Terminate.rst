@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_MIP_Terminate:
+.. _option-KNITRO-mip_terminate:
 
 
 MIP Terminate

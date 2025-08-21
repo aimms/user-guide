@@ -1,4 +1,4 @@
-.. _KNITRO_Hessian_-_SecondOrderCor:
+.. _option-KNITRO-second_order_correction:
 
 
 Second Order Correction

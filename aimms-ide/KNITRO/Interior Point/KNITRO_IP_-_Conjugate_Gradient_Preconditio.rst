@@ -1,4 +1,4 @@
-.. _KNITRO_IP_-_Conjugate_Gradient_Preconditio:
+.. _option-KNITRO-conjugate_gradient_preconditioner:
 
 
 Conjugate Gradient Preconditioner

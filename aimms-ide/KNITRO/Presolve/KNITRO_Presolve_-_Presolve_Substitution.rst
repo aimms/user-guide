@@ -1,4 +1,4 @@
-.. _KNITRO_Presolve_-_Presolve_Substitution:
+.. _option-KNITRO-presolve_substitution:
 
 
 Presolve Substitution
@@ -50,5 +50,5 @@ With the setting 'All', all possible variable substitutions are enabled.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Presolve_-_Presolve`  
-*	:ref:`KNITRO_Presolve_-_Presolve_Substitution_Tolerance`  
+*	:ref:`option-KNITRO-presolve`  
+*	:ref:`option-KNITRO-presolve_substitution_tolerance`  

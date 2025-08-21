@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_Cuts_-_Lift_and_Project_Cuts:
+.. _option-KNITRO-lift_and_project_cuts:
 
 
 Lift and Project Cuts

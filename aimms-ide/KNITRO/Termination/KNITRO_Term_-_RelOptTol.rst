@@ -1,4 +1,4 @@
-.. _KNITRO_Term_-_RelOptTol:
+.. _option-KNITRO-relative_optimality_tolerance:
 
 
 Relative Optimality Tolerance
@@ -38,4 +38,4 @@ if the problem is unconstrained. Here f represents the objective function.
 
 **Learn more about** 
 
-*	:ref:`KNITRO_Term_-_AbsOptTol`  
+*	:ref:`option-KNITRO-absolute_optimality_tolerance`  

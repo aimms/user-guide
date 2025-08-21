@@ -1,4 +1,4 @@
-.. _KNITRO_MIP_-_Node_Selection_Direction:
+.. _option-KNITRO-node_selection_direction:
 
 
 Node Selection_Direction

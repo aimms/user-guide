@@ -1,4 +1,4 @@
-.. _KNITRO_Advanced_-_Initial_trust:
+.. _option-KNITRO-initial_trust_scaling_factor:
 
 
 Initial Trust Scaling Factor
