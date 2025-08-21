@@ -93,8 +93,8 @@ Gurobi requires that your computer's CPU supports SSE2. SSE2 was first introduce
 **Learn more about** 
 
 *	`GUROBI <https://www.gurobi.com/>`_ (Internet link)
-*	:ref:`GUROBI_GUROBI_to_AIMMS_Mapping`  
-*	:ref:`GUROBI_AIMMS_to_GUROBI_Mapping`  
+*	:ref:`GUROBI_to_AIMMS_Mapping`  
+*	:ref:`AIMMS_to_GUROBI_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	:ref:`GUROBI_FeasRelax_Feasibility_Relaxation` 
 *	:ref:`GUROBI_Hints` 

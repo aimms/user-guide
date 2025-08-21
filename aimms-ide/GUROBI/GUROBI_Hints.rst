@@ -1,4 +1,4 @@
-.. __GUROBI_Hints:
+.. _GUROBI_Hints:
 
 
 Hints

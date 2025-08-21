@@ -1,4 +1,4 @@
-.. GUROBI_Solution_Pool:
+.. _GUROBI_Solution_Pool:
 
 
 Solution Pool
