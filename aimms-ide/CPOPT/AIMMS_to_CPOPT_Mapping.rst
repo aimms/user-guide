@@ -96,7 +96,7 @@ The table shows in the left column the AIMMS options for CP Optimizer while the 
      - RestartFailLimit
    * - :ref:`option-CPOPT-restart_growth_factor` 
      - RestartGrowthFactor
-   * - :ref:`CPOPT_Search_-_Search_type` 
+   * - :ref:`option-CPOPT-search_type` 
      - SearchType
    * - :ref:`option-CPOPT-value_selection` 
      -  

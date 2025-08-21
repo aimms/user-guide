@@ -65,7 +65,7 @@ The table shows in the left column the parameters from CP Optimizer that can be 
    * - RestartGrowthFactor
      - :ref:`option-CPOPT-restart_growth_factor`
    * - SearchType
-     - :ref:`CPOPT_Search_-_Search_type`
+     - :ref:`option-CPOPT-search_type`
    * - SequenceInferenceLevel
      - :ref:`option-CPOPT-sequence_inference_level`
    * - SolutionLimit

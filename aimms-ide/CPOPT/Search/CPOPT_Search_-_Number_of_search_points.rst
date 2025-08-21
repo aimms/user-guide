@@ -18,4 +18,4 @@ This option controls the number of (possibly partial) solutions manipulated by t
 
 **Learn more about** 
 
-*	:ref:`CPOPT_Search_-_Search_type` 
+*	:ref:`option-CPOPT-search_type` 

@@ -38,4 +38,4 @@ When this option is switched on then CP Optimizer starts failure-directed search
 
 *	:ref:`option-CPOPT-failure_directed_search_emphasis` 
 *	:ref:`option-CPOPT-failure_directed_search_memory_limit` 
-*	:ref:`CPOPT_Search_-_Search_type` 
+*	:ref:`option-CPOPT-search_type` 
