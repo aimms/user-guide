@@ -22,7 +22,7 @@ From this menubar, you can choose the following actions:
 *	:ref:`Miscellaneous_Text_Editor` 
 *	:ref:`Miscellaneous_Model_File` 
 *	:ref:`Page-Manager_Opening_a_Page` 
-*	:ref:`Options_Startup__authorization_-_Star3` 
+*	:ref:`option-AIMMS-startup_page` 
 *	:ref:`Miscellaneous_Text_Editor` 
 *	:ref:`Miscellaneous_Listing_File`  
 *	:ref:`Miscellaneous_Put_File`  
@@ -118,7 +118,7 @@ From this menubar, you can choose the following actions:
 *	:ref:`Miscellaneous_Help_on_Window`  
 *	:ref:`Miscellaneous_Help_-_Contents_and_Index`  
 *	:ref:`Miscellaneous_AIMMSGettingStarted`  
-*	:ref:`Options_Help_-_Project_Documentation`  
+*	:ref:`option-AIMMS-project_documentation`  
 *	:ref:`Miscellaneous_About_AIMMS_Dialog_Box`  
 
 

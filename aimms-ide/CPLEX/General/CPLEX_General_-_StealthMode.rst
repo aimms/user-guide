@@ -43,7 +43,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`Options_Progress_Options_-_Progress_Time_Interval` 
+*	:ref:`option-AIMMS-progress_time_interval` 
 
 
 

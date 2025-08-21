@@ -35,14 +35,14 @@ The information for values, marginals, basis statuses and bound statuses is retr
 
 
 
-*	:ref:`Options_Sensitivity_-_Always_Store_Bas`  (for basis statuses)
-*	:ref:`Options_Sensitivity_-_Always_Store_Con`  (for values and bound statuses)
-*	:ref:`Options_Sensitivity_-_Always_Store_Mar`  (for marginals)
+*	:ref:`option-AIMMS-always_store_basics`  (for basis statuses)
+*	:ref:`option-AIMMS-always_store_constraint_levels`  (for values and bound statuses)
+*	:ref:`option-AIMMS-always_store_marginals`  (for marginals)
 
 
 
 
-Instead of setting these options you can also switch on the option :ref:`Options_Math_Program_Inspector_-_Store` .
+Instead of setting these options you can also switch on the option :ref:`option-AIMMS-store_complete_solver_solution`.
 
 
 

@@ -59,8 +59,8 @@ The difference between settings 'All' and 'Remark' for option **Solver Listing M
 *	:ref:`option-CPLEX-mip_interval` 
 *	:ref:`option-CPLEX-mip_search_strategy` 
 *	:ref:`option-CPLEX-simplex_display` 
-*	:ref:`Options_Solver_Specific_-_Solver_Listi`  
-*	:ref:`Options_Solver_Specific_-_Solver_List1`  
+*	:ref:`option-AIMMS-solver_listing`  
+*	:ref:`option-AIMMS-solver_listing_messages`  
 
 
 

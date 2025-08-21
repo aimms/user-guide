@@ -20,7 +20,7 @@ From this Menubar, you can choose the following actions:
 *	:ref:`Miscellaneous_Text_Editor` 
 *	:ref:`Miscellaneous_Model_File` 
 *	:ref:`Page-Manager_Opening_a_Page` 
-*	:ref:`Options_Startup__authorization_-_Star3` 
+*	:ref:`option-AIMMS-startup_page` 
 *	:ref:`Miscellaneous_Text_Editor` 
 *	:ref:`Miscellaneous_Listing_File`  
 *	:ref:`Miscellaneous_Put_File`  

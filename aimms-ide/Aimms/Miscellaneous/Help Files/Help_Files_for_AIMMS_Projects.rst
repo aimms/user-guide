@@ -22,7 +22,7 @@ Depending on the type of file that has been specified as the Application help fi
 
 **Learn more about** 
 
-*	:ref:`Options_Help_-_Application_Help_File`  
+*	:ref:`option-AIMMS-application_help_file`  
 
 
 

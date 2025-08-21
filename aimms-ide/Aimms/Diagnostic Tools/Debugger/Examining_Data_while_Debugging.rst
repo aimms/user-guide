@@ -32,8 +32,8 @@ If you need to examine the effect of a statement on the data of a particular ide
 
 **Learn more about** 
 
-*	:ref:`Options_Tooltips_-_Identifiers_in_Mode`  
-*	:ref:`Options_Tooltips_-_Identifiers_in_Mod1`  
+*	:ref:`option-AIMMS-identifiers_in_model_tree`  
+*	:ref:`option-AIMMS-identifiers_in_model_text`  
 
 
 

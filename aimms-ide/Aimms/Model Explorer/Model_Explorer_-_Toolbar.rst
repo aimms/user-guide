@@ -48,7 +48,7 @@ The Model Explorer is equipped with a non-default Toolbar.
 
 From this Toolbar, you can choose the following actions:
 
-*	|img_def_First_Page_button_bmp| :ref:`Options_Startup__authorization_-_Star3` 
+*	|img_def_First_Page_button_bmp| :ref:`option-AIMMS-startup_page` 
 
 *   |img_def_Save_All_button_bmp| :ref:`Miscellaneous_Saving_a_Project`  
 

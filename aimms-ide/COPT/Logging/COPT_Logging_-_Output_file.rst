@@ -40,8 +40,8 @@ There is no difference between settings 'All' and 'Remark' for option **Solver L
 **Learn more about** 
 
 *	:ref:`option-COPT-sensitivity_method` 
-*	:ref:`Options_Solver_Specific_-_Solver_Listi`  
-*	:ref:`Options_Solver_Specific_-_Solver_List1`  
+*	:ref:`option-AIMMS-solver_listing`  
+*	:ref:`option-AIMMS-solver_listing_messages`  
 
 
 

@@ -117,8 +117,8 @@ In case of a QP or QCP the contents of the fields depends on the solver used. In
 *	:any:`CurrentMatrixRowCount`
 *	:any:`CurrentMatrixBlockSizes`
 *	:any:`ShowProgressWindow`
-*	:ref:`Options_Progress_Options_-_Progress_So` 
-*	:ref:`Options_Progress_Options_-_Progress_Time_Interval` 
+*	:ref:`option-AIMMS-progress_solution` 
+*	:ref:`option-AIMMS-progress_time_interval` 
 
 
 

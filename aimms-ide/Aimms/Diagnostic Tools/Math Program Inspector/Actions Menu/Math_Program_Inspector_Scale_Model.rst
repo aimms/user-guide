@@ -56,11 +56,11 @@ Another advantage is that it can be used to scale a nonlinear model.
 
 **Learn more about** 
 
-*	:ref:`Options_Scaling_-_List_Scaling_Factors` 
+*	:ref:`option-AIMMS-list_scaling_factors` 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Matrix1` 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Resolve` 
-*	:ref:`Options_Scaling_-_Scale_Model` 
-*	:ref:`Options_Math_Program_Inspector_-_Scale_using_Solution` 
+*	:ref:`option-AIMMS-scale_model` 
+*	:ref:`option-AIMMS-scale_using_solution` 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Scaling_Factors` 
 *   :ref:`sec:units.ident`
 

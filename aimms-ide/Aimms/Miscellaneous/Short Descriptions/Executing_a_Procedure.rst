@@ -15,7 +15,7 @@ There are many different ways to let AIMMS execute a procedure in your model. Fo
 **Learn more about** 
 
 *	:ref:`Model-Explorer_Procedures`  
-*	:ref:`Options_Startup__authorization_-_star2`  
+*	:ref:`option-AIMMS-startup_procedure`  
 *	:ref:`Page-Manager_Page_Property_-_Action`  
 *	:ref:`Button_Button_Introduction`  
 *	:ref:`Shared-Object-Properties_Object_Properties_Procedure`  

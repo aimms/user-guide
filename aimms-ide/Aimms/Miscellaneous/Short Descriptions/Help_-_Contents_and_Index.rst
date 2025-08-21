@@ -21,7 +21,7 @@ In addition to getting direct help on a specific topic for the window that you a
 
 **Learn more about** 
 
-*	:ref:`Options_Help_-_Application_Help_File`  
+*	:ref:`option-AIMMS-application_help_file`  
 
 
 

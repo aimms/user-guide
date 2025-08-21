@@ -33,8 +33,8 @@ The logging information is written to the file 'CPLEX 22.1.sta' if the general s
 **Learn more about** 
 
 *	:ref:`option-CPLEX-mip_display` 
-*	:ref:`Options_Solver_Specific_-_Solver_Listi`  
-*	:ref:`Options_Solver_Specific_-_Solver_List1`  
+*	:ref:`option-AIMMS-solver_listing`  
+*	:ref:`option-AIMMS-solver_listing_messages`  
 
 
 

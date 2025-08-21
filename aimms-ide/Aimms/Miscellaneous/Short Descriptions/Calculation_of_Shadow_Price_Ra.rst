@@ -159,9 +159,9 @@ since for these constraints it is known that
 
 **Learn more about** 
 
-*	:ref:`Options_Sensitivity_-_Shadow_Price_Ran`  
-*	:ref:`Options_Sensitivity_-_Shadow_Price_Ra1` 
-*	:ref:`Options_Sensitivity_-_Time_Limit_Sensitivity_Ranges`  
+*	:ref:`option-AIMMS-shadow_price_range_absolute_tolerance`  
+*	:ref:`option-AIMMS-shadow_price_range_relative_tolerance` 
+*	:ref:`option-AIMMS-time_limit_sensitivity_ranges`  
 
 
 

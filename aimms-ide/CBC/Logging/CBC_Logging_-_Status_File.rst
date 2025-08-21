@@ -40,5 +40,5 @@ The logging information is written if the general solvers option **Solver Listin
 
 **Learn more about** 
 
-*	:ref:`Options_Solver_Specific_-_Solver_Listi`  
-*	:ref:`Options_Solver_Specific_-_Solver_List1`  
+*	:ref:`option-AIMMS-solver_listing`  
+*	:ref:`option-AIMMS-solver_listing_messages`  

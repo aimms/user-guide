@@ -31,11 +31,11 @@ Setting the **MPI Feasibility Tolerance**  to 0 resolves this discrepancy.
 
 The information for level values, shadow prices, basis statuses and bound statuses is retrieved from the solver. This information cannot be retrieved if you solve two models, and open the Math Program Inspector for the first model, because the first model will no longer be loaded in the solver (only the second model). To have AIMMS store this information for the first model you should switch on the following options:
 
-*   :ref:`Options_Sensitivity_-_Always_Store_Bas`  (for basis statuses)
-*   :ref:`Options_Sensitivity_-_Always_Store_Con`  (for level values and bound statuses)
-*   :ref:`Options_Sensitivity_-_Always_Store_Mar`  (for shadow prices)
+*   :ref:`option-AIMMS-always_store_basics`  (for basis statuses)
+*   :ref:`option-AIMMS-always_store_constraint_levels`  (for level values and bound statuses)
+*   :ref:`option-AIMMS-always_store_marginals`  (for shadow prices)
 
-Instead of setting these options you can also switch on the option :ref:`Options_Math_Program_Inspector_-_Store` .
+Instead of setting these options you can also switch on the option :ref:`option-AIMMS-store_complete_solver_solution`.
 
 (In case GMP functionality is used to solve the models then the first model will remain loaded in the solver, unless the GMP corresponding to the first model is deleted, and in that case there is no need to set these options.)
 

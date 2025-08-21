@@ -27,13 +27,13 @@ The information for reduced costs and basis statuses is retrieved from the solve
 
 
 
-*	:ref:`Options_Sensitivity_-_Always_Store_Bas`  (for basis statuses)
-*	:ref:`Options_Sensitivity_-_Always_Store_Mar`  (for reduced costs)
+*	:ref:`option-AIMMS-always_store_basics`  (for basis statuses)
+*	:ref:`option-AIMMS-always_store_marginals`  (for reduced costs)
 
 
 
 
-Instead of setting these options you can also switch on the option :ref:`Options_Math_Program_Inspector_-_Store` .
+Instead of setting these options you can also switch on the option :ref:`option-AIMMS-store_complete_solver_solution`.
 
 
 

@@ -59,7 +59,7 @@ If the value of this option equals 'Apply branch-and-cut' then CPLEX will use on
 **Learn more about** 
 
 *	:ref:`option-ODHCPLEX-global_thread_limit` 
-*	:ref:`Options_Progress_Options_-_Progress_Time_Interval` 
+*	:ref:`option-AIMMS-progress_time_interval` 
 
 
 

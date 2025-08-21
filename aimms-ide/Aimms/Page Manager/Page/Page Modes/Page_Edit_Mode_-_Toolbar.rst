@@ -44,7 +44,7 @@ From this Toolbar, you can choose the following actions:
 
 *	|img_def_User_Mode_button_bmp| :ref:`Page-Manager_User_Mode`  
 *	|img_def_Save_button_bmp| :ref:`Miscellaneous_Save_a_Page`  
-*	|img_def_First_Page_button_bmp| :ref:`Options_Startup__authorization_-_Star3` 
+*	|img_def_First_Page_button_bmp| :ref:`option-AIMMS-startup_page` 
 *	|img_def_Save_All_button_bmp| :ref:`Miscellaneous_Saving_a_Project`  
 *	|img_def_Cut_button_bmp| :ref:`Page-Manager_Cut_Copy_Paste_and_Delete_on_a`  
 *	|img_def_Copy_Button_bmp| :ref:`Page-Manager_Cut_Copy_Paste_and_Delete_on_a`  

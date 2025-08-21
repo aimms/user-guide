@@ -37,13 +37,13 @@ The information for marginals and basis statuses is retrieved from the solver. T
 
 
 
-*	:ref:`Options_Sensitivity_-_Always_Store_Bas`  (for basis statuses)
-*	:ref:`Options_Sensitivity_-_Always_Store_Mar`  (for marginals)
+*	:ref:`option-AIMMS-always_store_basics`  (for basis statuses)
+*	:ref:`option-AIMMS-always_store_marginals`  (for marginals)
 
 
 
 
-Instead of setting these options you can also switch on the option :ref:`Options_Math_Program_Inspector_-_Store` .
+Instead of setting these options you can also switch on the option :ref:`option-AIMMS-store_complete_solver_solution`.
 
 
 

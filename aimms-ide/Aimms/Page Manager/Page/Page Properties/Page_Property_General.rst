@@ -116,7 +116,7 @@ Only while opening a page, the hidden status is considered. This means that chan
 
 **Learn more about** 
 
-*	:ref:`Options_Help_-_Application_Help_File`  
+*	:ref:`option-AIMMS-application_help_file`  
 
 
 

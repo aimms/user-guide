@@ -49,8 +49,8 @@ There is no difference between settings 'All' and 'Remark' for option **Solver L
 *	:ref:`option-GUROBI-display_solution_quality` 
 *	:ref:`option-GUROBI-output_file_display_interval` 
 *	:ref:`option-GUROBI-sensitivity_method` 
-*	:ref:`Options_Solver_Specific_-_Solver_Listi`  
-*	:ref:`Options_Solver_Specific_-_Solver_List1`  
+*	:ref:`option-AIMMS-solver_listing`  
+*	:ref:`option-AIMMS-solver_listing_messages`  
 
 
 

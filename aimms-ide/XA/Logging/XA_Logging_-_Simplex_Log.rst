@@ -30,9 +30,9 @@ The output produced by this option can only be noticed if either the option **So
 
 **Learn more about** 
 
-*	:ref:`Options_Solver_Specific_-_Solver_Windo`  
-*	:ref:`Options_Solver_Specific_-_Solver_Listi`  
-*	:ref:`Options_Solver_Specific_-_Solver_List1`  
+*	:ref:`option-AIMMS-solver_window_messages`  
+*	:ref:`option-AIMMS-solver_listing`  
+*	:ref:`option-AIMMS-solver_listing_messages`  
 
 
 

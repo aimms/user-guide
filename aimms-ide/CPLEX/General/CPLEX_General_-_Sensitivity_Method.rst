@@ -48,7 +48,7 @@ Multiple LP problems are solved to calculate shadow price ranges for constraints
 
 **Learn more about** 
 
-*	:ref:`Options_Sensitivity_-_Calculate_Sensit` 
+*	:ref:`option-AIMMS-calculate_sensitivity_ranges` 
 *	:ref:`option-CPLEX-global_thread_limit`  
 *	:ref:`option-CPLEX-lp_method` 
 

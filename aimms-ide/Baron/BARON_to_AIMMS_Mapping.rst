@@ -87,7 +87,7 @@ The table shows in the left column the parameters from BARON that can be set in 
    * - pdo
      - :ref:`option-Baron-number_of_probing_problems`
    * - prtimefreq
-     - :ref:`Options_Progress_Options_-_Progress_Time_Interval`   (General solvers option)
+     - :ref:`option-AIMMS-progress_time_interval`   (General solvers option)
    * - RelConFeasTol
      - :ref:`option-Baron-relative_feasibility_tolerance`
    * - RelIntFeasTol

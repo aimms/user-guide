@@ -31,7 +31,7 @@ In this toolbar, you can choose the following actions:
 *	|img_def_Edit_Mode_button_bmp| :ref:`Page-Manager_Edit_Mode`  
 *	|img_def_Keep_Open_button_bmp| :ref:`Miscellaneous_Keep_Page_Open`  
 *	|img_def_Undo_button_bmp| :ref:`Miscellaneous_Undo_Edit`  
-*	|img_def_First_Page_button_bmp| :ref:`Options_Startup__authorization_-_Star3` 
+*	|img_def_First_Page_button_bmp| :ref:`option-AIMMS-startup_page` 
 *	|img_def_Save_All_button_bmp| :ref:`Miscellaneous_Saving_a_Project`  
 *	|img_def_Cut_button_bmp| :ref:`Page-Manager_Cut_Copy_Paste_and_Delete`  
 *	|img_def_Copy_Button_bmp| :ref:`Page-Manager_Cut_Copy_Paste_and_Delete`  

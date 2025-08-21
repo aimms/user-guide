@@ -58,8 +58,8 @@ The logging information is written to the AIMMS message window if the general so
 *	:ref:`option-ODHCPLEX-barrier_display` 
 *	:ref:`option-ODHCPLEX-mip_display` 
 *	:ref:`option-ODHCPLEX-simplex_display` 
-*	:ref:`Options_Solver_Specific_-_Solver_List1`   (General solvers option)
-*	:ref:`Options_Solver_Specific_-_Solver_Windo`   (General solvers option)
+*	:ref:`option-AIMMS-solver_listing_messages`   (General solvers option)
+*	:ref:`option-AIMMS-solver_window_messages`   (General solvers option)
 *	:ref:`option-ODHCPLEX-status_display` 
 
 
