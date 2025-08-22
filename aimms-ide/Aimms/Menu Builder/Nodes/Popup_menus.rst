@@ -22,7 +22,7 @@ Groups of menu items in a single popup menu can be separated from each other by 
 **Remark** 
 
 
-You can set a menu item in a popup menu as the default item. If the popup menu is used as a right-mouse popup menu, then this default item will be displayed in bold face. Furthermore, this default item will be used as the double-click action of the object to which it is attached, unless the object has specified a specific 'procedure upon double click'. If the popup menu is part of a menu bar, then the default status of an item is ignored. You can set the default status for multiple items in the same popup menu, but Aimms will only use the first default status it encounters in the resulting popup menu. In combination with the 'hidden' status of menu items, you can take advantage of this.
+You can set a menu item in a popup menu as the default item. If the popup menu is used as a right-mouse popup menu, then this default item will be displayed in bold face. Furthermore, this default item will be used as the double-click action of the object to which it is attached, unless the object has specified a specific 'procedure upon double click'. If the popup menu is part of a menu bar, then the default status of an item is ignored. You can set the default status for multiple items in the same popup menu, but AIMMS will only use the first default status it encounters in the resulting popup menu. In combination with the 'hidden' status of menu items, you can take advantage of this.
 
 
 

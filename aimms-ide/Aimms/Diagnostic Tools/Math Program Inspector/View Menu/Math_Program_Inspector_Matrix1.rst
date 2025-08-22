@@ -14,7 +14,7 @@ By selecting Matrix View from the View menu, the Matrix View tab is opened. This
 
 **Block coloring** 
 
-The colors of the displayed blocks correspond to the value of the coefficient. The colors will vary between green and red indicating small and large values. Any number with absolute value equal to one will be colored green. Any number for which the absolute value of the logarithm of the value exceeds the logarithm of some threshold value will be colored red. By default, the threshold is set to 1000, meaning that all nonzeros x ÎÎ (-¥¥, -1000] ÈÈ [-1/1000,.1/1000] ÈÈ [1000, ¥¥) will be colored red. All numbers in between will be colored with a gradient color in the spectrum between green and red. The value of the threshold is available as an AIMMS option with name bad_scaling_threshold and can be found in the Project - Math program inspector category in the Aimms Options dialog box.
+The colors of the displayed blocks correspond to the value of the coefficient. The colors will vary between green and red indicating small and large values. Any number with absolute value equal to one will be colored green. Any number for which the absolute value of the logarithm of the value exceeds the logarithm of some threshold value will be colored red. By default, the threshold is set to 1000, meaning that all nonzeros x ÎÎ (-¥¥, -1000] ÈÈ [-1/1000,.1/1000] ÈÈ [1000, ¥¥) will be colored red. All numbers in between will be colored with a gradient color in the spectrum between green and red. The value of the threshold is available as an AIMMS option with name bad_scaling_threshold and can be found in the Project - Math program inspector category in the AIMMS Options dialog box.
 
 
 

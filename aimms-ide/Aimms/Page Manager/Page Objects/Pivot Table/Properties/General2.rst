@@ -197,7 +197,7 @@ In the Pivot Table Options dialog, the end user himself can specify whether he w
 
 
 
-The pivot table is customizable by the end user in various ways. Because you do not want to make the same customizations over and over again each time that you have closed and re-opened a page, the pivot table allows you to save the current Layout or State. This state info is saved into a file that is separate from the project file itself, and Aimms distinguishes between a developer state file and an end-user state file.
+The pivot table is customizable by the end user in various ways. Because you do not want to make the same customizations over and over again each time that you have closed and re-opened a page, the pivot table allows you to save the current Layout or State. This state info is saved into a file that is separate from the project file itself, and AIMMS distinguishes between a developer state file and an end-user state file.
 
 
 
@@ -219,7 +219,7 @@ The properties below are available to control the saving of the Layout or State.
 
 
 
-This property defines whether or not an end-user of your Aimms application is allowed to save the modification that he makes in the pivot table. It can be set to the following values:
+This property defines whether or not an end-user of your AIMMS application is allowed to save the modification that he makes in the pivot table. It can be set to the following values:
 
 
 *   No: no end user state will not be created	
@@ -259,7 +259,7 @@ This property can have the following values:
 
 
 
-By default Aimms will generate a unique name for each pivot table and use that name to save and retrieve the state of the table in the end-user or developer state file. If you want to have two pivot tables on separate pages to use the same state, you may enter a name yourself and use this name in both pivot tables. This is especially convenient for a pivot table on a print page: A pivot table on a print page cannot be modified directly because all objects on a print page are 'display-only', but you can prepare a specific layout to be printed on a regular page and use the saved state from that page to open the print page in that same layout.
+By default AIMMS will generate a unique name for each pivot table and use that name to save and retrieve the state of the table in the end-user or developer state file. If you want to have two pivot tables on separate pages to use the same state, you may enter a name yourself and use this name in both pivot tables. This is especially convenient for a pivot table on a print page: A pivot table on a print page cannot be modified directly because all objects on a print page are 'display-only', but you can prepare a specific layout to be printed on a regular page and use the saved state from that page to open the print page in that same layout.
 
 
 

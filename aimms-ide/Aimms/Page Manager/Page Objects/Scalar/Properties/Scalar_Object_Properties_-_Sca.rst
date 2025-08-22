@@ -31,7 +31,7 @@ If you select the Multiple Line Edit Field (which is only available for string p
 **Password Style** 
 
 
-This option is only available for the Single Line Edit Field. With this option you can create an input field for a scalar string parameter that behaves like a password input: instead of showing the entered text each character is displayed by a * sign. Besides that, the Copy and Cut features are disabled. Please note that inside the Aimms model, the string is stored exactly as it is typed, so you should be careful that the string cannot be made visible somewhere else in the GUI. Perhaps it is best to clear the string parameter after it is accepted.
+This option is only available for the Single Line Edit Field. With this option you can create an input field for a scalar string parameter that behaves like a password input: instead of showing the entered text each character is displayed by a * sign. Besides that, the Copy and Cut features are disabled. Please note that inside the AIMMS model, the string is stored exactly as it is typed, so you should be careful that the string cannot be made visible somewhere else in the GUI. Perhaps it is best to clear the string parameter after it is accepted.
 
 
 

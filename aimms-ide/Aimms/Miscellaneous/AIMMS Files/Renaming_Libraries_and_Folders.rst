@@ -18,7 +18,7 @@ The .aimms file in the root folder of your application contains references to al
 
 
 
-Here is an example of the contents of an .aimms file (assuming the name is ``myAimmsApp.aimms`` ):
+Here is an example of the contents of an .aimms file (assuming the name is ``myAimmsApp.aimms``):
 
 
 

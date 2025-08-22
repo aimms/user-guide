@@ -22,7 +22,7 @@ In the Attribute Forms of the model editor, you can get tooltip information when
 
 
 
-Standard, when not in Debugging or Profiling mode, the current syntax highlighting editor in Aimms always tries to show the Type Info. When to show the Current Data tooltip instead can be controlled by this option.
+Standard, when not in Debugging or Profiling mode, the current syntax highlighting editor in AIMMS always tries to show the Type Info. When to show the Current Data tooltip instead can be controlled by this option.
 
 
 

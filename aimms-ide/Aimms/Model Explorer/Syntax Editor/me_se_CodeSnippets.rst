@@ -19,7 +19,7 @@ Creating Code Snippets goes beyond the scope of this document, a good starting p
 `Create a Basic Code Snippet <https://learn.microsoft.com/en-us/visualstudio/ide/walkthrough-creating-a-code-snippet?view=vs-2015&redirectedfrom=MSDN>`_. 
 The Code Snippets provided by the installation might as well serve as an example. 
 When creating Code Snippets for use with AIMMS, it is necessary to set the Language XML-attribute 
-of the Code XML-element to the value Aimms. 
+of the *Code* XML-element to the value *Aimms*. 
 Next, the XML files need to stored in the Snippets subdirectory of the AIMMS installation (e.g. C:\Users\xxx\AppData\Local\AIMMS\IFA\Aimms\4.xx.x.xxx-x64\Snippets).
 
 

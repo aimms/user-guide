@@ -14,7 +14,7 @@ The Picture Property Tab contains the specific properties that are available for
 
 **File Name/Identifier** 
 
-To draw a picture on a page, Aimms always needs an image file (supported files are: BMP, EMF, Exif, GIF, ICON, JPEG, JPG, PNG, TIFF, and WMF). This file should either be available on your disk, or should be imported in your project file as a Project User File. Besides specifying the location of the filename directly, you can also specify a string parameter that contains a reference to a file name.
+To draw a picture on a page, AIMMS always needs an image file (supported files are: BMP, EMF, Exif, GIF, ICON, JPEG, JPG, PNG, TIFF, and WMF). This file should either be available on your disk, or should be imported in your project file as a Project User File. Besides specifying the location of the filename directly, you can also specify a string parameter that contains a reference to a file name.
 
 
 
