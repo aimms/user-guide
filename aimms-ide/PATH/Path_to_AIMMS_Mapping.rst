@@ -1,7 +1,6 @@
 
 
 .. _Path_to_AIMMS_Mapping:
-.. _option-PATH-path_to_aimms_mapping:
 
 
 PATH to AIMMS Mapping
