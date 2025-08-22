@@ -1,6 +1,5 @@
 
 
-.. _Advanced_-_Factorization_Frequ:
 .. _option-MINOS-factorization_frequency:
 
 

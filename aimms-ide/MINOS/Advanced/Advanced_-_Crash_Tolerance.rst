@@ -1,6 +1,5 @@
 
 
-.. _Advanced_-_Crash_Tolerance:
 .. _option-MINOS-crash_tolerance:
 
 

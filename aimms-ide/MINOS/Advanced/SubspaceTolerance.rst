@@ -1,6 +1,5 @@
 
 
-.. _SubspaceTolerance:
 .. _option-MINOS-subspace_tolerance:
 
 

@@ -1,6 +1,5 @@
 
 
-.. _Advanced_-_Function_Precision:
 .. _option-MINOS-function_precision:
 
 

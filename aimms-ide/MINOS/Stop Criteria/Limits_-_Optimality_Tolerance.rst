@@ -1,6 +1,5 @@
 
 
-.. _Limits_-_Optimality_Tolerance:
 .. _option-MINOS-optimality_tolerance:
 
 

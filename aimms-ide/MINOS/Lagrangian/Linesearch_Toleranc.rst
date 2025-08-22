@@ -1,6 +1,5 @@
 
 
-.. _Advanced_-_Linesearch_Toleranc:
 .. _option-MINOS-linesearch_tolerance:
 
 

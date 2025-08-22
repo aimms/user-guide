@@ -1,6 +1,5 @@
 
 
-.. _Feasibility_-_Feasibility_Tole:
 .. _option-MINOS-feasibility_tolerance:
 
 

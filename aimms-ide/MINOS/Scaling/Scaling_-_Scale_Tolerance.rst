@@ -1,6 +1,5 @@
 
 
-.. _Scaling_-_Scale_Tolerance:
 .. _option-MINOS-scale_tolerance:
 
 

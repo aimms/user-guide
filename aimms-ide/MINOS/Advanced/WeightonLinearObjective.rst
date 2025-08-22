@@ -1,6 +1,5 @@
 
 
-.. _WeightonLinearObjective:
 .. _option-MINOS-weight_on_linear_objective:
 
 

@@ -1,6 +1,5 @@
 
 
-.. _PenaltyParameter:
 .. _option-MINOS-penalty_parameter:
 
 

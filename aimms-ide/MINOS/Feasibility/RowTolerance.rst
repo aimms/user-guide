@@ -1,6 +1,5 @@
 
 
-.. _RowTolerance:
 .. _option-MINOS-row_tolerance:
 
 

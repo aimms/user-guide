@@ -1,6 +1,5 @@
 
 
-.. _RadiusofConvergence:
 .. _option-MINOS-radius_of_convergence:
 
 

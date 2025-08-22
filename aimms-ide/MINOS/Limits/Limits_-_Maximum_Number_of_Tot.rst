@@ -1,6 +1,5 @@
 
 
-.. _Limits_-_Maximum_Number_of_Tot:
 .. _option-MINOS-maximum_number_of_total_iterations:
 
 

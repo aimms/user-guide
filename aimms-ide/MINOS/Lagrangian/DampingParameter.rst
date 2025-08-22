@@ -1,6 +1,5 @@
 
 
-.. _DampingParameter:
 .. _option-MINOS-damping_parameter:
 
 

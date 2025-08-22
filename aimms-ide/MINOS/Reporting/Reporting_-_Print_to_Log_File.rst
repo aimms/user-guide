@@ -1,6 +1,5 @@
 
 
-.. _Reporting_-_Print_to_Log_File:
 .. _option-MINOS-print_to_log_file:
 
 

@@ -1,6 +1,5 @@
 
 
-.. _Scaling_-_Scale_Method:
 .. _option-MINOS-scale_method:
 
 

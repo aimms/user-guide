@@ -5,6 +5,6 @@ Lagrangian
     :maxdepth: 1
 
     DampingParameter
-    Advanced_-_Linesearch_Toleranc
+    Linesearch_Toleranc
     PenaltyParameter
     RadiusofConvergence
