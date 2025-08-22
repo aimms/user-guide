@@ -1,7 +1,7 @@
 .. |img_def_Edit_Mode_button_bmp| image:: images/Edit_Mode_button.bmp
 
 
-.. _Page-Manager_Edit_Mode:
+.. _aimmshelp1-Page_Edit_Mode:
 
 
 Edit Mode
