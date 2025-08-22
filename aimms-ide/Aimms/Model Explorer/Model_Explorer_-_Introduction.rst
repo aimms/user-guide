@@ -1,4 +1,4 @@
-.. _Model-Explorer_Model_Explorer_-_Introduction:
+.. _aimmshelp3-Model_Explorer_Introduction:
 
 Model Explorer Introduction
 =================================
@@ -24,7 +24,7 @@ that make up the core of your modeling application.
 *   :ref:`Model-Explorer_Manipulating_the_Model_Tree`  
 *   :ref:`Model-Explorer_Model_Explorer_-_Menubar`  
 *   :ref:`Model-Explorer_Model_Explorer_-_Toolbar` 
-*   :ref:`Identifier-Selector_Identifier_Selector`  
+*   :ref:`aimmshelp21-Identifier_Selector`  
 *   :ref:`Model-Explorer_Text_Representation_of_a_Model` 
 
 

@@ -22,8 +22,8 @@ To rename a page:
 
 **Learn more about** 
 
-*	:ref:`Page-Manager_Page_Manager_Introduction`  
-*	:ref:`Template-Manager_Template_Manager_Introduction`  
+*	:ref:`aimmshelp9-Page_Manager_Introduction`  
+*	:ref:`aimmshelp10-Template_Manager_Introduction`  
 
 
 

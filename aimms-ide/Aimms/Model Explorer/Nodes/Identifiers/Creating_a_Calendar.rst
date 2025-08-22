@@ -66,7 +66,7 @@ A calendar is a special kind of set. You can use a calendar to index data define
 
 
 *	:ref:`sec:time.calendar`
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 
 

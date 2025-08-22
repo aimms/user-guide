@@ -27,7 +27,7 @@ To change the drawing order of objects:
 
 **How to …** 
 
-*	:ref:`Page-Manager_Edit_Mode`  
+*	:ref:`aimmshelp1-Page_Edit_Mode`  
 
 
 

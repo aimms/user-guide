@@ -24,7 +24,7 @@ By default, the threshold is set to 1000, meaning that all nonzeros x in (-inf,-
 
 **Learn more about** 
 
-*	:ref:`Diagnostic-Tools_AIMMS_Math_Program_Inspector`  
+*	:ref:`aimmshelp26-Math_Program_Inspector`  
 
 
 

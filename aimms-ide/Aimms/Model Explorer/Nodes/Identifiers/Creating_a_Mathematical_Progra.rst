@@ -49,7 +49,7 @@ The most commonly used attributes of a mathematical program are discussed below.
 **Learn more about** 
 
 *	:ref:`sec:mp.mp`
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 *	:ref:`Miscellaneous_Solver_Configuration`  
 *	:ref:`Security_AIMMS_License_Summary`  

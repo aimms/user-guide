@@ -19,7 +19,7 @@ To open the page properties dialog box:
 
 **Learn more about** 
 
-*	:ref:`Page-Manager_Edit_Mode`  
+*	:ref:`aimmshelp1-Page_Edit_Mode`  
 
 
 

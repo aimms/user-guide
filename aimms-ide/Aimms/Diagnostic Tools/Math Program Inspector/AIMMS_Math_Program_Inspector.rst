@@ -1,6 +1,6 @@
 
 
-.. _Diagnostic-Tools_AIMMS_Math_Program_Inspector:
+.. _aimmshelp26-Math_Program_Inspector:
 
 
 AIMMS Math Program Inspector

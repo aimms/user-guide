@@ -17,11 +17,11 @@ From this Menubar, you can choose the following actions:
 *	:ref:`Miscellaneous_LibraryManager`   
 *	:ref:`Miscellaneous_Model_File` 
 *	:ref:`Page-Manager_Creating_a_Page`  
-*	:ref:`Miscellaneous_Text_Editor` 
+*	:ref:`aimmshelp16-Text_Editor` 
 *	:ref:`Miscellaneous_Model_File` 
 *	:ref:`Page-Manager_Opening_a_Page` 
 *	:ref:`option-AIMMS-startup_page` 
-*	:ref:`Miscellaneous_Text_Editor` 
+*	:ref:`aimmshelp16-Text_Editor` 
 *	:ref:`Miscellaneous_Listing_File`  
 *	:ref:`Miscellaneous_Put_File`  
 *	:ref:`Miscellaneous_Closing_a_Window`  
@@ -52,8 +52,8 @@ From this Menubar, you can choose the following actions:
 
 
 
-*	:ref:`Page-Manager_User_Mode`  
-*	:ref:`Page-Manager_Edit_Mode`  
+*	:ref:`aimmshelp2-Page_User_Mode`  
+*	:ref:`aimmshelp1-Page_Edit_Mode`  
 *	:ref:`Page-Manager_Resize_Edit_Mode`  
 *	:ref:`Page-Manager_Resize_Try_Mode`  
 

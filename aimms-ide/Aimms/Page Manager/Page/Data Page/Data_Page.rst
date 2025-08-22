@@ -48,7 +48,7 @@ For variables and constraints data pages will show all suffices for which nondef
 
 *	:ref:`Page-Manager_Construct_Identifier_Dialog_Bo`  
 *	:ref:`Page-Manager_Page_Objects_Introduction`  
-*	:ref:`Page-Manager_Page_Manager_Introduction`  
+*	:ref:`aimmshelp9-Page_Manager_Introduction`  
 *	:ref:`Page-Manager_All_Data_Pages`  
 
 

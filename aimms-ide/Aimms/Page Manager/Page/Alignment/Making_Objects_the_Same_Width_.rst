@@ -24,7 +24,7 @@ All selected objects will get the width or height of the object with the largest
 
 **How to …** 
 
-*	:ref:`Page-Manager_Edit_Mode`  
+*	:ref:`aimmshelp1-Page_Edit_Mode`  
 
 
 

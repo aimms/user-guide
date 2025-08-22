@@ -37,13 +37,13 @@ From this Toolbar, you can choose the following actions:
 *	|img_def_Find_button_bmp| :ref:`Miscellaneous_AIMMS_Trees`  
 *	|img_def_Find_Again_button_bmp| :ref:`Miscellaneous_AIMMS_Trees`  
 *	|img_def_Template_New_button_bmp| :ref:`Template-Manager_Creating_a_Template`  
-*	|img_def_Edit_Mode_button_bmp| :ref:`Page-Manager_Edit_Mode`  
-*	|img_def_User_Mode_button_bmp| :ref:`Page-Manager_User_Mode` 
-*	|img_def_Model_Explorer_button_bmp| :ref:`Model-Explorer_Model_Explorer_-_Introduction`  
-*	|img_def_Identifier_Selector_button_bmp| :ref:`Identifier-Selector_Identifier_Selector`  
-*	|img_def_Page_Manager_button_bmp| :ref:`Page-Manager_Page_Manager_Introduction`  
-*	|img_def_Template_Manager_button_bmp| :ref:`Template-Manager_Template_Manager_Introduction`  
-*	|img_def_Menu_Builder_button_bmp| :ref:`Menu-Builder_Menu_Builder_Introduction`  
+*	|img_def_Edit_Mode_button_bmp| :ref:`aimmshelp1-Page_Edit_Mode`  
+*	|img_def_User_Mode_button_bmp| :ref:`aimmshelp2-Page_User_Mode` 
+*	|img_def_Model_Explorer_button_bmp| :ref:`aimmshelp3-Model_Explorer_Introduction`  
+*	|img_def_Identifier_Selector_button_bmp| :ref:`aimmshelp21-Identifier_Selector`  
+*	|img_def_Page_Manager_button_bmp| :ref:`aimmshelp9-Page_Manager_Introduction`  
+*	|img_def_Template_Manager_button_bmp| :ref:`aimmshelp10-Template_Manager_Introduction`  
+*	|img_def_Menu_Builder_button_bmp| :ref:`aimmshelp18-Menu_Builder_Introduction`  
 
 
 
@@ -54,7 +54,7 @@ From this Toolbar, you can choose the following actions:
 **Learn more about** 
 
 *	:ref:`Menu-Builder_Tool_bars`  
-*	:ref:`Template-Manager_Template_Manager_Introduction` 
+*	:ref:`aimmshelp10-Template_Manager_Introduction` 
 
 
 

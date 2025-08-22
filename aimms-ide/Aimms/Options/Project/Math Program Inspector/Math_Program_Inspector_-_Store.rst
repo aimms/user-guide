@@ -57,7 +57,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`Diagnostic-Tools_AIMMS_Math_Program_Inspector` 
+*	:ref:`aimmshelp26-Math_Program_Inspector` 
 
 
 

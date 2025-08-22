@@ -33,7 +33,7 @@ The Math Program Inspector reports several statistics on the math program under 
 
 **Learn more about** 
 
-*	:ref:`Diagnostic-Tools_AIMMS_Math_Program_Inspector`  
+*	:ref:`aimmshelp26-Math_Program_Inspector`  
 
 
 

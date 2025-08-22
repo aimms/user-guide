@@ -38,7 +38,7 @@ By switching on this option the scaling tool will use the current solution (if a
 
 **Learn more about** 
 
-*	:ref:`Diagnostic-Tools_AIMMS_Math_Program_Inspector` 
+*	:ref:`aimmshelp26-Math_Program_Inspector` 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Scale_Model` 
 
 

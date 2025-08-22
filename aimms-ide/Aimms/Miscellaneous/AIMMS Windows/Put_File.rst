@@ -22,7 +22,7 @@ With the PUT statement in AIMMS you can write data from your model to specific t
 
 **Learn more about** 
 
-*	:ref:`Miscellaneous_Text_Editor`  
+*	:ref:`aimmshelp16-Text_Editor`  
 
 
 

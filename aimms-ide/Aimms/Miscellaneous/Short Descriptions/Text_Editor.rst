@@ -1,6 +1,6 @@
 
 
-.. _Miscellaneous_Text_Editor:
+.. _aimmshelp16-Text_Editor:
 
 
 Text Editor

@@ -40,9 +40,9 @@ AIMMS will now highlight all the nodes in the Menu Tree that refer to at least o
 
 **Learn more about** 
 
-*	:ref:`Model-Explorer_Model_Explorer_-_Introduction`  
-*	:ref:`Identifier-Selector_Identifier_Selector`  
-*	:ref:`Identifier-Selector_View_Window`  
+*	:ref:`aimmshelp3-Model_Explorer_Introduction`  
+*	:ref:`aimmshelp21-Identifier_Selector`  
+*	:ref:`aimmshelp5-Identifier_Selector_View_Window`  
 
 
 

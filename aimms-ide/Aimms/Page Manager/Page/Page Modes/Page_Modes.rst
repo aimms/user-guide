@@ -14,8 +14,8 @@ A page can be in four different modes. During the construction of a page you can
 
 **Learn more about** 
 
-*	:ref:`Page-Manager_User_Mode`  
-*	:ref:`Page-Manager_Edit_Mode` 
+*	:ref:`aimmshelp2-Page_User_Mode`  
+*	:ref:`aimmshelp1-Page_Edit_Mode` 
 *	:ref:`Page-Manager_Resize_Edit_Mode` 
 *	:ref:`Page-Manager_Resize_Try_Mode` 
 

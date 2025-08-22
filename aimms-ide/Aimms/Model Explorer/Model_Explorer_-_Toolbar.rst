@@ -58,7 +58,7 @@ From this Toolbar, you can choose the following actions:
 *	|img_def_Remove_button_Model_Tree_bmp| :ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
 *	|img_def_Find_button_bmp| :ref:`Miscellaneous_Find__Replace`  
 *	|img_def_Find_Again_button_bmp| :ref:`Miscellaneous_Find__Replace`  
-*	|img_def_Properties_button_bmp| :ref:`Model-Explorer_Attribute_Forms`  
+*	|img_def_Properties_button_bmp| :ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	|img_def_New_Section_button_bmp| :ref:`Model-Explorer_Creating_New_Nodes`  
 *	|img_def_New_Declaration_Section_button_bmp| :ref:`Model-Explorer_Creating_New_Nodes`  
 *	|img_def_New_Procedure_button_bmp| :ref:`Model-Explorer_Creating_New_Nodes`  
@@ -68,11 +68,11 @@ From this Toolbar, you can choose the following actions:
 *	|img_def_New_Variable_button_bmp| :ref:`Model-Explorer_Creating_New_Nodes`  
 *	|img_def_New_Constraint_button_bmp| :ref:`Model-Explorer_Creating_New_Nodes`  
 *	|img_def_New_Identifier_Node_button_bmp| :ref:`Model-Explorer_Creating_New_Nodes`  / :ref:`Model-Explorer_Creating_New_Nodes` 
-*	|img_def_Model_Explorer_button_bmp| :ref:`Model-Explorer_Model_Explorer_-_Introduction`  
-*	|img_def_Identifier_Selector_button_bmp| :ref:`Identifier-Selector_Identifier_Selector`  
-*	|img_def_Page_Manager_button_bmp| :ref:`Page-Manager_Page_Manager_Introduction`  
-*	|img_def_Template_Manager_button_bmp| :ref:`Template-Manager_Template_Manager_Introduction`  
-*	|img_def_Menu_Builder_button_bmp| :ref:`Menu-Builder_Menu_Builder_Introduction`  
+*	|img_def_Model_Explorer_button_bmp| :ref:`aimmshelp3-Model_Explorer_Introduction`  
+*	|img_def_Identifier_Selector_button_bmp| :ref:`aimmshelp21-Identifier_Selector`  
+*	|img_def_Page_Manager_button_bmp| :ref:`aimmshelp9-Page_Manager_Introduction`  
+*	|img_def_Template_Manager_button_bmp| :ref:`aimmshelp10-Template_Manager_Introduction`  
+*	|img_def_Menu_Builder_button_bmp| :ref:`aimmshelp18-Menu_Builder_Introduction`  
 
 
 
@@ -111,7 +111,7 @@ When you are in debug mode, the debug toolbar will also be visible in all other 
 **Learn more about** 
 
 *	:ref:`Menu-Builder_Tool_bars`  
-*	:ref:`Model-Explorer_Model_Explorer_-_Introduction` 
+*	:ref:`aimmshelp3-Model_Explorer_Introduction` 
 
 
 

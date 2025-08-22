@@ -2,7 +2,7 @@
 .. |img_def_Wizard_button_bmp| image:: images/Wizard_button.bmp
 
 
-.. _Model-Explorer_Attribute_Forms:
+.. _aimmshelp6-Model_Explorer_Attribute_Forms:
 
 
 Attribute Forms

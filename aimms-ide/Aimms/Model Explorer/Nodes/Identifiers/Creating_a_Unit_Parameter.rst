@@ -61,7 +61,7 @@ To be able to declare a unit parameter your model has to be equipped with at lea
 **Learn more about** 
 
 *	:ref:`sec:units.unit-par`  
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 
 

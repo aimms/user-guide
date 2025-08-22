@@ -30,7 +30,7 @@ A page navigation item can be used in a popup menu and will display a structured
 
 *	:ref:`Navigation_Navigation_Object_Introduction`  
 *	:ref:`Button_Button_Properties_-_Actions`  
-*	:ref:`Page-Manager_Page_Manager_Introduction`  
+*	:ref:`aimmshelp9-Page_Manager_Introduction`  
 
 
 

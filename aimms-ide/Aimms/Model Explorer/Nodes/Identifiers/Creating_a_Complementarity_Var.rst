@@ -47,7 +47,7 @@ The most commonly used attributes of a complementarity variable are discussed be
 **Learn more about** 
 
 *	:ref:`sec:compl.variable`
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 *	:ref:`parameter.definition`  
 

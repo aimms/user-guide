@@ -37,7 +37,7 @@ When using CPLEX to solve a MIP model, AIMMS is able to register the size and sh
 
 **Learn more about** 
 
-*	:ref:`Diagnostic-Tools_AIMMS_Math_Program_Inspector` 
+*	:ref:`aimmshelp26-Math_Program_Inspector` 
 
 
 

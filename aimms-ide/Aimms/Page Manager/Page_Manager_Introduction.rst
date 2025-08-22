@@ -1,6 +1,6 @@
 
 
-.. _Page-Manager_Page_Manager_Introduction:
+.. _aimmshelp9-Page_Manager_Introduction:
 
 
 Page Manager Introduction

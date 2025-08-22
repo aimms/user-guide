@@ -82,7 +82,7 @@ By selecting the Repeat Find command from the Edit menu, the search command will
 **Learn more about** 
 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Tree_Vi` 
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Page-Manager_Data_Page`  
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Resolve`  
 

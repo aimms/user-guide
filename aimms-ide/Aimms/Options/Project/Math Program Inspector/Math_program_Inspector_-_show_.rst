@@ -34,7 +34,7 @@ When using CPLEX to solve a MIP model, use this option to control whether AIMMS 
 
 **Learn more about** 
 
-*	:ref:`Diagnostic-Tools_AIMMS_Math_Program_Inspector` 
+*	:ref:`aimmshelp26-Math_Program_Inspector` 
 
 
 

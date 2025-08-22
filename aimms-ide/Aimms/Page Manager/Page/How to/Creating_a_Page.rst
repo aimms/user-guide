@@ -31,7 +31,7 @@ This opens a new empty page that is not yet part of the Page Tree. It is added a
 
 **Learn more about** 
 
-*	:ref:`Page-Manager_Page_Manager_Introduction`  
+*	:ref:`aimmshelp9-Page_Manager_Introduction`  
 
 
 

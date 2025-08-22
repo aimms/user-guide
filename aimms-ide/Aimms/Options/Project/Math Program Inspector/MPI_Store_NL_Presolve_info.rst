@@ -26,7 +26,7 @@ This option determines whether AIMMS will store MPI related information during t
 
 **Learn more about** 
 
-*	:ref:`Diagnostic-Tools_AIMMS_Math_Program_Inspector` 
+*	:ref:`aimmshelp26-Math_Program_Inspector` 
 *	:ref:`option-AIMMS-nonlinear_presolve` 
 
 

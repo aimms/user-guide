@@ -24,7 +24,7 @@ As a reference the smallest rectangle will be used that includes all selected ob
 
 **How to …** 
 
-*	:ref:`Page-Manager_Edit_Mode`  
+*	:ref:`aimmshelp1-Page_Edit_Mode`  
 
 
 

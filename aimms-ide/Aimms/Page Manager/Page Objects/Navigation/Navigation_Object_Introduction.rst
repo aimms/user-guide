@@ -38,7 +38,7 @@ The navigation object can also be used as a display only object, this is particu
 *	:ref:`Navigation_Navigation_Object_Properties`  
 *	:ref:`Navigation_Object_Properties_Colors`  
 *	:ref:`Button_Button_Introduction`  
-*	:ref:`Page-Manager_Page_Manager_Introduction`  
+*	:ref:`aimmshelp9-Page_Manager_Introduction`  
 
 
 

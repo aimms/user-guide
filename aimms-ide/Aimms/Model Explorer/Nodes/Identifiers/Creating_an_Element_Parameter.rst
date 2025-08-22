@@ -63,7 +63,7 @@ A common way to declare a scalar element parameter is on the attribute form of t
 **Learn more about** 
 
 *	:ref:`element_parameter`
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 *	:doc:`non-procedural-language-components/execution-of-nonprocedural-components/dependency-structure-of-definitions`
 *	:ref:`Miscellaneous_Identifier_Selection_Dialog_Bo` 

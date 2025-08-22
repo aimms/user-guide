@@ -20,7 +20,7 @@ With this option you can determine the number of nodes in the MIP search tree. N
 
 **Learn more about** 
 
-*	:ref:`Diagnostic-Tools_AIMMS_Math_Program_Inspector` 
+*	:ref:`aimmshelp26-Math_Program_Inspector` 
 
 
 

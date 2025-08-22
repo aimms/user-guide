@@ -42,7 +42,7 @@ Although an object may be inherited from a template, its appearance and actions 
 **Learn more about** 
 
 *	:ref:`Page-Manager_Page_Introduction`  
-*	:ref:`Template-Manager_Template_Manager_Introduction`  
+*	:ref:`aimmshelp10-Template_Manager_Introduction`  
 
 
 

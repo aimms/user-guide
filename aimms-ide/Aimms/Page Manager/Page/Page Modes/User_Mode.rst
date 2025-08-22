@@ -1,7 +1,7 @@
 .. |img_def_User_Mode_button_bmp| image:: images/User_Mode_button.bmp
 
 
-.. _Page-Manager_User_Mode:
+.. _aimmshelp2-Page_User_Mode:
 
 
 User Mode
@@ -23,7 +23,7 @@ To open a page in User Mode:
 
 **Learn more about** 
 
-*	:ref:`Page-Manager_Page_Manager_Introduction` 
+*	:ref:`aimmshelp9-Page_Manager_Introduction` 
 *	:ref:`Page-Manager_Default_Page_Menubar`  
 *	:ref:`Page-Manager_Default_Page_Toolbar`  
 

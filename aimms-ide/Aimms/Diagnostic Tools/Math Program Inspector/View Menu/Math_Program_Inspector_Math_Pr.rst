@@ -18,7 +18,7 @@ The lower part of the information retrieved by this tab is used to display loggi
 
 **Learn more about** 
 
-*	:ref:`Miscellaneous_Progress_Window`  
+*	:ref:`aimmshelp12-Progress_Window`  
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Actions`  
 
 

@@ -1,6 +1,6 @@
 
 
-.. _Template-Manager_Template_Manager_Introduction:
+.. _aimmshelp10-Template_Manager_Introduction:
 
 
 Template Manager Introduction

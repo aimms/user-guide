@@ -22,4 +22,4 @@ To open a View Window in AIMMS you first need to select the identifiers that you
 
 *	:ref:`Identifier-Selector_Opening_a_View_Window`  
 *	:ref:`Identifier-Selector_Managing_the_View_Definitions`  
-*	:ref:`Identifier-Selector_View_Window`  
+*	:ref:`aimmshelp5-Identifier_Selector_View_Window`  

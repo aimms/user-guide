@@ -1,6 +1,6 @@
 
 
-.. _Miscellaneous_Messages_Window:
+.. _aimmshelp13-Messages_Window:
 
 
 Messages Window

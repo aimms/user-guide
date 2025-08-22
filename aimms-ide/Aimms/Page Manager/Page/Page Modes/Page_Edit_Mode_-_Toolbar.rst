@@ -42,7 +42,7 @@ A page in Edit mode is equipped with a non-default Toolbar.
 
 From this Toolbar, you can choose the following actions:
 
-*	|img_def_User_Mode_button_bmp| :ref:`Page-Manager_User_Mode`  
+*	|img_def_User_Mode_button_bmp| :ref:`aimmshelp2-Page_User_Mode`  
 *	|img_def_Save_button_bmp| :ref:`Miscellaneous_Save_a_Page`  
 *	|img_def_First_Page_button_bmp| :ref:`option-AIMMS-startup_page` 
 *	|img_def_Save_All_button_bmp| :ref:`Miscellaneous_Saving_a_Project`  
@@ -67,11 +67,11 @@ From this Toolbar, you can choose the following actions:
 *	|img_def_Floating_Index_button_bmp| :ref:`Floating-Index_Floating_Index_Introduction`  
 *	|img_def_Tabbed_Page_Object_Button_bmp| :ref:`Tabbed-Page_Tabbed_Page_Object_-_Introduct`  
 *	|img_def_Indexed_Page_Object_Button_bmp| :ref:`Indexed-Page_Indexed_Page_Object_-_Introduc`  
-*	|img_def_Model_Explorer_button_bmp| :ref:`Model-Explorer_Model_Explorer_-_Introduction`  
-*	|img_def_Identifier_Selector_button_bmp| :ref:`Identifier-Selector_Identifier_Selector`  
-*	|img_def_Page_Manager_button_bmp| :ref:`Page-Manager_Page_Manager_Introduction`  
-*	|img_def_Template_Manager_button_bmp| :ref:`Template-Manager_Template_Manager_Introduction`  
-*	|img_def_Menu_Builder_button_bmp| :ref:`Menu-Builder_Menu_Builder_Introduction`  
+*	|img_def_Model_Explorer_button_bmp| :ref:`aimmshelp3-Model_Explorer_Introduction`  
+*	|img_def_Identifier_Selector_button_bmp| :ref:`aimmshelp21-Identifier_Selector`  
+*	|img_def_Page_Manager_button_bmp| :ref:`aimmshelp9-Page_Manager_Introduction`  
+*	|img_def_Template_Manager_button_bmp| :ref:`aimmshelp10-Template_Manager_Introduction`  
+*	|img_def_Menu_Builder_button_bmp| :ref:`aimmshelp18-Menu_Builder_Introduction`  
 
 
 
@@ -82,7 +82,7 @@ From this Toolbar, you can choose the following actions:
 **Learn more about** 
 
 *	:ref:`Menu-Builder_Tool_bars`  
-*	:ref:`Page-Manager_Edit_Mode` 
+*	:ref:`aimmshelp1-Page_Edit_Mode` 
 
 
 

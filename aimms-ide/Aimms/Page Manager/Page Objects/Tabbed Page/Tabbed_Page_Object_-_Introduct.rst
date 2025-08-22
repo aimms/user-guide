@@ -30,7 +30,7 @@ The tabbed page object is a special object to help the end user in navigating th
 **Learn more about** 
 
 *	:ref:`Tabbed-Page_Tabbed_Page_Object_Properties`  
-*	:ref:`Page-Manager_Page_Manager_Introduction`  
+*	:ref:`aimmshelp9-Page_Manager_Introduction`  
 *	:ref:`Page-Manager_Resizability_Introduction`  
 
 

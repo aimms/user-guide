@@ -19,11 +19,11 @@ From this menubar, you can choose the following actions:
 *	:ref:`Miscellaneous_LibraryManager`  
 *	:ref:`Miscellaneous_Model_File` 
 *	:ref:`Page-Manager_Creating_a_Page`  
-*	:ref:`Miscellaneous_Text_Editor` 
+*	:ref:`aimmshelp16-Text_Editor` 
 *	:ref:`Miscellaneous_Model_File` 
 *	:ref:`Page-Manager_Opening_a_Page` 
 *	:ref:`option-AIMMS-startup_page` 
-*	:ref:`Miscellaneous_Text_Editor` 
+*	:ref:`aimmshelp16-Text_Editor` 
 *	:ref:`Miscellaneous_Listing_File`  
 *	:ref:`Miscellaneous_Put_File`  
 *	:ref:`Miscellaneous_Closing_a_Window`  
@@ -49,7 +49,7 @@ From this menubar, you can choose the following actions:
 
 
 
-*	:ref:`Page-Manager_Edit_Mode`  
+*	:ref:`aimmshelp1-Page_Edit_Mode`  
 *	:ref:`Miscellaneous_Keep_Page_Open`  
 
 
@@ -82,17 +82,17 @@ From this menubar, you can choose the following actions:
 
 
 
-*	:ref:`Model-Explorer_Model_Explorer_-_Introduction`  
-*	:ref:`Identifier-Selector_Identifier_Selector`  
-*	:ref:`Page-Manager_Page_Manager_Introduction`  
-*	:ref:`Template-Manager_Template_Manager_Introduction`  
-*	:ref:`Menu-Builder_Menu_Builder_Introduction`  
+*	:ref:`aimmshelp3-Model_Explorer_Introduction`  
+*	:ref:`aimmshelp21-Identifier_Selector`  
+*	:ref:`aimmshelp9-Page_Manager_Introduction`  
+*	:ref:`aimmshelp10-Template_Manager_Introduction`  
+*	:ref:`aimmshelp18-Menu_Builder_Introduction`  
 *	:ref:`Miscellaneous_Identifier_Info` 
 *	:ref:`Miscellaneous_ProjectXRef`  
 *	:ref:`Diagnostic-Tools_AIMMS_Debugger`  
 *	:ref:`Diagnostic-Tools_AIMMS_Profiler`  
 *	:ref:`Diagnostic-Tools_Identifier_Cardinalities`  
-*	:ref:`Diagnostic-Tools_AIMMS_Math_Program_Inspector` 
+*	:ref:`aimmshelp26-Math_Program_Inspector` 
 *	:ref:`Miscellaneous_User_Colors`  
 *	:ref:`Miscellaneous_User_Files_in_the_Project_File`  
 *	:ref:`Miscellaneous_XML`  
@@ -113,7 +113,7 @@ From this menubar, you can choose the following actions:
 *	:ref:`Miscellaneous_Developer__End_User_Layout`  
 *	:ref:`Miscellaneous_Saving_and_Restoring_Layouts`  
 *	:ref:`Miscellaneous_Navigating_Opened_Windows`  
-*	:ref:`Miscellaneous_Messages_Window`  
+*	:ref:`aimmshelp13-Messages_Window`  
 *	:ref:`Miscellaneous_Navigating_Opened_Windows`  
 *	:ref:`Miscellaneous_Help_on_Window`  
 *	:ref:`Miscellaneous_Help_-_Contents_and_Index`  

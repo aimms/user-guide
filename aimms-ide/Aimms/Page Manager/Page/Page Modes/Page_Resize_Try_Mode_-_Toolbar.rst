@@ -21,15 +21,15 @@ A page in resize try mode is equipped with a toolbar.
 
 From this toolbar, you can choose the following actions:
 
-*	|img_def_User_Mode_button_bmp| :ref:`Page-Manager_User_Mode`  
+*	|img_def_User_Mode_button_bmp| :ref:`aimmshelp2-Page_User_Mode`  
 *	|img_def_Save_button_bmp| :ref:`Miscellaneous_Save_a_Page`  
 *	|img_def_First_Page_button_bmp| :ref:`option-AIMMS-startup_page` 
 *	|img_def_Save_All_button_bmp| :ref:`Miscellaneous_Saving_a_Project`  
-*	|img_def_Model_Explorer_button_bmp| :ref:`Model-Explorer_Model_Explorer_-_Introduction`  
-*	|img_def_Identifier_Selector_button_bmp| :ref:`Identifier-Selector_Identifier_Selector`  
-*	|img_def_Page_Manager_button_bmp| :ref:`Page-Manager_Page_Manager_Introduction`  
-*	|img_def_Template_Manager_button_bmp| :ref:`Template-Manager_Template_Manager_Introduction`  
-*	|img_def_Menu_Builder_button_bmp| :ref:`Menu-Builder_Menu_Builder_Introduction`  
+*	|img_def_Model_Explorer_button_bmp| :ref:`aimmshelp3-Model_Explorer_Introduction`  
+*	|img_def_Identifier_Selector_button_bmp| :ref:`aimmshelp21-Identifier_Selector`  
+*	|img_def_Page_Manager_button_bmp| :ref:`aimmshelp9-Page_Manager_Introduction`  
+*	|img_def_Template_Manager_button_bmp| :ref:`aimmshelp10-Template_Manager_Introduction`  
+*	|img_def_Menu_Builder_button_bmp| :ref:`aimmshelp18-Menu_Builder_Introduction`  
 
 
 

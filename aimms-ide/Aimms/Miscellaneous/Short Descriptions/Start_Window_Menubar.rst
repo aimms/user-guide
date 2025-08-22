@@ -28,7 +28,7 @@ From this Menubar, you can choose the following actions:
 
 
 
-*	:ref:`Miscellaneous_Messages_Window`  
+*	:ref:`aimmshelp13-Messages_Window`  
 
 
 

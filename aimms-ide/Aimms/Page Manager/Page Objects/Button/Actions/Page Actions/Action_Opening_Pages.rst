@@ -64,7 +64,7 @@ With the action Linked Page(s) you can link to multiple pages. In that case you 
 
 **Learn more about** 
 
-*	:ref:`Page-Manager_Page_Manager_Introduction`  
+*	:ref:`aimmshelp9-Page_Manager_Introduction`  
 
 
 

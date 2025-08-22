@@ -26,7 +26,7 @@ To update these pages to the current AIMMS version:
 
 **Learn more about** 
 
-*	:ref:`Page-Manager_Page_Manager_Introduction`  
+*	:ref:`aimmshelp9-Page_Manager_Introduction`  
 
 
 

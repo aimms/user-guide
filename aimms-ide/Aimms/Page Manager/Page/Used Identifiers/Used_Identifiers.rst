@@ -26,7 +26,7 @@ To get a quick overview of all the model identifiers that are used in a page obj
 
 **How to …** 
 
-*	:ref:`Page-Manager_Edit_Mode`  
+*	:ref:`aimmshelp1-Page_Edit_Mode`  
 *	:ref:`Page-Manager_Listing_Identifiers_on_Pages_o` 
 
 

@@ -47,7 +47,7 @@ The most commonly used attributes of a variable are discussed below.
 **Learn more about** 
 
 *	:ref:`sec:var.var` 
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 *	:ref:`sec:nonproc.dep`  
 

@@ -17,11 +17,11 @@ From this Menubar, you can choose the following actions:
 *	:ref:`Miscellaneous_LibraryManager`  
 *	:ref:`Miscellaneous_Model_File` 
 *	:ref:`Page-Manager_Creating_a_Page`  
-*	:ref:`Miscellaneous_Text_Editor` 
+*	:ref:`aimmshelp16-Text_Editor` 
 *	:ref:`Miscellaneous_Model_File` 
 *	:ref:`Page-Manager_Opening_a_Page` 
 *	:ref:`option-AIMMS-startup_page` 
-*	:ref:`Miscellaneous_Text_Editor` 
+*	:ref:`aimmshelp16-Text_Editor` 
 *	:ref:`Miscellaneous_Listing_File`  
 *	:ref:`Miscellaneous_Put_File`  
 *	:ref:`Miscellaneous_Closing_a_Window`  
@@ -42,7 +42,7 @@ From this Menubar, you can choose the following actions:
 
 
 *	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Name_Changes`  
 *	:ref:`Model-Explorer_Changing_the_Node_Type`  
 *	:ref:`Model-Explorer_Model_Explorer_-_Section_Node`  
@@ -109,7 +109,7 @@ From this Menubar, you can choose the following actions:
 
 *	:ref:`Menu-Builder_Menu_Bars`  
 *	:ref:`Page-Manager_Default_Page_Menubar`  
-*	:ref:`Model-Explorer_Model_Explorer_-_Introduction`  
+*	:ref:`aimmshelp3-Model_Explorer_Introduction`  
 
 
 

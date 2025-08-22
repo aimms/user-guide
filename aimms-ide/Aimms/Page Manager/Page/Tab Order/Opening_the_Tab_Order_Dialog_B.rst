@@ -16,7 +16,7 @@ To open the Tab Order dialog box:
 
 **How to …** 
 
-*	:ref:`Page-Manager_Edit_Mode`  
+*	:ref:`aimmshelp1-Page_Edit_Mode`  
 
 
 

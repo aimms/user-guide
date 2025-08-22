@@ -29,7 +29,7 @@ To open the property dialog box for a page object:
 
 **Learn more about** 
 
-*	:ref:`Page-Manager_Edit_Mode` 
+*	:ref:`aimmshelp1-Page_Edit_Mode` 
 
 
 

@@ -16,10 +16,10 @@ From this Menubar, you can choose the following actions:
 *	:ref:`Miscellaneous_Saving_a_Project`  
 *	:ref:`Miscellaneous_Model_File` 
 *	:ref:`Page-Manager_Creating_a_Page`  
-*	:ref:`Miscellaneous_Text_Editor` 
+*	:ref:`aimmshelp16-Text_Editor` 
 *	:ref:`Miscellaneous_Model_File` 
 *	:ref:`Page-Manager_Opening_a_Page` 
-*	:ref:`Miscellaneous_Text_Editor` 
+*	:ref:`aimmshelp16-Text_Editor` 
 *	:ref:`Miscellaneous_Listing_File`  
 *	:ref:`Miscellaneous_Put_File`  
 *	:ref:`Miscellaneous_Closing_a_Window` 
@@ -36,7 +36,7 @@ From this Menubar, you can choose the following actions:
 
 
 *	:ref:`Miscellaneous_Cut_Copy_and_Paste_in_AIMMS_Tr`  
-*	:ref:`Identifier-Selector_Identifier_Selector`  
+*	:ref:`aimmshelp21-Identifier_Selector`  
 *	:ref:`Miscellaneous_AIMMS_Trees`  
 *	:ref:`Identifier-Selector_Node_Selector`  
 *	:ref:`Identifier-Selector_Conditional_Selector`  
@@ -58,7 +58,7 @@ From this Menubar, you can choose the following actions:
 
 *	:ref:`Menu-Builder_Menu_Bars`  
 *	:ref:`Page-Manager_Default_Page_Menubar`  
-*	:ref:`Identifier-Selector_Identifier_Selector`  
+*	:ref:`aimmshelp21-Identifier_Selector`  
 
 
 

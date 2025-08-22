@@ -34,8 +34,8 @@ If a page has a 'user defined' menu that is created in the Menu Builder and this
 *	:ref:`Page-Manager_Resize_Edit_Mode`  
 *	:ref:`Page-Manager_Page_Properties`  
 *	:ref:`Page-Manager_Page_Objects_Introduction`  
-*	:ref:`Page-Manager_Page_Manager_Introduction`  
-*	:ref:`Menu-Builder_Menu_Builder_Introduction`  
+*	:ref:`aimmshelp9-Page_Manager_Introduction`  
+*	:ref:`aimmshelp18-Menu_Builder_Introduction`  
 *	:ref:`Page-Manager_Page_Edit_Mode_-_Menubar`  
 *	:ref:`Page-Manager_Page_Edit_Mode_-_Toolbar`  
 

@@ -56,7 +56,7 @@ Nodes are used to formulate network models and are considered to be constraints 
 **Learn more about** 
 
 *	:ref:`sec:net.node` 
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 
 

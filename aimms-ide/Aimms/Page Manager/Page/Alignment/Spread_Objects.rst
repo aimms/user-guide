@@ -24,7 +24,7 @@ The selected objects will be spread over the size (horizontal or vertical) of th
 
 **How to …** 
 
-*	:ref:`Page-Manager_Edit_Mode`  
+*	:ref:`aimmshelp1-Page_Edit_Mode`  
 
 
 

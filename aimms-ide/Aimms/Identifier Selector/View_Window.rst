@@ -1,9 +1,9 @@
 .. |img_def_View_Window_example_bmp| image:: images/View_Window_example.bmp
 
-.. _Identifier-Selector_View_Window:
+.. _aimmshelp5-Identifier_Selector_View_Window:
 
-View Window - Introduction
-==========================
+View Window Introduction
+========================
 
 **Description** 
 

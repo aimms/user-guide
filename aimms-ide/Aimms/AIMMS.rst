@@ -32,12 +32,12 @@ More AIMMS Documentation:
 Learn more about
 -------------------
 
-*	:ref:`Model-Explorer_Model_Explorer_-_Introduction`  
-*	:ref:`Identifier-Selector_Identifier_Selector`  
-*	:ref:`Identifier-Selector_View_Window`  
-*	:ref:`Page-Manager_Page_Manager_Introduction`  
-*	:ref:`Template-Manager_Template_Manager_Introduction`  
-*	:ref:`Menu-Builder_Menu_Builder_Introduction`  
+*	:ref:`Model Explorer <aimmshelp3-Model_Explorer_Introduction>`  
+*	:ref:`aimmshelp21-Identifier_Selector`  
+*	:ref:`View Window <aimmshelp5-Identifier_Selector_View_Window>`  
+*	:ref:`Page Manager <aimmshelp9-Page_Manager_Introduction>`  
+*	:ref:`Template Manager <aimmshelp10-Template_Manager_Introduction>`  
+*	:ref:`Menu Builder <aimmshelp18-Menu_Builder_Introduction>`  
 
 
 Available Solvers

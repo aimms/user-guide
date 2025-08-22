@@ -24,7 +24,7 @@ Branches in a tree (i.e. intermediate nodes with child nodes) have a small expan
 
 **Learn more about** 
 
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 
 
 

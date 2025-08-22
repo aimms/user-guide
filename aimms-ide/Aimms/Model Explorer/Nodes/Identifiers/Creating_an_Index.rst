@@ -55,7 +55,7 @@ The most commonly used attribute of an index is discussed below.
 **Learn more about** 
 
 *	:ref:`sec:set.index` 
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 *	:ref:`Miscellaneous_Identifier_Selection_Dialog_Bo`  
 

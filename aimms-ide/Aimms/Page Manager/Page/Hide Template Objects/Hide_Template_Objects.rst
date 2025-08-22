@@ -22,7 +22,7 @@ To hide template objects:
 
 **How to …** 
 
-*	:ref:`Page-Manager_Edit_Mode`  
+*	:ref:`aimmshelp1-Page_Edit_Mode`  
 *	:ref:`Page-Manager_Open_Page_without_Template` 
 
 

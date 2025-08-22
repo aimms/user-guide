@@ -1,6 +1,6 @@
 
 
-.. _Miscellaneous_Progress_Window:
+.. _aimmshelp12-Progress_Window:
 
 
 Progress Window

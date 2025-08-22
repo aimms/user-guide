@@ -46,7 +46,7 @@ The most commonly used attributes of a parameter are discussed below.
 **Learn more about** 
 
 *	:ref:`sec:par.decl` 
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 *	:ref:`sec:nonproc.dep`  
 

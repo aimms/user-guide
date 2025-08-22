@@ -28,9 +28,9 @@ AIMMS will now select all pages and templates that contain at least one of the i
 **Learn more about** 
 
 *	:ref:`Page-Manager_Listing_Identifiers_on_Pages_o`  
-*	:ref:`Model-Explorer_Model_Explorer_-_Introduction`  
-*	:ref:`Identifier-Selector_Identifier_Selector`  
-*	:ref:`Identifier-Selector_View_Window`  
+*	:ref:`aimmshelp3-Model_Explorer_Introduction`  
+*	:ref:`aimmshelp21-Identifier_Selector`  
+*	:ref:`aimmshelp5-Identifier_Selector_View_Window`  
 
 
 

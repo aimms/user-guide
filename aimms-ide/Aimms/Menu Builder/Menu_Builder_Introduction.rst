@@ -1,7 +1,7 @@
-.. _Menu-Builder_Menu_Builder_Introduction:
+.. _aimmshelp18-Menu_Builder_Introduction:
 
-Introduction
-============
+Menu Builder Introduction
+=========================
 
 **Description** 
 

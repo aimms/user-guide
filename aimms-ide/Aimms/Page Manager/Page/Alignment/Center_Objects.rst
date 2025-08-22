@@ -24,7 +24,7 @@ The selected objects will be placed in the center (horizontally or vertically) o
 
 **How to …** 
 
-*	:ref:`Page-Manager_Edit_Mode`  
+*	:ref:`aimmshelp1-Page_Edit_Mode`  
 
 
 

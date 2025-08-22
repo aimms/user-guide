@@ -47,7 +47,7 @@ The most commonly used attributes of a database table identifier are discussed b
 **Learn more about** 
 
 *	`Database tables and database table attributes <https://documentation.aimms.com/language-reference/data-communication-components/communicating-with-databases/the-databasetable-declaration.html>`_ (Language Reference)
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 
 

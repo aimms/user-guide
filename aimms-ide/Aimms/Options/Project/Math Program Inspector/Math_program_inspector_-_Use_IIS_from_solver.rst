@@ -66,5 +66,5 @@ Letting the solver calculate the IIS has one minor disadvantage, namely in some 
 
 **Learn more about** 
 
-*	:ref:`Diagnostic-Tools_AIMMS_Math_Program_Inspector` 
+*	:ref:`aimmshelp26-Math_Program_Inspector` 
 *	:ref:`option-AIMMS-infeasibility_finder` 

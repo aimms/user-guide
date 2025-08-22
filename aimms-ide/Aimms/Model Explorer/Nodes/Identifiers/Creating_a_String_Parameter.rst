@@ -46,7 +46,7 @@ The most commonly used attributes of a string parameter are discussed below.
 **Learn more about** 
 
 *	:ref:`string_parameter` 
-*	:ref:`Model-Explorer_Attribute_Forms`  
+*	:ref:`aimmshelp6-Model_Explorer_Attribute_Forms`  
 *	:ref:`Model-Explorer_Attribute_Form_Manipulation`  
 
 
