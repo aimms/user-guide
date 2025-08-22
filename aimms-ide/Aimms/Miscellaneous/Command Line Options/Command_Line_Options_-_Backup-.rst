@@ -8,13 +8,11 @@ Backup-Dir
 
 
 
-Long Name:	--backup-dir	
+:Long Name:	--backup-dir	
+:Short Name:	-B	
+:Argument:	Backup directory	
 
-Short Name:	-B	
-
-Argument:	Backup directory	
-
-Description:	With the --backup-dir you can override the default directories where you want AIMMS to store temporary information such as case and model backups. You can select the default directory where AIMMS will put this information, in AIMMS' global options dialog box.	
+With the --backup-dir you can override the default directories where you want AIMMS to store temporary information such as case and model backups. You can select the default directory where AIMMS will put this information, in AIMMS' global options dialog box.	
 
 
 

@@ -8,13 +8,11 @@ Log-Dir
 
 
 
-Long Name:	--log-dir	
+:Long Name:	--log-dir	
+:Short Name:	-L	
+:Argument:	Log directory	
 
-Short Name:	-L	
-
-Argument:	Log directory	
-
-Description:	With the --log-dir you can override the default directories where you want AIMMS to store temporary information such as AIMMS and solver listings and the message log. You can select the default directory where AIMMS will put this information, in AIMMS' global options dialog box.	
+With the --log-dir you can override the default directories where you want AIMMS to store temporary information such as AIMMS and solver listings and the message log. You can select the default directory where AIMMS will put this information, in AIMMS' global options dialog box.	
 
 
 

@@ -8,11 +8,10 @@ License
 
 
 
-Long Name:	--license	
+:Long Name:	--license	
+:Argument:	License	
 
-Argument:	License	
-
-Description:	Through the --license option you can select any Aimms license that you installed in the Aimms License Configuration dialog box. The value that you specify for the 
+Through the --license option you can select any Aimms license that you installed in the Aimms License Configuration dialog box. The value that you specify for the 
 
 --license option should match an entry in the License column in the left pane of the 
 
