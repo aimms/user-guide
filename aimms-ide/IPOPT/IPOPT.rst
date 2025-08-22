@@ -72,7 +72,7 @@ The nonlinear presolve algorithm is switched off by default. To use it you shoul
 *	:ref:`IPOPT_to_AIMMS_Mapping`  
 *	:ref:`AIMMS_to_IPOPT_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
-*	:ref:`Options_Stop_Criteria_-_Iteration_Limi`  
-*	:ref:`Options_NonlinPres_-_NonlinearPresolve` 
+*	:ref:`option-AIMMS-iteration_limit`  
+*	:ref:`option-AIMMS-nonlinear_presolve` 
 *	:ref:`option-IPOPT-maximum_number_of_iterations` 
 *	:ref:`IPOPT_Troubleshooting` 

@@ -26,7 +26,7 @@ Note that the global solvers option **Iteration Limit**  defines (in case of MIN
 
 **Learn more about** 
 
-*	:ref:`Options_Stop_Criteria_-_Iteration_Limi`  
+*	:ref:`option-AIMMS-iteration_limit`  
 *	:ref:`option-MINOS-maximum_number_of_total_iterations`  
 
 

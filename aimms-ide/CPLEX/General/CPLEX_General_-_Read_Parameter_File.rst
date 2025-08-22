@@ -106,7 +106,7 @@ The parameter settings in the multi-objective parameter files will only affect t
 
 *	:ref:`CPLEX_to_AIMMS_Mapping`  
 *	:ref:`option-CPLEX-deterministic_time_limit` 
-*	:ref:`Options_MIP_Options_-_MIP_Relative_Opt` 
+*	:ref:`option-AIMMS-mip_relative_optimality_tolerance` 
 *	:ref:`CPLEX_Multi_Objective_Optimization` 
 *	:ref:`option-CPLEX-parallel_mode` 
-*	:ref:`Options_Stop_Criteria_-_Time_Limit` 
+*	:ref:`option-AIMMS-time_limit` 

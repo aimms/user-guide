@@ -70,5 +70,5 @@ The nonlinear presolve algorithm is switched off by default. To use it you shoul
 *	:ref:`AIMMS_to_MINOS_Mapping`  
 *	:ref:`Description_of_MINOS_Algorithm` 
 *	:ref:`Options_AIMMS_Execution_Options`  
-*	:ref:`Options_Stop_Criteria_-_Iteration_Limi`  
-*	:ref:`Options_NonlinPres_-_NonlinearPresolve` 
+*	:ref:`option-AIMMS-iteration_limit`  
+*	:ref:`option-AIMMS-nonlinear_presolve` 

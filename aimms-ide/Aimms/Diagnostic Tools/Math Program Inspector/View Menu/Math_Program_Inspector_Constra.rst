@@ -42,7 +42,7 @@ Instead of setting these options you can also switch on the option :ref:`option-
 **Learn more about** 
 
 *   :ref:`chap:mpinspector`
-*   :ref:`Options_Math_program_inspector_-_feas_tol`  
+*   :ref:`option-AIMMS-mpi_feasibility_tolerance`  
 
 
 

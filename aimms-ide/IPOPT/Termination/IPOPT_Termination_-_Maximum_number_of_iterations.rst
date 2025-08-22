@@ -20,4 +20,4 @@ This option specifies the maximum number of iterations. The algorithm terminates
 
 **Learn more about** 
 
-*	:ref:`Options_Stop_Criteria_-_Iteration_Limi` 
+*	:ref:`option-AIMMS-iteration_limit` 

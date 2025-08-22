@@ -38,9 +38,9 @@ The lower part of the MIP Search Tree tab retrieves all incumbent solutions that
 
 **Learn more about** 
 
-*	:ref:`Options_Math_program_Inspector_-_show_`  
-*	:ref:`Options_Math_Program_Inspector_-_show2` 
-*	:ref:`Options_Math_program_Inspector_-_maxim`  
+*	:ref:`option-AIMMS-show_branch_and_bound_progress`  
+*	:ref:`option-AIMMS-show_branch_and_bound_tree` 
+*	:ref:`option-AIMMS-maximum_number_of_nodes_in_tree`  
 
 
 

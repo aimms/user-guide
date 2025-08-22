@@ -46,7 +46,7 @@ In case the CPLEX Presolver declares a model as infeasible, the solution reporte
 
 **Learn more about** 
 
-*	:ref:`Options_Postsolve_-_Postsolve`  
+*	:ref:`option-AIMMS-postsolve`  
 *	:ref:`option-CPLEX-node_file`  
 *	:ref:`option-CPLEX-check_solution`  
 *	:ref:`option-CPLEX-display_solution_statistics`  

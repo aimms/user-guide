@@ -30,4 +30,4 @@ Setting 'Feasible' implies that Knitro terminates at the first feasible point or
 
 **Learn more about** 
 
-*	:ref:`Options_Stop_Criteria_-_Iteration_Limi` 
+*	:ref:`option-AIMMS-iteration_limit` 

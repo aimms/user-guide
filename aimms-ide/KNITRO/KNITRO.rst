@@ -79,8 +79,8 @@ The procedure :any:`GMP::SolverSession::AsynchronousExecute` should be used to s
 *	:ref:`KNITRO_Complementarities` 
 *	:ref:`KNITRO_Tuner` 
 *	:ref:`Options_AIMMS_Execution_Options`  
-*	:ref:`Options_Stop_Criteria_-_Iteration_Limi`  
+*	:ref:`option-AIMMS-iteration_limit`  
 *	:ref:`option-KNITRO-multistart`  
-*	:ref:`Options_NonlinPres_-_NonlinearPresolve` 
+*	:ref:`option-AIMMS-nonlinear_presolve` 
 *	:ref:`option-KNITRO-presolve`  
-*	:ref:`Options_Stop_Criteria_-_Time_Limit`  
+*	:ref:`option-AIMMS-time_limit`  

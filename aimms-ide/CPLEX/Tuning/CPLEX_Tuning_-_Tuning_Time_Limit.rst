@@ -30,5 +30,5 @@ For an overall time limit on tuning, use the general solvers option **Time Limit
 **Learn more about** 
 
 *	:ref:`CPLEX_Tuning_Tool` 
-*	:ref:`Options_Stop_Criteria_-_Time_Limit`  
+*	:ref:`option-AIMMS-time_limit`  
 *	:ref:`option-CPLEX-tuning_time_limit_deterministic` 

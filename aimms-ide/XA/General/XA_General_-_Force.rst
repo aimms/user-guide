@@ -44,7 +44,7 @@ To find Irreducible Infeasible Subsets with XA also the global solvers option **
 
 **Learn more about** 
 
-*		:ref:`Options_Solution_-_Infeasibility_Finde`  
+*		:ref:`option-AIMMS-infeasibility_finder`  
 
 
 

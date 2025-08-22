@@ -14,7 +14,7 @@ If COPT fails to do a postsolve due to insufficient memory available (while ther
 
 **Learn more about** 
 
-*	:ref:`Options_Postsolve_-_Postsolve` 
+*	:ref:`option-AIMMS-postsolve` 
 
 
 

@@ -43,4 +43,4 @@ The option **IIS Include Integers**  determines whether or not general integer v
 **Learn more about** 
 
 *	:ref:`option-Baron-iis_include_integers` 
-*	:ref:`Options_Solution_-_Infeasibility_Finde`  
+*	:ref:`option-AIMMS-infeasibility_finder`  

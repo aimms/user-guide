@@ -23,7 +23,7 @@ max(100 ** number of non-zeros + **Extra Memory**  , the value of this option).
 **Learn more about** 
 
 *	:ref:`option-XA-extra_memory`  
-*	:ref:`Options_Memory_-_Solver_Workspace`  
+*	:ref:`option-AIMMS-solver_workspace`  
 
 
 

@@ -61,9 +61,9 @@ The table shows in the left column the parameters from BARON that can be set in 
    * - lpsol
      - :ref:`option-Baron-lp_solver`
    * - maxiter
-     - :ref:`Options_Stop_Criteria_-_Iteration_Limi`   (General solvers option)
+     - :ref:`option-AIMMS-iteration_limit`   (General solvers option)
    * - maxtime
-     - :ref:`Options_Stop_Criteria_-_Time_Limit`   (General solvers option)
+     - :ref:`option-AIMMS-time_limit`   (General solvers option)
    * - mdo
      - :ref:`option-Baron-marginals_testing`
    * - nlpsol

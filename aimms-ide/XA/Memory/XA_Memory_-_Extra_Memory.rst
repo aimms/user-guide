@@ -29,7 +29,7 @@ This option is ignored if the option **Solver workspace**  has been set to a val
 **Learn more about** 
 
 *	:ref:`option-XA-minimal_memory_size`  
-*	:ref:`Options_Memory_-_Solver_Workspace`  
+*	:ref:`option-AIMMS-solver_workspace`  
 
 
 

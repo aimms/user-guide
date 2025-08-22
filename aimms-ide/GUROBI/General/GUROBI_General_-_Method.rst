@@ -64,7 +64,7 @@ Setting 'Deterministic concurrent' gives the exact same result each time, while 
 
 *	:ref:`option-GUROBI-concurrent_method` 
 *	:ref:`option-GUROBI-mip_node_method` 
-*	:ref:`Options_Postsolve_-_Postsolve` 
+*	:ref:`option-AIMMS-postsolve` 
 *	:ref:`option-GUROBI-sensitivity_method` 
 *	:ref:`option-GUROBI-thread_limit` 
 

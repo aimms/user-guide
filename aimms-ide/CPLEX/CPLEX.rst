@@ -114,5 +114,5 @@ CPLEX requires that your computer's CPU supports SSE2. SSE2 was first introduced
 *	:ref:`option-CPLEX-benders_strategy`  
 *	:ref:`option-CPLEX-display_solution_statistics`  
 *	:ref:`option-CPLEX-global_thread_limit` 
-*	:ref:`Options_Postsolve_-_Postsolve` 
+*	:ref:`option-AIMMS-postsolve` 
 *	:ref:`option-CPLEX-use_generic_callbacks` 

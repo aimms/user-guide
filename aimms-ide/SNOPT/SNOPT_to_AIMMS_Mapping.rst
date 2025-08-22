@@ -59,7 +59,7 @@ The table shows in the left column the parameters from SNOPT that can be set in 
    * - MAJOR FEASIBILITY TOLERANCE
      - :ref:`option-SNOPT-major_feasibility_tolerance`
    * - MAJOR ITERATIONS
-     - :ref:`Options_Stop_Criteria_-_Iteration_Limi`  in 'Solvers general'
+     - :ref:`option-AIMMS-iteration_limit`  in 'Solvers general'
    * - MAJOR OPTIMALITY TOLERANCE
      - :ref:`option-SNOPT-major_optimality_tolerance`
    * - MAJOR PRINT LEVEL

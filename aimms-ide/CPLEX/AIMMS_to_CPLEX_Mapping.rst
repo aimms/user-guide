@@ -588,25 +588,25 @@ The table below shows Solvers General options that are mapped to CPLEX parameter
    * - **Option name in AIMMS** 
      - **Name in CPLEX** 
      - **Name in CPLEX C API** 
-   * - :ref:`Options_MIP_Options_-_Cutoff` 
+   * - :ref:`option-AIMMS-cutoff` 
      - MIP tolerances lowercutoff
      - CPX_PARAM_CUTLO
    * - 
      - MIP tolerances uppercutoff
      - CPX_PARAM_CUTUP
-   * - :ref:`Options_MIP_Options_-_Maximal_Number_o` 
+   * - :ref:`option-AIMMS-maximal_number_of_integer_solutions` 
      - MIP limits solutions
      - CPX_PARAM_INTSOLLIM
-   * - :ref:`Options_MIP_Options_-_MIP_Absolute_Opt` 
+   * - :ref:`option-AIMMS-mip_absolute_optimality_tolerance` 
      - MIP tolerances absmipgap
      - CPX_PARAM_EPAGAP
-   * - :ref:`Options_MIP_Options_-_MIP_Relative_Opt` 
+   * - :ref:`option-AIMMS-mip_relative_optimality_tolerance` 
      - MIP tolerances mipgap
      - CPX_PARAM_EPGAP
-   * - :ref:`Options_Stop_Criteria_-_Iteration_Limi` 
+   * - :ref:`option-AIMMS-iteration_limit` 
      - Simplex limits iterations
      - CPX_PARAM_ITLIM
-   * - :ref:`Options_Stop_Criteria_-_Time_Limit` 
+   * - :ref:`option-AIMMS-time_limit` 
      - Timelimit
      - CPX_PARAM_TILIM
 

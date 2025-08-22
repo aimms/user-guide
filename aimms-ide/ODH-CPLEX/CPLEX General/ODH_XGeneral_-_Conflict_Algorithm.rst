@@ -41,4 +41,4 @@ Setting 'IIS' invokes the conflict refiner to detect an irreducibly inconsistent
 
 **Learn more about** 
 
-*	:ref:`Options_Solution_-_Infeasibility_Finde`  
+*	:ref:`option-AIMMS-infeasibility_finder`  

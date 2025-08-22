@@ -29,7 +29,7 @@ The table shows in the left column the parameters from CONOPT that can be set in
    * - LFILOS
      - :ref:`option-CONOPT-log_frequency_slp_and_sqp`
    * - LFITER
-     - :ref:`Options_Stop_Criteria_-_Iteration_Limi`  in 'Solvers - General'
+     - :ref:`option-AIMMS-iteration_limit`  in 'Solvers - General'
    * - LFMXNS
      - :ref:`option-CONOPT-limit_on_new_superbasics`
    * - LFNICR
@@ -135,4 +135,4 @@ The table shows in the left column the parameters from CONOPT that can be set in
    * - RVSTLM
      - :ref:`option-CONOPT-steplength_multiplier`
    * - RVTIME
-     - :ref:`Options_Stop_Criteria_-_Time_Limit`  in 'Solvers - General'
+     - :ref:`option-AIMMS-time_limit`  in 'Solvers - General'

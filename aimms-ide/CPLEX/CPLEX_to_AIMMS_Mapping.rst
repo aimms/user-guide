@@ -128,7 +128,7 @@ The table shows in the left column the parameters from CPLEX that can be set in 
    * - MIP limits repairtries
      - :ref:`option-CPLEX-number_of_repair_attempts`
    * - MIP limits solutions
-     - :ref:`Options_MIP_Options_-_Maximal_Number_o`
+     - :ref:`option-AIMMS-maximal_number_of_integer_solutions`
    * - MIP limits strongcand
      - :ref:`option-CPLEX-mip_candidate_list`
    * - MIP limits strongit
@@ -208,19 +208,19 @@ The table shows in the left column the parameters from CPLEX that can be set in 
    * - MIP submip subalg
      - :ref:`option-CPLEX-submip_subproblem_algorithm`
    * - MIP tolerances absmipgap
-     - :ref:`Options_MIP_Options_-_MIP_Absolute_Opt`
+     - :ref:`option-AIMMS-mip_absolute_optimality_tolerance`
    * - MIP tolerances integrality
      - :ref:`option-CPLEX-integrality`
    * - MIP tolerances lowercutoff
-     - :ref:`Options_MIP_Options_-_Cutoff`
+     - :ref:`option-AIMMS-cutoff`
    * - MIP tolerances mipgap
-     - :ref:`Options_MIP_Options_-_MIP_Relative_Opt`
+     - :ref:`option-AIMMS-mip_relative_optimality_tolerance`
    * - MIP tolerances objdifference
      - :ref:`option-CPLEX-difference_objective`
    * - MIP tolerances relobjdifference
      - :ref:`option-CPLEX-relative_difference_objective`
    * - MIP tolerances uppercutoff
-     - :ref:`Options_MIP_Options_-_Cutoff`
+     - :ref:`option-AIMMS-cutoff`
    * - Multiobjective display
      - :ref:`option-CPLEX-multi_objective_display`
    * - Network iterations
@@ -300,7 +300,7 @@ The table shows in the left column the parameters from CPLEX that can be set in 
    * - Simplex dynamicrows
      - :ref:`option-CPLEX-dynamic_row_management`
    * - Simplex limits iterations
-     - :ref:`Options_Stop_Criteria_-_Iteration_Limi`
+     - :ref:`option-AIMMS-iteration_limit`
    * - Simplex limits perturbation
      - :ref:`option-CPLEX-stalled_iterations`
    * - Simplex limits singularity
@@ -326,7 +326,7 @@ The table shows in the left column the parameters from CPLEX that can be set in 
    * - Threads
      - :ref:`option-CPLEX-global_thread_limit`
    * - Timelimit
-     - :ref:`Options_Stop_Criteria_-_Time_Limit`
+     - :ref:`option-AIMMS-time_limit`
    * - Tune dettimelimit
      - :ref:`option-CPLEX-tuning_time_limit_deterministic`
    * - Tune display

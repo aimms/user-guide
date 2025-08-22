@@ -304,17 +304,17 @@ The table below shows Solvers General options that are mapped to Gurobi paramete
 
    * - **Option name in AIMMS** 
      - **Name in GUROBI** 
-   * - :ref:`Options_MIP_Options_-_Cutoff` 
+   * - :ref:`option-AIMMS-cutoff` 
      - CUTOFF
-   * - :ref:`Options_MIP_Options_-_Maximal_Number_o` 
+   * - :ref:`option-AIMMS-maximal_number_of_integer_solutions` 
      - SOLUTIONLIMIT
-   * - :ref:`Options_MIP_Options_-_MIP_Absolute_Opt` 
+   * - :ref:`option-AIMMS-mip_absolute_optimality_tolerance` 
      - MIPGAPABS
-   * - :ref:`Options_MIP_Options_-_MIP_Relative_Opt` 
+   * - :ref:`option-AIMMS-mip_relative_optimality_tolerance` 
      - MIPGAP
-   * - :ref:`Options_Stop_Criteria_-_Iteration_Limi` 
+   * - :ref:`option-AIMMS-iteration_limit` 
      - ITERATIONLIMIT
-   * - :ref:`Options_Stop_Criteria_-_Time_Limit` 
+   * - :ref:`option-AIMMS-time_limit` 
      - TIMELIMIT
 
 

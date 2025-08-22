@@ -72,4 +72,4 @@ The postsolve step for linear models has been moved from the solver interface of
 *	:ref:`AIMMS_to_CBC_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
 *	:ref:`option-CBC-mip_start` 
-*	:ref:`Options_Postsolve_-_Postsolve` 
+*	:ref:`option-AIMMS-postsolve` 

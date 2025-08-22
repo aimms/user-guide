@@ -48,4 +48,4 @@ If CPLEX does not find a solution in the first 100 seconds, then this procedure 
 **Learn more about** 
 
 *	:ref:`option-CPLEX-polishing_time_deterministic`  
-*	:ref:`Options_Stop_Criteria_-_Time_Limit`  
+*	:ref:`option-AIMMS-time_limit`  

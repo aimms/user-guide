@@ -422,19 +422,19 @@ The table below shows Solvers General options that are mapped to ODH-CPLEX param
 
    * - **Option name in AIMMS** 
      - **Name in ODH-CPLEX** 
-   * - :ref:`Options_MIP_Options_-_Cutoff` 
+   * - :ref:`option-AIMMS-cutoff` 
      - CPX_CUTLO
    * - 
      - CPX_CUTUP
-   * - :ref:`Options_MIP_Options_-_Maximal_Number_o` 
+   * - :ref:`option-AIMMS-maximal_number_of_integer_solutions` 
      - CPX_INTSOLLIM
-   * - :ref:`Options_MIP_Options_-_MIP_Absolute_Opt` 
+   * - :ref:`option-AIMMS-mip_absolute_optimality_tolerance` 
      - CPX_EPAGAP
-   * - :ref:`Options_MIP_Options_-_MIP_Relative_Opt` 
+   * - :ref:`option-AIMMS-mip_relative_optimality_tolerance` 
      - CPX_EPGAP
-   * - :ref:`Options_Stop_Criteria_-_Iteration_Limi` 
+   * - :ref:`option-AIMMS-iteration_limit` 
      - CPX_ITLIM
-   * - :ref:`Options_Stop_Criteria_-_Time_Limit` 
+   * - :ref:`option-AIMMS-time_limit` 
      - TIMELIMIT
 
 

@@ -31,4 +31,4 @@ n:	Report progress after each n barrier iterations
 
 **Learn more about** 
 
-*	:ref:`Options_Progress_Options_-_Progress_Co` 
+*	:ref:`option-AIMMS-progress_solution` 

@@ -88,7 +88,7 @@ The usage of generic callback also has some disadvantages:
 *	:ref:`option-CPLEX-global_thread_limit` 
 *	:ref:`option-CPLEX-mip_search_strategy` 
 *	:ref:`option-CPLEX-parallel_mode` 
-*	:ref:`Options_Postsolve_-_Postsolve` 
+*	:ref:`option-AIMMS-postsolve` 
 *	:ref:`option-CPLEX-solution_target` 
 
 

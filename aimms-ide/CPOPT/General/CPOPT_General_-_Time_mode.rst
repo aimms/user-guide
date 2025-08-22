@@ -29,4 +29,4 @@ Possible values are:
 **Learn more about** 
 
 *	:ref:`option-CPOPT-number_of_workers` 
-*	:ref:`Options_Stop_Criteria_-_Time_Limit`  
+*	:ref:`option-AIMMS-time_limit`  

@@ -36,7 +36,7 @@ In case the Gurobi Presolver declares a model as infeasible, the solution report
 
 **Learn more about** 
 
-*	:ref:`Options_Postsolve_-_Postsolve` 
+*	:ref:`option-AIMMS-postsolve` 
 *	:ref:`option-GUROBI-presolve`  
 
 

@@ -151,9 +151,9 @@ The table shows in the left column the parameters from Knitro that can be set in
    * - maxfevals
      - :ref:`option-KNITRO-function_evaluations_limit`
    * - maxit
-     - :ref:`Options_Stop_Criteria_-_Iteration_Limi`  in 'Solvers general'
+     - :ref:`option-AIMMS-iteration_limit`  in 'Solvers general'
    * - maxtime_cpu
-     - :ref:`Options_Stop_Criteria_-_Time_Limit`  in 'Solvers general'
+     - :ref:`option-AIMMS-time_limit`  in 'Solvers general'
    * - mip_branchrule
      - :ref:`option-KNITRO-mip_branching_rule`
    * - mip_clique

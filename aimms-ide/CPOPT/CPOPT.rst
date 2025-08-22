@@ -30,9 +30,9 @@ CP Optimizer now maintains a bound on the objective (a lower bound for minimizat
 *	:ref:`CPOPT_to_AIMMS_Mapping`  
 *	:ref:`AIMMS_to_CPOPT_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
-*	:ref:`Options_MIP_Options_-_Maximal_Number_o`  
-*	:ref:`Options_MIP_Options_-_MIP_Absolute_Opt`  
-*	:ref:`Options_MIP_Options_-_MIP_Relative_Opt`  
+*	:ref:`option-AIMMS-maximal_number_of_integer_solutions`  
+*	:ref:`option-AIMMS-mip_absolute_optimality_tolerance`  
+*	:ref:`option-AIMMS-mip_relative_optimality_tolerance`  
 *	:ref:`option-CPOPT-optimality_tolerance` 
 *	:ref:`option-CPOPT-relative_optimality_tolerance` 
 *	:ref:`option-CPOPT-solution_limit` 

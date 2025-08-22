@@ -294,6 +294,6 @@ The CPLEX barrier optimizer stops when it finds feasible primal and dual solutio
 *	:ref:`option-CPLEX-memory_emphasis`  
 *	:ref:`option-CPLEX-mip_kappa`  
 *	:ref:`option-CPLEX-optimality`  
-*	:ref:`Options_Postsolve_-_Postsolve` 
+*	:ref:`option-AIMMS-postsolve` 
 *	:ref:`option-CPLEX-solution_type`  
 *	:ref:`option-AIMMS-solver_listing_messages`  

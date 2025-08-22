@@ -91,6 +91,6 @@ If the option **Concurrent MIP**  is set to a value greater than 1, then by swit
 
 *	:ref:`AIMMS_to_GUROBI_Mapping`  
 *	:ref:`option-GUROBI-concurrent_mip` 
-*	:ref:`Options_MIP_Options_-_MIP_Relative_Opt` 
+*	:ref:`option-AIMMS-mip_relative_optimality_tolerance` 
 *	:ref:`GUROBI_Multi-Objective_Optimization` 
-*	:ref:`Options_Stop_Criteria_-_Time_Limit` 
+*	:ref:`option-AIMMS-time_limit` 

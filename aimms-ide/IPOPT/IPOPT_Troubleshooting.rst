@@ -26,5 +26,5 @@ Some reasons that IPOPT cannot solve a model are:
 
 **Learn more about** 
 
-*	:ref:`Options_NonlinPres_-_NonlinearPresolve` 
+*	:ref:`option-AIMMS-nonlinear_presolve` 
 *	:ref:`option-IPOPT-status_file` 

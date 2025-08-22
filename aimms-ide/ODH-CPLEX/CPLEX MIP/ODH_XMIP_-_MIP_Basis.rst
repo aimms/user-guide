@@ -28,4 +28,4 @@ A side effect of passing a basis to CPLEX is that no presolving and crashing wil
 
 **Learn more about** 
 
-*	:ref:`Options_Interface_-_Accept_Basis`  
+*	:ref:`option-AIMMS-accept_basis`  

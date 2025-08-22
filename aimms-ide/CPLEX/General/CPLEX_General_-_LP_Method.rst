@@ -60,7 +60,7 @@ The concurrent optimizer requires more memory than any individual optimizer, and
 
 *	:ref:`option-CPLEX-global_thread_limit`  
 *	:ref:`CPLEX_Parallel_Concurrent_Optimizer` 
-*	:ref:`Options_Postsolve_-_Postsolve` 
+*	:ref:`option-AIMMS-postsolve` 
 *	:ref:`option-CPLEX-sensitivity_method` 
 *	:ref:`option-CPLEX-solution_type` 
 

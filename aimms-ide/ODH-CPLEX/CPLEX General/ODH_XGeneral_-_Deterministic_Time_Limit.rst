@@ -30,7 +30,7 @@ The general solvers option **Time Limit**  sets a time limit measured in seconds
 
 **Learn more about** 
 
-*	:ref:`Options_Stop_Criteria_-_Time_Limit`  
+*	:ref:`option-AIMMS-time_limit`  
 
 
 

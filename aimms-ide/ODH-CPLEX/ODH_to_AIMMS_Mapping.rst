@@ -85,7 +85,7 @@ The table below shows in the left column the ODH engine parameters from ODH-CPLE
    * - THREADS
      - :ref:`option-ODHCPLEX-thread_limit`
    * - TIMELIMIT
-     - :ref:`Options_Stop_Criteria_-_Time_Limit`
+     - :ref:`option-AIMMS-time_limit`
    * - VARIABLECLEAN
      - :ref:`option-ODHCPLEX-clean_variables_sub_models`
    * - WRITESOLUTION
@@ -158,13 +158,13 @@ The table below shows in the left column the CPLEX parameters from ODH-CPLEX tha
    * - CPX_CRAIND
      - :ref:`option-ODHCPLEX-crash_ordering`
    * - CPX_CUTLO
-     - :ref:`Options_MIP_Options_-_Cutoff`
+     - :ref:`option-AIMMS-cutoff`
    * - CPX_CUTPASS
      - :ref:`option-ODHCPLEX-mip_number_of_cut_passes`
    * - CPX_CUTSFACTOR
      - :ref:`option-ODHCPLEX-cuts_factor`
    * - CPX_CUTUP
-     - :ref:`Options_MIP_Options_-_Cutoff`
+     - :ref:`option-AIMMS-cutoff`
    * - CPX_DATACHECK
      - :ref:`option-ODHCPLEX-data_check_and_modeling_assistance`
    * - CPX_DEPIND
@@ -182,9 +182,9 @@ The table below shows in the left column the CPLEX parameters from ODH-CPLEX tha
    * - CPX_EACHCUTLIM
      - :ref:`option-ODHCPLEX-cut_limit`
    * - CPX_EPAGAP
-     - :ref:`Options_MIP_Options_-_MIP_Absolute_Opt`
+     - :ref:`option-AIMMS-mip_absolute_optimality_tolerance`
    * - CPX_EPGAP
-     - :ref:`Options_MIP_Options_-_MIP_Relative_Opt`
+     - :ref:`option-AIMMS-mip_relative_optimality_tolerance`
    * - CPX_EPINT
      - :ref:`option-ODHCPLEX-integrality`
    * - CPX_EPMRK
@@ -218,9 +218,9 @@ The table below shows in the left column the CPLEX parameters from ODH-CPLEX tha
    * - CPX_IMPLBD
      - :ref:`option-ODHCPLEX-implied_bound_cuts`
    * - CPX_INTSOLLIM
-     - :ref:`Options_MIP_Options_-_Maximal_Number_o`
+     - :ref:`option-AIMMS-maximal_number_of_integer_solutions`
    * - CPX_ITLIM
-     - :ref:`Options_Stop_Criteria_-_Iteration_Limi`
+     - :ref:`option-AIMMS-iteration_limit`
    * - CPX_LANDPCUTS
      - :ref:`option-ODHCPLEX-lift_and_project_cuts`
    * - CPX_LBHEUR

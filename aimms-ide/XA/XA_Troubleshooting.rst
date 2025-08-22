@@ -22,7 +22,7 @@ It can also happen that the amount of memory calculated with the formula is accu
 
 **Learn more about** 
 
-*	:ref:`Options_Memory_-_Solver_Workspace` 
+*	:ref:`option-AIMMS-solver_workspace` 
 
 
 
