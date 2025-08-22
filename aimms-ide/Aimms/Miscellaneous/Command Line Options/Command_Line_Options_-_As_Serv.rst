@@ -8,11 +8,12 @@ As-Server
 
 
 
-:Long Name:	--as-server	
+:Long Name:	\--as-server	
 :Short Name:	<none>	
 :Argument:	<none>	
 
-The –as-server option extends the –hidden option, and should be used when AIMMS is started with limited priviliges by a system service (e.g. through the Internet Information Server).	
+The \--server option extends the \--hidden option, and should be used when AIMMS is started with limited priviliges by a system service
+(e.g. through the Internet Information Server).	
 
 
 

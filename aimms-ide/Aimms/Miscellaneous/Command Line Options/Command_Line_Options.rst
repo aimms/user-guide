@@ -22,7 +22,7 @@ If you specify a project file, the settings of the project may initiate model-re
 automatically open a page within the project. 
 If you want to open a project for editing only, and do not want these initial actions to take place, 
 you should hold down the Shift key when opening the project. 
-The initial actions are also not performed when the commandline also contains the --run-only option, 
+The initial actions are also not performed when the commandline also contains the \--run-only option, 
 in which case all execution must take place from within the specified procedure.
 
 Directly after the name of the project file, AIMMS allows you to specify an arbitrary number of string arguments,

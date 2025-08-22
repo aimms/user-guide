@@ -8,11 +8,11 @@ No-Solve
 
 
 
-:Long Name:	--no-solve	
+:Long Name:	\--no-solve	
 :Short Name:	<none>	
 :Argument:	<none>	
 
-You can use the –no-solve option to open an AIMMS session without solver capabilities. 	
+You can use the \--solve option to open an AIMMS session without solver capabilities. 	
 
 
 

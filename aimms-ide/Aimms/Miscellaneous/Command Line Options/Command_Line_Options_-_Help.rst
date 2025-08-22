@@ -8,11 +8,11 @@ Help
 
 
 
-:Long Name:	--help	
+:Long Name:	\--help	
 :Short Name:	-h	
 :Argument:	<none>	
 
-You can use the --help option to open this help file.	
+You can use the \--help option to open this help file.	
 
 
 
