@@ -8,7 +8,9 @@ Description of CONOPT Algorithm
 
 **Preprocessor** 
 
-CONOPT 4 distinguishes between a 'user model' as defined by the user via the AIMMS language, and an 'internal model'. Pre-triangular variables and constraints are simply removed from the user model. Post-triangular variables and constraints are collapsed into a single condensed objective function. And definitional constraints are eliminated. After the internal model has been solved CONOPT translates the internal solution back into the solution for the user model and reports this solution to the user.
+CONOPT 4 distinguishes between a 'user model' as defined by the user via the AIMMS language, and an 'internal model'. Pre-triangular variables and constraints are simply removed from
+the user model. Post-triangular variables and constraints are collapsed into a single condensed objective function. And definitional constraints are eliminated. After the internal model
+has been solved CONOPT translates the internal solution back into the solution for the user model and reports this solution to the user.
 
 
 
@@ -35,12 +37,24 @@ The preprocessor also identifies constructs that are easy to make feasible. Ther
 
 
 
-*   Penalty terms: We define a penalty constraint as a constraint of the form f(x1,x2,..) + p - n = 0, where p and n are positive variables, and where p and n only appear in post-triangular constraints or in previously identified penalty constraint. For any feasible values of the x-variables it is easy to find values of p and n that makes the penalty constraint feasible: p = max(0,-f(x)) and n = max(0,f(x)). The definition is easily generalized to constraints where p and n have coefficients different from one and nonzero bounds; the essence is the presence of two linear unbounded terms of opposite sign.
-*   Minimax terms: We define a minimax group as a group of constraints of the form eq(i).. fi(x1,x2,..) <= z where z is common to the group and otherwise only appear in post-triangular constraints, and z is unbounded from above. For any feasible value of the x-variables it is easy to find a value of z that makes the minimax group feasible: z = smin(i: fi(x)). The definition is easily generalized to groups of constraints where z has coefficients different from one and where the direction of the inequality is reversed.
+*   Penalty terms: We define a penalty constraint as a constraint of the form :math:`f(x1,x2,..) + p - n = 0`, where :math:`p` and :math:`n` are positive variables, and where
+:math:`p` and :math:`n` only appear in post-triangular constraints or in previously identified penalty constraint. For any feasible values of the :math:`x`-variables it is easy
+to find values of :math:`p` and :math:`n` that makes the penalty constraint feasible: :math:`p = \text{max}(0,-f(x))` and :math:`n = \text{max}(0,f(x))`. The definition is
+easily generalized to constraints where :math:`p` and :math:`n` have coefficients different from one and nonzero bounds; the essence is the presence of two linear unbounded
+terms of opposite sign.
+*   Minimax terms: We define a minimax group as a group of constraints of the form :math:`fi(x1,x2,..) <= z` where :math:`z` is common to the group and otherwise
+only appear in post-triangular constraints, and z is unbounded from above. For any feasible value of the :math:`x`-variables it is easy to find a value of z that makes the minimax
+group feasible: :math:`z = \text{smin}(i: fi(x))`. The definition is easily generalized to groups of constraints where :math:`z` has coefficients different from one
+and where the direction of the inequality is reversed.
 
 
 
-The preprocessor will also recognize definitional equations: constraints of the form x = f(y), where x is a free variable or the bounds on x cannot be binding, are called definitional equations and x is called a defined variable. If there are many potential defined variable the preprocessor will select a recursive set and logically eliminate them from the internal model: The values of the defined variables are easily derived from the values of all other variables by evaluating the definitional equations in their recursive order, and these values are substituted into the remaining constraints before their residuals are computed. The matrix of derivatives of the remaining constraints is computed from the overall matrix of derivatives via an elimination of the triangular definitional equations. The definitional equations are eliminated from the internal model and they are not present in the internal operations used to solve this model. For some models this can make a big difference.
+The preprocessor will also recognize definitional equations: constraints of the form :math:`x = f(y)`, where :math:`x` is a free variable or the bounds on :math:`x` cannot
+be binding, are called definitional equations and :math:`x` is called a defined variable. If there are many potential defined variable the preprocessor will select a recursive
+set and logically eliminate them from the internal model: The values of the defined variables are easily derived from the values of all other variables by evaluating
+the definitional equations in their recursive order, and these values are substituted into the remaining constraints before their residuals are computed. The matrix
+of derivatives of the remaining constraints is computed from the overall matrix of derivatives via an elimination of the triangular definitional equations. The
+definitional equations are eliminated from the internal model and they are not present in the internal operations used to solve this model. For some models this can make a big difference.
 
 
 
@@ -134,22 +148,22 @@ The Linear Feasibility Model is only useful if the model has some linear constra
 
 
 
-#.  Use the solution point as is.
+A.  Use the solution point as is.
 
 
 
 
-#.  Perform an approximate minimization of the weighted distance from the user's initial point. Include only the variables that have non-default initial values, i.e. variables with an initial value (xini) that is different from zero projected on the bounds, i.e. xini <> min(max(0,x.lower),x.upper). The distance measure is sqr( (x-xini) / max(1,abs(xini)) ).
+B.  Perform an approximate minimization of the weighted distance from the user's initial point. Include only the variables that have non-default initial values, i.e. variables with an initial value (xini) that is different from zero projected on the bounds, i.e. xini <> min(max(0,x.lower),x.upper). The distance measure is sqr( (x-xini) / max(1,abs(xini)) ).
 
 
 
 
-#.  As in B, but include all variables in the distance measure.
+C.  As in B, but include all variables in the distance measure.
 
 
 
 
-#.  As in C, but define xini to 1 projected on the bounds for all variables with default initial value.
+D.  As in C, but define xini to 1 projected on the bounds for all variables with default initial value.
 
 
 
