@@ -38,14 +38,14 @@ The preprocessor also identifies constructs that are easy to make feasible. Ther
 
 
 *   Penalty terms: We define a penalty constraint as a constraint of the form :math:`f(x1,x2,..) + p - n = 0`, where :math:`p` and :math:`n` are positive variables, and where
-:math:`p` and :math:`n` only appear in post-triangular constraints or in previously identified penalty constraint. For any feasible values of the :math:`x`-variables it is easy
-to find values of :math:`p` and :math:`n` that makes the penalty constraint feasible: :math:`p = \text{max}(0,-f(x))` and :math:`n = \text{max}(0,f(x))`. The definition is
-easily generalized to constraints where :math:`p` and :math:`n` have coefficients different from one and nonzero bounds; the essence is the presence of two linear unbounded
-terms of opposite sign.
+    :math:`p` and :math:`n` only appear in post-triangular constraints or in previously identified penalty constraint. For any feasible values of the :math:`x`-variables it is easy
+    to find values of :math:`p` and :math:`n` that makes the penalty constraint feasible: :math:`p = \text{max}(0,-f(x))` and :math:`n = \text{max}(0,f(x))`. The definition is
+    easily generalized to constraints where :math:`p` and :math:`n` have coefficients different from one and nonzero bounds; the essence is the presence of two linear unbounded
+    terms of opposite sign.
 *   Minimax terms: We define a minimax group as a group of constraints of the form :math:`fi(x1,x2,..) <= z` where :math:`z` is common to the group and otherwise
-only appear in post-triangular constraints, and z is unbounded from above. For any feasible value of the :math:`x`-variables it is easy to find a value of z that makes the minimax
-group feasible: :math:`z = \text{smin}(i: fi(x))`. The definition is easily generalized to groups of constraints where :math:`z` has coefficients different from one
-and where the direction of the inequality is reversed.
+    only appear in post-triangular constraints, and z is unbounded from above. For any feasible value of the :math:`x`-variables it is easy to find a value of z that makes the minimax
+    group feasible: :math:`z = \text{smin}(i: fi(x))`. The definition is easily generalized to groups of constraints where :math:`z` has coefficients different from one
+    and where the direction of the inequality is reversed.
 
 
 
@@ -149,20 +149,8 @@ The Linear Feasibility Model is only useful if the model has some linear constra
 
 
 A.  Use the solution point as is.
-
-
-
-
 B.  Perform an approximate minimization of the weighted distance from the user's initial point. Include only the variables that have non-default initial values, i.e. variables with an initial value (xini) that is different from zero projected on the bounds, i.e. xini <> min(max(0,x.lower),x.upper). The distance measure is sqr( (x-xini) / max(1,abs(xini)) ).
-
-
-
-
 C.  As in B, but include all variables in the distance measure.
-
-
-
-
 D.  As in C, but define xini to 1 projected on the bounds for all variables with default initial value.
 
 
