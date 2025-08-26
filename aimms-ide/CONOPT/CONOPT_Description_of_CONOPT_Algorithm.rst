@@ -14,20 +14,24 @@ has been solved CONOPT translates the internal solution back into the solution f
 
 
 
-In addition to the simple pre- and post-triangular variables and constraints, the preprocessor in CONOPT looks at more possibilities for simplifying the model. Some of the new features are:
+In addition to the simple pre- and post-triangular variables and constraints, the preprocessor in CONOPT looks at more possibilities for simplifying the model. Some of the features are:
 
 
 
 
 *   Fixed variables are removed completely.
 *   Constraints that represent simple inequalities are identified and changed into simple bounds on the variables and the constraints are removed.
-*   Simple monotone constraints such as ``exp(x) <= c1`` or log(y) <= c2 are converted into simple bounds on the variables and then removed.
-*   Forcing constraints such as x1 + x2 <= 0 with x1.lower = 0 and x2.lower = 0 are identified, the variables are fixed, and the constraints are removed. If a forcing constraint is identified then other constraints may become pre-triangular so they also can be removed.
+*   Simple monotone constraints such as ``exp(x) <= c1`` or ``log(y) <= c2`` are converted into simple bounds on the variables and then removed.
+*   Forcing constraints such as ``x1 + x2 <= 0`` with ``x1.lower = 0`` and ``x2.lower = 0`` are identified, the variables are fixed, and the constraints are removed. If a
+    forcing constraint is identified then other constraints may become pre-triangular so they also can be removed.
 *   Linear and monotone constraints are used to compute 'implied bounds' on many variables and these bounds can help CONOPT get a better starting point for finding an initial feasible solution.
-*   Some non-monotone constraints such as sqr(x1) + sqr(x2) <= 1 can also be used to derive implied bounds (here -1 < x1 < +1 and -1 < x2 < +1) that both can improve the starting point and can be used to determine that other terms are monotone.
-*   Constraints with exactly two variables, e.g. simple linear identities such as x1 = a*x2 + b or simple monotone identities such as x3 = exp(x4), are used to move bounds between the two variables and this may result in more variables being included in the post-triangle.
+*   Some non-monotone constraints such as ``sqr(x1) + sqr(x2) <= 1`` can also be used to derive implied bounds (here ``-1 < x1 < 1`` and ``-1 < x2 < 1``) that both can improve
+    the starting point and can be used to determine that other terms are monotone.
+*   Constraints with exactly two variables, e.g. simple linear identities such as ``x1 = a*x2 + b`` or simple monotone identities such as ``x3 = exp(x4)``, are used to move bounds
+    between the two variables and this may result in more variables being included in the post-triangle.
 *   Linear constraints that are identical or proportional to others are identified and removed.
-*   Pairs of constraints that define a lower and an upper bound on the same linear expression or proportional linear expressions, e.g. 1 <= x1 + x2 and 2*x1+2*x2 <= 4, are turned into a single ranged constraint implemented with a double-bounded slack variable.
+*   Pairs of constraints that define a lower and an upper bound on the same linear expression or proportional linear expressions, e.g. ``1 <= x1 + x2`` and ``2*x1+2*x2 <= 4``,
+    are turned into a single ranged constraint implemented with a double-bounded slack variable.
 *   Nonlinear constraints that become linear when the pre-triangular variables are fixed are recognized as being linear with the resulting simplifications.
 
 
@@ -39,10 +43,10 @@ The preprocessor also identifies constructs that are easy to make feasible. Ther
 
 *   Penalty terms: We define a penalty constraint as a constraint of the form :math:`f(x1,x2,..) + p - n = 0`, where :math:`p` and :math:`n` are positive variables, and where
     :math:`p` and :math:`n` only appear in post-triangular constraints or in previously identified penalty constraint. For any feasible values of the :math:`x`-variables it is easy
-    to find values of :math:`p` and :math:`n` that makes the penalty constraint feasible: :math:`p = \text{max}(0,-f(x))` and :math:`n = \text{max}(0,f(x))`. The definition is
+    to find values of :math:`p` and :math:`n` that makes the penalty constraint feasible: :math:`p = \max(0,-f(x))` and :math:`n = \max(0,f(x))`. The definition is
     easily generalized to constraints where :math:`p` and :math:`n` have coefficients different from one and nonzero bounds; the essence is the presence of two linear unbounded
     terms of opposite sign.
-*   Minimax terms: We define a minimax group as a group of constraints of the form :math:`fi(x1,x2,..) <= z` where :math:`z` is common to the group and otherwise
+*   Minimax terms: We define a minimax group as a group of constraints of the form :math:`fi(x1,x2,..) \leq z` where :math:`z` is common to the group and otherwise
     only appear in post-triangular constraints, and z is unbounded from above. For any feasible value of the :math:`x`-variables it is easy to find a value of z that makes the minimax
     group feasible: :math:`z = \text{smin}(i: fi(x))`. The definition is easily generalized to groups of constraints where :math:`z` has coefficients different from one
     and where the direction of the inequality is reversed.
@@ -64,7 +68,7 @@ The preprocessor can be switched off by disabling the option **Preprocessor** .
 
 **Phase 0 - Finding an Initial Feasible Solution** 
 
-Phase 0 is started with a new 'Adjust Initial Point' procedure that tries to minimize the sum of infeasibilities by changing individual variables one at a time. The procedure is very cheap since each change of a single variable only involve a small part of the overall model, and it will as a by-product produce a large part of a good initial basis and many constraints will become feasible. The procedure can in some cases reduce the sum of infeasibilities significantly.
+Phase 0 is started with the 'Adjust Initial Point' procedure that tries to minimize the sum of infeasibilities by changing individual variables one at a time. The procedure is very cheap since each change of a single variable only involve a small part of the overall model, and it will as a by-product produce a large part of a good initial basis and many constraints will become feasible. The procedure can in some cases reduce the sum of infeasibilities significantly.
 
 
 
