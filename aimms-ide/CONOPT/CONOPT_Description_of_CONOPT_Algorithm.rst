@@ -21,7 +21,7 @@ In addition to the simple pre- and post-triangular variables and constraints, th
 
 *   Fixed variables are removed completely.
 *   Constraints that represent simple inequalities are identified and changed into simple bounds on the variables and the constraints are removed.
-*   Simple monotone constraints such as exp(x) <= c1 or log(y) <= c2 are converted into simple bounds on the variables and then removed.
+*   Simple monotone constraints such as ``exp(x) <= c1`` or log(y) <= c2 are converted into simple bounds on the variables and then removed.
 *   Forcing constraints such as x1 + x2 <= 0 with x1.lower = 0 and x2.lower = 0 are identified, the variables are fixed, and the constraints are removed. If a forcing constraint is identified then other constraints may become pre-triangular so they also can be removed.
 *   Linear and monotone constraints are used to compute 'implied bounds' on many variables and these bounds can help CONOPT get a better starting point for finding an initial feasible solution.
 *   Some non-monotone constraints such as sqr(x1) + sqr(x2) <= 1 can also be used to derive implied bounds (here -1 < x1 < +1 and -1 < x2 < +1) that both can improve the starting point and can be used to determine that other terms are monotone.
