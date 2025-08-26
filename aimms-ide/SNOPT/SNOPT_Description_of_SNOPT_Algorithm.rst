@@ -8,7 +8,7 @@ Description of SNOPT Algorithm
 
 The upper and lower bounds on the :math:`m` components of :math:`G` are said to define the **general constraints** of the problem. SNOPT converts
 the general constraints to equalities by introducing a set of **slack variables** :math:`s`, where :math:`s = (s_1,s_2,\ldots,s_m)^T`. For example,
-the linear constraints :math:`5 \leq 2x_1 + 3x_2 \leq \infty` is replaced by :math:`2x_1 + 3x_2 - s_1 = 0` together with the bounded slack
+the linear constraint :math:`5 \leq 2x_1 + 3x_2 \leq \infty` is replaced by :math:`2x_1 + 3x_2 - s_1 = 0` together with the bounded slack
 :math:`5 \leq s1 \leq \infty`. The problem defined above can therefore be rewritten in the following equivalent form:
 
 .. math::
@@ -103,7 +103,7 @@ solution if found by relaxing these conditions on :math:`d_j` (see the option **
 **The merit function** 
 
 After a QP subproblem has been solved, new estimates of the NP solution are computed using a linesearch on the augmented Lagrangian merit function. The linesearch
-determines a step ak (0 < ak <= 1) such that the new point gives a sufficient decrease in the merit function.
+determines a step :math:`a_k` (:math:`0 < a_k \leq 1`) such that the new point gives a sufficient decrease in the merit function.
 
 
 
