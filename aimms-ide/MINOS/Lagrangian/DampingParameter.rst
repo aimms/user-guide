@@ -18,8 +18,8 @@ This option may assist convergence on problems that have highly nonlinear constr
 changes between subproblem solutions :math:`(x_k, \lambda_k)` and :math:`(x_{k+1}, \lambda_{k+1})`. For example, the default value 2.0 prevents the
 relative change in either :math:`x_k` or :math:`\lambda_k` from exceeding 200 per cent. It will not be active on well behaved problems.
 
-This option is used to interpolate between the solutions at the beginning and end of each major iteration. Thus, :math:`(x_{k+1}`
-and :math:`(\lambda_{k+1}` are changed to
+This option is used to interpolate between the solutions at the beginning and end of each major iteration. Thus, :math:`x_{k+1}`
+and :math:`\lambda_{k+1}` are changed to
 
 .. math::
 

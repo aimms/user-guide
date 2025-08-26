@@ -14,7 +14,8 @@ Maximum Number of Total Iterations
 
 
 
-This option determines the maximum number of minor iterations allowed, summed over all major iterations. (A minor iteration is a iteration of the simplex method or the reduced-gradient algorithm.)
+This option determines the maximum number of minor iterations allowed, summed over all major iterations.
+(A minor iteration is a iteration of the simplex method or the reduced-gradient algorithm.)
 
 
 

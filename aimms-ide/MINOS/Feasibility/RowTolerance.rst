@@ -13,20 +13,19 @@ Row Tolerance
 :Default:	1e-6	
 
 
+This option specifies how accurately the nonlinear constraints should be satisfied. The default value is often appropriate,
+since model data is often specified to about that accuracy.
 
-This option specifies how accurately the nonlinear constraints should be satisfied. The default value is often appropriate, since model data is often specified to about that accuracy.
+Let :math:`R_{err}` be defined as the maximum component of the residual vector :math:`f(x) + Ay - b`, normalized by the size of the solution. Thus,
 
+.. math::
 
-
-Let Rerr be defined as the maximum component of the residual vecor f(x) + Ay - b, normalizes by the size of the solution. Thus,
-
-
-
-	Rerr = ``||``  f(x) + Ay - b ``||`` ¥ / xnorm,
+    R_{err} = \frac{\| f(x) + Ay - b \|}{x_{norm}},
 
 
 
-where xnorm is a measure of the size of the basic and superbasic variables. The solution (x,y) is regarded as acceptably feasible if Rerr ≤ e, where e denotes the value of this option.
+where :math:`x_{norm}` is a measure of the size of the basic and superbasic variables. The solution :math:`(x,y)` is regarded as
+acceptably feasible if :math:`R_{err} \leq \epsilon`, where :math:`\epsilon` denotes the value of this option.
 
 
 
