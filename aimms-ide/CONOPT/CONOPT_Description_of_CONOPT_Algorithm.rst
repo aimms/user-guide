@@ -46,9 +46,9 @@ The preprocessor also identifies constructs that are easy to make feasible. Ther
     to find values of :math:`p` and :math:`n` that makes the penalty constraint feasible: :math:`p = \max(0,-f(x))` and :math:`n = \max(0,f(x))`. The definition is
     easily generalized to constraints where :math:`p` and :math:`n` have coefficients different from one and nonzero bounds; the essence is the presence of two linear unbounded
     terms of opposite sign.
-*   Minimax terms: We define a minimax group as a group of constraints of the form :math:`fi(x1,x2,..) \leq z` where :math:`z` is common to the group and otherwise
+*   Minimax terms: We define a minimax group as a group of constraints of the form :math:`f_i(x1,x2,..) \leq z` where :math:`z` is common to the group and otherwise
     only appear in post-triangular constraints, and z is unbounded from above. For any feasible value of the :math:`x`-variables it is easy to find a value of z that makes the minimax
-    group feasible: :math:`z = \text{smin}(i: fi(x))`. The definition is easily generalized to groups of constraints where :math:`z` has coefficients different from one
+    group feasible: :math:`z = \text{smin}(i: f_i(x))`. The definition is easily generalized to groups of constraints where :math:`z` has coefficients different from one
     and where the direction of the inequality is reversed.
 
 
