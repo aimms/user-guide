@@ -26,7 +26,7 @@ the linear constraints :math:`5 \leq 2x_1 + 3x_2 \leq \infty` is replaced by :ma
 
 The basic structure of SNOPT involves **major** and **minor** iterations. The major iterations generate a sequence of iteration points (:math:`x_k`) that satisfy
 the linear constraints and converge to a point that satisfies the first-order condition for optimality. At each iteration a QP subproblem is used to
-generate a search direction towards the next iteration point (:math:`x_{k+1}). The constraints of the subproblem are formed from the nonlinear constraint linearization
+generate a search direction towards the next iteration point (:math:`x_{k+1}`). The constraints of the subproblem are formed from the nonlinear constraint linearization
 
 .. math::
 
