@@ -86,7 +86,7 @@ When conflicts arise, one should sacrifice the objective function in favor of th
 
 Finally, upper and lower bounds on the variables (and on the constraints) are extremely useful for confining the region over which optimization has to be performed.
 If sensible values are known, they should always be used. They are also important for avoiding singularities in the problem functions. For safety when singularities exist,
-the initial point x0 should lie within the bounds.
+the initial point :math:`x_0` should lie within the bounds.
 
 
 **Learn more about** 

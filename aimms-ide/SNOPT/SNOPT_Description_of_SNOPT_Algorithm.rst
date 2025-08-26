@@ -103,7 +103,7 @@ solution if found by relaxing these conditions on :math:`d_j` (see the option **
 **The merit function** 
 
 After a QP subproblem has been solved, new estimates of the NP solution are computed using a linesearch on the augmented Lagrangian merit function. The linesearch
-determines a step :math:`a_k` (:math:`0 < a_k \leq 1`) such that the new point gives a sufficient decrease in the merit function.
+determines a step :math:`a_k`, with :math:`0 < a_k \leq 1`, such that the new point gives a sufficient decrease in the merit function.
 
 
 
