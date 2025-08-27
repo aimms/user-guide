@@ -20,7 +20,7 @@ Let :math:`R_{err}` be defined as the maximum component of the residual vector :
 
 .. math::
 
-    R_{err} = \frac{\| f(x) + Ay - b \|}{x_{norm}},
+    R_{err} = \frac{\| f(x) + Ay - b \|_{\infty}}{x_{norm}},
 
 
 

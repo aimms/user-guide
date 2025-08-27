@@ -14,31 +14,28 @@ Optimality Tolerance
 
 
 
-This option is used to judge the size of the reduced gradient be dj = gj - pTaj, where gj is the gradient of the objective function corresponding to the j-th variable, aj is the associated column of the constraint matrix (or Jacobian), and p is the set of dual variables.
+This option is used to judge the size of the reduced gradient be :math:`d_j = g_j - \pi^Ta_j`, where :math:`g_j` is the gradient of the objective function corresponding
+to the :math:`j`-th variable, :math:`a_j` is the associated column of the constraint matrix (or Jacobian), and :math:`\pi` is the set of dual variables.
+
+By construction, the reduced gradients for basic variables are always zero. Optimality will be declared if the reduced gradients for nonbasic variables
+at their lower or upper bounds satisfy
+
+.. math::
+
+    \frac{d_j}{\| \pi \|} \geq - t \qquad \text{or} \qquad \frac{d_j}{\| \pi \|} \leq t,
 
 
+respectively, and if :math:`\frac{d_j}{\| \pi \|} \leq t` for superbasic variables (where :math:`t` denotes the optimality tolerance).
 
-By construction, the reduced gradients for basic variables are always zero. Optimality will be declared if the reduced gradients for nonbasic variables at their lower or upper bounds satisfy
+In the above tests, :math:`\| \pi \|` is a measure of the size of the dual variables. It is included to make the tests independent of a scale factor on
+the objective function. The quantity actually used is defined by
 
+.. math::
 
-
-dj ``/ ||`` p``|| >= - t`` or  dj ``/ ||`` p``|| <= t`` ``,`` 
-
-
-
-respectively, and if dj``/ ||`` p``|| <= t`` for superbasic variables (where t denotes the optimality tolerance).
+    \| \pi \| = \max( \delta / \sqrt{m}, 1 ) \quad \text{where} \quad \delta = \sum \limits_i | pi |,
 
 
-
-In the above tests, ``||`` p``||``  is a measure of the size of the dual variables. It is included to make the tests independent of a scale factor on the objective function. The quantity actually used is defined by
-
-
-
-``||`` p ``|| =`` max{ d / Öm, 1 },  where :math:`d = åi  | pi |`,
-
-
-
-so that only large scale factors are allowed for. If the objective is scaled down substantially, the test for optimality reduces to comparing dj against t.
+so that only large scale factors are allowed for. If the objective is scaled down substantially, the test for optimality reduces to comparing :math:`d_j` against :math:`t`.
 
 
 

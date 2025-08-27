@@ -13,7 +13,7 @@ Maximum Number of Minor Iterations
 
 
 This is the maximum number of minor iterations allowed between successive linearizations of the nonlinear constraints.
-A moderate value (e.g., :math:`10 \leq k = \leq 50`) prevents excessive effort being expended on early major iterations,
+A moderate value (e.g., :math:`10 \leq k \leq 50`) prevents excessive effort being expended on early major iterations,
 but allows later subproblems to be solved to completion.
 
 
