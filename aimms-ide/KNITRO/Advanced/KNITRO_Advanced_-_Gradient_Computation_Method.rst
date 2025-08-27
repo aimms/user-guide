@@ -16,9 +16,9 @@ This option specifies how to compute the gradients of the objective and constrai
 
 
 
-*	AIMMS computes
-*	Forward finite-differences
-*	Central finite-differences
+    *	AIMMS computes
+    *	Forward finite-differences
+    *	Central finite-differences
 
 
 

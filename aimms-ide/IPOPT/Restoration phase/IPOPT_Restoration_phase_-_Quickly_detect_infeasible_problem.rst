@@ -17,8 +17,8 @@ This option can be used to enable heuristics to quickly detect an infeasible pro
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

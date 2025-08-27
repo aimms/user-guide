@@ -16,8 +16,8 @@ This option determines whether the AIMMS basis is loaded or not. If AIMMS provid
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -18,8 +18,8 @@ This option determines whether the scale factors of the constraints as provided 
 
 
 
-*	Off (do not save)
-*	On (save)
+    *	Off (do not save)
+    *	On (save)
 
 
 

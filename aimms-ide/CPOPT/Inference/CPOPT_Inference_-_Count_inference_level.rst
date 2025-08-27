@@ -20,11 +20,11 @@ Possible values are:
 
 
 
-*	Default
-*	Low
-*	Basic
-*	Medium
-*	Extended
+    *	Default
+    *	Low
+    *	Basic
+    *	Medium
+    *	Extended
 
 
 

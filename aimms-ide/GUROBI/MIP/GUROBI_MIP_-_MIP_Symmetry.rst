@@ -16,10 +16,10 @@ The option controls the MIP symmetry detection. Possible values are:
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

@@ -18,9 +18,9 @@ This option controls whether the AIMMS Presolver should try to reformulate const
 
 
 
-*	Off
-*	Single
-*	Multi
+    *	Off
+    *	Single
+    *	Multi
 
 
 

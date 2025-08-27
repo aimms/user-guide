@@ -18,9 +18,9 @@ This option specifies the branching variable selection strategy. Possible values
 
 
 
-*	Dynamic
-*	Largest violation
-*	Longest edge
+    *	Dynamic
+    *	Largest violation
+    *	Longest edge
 
 
 

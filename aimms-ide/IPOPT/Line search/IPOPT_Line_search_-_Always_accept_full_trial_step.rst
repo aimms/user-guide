@@ -18,8 +18,8 @@ This option specifies whether the first trial step should always be accepted. Se
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

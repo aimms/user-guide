@@ -16,9 +16,9 @@ This option designates the strategy for replacing a solution in the solution poo
 
 
 
-*	FIFO
-*	Worst objective
-*	Diverse solutions
+    *	FIFO
+    *	Worst objective
+    *	Diverse solutions
 
 
 

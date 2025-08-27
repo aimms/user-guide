@@ -18,8 +18,8 @@ This option specifies whether or not there will be range reduction based on marg
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

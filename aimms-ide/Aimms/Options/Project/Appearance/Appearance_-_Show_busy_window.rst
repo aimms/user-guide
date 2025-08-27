@@ -18,8 +18,8 @@ This option determines whether AIMMS shows the busy window or not. The busy wind
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

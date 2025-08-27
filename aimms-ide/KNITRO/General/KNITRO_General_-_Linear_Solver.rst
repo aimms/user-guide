@@ -16,12 +16,12 @@ This option indicates which linear solver Knitro should use to solve linear syst
 
 
 
-*	Automatic
-*	Hybrid
-*	QR
-*	MA27
-*	MA57
-*	MKL PARDISO
+    *	Automatic
+    *	Hybrid
+    *	QR
+    *	MA27
+    *	MA57
+    *	MKL PARDISO
 
 
 

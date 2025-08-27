@@ -18,10 +18,10 @@ This option controls the frequency with which the reductions by the AIMMS Presol
 
 
 
-*	Never
-*	At first solve
-*	At an infeasible solve
-*	At every solve
+    *	Never
+    *	At first solve
+    *	At an infeasible solve
+    *	At every solve
 
 
 

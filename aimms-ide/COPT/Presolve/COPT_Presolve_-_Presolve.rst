@@ -16,9 +16,9 @@ This option specifies the level of presolving before solving a model. Possible v
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

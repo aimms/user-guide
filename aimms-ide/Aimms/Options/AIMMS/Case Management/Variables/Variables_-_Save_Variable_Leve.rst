@@ -18,8 +18,8 @@ This option determines whether the level values of the variables as provided by 
 
 
 
-*	Off (do not save)
-*	On (save)
+    *	Off (do not save)
+    *	On (save)
 
 
 

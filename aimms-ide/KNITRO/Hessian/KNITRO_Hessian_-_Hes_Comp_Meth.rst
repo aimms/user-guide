@@ -16,11 +16,11 @@ This option specifies how to compute the (approximate) Hessian of the Lagrangian
 
 
 
-*	AIMMS computes
-*	Quasi-Newton BFGS Hessian
-*	Quasi-Newton SR1 Hessian
-*	Hessian-vector products
-*	Limited-memory BFGS Hessian
+    *	AIMMS computes
+    *	Quasi-Newton BFGS Hessian
+    *	Quasi-Newton SR1 Hessian
+    *	Hessian-vector products
+    *	Limited-memory BFGS Hessian
 
 
 

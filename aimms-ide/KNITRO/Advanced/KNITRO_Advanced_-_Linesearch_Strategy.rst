@@ -16,10 +16,10 @@ This option indicates which linesearch strategy to use for the Interior-Direct o
 
 
 
-*	Automatic
-*	Backtrack
-*	Interpolate
-*	Weak Wolfe Line search (unconstrained only)
+    *	Automatic
+    *	Backtrack
+    *	Interpolate
+    *	Weak Wolfe Line search (unconstrained only)
 
 
 

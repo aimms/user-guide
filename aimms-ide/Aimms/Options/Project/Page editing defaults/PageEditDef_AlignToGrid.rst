@@ -18,8 +18,8 @@ This options specifies whether new objects will automatically be aligned to the 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

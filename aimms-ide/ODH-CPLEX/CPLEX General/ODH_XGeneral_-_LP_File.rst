@@ -16,9 +16,9 @@ This option can be used to generate a CPLEX LP file (or model file) of the curre
 
 
 
-*	Never
-*	At the first solve
-*	At every solve
+    *	Never
+    *	At the first solve
+    *	At every solve
 
 
 

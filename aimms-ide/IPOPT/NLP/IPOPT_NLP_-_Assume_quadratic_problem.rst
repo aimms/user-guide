@@ -18,8 +18,8 @@ This option indicates whether the problem is a quadratic problem. Activating thi
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

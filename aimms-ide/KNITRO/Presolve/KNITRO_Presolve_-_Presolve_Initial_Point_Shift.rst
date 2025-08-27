@@ -16,10 +16,10 @@ This option determines whether or not a user-provided initial point can be chang
 
 
 
-*	Automatic
-*	Not allowed
-*	Only linear constraints
-*	Always allowed
+    *	Automatic
+    *	Not allowed
+    *	Only linear constraints
+    *	Always allowed
 
 
 

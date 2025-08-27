@@ -16,11 +16,11 @@ This option indicates which linear system form is used inside the Interior/Direc
 
 
 
-*	Automatic
-*	Full linear system
-*	A compact system
-*	Most compact system
-*	Eliminate inequalities
+    *	Automatic
+    *	Full linear system
+    *	A compact system
+    *	Most compact system
+    *	Eliminate inequalities
 
 
 

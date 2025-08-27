@@ -16,9 +16,9 @@ This option determines whether infeasible solutions to sub-models should be reje
 
 
 
-*	No check (do not check feasibility or reject)
-*	Accept (check feasibility and warn if infeasible, but accept)
-*	Reject (check feasibility and reject if infeasible)
+    *	No check (do not check feasibility or reject)
+    *	Accept (check feasibility and warn if infeasible, but accept)
+    *	Reject (check feasibility and reject if infeasible)
 
 
 

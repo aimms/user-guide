@@ -16,9 +16,9 @@ This option determines whether or not Knitro should enforce satisfaction of simp
 
 
 
-*	Never
-*	Always
-*	Only for initial point
+    *	Never
+    *	Always
+    *	Only for initial point
 
 
 

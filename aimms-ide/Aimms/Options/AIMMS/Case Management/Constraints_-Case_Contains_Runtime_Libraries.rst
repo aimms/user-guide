@@ -18,8 +18,8 @@ This option determines whether or not runtime libraries, both structure and the 
 
 
 
-*	Off (do not save runtime libraries)
-*	On (save runtime libraries)
+    *	Off (do not save runtime libraries)
+    *	On (save runtime libraries)
 
 
 

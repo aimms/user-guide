@@ -16,8 +16,8 @@ This option indicates which strategy Knitro should use for the clustering initia
 
 
 
-*	None
-*	Single linkage
+    *	None
+    *	Single linkage
 
 
 

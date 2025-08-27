@@ -16,9 +16,9 @@ The frequency of Lemke starts. Possible values are:
 
 
 
-*	Automatic
-*	First
-*	Always
+    *	Automatic
+    *	First
+    *	Always
 
 
 

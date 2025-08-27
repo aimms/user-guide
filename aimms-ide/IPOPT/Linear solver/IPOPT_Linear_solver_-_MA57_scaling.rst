@@ -18,8 +18,8 @@ This option controls the internal scaling option of the linear solver MA57. Poss
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -16,11 +16,11 @@ This option controls the addition of cuts based on the Boolean Quadric Polytope 
 
 
 
-*	Off
-*	Automatic
-*	Generate cuts moderately
-*	Generate cuts aggressively
-*	Generate cuts very aggressively
+    *	Off
+    *	Automatic
+    *	Generate cuts moderately
+    *	Generate cuts aggressively
+    *	Generate cuts very aggressively
 
 
 

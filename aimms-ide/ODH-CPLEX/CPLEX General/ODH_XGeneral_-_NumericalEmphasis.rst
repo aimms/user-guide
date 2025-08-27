@@ -16,8 +16,8 @@ This option lets you indicate to CPLEX that it should emphasize precision in num
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

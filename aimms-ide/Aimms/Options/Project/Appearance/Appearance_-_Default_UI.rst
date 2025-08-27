@@ -32,5 +32,5 @@ Possible values are:
 
 
 
-*	WinUI
-*	WebUI
+    *	WinUI
+    *	WebUI

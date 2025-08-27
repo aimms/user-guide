@@ -20,10 +20,10 @@ Setting 'Before' means that the greedy heuristic is used before preprocessing if
 
 
 
-*	Off
-*	On
-*	Before
-*	Both
+    *	Off
+    *	On
+    *	Before
+    *	Both
 
 
 

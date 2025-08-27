@@ -20,12 +20,12 @@ Possible values are:
 
 
 
-*	Automatic
-*	Depth first
-*	Restart
-*	Multi point
-*	Iterative diving
-*	Neighborhood
+    *	Automatic
+    *	Depth first
+    *	Restart
+    *	Multi point
+    *	Iterative diving
+    *	Neighborhood
 
 
 

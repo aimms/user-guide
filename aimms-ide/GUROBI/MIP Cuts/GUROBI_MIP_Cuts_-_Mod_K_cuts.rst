@@ -16,10 +16,10 @@ This option determines whether or not to generate mod-k cuts for the problem. Se
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

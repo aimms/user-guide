@@ -16,9 +16,9 @@ This option indicates whether to solve linear systems out-of-core when using Int
 
 
 
-*	Off
-*	Automatic
-*	On
+    *	Off
+    *	Automatic
+    *	On
 
 
 

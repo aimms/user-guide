@@ -18,9 +18,9 @@ This option controls whether or not a listing of the empty columns generated is 
 
 
 
-*	No Listing
-*	Only Symbolic Variables
-*	All Individual Variables
+    *	No Listing
+    *	Only Symbolic Variables
+    *	All Individual Variables
 
 
 

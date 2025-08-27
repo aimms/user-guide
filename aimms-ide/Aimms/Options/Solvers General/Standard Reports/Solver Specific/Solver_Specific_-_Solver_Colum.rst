@@ -18,10 +18,10 @@ A column row mapping is a table, which tells which constraint and which variable
 
 
 
-*	Never
-*	At first solve
-*	At an infeasible solve
-*	At every solve
+    *	Never
+    *	At first solve
+    *	At an infeasible solve
+    *	At every solve
 
 
 

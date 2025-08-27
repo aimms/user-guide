@@ -16,10 +16,10 @@ This option enables or disables sifting within dual simplex. Sifting is often us
 
 
 
-*	Automatic
-*	Off
-*	Moderate
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Moderate
+    *	Aggressive
 
 
 

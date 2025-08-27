@@ -30,10 +30,10 @@ At the default setting both transformations are applied. Possible values are:
 
 
 
-*	Off
-*	Simplify
-*	Root
-*	Both
+    *	Off
+    *	Simplify
+    *	Root
+    *	Both
 
 
 

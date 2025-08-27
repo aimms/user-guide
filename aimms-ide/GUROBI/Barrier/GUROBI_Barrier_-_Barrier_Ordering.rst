@@ -16,9 +16,9 @@ This option chooses the barrier sparse matrix fill-reducing algorithm. At the de
 
 
 
-*	Automatic
-*	Approximate minimum degree
-*	Nested dissection
+    *	Automatic
+    *	Approximate minimum degree
+    *	Nested dissection
 
 
 

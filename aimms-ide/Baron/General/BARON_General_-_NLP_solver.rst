@@ -18,15 +18,15 @@ This option specifies the NLP solver to be used. Possible values are:
 
 
 
-*	Automatic
-*	MINOS
-*	SNOPT
-*	CONOPT
-*	IPOPT
-*	FilterSD
-*	FilterSQP
-*	Standard solvers
-*	None
+    *	Automatic
+    *	MINOS
+    *	SNOPT
+    *	CONOPT
+    *	IPOPT
+    *	FilterSD
+    *	FilterSQP
+    *	Standard solvers
+    *	None
 
 
 

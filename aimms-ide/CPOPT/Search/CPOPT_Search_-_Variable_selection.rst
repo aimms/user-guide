@@ -16,22 +16,22 @@ This option specifies the variable selection heuristic being used in a search st
 
 
 
-*	Automatic
-*	Random
-*	Smallest domain size
-*	Largest domain size
-*	Smallest maximum domain value
-*	Largest maximum domain value
-*	Smallest minimum domain value
-*	Largest minimum domain value
-*	Smallest impact
-*	Largest impact
-*	Smallest impact last branch
-*	Largest impact last branch
-*	Smallest local impact
-*	Largest local impact
-*	Smallest success rate
-*	Largest success rate
+    *	Automatic
+    *	Random
+    *	Smallest domain size
+    *	Largest domain size
+    *	Smallest maximum domain value
+    *	Largest maximum domain value
+    *	Smallest minimum domain value
+    *	Largest minimum domain value
+    *	Smallest impact
+    *	Largest impact
+    *	Smallest impact last branch
+    *	Largest impact last branch
+    *	Smallest local impact
+    *	Largest local impact
+    *	Smallest success rate
+    *	Largest success rate
 
 
 

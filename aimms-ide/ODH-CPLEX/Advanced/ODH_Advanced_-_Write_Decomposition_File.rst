@@ -16,8 +16,8 @@ When this option is switched on, a decomposition file is generated containing th
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

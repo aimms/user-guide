@@ -30,9 +30,9 @@ Possible values are:
 
 
 
-*	Automatic 
-*	Yes
-*	No
+    *	Automatic 
+    *	Yes
+    *	No
 
 
 

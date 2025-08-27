@@ -16,9 +16,9 @@ This option can be used to enable an estimate of the noise in the model when usi
 
 
 
-*	No
-*	Yes
-*	Yes with curvature factor
+    *	No
+    *	Yes
+    *	Yes with curvature factor
 
 
 

@@ -16,8 +16,8 @@ This option can be used to anonymize the names of variables and constraints in t
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

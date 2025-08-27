@@ -16,10 +16,10 @@ A MIP model can sometimes be made up of multiple, completely independent sub-mod
 
 
 
-*	Automatic
-*	Off
-*	Moderate
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Moderate
+    *	Aggressive
 
 
 

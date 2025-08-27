@@ -16,8 +16,8 @@ This option determines whether dual variable values are computed for QCP models.
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -16,8 +16,8 @@ This option specifies whether a starting point or solution should be passed to C
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

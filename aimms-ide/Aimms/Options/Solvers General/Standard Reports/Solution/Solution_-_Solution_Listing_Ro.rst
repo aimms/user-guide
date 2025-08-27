@@ -18,8 +18,8 @@ This option determines the style used for referencing the constraints in a solut
 
 
 
-*	Algebraic description
-*	Descriptive text
+    *	Algebraic description
+    *	Descriptive text
 
 
 

@@ -16,11 +16,11 @@ The option controls the branch variable selection strategy. The default setting 
 
 
 
-*	Automatic
-*	Pseudo reduced cost branching
-*	Pseudo shadow price branching
-*	Maximum infeasibility branching
-*	Strong branching
+    *	Automatic
+    *	Pseudo reduced cost branching
+    *	Pseudo shadow price branching
+    *	Maximum infeasibility branching
+    *	Strong branching
 
 
 

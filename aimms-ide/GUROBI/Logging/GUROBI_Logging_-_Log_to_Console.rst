@@ -16,8 +16,8 @@ This option can be used to activate console logging. Possible values are:
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

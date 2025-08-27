@@ -16,9 +16,9 @@ This option specifies the method used to initialize pseudo-costs corresponding t
 
 
 
-*	Automatic
-*	Average value
-*	Strong branching
+    *	Automatic
+    *	Average value
+    *	Strong branching
 
 
 

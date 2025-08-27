@@ -16,9 +16,9 @@ This option indicates whether to use a penalty formulation for quadratic program
 
 
 
-*	Automatic
-*	No penalized constraints
-*	Penalize all constraints
+    *	Automatic
+    *	No penalized constraints
+    *	Penalize all constraints
 
 	
 

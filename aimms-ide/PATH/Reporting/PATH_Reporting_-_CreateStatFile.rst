@@ -16,8 +16,8 @@ This option can be used to activate the generation of a PATH status file. The st
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

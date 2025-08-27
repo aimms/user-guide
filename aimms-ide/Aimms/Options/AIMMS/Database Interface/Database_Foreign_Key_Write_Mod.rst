@@ -24,6 +24,6 @@ Possible values are:
 
 
 
-*	Ignore
-*	Check
-*	Assume
+    *	Ignore
+    *	Check
+    *	Assume

@@ -16,5 +16,5 @@ This option controls the level of MIP debugging output. Debugging output can slo
 
 
 
-*	None
-*	All
+    *	None
+    *	All

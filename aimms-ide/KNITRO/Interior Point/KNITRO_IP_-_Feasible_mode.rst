@@ -16,8 +16,8 @@ This option indicates whether or not the feasible version of Knitro should be us
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

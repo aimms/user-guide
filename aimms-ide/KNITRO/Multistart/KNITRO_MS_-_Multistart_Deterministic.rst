@@ -16,8 +16,8 @@ This option indicates whether Knitro multistart procedure will be deterministic 
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

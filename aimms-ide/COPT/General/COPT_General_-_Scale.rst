@@ -16,9 +16,9 @@ This option specifies whether to perform scaling before solving a problem. Possi
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

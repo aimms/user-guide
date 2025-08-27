@@ -16,9 +16,9 @@ This option influences the scaling of the problem matrix. The default implements
 
 
 
-*	None (no scaling)
-*	Standard (use equilibration scaling)
-*	Aggressive (use aggressive scaling)
+    *	None (no scaling)
+    *	Standard (use equilibration scaling)
+    *	Aggressive (use aggressive scaling)
 
 
 

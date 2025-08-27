@@ -16,10 +16,10 @@ This option determines which algorithm should be used for subsequent solves when
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Discard warm start
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Discard warm start
 
 
 

@@ -26,8 +26,8 @@ Possible values are:
 
 
 
-*	Standard
-*	Advanced
+    *	Standard
+    *	Advanced
 
 
 

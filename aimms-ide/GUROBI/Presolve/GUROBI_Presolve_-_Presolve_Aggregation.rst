@@ -16,9 +16,9 @@ This option the aggregation level in presolve. Possible values are:
 
 
 
-*	Off
-*	Moderate
-*	Aggressive
+    *	Off
+    *	Moderate
+    *	Aggressive
 
 
 

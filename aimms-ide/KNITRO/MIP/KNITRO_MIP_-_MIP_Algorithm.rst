@@ -16,10 +16,10 @@ This option specifies which algorithm to use for solving linear programming (LP)
 
 
 
-*	Automatic
-*	Interior-Direct
-*	Interior-CG
-*	Active-Set
+    *	Automatic
+    *	Interior-Direct
+    *	Interior-CG
+    *	Active-Set
 
 
 

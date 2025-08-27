@@ -18,8 +18,8 @@ This option determines whether the basic status of variables is saved in a case 
 
 
 
-*	Off (do not save)
-*	On (save)
+    *	Off (do not save)
+    *	On (save)
 
 
 

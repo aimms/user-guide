@@ -16,11 +16,11 @@ This option provides a global cut control, affecting the generation of all cuts 
 
 
 
-*	Off
-*	On
-*	Root only
-*	If promising
-*	Always
+    *	Off
+    *	On
+    *	Root only
+    *	If promising
+    *	Always
 
 
 

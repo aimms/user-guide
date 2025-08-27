@@ -16,10 +16,10 @@ The value of this option determines if there should be an attempt to generate Bo
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

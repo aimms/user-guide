@@ -16,13 +16,13 @@ This option determines which strategy Knitro should use for modifying the barrie
 
 
 
-*	Automatic
-*	Monotone
-*	Adaptive
-*	Probing
-*	Mehrotra with safeguards
-*	Mehrotra without safeguards
-*	Quality
+    *	Automatic
+    *	Monotone
+    *	Adaptive
+    *	Probing
+    *	Mehrotra with safeguards
+    *	Mehrotra without safeguards
+    *	Quality
 
 
 

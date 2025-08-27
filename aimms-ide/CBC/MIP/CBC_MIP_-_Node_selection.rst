@@ -16,13 +16,13 @@ This option determines what strategy to use to select nodes. Possible values are
 
 
 
-*	Hybrid
-*	Fewest infeasibilities
-*	Depth first
-*	Up branch fewest infeasibilities
-*	Down branch fewest infeasibilities
-*	Up branch depth first
-*	Down branch depth first
+    *	Hybrid
+    *	Fewest infeasibilities
+    *	Depth first
+    *	Up branch fewest infeasibilities
+    *	Down branch fewest infeasibilities
+    *	Up branch depth first
+    *	Down branch depth first
 
 
 

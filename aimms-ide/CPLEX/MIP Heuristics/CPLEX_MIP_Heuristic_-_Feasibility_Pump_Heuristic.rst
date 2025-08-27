@@ -16,10 +16,10 @@ This option is used to turns on or off the feasibility pump heuristic. Possible 
 
 
 
-*	Off
-*	Automatic
-*	Emphasis feasible solution
-*	Emphasis good solution
+    *	Off
+    *	Automatic
+    *	Emphasis feasible solution
+    *	Emphasis good solution
 
 
 

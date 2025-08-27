@@ -16,10 +16,10 @@ The setting "Automatic", the default, shows the best performance for most proble
 
 
 
-*	Automatic
-*	Partial pricing
-*	Multiple partial pricing
-*	Multiple partial pricing with sorting
+    *	Automatic
+    *	Partial pricing
+    *	Multiple partial pricing
+    *	Multiple partial pricing with sorting
 
 
 

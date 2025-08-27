@@ -16,13 +16,13 @@ If this option is switched on, a file with the name 'knitro.log' is created (in 
 
 
 
-*	None
-*	Summary
-*	Every 10 major iterations
-*	Each major iteration
-*	Each major and minor iteration
-*	All plus variable values
-*	All plus complete solution
+    *	None
+    *	Summary
+    *	Every 10 major iterations
+    *	Each major iteration
+    *	Each major and minor iteration
+    *	All plus variable values
+    *	All plus complete solution
 
 
 

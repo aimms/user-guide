@@ -18,8 +18,8 @@ This option determines whether the basic values of the constraints as provided b
 
 
 
-*	Off (do not save)
-*	On (save)
+    *	Off (do not save)
+    *	On (save)
 
 
 

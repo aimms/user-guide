@@ -16,8 +16,8 @@ Setting this option to yes will cause XA's presolver to be called to make proble
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

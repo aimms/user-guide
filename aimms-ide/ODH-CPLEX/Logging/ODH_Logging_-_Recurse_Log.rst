@@ -16,8 +16,8 @@ This option can be used to write thread log files for the recurse heuristic for 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

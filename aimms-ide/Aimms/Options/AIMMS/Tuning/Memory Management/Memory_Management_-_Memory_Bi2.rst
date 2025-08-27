@@ -34,9 +34,9 @@ Possible values are:
 
 
 
-*	8 byte
-*	16 byte
-*	32 byte
+    *	8 byte
+    *	16 byte
+    *	32 byte
 
 
 

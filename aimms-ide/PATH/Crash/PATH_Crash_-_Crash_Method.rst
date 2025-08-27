@@ -16,9 +16,9 @@ In the first phase of the solving algorithm, PATH can use a crash procedure that
 
 
 
-*	None
-*	Automatic
-*	Pnewton
+    *	None
+    *	Automatic
+    *	Pnewton
 
 
 

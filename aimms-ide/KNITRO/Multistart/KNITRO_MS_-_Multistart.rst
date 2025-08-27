@@ -16,8 +16,8 @@ This option determines whether Knitro will solve from multiple start points to f
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

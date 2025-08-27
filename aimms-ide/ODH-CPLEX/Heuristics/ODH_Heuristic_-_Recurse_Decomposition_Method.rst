@@ -16,9 +16,9 @@ This option specifies the decomposition method used to solve the recursed model 
 
 
 
-*	Use initial model decomposition
-*	Assign each variable to a separate key
-*	Use automatic decomposition method
+    *	Use initial model decomposition
+    *	Assign each variable to a separate key
+    *	Use automatic decomposition method
 
 
 

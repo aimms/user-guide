@@ -16,9 +16,9 @@ This option decides how computation times are measured for both reporting perfor
 
 
 
-*	Automatic
-*	CPU time
-*	Wall clock time
+    *	Automatic
+    *	CPU time
+    *	Wall clock time
 
 
 

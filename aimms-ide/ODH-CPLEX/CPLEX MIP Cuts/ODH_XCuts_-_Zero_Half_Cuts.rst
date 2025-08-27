@@ -16,10 +16,10 @@ This option determines whether or not to zero-half cuts for the problem. Setting
 
 
 
-*	Off
-*	Automatic
-*	Generate cuts moderately
-*	Generate cuts aggressively
+    *	Off
+    *	Automatic
+    *	Generate cuts moderately
+    *	Generate cuts aggressively
 
 
 

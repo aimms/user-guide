@@ -18,8 +18,8 @@ This option determines whether the relaxation only values of the constraints as 
 
 
 
-*	Off (do not save)
-*	On (save)
+    *	Off (do not save)
+    *	On (save)
 
 
 

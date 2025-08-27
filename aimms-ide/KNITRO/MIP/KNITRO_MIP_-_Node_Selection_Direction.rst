@@ -16,8 +16,8 @@ This option specifies the MIP node selection direction rule (for tiebreakers) fo
 
 
 
-*	Down
-*	Up
+    *	Down
+    *	Up
 
 
 

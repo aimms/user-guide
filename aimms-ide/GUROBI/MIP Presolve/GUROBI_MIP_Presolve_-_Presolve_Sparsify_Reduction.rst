@@ -16,10 +16,10 @@ This option controls the presolve sparsify reduction for MIP models. This reduct
 
 
 
-*	Automatic
-*	Off
-*	MIP only
-*	Always
+    *	Automatic
+    *	Off
+    *	MIP only
+    *	Always
 
 
 

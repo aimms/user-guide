@@ -16,11 +16,11 @@ This option controls the methods used by the concurrent continuous solver. Possi
 
 
 
-*	Automatic
-*	Barrier, dual and primal simplex
-*	Barrier and dual simplex
-*	Barrier and primal simplex
-*	Dual and primal simplex
+    *	Automatic
+    *	Barrier, dual and primal simplex
+    *	Barrier and dual simplex
+    *	Barrier and primal simplex
+    *	Dual and primal simplex
 
 
 

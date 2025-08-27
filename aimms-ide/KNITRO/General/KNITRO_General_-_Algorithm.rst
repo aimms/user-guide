@@ -16,12 +16,12 @@ This option indicates which algorithm Knitro should use to solve the problem. At
 
 
 
-*	Automatic
-*	Interior-Direct
-*	Interior-CG
-*	Active-Set
-*	SQP
-*	Multi-algorithm
+    *	Automatic
+    *	Interior-Direct
+    *	Interior-CG
+    *	Active-Set
+    *	SQP
+    *	Multi-algorithm
 
 
 

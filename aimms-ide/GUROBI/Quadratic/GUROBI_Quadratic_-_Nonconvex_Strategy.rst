@@ -16,10 +16,10 @@ This option specifies the strategy for handling non-convex quadratic programs. P
 
 
 
-*	Automatic
-*	Off
-*	Linearize
-*	Translate
+    *	Automatic
+    *	Off
+    *	Linearize
+    *	Translate
 
 
 

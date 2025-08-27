@@ -18,8 +18,8 @@ This option determines whether the priority values of the variables are saved in
 
 
 
-*	Off (do not save)
-*	On (save)
+    *	Off (do not save)
+    *	On (save)
 
 
 

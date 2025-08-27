@@ -16,8 +16,8 @@ This option determines whether so called doubletons should be removed. Possible 
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

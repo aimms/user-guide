@@ -16,8 +16,8 @@ This option determines whether to get a basic solution after using the barrier a
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

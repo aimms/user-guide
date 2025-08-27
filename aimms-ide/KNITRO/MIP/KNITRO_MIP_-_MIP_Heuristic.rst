@@ -16,12 +16,12 @@ This option specifies which MIP heuristic search approach to apply to try to fin
 
 
 
-*	Automatic
-*	None
-*	Not used
-*	Feasibility pump
-*	MPEC
-*	Diving
+    *	Automatic
+    *	None
+    *	Not used
+    *	Feasibility pump
+    *	MPEC
+    *	Diving
 
 
 

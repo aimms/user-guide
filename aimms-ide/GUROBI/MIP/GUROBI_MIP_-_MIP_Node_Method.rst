@@ -16,10 +16,10 @@ This option determines which algorithm should be used to solve MIP node relaxati
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Barrier
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Barrier
 
 
 

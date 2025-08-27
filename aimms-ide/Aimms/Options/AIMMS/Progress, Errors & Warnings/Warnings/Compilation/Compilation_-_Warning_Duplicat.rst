@@ -21,7 +21,7 @@ This options determines what should happen when the value for a parameter for a 
 
 .. list-table::
 
-   * - *	Off	
+       * - *	Off	
      - Do not issue a warning.
    * - *	Warning_collect
      - Issue a warning and post it to the global error and warning collector.

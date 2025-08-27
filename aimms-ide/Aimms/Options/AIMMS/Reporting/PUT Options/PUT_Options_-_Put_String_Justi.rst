@@ -18,9 +18,9 @@ This option determines how strings are justified by default by the PUT statement
 
 
 
-*	Right
-*	Left
-*	Center
+    *	Right
+    *	Left
+    *	Center
 
 
 

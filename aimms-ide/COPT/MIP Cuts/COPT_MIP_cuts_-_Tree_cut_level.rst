@@ -16,11 +16,11 @@ This option specifies the level of cutting-planes generation in the search tree.
 
 
 
-*	Automatic
-*	Off
-*	Fast
-*	Normal
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Fast
+    *	Normal
+    *	Aggressive
 
 
 

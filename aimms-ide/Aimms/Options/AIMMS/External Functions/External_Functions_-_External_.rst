@@ -18,11 +18,11 @@ This option determines which messages of external procedures and functions are s
 
 
 
-*	Never (no external messages are sent to the message window)
-*	Error (only external errors are sent to the message window)
-*	Warning (only external warnings are sent to the message window)
-*	Remark (only external remarks are sent to the message window)
-*	All (all external error messages are sent to the message window)
+    *	Never (no external messages are sent to the message window)
+    *	Error (only external errors are sent to the message window)
+    *	Warning (only external warnings are sent to the message window)
+    *	Remark (only external remarks are sent to the message window)
+    *	All (all external error messages are sent to the message window)
 
 
 

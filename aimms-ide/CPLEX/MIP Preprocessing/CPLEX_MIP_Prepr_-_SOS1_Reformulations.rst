@@ -16,9 +16,9 @@ This option allows you to control the reformulation of special ordered sets of t
 
 
 
-*	Off
-*	Automatic
-*	On
+    *	Off
+    *	Automatic
+    *	On
 
 
 

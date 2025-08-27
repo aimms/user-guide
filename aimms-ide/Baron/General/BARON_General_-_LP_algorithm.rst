@@ -18,10 +18,10 @@ This option specifies which algorithm the LP solver should use. At the default s
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Barrier
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Barrier
 
 
 

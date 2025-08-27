@@ -16,10 +16,10 @@ This option specifies which MIP method to use. Possible values are:
 
 
 
-*	Automatic
-*	Branch-and-bound
-*	Hybrid Quesada-Grossman method
-*	MISQP
+    *	Automatic
+    *	Branch-and-bound
+    *	Hybrid Quesada-Grossman method
+    *	MISQP
 
 
 

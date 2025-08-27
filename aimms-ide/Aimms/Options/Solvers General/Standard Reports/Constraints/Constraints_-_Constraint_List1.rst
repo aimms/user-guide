@@ -18,9 +18,9 @@ This option determines whether a constraint listing will be produced before and/
 
 
 
-*	Before solve
-*	After solve
-*	Before and after solve
+    *	Before solve
+    *	After solve
+    *	Before and after solve
 
 
 

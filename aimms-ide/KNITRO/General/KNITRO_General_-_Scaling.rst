@@ -16,8 +16,8 @@ This option determines whether Knitro should performs a scaling of the objective
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

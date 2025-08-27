@@ -16,9 +16,9 @@ This option specifies the type of solution (basic or non basic) that CPLEX attem
 
 
 
-*	Automatic
-*	Basic
-*	Nonbasic
+    *	Automatic
+    *	Basic
+    *	Nonbasic
 
 
 

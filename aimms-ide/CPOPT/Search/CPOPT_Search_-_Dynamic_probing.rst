@@ -16,9 +16,9 @@ This option controls probing carried out during search. Probing can be useful on
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

@@ -18,8 +18,8 @@ This option is used to determine the order in which generated constraints are pr
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

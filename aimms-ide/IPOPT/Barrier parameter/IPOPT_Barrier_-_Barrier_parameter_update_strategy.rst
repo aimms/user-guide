@@ -18,8 +18,8 @@ This option determines which barrier parameter update strategy is to be used. Po
 
 
 
-*	Monotone (use the monotone Fiacco-McCormick strategy)
-*	Adaptive (use the adaptive update strategy)
+    *	Monotone (use the monotone Fiacco-McCormick strategy)
+    *	Adaptive (use the adaptive update strategy)
 
 
 

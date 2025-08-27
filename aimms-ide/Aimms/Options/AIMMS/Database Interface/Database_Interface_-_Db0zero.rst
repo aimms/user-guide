@@ -18,9 +18,9 @@ When an explicit 0 is read for a numerical parameter AIMMS can translate this va
 
 
 
-*	Never (do not translate)
-*	Default_0_only (only translate when the default of the parameter involved is equal to 0)
-*	Always (translate the 0 to zero for all real valued parameters)
+    *	Never (do not translate)
+    *	Default_0_only (only translate when the default of the parameter involved is equal to 0)
+    *	Always (translate the 0 to zero for all real valued parameters)
 
 
 

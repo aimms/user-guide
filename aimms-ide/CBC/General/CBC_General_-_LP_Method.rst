@@ -16,9 +16,9 @@ This option determines which algorithm should be used to solve the model. Possib
 
 
 
-*	Primal simplex
-*	Dual simplex
-*	Barrier
+    *	Primal simplex
+    *	Dual simplex
+    *	Barrier
 
 
 

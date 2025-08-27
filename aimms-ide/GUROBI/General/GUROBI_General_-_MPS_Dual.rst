@@ -16,11 +16,11 @@ This option can be used to generate a model file with the dual formulation of th
 
 
 
-*	Never
-*	At the first solve (MPS format)
-*	At every solve (MPS format)
-*	At the first solve (LP format)
-*	At every solve (LP format)
+    *	Never
+    *	At the first solve (MPS format)
+    *	At every solve (MPS format)
+    *	At the first solve (LP format)
+    *	At every solve (LP format)
 
 
 

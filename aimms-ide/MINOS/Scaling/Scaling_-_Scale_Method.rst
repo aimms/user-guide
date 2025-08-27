@@ -34,9 +34,9 @@ Possible values are:
 
 
 
-*	No scaling
-*	Only scale linear rows and columns
-*	Additional scaling
+        *	No scaling
+        *	Only scale linear rows and columns
+        *	Additional scaling
 
 
 

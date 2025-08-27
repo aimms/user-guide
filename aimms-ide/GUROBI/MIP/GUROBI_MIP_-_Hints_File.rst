@@ -16,9 +16,9 @@ This option determines whether a hints file should be read or written by Gurobi.
 
 
 
-*	Off
-*	Read
-*	Write
+    *	Off
+    *	Read
+    *	Write
 
 
 

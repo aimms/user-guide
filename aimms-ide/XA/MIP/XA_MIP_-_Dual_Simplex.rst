@@ -16,8 +16,8 @@ This option controls whether the dual simplex should be called or not, when solv
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -16,9 +16,9 @@ This option can be used to display statistics that give information about the qu
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

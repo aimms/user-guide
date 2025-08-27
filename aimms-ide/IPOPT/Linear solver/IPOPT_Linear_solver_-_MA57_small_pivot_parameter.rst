@@ -18,8 +18,8 @@ If this option is switched on, then when small entries are detected by the linea
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

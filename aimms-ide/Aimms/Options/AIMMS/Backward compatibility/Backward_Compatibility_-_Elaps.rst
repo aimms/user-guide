@@ -12,8 +12,8 @@ StringToMoment, TimeSlotToMoment, and CurrentToMoment, and
 the eleapsed time argument of the functions MomentToString and MomentToTimeSlot is unitless. 
 Possible values are:
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 **Learn more about** 
 

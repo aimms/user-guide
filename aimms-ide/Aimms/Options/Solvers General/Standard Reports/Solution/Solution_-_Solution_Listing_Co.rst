@@ -18,8 +18,8 @@ This option determines the style used for referencing the variables in a solutio
 
 
 
-*	Algebraic description
-*	Descriptive text
+    *	Algebraic description
+    *	Descriptive text
 
 
 

@@ -16,10 +16,10 @@ This option controls the presolve level. Possible values are:
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

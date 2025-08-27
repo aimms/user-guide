@@ -16,14 +16,14 @@ This option determines the look and feel of the AIMMS Integrated Development Env
 
 
 
-*	Default
-*	Office XP
-*	Office 2000
-*	Office 2003
-*	Windows XP
-*	Visual Studio 2005
-*	Visual Studio 2008
-*	Visual Studio 2010
+    *	Default
+    *	Office XP
+    *	Office 2000
+    *	Office 2003
+    *	Windows XP
+    *	Visual Studio 2005
+    *	Visual Studio 2008
+    *	Visual Studio 2010
 
 
 

@@ -16,9 +16,9 @@ This option specifies whether to dualize a problem before solving it. Possible v
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

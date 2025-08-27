@@ -16,10 +16,10 @@ This option determines the verbosity of the search log. Mode 'Quiet' does not di
 
 
 
-*	Quiet
-*	Terse
-*	Normal
-*	Verbose
+    *	Quiet
+    *	Terse
+    *	Normal
+    *	Verbose
 
 
 

@@ -20,10 +20,10 @@ Setting 'Before' means that the combine solutions heuristic is used before prepr
 
 
 
-*	Off
-*	On
-*	Before
-*	Both
+    *	Off
+    *	On
+    *	Before
+    *	Both
 
 
 

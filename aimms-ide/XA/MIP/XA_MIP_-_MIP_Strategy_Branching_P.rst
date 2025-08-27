@@ -16,8 +16,8 @@ Each time a node is generated, XA calculates the effect of each non-integer valu
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

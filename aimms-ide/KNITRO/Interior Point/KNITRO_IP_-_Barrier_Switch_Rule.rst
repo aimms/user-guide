@@ -16,10 +16,10 @@ This option indicates whether or not the barrier algorithms will allow switching
 
 
 
-*	Automatic
-*	Off
-*	Normal
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Normal
+    *	Aggressive
 
 
 

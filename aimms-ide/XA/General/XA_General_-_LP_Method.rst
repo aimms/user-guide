@@ -16,9 +16,9 @@ For solving an LP, three methods can be applied: primal simplex, dual simplex an
 
 
 
-*	Primal simplex
-*	Dual simplex
-*	Barrier
+    *	Primal simplex
+    *	Dual simplex
+    *	Barrier
 
 
 

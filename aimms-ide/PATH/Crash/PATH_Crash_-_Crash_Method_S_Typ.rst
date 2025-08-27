@@ -16,8 +16,8 @@ This option determines which search type should be used by the ('Pnewton') crash
 
 
 
-*	Arc
-*	Line
+    *	Arc
+    *	Line
 
 
 

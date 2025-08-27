@@ -18,8 +18,8 @@ If the value of the option is "On", spaces at the end of strings and elements th
 
 
 
-*	On 
-*	Off 
+    *	On 
+    *	Off 
 
 
 

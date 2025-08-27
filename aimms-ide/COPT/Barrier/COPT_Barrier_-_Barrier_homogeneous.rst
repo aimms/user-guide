@@ -15,9 +15,9 @@ This option specifies whether to use homogeneous self-dual form in barrier. Poss
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

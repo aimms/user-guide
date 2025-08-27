@@ -16,11 +16,11 @@ Coefficient reduction is a technique used when presolving mixed integer programs
 
 
 
-*	Automatic
-*	None
-*	Only integral coefficients
-*	All possible coefficients
-*	Aggressively with tilting
+    *	Automatic
+    *	None
+    *	Only integral coefficients
+    *	All possible coefficients
+    *	Aggressively with tilting
 
 
 

@@ -18,9 +18,9 @@ This option enables the derivative checker. If this option is enabled, a (slow!)
 
 
 
-*	Do not perform derivative tests
-*	Test first derivatives at starting point
-*	Test first and second derivatives at starting point
+    *	Do not perform derivative tests
+    *	Test first derivatives at starting point
+    *	Test first and second derivatives at starting point
 
 
 

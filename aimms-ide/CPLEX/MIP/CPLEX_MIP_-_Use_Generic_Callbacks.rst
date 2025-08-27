@@ -16,8 +16,8 @@ This option determines whether CPLEX should use generic callback procedures, as 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -16,8 +16,8 @@ This option determines whether Gurobi should use an NLP heuristic to find feasib
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

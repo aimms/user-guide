@@ -16,11 +16,11 @@ This option lets you tell CPLEX to re-apply the MIP presolve techniques of the p
 
 
 
-*	Automatic
-*	Off
-*	Repeat without cuts
-*	Repeat with cuts
-*	Repeat with cuts and new root cuts
+    *	Automatic
+    *	Off
+    *	Repeat without cuts
+    *	Repeat with cuts
+    *	Repeat with cuts and new root cuts
 
 
 

@@ -16,8 +16,8 @@ The type of search used when a gradient step is taken. Possible values are:
 
 
 
-*	Arc
-*	Line
+    *	Arc
+    *	Line
 
 
 

@@ -16,10 +16,10 @@ This option enables or disables model scaling. Scaling can help in solving probl
 
 
 
-*	Automatic
-*	Off
-*	Equilibrium
-*	Geometric
+    *	Automatic
+    *	Off
+    *	Equilibrium
+    *	Geometric
 
 
 

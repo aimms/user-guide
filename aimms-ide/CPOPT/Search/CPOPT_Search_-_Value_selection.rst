@@ -16,13 +16,13 @@ This option specifies the value selection heuristic being used in a search strat
 
 
 
-*	Automatic
-*	Smallest impact
-*	Largest impact
-*	Smallest success rate
-*	Largest success rate
-*	Smallest value
-*	Largest value
+    *	Automatic
+    *	Smallest impact
+    *	Largest impact
+    *	Smallest success rate
+    *	Largest success rate
+    *	Smallest value
+    *	Largest value
 
 
 

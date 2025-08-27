@@ -18,10 +18,10 @@ This option determines in which format large numbers (>1000) are displayed in pa
 
 
 
-*	Comma (1,000,000)
-*	Period (1.000.000)
-*	Space (1 000 000)
-*	Use regional settings of Windows
+    *	Comma (1,000,000)
+    *	Period (1.000.000)
+    *	Space (1 000 000)
+    *	Use regional settings of Windows
 
 
 

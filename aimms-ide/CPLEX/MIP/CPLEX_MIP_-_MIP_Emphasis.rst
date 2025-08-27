@@ -16,12 +16,12 @@ This option specifies whether CPLEX should emphasize feasibility or optimality a
 
 
 
-*	Balance optimality and feasibility
-*	Emphasize feasibility over optimality
-*	Emphasize optimality over feasibility
-*	Emphasize moving best bound
-*	Emphasize hidden feasibility
-*	Emphasize heuristics
+    *	Balance optimality and feasibility
+    *	Emphasize feasibility over optimality
+    *	Emphasize optimality over feasibility
+    *	Emphasize moving best bound
+    *	Emphasize hidden feasibility
+    *	Emphasize heuristics
 
 
 

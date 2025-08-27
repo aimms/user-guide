@@ -16,8 +16,8 @@ PATH uses a so-called path search method in its algorithm for finding a solution
 
 
 
-*	No
-*	Yes 
+    *	No
+    *	Yes 
 
 
 

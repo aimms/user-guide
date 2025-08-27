@@ -20,8 +20,8 @@ A side effect of passing a basis to CPLEX is that no presolving and crashing wil
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

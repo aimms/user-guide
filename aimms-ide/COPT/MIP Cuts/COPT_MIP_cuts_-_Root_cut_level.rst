@@ -16,11 +16,11 @@ This option specifies the level of cutting-planes generation at the root node. P
 
 
 
-*	Automatic
-*	Off
-*	Fast
-*	Normal
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Fast
+    *	Normal
+    *	Aggressive
 
 
 

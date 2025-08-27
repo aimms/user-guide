@@ -16,10 +16,10 @@ This option specifies the type of solution CPLEX attempts to compute when CPLEX 
 
 
 
-*	Automatic
-*	Search for convex optimum
-*	Search for local optimum
-*	Search for global optimum
+    *	Automatic
+    *	Search for convex optimum
+    *	Search for local optimum
+    *	Search for global optimum
 
 
 

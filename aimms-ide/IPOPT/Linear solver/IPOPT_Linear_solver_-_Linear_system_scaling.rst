@@ -18,8 +18,8 @@ This option indicates that linear scaling is only done if it seems required. Thi
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

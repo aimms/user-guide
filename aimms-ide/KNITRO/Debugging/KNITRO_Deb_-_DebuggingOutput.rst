@@ -16,6 +16,6 @@ This option controls the level of debugging output. Debugging output can slow ex
 
 
 
-*	None
-*	Algorithm information
-*	Execution information
+    *	None
+    *	Algorithm information
+    *	Execution information

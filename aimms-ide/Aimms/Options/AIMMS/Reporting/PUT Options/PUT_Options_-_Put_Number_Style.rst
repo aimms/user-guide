@@ -18,10 +18,10 @@ This option determines the style in which numbers are displayed by the PUT state
 
 
 
-*	Fit field or e format (if a number does not fit within the width of a number field, then scientific notation is used)
-*	Fit field width (the number is rounded to fit the field width)
-*	Always e format
-*	Fit field or e format or 0, same as 'Fit field or e format', except that small values are printed as 0
+    *	Fit field or e format (if a number does not fit within the width of a number field, then scientific notation is used)
+    *	Fit field width (the number is rounded to fit the field width)
+    *	Always e format
+    *	Fit field or e format or 0, same as 'Fit field or e format', except that small values are printed as 0
 
 
 

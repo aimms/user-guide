@@ -16,9 +16,9 @@ This option controls whether to use the network simplex algorithm. Possible valu
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

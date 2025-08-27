@@ -16,9 +16,9 @@ This option specifies how Knitro should handle integer variables. Possible value
 
 
 
-*	None
-*	Relax
-*	MPEC
+    *	None
+    *	Relax
+    *	MPEC
 
 
 

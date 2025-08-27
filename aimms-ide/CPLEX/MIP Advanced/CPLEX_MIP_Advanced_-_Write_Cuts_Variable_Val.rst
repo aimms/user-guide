@@ -16,8 +16,8 @@ This option determines whether a list of cuts and constraints should be followed
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

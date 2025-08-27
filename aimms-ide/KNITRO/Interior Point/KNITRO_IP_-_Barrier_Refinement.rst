@@ -16,8 +16,8 @@ This option specifies whether to try to refine the barrier solution for better p
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

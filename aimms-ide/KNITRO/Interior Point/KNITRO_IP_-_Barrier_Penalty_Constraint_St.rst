@@ -16,10 +16,10 @@ This option indicates whether a penalty approach is applied to the constraints. 
 
 
 
-*	Automatic
-*	No constraints penalized
-*	All constraints penalized
-*	Equalities penalized
+    *	Automatic
+    *	No constraints penalized
+    *	All constraints penalized
+    *	Equalities penalized
 
 
 

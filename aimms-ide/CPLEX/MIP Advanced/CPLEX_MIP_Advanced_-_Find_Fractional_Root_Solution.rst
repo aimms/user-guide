@@ -20,9 +20,9 @@ This option decides whether CPLEX should only find, and return, the fractional s
 
 
 
-*	Off
-*	Normal
-*	Always
+    *	Off
+    *	Normal
+    *	Always
 
 
 

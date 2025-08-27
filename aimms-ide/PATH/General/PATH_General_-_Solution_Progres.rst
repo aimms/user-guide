@@ -22,7 +22,7 @@ n:	Report progress after each n Jacobian evaluation.
 
 
 
-**Note** 
+    **Note** 
 
 *	The global solvers option **Progress Solution**  has no effect on PATH.
 

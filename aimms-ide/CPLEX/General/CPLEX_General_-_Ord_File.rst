@@ -16,9 +16,9 @@ When this option is switched on, an ORD file is generated containing the priorit
 
 
 
-*	Never
-*	At the first solve
-*	At every solve
+    *	Never
+    *	At the first solve
+    *	At every solve
 
 
 

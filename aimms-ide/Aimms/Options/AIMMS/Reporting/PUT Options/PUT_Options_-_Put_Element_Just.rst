@@ -18,9 +18,9 @@ This option determines how elements are justified within an element field by the
 
 
 
-*	Right
-*	Left
-*	Center
+    *	Right
+    *	Left
+    *	Center
 
 
 

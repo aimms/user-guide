@@ -16,9 +16,9 @@ In some cases one might want to interrupt the current solve and continue it late
 
 
 
-*	Before
-*	No (do not restart)
-*	Yes (restart)
+    *	Before
+    *	No (do not restart)
+    *	Yes (restart)
 
 
 

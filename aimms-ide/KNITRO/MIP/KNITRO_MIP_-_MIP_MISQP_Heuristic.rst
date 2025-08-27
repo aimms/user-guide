@@ -16,9 +16,9 @@ This option specifies whether or not to enable the MIP MISQP heuristic. Possible
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

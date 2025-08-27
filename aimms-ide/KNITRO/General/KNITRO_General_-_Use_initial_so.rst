@@ -16,8 +16,8 @@ This option determines whether Knitro should use the initial solution provided b
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

@@ -18,8 +18,8 @@ When using CPLEX to solve a MIP model, use this option to control whether AIMMS 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -18,8 +18,8 @@ This option controls whether the WebUI state is saved when the application is ru
 
 
 
-*	Never
-*	Upon session termination
+    *	Never
+    *	Upon session termination
 
 
 

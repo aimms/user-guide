@@ -16,9 +16,9 @@ This option can be used to enable special treatments for conic constraints when 
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

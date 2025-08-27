@@ -20,10 +20,10 @@ Possible values are:
 
 
 
-*	Pivot Table
-*	Table
-*	Composite Table
-*	Sparse List
+    *	Pivot Table
+    *	Table
+    *	Composite Table
+    *	Sparse List
 
 
 

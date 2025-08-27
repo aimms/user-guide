@@ -21,7 +21,7 @@ When not off and the application has a week based calendar a warning will be iss
 
 .. list-table::
 
-   * - *	Off	
+       * - *	Off	
      - Do not issue a warning.
    * - *	Warning_collect
      - Issue a warning and post it to the global error and warning collector.

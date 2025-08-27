@@ -16,10 +16,10 @@ This option is used when the **Working Memory Limit**  has been exceeded by the 
 
 
 
-*	None
-*	In memory and compressed
-*	On disk
-*	On disk and compressed
+    *	None
+    *	In memory and compressed
+    *	On disk
+    *	On disk and compressed
 
 
 

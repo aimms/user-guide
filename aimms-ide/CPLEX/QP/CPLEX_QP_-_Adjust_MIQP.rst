@@ -16,8 +16,8 @@ This option determines whether CPLEX will attempt to adjust a MIQP formulation, 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

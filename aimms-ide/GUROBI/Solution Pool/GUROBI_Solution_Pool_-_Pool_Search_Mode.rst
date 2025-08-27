@@ -16,9 +16,9 @@ Gurobi offers different modes for exploring the MIP search tree, as controlled b
 
 
 
-*	Normal
-*	Find additional solutions
-*	Find best solutions
+    *	Normal
+    *	Find additional solutions
+    *	Find best solutions
 
 
 

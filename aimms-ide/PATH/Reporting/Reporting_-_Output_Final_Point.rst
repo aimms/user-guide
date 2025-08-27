@@ -16,8 +16,8 @@ If the value of this option is set to 'Yes' and the option **Create Status File*
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

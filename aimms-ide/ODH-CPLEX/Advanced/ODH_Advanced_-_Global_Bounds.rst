@@ -19,7 +19,7 @@ This option specifies the usage of global bounds from CPLEX caller. Possible val
 
 .. list-table::
 
-   * - 0
+       * - 0
      - Never use
    * - 1-4
      - Intensity of use (:Default: 2)

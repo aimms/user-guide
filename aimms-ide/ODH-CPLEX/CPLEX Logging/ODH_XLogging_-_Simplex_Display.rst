@@ -16,9 +16,9 @@ Determines what CPLEX reports during simplex optimization while solving a mixed 
 
 
 
-*	None
-*	At refactorizations
-*	Every iteration
+    *	None
+    *	At refactorizations
+    *	Every iteration
 
 
 

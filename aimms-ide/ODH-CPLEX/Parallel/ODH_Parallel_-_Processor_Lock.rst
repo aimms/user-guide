@@ -16,8 +16,8 @@ This option determines thread allocation. Possible values are:
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -18,9 +18,9 @@ This option controls whether the AIMMS Presolver will apply Optimization-Based B
 
 
 
-*	Off
-*	Automatic
-*	Full
+    *	Off
+    *	Automatic
+    *	Full
 
 
 

@@ -20,11 +20,11 @@ Setting the value different from "Off" indicates that the attempt to generate li
 
 
 
-*	Off
-*	On
-*	Root only
-*	If promising
-*	Always
+    *	Off
+    *	On
+    *	Root only
+    *	If promising
+    *	Always
 
 
 

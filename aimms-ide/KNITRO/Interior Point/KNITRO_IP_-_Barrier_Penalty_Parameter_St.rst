@@ -16,9 +16,9 @@ This option indicates which penalty parameter strategy to use for determining wh
 
 
 
-*	Automatic
-*	Single parameter
-*	Multiple parameters
+    *	Automatic
+    *	Single parameter
+    *	Multiple parameters
 
 
 

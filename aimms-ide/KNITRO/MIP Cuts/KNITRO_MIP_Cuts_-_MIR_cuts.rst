@@ -16,10 +16,10 @@ This option specifies rules for adding mixed integer rounding (MIR) cuts for MIN
 
 
 
-*	Automatic
-*	None
-*	Root
-*	Tree
+    *	Automatic
+    *	None
+    *	Root
+    *	Tree
 
 
 

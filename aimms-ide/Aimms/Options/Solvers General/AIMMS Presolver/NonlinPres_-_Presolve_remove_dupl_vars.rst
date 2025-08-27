@@ -18,8 +18,8 @@ This option controls whether the AIMMS Presolver should remove duplicate variabl
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

@@ -18,10 +18,10 @@ This option determines if and when the solver listing is copied into the AIMMS l
 
 
 
-*	Never
-*	At first solve
-*	At an infeasible solve
-*	At every solve
+    *	Never
+    *	At first solve
+    *	At an infeasible solve
+    *	At every solve
 
 
 

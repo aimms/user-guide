@@ -22,6 +22,6 @@ n:	At most n iterations are allowed without convergence before enforcing an auto
 
 
 
-**Learn more about** 
+    **Learn more about** 
 
 *	:ref:`option-KNITRO-restarts` 

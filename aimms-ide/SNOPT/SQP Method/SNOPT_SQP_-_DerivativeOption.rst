@@ -28,8 +28,8 @@ Possible values are:
 
 
 
-*	Some gradients are unknown
-*	All gradients are known
+    *	Some gradients are unknown
+    *	All gradients are known
 
 
 

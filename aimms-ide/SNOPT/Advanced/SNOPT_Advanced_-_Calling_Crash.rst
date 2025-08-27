@@ -28,10 +28,10 @@ Possible values are:
 
 
 
-*	Choose only slack variables
-*	Call Crash once
-*	Call Crash twice
-*	Call Crash three times
+    *	Choose only slack variables
+    *	Call Crash once
+    *	Call Crash twice
+    *	Call Crash three times
 
 
 

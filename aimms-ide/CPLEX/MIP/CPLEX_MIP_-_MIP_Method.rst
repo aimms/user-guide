@@ -16,12 +16,12 @@ This option can be used to set the algorithm to be used on subproblems. At the d
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Network simplex
-*	Barrier
-*	Sifting
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Network simplex
+    *	Barrier
+    *	Sifting
 
 
 

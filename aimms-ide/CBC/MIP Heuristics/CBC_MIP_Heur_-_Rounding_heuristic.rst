@@ -20,10 +20,10 @@ Possible values are:
 
 
 
-*	Off
-*	On
-*	Before
-*	Both
+    *	Off
+    *	On
+    *	Before
+    *	Both
 
 
 

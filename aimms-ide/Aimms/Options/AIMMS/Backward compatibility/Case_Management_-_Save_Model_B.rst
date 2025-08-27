@@ -18,8 +18,8 @@ This option used to determine whether the current basis of the model is saved in
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

@@ -18,8 +18,8 @@ This option determines whether or not the size of the identifiers read in is lis
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

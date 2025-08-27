@@ -16,9 +16,9 @@ Normally XA does not split up the node list during the branch and bound search p
 
 
 
-*	No splitting
-*	Split list in half
-*	Split list based on objective value
+    *	No splitting
+    *	Split list in half
+    *	Split list based on objective value
 
 
 

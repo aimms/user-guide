@@ -18,10 +18,10 @@ This option specifies the LP solver to be used. At the default setting AIMMS cho
 
 
 
-*	Automatic
-*	CPLEX
-*	CLP
-*	None
+    *	Automatic
+    *	CPLEX
+    *	CLP
+    *	None
 
 
 

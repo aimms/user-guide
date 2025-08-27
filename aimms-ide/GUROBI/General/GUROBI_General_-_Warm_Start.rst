@@ -16,9 +16,9 @@ This option controls whether and how Gurobi uses warm start information for an L
 
 
 
-*	Off
-*	Original problem
-*	Presolved problem
+    *	Off
+    *	Original problem
+    *	Presolved problem
 
 
 

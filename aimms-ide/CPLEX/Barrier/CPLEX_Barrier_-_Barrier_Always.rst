@@ -16,8 +16,8 @@ Setting this option to "Yes" will cause every barrier optimization run to be sta
 
 
 
-*	No (do not start each barrier optimization run afresh)
-*	Yes (do start each barrier optimization run afresh)
+    *	No (do not start each barrier optimization run afresh)
+    *	Yes (do start each barrier optimization run afresh)
 
 
 

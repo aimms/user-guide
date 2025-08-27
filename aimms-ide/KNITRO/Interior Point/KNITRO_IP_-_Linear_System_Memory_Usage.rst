@@ -16,10 +16,10 @@ This option indicates how to store in memory the linear systems used inside the 
 
 
 
-*	Automatic
-*	Not used
-*	Low
-*	Normal
+    *	Automatic
+    *	Not used
+    *	Low
+    *	Normal
 
 
 

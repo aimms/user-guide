@@ -16,9 +16,9 @@ This option determines the encoding used for CP::Sequence constraints. Possible 
 
 
 
-*	Direct
-*	Count
-*	Partial sum
+    *	Direct
+    *	Count
+    *	Partial sum
 
 
 

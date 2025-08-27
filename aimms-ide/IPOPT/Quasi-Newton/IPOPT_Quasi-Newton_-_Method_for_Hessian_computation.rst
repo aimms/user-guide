@@ -18,9 +18,9 @@ This option determines which kind of information for the Hessian of the Lagrangi
 
 
 
-*	Automatic
-*	Exact
-*	Quasi-Newton
+    *	Automatic
+    *	Exact
+    *	Quasi-Newton
 
 
 

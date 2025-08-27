@@ -18,8 +18,8 @@ This option controls whether the AIMMS Presolver should make a copy of the gener
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

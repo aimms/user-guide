@@ -18,8 +18,8 @@ This option specifies the linear feasibility-based range reduction/tightening (p
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

@@ -16,9 +16,9 @@ This option indicates which objective function to use when the barrier algorithm
 
 
 
-*	Off
-*	Scalar weighting
-*	Diagonal weighting
+    *	Off
+    *	Scalar weighting
+    *	Diagonal weighting
 
 
 

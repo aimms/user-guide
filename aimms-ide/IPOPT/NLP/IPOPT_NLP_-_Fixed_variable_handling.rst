@@ -18,9 +18,9 @@ This option determines how fixed variables should be handled. Possible values ar
 
 
 
-*	Convert to parameter
-*	Add equality constraints
-*	Relax fixing bound constraints
+    *	Convert to parameter
+    *	Add equality constraints
+    *	Relax fixing bound constraints
 
 
 

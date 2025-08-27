@@ -16,10 +16,10 @@ Ths option sets the ordering method used by the **Linear Solver.** Possible valu
 
 
 
-*	Automatic
-*	Best
-*	AMD
-*	METIS
+    *	Automatic
+    *	Best
+    *	AMD
+    *	METIS
 
 
 

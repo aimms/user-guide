@@ -15,9 +15,9 @@ This option can be used to activate the generation of COPT solution files contai
 
 
 
-*	Never
-*	At the first solve
-*	At every solve
+    *	Never
+    *	At the first solve
+    *	At every solve
 
 
 

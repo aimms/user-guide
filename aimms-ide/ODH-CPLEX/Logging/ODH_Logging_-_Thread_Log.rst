@@ -16,8 +16,8 @@ This option can be used to write thread log files. Possible values are:
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

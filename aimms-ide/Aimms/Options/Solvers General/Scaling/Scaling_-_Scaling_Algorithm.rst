@@ -18,10 +18,10 @@ This option controls the algorithm used by AIMMS to scale the model before sendi
 
 
 
-*	Automatic
-*	Iterative
-*	Optimization based
-*	Combination
+    *	Automatic
+    *	Iterative
+    *	Optimization based
+    *	Combination
 
 
 

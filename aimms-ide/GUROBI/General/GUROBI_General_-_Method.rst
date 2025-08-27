@@ -16,12 +16,12 @@ This option determines which algorithm should be used when solving continuous mo
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Barrier
-*	Opportunistic concurrent
-*	Deterministic concurrent
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Barrier
+    *	Opportunistic concurrent
+    *	Deterministic concurrent
 
 
 

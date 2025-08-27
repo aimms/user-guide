@@ -16,13 +16,13 @@ This option can be used to control the branching order of XA. The selected metho
 
 
 
-*	None
-*	Order of definition
-*	Reverse order of definition
-*	Ascending number of non-zeros per column
-*	Descending number of non-zeros per column
-*	Ascending objective coefficient values
-*	Descending objective coefficient values
+    *	None
+    *	Order of definition
+    *	Reverse order of definition
+    *	Ascending number of non-zeros per column
+    *	Descending number of non-zeros per column
+    *	Ascending objective coefficient values
+    *	Descending objective coefficient values
 
 
 

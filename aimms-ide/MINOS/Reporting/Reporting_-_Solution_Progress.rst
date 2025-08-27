@@ -20,7 +20,7 @@ This option controls the progress reports during the solution process of MINOS. 
 
 0:	Do not report progress.
 
-*n*:	Report progress after each *n* iterations.
+    *n*:	Report progress after each *n* iterations.
 
 
 

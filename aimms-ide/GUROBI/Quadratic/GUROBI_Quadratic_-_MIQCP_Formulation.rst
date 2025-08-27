@@ -16,10 +16,10 @@ This option specifies the format of the presolved MIQCP model. This option only 
 
 
 
-*	Automatic
-*	MIQCP
-*	MISOCP
-*	Disaggregated MISOCP
+    *	Automatic
+    *	MIQCP
+    *	MISOCP
+    *	Disaggregated MISOCP
 
 
 

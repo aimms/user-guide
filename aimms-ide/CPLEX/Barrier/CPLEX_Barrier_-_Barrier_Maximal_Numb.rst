@@ -24,7 +24,7 @@ n:	n corrections
 
 
 
-**Learn more about** 
+    **Learn more about** 
 
 *	:ref:`option-CPLEX-barrier_display` 
 

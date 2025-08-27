@@ -16,8 +16,8 @@ This option specifies whether or not to use a heuristic approach when solving MP
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

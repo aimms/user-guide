@@ -18,8 +18,8 @@ This is the local search option for upper bounding. By default BARON's dynamic l
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

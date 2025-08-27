@@ -18,8 +18,8 @@ This option controls whether or not writing of the constraint and solution listi
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

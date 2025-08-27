@@ -18,9 +18,9 @@ Possible values are:
 
 
 
-*	Never
-*	Only in develop mode
-*	Always
+    *	Never
+    *	Only in develop mode
+    *	Always
 
 
 

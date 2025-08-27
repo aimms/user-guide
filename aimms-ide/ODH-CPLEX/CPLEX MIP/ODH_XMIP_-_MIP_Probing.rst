@@ -16,11 +16,11 @@ The setting of this option determines the amount of variable probing performed o
 
 
 
-*	No probing
-*	Automatic
-*	Limited probing
-*	More probing
-*	Full probing
+    *	No probing
+    *	Automatic
+    *	Limited probing
+    *	More probing
+    *	Full probing
 
 
 

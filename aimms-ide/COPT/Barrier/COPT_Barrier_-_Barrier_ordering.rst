@@ -18,9 +18,9 @@ This option specifies the barrier ordering algorithm. Possible values are:
 
 
 
-*	Automatic
-*	Approximate minimum degree
-*	Nested dissection
+    *	Automatic
+    *	Approximate minimum degree
+    *	Nested dissection
 
 
 

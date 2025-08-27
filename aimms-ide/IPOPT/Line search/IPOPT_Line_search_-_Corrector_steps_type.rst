@@ -18,9 +18,9 @@ This option specifies the type of corrector steps that should be taken. If the s
 
 
 
-*	None
-*	Affine
-*	Primal-dual
+    *	None
+    *	Affine
+    *	Primal-dual
 
 
 

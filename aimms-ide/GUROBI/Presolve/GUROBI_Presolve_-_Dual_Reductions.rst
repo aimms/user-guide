@@ -16,8 +16,8 @@ This option determines whether dual reductions are performed. Possible values ar
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

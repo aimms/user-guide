@@ -16,9 +16,9 @@ This option specifies whether or not to enable the MIP feasibility pump heuristi
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

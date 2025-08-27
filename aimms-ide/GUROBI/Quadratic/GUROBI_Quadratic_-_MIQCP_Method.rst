@@ -16,9 +16,9 @@ This option controls the method used to solve MIQCP models. Value 'Linearization
 
 
 
-*	Automatic
-*	Linearizations
-*	QCP relaxations
+    *	Automatic
+    *	Linearizations
+    *	QCP relaxations
 
 
 

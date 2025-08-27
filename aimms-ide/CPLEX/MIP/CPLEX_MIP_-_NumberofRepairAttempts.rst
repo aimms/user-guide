@@ -24,6 +24,6 @@ n:	Indicates the frequency
 
 
 
-**Learn more about** 
+    **Learn more about** 
 
 *	:ref:`option-CPLEX-advanced_start` 

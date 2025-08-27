@@ -16,8 +16,8 @@ This option determines whether or not Knitro should try to identify linear varia
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

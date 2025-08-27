@@ -24,8 +24,8 @@ Possible values are:
 
 
 
-*	Derivative linesearch
-*	Nonderivative linesearch
+    *	Derivative linesearch
+    *	Nonderivative linesearch
 
 
 

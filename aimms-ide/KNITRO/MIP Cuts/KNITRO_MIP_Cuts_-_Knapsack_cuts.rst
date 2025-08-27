@@ -16,10 +16,10 @@ This option specifies rules for adding knapsack cuts for MINLP problems. Possibl
 
 
 
-*	Automatic
-*	None
-*	Root
-*	Tree
+    *	Automatic
+    *	None
+    *	Root
+    *	Tree
 
 
 

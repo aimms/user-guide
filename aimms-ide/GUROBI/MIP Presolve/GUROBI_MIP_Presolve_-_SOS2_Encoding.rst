@@ -20,11 +20,11 @@ Possible values are:
 
 
 
-*	Automatic
-*	Multiple choice model
-*	Incremental model
-*	Logarithmic, emphasize LP relaxation
-*	Logarithmic, emphasize branching
+    *	Automatic
+    *	Multiple choice model
+    *	Incremental model
+    *	Logarithmic, emphasize LP relaxation
+    *	Logarithmic, emphasize branching
 
 
 

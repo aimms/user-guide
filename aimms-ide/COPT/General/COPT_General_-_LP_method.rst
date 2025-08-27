@@ -16,10 +16,10 @@ This option specifies which algorithm should be used when solving continuous mod
 
 
 
-*	Automatic
-*	Dual simplex
-*	Barrier
-*	Concurrent
+    *	Automatic
+    *	Dual simplex
+    *	Barrier
+    *	Concurrent
 
 
 

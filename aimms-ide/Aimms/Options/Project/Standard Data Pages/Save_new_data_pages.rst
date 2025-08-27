@@ -22,8 +22,8 @@ Possible values are:
 
 
 
-*	Never
-*	Upon confirmation
+    *	Never
+    *	Upon confirmation
 
 
 

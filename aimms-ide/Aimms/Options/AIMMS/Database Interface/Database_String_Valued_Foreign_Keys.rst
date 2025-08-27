@@ -26,6 +26,6 @@ Possible values are:
 
 
 
-*	Ignore: All empty strings will be written as empty strings.
-*	Check: AIMMS will request the foreign key information from the database. Only string valued foreign key columns will be written as NULL.
-*	Assume: All empty strings will be written as NULL values.
+    *	Ignore: All empty strings will be written as empty strings.
+    *	Check: AIMMS will request the foreign key information from the database. Only string valued foreign key columns will be written as NULL.
+    *	Assume: All empty strings will be written as NULL values.

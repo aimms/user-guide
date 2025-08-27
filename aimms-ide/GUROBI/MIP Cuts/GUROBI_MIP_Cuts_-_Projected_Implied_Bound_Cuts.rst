@@ -16,10 +16,10 @@ This option determines whether or not to generate projected implied bound cuts f
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

@@ -16,8 +16,8 @@ This option specifies whether the solution improvement heuristic is run in deter
 
 
 
-*	Opportunistic
-*	Deterministic
+    *	Opportunistic
+    *	Deterministic
 
 
 

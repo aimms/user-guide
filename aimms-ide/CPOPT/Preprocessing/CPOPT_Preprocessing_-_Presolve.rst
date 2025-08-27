@@ -16,8 +16,8 @@ This option determines whether table constraints should be preprocessed. Possibl
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

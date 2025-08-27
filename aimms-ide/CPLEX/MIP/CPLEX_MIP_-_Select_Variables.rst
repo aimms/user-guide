@@ -16,9 +16,9 @@ The setting of this option is used to set the rule for selecting the branching v
 
 
 
-*	Min. infeasibility (branch on variable with min infeasibility)
-*	Automatic
-*	Max. infeasibility (branch on variable with max infeasibility)
-*	Pseudo costs
-*	Strong branching
-*	Pseudo-reduced costs
+    *	Min. infeasibility (branch on variable with min infeasibility)
+    *	Automatic
+    *	Max. infeasibility (branch on variable with max infeasibility)
+    *	Pseudo costs
+    *	Strong branching
+    *	Pseudo-reduced costs

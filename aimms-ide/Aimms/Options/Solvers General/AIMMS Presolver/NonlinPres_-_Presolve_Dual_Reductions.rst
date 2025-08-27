@@ -18,8 +18,8 @@ This option controls whether the AIMMS Presolver should apply dual reductions. P
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

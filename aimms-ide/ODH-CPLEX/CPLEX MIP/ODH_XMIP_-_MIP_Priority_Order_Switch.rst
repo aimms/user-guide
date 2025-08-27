@@ -16,8 +16,8 @@ This option decides whether to use the priority order, if one exists, for the ne
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

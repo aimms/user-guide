@@ -18,10 +18,10 @@ This option controls whether the AIMMS Presolver should do probing for MINLP mod
 
 
 
-*	Off
-*	Limited
-*	More
-*	Full
+    *	Off
+    *	Limited
+    *	More
+    *	Full
 
 
 

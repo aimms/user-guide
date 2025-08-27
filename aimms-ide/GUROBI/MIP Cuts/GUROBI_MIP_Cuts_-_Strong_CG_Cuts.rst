@@ -16,10 +16,10 @@ This option determines whether or not to generate Strong Chvátal-Gomory (Strong
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

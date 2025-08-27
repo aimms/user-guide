@@ -16,12 +16,12 @@ This option determines the crossover strategy used to transform the barrier solu
 
 
 
-*	Automatic
-*	Off
-*	Dual first + primal simplex
-*	Dual first + dual simplex
-*	Primal first + primal simplex
-*	Primal first + dual simplex
+    *	Automatic
+    *	Off
+    *	Dual first + primal simplex
+    *	Dual first + dual simplex
+    *	Primal first + primal simplex
+    *	Primal first + dual simplex
 
 
 

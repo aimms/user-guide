@@ -24,10 +24,10 @@ Possible values are:
 
 
 
-*	Never
-*	Only Variables
-*	Only Parameters
-*	Both Variables and Parameters
+    *	Never
+    *	Only Variables
+    *	Only Parameters
+    *	Both Variables and Parameters
 
 
 

@@ -25,7 +25,7 @@ This situation is ignored, reported as a warning, or interpreted as an error, de
 
 .. list-table::
 
-   * - *	Off	
+       * - *	Off	
      - Do not issue a warning.
    * - *	Warning_collect
      - Issue a warning and post it to the global error and warning collector.

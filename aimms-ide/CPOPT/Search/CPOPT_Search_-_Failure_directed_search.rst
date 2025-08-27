@@ -16,8 +16,8 @@ This option controls usage of failure-directed search. Possible values are:
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

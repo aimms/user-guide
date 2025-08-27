@@ -20,9 +20,9 @@ Possible values are:
 
 
 
-*	Automatic
-*	Fast
-*	Small
+    *	Automatic
+    *	Fast
+    *	Small
 
 
 

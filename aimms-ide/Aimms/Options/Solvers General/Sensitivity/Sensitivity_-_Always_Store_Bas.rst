@@ -18,8 +18,8 @@ This option determines whether AIMMS will store the basic state in the Basic suf
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

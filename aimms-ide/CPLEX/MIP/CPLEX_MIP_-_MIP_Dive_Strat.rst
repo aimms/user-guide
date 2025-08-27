@@ -16,10 +16,10 @@ The MIP traversal strategy occasionally performs probing dives, where it looks a
 
 
 
-*	Automatic
-*	Traditional dive
-*	Probing dive
-*	Guided dive
+    *	Automatic
+    *	Traditional dive
+    *	Probing dive
+    *	Guided dive
 
 
 

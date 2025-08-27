@@ -16,9 +16,9 @@ Determines what CPLEX reports during simplex optimization. The amount of informa
 
 
 
-*	None
-*	At refactorizations
-*	Every iteration
+    *	None
+    *	At refactorizations
+    *	Every iteration
 
 
 

@@ -18,8 +18,8 @@ This option controls whether AIMMS should scale the model before sending it to t
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

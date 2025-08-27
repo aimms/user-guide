@@ -16,10 +16,10 @@ This option determines whether folding will be automatically executed, during th
 
 
 
-*	Automatic
-*	Off
-*	Moderate
-*	Aggressive
-*	Very aggressive
-*	Highly aggressive
-*	Extremely aggressive
+    *	Automatic
+    *	Off
+    *	Moderate
+    *	Aggressive
+    *	Very aggressive
+    *	Highly aggressive
+    *	Extremely aggressive

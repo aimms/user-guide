@@ -19,8 +19,8 @@ When this option is switched off the situation is returned to the AIMMS 3.5 and 
 
 Possible values are:
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 **Learn more about** 
 

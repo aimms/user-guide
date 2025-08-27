@@ -16,11 +16,11 @@ This option provides a global cut control, affecting the generation of all cuts.
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
-*	Very aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
+    *	Very aggressive
 
 
 

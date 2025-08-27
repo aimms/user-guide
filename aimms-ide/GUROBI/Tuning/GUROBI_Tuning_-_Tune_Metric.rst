@@ -16,9 +16,9 @@ A single tuning run typically produces multiple timing results for each candidat
 
 
 
-*	Automatic
-*	Average
-*	Maximum
+    *	Automatic
+    *	Average
+    *	Maximum
 
 
 

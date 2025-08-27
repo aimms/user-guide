@@ -18,8 +18,8 @@ If this option is turned on, the AIMMS names of the variables and constraints ar
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

@@ -16,11 +16,11 @@ This option determines whether or not to generate locally valid implied bound cu
 
 
 
-*	Off
-*	Automatic
-*	Generate cuts moderately
-*	Generate cuts aggressively
-*	Generate cuts very aggressively
+    *	Off
+    *	Automatic
+    *	Generate cuts moderately
+    *	Generate cuts aggressively
+    *	Generate cuts very aggressively
 
 
 

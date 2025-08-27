@@ -18,11 +18,11 @@ This option determines whether tooltips should be shown for identifiers in the m
 
 
 
-*	Never
-*	Only During Debugging
-*	Only During Profiling
-*	During Debugging/Profiling
-*	Always
+    *	Never
+    *	Only During Debugging
+    *	Only During Profiling
+    *	During Debugging/Profiling
+    *	Always
 
 
 

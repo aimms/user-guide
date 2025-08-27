@@ -16,9 +16,9 @@ PATH employs a merit function to indicate the closeness of the current iteration
 
 
 
-*	Automatic
-*	Normal
-*	Fischer
+    *	Automatic
+    *	Normal
+    *	Fischer
 
 
 

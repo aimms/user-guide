@@ -18,8 +18,8 @@ This option determines whether binding domain of a for statement requires to be 
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

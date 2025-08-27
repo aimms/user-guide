@@ -18,9 +18,9 @@ This option determines the format used for printing elements. Possible values ar
 
 
 
-*	No quotes
-*	Single quotes
-*	Double quotes
+    *	No quotes
+    *	Single quotes
+    *	Double quotes
 
 
 

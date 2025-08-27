@@ -16,10 +16,10 @@ This option specifies rules for adding zero-half cuts for MINLP problems. Possib
 
 
 
-*	Automatic
-*	None
-*	Root
-*	Tree
+    *	Automatic
+    *	None
+    *	Root
+    *	Tree
 
 
 

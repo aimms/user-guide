@@ -18,9 +18,9 @@ Solvers allow variables to slightly violate their bounds as specified by the fea
 
 
 
-*	No rounding
-*	Round to nearest bound
-*	Round to nearest bound and resolve LP
+    *	No rounding
+    *	Round to nearest bound
+    *	Round to nearest bound and resolve LP
 
 
 

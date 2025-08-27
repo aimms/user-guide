@@ -18,8 +18,8 @@ This option determines whether the violations of the constraints are saved in a 
 
 
 
-*	Off (do not save)
-*	On (save)
+    *	Off (do not save)
+    *	On (save)
 
 
 

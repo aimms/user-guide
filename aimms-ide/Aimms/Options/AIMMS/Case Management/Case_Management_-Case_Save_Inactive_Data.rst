@@ -18,8 +18,8 @@ This option determines whether or not the inactive data is saved in cases. Possi
 
 
 
-*	Off (do not save inactive data)
-*	On (save inactive data)
+    *	Off (do not save inactive data)
+    *	On (save inactive data)
 
 
 

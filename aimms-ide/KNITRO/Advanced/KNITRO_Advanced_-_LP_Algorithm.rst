@@ -16,10 +16,10 @@ This option indicates which algorithm to use to solve linear programming (LP) su
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Barrier
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Barrier
 
 
 

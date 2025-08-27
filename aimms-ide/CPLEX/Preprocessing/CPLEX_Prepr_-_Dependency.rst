@@ -20,11 +20,11 @@ The activation of the "dependency checker" can be controlled by means of this op
 
 
 
-*	Automatic
-*	No check
-*	Check only at start of presolve
-*	Check only at end of presolve
-*	Check at start and end of presolve
+    *	Automatic
+    *	No check
+    *	Check only at start of presolve
+    *	Check only at end of presolve
+    *	Check at start and end of presolve
 
 
 

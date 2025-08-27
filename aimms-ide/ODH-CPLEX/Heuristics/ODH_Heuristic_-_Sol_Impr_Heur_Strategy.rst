@@ -16,9 +16,9 @@ This option specifies the solution improvement heuristic strategy. Possible valu
 
 
 
-*	Normal
-*	Moderate
-*	Aggressive
+    *	Normal
+    *	Moderate
+    *	Aggressive
 
 
 

@@ -16,11 +16,11 @@ This option enables or disables model scaling. Possible values are:
 
 
 
-*	Automatic
-*	Off
-*	Equilibrium scaling
-*	Geometric scaling
-*	Multi-pass equilibrium scaling
+    *	Automatic
+    *	Off
+    *	Equilibrium scaling
+    *	Geometric scaling
+    *	Multi-pass equilibrium scaling
 
 
 

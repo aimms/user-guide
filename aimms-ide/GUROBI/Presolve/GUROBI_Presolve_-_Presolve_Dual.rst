@@ -16,10 +16,10 @@ This option controls controls whether presolve forms the dual of a continuous mo
 
 
 
-*	Automatic
-*	Off
-*	Force
-*	Presolve primal and dual
+    *	Automatic
+    *	Off
+    *	Force
+    *	Presolve primal and dual
 
 
 

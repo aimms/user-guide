@@ -18,10 +18,10 @@ This option sets the oracle for the barrier parameter when switching to fixed mo
 
 
 
-*	Probing
-*	Loqo
-*	Quality function
-*	Average complementarity
+    *	Probing
+    *	Loqo
+    *	Quality function
+    *	Average complementarity
 
 
 

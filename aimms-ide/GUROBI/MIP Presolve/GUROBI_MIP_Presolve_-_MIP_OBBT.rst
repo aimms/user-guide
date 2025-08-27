@@ -16,11 +16,11 @@ This option controls the aggressiveness of Optimality-Based Bound Tightening (OB
 
 
 
-*	Automatic
-*	Off
-*	Moderate
-*	Balanced
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Moderate
+    *	Balanced
+    *	Aggressive
 
 
 

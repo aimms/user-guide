@@ -16,9 +16,9 @@ This option specifies whether CPLEX clones the log files of nodes during paralle
 
 
 
-*	Off
-*	Automatic
-*	On
+    *	Off
+    *	Automatic
+    *	On
 
 
 

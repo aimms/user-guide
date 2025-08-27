@@ -16,9 +16,9 @@ This option specifies the BLAS/LAPACK function library to use for basic vector a
 
 
 
-*	Automatic
-*	Off
-*	Intel
+    *	Automatic
+    *	Off
+    *	Intel
 
 
 

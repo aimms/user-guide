@@ -16,11 +16,11 @@ This option controls the trade-off between the number of solutions generated for
 
 
 
-*	Automatic
-*	Mild
-*	Moderate
-*	Aggressive
-*	Very aggressive
+    *	Automatic
+    *	Mild
+    *	Moderate
+    *	Aggressive
+    *	Very aggressive
 
 
 

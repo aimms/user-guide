@@ -18,8 +18,8 @@ When using CPLEX to solve a MIP model, AIMMS is able to register the size and sh
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

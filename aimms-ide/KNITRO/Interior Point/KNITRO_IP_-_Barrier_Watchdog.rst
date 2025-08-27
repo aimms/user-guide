@@ -16,8 +16,8 @@ This option specifies whether to enable watchdog heuristic for barrier algorithm
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

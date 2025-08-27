@@ -18,8 +18,8 @@ This option determines whether the results file should be kept after the model i
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

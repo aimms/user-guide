@@ -20,8 +20,8 @@ Possible values are:
 
 
 
-*	Euclidean
-*	Quadratic
+    *	Euclidean
+    *	Quadratic
 
 
 

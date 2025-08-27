@@ -18,9 +18,9 @@ This option determines whether or not to use the Knitro presolve operation to co
 
 
 
-*	None
-*	Remove Duplicate Constraints
-*	Remove Linearly Dependent Constraints
+    *	None
+    *	Remove Duplicate Constraints
+    *	Remove Linearly Dependent Constraints
 
 
 

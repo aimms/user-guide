@@ -16,9 +16,9 @@ This option determines whether to invoke the Knitro-Tuner. Possible values are:
 
 
 
-*	Off
-*	Automated
-*	Customized
+    *	Off
+    *	Automated
+    *	Customized
 
 
 

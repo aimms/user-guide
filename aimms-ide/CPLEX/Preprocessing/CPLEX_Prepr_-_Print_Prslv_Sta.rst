@@ -16,8 +16,8 @@ This option indicates whether presolve status information for the variables and 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -16,9 +16,9 @@ This option determines which method to use when calculating an Irreducible Incon
 
 
 
-*	Automatic
-*	Small
-*	Fast
+    *	Automatic
+    *	Small
+    *	Fast
 
 
 

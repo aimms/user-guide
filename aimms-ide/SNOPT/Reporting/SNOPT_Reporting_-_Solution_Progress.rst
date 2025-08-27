@@ -22,7 +22,7 @@ n:	Report progress after each n iterations.
 
 
 
-**Note** 
+    **Note** 
 
 *	The global solvers option **Progress Solution**  has no effect on SNOPT.
 

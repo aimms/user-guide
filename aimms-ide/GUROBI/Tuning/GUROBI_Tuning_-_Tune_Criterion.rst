@@ -16,11 +16,11 @@ This option modifies the tuning criterion for the tuning tool. Possible values a
 
 
 
-*	Automatic
-*	Off
-*	Optimality gap
-*	Objective
-*	Best solution
+    *	Automatic
+    *	Off
+    *	Optimality gap
+    *	Objective
+    *	Best solution
 
 
 

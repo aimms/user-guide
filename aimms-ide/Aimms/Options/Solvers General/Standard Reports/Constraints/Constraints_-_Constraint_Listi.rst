@@ -18,10 +18,10 @@ This option controls the frequency with which a constraint listing is produced. 
 
 
 
-*	Never
-*	At first solve
-*	At an infeasible solve
-*	At every solve
+    *	Never
+    *	At first solve
+    *	At an infeasible solve
+    *	At every solve
 
 
 

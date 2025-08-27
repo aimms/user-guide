@@ -24,9 +24,9 @@ Possible values are:
 
 
 
-*	Partial
-*	Rook
-*	Complete
+    *	Partial
+    *	Rook
+    *	Complete
 
 
 

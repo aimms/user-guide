@@ -16,8 +16,8 @@ This option determines whether to scale in barrier (and ordering speed). Possibl
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

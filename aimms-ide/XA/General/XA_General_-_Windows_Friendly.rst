@@ -16,8 +16,8 @@ When running XA under the Windows operating system, it is possible to lower the 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

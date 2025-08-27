@@ -16,10 +16,10 @@ This option determines whether or not to generate implied bound cuts for the pro
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

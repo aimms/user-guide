@@ -16,8 +16,8 @@ This option specifies the method when defined variables are identified. Defined 
 
 
 
-*	Initial point
-*	Kept basic
+    *	Initial point
+    *	Kept basic
 
 
 

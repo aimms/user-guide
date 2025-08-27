@@ -18,8 +18,8 @@ Switch to print all algorithmic options. If selected, the algorithm will print t
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

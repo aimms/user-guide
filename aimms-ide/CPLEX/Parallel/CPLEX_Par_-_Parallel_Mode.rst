@@ -16,9 +16,9 @@ This option determines the parallel optimization mode. Possible values are:
 
 
 
-*	Opportunistic
-*	Automatic
-*	Deterministic
+    *	Opportunistic
+    *	Automatic
+    *	Deterministic
 
 
 

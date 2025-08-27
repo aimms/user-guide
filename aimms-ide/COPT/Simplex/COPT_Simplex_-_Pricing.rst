@@ -16,9 +16,9 @@ This option specifies the pricing algorithm used by the dual simplex algorithm. 
 
 
 
-*	Automatic
-*	Devex
-*	Steepest edge
+    *	Automatic
+    *	Devex
+    *	Steepest edge
 
 
 

@@ -18,10 +18,10 @@ This option specifies the node selection rule to be used by BARON for exploring 
 
 
 
-*	Mixed selection
-*	Best bound
-*	Last in first out
-*	Minimum infeasibilities
+    *	Mixed selection
+    *	Best bound
+    *	Last in first out
+    *	Minimum infeasibilities
 
 
 

@@ -16,10 +16,10 @@ This option controls the initial presolve level used for multi-objective models.
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

@@ -16,10 +16,10 @@ This option sets the algorithm to be used to compute the initial starting point 
 
 
 
-*	Default primal, dual pi is 0
-*	Default primal, estimate dual
-*	Primal average, dual pi is 0
-*	Primal average, estimate dual
+    *	Default primal, dual pi is 0
+    *	Default primal, estimate dual
+    *	Primal average, dual pi is 0
+    *	Primal average, estimate dual
 
 
 

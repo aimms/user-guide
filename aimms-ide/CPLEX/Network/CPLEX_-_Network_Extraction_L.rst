@@ -16,9 +16,9 @@ This option establishes the level of network extraction for network simplex opti
 
 
 
-*	Extract pure network only
-*	Try reflection scaling
-*	Try general scaling
+    *	Extract pure network only
+    *	Try reflection scaling
+    *	Try general scaling
 
 
 

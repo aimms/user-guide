@@ -26,8 +26,8 @@ Possible values are:
 
 
 
-*	Off (do not evaluate definitions)
-*	On (evaluate definitions of parameters and sets whose contents are out of date)
+    *	Off (do not evaluate definitions)
+    *	On (evaluate definitions of parameters and sets whose contents are out of date)
 
 
 

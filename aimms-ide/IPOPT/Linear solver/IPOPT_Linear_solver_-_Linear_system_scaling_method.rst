@@ -18,8 +18,8 @@ This option determines the method used to compute symmetric scaling factors for 
 
 
 
-*	None
-*	MC19
+    *	None
+    *	MC19
 
 
 

@@ -16,8 +16,8 @@ This option can be used to check the reliability of the solution. Possible value
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -16,9 +16,9 @@ This option determines the initial basis construction strategy for crossover. Po
 
 
 
-*	Automatic
-*	Fast
-*	Robust
+    *	Automatic
+    *	Fast
+    *	Robust
 
 
 

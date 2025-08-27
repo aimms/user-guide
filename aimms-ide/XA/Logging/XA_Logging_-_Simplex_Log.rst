@@ -16,8 +16,8 @@ This option determines whether a log of the simplex solver is made or not. Possi
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

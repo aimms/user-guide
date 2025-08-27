@@ -20,8 +20,8 @@ A side effect of passing a basis to CBC is that no presolving. In case of a MIP 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

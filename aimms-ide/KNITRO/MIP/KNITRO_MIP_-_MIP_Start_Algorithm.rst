@@ -16,12 +16,12 @@ This option specifies which algorithm to use for the root node solve in the bran
 
 
 
-*	Automatic
-*	Interior-Direct
-*	Interior-CG
-*	Active-Set
-*	SQP
-*	Multi-algorithm
+    *	Automatic
+    *	Interior-Direct
+    *	Interior-CG
+    *	Active-Set
+    *	SQP
+    *	Multi-algorithm
 
 
 

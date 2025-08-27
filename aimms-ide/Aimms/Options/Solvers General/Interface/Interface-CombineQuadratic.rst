@@ -34,9 +34,9 @@ Possible values are:
 
 
 
-*	Off
-*	On
-*	Automatic
+    *	Off
+    *	On
+    *	Automatic
 
 
 

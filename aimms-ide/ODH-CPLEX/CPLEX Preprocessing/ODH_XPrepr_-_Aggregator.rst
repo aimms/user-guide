@@ -28,6 +28,6 @@ Another option, which affects only the aggregator, is**Limit Substitutions** . O
 
 
 
-**Learn more about** 
+    **Learn more about** 
 
 *	 :ref:`option-ODHCPLEX-limit_substitutions` 

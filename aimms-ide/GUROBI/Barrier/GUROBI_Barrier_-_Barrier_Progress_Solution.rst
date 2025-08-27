@@ -22,7 +22,7 @@ n:	Report progress after each n barrier iterations
 
 
 
-**Note** 
+    **Note** 
 
 *	This option overrules the setting of the general solvers option **Progress Solution**  in case the barrier solver is used, and Gurobi is not in the Barrier crossover phase.
 

@@ -16,13 +16,13 @@ The value of this option determines which LP algorithm should be used to solve t
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Network simplex
-*	Barrier
-*	Sifting
-*	Concurrent
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Network simplex
+    *	Barrier
+    *	Sifting
+    *	Concurrent
 
 
 

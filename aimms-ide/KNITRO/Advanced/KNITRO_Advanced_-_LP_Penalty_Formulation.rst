@@ -16,9 +16,9 @@ This option indicates whether to use a penalty formulation for linear programmin
 
 
 
-*	All
-*	Nonlinear
-*	Dynamic
+    *	All
+    *	Nonlinear
+    *	Dynamic
 
 
 

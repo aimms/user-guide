@@ -16,8 +16,8 @@ This option determines the strategy that Knitro applies for scaling variables. I
 
 
 
-*	None
-*	Based on bound values
+    *	None
+    *	Based on bound values
 
 
 

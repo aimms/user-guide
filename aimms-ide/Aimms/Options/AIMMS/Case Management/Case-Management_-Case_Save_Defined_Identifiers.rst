@@ -42,8 +42,8 @@ Possible values are:
 
 
 
-*	Off (do not include identifiers with a definition)
-*	On (include identifiers with a definition)
+    *	Off (do not include identifiers with a definition)
+    *	On (include identifiers with a definition)
 
 
 

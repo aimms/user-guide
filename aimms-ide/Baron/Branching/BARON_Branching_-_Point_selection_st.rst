@@ -18,10 +18,10 @@ This option specifies the branching point selection strategy. Possible values ar
 
 
 
-*	Dynamic
-*	Omega branching
-*	Bisection branching
-*	Omega-bisection combination
+    *	Dynamic
+    *	Omega branching
+    *	Bisection branching
+    *	Omega-bisection combination
 
 
 

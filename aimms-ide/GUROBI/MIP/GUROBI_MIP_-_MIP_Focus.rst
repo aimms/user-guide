@@ -16,10 +16,10 @@ The option controls the focus of the MIP solver. The default value tries to stri
 
 
 
-*	Balanced
-*	Feasibility
-*	Optimality
-*	Best bound
+    *	Balanced
+    *	Feasibility
+    *	Optimality
+    *	Best bound
 
 
 

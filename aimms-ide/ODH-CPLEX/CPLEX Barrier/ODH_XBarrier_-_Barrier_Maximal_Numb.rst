@@ -24,7 +24,7 @@ n:	n corrections
 
 
 
-**Learn more about** 
+    **Learn more about** 
 
 *	:ref:`option-ODHCPLEX-barrier_display` 
 

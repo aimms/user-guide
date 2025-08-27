@@ -16,9 +16,9 @@ This option defines the termination condition for the Knitro-Tuner procedure. Po
 
 
 
-*	Complete all solves
-*	First locally optimal
-*	First feasible
+    *	Complete all solves
+    *	First locally optimal
+    *	First feasible
 
 
 

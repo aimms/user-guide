@@ -16,6 +16,6 @@ This option determines whether variable values from sub-models should be cleaned
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On

@@ -16,10 +16,10 @@ This option indicates whether a relaxation approach is applied to the constraint
 
 
 
-*	None
-*	Equality
-*	Inequality
-*	All
+    *	None
+    *	Equality
+    *	Inequality
+    *	All
 
 
 

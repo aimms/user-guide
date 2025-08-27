@@ -16,9 +16,9 @@ This option determines whether or not to enable the Knitro presolve operation to
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

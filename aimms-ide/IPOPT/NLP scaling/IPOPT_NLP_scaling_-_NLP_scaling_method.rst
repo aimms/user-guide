@@ -18,9 +18,9 @@ This option selects the technique used for scaling the problem internally before
 
 
 
-*	None
-*	Gradient based
-*	Equilibration based
+    *	None
+    *	Gradient based
+    *	Equilibration based
 
 
 

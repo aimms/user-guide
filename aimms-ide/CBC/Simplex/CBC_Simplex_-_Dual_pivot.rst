@@ -16,9 +16,9 @@ This option specifies the dual pivot selection algorithm. Settings 'Steepest' an
 
 
 
-*	Automatic
-*	Partial
-*	Steepest
+    *	Automatic
+    *	Partial
+    *	Steepest
 
 
 

@@ -18,9 +18,9 @@ This option controls whether the AIMMS Presolver should focus on precision in nu
 
 
 
-*	Off
-*	Automatic
-*	On
+    *	Off
+    *	Automatic
+    *	On
 
 
 

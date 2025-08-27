@@ -16,10 +16,10 @@ This option specifies the level of information reported by the tuning tool as it
 
 
 
-*	Off
-*	Minimal
-*	Standard
-*	Exhaustive
+    *	Off
+    *	Minimal
+    *	Standard
+    *	Exhaustive
 
 
 

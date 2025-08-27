@@ -16,9 +16,9 @@ This option specifies the globalization strategy used by the interior-point algo
 
 
 
-*	None
-*	Karush-Kuhn-Tucker
-*	Filter
+    *	None
+    *	Karush-Kuhn-Tucker
+    *	Filter
 
 
 

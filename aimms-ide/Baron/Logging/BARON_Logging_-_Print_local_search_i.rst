@@ -18,8 +18,8 @@ This option controls the output from local search written to the results file. I
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

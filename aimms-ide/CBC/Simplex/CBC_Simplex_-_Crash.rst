@@ -16,10 +16,10 @@ This option determines whether to create a basis for the problem. If crash is sw
 
 
 
-*	Off
-*	On
-*	Solow-Halim
-*	Modified Solow-Halim
+    *	Off
+    *	On
+    *	Solow-Halim
+    *	Modified Solow-Halim
 
 
 

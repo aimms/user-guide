@@ -16,10 +16,10 @@ This option controls presolve Q matrix linearization. Possible values are:
 
 
 
-*	Automatic
-*	Off
-*	Strong relaxation
-*	Compact relaxation
+    *	Automatic
+    *	Off
+    *	Strong relaxation
+    *	Compact relaxation
 
 
 

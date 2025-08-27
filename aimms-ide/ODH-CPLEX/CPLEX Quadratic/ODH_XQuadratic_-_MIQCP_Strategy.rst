@@ -16,9 +16,9 @@ This option sets the strategy that CPLEX uses to solve a quadratically constrain
 
 
 
-*	Automatic
-*	Solve QCP relaxations
-*	Solve LP relaxations
+    *	Automatic
+    *	Solve QCP relaxations
+    *	Solve LP relaxations
 
 
 

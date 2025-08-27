@@ -16,9 +16,9 @@ This option determines if and how listings of the nodes examined during the bran
 
 
 
-*	No
-*	Yes
-*	Full
+    *	No
+    *	Yes
+    *	Full
 
 
 

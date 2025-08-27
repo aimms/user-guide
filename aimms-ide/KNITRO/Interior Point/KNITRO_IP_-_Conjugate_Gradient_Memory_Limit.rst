@@ -20,6 +20,6 @@ n:	At most n nonzero elements per column.
 
 
 
-**Learn more about** 
+    **Learn more about** 
 
 *	:ref:`option-KNITRO-conjugate_gradient_preconditioner`  

@@ -18,8 +18,8 @@ This option determines whether AIMMS will store the marginals information in the
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

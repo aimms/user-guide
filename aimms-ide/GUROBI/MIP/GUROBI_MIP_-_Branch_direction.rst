@@ -16,9 +16,9 @@ This option determines which child node is explored first in the branch-and-cut 
 
 
 
-*	Down branch
-*	Automatic
-*	Up branch
+    *	Down branch
+    *	Automatic
+    *	Up branch
 
 
 

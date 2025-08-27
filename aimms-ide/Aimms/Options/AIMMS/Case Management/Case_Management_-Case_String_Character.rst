@@ -25,7 +25,7 @@ In other words, if your case files are shared between operating systems, it migh
 
 Possible values are:
 
-*	Native (for the current operating system, translates to either Native_Linux or Native_Windows)
-*	UTF8 (produces the smallest cases)
-*	Native_Linux (requires :ref:`option-AIMMS-case_compatibility`  to be at least aimms_4_80)
-*	Native_Windows (requires :ref:`option-AIMMS-case_compatibility`  to be at least aimms_4_80)
+    *	Native (for the current operating system, translates to either Native_Linux or Native_Windows)
+    *	UTF8 (produces the smallest cases)
+    *	Native_Linux (requires :ref:`option-AIMMS-case_compatibility`  to be at least aimms_4_80)
+    *	Native_Windows (requires :ref:`option-AIMMS-case_compatibility`  to be at least aimms_4_80)

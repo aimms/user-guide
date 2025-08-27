@@ -16,8 +16,8 @@ This option indicates whether or not objective reduction should be used before p
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

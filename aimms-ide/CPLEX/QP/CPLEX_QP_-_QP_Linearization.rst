@@ -16,9 +16,9 @@ This option controls the linearization of the quadratic terms in the objective f
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

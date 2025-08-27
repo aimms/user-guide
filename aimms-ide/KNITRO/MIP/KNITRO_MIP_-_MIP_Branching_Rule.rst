@@ -16,10 +16,10 @@ This option specifies which branching rule to use for the MIP branch and bound p
 
 
 
-*	Automatic
-*	Most fractional
-*	Pseudo-cost
-*	Strong branching
+    *	Automatic
+    *	Most fractional
+    *	Pseudo-cost
+    *	Strong branching
 
 
 

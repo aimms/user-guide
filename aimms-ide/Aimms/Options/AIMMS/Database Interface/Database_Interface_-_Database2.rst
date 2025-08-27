@@ -22,9 +22,9 @@ This option determines the way table and column names are converted during commu
 
 
 
-*	Lower (convert all table and column names to lower case)
-*	Keep (do not convert the table and column names)
-*	Upper (convert all table and column names to upper case)
+    *	Lower (convert all table and column names to lower case)
+    *	Keep (do not convert the table and column names)
+    *	Upper (convert all table and column names to upper case)
 
 
 

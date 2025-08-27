@@ -16,9 +16,9 @@ This option determines how complementarity problems defined in AIMMS are transfo
 
 
 
-*	Standard transformation
-*	Advanced transformation
-*	More advanced transformation
+    *	Standard transformation
+    *	Advanced transformation
+    *	More advanced transformation
 
 
 

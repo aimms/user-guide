@@ -16,9 +16,9 @@ This option decides the level of display during multi-objective optimization. Po
 
 
 
-*	None
-*	Summary
-*	Subproblems logs
+    *	None
+    *	Summary
+    *	Subproblems logs
 
 
 

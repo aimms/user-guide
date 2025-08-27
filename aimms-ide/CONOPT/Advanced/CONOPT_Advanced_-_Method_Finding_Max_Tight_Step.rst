@@ -20,8 +20,8 @@ Possible values are:
 
 
 
-*	Standard ratio test method
-*	Bending method
+    *	Standard ratio test method
+    *	Bending method
 
 
 

@@ -18,8 +18,8 @@ This option controls whether AIMMS should use the scaled model and solution if t
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

@@ -18,8 +18,8 @@ This option determines whether AIMMS will store the level values in the Level su
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

@@ -18,8 +18,8 @@ This option controls whether general information about the compilation, executio
 
 
 
-*	No major messages
-*	Show major messages
+    *	No major messages
+    *	Show major messages
 
 
 

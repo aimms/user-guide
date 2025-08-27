@@ -16,8 +16,8 @@ This option can be used to switch on or off all heuristics. Then you can set ind
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

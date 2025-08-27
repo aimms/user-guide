@@ -16,8 +16,8 @@ When solving an updated version of an already loaded model, CPLEX retrieves thes
 
 
 
-*	No (do not reload the updated model)
-*	Yes (reload the updated model)
+    *	No (do not reload the updated model)
+    *	Yes (reload the updated model)
 
 
 

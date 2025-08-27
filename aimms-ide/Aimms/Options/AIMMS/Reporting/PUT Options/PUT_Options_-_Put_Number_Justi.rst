@@ -18,9 +18,9 @@ This option determines the default justification of a number in its field as use
 
 
 
-*	Right
-*	Left
-*	Center
+    *	Right
+    *	Left
+    *	Center
 
 
 

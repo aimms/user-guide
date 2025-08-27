@@ -16,12 +16,12 @@ This option can be used to select the pricing algorithm for the dual simplex met
 
 
 
-*	Determined automatically
-*	Standard dual pricing
-*	Steepest-edge
-*	Steepest-edge in slack space
-*	Steepest-edge, unit initial norms
-*	Devex pricing
+    *	Determined automatically
+    *	Standard dual pricing
+    *	Steepest-edge
+    *	Steepest-edge in slack space
+    *	Steepest-edge, unit initial norms
+    *	Devex pricing
 
 
 

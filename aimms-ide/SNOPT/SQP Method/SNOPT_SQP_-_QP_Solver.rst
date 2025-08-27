@@ -16,9 +16,9 @@ This option specifies the method used to solve the reduced Hessian system for th
 
 
 
-*	Cholesky
-*	CG
-*	QN
+    *	Cholesky
+    *	CG
+    *	QN
 
 
 

@@ -18,8 +18,8 @@ This option determines whether the relax status of integer variables is saved in
 
 
 
-*	Off (do not save)
-*	On (save)
+    *	Off (do not save)
+    *	On (save)
 
 
 

@@ -18,8 +18,8 @@ This option determines whether the times file should be kept after the model is 
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

@@ -18,9 +18,9 @@ This option determines how a new barrier parameter is computed in each "free-mod
 
 
 
-*	Probing
-*	Loqo
-*	Quality function
+    *	Probing
+    *	Loqo
+    *	Quality function
 
 
 

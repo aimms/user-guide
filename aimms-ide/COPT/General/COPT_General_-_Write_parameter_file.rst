@@ -16,8 +16,8 @@ By setting this option to 'Yes' a COPT parameter file will be written. The file 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

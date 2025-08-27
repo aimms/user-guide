@@ -18,8 +18,8 @@ This option determines whether AIMMS will store MPI related information during t
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -22,9 +22,9 @@ This option controls whether sensitivity information should be calculated. Possi
 
 
 
-*	Off
-*	Automatic
-*	On
+    *	Off
+    *	Automatic
+    *	On
 
 
 
@@ -34,10 +34,10 @@ At the default setting of 'Automatic', sensitivity information will be calculate
 
 
 
-*	the property ReducedCost is specified for one of the variables
-*	the property ShadowPrice is specified for one of the constraints
-*	the option **Always Store Marginals**  is switched on
-*	the option **Store Complete Solver Solution**  is switched on
+    *	the property ReducedCost is specified for one of the variables
+    *	the property ShadowPrice is specified for one of the constraints
+    *	the option **Always Store Marginals**  is switched on
+    *	the option **Store Complete Solver Solution**  is switched on
 
 
 

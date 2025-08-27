@@ -20,8 +20,8 @@ Possible values are:
 
 
 
-*	CPU time
-*	Elapsed time
+    *	CPU time
+    *	Elapsed time
 
 
 

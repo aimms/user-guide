@@ -22,9 +22,9 @@ Possible values are:
 
 
 
-*	On
-*	Off
-*	Off but warn when used
+    *	On
+    *	Off
+    *	Off but warn when used
 
 
 

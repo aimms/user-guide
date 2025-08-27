@@ -16,9 +16,9 @@ This option specifies whether to allow objective function perturbation when usin
 
 
 
-*	Automatic
-*	Off
-*	Allow
+    *	Automatic
+    *	Off
+    *	Allow
 
 
 

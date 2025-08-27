@@ -16,9 +16,9 @@ This option determines which, if any, crossover is performed at the end of a bar
 
 
 
-*	Automatic
-*	Primal crossover
-*	Dual crossover
+    *	Automatic
+    *	Primal crossover
+    *	Dual crossover
 
 
 

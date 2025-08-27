@@ -22,10 +22,10 @@ AIMMS will only print listing files related to robust optimization if the genera
 
 
 
-*	None
-*	Uncertain mathematical program
-*	Robust counterpart
-*	Both
+    *	None
+    *	Uncertain mathematical program
+    *	Robust counterpart
+    *	Both
 
 
 

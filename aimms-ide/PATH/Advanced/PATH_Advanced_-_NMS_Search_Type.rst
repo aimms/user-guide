@@ -16,8 +16,8 @@ This option determines which search type is used by the NMS path search method. 
 
 
 
-*	Arc
-*	Line
+    *	Arc
+    *	Line
 
 
 

@@ -40,10 +40,10 @@ Possible values are:
 
 
 
-*	Choose all-slack basis B = I
-*	Call Crash once
-*	Call Crash twice
-*	Call Crash three times
+        *	Choose all-slack basis B = I
+        *	Call Crash once
+        *	Call Crash twice
+        *	Call Crash three times
 
 
 

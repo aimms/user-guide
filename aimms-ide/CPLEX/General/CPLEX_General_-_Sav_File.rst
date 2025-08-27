@@ -16,9 +16,9 @@ When this option is switched on, a SAV file containing the binary representation
 
 
 
-*	Never
-*	At the first solve
-*	At every solve
+    *	Never
+    *	At the first solve
+    *	At every solve
 
 
 

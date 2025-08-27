@@ -18,8 +18,8 @@ This option determines in which order identifiers are written to file when execu
 
 
 
-*	AIMMS 3 0
-*	AIMMS 3 4
+    *	AIMMS 3 0
+    *	AIMMS 3 4
 
 
 

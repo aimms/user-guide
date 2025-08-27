@@ -18,8 +18,8 @@ This option indicates whether final points should be projected into original bou
 
 
 
-*	No (Leave final point unchanged)
-*	Yes (Project final point back into original bounds)
+    *	No (Leave final point unchanged)
+    *	Yes (Project final point back into original bounds)
 
 
 

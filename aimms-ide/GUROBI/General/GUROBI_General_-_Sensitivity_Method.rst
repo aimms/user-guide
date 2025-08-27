@@ -16,12 +16,12 @@ This option specifies which method is used by Gurobi for solving LP problems whi
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Barrier
-*	Opportunistic concurrent
-*	Deterministic concurrent
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Barrier
+    *	Opportunistic concurrent
+    *	Deterministic concurrent
 
 
 

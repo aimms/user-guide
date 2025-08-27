@@ -15,10 +15,10 @@ This option specifies the method used by CONOPT for scaling. Possible values are
 
 
 
-*	Geometric mean
-*	Largest term variant
-*	Moving average
-*	Largest term
+    *	Geometric mean
+    *	Largest term variant
+    *	Moving average
+    *	Largest term
 
 
 

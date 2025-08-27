@@ -20,10 +20,10 @@ The AMD algorithm provides good quality ordering in moderate ordering runtime. A
 
 
 
-*	Automatic
-*	Approximate minimum degree
-*	Approximate minimum fill
-*	Nested dissection
+    *	Automatic
+    *	Approximate minimum degree
+    *	Approximate minimum fill
+    *	Nested dissection
 
 
 

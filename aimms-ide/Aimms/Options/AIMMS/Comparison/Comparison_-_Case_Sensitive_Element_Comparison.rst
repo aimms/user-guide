@@ -18,8 +18,8 @@ This option determines whether the comparison between elements should be case se
 
 
 
-*	Off (compare case insensitive)
-*	On (compare case sensitive)
+    *	Off (compare case insensitive)
+    *	On (compare case sensitive)
 
 
 

@@ -18,8 +18,8 @@ An element sequence can be specified using the syntax { lo .. up by incr }.  Eve
 
 
 
-*	On  Include up even when up is not in the sequence defined by lo and incr.
-*	Off  Include up only when there is an integer i such that up = lo + incr * i.
+    *	On  Include up even when up is not in the sequence defined by lo and incr.
+    *	Off  Include up only when there is an integer i such that up = lo + incr * i.
 
 
 

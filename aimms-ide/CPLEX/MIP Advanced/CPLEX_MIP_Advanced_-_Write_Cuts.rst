@@ -16,9 +16,9 @@ This option can be used to print the cutting planes ("cuts") that CPLEX added wh
 
 
 
-*	Off
-*	Cuts only
-*	Presolved model plus cuts
+    *	Off
+    *	Cuts only
+    *	Presolved model plus cuts
 
 
 

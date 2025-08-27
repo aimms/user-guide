@@ -32,9 +32,9 @@ Possible values are:
 
 
 
-*	Automatic
-*	Full memory
-*	Limited memory
+    *	Automatic
+    *	Full memory
+    *	Limited memory
 
 
 

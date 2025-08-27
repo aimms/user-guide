@@ -18,11 +18,11 @@ This option determines if and which messages of the solver are included in the s
 
 
 
-*	Never
-*	Error
-*	Warning
-*	Remark
-*	All
+    *	Never
+    *	Error
+    *	Warning
+    *	Remark
+    *	All
 
 
 

@@ -16,10 +16,10 @@ This option determines whether or not to generate implied bound cuts for the pro
 
 
 
-*	Off
-*	Automatic
-*	Generate cuts moderately
-*	Generate cuts aggressively
+    *	Off
+    *	Automatic
+    *	Generate cuts moderately
+    *	Generate cuts aggressively
 
 
 

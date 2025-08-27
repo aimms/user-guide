@@ -16,9 +16,9 @@ This option determines which merit function is chosen by PATH in the crash phase
 
 
 
-*	Automatic
-*	Normal
-*	Fischer
+    *	Automatic
+    *	Normal
+    *	Fischer
 
 
 

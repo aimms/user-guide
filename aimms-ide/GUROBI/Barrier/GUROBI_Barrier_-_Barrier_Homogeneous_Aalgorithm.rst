@@ -16,6 +16,6 @@ This option determines whether to use the homogeneous barrier algorithm. At the 
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On

@@ -16,10 +16,10 @@ This option indicates which algorithm to use to solve quadratic programming (QP)
 
 
 
-*	Automatic
-*	Interior-Direct
-*	Interior-CG
-*	Active-Set
+    *	Automatic
+    *	Interior-Direct
+    *	Interior-CG
+    *	Active-Set
 
 
 

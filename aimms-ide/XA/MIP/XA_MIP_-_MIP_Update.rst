@@ -16,8 +16,8 @@ When solving an updated version of an already loaded model, XA retrieves these u
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

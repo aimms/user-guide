@@ -16,13 +16,13 @@ This option determines whether symmetry breaking reductions will be automaticall
 
 
 
-*	Automatic
-*	Off
-*	Moderate
-*	Aggressive
-*	Very aggressive
-*	Highly aggressive
-*	Extremely aggressive
+    *	Automatic
+    *	Off
+    *	Moderate
+    *	Aggressive
+    *	Very aggressive
+    *	Highly aggressive
+    *	Extremely aggressive
 
 
 

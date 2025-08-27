@@ -16,10 +16,10 @@ This option determines whether or not to generate network cuts for the problem. 
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

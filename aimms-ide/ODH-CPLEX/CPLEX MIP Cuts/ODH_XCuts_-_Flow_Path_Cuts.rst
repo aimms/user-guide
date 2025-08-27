@@ -16,10 +16,10 @@ This option determines whether or not to generate flow path cuts for the problem
 
 
 
-*	Off
-*	Automatic
-*	Generate cuts moderately
-*	Generate cuts aggressively
+    *	Off
+    *	Automatic
+    *	Generate cuts moderately
+    *	Generate cuts aggressively
 
 
 

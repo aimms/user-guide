@@ -16,10 +16,10 @@ This option determines whether or not to generate mixed integer rounding cuts fo
 
 
 
-*	Off
-*	Automatic
-*	Generate cuts moderately
-*	Generate cuts aggressively
+    *	Off
+    *	Automatic
+    *	Generate cuts moderately
+    *	Generate cuts aggressively
 
 
 

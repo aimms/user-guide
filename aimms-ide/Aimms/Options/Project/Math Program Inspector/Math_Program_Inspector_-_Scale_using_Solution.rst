@@ -18,8 +18,8 @@ This option determines whether the scaling tool in the Math Program Inspector wi
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

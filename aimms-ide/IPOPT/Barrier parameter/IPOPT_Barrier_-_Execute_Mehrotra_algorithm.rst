@@ -18,8 +18,8 @@ This option indicates if we want to do Mehrotra's algorithm. Possible values are
 
 
 
-*	No (do the usual IPOPT algorithm)
-*	Yes (do Mehrotra's predictor-corrector algorithm)
+    *	No (do the usual IPOPT algorithm)
+    *	Yes (do Mehrotra's predictor-corrector algorithm)
 
 
 

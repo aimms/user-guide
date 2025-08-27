@@ -16,8 +16,8 @@ This option determines whether the **First Feasible Heuristic**  should continue
 
 
 
-*	Stop after feasible solution found
-*	Continue after feasible solution found
+    *	Stop after feasible solution found
+    *	Continue after feasible solution found
 
 
 

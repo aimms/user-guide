@@ -16,10 +16,10 @@ This option specifies the MIP selection rule for choosing the next node in the b
 
 
 
-*	Automatic
-*	Depth first
-*	Best bound
-*	Combo 1
+    *	Automatic
+    *	Depth first
+    *	Best bound
+    *	Combo 1
 
 
 

@@ -16,10 +16,10 @@ This option specifies the general inference level for constraints whose particul
 
 
 
-*	Low
-*	Basic
-*	Medium
-*	Extended
+    *	Low
+    *	Basic
+    *	Medium
+    *	Extended
 
 
 

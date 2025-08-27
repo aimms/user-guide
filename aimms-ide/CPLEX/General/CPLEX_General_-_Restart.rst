@@ -20,8 +20,8 @@ When this option is set to "Yes", the solver will restart a problem if the solut
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

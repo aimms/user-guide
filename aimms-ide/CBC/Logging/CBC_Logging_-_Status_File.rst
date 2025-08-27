@@ -16,9 +16,9 @@ This option can be used to activate the generation of a CBC output file. The sta
 
 
 
-*	Off
-*	File
-*	Stdout
+    *	Off
+    *	File
+    *	Stdout
 
 
 

@@ -16,8 +16,8 @@ If this option is switched on, writing algorithm output to files for the multi-a
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

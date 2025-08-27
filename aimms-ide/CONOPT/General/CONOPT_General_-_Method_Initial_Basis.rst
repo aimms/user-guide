@@ -19,8 +19,8 @@ Possible values are:
 
 
 
-*	Use large infeasible slacks
-*	Use slacks away from bounds
+    *	Use large infeasible slacks
+    *	Use slacks away from bounds
 
 
 

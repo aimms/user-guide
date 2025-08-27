@@ -16,8 +16,8 @@ This is the optimality-based tightening option. Possible values are:
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

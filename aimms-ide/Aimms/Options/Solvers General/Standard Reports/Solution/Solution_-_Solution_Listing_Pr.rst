@@ -18,9 +18,9 @@ This option determines whether a solution listing will be produced before and/or
 
 
 
-*	Before solve
-*	After solve
-*	Before and after solve
+    *	Before solve
+    *	After solve
+    *	Before and after solve
 
 
 

@@ -18,9 +18,9 @@ This option determines which name will be used for the model file, the result fi
 
 
 
-*	Use baron
-*	Use name of model
-*	Use name of mathematical program
+    *	Use baron
+    *	Use name of model
+    *	Use name of mathematical program
 
 
 

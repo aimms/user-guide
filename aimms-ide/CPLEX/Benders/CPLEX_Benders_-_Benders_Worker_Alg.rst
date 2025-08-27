@@ -16,12 +16,12 @@ This option specifies which algorithm CPLEX should apply to solve subproblems of
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Network simplex
-*	Barrier
-*	Sifting
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Network simplex
+    *	Barrier
+    *	Sifting
 
 
 

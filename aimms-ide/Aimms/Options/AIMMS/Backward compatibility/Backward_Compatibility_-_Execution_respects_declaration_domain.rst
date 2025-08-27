@@ -18,8 +18,8 @@ This option determines whether AIMMS should respect the declaration domain durin
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

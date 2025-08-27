@@ -16,9 +16,9 @@ This option can be used to enable writing output to files for each solve of the 
 
 
 
-*	None
-*	Summary
-*	All
+    *	None
+    *	Summary
+    *	All
 
 
 

@@ -16,9 +16,9 @@ This option specifies how CPLEX should manage rows in the current model during d
 
 
 
-*	Automatic
-*	Keep all rows
-*	Manage rows
+    *	Automatic
+    *	Keep all rows
+    *	Manage rows
 
 
 

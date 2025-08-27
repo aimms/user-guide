@@ -16,8 +16,8 @@ This option determines whether a constraint containing a cp::ParallelSchedule fu
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

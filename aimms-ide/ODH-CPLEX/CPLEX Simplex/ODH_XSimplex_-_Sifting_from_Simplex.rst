@@ -16,8 +16,8 @@ This option can be used to turn on (or off) sifting from simplex optimization. B
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

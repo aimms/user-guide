@@ -16,10 +16,10 @@ The setting of this option is used to set the rule for selecting the next node t
 
 
 
-*	Depth-first
-*	Best-bound
-*	Best-estimate
-*	Alternate best-estimate
+    *	Depth-first
+    *	Best-bound
+    *	Best-estimate
+    *	Alternate best-estimate
 
 
 

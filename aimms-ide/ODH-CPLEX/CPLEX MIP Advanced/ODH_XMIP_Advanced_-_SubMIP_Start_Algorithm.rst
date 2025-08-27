@@ -16,12 +16,12 @@ This option sets which continuous optimizer will be used to solve the initial re
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Network simplex
-*	Barrier
-*	Sifting
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Network simplex
+    *	Barrier
+    *	Sifting
 
 
 

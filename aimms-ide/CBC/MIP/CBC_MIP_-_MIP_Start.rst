@@ -16,8 +16,8 @@ This option determines whether CBC should load a start solution (if available) f
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

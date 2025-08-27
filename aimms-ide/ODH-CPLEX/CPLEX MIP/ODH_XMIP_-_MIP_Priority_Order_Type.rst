@@ -16,10 +16,10 @@ This option selects the type of generic priority order to generate. Possible val
 
 
 
-*	Off
-*	Decreasing cost
-*	Increasing bound range
-*	Increasing cost per coefficient count
+    *	Off
+    *	Decreasing cost
+    *	Increasing bound range
+    *	Increasing cost per coefficient count
 
 
 

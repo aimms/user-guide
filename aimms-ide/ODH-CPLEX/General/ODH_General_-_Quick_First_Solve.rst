@@ -16,8 +16,8 @@ This option influences the acceleration of the initial CPLEX solve. Possible val
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

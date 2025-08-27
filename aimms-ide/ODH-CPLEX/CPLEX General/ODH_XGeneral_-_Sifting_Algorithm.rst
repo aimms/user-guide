@@ -16,11 +16,11 @@ This option sets the algorithm to be used for solving sifting subproblems. Possi
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Network simplex
-*	Barrier
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Network simplex
+    *	Barrier
 
 
 

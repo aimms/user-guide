@@ -16,8 +16,8 @@ This option specifies the search mode. Possible values are:
 
 
 
-*	Optimal solution
-*	Feasible solution
+    *	Optimal solution
+    *	Feasible solution
 
 
 

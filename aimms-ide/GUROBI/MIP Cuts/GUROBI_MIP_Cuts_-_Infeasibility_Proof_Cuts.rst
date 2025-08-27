@@ -16,10 +16,10 @@ This option determines whether or not to generate infeasibility proof cuts for t
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

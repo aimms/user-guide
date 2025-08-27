@@ -16,10 +16,10 @@ The default barrier algorithm is almost always fastest. However, on problems tha
 
 
 
-*	Default standard algorithm
-*	Infeasibility-estimate start
-*	Infeasibility-constant start
-*	Standard barrier
+    *	Default standard algorithm
+    *	Infeasibility-estimate start
+    *	Infeasibility-constant start
+    *	Standard barrier
 
 
 

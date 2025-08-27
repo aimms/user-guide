@@ -16,15 +16,15 @@ The MIP presolve algorithm tries to reduce the size of the model in a similar wa
 
 
 
-*	Off
-*	On
-*	Clique inequalities
-*	SOS
-*	Try SOS
-*	All inequalities
-*	Strategy
-*	Aggregate
-*	Force SOS
+    *	Off
+    *	On
+    *	Clique inequalities
+    *	SOS
+    *	Try SOS
+    *	All inequalities
+    *	Strategy
+    *	Aggregate
+    *	Force SOS
 
 
 

@@ -22,8 +22,8 @@ Possible values are:
 
 
 
-*	No (use the Newton step to update the multipliers)
-*	Yes (use least-square multiplier estimates)
+    *	No (use the Newton step to update the multipliers)
+    *	Yes (use least-square multiplier estimates)
 
 
 

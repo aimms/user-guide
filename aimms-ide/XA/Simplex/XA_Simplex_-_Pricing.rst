@@ -16,11 +16,11 @@ This option determines the basis pricing strategy. If the number of iterations r
 
 
 
-*	Standard reduced cost pricing
-*	Automatic devex pricing switch over
-*	Infeasible devex pricing
-*	Feasible devex pricing
-*	Both infeasible and feasible devex pricing
+    *	Standard reduced cost pricing
+    *	Automatic devex pricing switch over
+    *	Infeasible devex pricing
+    *	Feasible devex pricing
+    *	Both infeasible and feasible devex pricing
 
 
 

@@ -18,8 +18,8 @@ Switch to print all options set by the user. If selected, the algorithm will pri
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

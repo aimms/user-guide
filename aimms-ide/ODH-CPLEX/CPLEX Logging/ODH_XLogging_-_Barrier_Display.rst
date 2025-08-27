@@ -16,9 +16,9 @@ The setting of this option determines the level of barrier progress information 
 
 
 
-*	None
-*	Normal
-*	Diagnostics
+    *	None
+    *	Normal
+    *	Diagnostics
 
 
 

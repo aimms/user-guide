@@ -16,9 +16,9 @@ Bound strengthening is used when solving MIPs. This process tightens the bounds 
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

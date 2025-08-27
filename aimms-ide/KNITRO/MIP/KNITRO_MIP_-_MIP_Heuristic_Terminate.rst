@@ -16,8 +16,8 @@ This option specifies the condition for terminating the MIP heuristic. Possible 
 
 
 
-*	Feasible
-*	Limit
+    *	Feasible
+    *	Limit
 
 
 

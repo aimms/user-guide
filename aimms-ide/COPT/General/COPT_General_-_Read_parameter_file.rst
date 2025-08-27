@@ -16,8 +16,8 @@ This option can be used to read in a file with COPT option (parameter) settings.
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -16,10 +16,10 @@ This option defines the termination condition for the multi-algorithm procedure.
 
 
 
-*	All (Terminate after all algorithms have completed)
-*	Optimal (Terminate at first locally optimal solution)
-*	Feasible (Terminate at first feasible solution estimate)
-*	Any (Terminate at first solution estimate of any type)
+    *	All (Terminate after all algorithms have completed)
+    *	Optimal (Terminate at first locally optimal solution)
+    *	Feasible (Terminate at first feasible solution estimate)
+    *	Any (Terminate at first solution estimate of any type)
 
 
 

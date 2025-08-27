@@ -16,13 +16,13 @@ This option can be used to choose the algorithm CPLEX uses in the conflict refin
 
 
 
-*	Automatic
-*	Fast
-*	Propagate
-*	Presolve
-*	IIS
-*	Limited solve
-*	Full solve
+    *	Automatic
+    *	Fast
+    *	Propagate
+    *	Presolve
+    *	IIS
+    *	Limited solve
+    *	Full solve
 
 
 

@@ -18,10 +18,10 @@ This option controls whether AIMMS should print the scaling factors, found by on
 
 
 
-*	Off
-*	Automatic
-*	Individual
-*	Symbolic
+    *	Off
+    *	Automatic
+    *	Individual
+    *	Symbolic
 
 
 

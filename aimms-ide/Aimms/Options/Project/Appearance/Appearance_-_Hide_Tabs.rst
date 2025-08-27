@@ -18,8 +18,8 @@ This option determines whether AIMMS shows the tab selectors on top of the vario
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

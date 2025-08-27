@@ -16,10 +16,10 @@ This option sets the strategy for CPLEX to gather statistics about the MIP Kappa
 
 
 
-*	Off
-*	Automatic
-*	Sample
-*	Full
+    *	Off
+    *	Automatic
+    *	Sample
+    *	Full
 
 
 

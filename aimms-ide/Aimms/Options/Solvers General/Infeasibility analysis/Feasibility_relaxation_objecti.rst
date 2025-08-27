@@ -32,9 +32,9 @@ Possible values are:
 
 
 
-*	Sum of violations
-*	Sum of squared violations
-*	Number of violations
+    *	Sum of violations
+    *	Sum of squared violations
+    *	Number of violations
 
 
 

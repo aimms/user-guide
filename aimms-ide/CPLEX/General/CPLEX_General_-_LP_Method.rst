@@ -16,13 +16,13 @@ For solving an LP, three methods can be applied: simplex, network in combination
 
 
 
-*	Primal simplex
-*	Dual simplex
-*	Network + Primal (network followed by primal simplex)
-*	Network + Dual (network followed by dual simplex)
-*	Barrier
-*	Sifting
-*	Concurrent
+    *	Primal simplex
+    *	Dual simplex
+    *	Network + Primal (network followed by primal simplex)
+    *	Network + Dual (network followed by dual simplex)
+    *	Barrier
+    *	Sifting
+    *	Concurrent
 
 
 

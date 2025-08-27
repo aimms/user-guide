@@ -16,9 +16,9 @@ This option determines whether to use Relaxed Induced Neighborhood Search (RINS)
 
 
 
-*	Off
-*	On
-*	Often
+    *	Off
+    *	On
+    *	Often
 
 
 

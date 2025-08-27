@@ -16,11 +16,11 @@ This option indicates whether node presolve should be performed at the nodes of 
 
 
 
-*	No node presolve
-*	Automatic
-*	Force node presolve
-*	Probe integer-infeasible variables
-*	Aggressive node probing
+    *	No node presolve
+    *	Automatic
+    *	Force node presolve
+    *	Probe integer-infeasible variables
+    *	Aggressive node probing
 
 
 

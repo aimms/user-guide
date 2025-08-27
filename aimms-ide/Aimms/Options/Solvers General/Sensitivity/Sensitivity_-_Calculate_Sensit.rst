@@ -32,8 +32,8 @@ Possible values are:
 
 
 
-*	On (Calculate this information)
-*	Off (Do not calculate this information)
+    *	On (Calculate this information)
+    *	Off (Do not calculate this information)
 
 
 

@@ -22,6 +22,6 @@ Possible values are:
 
 
 
-*	On
-*	Default (which translates to: for MySql: On, for PostgreSQL: On, MS SQLServer: Off)
-*	Off
+    *	On
+    *	Default (which translates to: for MySql: On, for PostgreSQL: On, MS SQLServer: Off)
+    *	Off

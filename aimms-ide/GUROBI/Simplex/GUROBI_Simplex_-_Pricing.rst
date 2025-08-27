@@ -16,11 +16,11 @@ This option determines the simplex variable pricing strategy. Possible values ar
 
 
 
-*	Automatic
-*	Partial pricing
-*	Steepest edge
-*	Devex
-*	Quick-start steepest edge
+    *	Automatic
+    *	Partial pricing
+    *	Steepest edge
+    *	Devex
+    *	Quick-start steepest edge
 
 
 

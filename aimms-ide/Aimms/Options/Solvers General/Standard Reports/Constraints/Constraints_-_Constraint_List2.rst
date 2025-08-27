@@ -18,8 +18,8 @@ This option determines which individual constraints are reported in the listing 
 
 
 
-*	All constraints
-*	Only infeasible constraints
+    *	All constraints
+    *	Only infeasible constraints
 
 
 

@@ -16,9 +16,9 @@ This option can be used to mark a problem as convex. Possible values are:
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

@@ -18,8 +18,8 @@ This option indicates whether all equality constraints are linear. Activating th
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

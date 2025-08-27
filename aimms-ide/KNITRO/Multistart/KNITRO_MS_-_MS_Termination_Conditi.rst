@@ -16,11 +16,11 @@ This option specifies the condition for terminating multistart. Possible values 
 
 
 
-*	Normal
-*	First optimal solution
-*	First feasible solution
-*	Any
-*	Rule based
+    *	Normal
+    *	First optimal solution
+    *	First feasible solution
+    *	Any
+    *	Rule based
 
 
 

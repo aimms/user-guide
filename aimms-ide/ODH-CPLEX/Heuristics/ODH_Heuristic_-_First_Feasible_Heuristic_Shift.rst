@@ -16,9 +16,9 @@ This option specifies variable shifting in found solutions by the **First Feasib
 
 
 
-*	Off
-*	Moderate
-*	Aggressive
+    *	Off
+    *	Moderate
+    *	Aggressive
 
 
 

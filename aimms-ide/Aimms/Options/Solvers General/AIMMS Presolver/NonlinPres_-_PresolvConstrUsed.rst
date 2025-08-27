@@ -18,9 +18,9 @@ This option controls the type of constraints that are used by the AIMMS Presolve
 
 
 
-*	Linear
-*	Nonlinear
-*	All
+    *	Linear
+    *	Nonlinear
+    *	All
 
 
 

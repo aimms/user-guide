@@ -16,5 +16,5 @@ This option specifies whether integer variables are relaxable. Possible values a
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On

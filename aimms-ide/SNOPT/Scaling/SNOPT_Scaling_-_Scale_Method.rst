@@ -28,10 +28,10 @@ Possible values are:
 
 
 
-*	Automatic
-*	No scaling
-*	Only scale linear rows and columns
-*	Additional scaling
+    *	Automatic
+    *	No scaling
+    *	Only scale linear rows and columns
+    *	Additional scaling
 
 
 

@@ -15,8 +15,8 @@ If this option is turned on, CONOPT will read options from the option file named
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

@@ -18,8 +18,8 @@ If this option is switched on then BARON will terminate as soon as a local minim
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

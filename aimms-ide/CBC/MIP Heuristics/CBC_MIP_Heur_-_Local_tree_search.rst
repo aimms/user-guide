@@ -16,5 +16,5 @@ This option determines whether to use the local tree search heuristic. Setting '
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On

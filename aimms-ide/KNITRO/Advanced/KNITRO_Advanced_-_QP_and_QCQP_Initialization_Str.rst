@@ -16,12 +16,12 @@ This option specifies the initialization strategy used for non-convex QPs and QC
 
 
 
-*	Automatic
-*	None
-*	Linear
-*	Hybrid
-*	Penalty
-*	Convex Quadratic
+    *	Automatic
+    *	None
+    *	Linear
+    *	Hybrid
+    *	Penalty
+    *	Convex Quadratic
 
 
 

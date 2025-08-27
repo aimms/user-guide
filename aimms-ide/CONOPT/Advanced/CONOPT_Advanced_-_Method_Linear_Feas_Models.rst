@@ -16,10 +16,10 @@ This option specifies the method used for the Linear Feasibility Models. Possibl
 
 
 
-*	Off
-*	Method 1
-*	Method 2
-*	Method 3
+    *	Off
+    *	Method 1
+    *	Method 2
+    *	Method 3
 
 
 

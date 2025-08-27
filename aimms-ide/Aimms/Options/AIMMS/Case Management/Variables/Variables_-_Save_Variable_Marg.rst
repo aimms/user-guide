@@ -18,8 +18,8 @@ This option determines whether the marginal values of the variables as provided 
 
 
 
-*	Off (do not save)
-*	On (save)
+    *	Off (do not save)
+    *	On (save)
 
 
 

@@ -16,8 +16,8 @@ This option specifies whether a solution file should be written at the end of a 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

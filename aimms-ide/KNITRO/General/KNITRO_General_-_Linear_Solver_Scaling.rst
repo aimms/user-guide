@@ -16,8 +16,8 @@ This option enables scaling for the linear system solver. Applying scaling may a
 
 
 
-*	None
-*	Always
+    *	None
+    *	Always
 
 
 

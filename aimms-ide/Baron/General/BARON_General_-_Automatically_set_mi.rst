@@ -18,8 +18,8 @@ If this option is turned on then BARON automatically sets missing bounds. Possib
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

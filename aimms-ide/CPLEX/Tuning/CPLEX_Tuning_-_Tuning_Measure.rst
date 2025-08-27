@@ -16,8 +16,8 @@ This option controls the measure for evaluating progress when a suite of models 
 
 
 
-*	Average
-*	Minmax
+    *	Average
+    *	Minmax
 
 
 

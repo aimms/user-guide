@@ -18,8 +18,8 @@ If this option is turned on, the BARON algorithm terminates whenever a feasible 
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

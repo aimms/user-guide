@@ -16,9 +16,9 @@ This option determines the treatment of SOS2 members by ODH-CPLEX. Possible valu
 
 
 
-*	Aggressive
-*	Moderate
-*	Ignore
+    *	Aggressive
+    *	Moderate
+    *	Ignore
 
 
 

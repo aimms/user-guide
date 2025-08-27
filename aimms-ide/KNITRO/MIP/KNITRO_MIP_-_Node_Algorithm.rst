@@ -16,12 +16,12 @@ This option specifies which algorithm to use by Knitro for standard node subprob
 
 
 
-*	Automatic
-*	Interior-Direct
-*	Interior-CG
-*	Active-Set
-*	SQP
-*	Multi-algorithm
+    *	Automatic
+    *	Interior-Direct
+    *	Interior-CG
+    *	Active-Set
+    *	SQP
+    *	Multi-algorithm
 
 
 

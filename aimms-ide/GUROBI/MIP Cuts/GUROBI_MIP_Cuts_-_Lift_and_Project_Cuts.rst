@@ -16,10 +16,10 @@ This option determines whether or not to generate lift-and-project cuts for the 
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

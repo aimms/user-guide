@@ -16,8 +16,8 @@ This option can be used to let CPLEX generate multiple solutions to a mixed inte
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

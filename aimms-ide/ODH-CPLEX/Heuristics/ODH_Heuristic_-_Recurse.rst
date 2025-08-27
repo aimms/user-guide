@@ -16,13 +16,13 @@ This option specifies can be used to active the recurse using heuristic to solve
 
 
 
-*	All threads for infeasible solution
-*	Odd numbered threads for infeasible solution
-*	One thread only for infeasible solution
-*	Off
-*	One thread only
-*	Odd numbered threads
-*	All threads
+    *	All threads for infeasible solution
+    *	Odd numbered threads for infeasible solution
+    *	One thread only for infeasible solution
+    *	Off
+    *	One thread only
+    *	Odd numbered threads
+    *	All threads
 
 
 

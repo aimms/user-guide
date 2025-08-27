@@ -26,9 +26,9 @@ Possible values are:
 
 
 
-*	Compile Time - The type of a mathematical program is determined or verified at compile time; runtime changes in the set of variables or constraints cannot be taken into account but inconsistencies detected in the type of the mathematical program are reported before any computations are done.
-*	Pre Generation - The type of a mathematical program is determined or verified at the start of generating that mathematical program; runtime changes in the set of variables and constraints are taken into account, but the contents of identifiers restricting the generation of variables and constraints are not taken into account. Inconsistencies detected in the type of the mathematical program are reported before the actual generation, but after the determination of the data used to instantiate the mathematical program.
-*	Post Generation - The type of a mathematical program is determined or verified after it is generated. Both runtime changes in the set of variables and the set of constraints determining the mathematical programs as well as the data used to instantiate the mathematical program are taken into account. Inconsistencies detected in the type of the mathematical program are reported only after the mathematical program is generated.
+    *	Compile Time - The type of a mathematical program is determined or verified at compile time; runtime changes in the set of variables or constraints cannot be taken into account but inconsistencies detected in the type of the mathematical program are reported before any computations are done.
+    *	Pre Generation - The type of a mathematical program is determined or verified at the start of generating that mathematical program; runtime changes in the set of variables and constraints are taken into account, but the contents of identifiers restricting the generation of variables and constraints are not taken into account. Inconsistencies detected in the type of the mathematical program are reported before the actual generation, but after the determination of the data used to instantiate the mathematical program.
+    *	Post Generation - The type of a mathematical program is determined or verified after it is generated. Both runtime changes in the set of variables and the set of constraints determining the mathematical programs as well as the data used to instantiate the mathematical program are taken into account. Inconsistencies detected in the type of the mathematical program are reported only after the mathematical program is generated.
 
 
 

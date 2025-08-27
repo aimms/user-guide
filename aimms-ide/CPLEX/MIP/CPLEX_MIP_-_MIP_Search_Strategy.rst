@@ -16,9 +16,9 @@ This option sets the search strategy for a mixed integer program (MIP). Possible
 
 
 
-*	Automatic
-*	Apply branch-and-cut
-*	Apply dynamic search
+    *	Automatic
+    *	Apply branch-and-cut
+    *	Apply dynamic search
 
 
 

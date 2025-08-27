@@ -16,8 +16,8 @@ This option specifies the optimization (or search) method for sub-models in Phas
 
 
 
-*	Optimal solution
-*	Feasible solution
+    *	Optimal solution
+    *	Feasible solution
 
 
 

@@ -16,9 +16,9 @@ This option indicates whether or not the second order correction (SOC) option sh
 
 
 
-*	None
-*	At some iterations
-*	Always
+    *	None
+    *	At some iterations
+    *	Always
 
 
 

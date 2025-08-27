@@ -16,11 +16,11 @@ This option specifies the level of rounding heuristics. Possible values are:
 
 
 
-*	Automatic
-*	Off
-*	Fast
-*	Normal
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Fast
+    *	Normal
+    *	Aggressive
 
 
 

@@ -18,8 +18,8 @@ This option defines how the iterates for the bound multipliers are initialized. 
 
 
 
-*	Constant
-*	Mu-based
+    *	Constant
+    *	Mu-based
 
 
 

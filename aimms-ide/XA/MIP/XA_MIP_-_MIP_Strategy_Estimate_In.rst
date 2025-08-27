@@ -16,9 +16,9 @@ This option controls the amount of time spent by XA on estimating the value of a
 
 
 
-*	Normal
-*	Rough estimate
-*	Fast
+    *	Normal
+    *	Rough estimate
+    *	Fast
 
 
 

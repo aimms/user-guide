@@ -16,9 +16,9 @@ This option specifies the solution target for linear programs (LP). Possible val
 
 
 
-*	Automatic
-*	Basic
-*	Non-basic
+    *	Automatic
+    *	Basic
+    *	Non-basic
 
 
 

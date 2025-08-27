@@ -18,9 +18,9 @@ This option determines in which format numbers are displayed in pages. Possible 
 
 
 
-*	Period
-*	Comma
-*	Use regional settings of Windows
+    *	Period
+    *	Comma
+    *	Use regional settings of Windows
 
 
 

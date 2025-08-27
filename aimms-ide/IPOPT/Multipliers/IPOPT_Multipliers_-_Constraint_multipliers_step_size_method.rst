@@ -18,16 +18,16 @@ This option determines how the step size will be calculated when updating the co
 
 
 
-*	Primal
-*	Bound multipliers
-*	Minimum of primal and bound multipliers
-*	Maximum of primal and bound multipliers
-*	Full
-*	Min dual infeasibility
-*	Safer min dual infeasibility
-*	Primal and full
-*	Dual and full
-*	Acceptor
+    *	Primal
+    *	Bound multipliers
+    *	Minimum of primal and bound multipliers
+    *	Maximum of primal and bound multipliers
+    *	Full
+    *	Min dual infeasibility
+    *	Safer min dual infeasibility
+    *	Primal and full
+    *	Dual and full
+    *	Acceptor
 
 
 

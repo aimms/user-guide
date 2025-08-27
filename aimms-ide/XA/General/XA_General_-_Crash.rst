@@ -16,10 +16,10 @@ Whenever no initial basis is given, XA will generate one using the method select
 
 
 
-*	Minimize primal infeasibility
-*	Minimize dual infeasibility
-*	Minimize primal and dual infeasibility
-*	All slack basis
+    *	Minimize primal infeasibility
+    *	Minimize dual infeasibility
+    *	Minimize primal and dual infeasibility
+    *	All slack basis
 
 
 

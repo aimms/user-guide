@@ -16,8 +16,8 @@ This option determines whether or not to use the Knitro presolver to try to simp
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

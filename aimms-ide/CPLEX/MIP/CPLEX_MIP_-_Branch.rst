@@ -16,9 +16,9 @@ This option is used to decide which branch, the up branch or the down branch, sh
 
 
 
-*	Down branch first
-*	Algorithm decides
-*	Up branch first
+    *	Down branch first
+    *	Algorithm decides
+    *	Up branch first
 
 
 

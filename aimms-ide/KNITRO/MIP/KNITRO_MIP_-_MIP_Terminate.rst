@@ -16,8 +16,8 @@ This option specifies the condition for terminating the MIP algorithm. Possible 
 
 
 
-*	Optimal
-*	Feasible
+    *	Optimal
+    *	Feasible
 
 
 

@@ -16,10 +16,10 @@ This option determines whether or not to generate flow cover cuts for the proble
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

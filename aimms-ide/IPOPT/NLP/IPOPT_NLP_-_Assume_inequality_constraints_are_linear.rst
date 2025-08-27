@@ -18,8 +18,8 @@ This option indicates whether all inequality constraints are linear. Activating 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

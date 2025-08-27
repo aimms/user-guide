@@ -16,9 +16,9 @@ This option can be used to generate an mps file of the loaded model. The generat
 
 
 
-*	Never
-*	At the first solve
-*	At every solve
+    *	Never
+    *	At the first solve
+    *	At every solve
 
 
 

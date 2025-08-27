@@ -16,10 +16,10 @@ This option determines whether or not to generate mixing cuts for the problem. S
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

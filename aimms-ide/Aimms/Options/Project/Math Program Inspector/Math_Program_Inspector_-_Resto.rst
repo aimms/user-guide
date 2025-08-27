@@ -18,8 +18,8 @@ In the Math Program Inspector, during determination of the substructure causing 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

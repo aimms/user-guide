@@ -28,12 +28,12 @@ Possible values are:
 
 
 
-*	None
-*	Display integer feasible solutions
-*	Display each nth node
-*	Nth node + info on node cuts
-*	Nth node + LP display for root node
-*	Nth node + LP display for all nodes
+    *	None
+    *	Display integer feasible solutions
+    *	Display each nth node
+    *	Nth node + info on node cuts
+    *	Nth node + LP display for root node
+    *	Nth node + LP display for all nodes
 
 
 

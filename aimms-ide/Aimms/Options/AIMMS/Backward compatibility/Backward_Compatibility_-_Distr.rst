@@ -18,9 +18,9 @@ For various distribution functions the number of arguments and interpretation of
 
 
 
-*	AIMMS 3 0
-*	AIMMS 3 4
-*	Not Selected
+    *	AIMMS 3 0
+    *	AIMMS 3 4
+    *	Not Selected
 
 
 

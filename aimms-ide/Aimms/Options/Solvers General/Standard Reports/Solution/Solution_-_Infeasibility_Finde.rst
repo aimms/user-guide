@@ -18,8 +18,8 @@ If this option is switched 'On' and a model is infeasible, extra information wil
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

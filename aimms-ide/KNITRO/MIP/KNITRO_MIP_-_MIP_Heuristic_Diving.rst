@@ -16,13 +16,13 @@ This option specifies whether or not to enable the MIP diving heuristic. Possibl
 
 
 
-*	-1 (automatic): Let Knitro determine automatically from :ref:`option-KNITRO-mip_heuristic_strategy` 
-*	0 (disable): Disable all diving heuristics
-*	1 (bit 0): Enable fractional diving heuristic
-*	2 (bit 1): Enable vector length diving heuristic
-*	4 (bit 2): Enable coefficient diving heuristic
-*	8 (bit 3): Enable linesearch diving heuristic
-*	16 (bit 4): Enable guided diving heuristic
+    *	-1 (automatic): Let Knitro determine automatically from :ref:`option-KNITRO-mip_heuristic_strategy` 
+    *	0 (disable): Disable all diving heuristics
+    *	1 (bit 0): Enable fractional diving heuristic
+    *	2 (bit 1): Enable vector length diving heuristic
+    *	4 (bit 2): Enable coefficient diving heuristic
+    *	8 (bit 3): Enable linesearch diving heuristic
+    *	16 (bit 4): Enable guided diving heuristic
 
 
 

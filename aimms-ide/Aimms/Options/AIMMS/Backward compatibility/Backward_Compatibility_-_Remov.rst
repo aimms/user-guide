@@ -18,8 +18,8 @@ This options determines whether spaces at the end of a quoted element should be 
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

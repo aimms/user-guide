@@ -16,11 +16,11 @@ The value of this option decides whether or not cutting planes are separated at 
 
 
 
-*	Off
-*	Automatic
-*	Generate cuts moderately
-*	Generate cuts aggressively
-*	Generate cuts very aggressively
+    *	Off
+    *	Automatic
+    *	Generate cuts moderately
+    *	Generate cuts aggressively
+    *	Generate cuts very aggressively
 
 
 

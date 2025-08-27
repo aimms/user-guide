@@ -18,8 +18,8 @@ If this option is switched on then coefficient values passed to the procedures G
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

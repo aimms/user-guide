@@ -18,8 +18,8 @@ This option determines whether the model file, which is passed to BARON, should 
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

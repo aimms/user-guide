@@ -16,9 +16,9 @@ This option determines whether CPLEX preprocesses a quadratically constrained pr
 
 
 
-*	No
-*	If possible
-*	Force
+    *	No
+    *	If possible
+    *	Force
 
 
 

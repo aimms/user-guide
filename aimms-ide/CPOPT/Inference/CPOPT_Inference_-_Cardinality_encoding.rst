@@ -16,8 +16,8 @@ This option determines the encoding used for Cardinality constraints. Possible v
 
 
 
-*	Count
-*	Distribute
+    *	Count
+    *	Distribute
 
 
 

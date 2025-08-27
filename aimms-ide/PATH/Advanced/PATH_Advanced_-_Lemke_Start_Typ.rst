@@ -16,9 +16,9 @@ The type of Lemke starts. Possible values are:
 
 
 
-*	Slack
-*	Advanced
-*	Restart stationary limit
+    *	Slack
+    *	Advanced
+    *	Restart stationary limit
 
 
 

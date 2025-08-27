@@ -18,8 +18,8 @@ Consider the following situation: A parameter P has both a definition and the st
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

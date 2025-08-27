@@ -16,9 +16,9 @@ This option determines whether COPT should load a start solution (if available) 
 
 
 
-*	Off
-*	Use full solutions
-*	Use partial solutions
+    *	Off
+    *	Use full solutions
+    *	Use partial solutions
 
 
 

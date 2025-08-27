@@ -16,10 +16,10 @@ This option determines whether or not to generate Mixed Integer Rounding (MIR) c
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

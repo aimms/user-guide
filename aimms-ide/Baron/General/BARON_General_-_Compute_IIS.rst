@@ -18,12 +18,12 @@ In case of an infeasible problem, this option can be used to search for an irred
 
 
 
-*	Off
-*	Algorithm 1
-*	Algorithm 2
-*	Algorithm 3
-*	Algorithm 4
-*	Algorithm 5
+    *	Off
+    *	Algorithm 1
+    *	Algorithm 2
+    *	Algorithm 3
+    *	Algorithm 4
+    *	Algorithm 5
 
 
 

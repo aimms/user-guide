@@ -16,11 +16,11 @@ This option determines which algorithm is used for solving QP problems and MIQP 
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Network simplex
-*	Barrier
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Network simplex
+    *	Barrier
 
 
 

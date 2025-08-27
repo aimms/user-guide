@@ -16,6 +16,6 @@ The option determines whether to use costs or column order as priorities. Settin
 
 
 
-*	Off
-*	Absolute cost
-*	Column order
+    *	Off
+    *	Absolute cost
+    *	Column order

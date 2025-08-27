@@ -16,9 +16,9 @@ This option can be used to display the basis condition number ('kappa'). The inf
 
 
 
-*	No
-*	Yes
-*	Exact
+    *	No
+    *	Yes
+    *	Exact
 
 
 

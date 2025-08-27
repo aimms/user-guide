@@ -16,11 +16,11 @@ The value of this option determines if there should be any attempt to generate f
 
 
 
-*	Off
-*	On
-*	Root only
-*	If promising
-*	Always
+    *	Off
+    *	On
+    *	Root only
+    *	If promising
+    *	Always
 
 
 

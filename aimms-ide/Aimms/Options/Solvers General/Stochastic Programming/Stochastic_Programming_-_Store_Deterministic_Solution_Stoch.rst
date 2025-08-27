@@ -18,8 +18,8 @@ This option determines, for a stochastic model, whether AIMMS should store the s
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

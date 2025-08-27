@@ -16,8 +16,8 @@ Setting this option to "Always" will cause all problems to be automatically pert
 
 
 
-*	When needed
-*	Always
+    *	When needed
+    *	Always
 
 
 

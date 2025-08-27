@@ -16,10 +16,10 @@ This option determines whether or not to generate MIP separation cuts for the pr
 
 
 
-*	Automatic
-*	Off
-*	Conservative
-*	Aggressive
+    *	Automatic
+    *	Off
+    *	Conservative
+    *	Aggressive
 
 
 

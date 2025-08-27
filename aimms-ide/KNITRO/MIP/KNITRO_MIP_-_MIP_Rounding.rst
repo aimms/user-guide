@@ -16,11 +16,11 @@ This option specifies the MIP rounding rule to apply. Possible values are:
 
 
 
-*	Automatic
-*	None
-*	Fast heuristic
-*	Solve sometimes
-*	Solve always
+    *	Automatic
+    *	None
+    *	Fast heuristic
+    *	Solve sometimes
+    *	Solve always
 
 
 

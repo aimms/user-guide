@@ -18,8 +18,8 @@ This option controls whether timing information about a particular phase in the 
 
 
 
-*	No time messages
-*	Show time messages
+    *	No time messages
+    *	Show time messages
 
 
 

@@ -18,8 +18,8 @@ The information from the SOS Priority attribute is only used by CPLEX. Filling i
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

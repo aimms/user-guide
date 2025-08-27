@@ -18,10 +18,10 @@ This option determines which method is used to calculate the time that is needed
 
 
 
-*	Process Time (The system function clock() is used) 
-*	Cpu Cycles (The amount op CPU cycli are counted)
-*	Performance Count (Uses QueryPerformanceCount to determine the CPU cycli)
-*	Time Slices (Use GetProcessTime to determine the total execution time spent by all threads of the AIMMS process)
+    *	Process Time (The system function clock() is used) 
+    *	Cpu Cycles (The amount op CPU cycli are counted)
+    *	Performance Count (Uses QueryPerformanceCount to determine the CPU cycli)
+    *	Time Slices (Use GetProcessTime to determine the total execution time spent by all threads of the AIMMS process)
 
 
 

@@ -16,11 +16,11 @@ The value of this option determines if there should be any attempt to generate c
 
 
 
-*	Off
-*	Automatic
-*	Generate cuts moderately
-*	Generate cuts aggressively
-*	Generate cuts very aggressively
+    *	Off
+    *	Automatic
+    *	Generate cuts moderately
+    *	Generate cuts aggressively
+    *	Generate cuts very aggressively
 
 
 

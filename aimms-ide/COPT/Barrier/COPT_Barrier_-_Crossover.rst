@@ -18,9 +18,9 @@ This option specifies whether to use crossover. Possible values are:
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

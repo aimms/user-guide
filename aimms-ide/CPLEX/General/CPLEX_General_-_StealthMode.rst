@@ -27,8 +27,8 @@ Possible values are:
 
 
 
-*	Normal
-*	Fast
+    *	Normal
+    *	Fast
 
 
 

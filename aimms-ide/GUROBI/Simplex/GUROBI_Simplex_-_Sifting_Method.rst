@@ -16,10 +16,10 @@ This option determines the LP method used to solve sifting sub-problems. Possibl
 
 
 
-*	Automatic
-*	Primal simplex
-*	Dual simplex
-*	Barrier
+    *	Automatic
+    *	Primal simplex
+    *	Dual simplex
+    *	Barrier
 
 
 

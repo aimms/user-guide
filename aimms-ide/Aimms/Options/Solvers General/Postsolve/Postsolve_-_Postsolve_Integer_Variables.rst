@@ -18,9 +18,9 @@ MIP solvers do not round the found values for the integer variables to the neare
 
 
 
-*	No rounding
-*	Round to integer
-*	Round integers and resolve LP
+    *	No rounding
+    *	Round to integer
+    *	Round integers and resolve LP
 
 
 

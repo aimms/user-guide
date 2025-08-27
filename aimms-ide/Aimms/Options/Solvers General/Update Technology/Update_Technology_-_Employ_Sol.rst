@@ -18,8 +18,8 @@ This option determines whether the solver restarts from scratch ('Off'), or star
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

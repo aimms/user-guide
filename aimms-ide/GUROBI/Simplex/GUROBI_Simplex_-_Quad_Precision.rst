@@ -16,9 +16,9 @@ This option enables or disables quad precision computation in simplex. The defau
 
 
 
-*	Automatic
-*	Off
-*	On
+    *	Automatic
+    *	Off
+    *	On
 
 
 

@@ -16,8 +16,8 @@ This option specifies whether to use a phaseI/phaseII method to remove infeasibi
 
 
 
-*	Composite objective method
-*	Phase I-II method
+    *	Composite objective method
+    *	Phase I-II method
 
 
 

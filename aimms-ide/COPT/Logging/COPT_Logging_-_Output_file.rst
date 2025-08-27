@@ -16,8 +16,8 @@ This option can be used to activate the generation of a COPT output file. The ou
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

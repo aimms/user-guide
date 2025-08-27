@@ -16,8 +16,8 @@ This option specifies the method for initializing the diagonal of the approximat
 
 
 
-*	Geometric mean
-*	Smallest
+    *	Geometric mean
+    *	Smallest
 
 
 

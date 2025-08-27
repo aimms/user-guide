@@ -16,8 +16,8 @@ This option determines the thread synchronization frequency in deterministic par
 
 
 
-*	Low
-*	High
+    *	Low
+    *	High
 
 
 

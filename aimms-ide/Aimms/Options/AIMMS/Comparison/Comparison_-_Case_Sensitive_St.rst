@@ -18,8 +18,8 @@ This option determines whether the comparison between strings should be case sen
 
 
 
-*	Off (compare case insensitive)
-*	On (compare case sensitive)
+    *	Off (compare case insensitive)
+    *	On (compare case sensitive)
 
 
 

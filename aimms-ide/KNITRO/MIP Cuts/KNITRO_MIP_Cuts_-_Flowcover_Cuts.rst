@@ -16,10 +16,10 @@ This option specifies rules for adding probing cuts for MINLP problems. Possible
 
 
 
-*	Automatic
-*	None
-*	Root
-*	Tree
+    *	Automatic
+    *	None
+    *	Root
+    *	Tree
 
 
 

@@ -16,8 +16,8 @@ This option lets you control whether CPLEX applies a local branching heuristic t
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -18,8 +18,8 @@ This option determines whether an Irreducible Inconsistent System will be retrie
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

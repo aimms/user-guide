@@ -16,8 +16,8 @@ If the value of this option is set to 'Yes' (default) and the option **Create St
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

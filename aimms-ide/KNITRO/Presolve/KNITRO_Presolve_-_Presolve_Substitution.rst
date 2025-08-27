@@ -16,10 +16,10 @@ This option determines whether or not to enable the Knitro presolve operation to
 
 
 
-*	Automatic
-*	None
-*	Simple
-*	All
+    *	Automatic
+    *	None
+    *	Simple
+    *	All
 
 
 

@@ -16,10 +16,10 @@ This option determines whether or not the interior-point algorithms in Knitro sh
 
 
 
-*	Automatic
-*	Strategy 1
-*	Strategy 2
-*	Strategy 3
+    *	Automatic
+    *	Strategy 1
+    *	Strategy 2
+    *	Strategy 3
 
 
 

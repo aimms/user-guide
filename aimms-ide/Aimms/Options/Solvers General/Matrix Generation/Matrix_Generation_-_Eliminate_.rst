@@ -52,9 +52,9 @@ Possible values are:
 
 
 
-*	On
-*	Off
-*	Automatic
+    *	On
+    *	Off
+    *	Automatic
 
 
 

@@ -18,8 +18,8 @@ If this option is switched on, a file with the name 'ipopt.sta' is created (in t
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

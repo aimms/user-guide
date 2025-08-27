@@ -15,10 +15,10 @@ This option determines the amount of information that is printed to the status f
 
 
 
-*	None
-*	Summary
-*	Iteration log
-*	Detailed iteration log
+    *	None
+    *	Summary
+    *	Iteration log
+    *	Detailed iteration log
 
 
 

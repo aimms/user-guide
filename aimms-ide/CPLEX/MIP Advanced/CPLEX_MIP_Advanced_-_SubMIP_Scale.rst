@@ -16,9 +16,9 @@ This option decides how to scale the problem matrix when CPLEX solves a subMIP d
 
 
 
-*	None (no scaling)
-*	Standard (use equilibration scaling)
-*	Aggressive (use aggressive scaling)
+    *	None (no scaling)
+    *	Standard (use equilibration scaling)
+    *	Aggressive (use aggressive scaling)
 
 
 

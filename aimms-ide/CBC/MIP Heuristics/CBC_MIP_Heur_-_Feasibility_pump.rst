@@ -20,10 +20,10 @@ With setting 'On' the Feasibility Pump heuristic is used after preprocessing. Se
 
 
 
-*	Off
-*	On
-*	Before
-*	Both
+    *	Off
+    *	On
+    *	Before
+    *	Both
 
 
 

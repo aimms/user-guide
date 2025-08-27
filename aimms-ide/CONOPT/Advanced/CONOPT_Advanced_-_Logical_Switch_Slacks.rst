@@ -15,8 +15,8 @@ When this option is switched on, CONOPT will select all infeasible slacks as the
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

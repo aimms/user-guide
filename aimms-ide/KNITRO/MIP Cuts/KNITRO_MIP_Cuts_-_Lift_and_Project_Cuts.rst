@@ -16,9 +16,9 @@ This option specifies rules for adding lift and project cuts. Possible values ar
 
 
 
-*	Automatic
-*	None
-*	Root
+    *	Automatic
+    *	None
+    *	Root
 
 
 

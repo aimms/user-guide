@@ -16,10 +16,10 @@ This option determines whether primal reductions, dual reductions, or both, are 
 
 
 
-*	No primal and dual reductions
-*	Only primal reductions 
-*	Only dual reductions
-*	Both primal and dual reductions
+    *	No primal and dual reductions
+    *	Only primal reductions 
+    *	Only dual reductions
+    *	Both primal and dual reductions
 
 
 

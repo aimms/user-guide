@@ -16,10 +16,10 @@ This option determines whether CPLEX should use the :ref:`CPLEX_Benders_Decompos
 
 
 
-*	Off
-*	User
-*	Worker
-*	Full
+    *	Off
+    *	User
+    *	Worker
+    *	Full
 
 
 

@@ -16,8 +16,8 @@ This option determines whether Gurobi should focus on finding solutions that are
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

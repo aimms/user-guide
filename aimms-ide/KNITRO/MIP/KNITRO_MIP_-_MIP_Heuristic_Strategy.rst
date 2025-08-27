@@ -16,11 +16,11 @@ This option specifies the level of effort applied for the MIP heuristic search u
 
 
 
-*	Automatic
-*	None
-*	Basic
-*	Advanced
-*	Extensive
+    *	Automatic
+    *	None
+    *	Basic
+    *	Advanced
+    *	Extensive
 
 
 

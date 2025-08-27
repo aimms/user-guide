@@ -20,12 +20,12 @@ Setting the value different from "Off" indicates that the attempt to generate Go
 
 
 
-*	Off
-*	On
-*	Root only
-*	If promising
-*	Often
-*	Always
+    *	Off
+    *	On
+    *	Root only
+    *	If promising
+    *	Often
+    *	Always
 
 
 

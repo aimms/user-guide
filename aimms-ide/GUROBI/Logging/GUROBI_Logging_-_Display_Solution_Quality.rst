@@ -16,8 +16,8 @@ This option can be used to let Gurobi print solution quality statistics in the G
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

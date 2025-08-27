@@ -16,12 +16,12 @@ This option specifies the primal pivot selection algorithm. Possible values are:
 
 
 
-*	Automatic
-*	Exact
-*	Partial
-*	Steepest
-*	Change
-*	Sprint
+    *	Automatic
+    *	Exact
+    *	Partial
+    *	Steepest
+    *	Change
+    *	Sprint
 
 
 

@@ -16,10 +16,10 @@ This option specifies which method is used by COPT for solving LP problems while
 
 
 
-*	Automatic
-*	Dual simplex
-*	Barrier
-*	Concurrent
+    *	Automatic
+    *	Dual simplex
+    *	Barrier
+    *	Concurrent
 
 
 

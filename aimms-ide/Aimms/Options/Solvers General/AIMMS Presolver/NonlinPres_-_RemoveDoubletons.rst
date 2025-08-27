@@ -18,9 +18,9 @@ This option controls whether the AIMMS Presolver should remove so called doublet
 
 
 
-*	Never
-*	Automatic
-*	Always
+    *	Never
+    *	Automatic
+    *	Always
 
 
 

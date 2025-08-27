@@ -16,8 +16,8 @@ This option turns on (or off) the display of options that have changed from thei
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

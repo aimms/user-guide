@@ -16,9 +16,9 @@ This option sets the level of presolve operations to enable through the Knitro p
 
 
 
-*	Automatic
-*	Basic
-*	Advanced
+    *	Automatic
+    *	Basic
+    *	Advanced
 
 
 

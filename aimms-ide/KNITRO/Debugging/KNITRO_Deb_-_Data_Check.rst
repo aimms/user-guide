@@ -16,5 +16,5 @@ This option specifies whether to perform more extensive data checks to look for 
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On

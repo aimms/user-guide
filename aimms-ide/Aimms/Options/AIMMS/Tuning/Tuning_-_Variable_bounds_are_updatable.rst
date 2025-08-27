@@ -18,8 +18,8 @@ This option determines whether the data of the suffices .lower, .upper and .nonv
 
 
 
-*	On 
-*	Off 
+    *	On 
+    *	Off 
 
 
 
