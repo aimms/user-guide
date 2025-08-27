@@ -18,8 +18,8 @@ The normal execution of a ``HALT``  statement does not respect any error handler
 
 
 
-*	Off (Stop execution, regardless of any errors)
-*	On (Treat a ``HALT``  statement as if a ``RAISE ERROR``  is encountered)
+    *	Off (Stop execution, regardless of any errors)
+    *	On (Treat a ``HALT``  statement as if a ``RAISE ERROR``  is encountered)
 
 
 

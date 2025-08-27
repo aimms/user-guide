@@ -16,8 +16,8 @@ This option specifies whether CPLEX should calculate an unbounded ray once CPLEX
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

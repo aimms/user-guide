@@ -16,16 +16,16 @@ This option can be used to select one of the nine branch and bound strategies su
 
 
 
-*	Proprietary method
-*	Minimum change in objective function
-*	Priority based on column order
-*	Column closest to its integer bound
-*	(Not used)
-*	Column always branches up
-*	Column always branches down
-*	Column farthest from its integer bound
-*	Column randomly selected
-*	Apparent smoothest sides in the polytope
+    *	Proprietary method
+    *	Minimum change in objective function
+    *	Priority based on column order
+    *	Column closest to its integer bound
+    *	(Not used)
+    *	Column always branches up
+    *	Column always branches down
+    *	Column farthest from its integer bound
+    *	Column randomly selected
+    *	Apparent smoothest sides in the polytope
 
 
 

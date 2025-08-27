@@ -18,7 +18,7 @@ This options controls how often the derivatives are tested. Debugging of derivat
 
 .. list-table::
 
-       * - 0
+   * - 0
      - No debugging.
    * - -1
      - The derivatives are tested in the initial point only.

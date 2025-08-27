@@ -33,9 +33,9 @@ Possible values of this option are:
 
 
 
-*	Never
-*	At the first solve
-*	At every solve
+    *	Never
+    *	At the first solve
+    *	At every solve
 
 
 

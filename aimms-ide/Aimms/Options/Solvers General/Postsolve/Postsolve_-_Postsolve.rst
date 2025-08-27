@@ -26,9 +26,9 @@ This option specifies whether or not a postsolve step will be performed after so
 
 
 
-*	Off
-*	Automatic
-*	On
+    *	Off
+    *	Automatic
+    *	On
 
 
 

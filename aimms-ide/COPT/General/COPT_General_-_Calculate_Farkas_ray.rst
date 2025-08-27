@@ -16,8 +16,8 @@ This option specifies whether COPT should compute the dual Farkas or primal ray 
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

@@ -26,8 +26,8 @@ Possible values of this option are:
 
 
 
-*	On
-*	Off
+    *	On
+    *	Off
 
 
 

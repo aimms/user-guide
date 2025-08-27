@@ -27,9 +27,9 @@ The AIMMS API's of AIMMS 3.13 and AIMMS 3.14 differ because from AIMMS 3.14 onwa
 
 Possible values of this option are:
 
-*	ASCII, use this if your DLL's are linked against ASCII AIMMS 3.13 or older.
-*	Unicode, use this if your DLL's are linked against Unicode AIMMS 3.13 or older.
-*	None, use this if you do not have any DLL's or if you can compile and link them.
+    *	ASCII, use this if your DLL's are linked against ASCII AIMMS 3.13 or older.
+    *	Unicode, use this if your DLL's are linked against Unicode AIMMS 3.13 or older.
+    *	None, use this if you do not have any DLL's or if you can compile and link them.
 
 
 

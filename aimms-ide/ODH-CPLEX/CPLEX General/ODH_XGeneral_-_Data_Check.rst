@@ -16,9 +16,9 @@ This option decides whether data should be checked for consistency and whether C
 
 
 
-*	Off
-*	Warn
-*	Assist
+    *	Off
+    *	Warn
+    *	Assist
 
 
 

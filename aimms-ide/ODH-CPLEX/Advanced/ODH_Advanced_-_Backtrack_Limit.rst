@@ -19,7 +19,7 @@ This option sets the maximum number of backtracks permitted in sub-model solves.
 
 .. list-table::
 
-       * - -1
+   * - -1
      - Automatically determined (default)
    * - 0
      - Infinite

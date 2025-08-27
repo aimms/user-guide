@@ -16,8 +16,8 @@ This option specifies whether CPLEX should retrieve a Farkas infeasibility proof
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

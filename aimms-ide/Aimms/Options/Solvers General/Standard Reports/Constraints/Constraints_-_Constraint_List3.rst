@@ -18,8 +18,8 @@ This option determines whether a constraint list is followed by a list of variab
 
 
 
-*	No variable values
-*	Print variable values
+    *	No variable values
+    *	Print variable values
 
 
 

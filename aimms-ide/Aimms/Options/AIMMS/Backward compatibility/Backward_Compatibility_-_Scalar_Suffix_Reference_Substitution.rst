@@ -70,8 +70,8 @@ Possible values of this option are:
 
 
 
-*	Off
-*	On
+    *	Off
+    *	On
 
 
 

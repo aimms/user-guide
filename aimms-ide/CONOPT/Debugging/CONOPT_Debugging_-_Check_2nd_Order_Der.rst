@@ -18,7 +18,7 @@ This options controls how often the second order derivatives are tested. Debuggi
 
 .. list-table::
 
-       * - 0
+   * - 0
      - No debugging.
    * - -1
      - The derivatives are tested in the first point in which second derivatives are used only.

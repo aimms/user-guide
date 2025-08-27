@@ -24,8 +24,8 @@ Possible values of this option are:
 
 
 
-*	No
-*	Yes
+    *	No
+    *	Yes
 
 
 

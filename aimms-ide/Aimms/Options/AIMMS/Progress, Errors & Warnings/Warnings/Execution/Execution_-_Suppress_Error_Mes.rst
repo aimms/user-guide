@@ -18,8 +18,8 @@ The function ``val``  translates strings to numbers. For example, ``val("2009")`
 
 
 
-*	Off (do not suppress error messages of the function val)
-*	On (suppress error messages of the function val)
+    *	Off (do not suppress error messages of the function val)
+    *	On (suppress error messages of the function val)
 
 
 

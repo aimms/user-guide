@@ -38,8 +38,8 @@ Possible values of this option are:
 
 
 
-*	Off (do not check individual constraints for feasibility)
-*	On (check individual constraints for feasibility)
+    *	Off (do not check individual constraints for feasibility)
+    *	On (check individual constraints for feasibility)
 
 
 

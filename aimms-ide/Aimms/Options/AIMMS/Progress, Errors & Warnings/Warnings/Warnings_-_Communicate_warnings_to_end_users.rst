@@ -20,8 +20,8 @@ This option suppresses the issuing of warnings when AIMMS runs in end-user mode.
 
 
 
-*	Off (do not communicate warnings to end users)
-*	On (communicate warnings to end users)
+    *	Off (do not communicate warnings to end users)
+    *	On (communicate warnings to end users)
 
 
 
