@@ -32,7 +32,7 @@ the objective function. The quantity actually used is defined by
 
 .. math::
 
-    \| \pi \| = \max( \delta / \sqrt{m}, 1 ) \quad \text{where} \quad \delta = \sum \limits_i | pi |,
+    \| \pi \| = \max( \delta / \sqrt{m}, 1 ), \quad \text{where} \quad \delta = \sum \limits_i | \pi_i |,
 
 
 so that only large scale factors are allowed for. If the objective is scaled down substantially, the test for optimality reduces to comparing :math:`d_j` against :math:`t`.

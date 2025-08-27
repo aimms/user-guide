@@ -12,7 +12,8 @@ LU Factor Tolerance
 
 
 
-This option affects the stability and sparsity of the basis factorization B = LU during refactorization. Smaller values for this option favor stability, while larger values favor sparsity. The default value usually strikes a good compromise between stability and sparsity. 
+This option affects the stability and sparsity of the basis factorization :math:`B = LU` during refactorization. Smaller values for this
+option favor stability, while larger values favor sparsity. The default value usually strikes a good compromise between stability and sparsity. 
 
 
 

@@ -38,7 +38,7 @@ defined in terms of the scaled problem (since it is then more likely to be meani
 
 A nonlinear objective function :math:`f(x)` will be evaluated only at feasible points. If there are regions where
 :math:`f(x)` is undefined, every attempt should be made to eleminate these regions from the problem. For example,
-if :math:`f(x) = \sqrt{x_1} + \log(x_2)`, it is essential to place lower bounds on both variables x1 and x2.
+if :math:`f(x) = \sqrt{x_1} + \log(x_2)`, it is essential to place lower bounds on both variables :math:`x_1` and :math:`x_2`.
 If the feasibility tolerance equals 1e-6, the bounds :math:`x_1 \geq 1e-5` and :math:`x_2 \geq 1e-4` might be appropriate.
 (The log singularity is more serious. In general, keep :math:`x` as far away from singularities as possible.)
 
