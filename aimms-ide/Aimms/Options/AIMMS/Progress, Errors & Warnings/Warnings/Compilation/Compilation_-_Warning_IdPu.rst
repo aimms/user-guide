@@ -21,7 +21,7 @@ Local symbols of procedures cannot be made public. Indices and parameters declar
 
 .. list-table::
 
-       * - *	Off	
+   * - *	Off	
      - Do not issue a warning.
    * - *	Warning_collect
      - Issue a warning and post it to the global error and warning collector.

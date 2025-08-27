@@ -21,7 +21,7 @@ This option determines what AIMMS will do when the bound of a numerical paramete
 
 .. list-table::
 
-       * - *	Off	
+   * - *	Off	
      - Do not issue a warning.
    * - *	Warning_collect
      - Issue a warning and post it to the global error and warning collector.
