@@ -30,11 +30,11 @@ Subsequent Phase 4 iterations continue at least until the norm of the reduced-gr
 
 
 
-(Here :math:`\| Z^T \|` is the size of the largest reduced-gradient among the superbasic variables.)
+(Here :math:`\| Z^T g\|` is the size of the largest reduced-gradient among the superbasic variables.)
 
 
 A smaller value of :math:`t` is likely to increase the total number of iterations, but may reduce the number of basis changes.
-A larger value such as :math:`t = 0.9` may sometimes lead to improved overall efficiency, if the number of superbasic variables
+A larger value such as :math:`t` = 0.9 may sometimes lead to improved overall efficiency, if the number of superbasic variables
 has to increase substantially between the starting point and an optimal solution.
 
 

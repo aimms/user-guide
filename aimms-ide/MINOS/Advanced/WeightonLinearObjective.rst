@@ -23,11 +23,11 @@ At each infeasible iteration, the objective function is defined to be
 
 .. math::
 
-    \text{minimize} \sigma w(c^Tx) + \text{(sum of infeasibilities)},
+    \text{minimize } \sigma w(c^Tx) + \text{(sum of infeasibilities)},
 
 
 
-where :math:`\sigma = 1` for minimization, :math:`\sigma = -1` for maximization, and :math:`c` is the linear objective.
+where :math:`\sigma` = 1 for minimization, :math:`\sigma` = -1 for maximization, and :math:`c` is the linear objective.
 
 
 If an "optimal" solution is reached while still infeasible, :math:`w` is reduced by a factor of 10. This helps to allow for the possibility

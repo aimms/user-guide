@@ -21,7 +21,7 @@ the appropriate value for :math:`\epsilon` would be 1.0e-6.
 
 
 Ideally the functions :math:`F(x)` or :math:`f'(x)` should have a magnitude of order 1. If all functions are substantially less than 1 in magnitude,
-:math:`\epsilon` should be the absolute precision. For example, if :math:`F(x) = 1.23456789e-4` at some point and if the first 6 significant digits are
+:math:`\epsilon` should be the absolute precision. For example, if :math:`F(x)` = 1.23456789e-4 at some point and if the first 6 significant digits are
 known to be correct, the appropriate value for :math:`\epsilon` would be 1.0e-10.
 
 

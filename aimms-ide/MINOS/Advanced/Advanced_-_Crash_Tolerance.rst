@@ -16,7 +16,7 @@ Crash Tolerance
 
 The Crash tolerance r allows the starting procedure Crash to ignore certain "small" nonzeros in the constraint matrix whilesearching for a
 triangular basis. For each column of :math:`A`, if :math:`\alpha_{max}` denotes the largest element in column :math:`j`, other nonzeros
-:math:`\alpha_{max}` in that column are ignored if :math:`| \alpha_{ij} | \leq \alpha_{max}`  | aij | <= \alpha_{max} \times r.
+:math:`\alpha_{ij}` in that column are ignored if :math:`| \alpha_{ij} | \leq \alpha_{max} \times r.
 
 When the value of this option is unequal to 0, the basis obtained by Crash may not be strictly triangular, but it is likely to be
 nonsingular and almost triangular. The intention is to obtain a starting basis containing more columns of :math:`A` and fewer (arbitrary) slacks.
