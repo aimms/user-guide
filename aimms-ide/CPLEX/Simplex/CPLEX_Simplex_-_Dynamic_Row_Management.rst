@@ -12,7 +12,7 @@ Dynamic Row Management
 
 
 
-This option specifies how CPLEX should manage rows in the current model during dual simplex optimization. More specifically, this option controls the use of the kernel simplex method (KSM) for the dual simplex algorithm. That is, CPLEX dynamically adjusts the dimensions of the basis matrix during execution of the dual simplex algorithm, according to the settings of this option.. Possible values are:
+This option specifies how CPLEX should manage rows in the current model during dual simplex optimization. More specifically, this option controls the use of the kernel simplex method (KSM) for the dual simplex algorithm. That is, CPLEX dynamically adjusts the dimensions of the basis matrix during execution of the dual simplex algorithm, according to the settings of this option. Possible values are:
 
 
 

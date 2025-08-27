@@ -66,7 +66,6 @@ Short Descriptions
     User_Logoff
     User_Change_Password
     Installing_system_module
-    External_Functions_-_Display_A
     Tuning_-_Code_Generation
     Memory_Manager_Data_Area_Size
     Memory_Manager_-_Standard_Bloc
