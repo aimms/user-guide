@@ -1,5 +1,5 @@
-AIMMS and Solvers
-================================
+Solvers
+========
 
 .. toctree::
     :maxdepth: 1
