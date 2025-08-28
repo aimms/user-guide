@@ -18,7 +18,7 @@ This option controls whether or not to display information about the largest con
 
 
 
-If this option equals :math:`n \ne 0`, a summary table will be printed, which contains:
+If this option is unequal to 0, a summary table will be printed, which contains:
 
 *	the largest constraint violation, the sum of constraint violations and the number of constraint violations;
 *	the largest variable bound violation, the sum of variable bound violations and the number of variable bound violations;
