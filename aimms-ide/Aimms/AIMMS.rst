@@ -45,17 +45,17 @@ Available Solvers
 
 Below you can find an overview of all the available solvers in AIMMS.
 
-*   :doc:`../Baron/BARON`
-*   :doc:`../CBC/CBC`
-*   :doc:`../CONOPT/CONOPT`
-*   :doc:`../COPT/COPT`
-*   :doc:`../CPLEX/CPLEX`
-*   :doc:`../CPOPT/CPOPT`
-*   :doc:`../GUROBI/GUROBI`
-*   :doc:`../IPOPT/IPOPT`
-*   :doc:`../KNITRO/KNITRO`
-*   :doc:`../MINOS/MINOS`
-*   :doc:`../ODH-CPLEX/ODH`
-*   :doc:`../PATH/Path`
-*   :doc:`../SNOPT/SNOPT`
-*   :doc:`../XA/XA`
+*   :doc:`../Solvers/Baron/BARON`
+*   :doc:`../Solvers/CBC/CBC`
+*   :doc:`../Solvers/CONOPT/CONOPT`
+*   :doc:`../Solvers/COPT/COPT`
+*   :doc:`../Solvers/CPLEX/CPLEX`
+*   :doc:`../Solvers/CPOPT/CPOPT`
+*   :doc:`../Solvers/GUROBI/GUROBI`
+*   :doc:`../Solvers/IPOPT/IPOPT`
+*   :doc:`../Solvers/KNITRO/KNITRO`
+*   :doc:`../Solvers/MINOS/MINOS`
+*   :doc:`../Solvers/ODH-CPLEX/ODH`
+*   :doc:`../Solvers/PATH/Path`
+*   :doc:`../Solvers/SNOPT/SNOPT`
+*   :doc:`../Solvers/XA/XA`
