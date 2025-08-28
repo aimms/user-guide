@@ -18,7 +18,7 @@ depth in the tree is a multiple of :math:`\kappa` where :math:`\kappa` is the va
 of -1 means "off".
 
 This option determines the number of rounds that slow cut generators should be applied. The idea is that the code
-does these cuts just a few times - less than the more usual cuts. The cut generators identified by "may be slow"
+does these cuts just a few times - less than the more usual cuts. The cut generators identified by "may be slow"
 are **Lift and Project Cuts** and **Reduce and Split Cuts**.
 
 
