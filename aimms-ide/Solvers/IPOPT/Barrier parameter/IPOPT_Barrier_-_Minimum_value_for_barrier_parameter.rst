@@ -18,15 +18,15 @@ This option specifies the lower bound on the barrier parameter in the adaptive b
 
 
 
-u is the value of the option **Relative Convergence Tolerance** ,
+u is the value of the option **Relative Convergence Tolerance**,
 
-v is the value of the option **Complementarity Tolerance** , and
+v is the value of the option **Complementarity Tolerance**, and
 
-w is the value of the option **Barrier Convergence Tolerance Factor** .
+w is the value of the option **Barrier Convergence Tolerance Factor**.
 
 
 
-This option is only used if 'Adaptive' is selected for option **Barrier Parameter Update Strategy** .
+This option is only used if 'Adaptive' is selected for option **Barrier Parameter Update Strategy**.
 
 
 

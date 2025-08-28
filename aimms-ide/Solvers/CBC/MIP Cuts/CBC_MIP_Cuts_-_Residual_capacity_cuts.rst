@@ -25,7 +25,7 @@ The value of this option determines if there should be any attempt to generate r
 
 
 
-This option is not influenced by the option **Global Cut Control** .
+This option is not influenced by the option **Global Cut Control**.
 
 
 

@@ -12,7 +12,7 @@ Barrier Thread Limit
 
 
 
-This option specifies the number of threads used by the barrier algorithm. At the default value of -1 the thread count is determined by the option **Thread Limit** .
+This option specifies the number of threads used by the barrier algorithm. At the default value of -1 the thread count is determined by the option **Thread Limit**.
 
 
 

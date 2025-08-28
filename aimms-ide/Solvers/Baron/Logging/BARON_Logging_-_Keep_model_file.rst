@@ -26,7 +26,7 @@ This option determines whether the model file, which is passed to BARON, should 
 
 **Note** 
 
-*	The model file, if any, will be placed in the 'log' directory of the project directory. Its name is determined by the option **File Name** , and its extension is '.bar'.
+*	The model file, if any, will be placed in the 'log' directory of the project directory. Its name is determined by the option **File Name**, and its extension is '.bar'.
 
 
 

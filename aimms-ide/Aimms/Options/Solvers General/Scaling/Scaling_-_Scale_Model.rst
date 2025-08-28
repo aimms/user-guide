@@ -30,13 +30,17 @@ After scaling the model, AIMMS will pass the scaled model to the solver. Solutio
 
 
 
-The scaling algorithm used by AIMMS is controlled by the option **Scaling Algorithm** . The option**List Scaling Factors**  can be used to list the scaling factors, as found by the scaling algorithm, that are used in the scaled model. The option **Constraint Listing Scaled Model**  can be activated to use the scaled model and solution for printing the constraint listing.
+The scaling algorithm used by AIMMS is controlled by the option **Scaling Algorithm**. The option**List Scaling Factors**
+can be used to list the scaling factors, as found by the scaling algorithm, that are used in the scaled model. The option
+**Constraint Listing Scaled Model** can be activated to use the scaled model and solution for printing the constraint listing.
 
 
 
 
 
-In case the same model is solved multiple times, possibly with small modifications, then the model will not be scaled again, and the scaling factors of the first solve will be applied to the consecutive solves. Any (GMP) modifications in the model will be scaled according to these scaling factors, of course.
+In case the same model is solved multiple times, possibly with small modifications, then the model will not be scaled again,
+and the scaling factors of the first solve will be applied to the consecutive solves. Any (GMP) modifications in the model
+will be scaled according to these scaling factors, of course.
 
 
 

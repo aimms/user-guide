@@ -34,7 +34,7 @@ sufficiently close to the solution, or is too infeasible, the warm-start strateg
 
 
 
-This option is currently only used for the Knitro barrier/interior-point algorithms. In this case it may also be useful to experiment with different (smaller than default) values for the initial barrier option **Initial Barrier Parameter Value** . In general, the closer the initial point is to the solution, the smaller this value should be (Knitro will try by default to initialize this to a good value when applying a warm-start strategy).
+This option is currently only used for the Knitro barrier/interior-point algorithms. In this case it may also be useful to experiment with different (smaller than default) values for the initial barrier option **Initial Barrier Parameter Value**. In general, the closer the initial point is to the solution, the smaller this value should be (Knitro will try by default to initialize this to a good value when applying a warm-start strategy).
 
 
 

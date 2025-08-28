@@ -26,7 +26,7 @@ Possible values of this option are:
 
 
 
-Annotation files can (only) be used to write the specified decomposition (of the variables) in the Benders decomposition algorithm, as controlled by the option **Benders Strategy** .
+Annotation files can (only) be used to write the specified decomposition (of the variables) in the Benders decomposition algorithm, as controlled by the option **Benders Strategy**.
 
 
 

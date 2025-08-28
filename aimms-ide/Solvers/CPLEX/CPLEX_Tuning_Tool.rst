@@ -8,7 +8,7 @@ The tuning tool looks at options to improve the solving time. If your model suff
 
 
 
-The tuning tool performs several optimization runs as it goes about its work. These optimization runs may take six to eight times longer than a normal solve. If that projected time seems too long for your purpose, then consider setting a general time limit as controlled by the general solvers option **Time Limit**  or consider setting a specific tuning time limit as controlled by the option **Tuning Time Limit** .
+The tuning tool performs several optimization runs as it goes about its work. These optimization runs may take six to eight times longer than a normal solve. If that projected time seems too long for your purpose, then consider setting a general time limit as controlled by the general solvers option **Time Limit**  or consider setting a specific tuning time limit as controlled by the option **Tuning Time Limit**.
 
 
 
@@ -74,7 +74,7 @@ The general solvers options **MIP Absolute Optimality Tolerance**  and **MIP Rel
 
 
 
-CPLEX is equipped with a few options that control the tuning process, e.g., **Tuning Display** , **Tuning Measure**  and **Tuning Repeater** .
+CPLEX is equipped with a few options that control the tuning process, e.g., **Tuning Display**, **Tuning Measure**  and **Tuning Repeater**.
 
 
 

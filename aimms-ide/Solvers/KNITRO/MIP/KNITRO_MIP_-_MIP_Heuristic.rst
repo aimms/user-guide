@@ -32,7 +32,7 @@ Setting 'None' disables heuristic search. Setting 'MPEC' implies that the heuris
 
 
 
-If a heuristic search procedure is enabled, the maximum number of iterations before starting the branch and bound procedure is specified by the option **MIP Heuristic Iteration Limit** .
+If a heuristic search procedure is enabled, the maximum number of iterations before starting the branch and bound procedure is specified by the option **MIP Heuristic Iteration Limit**.
 
 
 

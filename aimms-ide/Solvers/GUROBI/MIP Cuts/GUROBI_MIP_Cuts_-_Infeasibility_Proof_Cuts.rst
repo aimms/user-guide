@@ -24,7 +24,7 @@ This option determines whether or not to generate infeasibility proof cuts for t
 
 
 
-This option overrides option **Global Cut Control** .
+This option overrides option **Global Cut Control**.
 
 
 

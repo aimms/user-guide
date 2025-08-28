@@ -22,7 +22,7 @@ Changing this tolerance to a smaller value may result in greater numerical preci
 
 **Note** 
 
-*	For problems with quadratic constraints (QCP) see the option **Barrier Convergence Tolerance for QCP** .
+*	For problems with quadratic constraints (QCP) see the option **Barrier Convergence Tolerance for QCP**.
 
 
 

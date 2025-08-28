@@ -18,7 +18,10 @@ This option specifies whether or not the postsolve step will be skipped after a 
 
 
 
-If this option is set to 'Off' (the default) then no postsolve will be done, i.e., the value of the option **Postsolve**  is treated as 'Off''. If the value of this option is set to 'On', then a postsolve will be done according to the setting of the options **Postsolve** , **Postsolve Continuous Variables** , **Postsolve Integer Variables**  and **MIP Calculate Sensitivity Information** . Note that the postsolve step itself cannot be interrupted.
+If this option is set to 'Off' (the default) then no postsolve will be done, i.e., the value of the option **Postsolve** is
+treated as 'Off''. If the value of this option is set to 'On', then a postsolve will be done according to the setting of
+the options **Postsolve**, **Postsolve Continuous Variables**, **Postsolve Integer Variables** and
+**MIP Calculate Sensitivity Information**. Note that the postsolve step itself cannot be interrupted.
 
 
 

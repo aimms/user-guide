@@ -25,7 +25,7 @@ This option turns on (or off) the display of options that have changed from thei
 **Remark** 
 
 
-This option is only used if the CPLEX log file is created by activating one of the options **Barrier Display** , **MIP Display**  or **Simplex Display** .
+This option is only used if the CPLEX log file is created by activating one of the options **Barrier Display**, **MIP Display**  or **Simplex Display**.
 
 
 

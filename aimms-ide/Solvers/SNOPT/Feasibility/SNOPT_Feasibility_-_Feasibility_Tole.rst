@@ -28,7 +28,7 @@ If scaling is used (i.e., the value of the option **Scale Method**  is not equal
 
 
 
-In reality, SNOPT uses the feasibility tolerance for satisfying the bounds on x and s in each QP subproblem. If the sum of infeasibilities cannot be reduced to zero, the QP subproblem is declared infeasible. SNOPT is the in "elastic mode" thereafter (with only the linearized nonlinear constraints defined to be elastic). See the option **Elastic Weight** .
+In reality, SNOPT uses the feasibility tolerance for satisfying the bounds on x and s in each QP subproblem. If the sum of infeasibilities cannot be reduced to zero, the QP subproblem is declared infeasible. SNOPT is the in "elastic mode" thereafter (with only the linearized nonlinear constraints defined to be elastic). See the option **Elastic Weight**.
 
 
 

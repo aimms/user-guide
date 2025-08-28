@@ -30,7 +30,7 @@ Setting the value different from "Off" indicates that the attempt to generate Go
 
 
 
-This option overrides the option **Global Cut Control** .
+This option overrides the option **Global Cut Control**.
 
 
 

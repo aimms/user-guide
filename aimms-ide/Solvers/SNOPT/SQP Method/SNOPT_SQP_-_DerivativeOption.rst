@@ -20,7 +20,7 @@ The default value should be used whenever possible. It is the most reliable and 
 
 
 
-If the value is 'Some gradients are unknown' SNOPT will estimate the missing components of G(x) using finite differences. This could increase the total run-time substantially, and there is less assurance that an acceptable solution will be located. If the nonlinear variables are not well scaled, it may be necessary to specify a nonstandard value for the option **Difference Interval** .
+If the value is 'Some gradients are unknown' SNOPT will estimate the missing components of G(x) using finite differences. This could increase the total run-time substantially, and there is less assurance that an acceptable solution will be located. If the nonlinear variables are not well scaled, it may be necessary to specify a nonstandard value for the option **Difference Interval**.
 
 
 

@@ -24,7 +24,7 @@ This option does not apply to MIP optimization generally; it applies only to the
 
 
 
-If you are looking for a option to control the number of solutions stored in the solution pool, consider instead the solution pool capacity option **Pool Capacity** .
+If you are looking for a option to control the number of solutions stored in the solution pool, consider instead the solution pool capacity option **Pool Capacity**.
 
 
 

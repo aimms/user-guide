@@ -29,7 +29,7 @@ Setting the value different from "Off" indicates that the attempt to generate li
 
 
 
-This option is not influenced by the option **Global Cut Control** .
+This option is not influenced by the option **Global Cut Control**.
 
 
 

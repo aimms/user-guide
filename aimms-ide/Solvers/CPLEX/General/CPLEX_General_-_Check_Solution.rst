@@ -44,7 +44,7 @@ These values are used to check the reliability of the solution. If one of the va
 
 
 
-By default, if the value of this option equals 'Yes' then AIMMS will print statistics that give information about the quality of the solution. This is controlled by the option **Display Solution Statistics** . See the description of that option for more information about the above quantities.
+By default, if the value of this option equals 'Yes' then AIMMS will print statistics that give information about the quality of the solution. This is controlled by the option **Display Solution Statistics**. See the description of that option for more information about the above quantities.
 
 
 
@@ -54,7 +54,7 @@ By default, if the value of this option equals 'Yes' then AIMMS will print stati
 
 *	This option will only be effective if a solution is found by CPLEX.
 *	The basis condition number will not be calculated it the option **Memory Emphasis**  is switched on.
-*	In case of a MIP, the basis condition number will only be calculated if the postsolve has been successfully executed. This can be enforced by switching on the general solvers option **MIP Calculate Sensitivity Information** .
+*	In case of a MIP, the basis condition number will only be calculated if the postsolve has been successfully executed. This can be enforced by switching on the general solvers option **MIP Calculate Sensitivity Information**.
 *	The solution will not be checked for models with multiple objectives.
 
 

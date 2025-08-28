@@ -11,6 +11,13 @@ Calculation of Shadow Price Ranges
 For an LP problem
 
 
+.. math::
+
+   \begin{aligned}
+   \text{(P)} \quad & \text{Max} \quad && c^Tx \\
+   & \text{s.t.} \quad && Ax \leq b \\
+   & && x \geq 0
+   \end{aligned}
 
 
 .. list-table::
@@ -124,7 +131,7 @@ instead where R is defined as
 
 
 
-Here eps_rel is the value of the option **Shadow Price Range Relative Tolerance**  and eps_abs the value of **Shadow Price Range Absolute Tolerance** . When the setting of both options is 0.0 (the default) R equals D_obj.
+Here eps_rel is the value of the option **Shadow Price Range Relative Tolerance** and eps_abs the value of **Shadow Price Range Absolute Tolerance**. When the setting of both options is 0.0 (the default) R equals D_obj.
 
 
 

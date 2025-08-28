@@ -28,31 +28,27 @@ To use a HSL routine for the Linear Solver Selection the user has to do the foll
 
 
 
-1.	Download, e.g., Ipopt-3.11.0.zip from `http://www.coin-or.org/download/source/Ipopt/ <https://www.coin-or.org/download/source/Ipopt/>`_ and unzip the file.
+    1.	Download, e.g., Ipopt-3.11.0.zip from `http://www.coin-or.org/download/source/Ipopt/ <https://www.coin-or.org/download/source/Ipopt/>`_ and unzip the file.
 
-2.	The file Ipopt-3.11.0\Ipopt\MSVisualStudio\v8-ifort\libhsl\libhsl.vfproj (can be opened using a normal editor) shows which HSL .f files are needed if MA57 is used. 
+    2.	The file **Ipopt-3.11.0\\Ipopt\\MSVisualStudio\\v8-ifort\\libhsl\\libhsl.vfproj** (can be opened using a normal editor) shows which HSL .f files are needed if MA57 is used. 
 
-3.	Obtain the HSL Fortran files from `http://www.hsl.rl.ac.uk/ <https://www.hsl.rl.ac.uk/>`_ and place them in directory Ipopt-3.11.0\ThirdParty\HSL. 
+    3.	Obtain the HSL Fortran files from `http://www.hsl.rl.ac.uk/ <https://www.hsl.rl.ac.uk/>`_ and place them in directory **Ipopt-3.11.0\\ThirdParty\\HSL**. 
 
-4.	Open IpOpt-ifort.sln in Ipopt-3.11.0\Ipopt\MSVisualStudio\v8-ifort using MS Visual Studio Fortran.
+    4.	Open **IpOpt-ifort.sln** in **Ipopt-3.11.0\\Ipopt\\MSVisualStudio\\v8-ifort** using MS Visual Studio Fortran.
 
-5.	Build the libhsl project. 
+    5.	Build the libhsl project. 
 
-6.	Copy the resulting libhsl.dll to the Solvers directory of AIMMS. Alternatively, you can also place libhsl.dll into a directory which is added to the PATH environment variable on Windows or to the LD_LIBRARY_PATH search path on Linux.
-
+    6.	Copy the resulting libhsl.dll to the Solvers directory of AIMMS. Alternatively, you can also place libhsl.dll into a directory which is added to the PATH environment variable on Windows or to the LD_LIBRARY_PATH search path on Linux.
 
 
 For HSL without MA57 the instructions for step 2 and 5 are slightly different:
 
+    2a.	The file **Ipopt-3.11.0\\Ipopt\\MSVisualStudio\\v8-ifort\\libhsl-no-MA57\\libhsl-no-MA57.vfproj** (can be opened using a normal editor) shows which HSL .f files are needed if MA57 is not used. 
+
+    5a.	Build the libhsl-no-MA57 project.
 
 
-2a.	The file Ipopt-3.11.0\Ipopt\MSVisualStudio\v8-ifort\libhsl-no-MA57\libhsl-no-MA57.vfproj (can be opened using a normal editor) shows which HSL .f files are needed if MA57 is not used. 
-
-5a.	Build the libhsl-no-MA57 project.
-
-
-
-After building libhsl.dll and copying it, you can select HSL as the linear solver by using the option **Linear Solver Selection** .
+After building libhsl.dll and copying it, you can select HSL as the linear solver by using the option **Linear Solver Selection**.
 
 
 

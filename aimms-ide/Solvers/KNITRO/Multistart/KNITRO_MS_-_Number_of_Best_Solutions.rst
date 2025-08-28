@@ -24,7 +24,7 @@ the second best solution for the mathematical program 'frac1' will be send to th
 
 
 
-Each point results from a Knitro solve from a different starting point, and must satisfy the absolute and relative feasibility tolerances. Points are distinct if they differ in objective value or some component by the value of option **Solution Distance** .
+Each point results from a Knitro solve from a different starting point, and must satisfy the absolute and relative feasibility tolerances. Points are distinct if they differ in objective value or some component by the value of option **Solution Distance**.
 
 
 

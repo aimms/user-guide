@@ -23,7 +23,7 @@ Gurobi offers different modes for exploring the MIP search tree, as controlled b
 
 
 
-With the default setting ('Normal'), the MIP solver tries to find an optimal solution to the model. By setting this option to a non-default value, the MIP search will continue after the optimal solution has been found in order to find additional, high-quality solutions. With the setting of 'Find best solutions', it will find the n best solutions, where n is determined by the value of the option **Pool Size** . With a setting of 'Find additional solutions', it will try to find additional solutions, but with no guarantees about the quality of those solutions. The cost of the solve will increase with increasing values of this option.
+With the default setting ('Normal'), the MIP solver tries to find an optimal solution to the model. By setting this option to a non-default value, the MIP search will continue after the optimal solution has been found in order to find additional, high-quality solutions. With the setting of 'Find best solutions', it will find the n best solutions, where n is determined by the value of the option **Pool Size**. With a setting of 'Find additional solutions', it will try to find additional solutions, but with no guarantees about the quality of those solutions. The cost of the solve will increase with increasing values of this option.
 
 
 

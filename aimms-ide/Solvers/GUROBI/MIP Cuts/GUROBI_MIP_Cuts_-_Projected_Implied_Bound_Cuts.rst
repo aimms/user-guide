@@ -24,7 +24,7 @@ This option determines whether or not to generate projected implied bound cuts f
 
 
 
-This option overrides option **Global Cut Control** .
+This option overrides option **Global Cut Control**.
 
 
 

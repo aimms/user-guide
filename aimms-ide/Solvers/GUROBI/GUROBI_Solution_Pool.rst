@@ -62,7 +62,7 @@ One subtlety arises when considering multiple solutions for models with continuo
 
 **Optimality Gap** 
 
-The interplay between the optimality gap and multiple solutions can be a bit subtle. When using the default **Pool Search Mode** , a non-zero optimality gap indicates that you are willing to allow the MIP solver to declare a solution optimal, even though the model may have other, better solutions. The claim the solver makes upon termination is that no other solution would improve the incumbent objective by more than the optimality gap. Terminating at this point is ultimately a pragmatic choice - we'd probably rather have the true best solution, but the cost of reducing the optimality gap to zero can often be prohibitive.
+The interplay between the optimality gap and multiple solutions can be a bit subtle. When using the default **Pool Search Mode**, a non-zero optimality gap indicates that you are willing to allow the MIP solver to declare a solution optimal, even though the model may have other, better solutions. The claim the solver makes upon termination is that no other solution would improve the incumbent objective by more than the optimality gap. Terminating at this point is ultimately a pragmatic choice - we'd probably rather have the true best solution, but the cost of reducing the optimality gap to zero can often be prohibitive.
 
 
 
@@ -70,7 +70,7 @@ This pragmatic choice can produce a bit of confusion when finding multiple optim
 
 
 
-If you want to avoid this source of potential confusion, you should set the optimality gap to 0 when using setting 'Find best solutions' for the **Pool Search Mode** .
+If you want to avoid this source of potential confusion, you should set the optimality gap to 0 when using setting 'Find best solutions' for the **Pool Search Mode**.
 
 
 

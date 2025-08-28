@@ -16,11 +16,9 @@ This option determines the maximum allowable number of inner conjugate gradient 
 
 
 
--1:    Knitro automatically determines an upper bound on the number of allowable CG iterations.
-
-0:	Knitro will set an upper bound on the number of allowable CG iterations based on the problem size.	
-
-n:	At most n>0 CG iterations may be performed during one Knitro minor iteration.
+    -1:    Knitro automatically determines an upper bound on the number of allowable CG iterations.
+    0:	Knitro will set an upper bound on the number of allowable CG iterations based on the problem size.
+    *n*:	At most *n*>0 CG iterations may be performed during one Knitro minor iteration.
 
 
 

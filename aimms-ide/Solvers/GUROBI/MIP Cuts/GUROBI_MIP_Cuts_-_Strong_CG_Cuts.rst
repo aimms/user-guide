@@ -24,7 +24,7 @@ This option determines whether or not to generate Strong Chvátal-Gomory (Strong
 
 
 
-This option overrides option **Global Cut Control** .
+This option overrides option **Global Cut Control**.
 
 
 

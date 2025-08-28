@@ -14,11 +14,11 @@ Maximum value for barrier parameter
 
 
 
-This option specifies an upper bound on the barrier parameter in the adaptive barrier parameter selection mode. If this option is set, it overwrites the effect of option **Adaptive Strategy Factor Limit** .
+This option specifies an upper bound on the barrier parameter in the adaptive barrier parameter selection mode. If this option is set, it overwrites the effect of option **Adaptive Strategy Factor Limit**.
 
 
 
-This option is only used if 'Adaptive' is selected for option **Barrier Parameter Update Strategy** .
+This option is only used if 'Adaptive' is selected for option **Barrier Parameter Update Strategy**.
 
 
 

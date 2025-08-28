@@ -23,7 +23,7 @@ This option specifies whether CPLEX clones the log files of nodes during paralle
 
 
 
-The concurrent optimizer is described in the section :ref:`CPLEX_Parallel_Concurrent_Optimizer`. It can be enabled by setting the option **LP Method** . The amount of information printed to the clone log files is controlled by the options **Barrier Display**  and **Simplex Display** .
+The concurrent optimizer is described in the section :ref:`CPLEX_Parallel_Concurrent_Optimizer`. It can be enabled by setting the option **LP Method**. The amount of information printed to the clone log files is controlled by the options **Barrier Display**  and **Simplex Display**.
 
 
 

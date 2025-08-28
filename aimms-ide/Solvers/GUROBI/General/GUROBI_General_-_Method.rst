@@ -38,7 +38,7 @@ Concurrent optimization is a simple approach for exploiting multiple processors.
 
 
 
-The first concurrent thread is devoted to dual simplex, the second through fourth to a single parallel barrier solve, and the fifth to primal simplex. Additional threads are devoted to the one parallel barrier solve. Thus, for example, a concurrent LP solve using four threads would devote one thread to dual simplex and three to parallel barrier. The number of threads used by the concurrent optimizer is limited by the option **Thread Limit** .
+The first concurrent thread is devoted to dual simplex, the second through fourth to a single parallel barrier solve, and the fifth to primal simplex. Additional threads are devoted to the one parallel barrier solve. Thus, for example, a concurrent LP solve using four threads would devote one thread to dual simplex and three to parallel barrier. The number of threads used by the concurrent optimizer is limited by the option **Thread Limit**.
 
 
 

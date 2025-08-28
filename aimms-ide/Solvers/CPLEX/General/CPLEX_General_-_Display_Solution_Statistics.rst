@@ -157,7 +157,7 @@ The maximum reduced-cost infeasibility identifies a value for the optimality tol
 
 
 
-To change the optimality tolerance, set the option **Optimality** . 
+To change the optimality tolerance, set the option **Optimality**. 
 
 
 
@@ -243,7 +243,7 @@ For example, if the basis condition number at optimality is 1e+13, then a change
 
 
 
-The integer infeasibility measures the difference between the solution value of an integer variable and the nearest integer value. Ideally this difference is 0, however by default a small deviation is allowed, as controlled by the option **Integrality** . The range of this option is between 0.0 and 0.5. Its default value is 1e-5.
+The integer infeasibility measures the difference between the solution value of an integer variable and the nearest integer value. Ideally this difference is 0, however by default a small deviation is allowed, as controlled by the option **Integrality**. The range of this option is between 0.0 and 0.5. Its default value is 1e-5.
 
 
 
@@ -267,7 +267,7 @@ The duality gap measures the difference between the primal and dual objective.
 
 
 
-The CPLEX barrier optimizer stops when it finds feasible primal and dual solutions that are complementary, within some tolerance. This tolerance is controlled by the option **Barrier Convergence Tolerance** .
+The CPLEX barrier optimizer stops when it finds feasible primal and dual solutions that are complementary, within some tolerance. This tolerance is controlled by the option **Barrier Convergence Tolerance**.
 
 
 
@@ -276,7 +276,7 @@ The CPLEX barrier optimizer stops when it finds feasible primal and dual solutio
 **Note** 
 
 *	This option will only be effective if a solution is found by CPLEX.
-*	For LP problems, if the barrier algorithm is used with a crossover step, as controlled by the option **Solution Type** , then information will be displayed related to the quality of the simplex solution.
+*	For LP problems, if the barrier algorithm is used with a crossover step, as controlled by the option **Solution Type**, then information will be displayed related to the quality of the simplex solution.
 *	The solution statistics are displayed before the postsolve step is executed (if any; as controlled by the general solvers option **Postsolve** ).
 *	For MIP problems, the option **MIP Kappa**  offers a way to calculate the condition number.
 *	The solution statistics will not be displayed for models with multiple objectives.

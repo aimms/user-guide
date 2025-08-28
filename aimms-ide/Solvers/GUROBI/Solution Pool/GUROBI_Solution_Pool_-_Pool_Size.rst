@@ -12,7 +12,7 @@ Pool Size
 
 
 
-This option determines how many MIP solutions are stored. For non-default values of the option **Pool Search Mode** , this option sets a target for how many solutions to find, so larger values will impact performance.
+This option determines how many MIP solutions are stored. For non-default values of the option **Pool Search Mode**, this option sets a target for how many solutions to find, so larger values will impact performance.
 
 
 

@@ -12,7 +12,7 @@ Major Feasibility Tolerance
 
 
 
-This option specifies how accurately the nonlinear constraints should be satisfied. The default value of 1e-6 is appropriate when the linear and nonlinear constraints contain data to about that accuracy. SNOPT requires that the maximum nonlinear constraint violation, normalized by the size of the solution plus 1, is smaller than or equal to the **Major Feasibility Tolerance** .
+This option specifies how accurately the nonlinear constraints should be satisfied. The default value of 1e-6 is appropriate when the linear and nonlinear constraints contain data to about that accuracy. SNOPT requires that the maximum nonlinear constraint violation, normalized by the size of the solution plus 1, is smaller than or equal to the **Major Feasibility Tolerance**.
 
 
 

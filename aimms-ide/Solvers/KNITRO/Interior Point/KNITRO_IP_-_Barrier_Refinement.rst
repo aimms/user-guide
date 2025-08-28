@@ -12,7 +12,7 @@ Barrier Refinement
 
 
 
-This option specifies whether to try to refine the barrier solution for better precision. If enabled, once the optimality conditions are satisfied, Knitro will apply an additional refinement/postsolve phase to try to obtain more precision in the barrier solution. The effect is similar to the effect of enabling the **Crossover Iteration Limit** , but it is usually much more efficient since it does not involve switching to the Active Set algorithm. Possible values are:
+This option specifies whether to try to refine the barrier solution for better precision. If enabled, once the optimality conditions are satisfied, Knitro will apply an additional refinement/postsolve phase to try to obtain more precision in the barrier solution. The effect is similar to the effect of enabling the **Crossover Iteration Limit**, but it is usually much more efficient since it does not involve switching to the Active Set algorithm. Possible values are:
 
 
 

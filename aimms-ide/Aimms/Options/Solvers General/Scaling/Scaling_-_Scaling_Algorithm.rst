@@ -50,7 +50,10 @@ The Iterative algorithm is available for linear and nonlinear models. The Optimi
 
 
 
-At the 'Automatic' setting AIMMS will select the Iterative algorithm for a nonlinear model. For a linear model AIMMS will use the Combination algorithm but it will check the scaling score after the first step with the Optimization based algorithm; if the scaling score is below a certain threshold value (currently 500) then the second step with the Iterative algorithm will be skipped. (The scaling score is explained in the help of the option **Scale Model** .)
+At the 'Automatic' setting AIMMS will select the Iterative algorithm for a nonlinear model. For a linear model AIMMS will use
+the Combination algorithm but it will check the scaling score after the first step with the Optimization based algorithm; if
+the scaling score is below a certain threshold value (currently 500) then the second step with the Iterative algorithm
+will be skipped. (The scaling score is explained in the help of the option **Scale Model**.)
 
 
 
@@ -58,9 +61,9 @@ At the 'Automatic' setting AIMMS will select the Iterative algorithm for a nonli
 
 **Note** 
 
-*	This option is only used if the option **Scale Model**  has been switched on.
+*	This option is only used if the option **Scale Model** has been switched on.
 *	AIMMS does not scale constraint programming models nor models with complementarity constraints. Scaling is also not applied to stochastic models, the robust counterpart of a model and the dual of a model.
-*	The option**List Scaling Factors**  can be used to list the scaling factors, as found by the scaling algorithm, that are used in the scaled model.
+*	The option**List Scaling Factors** can be used to list the scaling factors, as found by the scaling algorithm, that are used in the scaled model.
 
 
 

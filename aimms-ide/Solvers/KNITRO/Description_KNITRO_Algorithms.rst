@@ -42,7 +42,7 @@ We strongly encourage you to experiment with all algorithm options as it is diff
 
 
 
-Knitro offers a crossover feature in which the interior point method switches to the active-set method near the solution, to try to get a more exact solution and provide more exact sensitivity and active-set information. The crossover procedure is controlled by the option **Crossover Iterations Limit** .
+Knitro offers a crossover feature in which the interior point method switches to the active-set method near the solution, to try to get a more exact solution and provide more exact sensitivity and active-set information. The crossover procedure is controlled by the option **Crossover Iterations Limit**.
 
 
 

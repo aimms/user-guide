@@ -30,8 +30,8 @@ The option **Progress Time Interval**  can be used to control progress reports b
 
     **Note** 
 
-*	This option, together with the option**Progress Time Interval** , also influences the responsiveness of AIMMS during a solve. If both options are set to 0 or a large value then AIMMS will become less responsive.
-*	This option is not supported by the following solvers SNOPT, MINOS, PATH, KNITRO, BARON and CP Optimizer. SNOPT, MINOS and PATH each use a solver specific option named **Solution Progress** . Progress updates by BARON, KNITRO and CP Optimizer are only based on elapsed time.
+*	This option, together with the option**Progress Time Interval**, also influences the responsiveness of AIMMS during a solve. If both options are set to 0 or a large value then AIMMS will become less responsive.
+*	This option is not supported by the following solvers SNOPT, MINOS, PATH, KNITRO, BARON and CP Optimizer. SNOPT, MINOS and PATH each use a solver specific option named **Solution Progress**. Progress updates by BARON, KNITRO and CP Optimizer are only based on elapsed time.
 
 
 

@@ -12,7 +12,7 @@ Solution Progress Tolerance
 
 
 
-The optimization will terminate when the relative change in the solution estimate is less than the value of this option for n consecutive iterations, where n is the value of the option **Solution Progress Iterations** . When using an interior-point algorithm and the barrier parameter is still large, Knitro will first try decreasing the barrier parameter before terminating.
+The optimization will terminate when the relative change in the solution estimate is less than the value of this option for n consecutive iterations, where n is the value of the option **Solution Progress Iterations**. When using an interior-point algorithm and the barrier parameter is still large, Knitro will first try decreasing the barrier parameter before terminating.
 
 
 

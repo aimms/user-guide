@@ -18,7 +18,7 @@ This option determines which feasibility relaxation to use. If the option is set
 
 
 
-If violation penalties are specified for the optimization model, AIMMS will automatically generate excess variables for the specified constraints. In the built-in approach, AIMMS will add a penalty term - for each excess variable - to the original objective. In contrast, if FeasOpt or FeasRelax is used, a minimum cost relaxation is calculated. The objective for this minimum cost relaxation can be set using the option **Feasibility Relaxation Objective** . Optionally, one can choose to optimize the original objective among the solutions that have a minimum cost relaxation. This can be set using the option **Feasibility Relaxation Optimize Original Objective** . 
+If violation penalties are specified for the optimization model, AIMMS will automatically generate excess variables for the specified constraints. In the built-in approach, AIMMS will add a penalty term - for each excess variable - to the original objective. In contrast, if FeasOpt or FeasRelax is used, a minimum cost relaxation is calculated. The objective for this minimum cost relaxation can be set using the option **Feasibility Relaxation Objective**. Optionally, one can choose to optimize the original objective among the solutions that have a minimum cost relaxation. This can be set using the option **Feasibility Relaxation Optimize Original Objective**.
 
 
 

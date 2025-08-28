@@ -24,7 +24,7 @@ This option indicates which algorithm to use to solve linear programming (LP) su
 
 
 
-This option is currently only active when using the CPLEX LP solver chosen via the option **LP Solver** .
+This option is currently only active when using the CPLEX LP solver chosen via the option **LP Solver**.
 
 
 

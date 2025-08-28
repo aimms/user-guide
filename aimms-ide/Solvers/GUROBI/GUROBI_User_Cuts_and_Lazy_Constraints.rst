@@ -31,7 +31,7 @@ The principle in common between these two pools allows the optimization algorith
 **Note** 
 
 *	The option **Lazy Constraint Mode**  determines how lazy constraints are handled by Gurobi.
-*	If the model uses lazy constraints (either through a callback or a pool) then Gurobi turns off dual reductions during preprocessing. (See the option **Dual Reductions** .)
+*	If the model uses lazy constraints (either through a callback or a pool) then Gurobi turns off dual reductions during preprocessing. (See the option **Dual Reductions**.)
 *	Indicator constraints cannot be used as user cut or lazy constraint.
 
 

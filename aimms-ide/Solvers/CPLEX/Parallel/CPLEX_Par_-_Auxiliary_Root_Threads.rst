@@ -24,7 +24,7 @@ On a system that offers N global threads, if you set this option to n, where
 
 
 
-then CPLEX uses at most n threads for auxiliary tasks and at most N-n threads to solve the root node. The number of global threads is determined by the option **Global Thread Limit** . 
+then CPLEX uses at most n threads for auxiliary tasks and at most N-n threads to solve the root node. The number of global threads is determined by the option **Global Thread Limit**. 
 
 
 

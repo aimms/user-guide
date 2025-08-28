@@ -12,7 +12,7 @@ Limit Substitutions
 
 
 
-This option can be used to limit the variable substitutions by the **Aggregator** . If the net result of a single substitution is more non-zeros than the setting of this option, the substitutions will not be made.
+This option can be used to limit the variable substitutions by the **Aggregator**. If the net result of a single substitution is more non-zeros than the setting of this option, the substitutions will not be made.
 
 
 

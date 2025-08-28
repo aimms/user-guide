@@ -26,13 +26,13 @@ The properties in the Visible Area define which part of the network you will cur
 Here you specify how you can scroll and/or zoom the visible area of the Network Object. The Network Object offers two styles for scrolling (or no scrolling/zooming at all):
 
 
-1.	**Using Navigation Buttons** , in the corners and along the sides of the object 8 buttons are displayed to scroll in the given direction.
+1.	**Using Navigation Buttons**, in the corners and along the sides of the object 8 buttons are displayed to scroll in the given direction.
 
 
-2.	**Using Scroll Bars** , a horizontal and/or a vertical scrollbar is displayed which enables the user to scroll in either direction
+2.	**Using Scroll Bars**, a horizontal and/or a vertical scrollbar is displayed which enables the user to scroll in either direction
 
 
-3.	**No Scrolling** , no scrolling controls available. The visible area is fixed and can only be changed by altering the Left, Right, Top or Bottom values programmatically. 
+3.	**No Scrolling**, no scrolling controls available. The visible area is fixed and can only be changed by altering the Left, Right, Top or Bottom values programmatically. 
 
 
 

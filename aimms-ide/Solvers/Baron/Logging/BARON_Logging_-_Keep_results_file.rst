@@ -26,7 +26,7 @@ This option determines whether the results file should be kept after the model i
 
 **Note** 
 
-*	The results file, if any, will be placed in the 'log' directory of the project directory. Its name is determined by the option **File Name** , and its extension is '_res.lst'.
+*	The results file, if any, will be placed in the 'log' directory of the project directory. Its name is determined by the option **File Name**, and its extension is '_res.lst'.
 
 
 

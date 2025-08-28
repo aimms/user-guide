@@ -58,10 +58,10 @@ A local solver might sometimes fail to find a solution and then it is not always
 by the problem being infeasible or by the solver failing to find a solution for a feasible problem. 
 The presolve algorithm may reveal inconsistent constraints and/or variable bounds and hence identify a problem as infeasible.
 
-The AIMMS presolver is switched off by default. To use it you should switch on the AIMMS general solvers option **Nonlinear Presolve** .
+The AIMMS presolver is switched off by default. To use it you should switch on the AIMMS general solvers option **Nonlinear Presolve**.
 
 Please note that, by default, Knitro uses its own presolver which is less powerful than the AIMMS presolver. 
-The Knitro presolver is controlled by the option **Presolve** .
+The Knitro presolver is controlled by the option **Presolve**.
 
 
 **Parallel solves** 

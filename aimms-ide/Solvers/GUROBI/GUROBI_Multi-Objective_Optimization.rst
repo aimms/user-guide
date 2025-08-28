@@ -80,7 +80,7 @@ Gurobi only allows you to specify one optimization direction for the whole set o
 
 **Using different option settings** 
 
-During the solution process, you may prefer that optimization problems with different priorities are solved with different option settings. Gurobi makes this possible by using parameter files, which can be activated with the option **Read Parameter File** . This way you can specify different settings for the MIP relative optimality tolerance or the time limit for each optimization pass.
+During the solution process, you may prefer that optimization problems with different priorities are solved with different option settings. Gurobi makes this possible by using parameter files, which can be activated with the option **Read Parameter File**. This way you can specify different settings for the MIP relative optimality tolerance or the time limit for each optimization pass.
 
 
 

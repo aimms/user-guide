@@ -56,7 +56,7 @@ A callback for lazy constraints can be installed by calling the AIMMS routine GM
 
 **Note** 
 
-*	If the model uses lazy constraints (either through a callback or a pool) then CPLEX turns off dual reductions during preprocessing. (See the option **Preprocessing Reduction Types** .)
+*	If the model uses lazy constraints (either through a callback or a pool) then CPLEX turns off dual reductions during preprocessing. (See the option **Preprocessing Reduction Types**.)
 *	Indicator constraints cannot be used as user cut or lazy constraint.
 
 

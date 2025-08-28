@@ -25,7 +25,7 @@ This option specifies the condition for terminating multistart. Possible values 
 
 
 
-With the default setting the multistart algorithm terminates if the number of start points tried equals the value as specified with the option **Number of Multistart Points** .
+With the default setting the multistart algorithm terminates if the number of start points tried equals the value as specified with the option **Number of Multistart Points**.
 
 
 

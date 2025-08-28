@@ -12,7 +12,7 @@ Initial Divisor Value
 
 
 
-This option sets the starting value of the model divisor, which increases until the **Maximum Divisor Value** . The larger this initial divisor value, the larger the size of the sub-model solved.
+This option sets the starting value of the model divisor, which increases until the **Maximum Divisor Value**. The larger this initial divisor value, the larger the size of the sub-model solved.
 
 
 

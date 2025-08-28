@@ -24,7 +24,7 @@ This option determines whether or not to generate zero-half cuts for the problem
 
 
 
-This option overrides option **Global Cut Control** .
+This option overrides option **Global Cut Control**.
 
 
 

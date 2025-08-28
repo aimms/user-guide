@@ -10,7 +10,7 @@ If your model is very large it can happen that there is not enough memory availa
 
 
 
-If CPLEX fails to do a postsolve due to insufficient memory available (while there was enough memory available to do the normal solve) then you might consider to turn off the postsolve by switching off the general solvers option **Postsolve** .
+If CPLEX fails to do a postsolve due to insufficient memory available (while there was enough memory available to do the normal solve) then you might consider to turn off the postsolve by switching off the general solvers option **Postsolve**.
 
 
 
@@ -34,7 +34,7 @@ If the postsolve fails then you should switch on the option **Check Solution**  
 
 
 
-One particular situation in which the postsolve is likely to fail is if your model contains unscaled infeasibilities. By default, CPLEX scales the model before it is solved (as controlled by the option **Scale** ). CPLEX then tries to find a solution that satisfies the feasibility tolerance with respect to the scaled model. (The feasibility tolerance is controlled by the option **Feasibility** .) Normally, a solution found for the scaled model will also be feasible to the original unscaled model. However, sometimes a solution found by CPLEX might not be feasible to the original model. These unscaled infeasibilities are rare, but they may occur when a problem is ill-conditioned. For example, a problem containing a row in which the coefficients have vastly different magnitude is ill-conditioned in this sense and may result in unscaled infeasibilities.
+One particular situation in which the postsolve is likely to fail is if your model contains unscaled infeasibilities. By default, CPLEX scales the model before it is solved (as controlled by the option **Scale** ). CPLEX then tries to find a solution that satisfies the feasibility tolerance with respect to the scaled model. (The feasibility tolerance is controlled by the option **Feasibility**.) Normally, a solution found for the scaled model will also be feasible to the original unscaled model. However, sometimes a solution found by CPLEX might not be feasible to the original model. These unscaled infeasibilities are rare, but they may occur when a problem is ill-conditioned. For example, a problem containing a row in which the coefficients have vastly different magnitude is ill-conditioned in this sense and may result in unscaled infeasibilities.
 
 
 

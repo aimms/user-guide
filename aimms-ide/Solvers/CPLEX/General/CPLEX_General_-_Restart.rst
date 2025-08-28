@@ -16,7 +16,7 @@ In some cases one might want to interrupt the current solve and continue it late
 
 
 
-When this option is set to "Yes", the solver will restart a problem if the solution file cpxddddd.sol exists. The number ddddd represents the current value of the option **Restart File Number** . After the solve the file cpxddddd.sol will be generated. Possible values are:
+When this option is set to "Yes", the solver will restart a problem if the solution file cpxddddd.sol exists. The number ddddd represents the current value of the option **Restart File Number**. After the solve the file cpxddddd.sol will be generated. Possible values are:
 
 
 

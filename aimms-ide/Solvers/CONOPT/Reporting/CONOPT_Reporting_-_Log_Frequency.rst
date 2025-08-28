@@ -17,7 +17,7 @@ This option determines the frequency for printing the iteration log. The iterati
 
 **Note** 
 
-*	During SLP and SQP the logging frequency is determined by the option **Log Frequency SLP and SQP** .
+*	During SLP and SQP the logging frequency is determined by the option **Log Frequency SLP and SQP**.
 
 
 

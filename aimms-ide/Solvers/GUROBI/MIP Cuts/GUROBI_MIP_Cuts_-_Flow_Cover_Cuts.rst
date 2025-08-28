@@ -24,7 +24,7 @@ This option determines whether or not to generate flow cover cuts for the proble
 
 
 
-This option overrides option **Global Cut Control** .
+This option overrides option **Global Cut Control**.
 
 
 

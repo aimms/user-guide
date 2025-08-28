@@ -24,7 +24,7 @@ This option determines whether or not to generate mixing cuts for the problem. S
 
 
 
-This option overrides option **Global Cut Control** .
+This option overrides option **Global Cut Control**.
 
 
 

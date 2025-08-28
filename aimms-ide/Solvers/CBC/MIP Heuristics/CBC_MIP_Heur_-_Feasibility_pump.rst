@@ -12,11 +12,11 @@ Feasibility pump
 
 
 
-This option determines whether to use the Feasibility Pump heuristic. This is due to Fischetti and Lodi and uses a sequence of LPs to try and get an integer feasible solution. Some fine tuning is available by the option **Feasibility Pump Passes** .
+This option determines whether to use the Feasibility Pump heuristic. This is due to Fischetti and Lodi and uses a sequence of LPs to try and get an integer feasible solution. Some fine tuning is available by the option **Feasibility Pump Passes**.
 
 
 
-With setting 'On' the Feasibility Pump heuristic is used after preprocessing. Setting 'Before' means that the Feasibility Pump heuristic is used before preprocessing if option **Heuristics**  is switched on, off otherwise. Setting 'Both' means that the Feasibility Pump heuristic is used before preprocessing if option **Heuristics**  is switched on, and during the solve. Possible values are:
+With setting 'On' the Feasibility Pump heuristic is used after preprocessing. Setting 'Before' means that the Feasibility Pump heuristic is used before preprocessing if option **Heuristics** is switched on, off otherwise. Setting 'Both' means that the Feasibility Pump heuristic is used before preprocessing if option **Heuristics**  is switched on, and during the solve. Possible values are:
 
 
 

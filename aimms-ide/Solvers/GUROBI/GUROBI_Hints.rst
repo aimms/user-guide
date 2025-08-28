@@ -46,7 +46,7 @@ In this example the hint priority for JobSchedule is set to 10.
 
 
 
-Optionally, you can also read hints from a file, as controlled by the option **Hints File** .
+Optionally, you can also read hints from a file, as controlled by the option **Hints File**.
 
 
 

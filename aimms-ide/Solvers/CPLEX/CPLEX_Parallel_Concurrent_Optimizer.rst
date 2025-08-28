@@ -11,7 +11,7 @@ In the presence of more than three threads (for example, on hardware with four o
 
 If you invoke concurrent optimization on an LP model, the concurrent optimizer checks the ratio between variables and constraints in the model. If the concurrent optimizer finds a large ratio, and if 10 or more threads are available to CPLEX, then the concurrent optimizer also invokes sifting on the LP model.
 
-The amount of threads available to the concurrent optimizer is controlled by the option **Global Thread Limit** .
+The amount of threads available to the concurrent optimizer is controlled by the option **Global Thread Limit**.
 
 
 
@@ -39,7 +39,7 @@ If this apparent wait during the race between concurrent optimizers poses a prob
 
 
 *   Use opportunistic mode, rather than the default deterministic mode. To do so, change the setting of the **Parallel Mode**  option.
-*   Set the optimizer that consistently solves your model first as the starting algorithm in your application. To do so, set the option appropriate for your type of model: **LP Method**  or **MIP Start Algorithm** .
+*   Set the optimizer that consistently solves your model first as the starting algorithm in your application. To do so, set the option appropriate for your type of model: **LP Method**  or **MIP Start Algorithm**.
 
 
 

@@ -38,7 +38,7 @@ When the value of this option is 'Nonbasic', CPLEX seeks a pair of primal-dual s
 **Note** 
 
 *	If the setting 'Nonbasic' is chosen, sensitivity information for objective coefficient ranges for variables and right-hand-side ranges for constraints will not be available because a basic solution is required to calculate those ranges. Also, the sensitivity information for value ranges for variables and shadow price ranges for constraints will be meaningless.
-*	If CPLEX uses the barrier optimizer, as controlled by the option **LP Method** , then a crossover is performed at the end of a barrier optimization. The option **Barrier Crossover Algorithm**  determines which algorithm CPLEX will use for the crossover.
+*	If CPLEX uses the barrier optimizer, as controlled by the option **LP Method**, then a crossover is performed at the end of a barrier optimization. The option **Barrier Crossover Algorithm**  determines which algorithm CPLEX will use for the crossover.
 
 
 

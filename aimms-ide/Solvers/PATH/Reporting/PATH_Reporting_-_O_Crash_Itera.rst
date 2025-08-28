@@ -12,7 +12,7 @@ Output Crash Iterations
 
 
 
-If the value of this option is set to 'Yes' (default) and the option **Create Status File**  is activated, PATH writes information about crash iterations to the status file. The frequency of logging is determined by the option **Output Crash Iterations Frequency** . Possible values are:
+If the value of this option is set to 'Yes' (default) and the option **Create Status File**  is activated, PATH writes information about crash iterations to the status file. The frequency of logging is determined by the option **Output Crash Iterations Frequency**. Possible values are:
 
 
 

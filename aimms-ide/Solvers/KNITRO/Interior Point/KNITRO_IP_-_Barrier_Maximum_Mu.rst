@@ -12,7 +12,7 @@ Barrier Maximum Mu
 
 
 
-This option specifies the maximum allowable value for the barrier parameter mu (m) used with barrier algorithms. 
+This option specifies the maximum allowable value for the barrier parameter mu (:math:`\mu`) used with barrier algorithms. 
 
 
 

@@ -8,7 +8,7 @@ Troubleshooting
 
 **CONOPT returns (locally) infeasible** 
 
-If CONOPT reports that the model is 'locally infeasible' it can be that the model is really infeasible or that CONOPT fails to solve the (feasible) model for some reason. You should first use the AIMMS Nonlinear Presolver because it can often detect whether a model is really infeasible and it can give additional information that might help you understand why the model is infeasible. To do so you should switch on the general solvers option **Nonlinear Presolve** . To print the infeasibility analysis to the listing file you should also switch on the general solvers option **Display Infeasibility Analysis** .
+If CONOPT reports that the model is 'locally infeasible' it can be that the model is really infeasible or that CONOPT fails to solve the (feasible) model for some reason. You should first use the AIMMS Nonlinear Presolver because it can often detect whether a model is really infeasible and it can give additional information that might help you understand why the model is infeasible. To do so you should switch on the general solvers option **Nonlinear Presolve**. To print the infeasibility analysis to the listing file you should also switch on the general solvers option **Display Infeasibility Analysis**.
 
 
 
@@ -81,7 +81,7 @@ then CONOPT might show the third error message if X and Y are close to 0. To rep
 
 
 *   Scale the constraint. In the example you could divide all coefficients by 1000 to get the definition 1.0e-3 * X + 1.0e-3 * Y <= 1.0e5.
-*   Increase the value of the option **Maximal Solution of a Variable** . This should only be done if the other suggestion fails.
+*   Increase the value of the option **Maximal Solution of a Variable**. This should only be done if the other suggestion fails.
 
 
 

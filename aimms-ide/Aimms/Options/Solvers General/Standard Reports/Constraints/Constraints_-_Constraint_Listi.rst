@@ -28,7 +28,7 @@ This option controls the frequency with which a constraint listing is produced. 
 
 **Note** 
 
-*	By default AIMMS will suppress the writing of the constraint listing for encrypted AIMMS projects; see the option **Suppress Listing File Encrypted Project** .
+*	By default AIMMS will suppress the writing of the constraint listing for encrypted AIMMS projects; see the option **Suppress Listing File Encrypted Project**.
 
 
 

@@ -14,7 +14,8 @@ Slater Condition Tolerance
 
 
 
-This tolerance specifies the feasibility tolerance for the problem that is solved to check the regularity conditions for the uncertainty set, as controlled by the option **Slater Condition Check** .
+This tolerance specifies the feasibility tolerance for the problem that is solved to check the regularity
+conditions for the uncertainty set, as controlled by the option **Slater Condition Check**.
 
 
 

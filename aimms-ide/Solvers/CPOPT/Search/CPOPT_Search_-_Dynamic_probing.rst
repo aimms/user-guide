@@ -23,7 +23,7 @@ This option controls probing carried out during search. Probing can be useful on
 
 
 
-The strength of probing can be defined by option **Dynamic Probing Strength** . Dynamic probing only has an effect if option **Search Type**  equals 'Restart', on problems without interval variables.
+The strength of probing can be defined by option **Dynamic Probing Strength**. Dynamic probing only has an effect if option **Search Type**  equals 'Restart', on problems without interval variables.
 
 
 

@@ -6,7 +6,7 @@ Troubleshooting
 
 **IPOPT does not solve model** 
 
-If IPOPT does not solve the model then you should enable printing of the status file by switching on the option **Status File** . The status file usually contains useful information explaining why IPOPT could not solve the model.
+If IPOPT does not solve the model then you should enable printing of the status file by switching on the option **Status File**. The status file usually contains useful information explaining why IPOPT could not solve the model.
 
 
 

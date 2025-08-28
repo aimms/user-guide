@@ -14,7 +14,7 @@ Acceptable relative convergence tolerance
 
 
 
-This option determines which (scaled) overall optimality error is considered to be "acceptable." There are two levels of termination criteria. If the usual "desired" tolerances (see the options **Relative Convergence Tolerance** , **Dual Infeasibility Tolerance** , etc) are satisfied at an iteration, the algorithm immediately terminates with a success message. On the other hand, if the algorithm encounters a certain number of iterations in a row that are considered "acceptable" and this number equals to value of the option **Maximum Number of Acceptable Iterations** , it will terminate before the desired convergence tolerance is met. This is useful in cases where the algorithm might not be able to achieve the "desired" level of accuracy.
+This option determines which (scaled) overall optimality error is considered to be "acceptable." There are two levels of termination criteria. If the usual "desired" tolerances (see the options **Relative Convergence Tolerance**, **Dual Infeasibility Tolerance**, etc) are satisfied at an iteration, the algorithm immediately terminates with a success message. On the other hand, if the algorithm encounters a certain number of iterations in a row that are considered "acceptable" and this number equals to value of the option **Maximum Number of Acceptable Iterations**, it will terminate before the desired convergence tolerance is met. This is useful in cases where the algorithm might not be able to achieve the "desired" level of accuracy.
 
 
 

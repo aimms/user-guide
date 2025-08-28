@@ -24,7 +24,7 @@ This option determines whether or not to generate implied bound cuts for the pro
 
 
 
-This option overrides option **Global Cut Control** .
+This option overrides option **Global Cut Control**.
 
 
 

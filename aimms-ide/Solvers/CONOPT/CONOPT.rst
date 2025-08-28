@@ -98,7 +98,7 @@ The presolve algorithm may reveal inconsistent constraints and/or variable bound
 
 
 The AIMMS presolve algorithm is switched off by default. 
-To use it you should switch on the AIMMS general solvers option **Nonlinear Presolve** .
+To use it you should switch on the AIMMS general solvers option **Nonlinear Presolve**.
 
 
 

@@ -11,7 +11,7 @@ The solution pool stores multiple solutions to a mixed integer programming (MIP)
 Furthermore, you can use the solution pool and tools associated with it to explore and evaluate alternative solutions in a variety of these:
 
 
-*   You can collect solutions within a given percentage of the optimal solution. To do so, apply the solution pool gap options **Pool Absolute Objective Gap**  or **Pool Relative Objective Gap** .
+*   You can collect solutions within a given percentage of the optimal solution. To do so, apply the solution pool gap options **Pool Absolute Objective Gap**  or **Pool Relative Objective Gap**.
 
 
 *   You can collect a set of diverse solutions. To do so, use the option **Pool Replacement Strategy**  to set the solution pool replacement strategy to 'Diverse solutions'. In order to control the diversity of solutions even more finely, you can apply a diversity filter, as explained in :ref:`CPLEX_Filters`.
@@ -30,15 +30,15 @@ The option **Do Populate**  should be switched on before a normal solve statemen
 
 
 
-The amount of preparation in the first phase and the intensity of exploration in the second phase are controlled by the solution pool intensity option **Pool Intensity** .
+The amount of preparation in the first phase and the intensity of exploration in the second phase are controlled by the solution pool intensity option **Pool Intensity**.
 
 Optimality is not a stopping criterion for the populate algorithm. Even if the optimality gap is zero, this routine will still try to find alternative solutions. The stopping criteria for the populate algorithm are these:
 
 
 *   The option **Population Limit**  controls how many solutions are generated before stopping. Its default value is 20. 
-*   The time limit, controlled by the general solvers option **Time Limit** , as in standard MIP optimization.
-*   The populate time limit for the second phase, controlled by the option **Populate Time Limit** .
-*   The node limit, controlled by the option **Maximal Number of Nodes** , as in standard MIP optimization. 
+*   The time limit, controlled by the general solvers option **Time Limit**, as in standard MIP optimization.
+*   The populate time limit for the second phase, controlled by the option **Populate Time Limit**.
+*   The node limit, controlled by the option **Maximal Number of Nodes**, as in standard MIP optimization. 
 *   In the absence of other stopping criteria, the populate algorithm stops when it cannot enumerate any more solutions. In particular, if the user specifies an objective tolerance with the relative or absolute solution pool gap options, **Pool Relative Objective Gap**  and **Pool Absolute Objective Gap**  respectively, the populate algorithm stops if it cannot enumerate any more solutions within the specified objective tolerance. There may exist additional solutions that satisfy the specified objective tolerance; depending on the solution pool intensity option, the populate algorithm may or may not enumerate all of them; according to certain settings of the solution pool intensity option, the populate algorithm may stop when it has enumerated a subset of additional solutions satisfying the specified objective tolerance. 
 
 

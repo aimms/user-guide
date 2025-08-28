@@ -28,7 +28,7 @@ Failure-directed search assumes that there is no (better) solution or that such 
 
 
 
-When this option is switched on then CP Optimizer starts failure-directed search when other search strategies are (no longer) successful and when the memory necessary for the search does not exceed the value set by the option **Failure Directed Search Memory Limit** .
+When this option is switched on then CP Optimizer starts failure-directed search when other search strategies are (no longer) successful and when the memory necessary for the search does not exceed the value set by the option **Failure Directed Search Memory Limit**.
 
 
 

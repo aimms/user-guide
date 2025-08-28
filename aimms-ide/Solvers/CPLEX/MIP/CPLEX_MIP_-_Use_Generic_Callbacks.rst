@@ -46,7 +46,7 @@ The usage of generic callback has several benefits:
 
 
 
-*   It is compatible with dynamic search, as controlled by the option **MIP Search Strategy** .
+*   It is compatible with dynamic search, as controlled by the option **MIP Search Strategy**.
 *   It does not require disabling any MIP features. 
 *   It monitors progress as well as guides the search. 
 *   It does not implicitly change the number of threads that CPLEX uses (which is controlled by the option **Global Thread Limit** ).

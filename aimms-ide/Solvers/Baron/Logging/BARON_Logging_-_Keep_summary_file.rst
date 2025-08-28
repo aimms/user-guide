@@ -26,7 +26,7 @@ This option determines whether the summary file should be kept after the model i
 
 **Note** 
 
-*	The summary file, if any, will be placed in the 'log' directory of the project directory. Its name is determined by the option **File Name** , and its extension is '_sum.lst'.
+*	The summary file, if any, will be placed in the 'log' directory of the project directory. Its name is determined by the option **File Name**, and its extension is '_sum.lst'.
 *	The general solvers option **Progress Time Interval**  influences the amount of logging to the summary file. If it is set to 0 or to a large value then logging is done less frequent.
 
 

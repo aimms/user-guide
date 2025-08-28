@@ -22,7 +22,7 @@ When this option is switched on, a decomposition file is generated containing th
 
 
 
-Decomposition files are written only if one of the options **LP File** , **MPS**  or **Sav File**  is set to 'At the first solve' (in which case a decomposition file is written for the first solve) or 'At every solve' (in which case decomposition files for every solve are written).
+Decomposition files are written only if one of the options **LP File**, **MPS**  or **Sav File**  is set to 'At the first solve' (in which case a decomposition file is written for the first solve) or 'At every solve' (in which case decomposition files for every solve are written).
 
 
 

@@ -12,14 +12,13 @@ Conjugate Gradient Memory Limit
 
 
 
-This option specifies the amount of nonzero elements per column of the Hessian of the Lagrangian which are retained when computing the incomplete Cholesky preconditioner, as controlled by the option **Conjugate Gradient Preconditioner** . Possible values are: 
+This option specifies the amount of nonzero elements per column of the Hessian of the Lagrangian which are retained when
+computing the incomplete Cholesky preconditioner, as controlled by the option **Conjugate Gradient Preconditioner**.
+Possible values are: 
+
+    *n*:	At most *n* nonzero elements per column.
 
 
-
-n:	At most n nonzero elements per column.
-
-
-
-    **Learn more about** 
+**Learn more about**
 
 *	:ref:`option-KNITRO-conjugate_gradient_preconditioner`  

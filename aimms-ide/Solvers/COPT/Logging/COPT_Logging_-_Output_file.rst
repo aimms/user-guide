@@ -31,7 +31,7 @@ The logging information is written to the output file only if the general solver
 
 
 
-There is no difference between settings 'All' and 'Remark' for option **Solver Listing Messages** , except that with setting 'All' also information is logged for LP problems solved while calculating shadow price ranges for constraints or value ranges for variables; see the option **Sensitivity Method** .
+There is no difference between settings 'All' and 'Remark' for option **Solver Listing Messages**, except that with setting 'All' also information is logged for LP problems solved while calculating shadow price ranges for constraints or value ranges for variables; see the option **Sensitivity Method**.
 
 
 

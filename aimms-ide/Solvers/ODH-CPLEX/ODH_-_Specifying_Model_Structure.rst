@@ -20,7 +20,7 @@ You can specify a decomposition yourself by assigning a variable to a different 
 
 
 
-The automatic decomposition heuristic divides the model up into parts, using an **Initial Divisor Value** . Initially this is a number not less than 2 and it is increased as the search progresses. When no improved solution is found after a number, **Maximum Divisor Repeats** , of attempts with the maximum interval divisor, **Maximum Divisor Value** , the program terminates. Default values are provided for **Maximum Divisor Repeats**  and **Maximum Divisor Value** , so these do not have to be specified by the user.
+The automatic decomposition heuristic divides the model up into parts, using an **Initial Divisor Value**. Initially this is a number not less than 2 and it is increased as the search progresses. When no improved solution is found after a number, **Maximum Divisor Repeats**, of attempts with the maximum interval divisor, **Maximum Divisor Value**, the program terminates. Default values are provided for **Maximum Divisor Repeats**  and **Maximum Divisor Value**, so these do not have to be specified by the user.
 
 
 

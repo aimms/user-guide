@@ -12,7 +12,7 @@ First Feasible Heuristic Shift
 
 
 
-This option specifies variable shifting in found solutions by the **First Feasible Heuristic** . Possible values are:
+This option specifies variable shifting in found solutions by the **First Feasible Heuristic**. Possible values are:
 
 
 

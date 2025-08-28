@@ -16,7 +16,7 @@ This option specifies an upper limit on the amount of central memory, in megabyt
 
 
 
-These actions are defined by the option **Node File** , which controls how CPLEX behaves when specifying this limit.
+These actions are defined by the option **Node File**, which controls how CPLEX behaves when specifying this limit.
 
 
 

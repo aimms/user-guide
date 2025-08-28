@@ -32,7 +32,7 @@ For setting 'Hybrid' the solver is chosen depending on the particular linear sys
 
 
 
-The Intel MKL PARDISO solver can run in parallel by using the option **Number of Linear System Threads** . It can run out-of-core by using the option **Linear Solver Out of Core** .
+The Intel MKL PARDISO solver can run in parallel by using the option **Number of Linear System Threads**. It can run out-of-core by using the option **Linear Solver Out of Core**.
 
 
 

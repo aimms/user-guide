@@ -38,7 +38,9 @@ When Stretch/Shrink to Rectangle is chosen, you can keep the original image rati
 **Colors** 
 
 
-This property defines the colors of the image in the picture object. You can change the intensity of the colors by moving the **Intensity**  slider more to Light or Dark. To make the image transparent, you can check **Use Left-Bottom Pixel as Transparent Color** . This checkbox is only meant for images that do not already contain transparency itself (e.g. not for .ico files).
+This property defines the colors of the image in the picture object. You can change the intensity of the colors by moving the **Intensity**
+slider more to Light or Dark. To make the image transparent, you can check **Use Left-Bottom Pixel as Transparent Color**.
+This checkbox is only meant for images that do not already contain transparency itself (e.g. not for .ico files).
 
 
 

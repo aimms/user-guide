@@ -11,7 +11,7 @@ Absolute Pivot Tolerance Nonlinear Elements
 
 
 
-This option specifies the smallest pivot that can be used for nonlinear or variable Jacobian elements during the pre-triangular solve. The pivot tolerance for linear or constant Jacobian elements is determined by the option **Absolute Pivot Tolerance** . The value of this option cannot be less than the **Absolute Pivot Tolerance** .
+This option specifies the smallest pivot that can be used for nonlinear or variable Jacobian elements during the pre-triangular solve. The pivot tolerance for linear or constant Jacobian elements is determined by the option **Absolute Pivot Tolerance**. The value of this option cannot be less than the **Absolute Pivot Tolerance**.
 
 
 

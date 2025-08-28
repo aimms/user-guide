@@ -8,7 +8,7 @@ Improving MINLP Performance
 
 **Presolving** 
 
-One way of improving the performance of BARON when solving a MINLP problem is by switching on the AIMMS nonlinear presolve algorithm as controlled by the general solvers option **Nonlinear Presolve** . The nonlinear presolver can reduce the size of the problem and tighten the variable bounds which might help BARON to solve nonlinear problems faster. It might help to increase the amount of probing done by the nonlinear presolver; this is controlled by the general solvers option **MINLP Probing**.
+One way of improving the performance of BARON when solving a MINLP problem is by switching on the AIMMS nonlinear presolve algorithm as controlled by the general solvers option **Nonlinear Presolve**. The nonlinear presolver can reduce the size of the problem and tighten the variable bounds which might help BARON to solve nonlinear problems faster. It might help to increase the amount of probing done by the nonlinear presolver; this is controlled by the general solvers option **MINLP Probing**.
 
 
 

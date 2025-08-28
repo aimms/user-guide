@@ -16,7 +16,7 @@ When the option **Search Type**  is set to 'Restart', a depth-first search is re
 
 
 
-The initial fail limit can be controlled with the option **Restart Failure Limit** . 
+The initial fail limit can be controlled with the option **Restart Failure Limit**. 
 
 
 

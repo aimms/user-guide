@@ -14,7 +14,7 @@ Acceptable complementarity tolerance
 
 
 
-This option specifies the acceptable absolute tolerance on the complementarity. "Acceptable" termination requires that the max-norm of the (unscaled) complementarity is less than this threshold; see also the option **Acceptable Relative Convergence Tolerance** .
+This option specifies the acceptable absolute tolerance on the complementarity. "Acceptable" termination requires that the max-norm of the (unscaled) complementarity is less than this threshold; see also the option **Acceptable Relative Convergence Tolerance**.
 
 
 

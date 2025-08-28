@@ -12,15 +12,19 @@ Insufficient progress termination
 
 
 
-Users have the option to request BARON to terminate if insufficient progress is made over δt consecutive seconds where δt is specified by the option **Insufficient Progress Time** .
+Users have the option to request BARON to terminate if insufficient progress is made over :math:`\delta_t` consecutive
+seconds where :math:`\delta_t` is specified by the option **Insufficient Progress Time**.
 
 
 
-Progress is measured using the absolute and relative improvement thresholds δa and δr as specified by the options **Absolute Improvement Tolerance**  and **Relative Improvement Tolerance**  respectively.
+Progress is measured using the absolute and relative improvement thresholds :math:`\delta_a` and :math:`\delta_r` as specified by the options
+**Absolute Improvement Tolerance** and **Relative Improvement Tolerance** respectively.
 
 
 
-Termination will occur if, over a period of δt consecutive seconds, the value of the best solution found by BARON is not improved by at least an absolute amount δa or an amount equal to δr times the value of the incumbent at time t−δt.
+Termination will occur if, over a period of :math:`\delta_t` consecutive seconds, the value of the best solution found
+by BARON is not improved by at least an absolute amount :math:`\delta_a` or an amount equal to :math:`\delta_r` times the value
+of the incumbent at time :math:`t - \delta_t`.
 
 
 

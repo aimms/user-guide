@@ -36,8 +36,8 @@ The logging information is written to the AIMMS message window if the general so
 
 **Note** 
 
-*	By default only logging for the ODH engine will be printed in the status file. You can also enable CPLEX logging in this status file by setting the option **MIP Display** .
-*	It is not possible to copy the ODH-CPLEX logging information to the listing file by using the general solvers option **Solver Listing** .
+*	By default only logging for the ODH engine will be printed in the status file. You can also enable CPLEX logging in this status file by setting the option **MIP Display**.
+*	It is not possible to copy the ODH-CPLEX logging information to the listing file by using the general solvers option **Solver Listing**.
 
 
 

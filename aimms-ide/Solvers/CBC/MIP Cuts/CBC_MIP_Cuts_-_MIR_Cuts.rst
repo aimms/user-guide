@@ -25,7 +25,7 @@ The value of this option determines if there should be any attempt to generate M
 
 
 
-This option overrides the option **Global Cut Control** .
+This option overrides the option **Global Cut Control**.
 
 
 

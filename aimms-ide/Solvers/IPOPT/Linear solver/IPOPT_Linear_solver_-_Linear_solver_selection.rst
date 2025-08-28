@@ -35,13 +35,13 @@ By default, IPOPT in AIMMS only supports the public domain solver MUMPS. Some pu
 
 
 
-P. R. Amestoy, I. S. Duff, J. Koster and J.-Y. L'Excellent, **A fully asynchronous multifrontal solver using distributed dynamic scheduling** , SIAM Journal of Matrix Analysis and Applications, Vol 23, No 1, pp 15-41 (2001). 
+P. R. Amestoy, I. S. Duff, J. Koster and J.-Y. L'Excellent, **A fully asynchronous multifrontal solver using distributed dynamic scheduling**, SIAM Journal of Matrix Analysis and Applications, Vol 23, No 1, pp 15-41 (2001). 
 
 
 
 
 
-P. R. Amestoy and A. Guermouche and J.-Y. L'Excellent and S. Pralet, **Hybrid scheduling for the parallel solution of linear systems** , Parallel Computing, Vol 32 (2), pp 136-156 (2006). 
+P. R. Amestoy and A. Guermouche and J.-Y. L'Excellent and S. Pralet, **Hybrid scheduling for the parallel solution of linear systems**, Parallel Computing, Vol 32 (2), pp 136-156 (2006). 
 
 
 

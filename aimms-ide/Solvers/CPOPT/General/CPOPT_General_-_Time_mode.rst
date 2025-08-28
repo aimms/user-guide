@@ -12,7 +12,7 @@ Time mode
 
 
 
-This option defines how time is measured in CP Optimizer. CP Optimizer uses time for both display purposes and for limiting the search via the general solvers option **Time Limit** . Note that when multiple processors are available and the number of workers is greater than one, then the CPU time can be greater than the elapsed time by a factor up to the number of workers.
+This option defines how time is measured in CP Optimizer. CP Optimizer uses time for both display purposes and for limiting the search via the general solvers option **Time Limit**. Note that when multiple processors are available and the number of workers is greater than one, then the CPU time can be greater than the elapsed time by a factor up to the number of workers.
 
 
 

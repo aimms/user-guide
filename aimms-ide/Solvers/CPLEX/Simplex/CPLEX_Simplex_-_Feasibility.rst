@@ -23,7 +23,7 @@ This option also controls indirectly the maximum constraint violation as it cont
 **Note** 
 
 *	When solving a MIP problem, CPLEX can also falsely conclude that a problem is infeasible if the option **Integrality**  is set too low.
-*	When solving a MIP problem, CPLEX no longer automatically resets the value of this option to be less than or equal to the value of the option **Integrality** .
+*	When solving a MIP problem, CPLEX no longer automatically resets the value of this option to be less than or equal to the value of the option **Integrality**.
 
 
 

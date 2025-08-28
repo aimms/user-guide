@@ -45,8 +45,8 @@ This option specifies what happens when, during execution, the range of a for lo
 
 **Note** 
 
-*	This option is a run time check which complements the compile time check **Warning Adapting Range For Loop** .
-*	With the option **Maximal Number of Warnings Reported**  you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	This option is a run time check which complements the compile time check **Warning Adapting Range For Loop**.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

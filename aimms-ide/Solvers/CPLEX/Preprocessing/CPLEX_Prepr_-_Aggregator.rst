@@ -24,7 +24,7 @@ n:	n aggregations
 
 
 
-Another option, which affects only the aggregator, is**Limit Substitutions** . Occasionally the substitutions made by the aggregator will increase matrix density and thus make each iteration too expensive to be advantageous. In such cases, try lowering **Limit Substitutions**  from its default value of 10. CPLEX may make fewer substitutions as a consequence, and the resulting problem will be less dense.
+Another option, which affects only the aggregator, is**Limit Substitutions**. Occasionally the substitutions made by the aggregator will increase matrix density and thus make each iteration too expensive to be advantageous. In such cases, try lowering **Limit Substitutions**  from its default value of 10. CPLEX may make fewer substitutions as a consequence, and the resulting problem will be less dense.
 
 
 

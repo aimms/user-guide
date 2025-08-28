@@ -24,7 +24,7 @@ The value of this option determines if there should be an attempt to generate Re
 
 
 
-This option overrides option **Global Cut Control** .
+This option overrides option **Global Cut Control**.
 
 
 

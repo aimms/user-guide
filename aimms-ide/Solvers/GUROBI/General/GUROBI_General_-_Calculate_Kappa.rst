@@ -35,7 +35,7 @@ Setting 'Yes' calculates a quick estimate of the condition number. Setting 'Exac
 
 
 
-The basis condition number will only be calculated for LP and RMIP models, and during the postsolve of a MIP model which can be enforced by switching on the general solvers option **MIP Calculate Sensitivity Information** .
+The basis condition number will only be calculated for LP and RMIP models, and during the postsolve of a MIP model which can be enforced by switching on the general solvers option **MIP Calculate Sensitivity Information**.
 
 
 

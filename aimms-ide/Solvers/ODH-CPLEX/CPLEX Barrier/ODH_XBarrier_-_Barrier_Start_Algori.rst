@@ -12,7 +12,7 @@ Barrier Start Algorithm
 
 
 
-This option sets the algorithm to be used to compute the initial starting point for the Barrier Solver. The default starting point is satisfactory for most problems. Other starting points may provide better performance for certain problems, or provide better convergence properties for the barrier algorithm. Since the default starting point is tuned for primal problems, using other starting points may be worthwhile in conjunction with the option **Presolve Pass** . Possible values are:
+This option sets the algorithm to be used to compute the initial starting point for the Barrier Solver. The default starting point is satisfactory for most problems. Other starting points may provide better performance for certain problems, or provide better convergence properties for the barrier algorithm. Since the default starting point is tuned for primal problems, using other starting points may be worthwhile in conjunction with the option **Presolve Pass**. Possible values are:
 
 
 

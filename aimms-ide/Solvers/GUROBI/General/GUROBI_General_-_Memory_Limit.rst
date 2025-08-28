@@ -16,7 +16,7 @@ This option limits the total amount of memory (in GB, i.e., 109 bytes) available
 
 
 
-Note that it is not possible to retrieve solution information after an error termination. Thus, the behavior of this option is different from that of the option **Soft Memory Limit** , where if the solver will terminate then solution information will still be available.
+Note that it is not possible to retrieve solution information after an error termination. Thus, the behavior of this option is different from that of the option **Soft Memory Limit**, where if the solver will terminate then solution information will still be available.
 
 
 

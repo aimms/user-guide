@@ -24,7 +24,9 @@ This option controls whether or not writing of the constraint and solution listi
 
 
 
-By default AIMMS will suppress the writing of the constraint and solution listing and the IIS for encrypted AIMMS projects. The constraint and solution listing are controlled by the options **Constraint Listing**  and **Solution Listing**  respectively. Printing of the IIS is controlled by the option **Infeasibility Finder** .
+By default AIMMS will suppress the writing of the constraint and solution listing and the IIS for encrypted AIMMS projects.
+The constraint and solution listing are controlled by the options **Constraint Listing** and **Solution Listing** respectively.
+Printing of the IIS is controlled by the option **Infeasibility Finder**.
 
 
 
@@ -33,7 +35,7 @@ By default AIMMS will suppress the writing of the constraint and solution listin
 **Note** 
 
 *	You should switch off this option if you want to print the constraint or solution listing or IIS in an end-user project (because end-user projects are always encrypted).
-*	This option also influences the option **Solver Column Row Mapping** .
+*	This option also influences the option **Solver Column Row Mapping**.
 
 
 

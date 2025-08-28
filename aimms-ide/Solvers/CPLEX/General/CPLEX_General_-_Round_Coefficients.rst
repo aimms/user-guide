@@ -22,7 +22,7 @@ Coefficients like 10.99999999 may arise as round-off errors if the matrix coeffi
 
 **Note** 
 
-*	Rounding of coefficients close to 0 is controlled by the option **Cleanup C** **oefficients** .
+*	Rounding of coefficients close to 0 is controlled by the option **Cleanup C** **oefficients**.
 
 
 

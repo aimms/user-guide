@@ -18,7 +18,7 @@ This option specifies the maximum number of search steps during the direct searc
 
 
 
-This option is only used if 'Quality function' is selected for option **Adaptive Strategy Oracle** .
+This option is only used if 'Quality function' is selected for option **Adaptive Strategy Oracle**.
 
 
 

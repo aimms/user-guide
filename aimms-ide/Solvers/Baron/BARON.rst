@@ -37,61 +37,94 @@ The problem is called a nonlinear programming (NLP) problem if there are no inte
 
 
 
-The development of the BARON global optimization system began in the early 1990s in an effort to integrate constraint programming and optimization techniques within the branch-and-bound framework for the global optimization of nonconvex nonlinear and mixed-integer nonlinear programs. The approach relies on constraint propagation, interval analysis, and duality to draw inferences regarding ranges of integer and continuous variables in an effort to expedite the traditional branch-and-bound algorithm for global optimization problems. Because considerable emphasis is placed on the reduction of variable bounds, the overall methodology is referred to as branch-and-reduce.
+The development of the BARON global optimization system began in the early 1990s in an effort to integrate constraint
+programming and optimization techniques within the branch-and-bound framework for the global optimization of nonconvex
+nonlinear and mixed-integer nonlinear programs. The approach relies on constraint propagation, interval analysis, and
+duality to draw inferences regarding ranges of integer and continuous variables in an effort to expedite the traditional
+branch-and-bound algorithm for global optimization problems. Because considerable emphasis is placed on the reduction
+of variable bounds, the overall methodology is referred to as branch-and-reduce.
 
 
 
-While traditional NLP and MINLP algorithms are guaranteed to converge only under certain convexity assumptions, BARON guarantees to provide global optima under fairly general assumptions. These include the availability of finite lower and upper bounds on the variables and their expressions in the NLP or MINLP to be solved.
+While traditional NLP and MINLP algorithms are guaranteed to converge only under certain convexity assumptions, BARON
+guarantees to provide global optima under fairly general assumptions. These include the availability of finite lower
+and upper bounds on the variables and their expressions in the NLP or MINLP to be solved.
 
 
 
-BARON requires that all nonlinear variables and expressions in the mathematical program are bounded from below and above. It is important that the user provides finite lower and upper bounds on all variables. Providing finite bounds on the variables does not guarantee finite bounds on the nonlinear expressions in the model. For instance, consider the term :math:`1/x` for :math:`x` in [0,1], which has finite lower and upper bounds, but is unbounded. It is important to provide bounds for the variables such that all expressions have finite values.
+BARON requires that all nonlinear variables and expressions in the mathematical program are bounded from below and above.
+It is important that the user provides finite lower and upper bounds on all variables. Providing finite bounds on the
+variables does not guarantee finite bounds on the nonlinear expressions in the model. For instance, consider the term
+:math:`1/x` for :math:`x` in [0,1], which has finite lower and upper bounds, but is unbounded. It is important to provide
+bounds for the variables such that all expressions have finite values.
 
 
 
-If the user does not include variable bounds that guarantee that all expressions have finite values, BARON's preprocessor will attempt to infer appropriate bounds from problem constraints. If this step fails, global optimality of the solutions provided is not guaranteed. Occasionally, because of the lack of bounds no numerically stable lower bounding problems can be constructed, in which case BARON may terminate.
+If the user does not include variable bounds that guarantee that all expressions have finite values, BARON's preprocessor
+will attempt to infer appropriate bounds from problem constraints. If this step fails, global optimality of the solutions
+provided is not guaranteed. Occasionally, because of the lack of bounds no numerically stable lower bounding problems can
+be constructed, in which case BARON may terminate.
 
 
 
-BARON cannot handle constraints that contain goniometric functions or ErrorF functions. Furthermore, BARON cannot handle constraints that contain an if-then-else statement with a variable in the condition. BARON also cannot handle constraints with a reference to an external function. Also the following special functions cannot be handled by BARON: Min, Max, Mod, Div, Sign, Degrees, Radians, Ceil, Floor, Trunc, Round and MapVal, and the distribution functions. Also the operator /$ cannot be handled.
+BARON cannot handle constraints that contain goniometric functions or ErrorF functions. Furthermore, BARON cannot handle
+constraints that contain an if-then-else statement with a variable in the condition. BARON also cannot handle constraints
+with a reference to an external function. Also the following special functions cannot be handled by BARON: Min, Max, Mod,
+Div, Sign, Degrees, Radians, Ceil, Floor, Trunc, Round and MapVal, and the distribution functions. Also the operator /$ cannot be handled.
 
 
 
-BARON cannot handle powers of the form :math:`x^y` where :math:`x` and :math:`y` are variables but AIMMS will automatically reformulate such an expression to the equivalent expression :math:`\exp(y * \log(x))`. You should ensure that the level value of :math:`x` is strictly larger than 0, before the solve statement, otherwise you might get a derivative evaluation error.
+BARON cannot handle powers of the form :math:`x^y` where :math:`x` and :math:`y` are variables but AIMMS will automatically
+reformulate such an expression to the equivalent expression :math:`\exp(y * \log(x))`. You should ensure that the level
+value of :math:`x` is strictly larger than 0, before the solve statement, otherwise you might get a derivative evaluation error.
 
 
 
-BARON is equipped with parameters that influence the performance of BARON. AIMMS is equipped with options that set the parameters in BARON. Options in AIMMS can be set in the options dialog box.
+BARON is equipped with parameters that influence the performance of BARON. AIMMS is equipped with options that set the parameters
+in BARON. Options in AIMMS can be set in the options dialog box.
 
 
 
-One of the most important options is the option **Maximal Variable Bound** . If one of the variables has no upper bound then the value of this option will be passed to BARON as the upper bound of that variable. If that variable has no lower bound then minus that value will be passed. BARON might sometimes return 'infeasible' if the value of this option is set too low.
+One of the most important options is the option **Maximal Variable Bound**. If one of the variables has no upper bound then the value
+of this option will be passed to BARON as the upper bound of that variable. If that variable has no lower bound then minus that
+value will be passed. BARON might sometimes return 'infeasible' if the value of this option is set too low.
 
 
 
-BARON can use branching priorities for continuous and integer variables; see the section about :ref:`Baron_Variable_Priorities` .
+BARON can use branching priorities for continuous and integer variables; see the section about :ref:`Baron_Variable_Priorities`.
 
 
 
-If BARON declares a problem as infeasible, it has the capability to identify a subset of the constraints that are infeasible and become feasible once any one of them is eliminated. This, so-called, irreducibly inconsistent system (IIS) can be produced by BARON for all types of problems handled by BARON, including linear and nonlinear, continuous and integer, convex and nonconvex. The option **Compute IIS**  can be used to identify an IIS.
+If BARON declares a problem as infeasible, it has the capability to identify a subset of the constraints that are infeasible
+and become feasible once any one of them is eliminated. This, so-called, irreducibly inconsistent system (IIS) can be produced
+by BARON for all types of problems handled by BARON, including linear and nonlinear, continuous and integer, convex and nonconvex.
+The option **Compute IIS** can be used to identify an IIS.
 
 
 
 **Presolving** 
 
-AIMMS contains a nonlinear presolve algorithm with the goal to reduce the size of the problem and to tighten the variable bounds, which may help BARON to solve nonlinear problems faster. The nonlinear presolve algorithm is switched off by default. To use it you should switch on the AIMMS general solvers option **Nonlinear Presolve** .
+AIMMS contains a nonlinear presolve algorithm with the goal to reduce the size of the problem and to tighten the variable bounds,
+which may help BARON to solve nonlinear problems faster. The nonlinear presolve algorithm is switched off by default. To use it
+you should switch on the AIMMS general solvers option **Nonlinear Presolve**.
 
 
 
 **Remark** 
 
-BARON does not use the AIMMS general solvers options **MIP Relative Optimality Tolerance** , **MIP Absolute Optimality Tolerance**  and **Cutoff** ; instead the BARON options **Relative Termination Tolerance** , **Absolute Termination Tolerance**  and **Cut Off**  are used.
+BARON does not use the AIMMS general solvers options **MIP Relative Optimality Tolerance**, **MIP Absolute Optimality Tolerance**
+and **Cutoff**; instead the BARON options **Relative Termination Tolerance**, **Absolute Termination Tolerance** and **Cut Off** are used.
 
 
 
 **Important Notice** 
 
-When using BARON, the general solvers option **Combine Quadratic Terms**  should be turned off. When this option is turned on, quadratic terms in constraint definitions will be combined by the AIMMS translator before passing the constraint to the solver. For instance, if the definition of some constraint contains the quadratic term :math:`x * z + y * z` then this will be passed as :math:`(z + y) * x` if this option is turned on, and as :math:`x * z + y * z` if this option is turned off. In general, BARON is more efficient if this option is turned off. Therefore we advice to switch this option off when using BARON.
+When using BARON, the general solvers option **Combine Quadratic Terms** should be turned off. When this option is
+turned on, quadratic terms in constraint definitions will be combined by the AIMMS translator before passing the
+constraint to the solver. For instance, if the definition of some constraint contains the quadratic term
+:math:`x * z + y * z` then this will be passed as :math:`(z + y) * x` if this option is turned on, and as
+:math:`x * z + y * z` if this option is turned off. In general, BARON is more efficient if this option is turned
+off. Therefore we advice to switch this option off when using BARON.
 
 
 

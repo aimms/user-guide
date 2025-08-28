@@ -14,7 +14,7 @@ Fixed mode oracle
 
 
 
-This option sets the oracle for the barrier parameter when switching to fixed mode. It determines how the first value of the barrier parameter should be computed when switching to the "monotone mode" in the adaptive strategy. It is only considered if 'Adaptive' is selected for option **Barrier Parameter Update Strategy** . Possible values are:
+This option sets the oracle for the barrier parameter when switching to fixed mode. It determines how the first value of the barrier parameter should be computed when switching to the "monotone mode" in the adaptive strategy. It is only considered if 'Adaptive' is selected for option **Barrier Parameter Update Strategy**. Possible values are:
 
 
 

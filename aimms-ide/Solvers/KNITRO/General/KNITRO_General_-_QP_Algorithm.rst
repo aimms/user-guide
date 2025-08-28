@@ -12,7 +12,7 @@ QP Algorithm
 
 
 
-This option indicates which algorithm to use to solve quadratic programming (QP) subproblems when using the Active Set or SQP algorithms, as determined by the option **Algorithm** . At the default setting Knitro will automatically try to choose the best algorithm based on the problem characteristics. Possible values are:
+This option indicates which algorithm to use to solve quadratic programming (QP) subproblems when using the Active Set or SQP algorithms, as determined by the option **Algorithm**. At the default setting Knitro will automatically try to choose the best algorithm based on the problem characteristics. Possible values are:
 
 
 

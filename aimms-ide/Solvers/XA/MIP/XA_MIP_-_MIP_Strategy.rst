@@ -12,7 +12,7 @@ MIP Strategy
 
 
 
-This option can be used to select one of the nine branch and bound strategies supported by XA. Each XA branch and bound strategy has three variations that can be set by means of the options **MIP Strategy Branching Priorities** , **MIP Strategy Estimate Integer Solution**  and **MIP Strategy Split Node List** . In some cases these variations reduce the solution time but may not yield an optimal integer solution. If you are interested in obtaining a fast and 'good' integer solution (which may not be optimal) try these variations. Possible values of this option are:
+This option can be used to select one of the nine branch and bound strategies supported by XA. Each XA branch and bound strategy has three variations that can be set by means of the options **MIP Strategy Branching Priorities**, **MIP Strategy Estimate Integer Solution**  and **MIP Strategy Split Node List**. In some cases these variations reduce the solution time but may not yield an optimal integer solution. If you are interested in obtaining a fast and 'good' integer solution (which may not be optimal) try these variations. Possible values of this option are:
 
 
 

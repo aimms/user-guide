@@ -12,7 +12,7 @@ Maximum Divisor Value
 
 
 
-This option sets the maximum divisor value. The model divisor is gradually increased, starting from the **Initial Divisor Value** , until it reaches the value of this option, in which case the ODH engine is terminated. With the **Search Mode**  equal to 'Optimal solution' the solve will continue by the main CPLEX solver; with the **Search Mode**  equal to 'Feasible solution' the solve will terminate.
+This option sets the maximum divisor value. The model divisor is gradually increased, starting from the **Initial Divisor Value**, until it reaches the value of this option, in which case the ODH engine is terminated. With the **Search Mode**  equal to 'Optimal solution' the solve will continue by the main CPLEX solver; with the **Search Mode**  equal to 'Feasible solution' the solve will terminate.
 
 
 

@@ -22,7 +22,7 @@ This option determines whether a list of cuts and constraints should be followed
 
 
 
-This option can only be used in combination with the options **Find Fractional Root Solution**  and **Write Cuts** .
+This option can only be used in combination with the options **Find Fractional Root Solution**  and **Write Cuts**.
 
 
 

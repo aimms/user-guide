@@ -55,7 +55,7 @@ Options in AIMMS can be set in the options dialog box.
 Gurobi can perform a minimum-cost relaxation in order to make an infeasible model feasible. 
 More information about relaxing infeasible models can be found in the section :ref:`GUROBI_FeasRelax_Feasibility_Relaxation`.
 
-In Gurobi it is possible to use a solution as a MIP start by setting the option **MIP Start** . 
+In Gurobi it is possible to use a solution as a MIP start by setting the option **MIP Start**. 
 Gurobi also supports :ref:`GUROBI_Multiple_MIP_Starts`.
 Alternatively, you can use :ref:`GUROBI_Hints` for variables in a MIP model. 
 MIP starts and Hints can also be used for NLP and MINLP.
@@ -68,7 +68,7 @@ Gurobi supports the :ref:`GUROBI_Tuning_Tool`, a utility to aid you in improving
 
 **Parallel Gurobi** 
 
-Gurobi supports several parallel algorithms, namely parallel MIP, concurrent MIP, concurrent LP and parallel barrier. These parallel algorithms are implemented to run on hardware platforms with parallel processors. The number of threads used by the parallel algorithms is controlled by the option **Thread Limit** .
+Gurobi supports several parallel algorithms, namely parallel MIP, concurrent MIP, concurrent LP and parallel barrier. These parallel algorithms are implemented to run on hardware platforms with parallel processors. The number of threads used by the parallel algorithms is controlled by the option **Thread Limit**.
 
 
 

@@ -28,7 +28,7 @@ Possible values are:
 
 **Note** 
 
-*	This option is similar to the option **Method for Finding Maximal Step** , but is applied when tolerances are tightened.
+*	This option is similar to the option **Method for Finding Maximal Step**, but is applied when tolerances are tightened.
 
 
 

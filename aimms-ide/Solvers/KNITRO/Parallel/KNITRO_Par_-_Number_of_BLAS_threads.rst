@@ -12,7 +12,7 @@ Number of BLAS Threads
 
 
 
-This option specifies the number of threads to use for parallel BLAS. The BLAS function library can be used for basic vector and matrix computations, as controlled by the option **BLAS Option** .
+This option specifies the number of threads to use for parallel BLAS. The BLAS function library can be used for basic vector and matrix computations, as controlled by the option **BLAS Option**.
 
 
 

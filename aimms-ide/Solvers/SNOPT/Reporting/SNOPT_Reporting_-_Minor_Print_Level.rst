@@ -22,9 +22,9 @@ This option controls the amount of output that is printed to the output file dur
    * - 0
      - No minor iteration output except error messages.
    * - 1-9
-     - A single line of output each minor iteration as controlled by the option **Print Frequency** .
+     - A single line of output each minor iteration as controlled by the option **Print Frequency**.
    * - 10
-     - Basis factorization statistics generated during the periodic refactorization of the basis (see the option **Factorization Frequency** ). Statistics for the first factorization for each major iteration are controlled by the option **Major Print Level** .
+     - Basis factorization statistics generated during the periodic refactorization of the basis (see the option **Factorization Frequency** ). Statistics for the first factorization for each major iteration are controlled by the option **Major Print Level**.
 
 
 

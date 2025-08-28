@@ -32,7 +32,7 @@ IPOPT uses an interior point method, together with a filter linear search proced
 
 
 
-Wächter and L. T. Biegler, **On the Implementation of a Primal-Dual Interior Point Filter Line Search Algorithm for Large-Scale Nonlinear Programming** , Mathematical Programming 106(1), pp. 25-57, 2006.
+Wächter and L. T. Biegler, **On the Implementation of a Primal-Dual Interior Point Filter Line Search Algorithm for Large-Scale Nonlinear Programming**, Mathematical Programming 106(1), pp. 25-57, 2006.
 
 
 
@@ -60,7 +60,7 @@ AIMMS contains a nonlinear presolve algorithm with the goal to reduce the size o
 
 
 
-The nonlinear presolve algorithm is switched off by default. To use it you should switch on the AIMMS general solvers option **Nonlinear Presolve** .
+The nonlinear presolve algorithm is switched off by default. To use it you should switch on the AIMMS general solvers option **Nonlinear Presolve**.
 
 
 

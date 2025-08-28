@@ -32,7 +32,7 @@ The logging information is written to the file 'CPLEX 22.1.sta' if the general s
 
 
 
-There is no difference between settings 'All' and 'Remark' for option **Solver Listing Messages** , except that with setting 'All' also information is logged for LP problems solved while calculating shadow price ranges for constraints or value ranges for variables, if the barrier algorithm is used to solved those LP problems, as specified by the option **Sensitivity Method** .
+There is no difference between settings 'All' and 'Remark' for option **Solver Listing Messages**, except that with setting 'All' also information is logged for LP problems solved while calculating shadow price ranges for constraints or value ranges for variables, if the barrier algorithm is used to solved those LP problems, as specified by the option **Sensitivity Method**.
 
 
 

@@ -29,13 +29,13 @@ With setting 'Presolved model plus cuts' the presolved model will be printed as 
 
 
 
-This option can only be used in combination with the option **Find Fractional Root Solution** .
+This option can only be used in combination with the option **Find Fractional Root Solution**.
 
 
 
 
 
-The cuts and presolved model will be written to the file 'cplex_cuts.lis' which will be placed in the log directory of the AIMMS project. It uses a style similar to the constraint listing, which can be printed by AIMMS by using the Solvers General option **Constraint Listing** .
+The cuts and presolved model will be written to the file 'cplex_cuts.lis' which will be placed in the log directory of the AIMMS project. It uses a style similar to the constraint listing, which can be printed by AIMMS by using the Solvers General option **Constraint Listing**.
 
 
 

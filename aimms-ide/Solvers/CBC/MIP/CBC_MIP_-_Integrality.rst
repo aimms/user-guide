@@ -22,7 +22,7 @@ If this option is set too small, CBC may falsely conclude that the problem is in
 
 **Note** 
 
-*	Beware of setting this smaller than the **Primal Feasibility Tolerance** .
+*	Beware of setting this smaller than the **Primal Feasibility Tolerance**.
 
 
 

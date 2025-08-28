@@ -14,7 +14,7 @@ Linear decrease factor barrier parameter
 
 
 
-This option determines the linear decrease rate of the barrier parameter. For the Fiacco-McCormick update procedure the new barrier parameter (mu) is obtained by taking the minimum of mu*v and w, where v denotes the value of this option and w denotes the value of the option **Superlinear Decrease Rate Barrier Parameter** .
+This option determines the linear decrease rate of the barrier parameter. For the Fiacco-McCormick update procedure the new barrier parameter (mu) is obtained by taking the minimum of mu*v and w, where v denotes the value of this option and w denotes the value of the option **Superlinear Decrease Rate Barrier Parameter**.
 
 
 

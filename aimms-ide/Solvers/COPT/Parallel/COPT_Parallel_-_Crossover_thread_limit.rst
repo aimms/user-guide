@@ -12,7 +12,7 @@ Crossover Thread Limit
 
 
 
-This option specifies the number of threads used during crossover. At the default value of -1 the thread count is determined by the option **Thread Limit** .
+This option specifies the number of threads used during crossover. At the default value of -1 the thread count is determined by the option **Thread Limit**.
 
 
 

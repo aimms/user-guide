@@ -37,7 +37,7 @@ At the default setting CPLEX chooses the optimizer automatically, typically swit
 
 
 
-Sifting can be selected for solving LP and MIP models using the following options: **MIP Method** , **MIP Start Algorithm** , **SubMIP Start Algorithm**  and **SubMIP Subproblem Algorithm** .
+Sifting can be selected for solving LP and MIP models using the following options: **MIP Method**, **MIP Start Algorithm**, **SubMIP Start Algorithm**  and **SubMIP Subproblem Algorithm**.
 
 
 

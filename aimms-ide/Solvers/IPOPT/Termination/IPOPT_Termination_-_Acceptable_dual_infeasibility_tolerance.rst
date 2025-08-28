@@ -14,7 +14,7 @@ Acceptable dual infeasibility tolerance
 
 
 
-This option specifies the acceptable absolute tolerance on the dual infeasibility. "Acceptable" termination requires that the (max-norm of the unscaled) dual infeasibility is less than this threshold; see also the option **Acceptable Relative Convergence Tolerance** .
+This option specifies the acceptable absolute tolerance on the dual infeasibility. "Acceptable" termination requires that the (max-norm of the unscaled) dual infeasibility is less than this threshold; see also the option **Acceptable Relative Convergence Tolerance**.
 
 
 

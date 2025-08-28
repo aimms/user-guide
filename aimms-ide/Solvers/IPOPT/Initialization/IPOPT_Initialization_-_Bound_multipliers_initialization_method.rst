@@ -24,7 +24,7 @@ This option defines how the iterates for the bound multipliers are initialized. 
 
 
 
-If 'Constant' is chosen then all bound multipliers are initialized to the value of the option **Initial Value for Bound Multipliers** . If 'Mu-based' is chosen then each value is initialized to the the value of the option **Barrier Parameter Initial Value**  divided by the corresponding slack variable. This latter option might be useful if the starting point is close to the optimal solution.
+If 'Constant' is chosen then all bound multipliers are initialized to the value of the option **Initial Value for Bound Multipliers**. If 'Mu-based' is chosen then each value is initialized to the the value of the option **Barrier Parameter Initial Value**  divided by the corresponding slack variable. This latter option might be useful if the starting point is close to the optimal solution.
 
 
 

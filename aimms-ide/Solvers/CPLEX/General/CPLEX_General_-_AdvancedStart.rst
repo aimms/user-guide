@@ -16,7 +16,7 @@ This option determines whether advanced start information should be used and how
 
 
 
-    *	Automatic (Default setting; behavior depends on the setting of the general solvers option **Accept Basis** .)
+    *	Automatic (Default setting; behavior depends on the setting of the general solvers option **Accept Basis**.)
     *	Off (Do not use advanced start information.)
     *	Use advanced basis (In case of a continuous model, CPLEX will use an advanced basis supplied by the user. In case of MIP, CPLEX will use the level values as start values or continue exploring the MIP tree if one is available.)
     *	Crush advanced basis (In case of a continuous model, CPLEX will crush an advanced basis or starting vector supplied by the user. In case of MIP, CPLEX will use the level values as start values or continue exploring the MIP tree if one is available.)

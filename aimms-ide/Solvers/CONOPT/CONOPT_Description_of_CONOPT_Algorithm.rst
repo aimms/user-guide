@@ -62,7 +62,7 @@ definitional equations are eliminated from the internal model and they are not p
 
 
 
-The preprocessor can be switched off by disabling the option **Preprocessor** .
+The preprocessor can be switched off by disabling the option **Preprocessor**.
 
 
 
@@ -137,7 +137,7 @@ CONOPT always starts by searching for a feasible solution and the sub-models onl
 *   The option **Use No-Penalty Model**  is switched on (the default setting).
 *   The user did not provide an initial basis.
 *   Some of the constraints in the No-Penalty Model are infeasible.
-*   The number of penalty and minimax constraints is more than the number of constraints in the Full Model multiplied by the value of the option **Penalty Constraints Ratio** . The default value of **Penalty Constraints Ratio**  is 0.1, i.e. the No-Penalty Model is only defined and solved if it is at least 10% smaller than the Full Model.
+*   The number of penalty and minimax constraints is more than the number of constraints in the Full Model multiplied by the value of the option **Penalty Constraints Ratio**. The default value of **Penalty Constraints Ratio**  is 0.1, i.e. the No-Penalty Model is only defined and solved if it is at least 10% smaller than the Full Model.
 
 
 
@@ -185,17 +185,17 @@ This method is similar to 'Method 2' except that the first objective A is skippe
 
 
 
-The number of submodels that are solved is limited by the option **Limit on Linear Feasibility Model Rounds** .
+The number of submodels that are solved is limited by the option **Limit on Linear Feasibility Model Rounds**.
 
 
 
-If the model is defined to be convex, by switching on the option **Model is Convex** , then a locally infeasible solution is labeled (globally) infeasible and the Linear Feasibility Model will not be used.
+If the model is defined to be convex, by switching on the option **Model is Convex**, then a locally infeasible solution is labeled (globally) infeasible and the Linear Feasibility Model will not be used.
 
 
 
 **Multiple Threads** 
 
-CONOPT 4 can use multiple threads for some internal computations and for function and derivative evaluations (through AIMMS). Multiple threads are currently only used for certain fairly large and dense computations and these models are quite rare. In addition, multiple threads have a quite high overhead and they are therefore only useful for fairly large models. Currently the best improvements have been for very large models with more than 100,000 variables or constraints. It is the intention to implement multiple threads into more parts of CONOPT in the future. The amount of threads used by CONOPT is controlled by the option **Thread Limit** .
+CONOPT 4 can use multiple threads for some internal computations and for function and derivative evaluations (through AIMMS). Multiple threads are currently only used for certain fairly large and dense computations and these models are quite rare. In addition, multiple threads have a quite high overhead and they are therefore only useful for fairly large models. Currently the best improvements have been for very large models with more than 100,000 variables or constraints. It is the intention to implement multiple threads into more parts of CONOPT in the future. The amount of threads used by CONOPT is controlled by the option **Thread Limit**.
 
 
 

@@ -24,7 +24,7 @@ The value of this option determines if there should be any attempt to generate c
 
 
 
-This option overrides option **Global Cut Control** .
+This option overrides option **Global Cut Control**.
 
 
 

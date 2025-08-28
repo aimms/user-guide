@@ -25,7 +25,7 @@ If the problem contains integer variables then they must become part of the firs
 
 
 
-If your decomposition does not lead to a complete partition of the original model into disjoint master and subproblems, then CPLEX will throw an error. In that case it might be helpful to look at the detailed information printed by AIMMS, as controlled by the option **Benders Decomposition Check Limit** .
+If your decomposition does not lead to a complete partition of the original model into disjoint master and subproblems, then CPLEX will throw an error. In that case it might be helpful to look at the detailed information printed by AIMMS, as controlled by the option **Benders Decomposition Check Limit**.
 
 
 
@@ -57,8 +57,8 @@ The Progress Window is not updated if CPLEX uses the Benders decomposition algor
 
 **References** 
 
-*	J. Benders. Partitioning procedures for solving mixed-variables programming problems, Numerische Mathematik, volume **4** , issue 1, pages 238–252, 1962.
-*	M. Fischetti, D. Salvagnin, A. Zanette. A note on the selection of Benders’ cuts, Mathematical Programming, series B, volume **124** , pages 175-182, 2010.
+*	J. Benders. Partitioning procedures for solving mixed-variables programming problems, Numerische Mathematik, volume **4**, issue 1, pages 238–252, 1962.
+*	M. Fischetti, D. Salvagnin, A. Zanette. A note on the selection of Benders’ cuts, Mathematical Programming, series B, volume **124**, pages 175-182, 2010.
 *	M. Fischetti, I. Ljubic, M. Sinnl. Benders decomposition without separability: a computational study for capacitated facility location problems, Technical Report University of Padova, 2016.
 
 

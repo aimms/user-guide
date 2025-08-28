@@ -14,7 +14,7 @@ Acceptable objective change tolerance
 
 
 
-``This option specifies the "acceptance" stopping criterion based on objective function change. If the relative change of the objective function (scaled by Max(1,|f(x)|)) is less than this value, this part of the acceptable tolerance termination is satisfied; see also the option`` **Acceptable Relative Convergence Tolerance** . This is useful for the quasi-Newton option, which has trouble to bring down the dual infeasibility.
+``This option specifies the "acceptance" stopping criterion based on objective function change. If the relative change of the objective function (scaled by Max(1,|f(x)|)) is less than this value, this part of the acceptable tolerance termination is satisfied; see also the option`` **Acceptable Relative Convergence Tolerance**. This is useful for the quasi-Newton option, which has trouble to bring down the dual infeasibility.
 
 
 

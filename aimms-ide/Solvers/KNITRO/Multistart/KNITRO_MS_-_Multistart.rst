@@ -22,7 +22,7 @@ This option determines whether Knitro will solve from multiple start points to f
 
 
 
-The multistart procedure generates new start points by randomly selecting x components that satisfy the variable bounds. The number of start points to try is specified with the option **Number of Multistart Points** . Knitro finds a local optimum from each start point. The solution returned by Knitro is the local optimum with the best objective function value.
+The multistart procedure generates new start points by randomly selecting x components that satisfy the variable bounds. The number of start points to try is specified with the option **Number of Multistart Points**. Knitro finds a local optimum from each start point. The solution returned by Knitro is the local optimum with the best objective function value.
 
 
 
@@ -40,7 +40,7 @@ The option **Number of Threads**  can be used to let the multistart algorithm ru
 
 
 
-By default the multistart algorithm is deterministic. This is controlled by the options **Multistart Deterministic**  and **Multistart Termination Condition** .
+By default the multistart algorithm is deterministic. This is controlled by the options **Multistart Deterministic**  and **Multistart Termination Condition**.
 
 
 

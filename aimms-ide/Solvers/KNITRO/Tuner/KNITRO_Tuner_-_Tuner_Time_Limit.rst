@@ -12,7 +12,7 @@ Tuner Time Limit
 
 
 
-This option specifies, in seconds, the maximum allowable CPU time before terminating the Knitro-Tuner. In contrast, the value of the general solvers option **Time Limit**  places a time limit on each individual Knitro-Tuner solve for a particular option setting. Therefore, the value of this option should be greater than the value for **Time Limit** .
+This option specifies, in seconds, the maximum allowable CPU time before terminating the Knitro-Tuner. In contrast, the value of the general solvers option **Time Limit**  places a time limit on each individual Knitro-Tuner solve for a particular option setting. Therefore, the value of this option should be greater than the value for **Time Limit**.
 
 
 

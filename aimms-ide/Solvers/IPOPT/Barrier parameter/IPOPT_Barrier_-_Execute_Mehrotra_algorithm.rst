@@ -30,7 +30,7 @@ If set to yes, IPOPT runs as Mehrotra's predictor-corrector algorithm. This work
 
 
 
-Also, unless otherwise specified, the values of the options **Slack to Bound Minimum Absolute Distance** , **Slack to Bound Minimum Relative Distance** , and **Initial Value for Bound Multipliers**  are set more aggressive, and option **Equality Multipliers Switch Tolerance**  is set to the same value as that of the latter option.
+Also, unless otherwise specified, the values of the options **Slack to Bound Minimum Absolute Distance**, **Slack to Bound Minimum Relative Distance**, and **Initial Value for Bound Multipliers**  are set more aggressive, and option **Equality Multipliers Switch Tolerance**  is set to the same value as that of the latter option.
 
 
 

@@ -59,7 +59,7 @@ AIMMS contains a nonlinear presolve algorithm with the goal to reduce the size o
 
 
 
-The nonlinear presolve algorithm is switched off by default. To use it you should switch on the AIMMS general solvers option **Nonlinear Presolve** .
+The nonlinear presolve algorithm is switched off by default. To use it you should switch on the AIMMS general solvers option **Nonlinear Presolve**.
 
 
 

@@ -24,7 +24,7 @@ The generation of these subproblems is influenced by the option Cutoff in the fo
 
 **Note** 
 
-*	The behavior of **Gurobi**  differs slightly from **CPLEX** . Assume we are minimizing and the cutoff value is 300. For CPLEX any solution with an objective value > 300 will not be acceptable, while for Gurobi any solution with an objective value >= 300 (including 300 itself) will not be acceptable. Therefore, if the objective value of 300 should also be acceptable for Gurobi then the cutoff value should be set to 300 + eps.
+*	The behavior of **Gurobi** differs slightly from **CPLEX**. Assume we are minimizing and the cutoff value is 300. For CPLEX any solution with an objective value > 300 will not be acceptable, while for Gurobi any solution with an objective value >= 300 (including 300 itself) will not be acceptable. Therefore, if the objective value of 300 should also be acceptable for Gurobi then the cutoff value should be set to 300 + eps.
 *	This option is also valid for MIQP and MIQCP problems.
 
 

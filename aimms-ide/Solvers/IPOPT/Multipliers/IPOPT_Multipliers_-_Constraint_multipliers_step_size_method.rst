@@ -50,13 +50,13 @@ Setting 'Min dual infeasibility' implies choosing the step size minimizing new d
 
 
 
-Setting 'Primal and full' means: use the primal step size, and the full step if the step size is smaller than or equal to the value of the option **Equality Multipliers Switch Tolerance** .
+Setting 'Primal and full' means: use the primal step size, and the full step if the step size is smaller than or equal to the value of the option **Equality Multipliers Switch Tolerance**.
 
 
 
 
 
-Setting 'Dual and full' means: use the dual step size, and the full step if the step size is smaller than or equal to the value of the option **Equality Multipliers Switch Tolerance** .
+Setting 'Dual and full' means: use the dual step size, and the full step if the step size is smaller than or equal to the value of the option **Equality Multipliers Switch Tolerance**.
 
 
 

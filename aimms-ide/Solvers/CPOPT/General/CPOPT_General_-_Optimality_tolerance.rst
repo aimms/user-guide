@@ -16,7 +16,7 @@ This option sets an absolute tolerance on the objective value for optimization m
 
 
 
-This option is used in conjunction with option **Relative Optimality Tolerance** . The optimality of a solution is proven if either of the two options' criteria is fulfilled.
+This option is used in conjunction with option **Relative Optimality Tolerance**. The optimality of a solution is proven if either of the two options' criteria is fulfilled.
 
 
 

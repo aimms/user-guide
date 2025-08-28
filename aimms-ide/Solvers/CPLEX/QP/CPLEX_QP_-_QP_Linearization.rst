@@ -29,7 +29,7 @@ In a convex mixed integer quadratic program (MIQP), this option controls whether
 
 
 
-In a nonconvex quadratic program (QP) or mixed integer quadratic program (MIQP) solved to global optimality according to the option **Solution Target** , this option controls how CPLEX linearizes the product of bounded variables in the objective function during presolve.
+In a nonconvex quadratic program (QP) or mixed integer quadratic program (MIQP) solved to global optimality according to the option **Solution Target**, this option controls how CPLEX linearizes the product of bounded variables in the objective function during presolve.
 
 
 

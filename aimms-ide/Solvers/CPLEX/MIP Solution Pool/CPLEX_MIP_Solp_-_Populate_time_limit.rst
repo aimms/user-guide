@@ -16,7 +16,7 @@ This option sets a time limit on the second phase of the populate algorithm. If 
 
 
 
-The general time limit, as controlled by the general solvers option **Time Limit** , sets a time limit for the complete populate algorithm, i.e., the first and second phase combined. If this time limit is hit during the first phase of the populate algorithm then the second phase will be skipped. In that case the solver status will be 'Resource Interrupt'. If either one of time limits is hit during the second phase, the solver status will be 'Normal Completion' (since then an optimal solution is found during the first phase).
+The general time limit, as controlled by the general solvers option **Time Limit**, sets a time limit for the complete populate algorithm, i.e., the first and second phase combined. If this time limit is hit during the first phase of the populate algorithm then the second phase will be skipped. In that case the solver status will be 'Resource Interrupt'. If either one of time limits is hit during the second phase, the solver status will be 'Normal Completion' (since then an optimal solution is found during the first phase).
 
 
 

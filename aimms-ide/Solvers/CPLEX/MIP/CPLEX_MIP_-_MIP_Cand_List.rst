@@ -12,7 +12,7 @@ MIP Candidate List
 
 
 
-The setting of this option specifies the length of the candidate list when using the "Strong branching" setting on **Select Variables** .
+The setting of this option specifies the length of the candidate list when using the "Strong branching" setting on **Select Variables**.
 
 
 

@@ -52,7 +52,7 @@ The solution stored at position 1 (in the solution repository) is the final and 
 
 **Note** 
 
-*	The amount of feasible solutions stored will never exceed the value of the option **Solution Limit** .
+*	The amount of feasible solutions stored will never exceed the value of the option **Solution Limit**.
 
 
 

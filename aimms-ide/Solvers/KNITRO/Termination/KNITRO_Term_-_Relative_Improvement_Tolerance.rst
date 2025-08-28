@@ -12,7 +12,7 @@ Relative Improvement Tolerance
 
 
 
-The optimization process will terminate if the relative change in the objective function is less than ftol for n consecutive iterations. Here ftol denotes the value of this option, while n denotes the setting of the option **Relative Improvement Iterations** .
+The optimization process will terminate if the relative change in the objective function is less than ftol for n consecutive iterations. Here ftol denotes the value of this option, while n denotes the setting of the option **Relative Improvement Iterations**.
 
 
 

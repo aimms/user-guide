@@ -23,7 +23,7 @@ This option specifies the solution improvement heuristic strategy. Possible valu
 
 
 
-The aggressive strategy setting attempts to make more progress with each sub-model solve at the cost of more expensive sub solves. Amongst other changes, it sets **Initial Divisor Value** , **Maximum Divisor Repeats**  and **Maximum Divisor Value**  if they are not explicitly set by the user.
+The aggressive strategy setting attempts to make more progress with each sub-model solve at the cost of more expensive sub solves. Amongst other changes, it sets **Initial Divisor Value**, **Maximum Divisor Repeats**  and **Maximum Divisor Value**  if they are not explicitly set by the user.
 
 
 

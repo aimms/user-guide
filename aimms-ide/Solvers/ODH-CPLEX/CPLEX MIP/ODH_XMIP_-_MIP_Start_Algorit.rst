@@ -33,7 +33,7 @@ Sifting solves a sequence of LP subproblems, where the results from one subprobl
 
 
 
-On a multiprocessor computer, the concurrent optimizer launches distinct LP optimizers on multiple threads to solve the initial relaxation of the MIP, terminating as soon as the first optimizer finishes. The amount of threads available to the concurrent optimizer is controlled by the option **Global Thread Limit** .
+On a multiprocessor computer, the concurrent optimizer launches distinct LP optimizers on multiple threads to solve the initial relaxation of the MIP, terminating as soon as the first optimizer finishes. The amount of threads available to the concurrent optimizer is controlled by the option **Global Thread Limit**.
 
 
 

@@ -23,13 +23,13 @@ This option specifies the method used by CONOPT for scaling. Possible values are
 
 
 
-CONOPT will by default use scaling of the equations and variables of the model to improve the numerical behavior of the solution algorithm and the accuracy of the final solution (see also the option **Rescaling Frequency** ). The objective of the scaling process is to reduce the values of all large primal and dual variables as well as the values of all large first derivatives so they become closer to 1. Small values are usually not scaled up, see the options **Minimal Scaling Factor**  and **Maximal Scaling Factor** . The default scaling method is recommended. The others are only kept for backward compatibility.
+CONOPT will by default use scaling of the equations and variables of the model to improve the numerical behavior of the solution algorithm and the accuracy of the final solution (see also the option **Rescaling Frequency** ). The objective of the scaling process is to reduce the values of all large primal and dual variables as well as the values of all large first derivatives so they become closer to 1. Small values are usually not scaled up, see the options **Minimal Scaling Factor**  and **Maximal Scaling Factor**. The default scaling method is recommended. The others are only kept for backward compatibility.
 
 
 
 
 
-Default value 'Largest term': Rows are first scaled by dividing by the largest term in the row, then columns are scaled by dividing by the maximum of the largest term and the value of the variable. A term is here defined as abs(X)*abs(Jac) where X is the value of the variable and Jac is the value of the derivative (Jacobian element). The scale factor are then projected on the interval between **Minimal Scaling Factor**  and **Maximal Scaling Factor** .
+Default value 'Largest term': Rows are first scaled by dividing by the largest term in the row, then columns are scaled by dividing by the maximum of the largest term and the value of the variable. A term is here defined as abs(X)*abs(Jac) where X is the value of the variable and Jac is the value of the derivative (Jacobian element). The scale factor are then projected on the interval between **Minimal Scaling Factor**  and **Maximal Scaling Factor**.
 
 
 
@@ -41,7 +41,7 @@ Value 'Geometric mean': Scaling is based on repeatedly dividing the rows and col
 
 
 
-Value 'Largest term variant': Similar to 'Largest term' above, but the projection on the interval [**Minimal Scaling Factor** ,**Maximal Scaling Factor** ] is applied at a different stage. With method 'Geometric mean', abs(X)*abs(Jac) with small X and very large Jac is scaled very aggressively with a factor abs(Jac). With method 'Largest term', the scale factor is abs(X)*abs(Jac). The difference is seen in models with terms like Sqrt(X) close to X = 0.
+Value 'Largest term variant': Similar to 'Largest term' above, but the projection on the interval [**Minimal Scaling Factor**,**Maximal Scaling Factor** ] is applied at a different stage. With method 'Geometric mean', abs(X)*abs(Jac) with small X and very large Jac is scaled very aggressively with a factor abs(Jac). With method 'Largest term', the scale factor is abs(X)*abs(Jac). The difference is seen in models with terms like Sqrt(X) close to X = 0.
 
 
 

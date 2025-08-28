@@ -26,7 +26,7 @@ This option determines whether the times file should be kept after the model is 
 
 **Note** 
 
-*	The times file will be placed in the 'log' directory of the project directory. Its name is determined by the option **File Name** , and its extension is '_tim.lst'.
+*	The times file will be placed in the 'log' directory of the project directory. Its name is determined by the option **File Name**, and its extension is '_tim.lst'.
 
 
 

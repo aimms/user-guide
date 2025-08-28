@@ -43,7 +43,7 @@ CBC is equipped with parameters that influence the performance of CBC. AIMMS is 
 
 
 
-In CBC it is possible to use a solution as a MIP start by setting the option **MIP Start** .
+In CBC it is possible to use a solution as a MIP start by setting the option **MIP Start**.
 
 
 

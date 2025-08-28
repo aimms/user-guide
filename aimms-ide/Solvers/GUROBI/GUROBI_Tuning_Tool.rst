@@ -82,7 +82,7 @@ Options that have been set to a non-default value inside the AIMMS project will 
 
 
 
-Gurobi is equipped with a few options that control the tuning process, e.g., **Tune Cleanup** , **Tune Criterion** , **Tune Results** , **Tune Time Limit** , **Tune Trials Tune**  and **Output Level** .
+Gurobi is equipped with a few options that control the tuning process, e.g., **Tune Cleanup**, **Tune Criterion**, **Tune Results**, **Tune Time Limit**, **Tune Trials Tune**  and **Output Level**.
 
 
 

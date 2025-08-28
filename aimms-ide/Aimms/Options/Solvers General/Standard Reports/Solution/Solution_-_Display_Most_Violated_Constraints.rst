@@ -18,7 +18,7 @@ This option controls whether or not to display information about the largest con
 
 
 
-If this option equals n ≠ 0, a summary table will be printed, which contains:
+If this option equals :math:`n \ne�0`, a summary table will be printed, which contains:
 
 *	the largest constraint violation, the sum of constraint violations and the number of constraint violations;
 *	the largest variable bound violation, the sum of variable bound violations and the number of variable bound violations;
@@ -27,7 +27,9 @@ If this option equals n ≠ 0, a summary table will be printed, which contains:
 
 
 
-Additionally, if this option equals n > 0, the n largest constraint violations, variable bound violations and integer violations are printed, provided that these violations are larger than the value of the option **Constraint Listing Feasibility Tolerance** .
+Additionally, if this option equals :math:`n > 0`, the :math:`n` largest constraint violations, variable bound violations
+and integer violations are printed, provided that these violations are larger than the value of the option
+**Constraint Listing Feasibility Tolerance**.
 
 
 
@@ -35,7 +37,7 @@ Additionally, if this option equals n > 0, the n largest constraint violations, 
 
 **Note** 
 
-*	By default AIMMS will suppress the writing of the largest constraint violations, variable bound violations and integer violations for encrypted AIMMS projects; see the option **Suppress Listing File Encrypted Project** . This option does not suppress the printing of the summary table. 
+*	By default AIMMS will suppress the writing of the largest constraint violations, variable bound violations and integer violations for encrypted AIMMS projects; see the option **Suppress Listing File Encrypted Project**. This option does not suppress the printing of the summary table. 
 *	This option is only used for linear models. For non-linear models, the information will not be printed to the listing file. 
 
 

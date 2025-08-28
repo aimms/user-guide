@@ -25,7 +25,7 @@ This option selects the technique used for scaling the problem internally before
 
 
 
-Setting 'Gradient based' (the default) means: scale the problem so the maximum gradient at the starting point equals the value of option **Maximum Gradient after NLP Scaling** .
+Setting 'Gradient based' (the default) means: scale the problem so the maximum gradient at the starting point equals the value of option **Maximum Gradient after NLP Scaling**.
 
 
 

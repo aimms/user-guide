@@ -20,7 +20,7 @@ The concurrent MIP solver divides available threads evenly among the independent
 
 
 
-The total number of threads used by the concurrent MIP solver is limited by the option **Thread Limit** .
+The total number of threads used by the concurrent MIP solver is limited by the option **Thread Limit**.
 
 
 
@@ -28,7 +28,7 @@ The concurrent MIP solver produces a slightly different log (as controlled by th
 
 
 
-If you switch on the option **Read Parameter File**  then you can specify multiple parameter files, one for each concurrent MIP solve, which allows you to choose your own option settings for each of the concurrent MIP solves. The Gurobi parameter file is explained in the help of the option **Read Parameter File** .
+If you switch on the option **Read Parameter File**  then you can specify multiple parameter files, one for each concurrent MIP solve, which allows you to choose your own option settings for each of the concurrent MIP solves. The Gurobi parameter file is explained in the help of the option **Read Parameter File**.
 
 
 

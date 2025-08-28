@@ -40,7 +40,7 @@ In order to use parallel optimization in conjunction with control callbacks, you
 
 
 
-This option also determines the amount of threads used by the concurrent optimizer which can be switched on using the option **MIP Start Algorithm** .
+This option also determines the amount of threads used by the concurrent optimizer which can be switched on using the option **MIP Start Algorithm**.
 
 
 

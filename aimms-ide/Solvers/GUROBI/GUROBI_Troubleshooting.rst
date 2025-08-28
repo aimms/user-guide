@@ -19,7 +19,7 @@ You can get this error if you use a 'link-only' licence for Gurobi. To resolve t
 **Out of memory** 
 
 
-If Gurobi fails to do a postsolve due to insufficient memory available (while there was enough memory available to do the normal solve) then you might consider to turn off the postsolve by switching off the general solvers option **Postsolve** .
+If Gurobi fails to do a postsolve due to insufficient memory available (while there was enough memory available to do the normal solve) then you might consider to turn off the postsolve by switching off the general solvers option **Postsolve**.
 
 
 

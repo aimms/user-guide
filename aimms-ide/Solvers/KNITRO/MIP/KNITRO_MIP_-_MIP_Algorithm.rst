@@ -30,7 +30,7 @@ In the hybrid Quesada-Grossman algorithm (see option **MIP Method** ), most of t
 
 
 
-The algorithm used for the nonlinear problem at the root node is specified by the option **MIP Start Algorithm** . Nonlinear programming subproblems use the algorithm specified by the option **Node Algorithm** .
+The algorithm used for the nonlinear problem at the root node is specified by the option **MIP Start Algorithm**. Nonlinear programming subproblems use the algorithm specified by the option **Node Algorithm**.
 
 
 

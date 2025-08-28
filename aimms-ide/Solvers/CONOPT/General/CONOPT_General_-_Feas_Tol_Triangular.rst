@@ -11,7 +11,7 @@ Feasibility Tolerance Triangular Part
 
 
 
-Triangular equations are usually solved to an accuracy of **Minimal Feasibility Tolerance** . However, if a variable reaches a bound or if a constraint only has pre-determined variables then the feasibility tolerance can be relaxed to the value of this option.
+Triangular equations are usually solved to an accuracy of **Minimal Feasibility Tolerance**. However, if a variable reaches a bound or if a constraint only has pre-determined variables then the feasibility tolerance can be relaxed to the value of this option.
 
 
 

@@ -24,7 +24,7 @@ This option determines whether or not to generate MIP separation cuts for the pr
 
 
 
-This option overrides option **Global Cut Control** .
+This option overrides option **Global Cut Control**.
 
 
 

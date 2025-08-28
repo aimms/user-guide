@@ -16,7 +16,7 @@ This option sets a time limit per model and per test set (that is, suite of mode
 
 
 
-For an overall time limit on tuning, use the general solvers option **Time Limit** .
+For an overall time limit on tuning, use the general solvers option **Time Limit**.
 
 
 

@@ -27,7 +27,7 @@ This option determines which algorithm is used for solving QP problems and MIQP 
 
 **Note** 
 
-*	The barrier algorithm can use parallel processes (threads) as controlled by the option **Global Thread Limit** .
+*	The barrier algorithm can use parallel processes (threads) as controlled by the option **Global Thread Limit**.
 
 
 

@@ -17,7 +17,7 @@ In case a single constraint (a leaf node) has been selected, the statistics
 will be extended with some specific information about the constraint, 
 such as rhs-values and solution values (e.g. level value and shadow price).
 
-The number of infeasible constraints reported takes into account the option **MPI Feasibility Tolerance** . 
+The number of infeasible constraints reported takes into account the option **MPI Feasibility Tolerance**. 
 This tolerance is not used for calculating the maximum and total constraint violation. 
 Therefore it can happen that the number of infeasible constraints equals 0 while the maximum and total constraint violation are unequal to 0. 
 Setting the **MPI Feasibility Tolerance**  to 0 resolves this discrepancy.

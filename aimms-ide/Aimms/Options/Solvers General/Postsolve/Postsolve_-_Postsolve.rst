@@ -45,7 +45,7 @@ During the postsolve step AIMMS will first check whether the solution returned b
 
 
 
-If the postsolve step should calculate sensitivity information for a MIP problem, as controlled by the option **MIP Calculate Sensitivity Information** , then AIMMS will always solve the postsolve problem to obtain this information (even if the solution returned by the solver is truly feasible and integer). Note that solvers like CPLEX, Gurobi, COPT and CBC do not provide sensitivity information for MIP problems because it is (in general) not available for MIP problems. The sensitivity information calculated during the postsolve step only represents the sensitivity information for the fixed MIP problem, obtained after fixing the integer variables.
+If the postsolve step should calculate sensitivity information for a MIP problem, as controlled by the option **MIP Calculate Sensitivity Information**, then AIMMS will always solve the postsolve problem to obtain this information (even if the solution returned by the solver is truly feasible and integer). Note that solvers like CPLEX, Gurobi, COPT and CBC do not provide sensitivity information for MIP problems because it is (in general) not available for MIP problems. The sensitivity information calculated during the postsolve step only represents the sensitivity information for the fixed MIP problem, obtained after fixing the integer variables.
 
 
 
@@ -57,7 +57,12 @@ Normally, the problem solved during the postsolve step will be feasible, and the
 
 
 
-If the postsolve problem is infeasible then this implies that the solution found by the solver was not reliable although it was feasible according to the tolerances used by the solver. An infeasible postsolve, or a large gap between the objective values of the original problem and the postsolve problem, indicates that the problem is ill-conditioned. In either case AIMMS will generate a warning by default, as controlled by the option **Warning Unreliable Solution** . Ill conditioning can often be "resolved" by adjusting solver tolerances, e.g., by lowering the values of the options that control the feasibility or the integrality tolerance. But sometimes it can only be resolved by reformulating the problem to improve the numerical stability.
+If the postsolve problem is infeasible then this implies that the solution found by the solver was not reliable although it
+was feasible according to the tolerances used by the solver. An infeasible postsolve, or a large gap between the objective
+values of the original problem and the postsolve problem, indicates that the problem is ill-conditioned. In either case AIMMS
+will generate a warning by default, as controlled by the option **Warning Unreliable Solution**. Ill conditioning can often be
+"resolved" by adjusting solver tolerances, e.g., by lowering the values of the options that control the feasibility or the
+integrality tolerance. But sometimes it can only be resolved by reformulating the problem to improve the numerical stability.
 
 
 
@@ -66,7 +71,10 @@ If the postsolve problem is infeasible then this implies that the solution found
 **Other postsolve options** 
 
 
-The option **Postsolve Integer Variables** determines how AIMMS will handle integer variables during the postsolve step, while the option **Postsolve Continuous Variables**  determines how continuous variables are handled. The postsolve step can be used to calculate sensitivity information for the fixed MIP problem that is solved during the postsolve; this is controlled by the option **MIP Calculate Sensitivity Information** .
+The option **Postsolve Integer Variables** determines how AIMMS will handle integer variables during the postsolve step,
+while the option **Postsolve Continuous Variables** determines how continuous variables are handled. The postsolve step
+can be used to calculate sensitivity information for the fixed MIP problem that is solved during the postsolve; this is
+controlled by the option **MIP Calculate Sensitivity Information**.
 
 
 
@@ -74,9 +82,9 @@ The option **Postsolve Integer Variables** determines how AIMMS will handle inte
 
 **Note** 
 
-*	In case of a user interrupt or when the iteration limit is exceeded, the postsolve step might be skipped, depending on the setting of the option **Do Postsolve after Interrupt** .
-*	Switching off this option is equivalent to setting the options **Postsolve Continuous Variables**  and **Postsolve Integer Variables**  to 'No rounding', and the option **MIP Calculate Sensitivity Information**  to 'Off'.
-*	In case of a MIP problem, solving the postsolve problem can be enforced by switching on the option **MIP Calculate Sensitivity Information** , even if the solution returned by the solver is truly feasible and integer.
+*	In case of a user interrupt or when the iteration limit is exceeded, the postsolve step might be skipped, depending on the setting of the option **Do Postsolve after Interrupt**.
+*	Switching off this option is equivalent to setting the options **Postsolve Continuous Variables**  and **Postsolve Integer Variables** to 'No rounding', and the option **MIP Calculate Sensitivity Information** to 'Off'.
+*	In case of a MIP problem, solving the postsolve problem can be enforced by switching on the option **MIP Calculate Sensitivity Information**, even if the solution returned by the solver is truly feasible and integer.
 *	The postsolve step will always be skipped if CPLEX or Gurobi is used to solve a multi-objective optimization model and a cut callback procedure is installed.
 *	The postsolve step will always be skipped if CPLEX is used to solve a multi-objective optimization model and the model contains a cut pool or filter constraint.
 

@@ -24,7 +24,7 @@ This option determines whether or not to generate mod-k cuts for the problem. Se
 
 
 
-This option overrides option **Global Cut Control** .
+This option overrides option **Global Cut Control**.
 
 
 

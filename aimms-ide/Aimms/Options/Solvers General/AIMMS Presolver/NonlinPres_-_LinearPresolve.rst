@@ -30,7 +30,8 @@ After calling the Presolver AIMMS will pass the presolved model to the solver. A
 
 
 
-The amount of reductions that the AIMMS Presolver can do is influenced by the options **Presolve Constraints Used** , **Presolve Dual Reductions**  and **Remove Doubletons** , and, in case the model contains binary variables, the option **MINLP Probing** .
+The amount of reductions that the AIMMS Presolver can do is influenced by the options **Presolve Constraints Used**,
+**Presolve Dual Reductions** and **Remove Doubletons**, and, in case the model contains binary variables, the option **MINLP Probing**.
 
 
 

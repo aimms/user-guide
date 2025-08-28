@@ -12,7 +12,7 @@ Pool Capacity
 
 
 
-This option limits the number of solutions kept in the solution pool. Superfluous solutions are managed according to the replacement strategy set by the option **Pool Replacement Strategy** . A value of 0 turns off all features of the solution pool.
+This option limits the number of solutions kept in the solution pool. Superfluous solutions are managed according to the replacement strategy set by the option **Pool Replacement Strategy**. A value of 0 turns off all features of the solution pool.
 
 
 

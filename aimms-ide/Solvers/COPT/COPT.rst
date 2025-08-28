@@ -44,7 +44,7 @@ COPT is equipped with parameters that influence the performance of COPT. AIMMS i
 
 
 
-In COPT it is possible to use a solution as a MIP start by setting the option **MIP Start** . COPT also supports :ref:`COPT_Multiple_MIP_Starts` .
+In COPT it is possible to use a solution as a MIP start by setting the option **MIP Start**. COPT also supports :ref:`COPT_Multiple_MIP_Starts` .
 
 
 
@@ -54,7 +54,7 @@ COPT can generate multiple solutions to a MIP problem. This is described in the 
 
 **Parallel COPT** 
 
-COPT has a parallel optimizer for solving MIP problems. This parallel optimizer is implemented to run on hardware platforms with parallel processors. To invoke the parallel optimizer you have to set the option **Thread Limit** .
+COPT has a parallel optimizer for solving MIP problems. This parallel optimizer is implemented to run on hardware platforms with parallel processors. To invoke the parallel optimizer you have to set the option **Thread Limit**.
 
 
 

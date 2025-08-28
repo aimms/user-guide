@@ -33,7 +33,7 @@ Sifting solves a sequence of LP subproblems, where the results from one subprobl
 
 
 
-On a multiprocessor computer, the concurrent optimizer launches distinct LP optimizers on multiple threads, terminating as soon as the first optimizer finishes. The concurrent optimizer is described in the section :ref:`CPLEX_Parallel_Concurrent_Optimizer`. The amount of threads available to the concurrent optimizer is controlled by the option **Global Thread Limit** .
+On a multiprocessor computer, the concurrent optimizer launches distinct LP optimizers on multiple threads, terminating as soon as the first optimizer finishes. The concurrent optimizer is described in the section :ref:`CPLEX_Parallel_Concurrent_Optimizer`. The amount of threads available to the concurrent optimizer is controlled by the option **Global Thread Limit**.
 
 
 
@@ -48,7 +48,7 @@ The concurrent optimizer requires more memory than any individual optimizer, and
 **Note** 
 
 *	If the setting 'Barrier' is chosen and the option **Solution Type**  is set to 'Nonbasic' then CPLEX will not provide a basic solution. Also, sensitivity information for objective coefficient ranges for variables and right-hand-side ranges for constraints will not be provided, and the sensitivity information for value ranges for variables and shadow price ranges for constraints will be meaningless.
-*	The barrier algorithm can use parallel processes (threads) as controlled by the option **Global Thread Limit** .
+*	The barrier algorithm can use parallel processes (threads) as controlled by the option **Global Thread Limit**.
 *	This option also determines the LP method used for solving the LP model (if any) during the postsolve.
 *	This option also determines the method used for solving a RMIP model.
 *	The option **Sensitivity Method**  determines which method is used by CPLEX for solving LP problems while calculating sensitivity ranges.

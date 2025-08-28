@@ -30,7 +30,7 @@ Setting 'Most fractional' implies using the most fractional (most infeasible) br
 
 
 
-In case of strong branching, the options **Strong Branching Candidates Limit** , **Strong Branching Iteration Limit**  and **Strong Branching Level**  can be used for further control of strong branching procedure).
+In case of strong branching, the options **Strong Branching Candidates Limit**, **Strong Branching Iteration Limit**  and **Strong Branching Level**  can be used for further control of strong branching procedure).
 
 
 

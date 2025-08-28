@@ -24,7 +24,7 @@ This option determines which algorithm should be used for subsequent solves when
 
 
 
-When solving a continuous multi-objective optimization model using a hierarchical approach, the model is solved once for each objective. The algorithm used to solve for the highest priority objective is controlled by the option **Method** . This option determines the algorithm used to solve for subsequent objectives. The default setting 'Automatic' usually chooses primal simplex. The setting 'Discard warm start' indicates that warm-start information from previous solves should be discarded, and the model should be solved from scratch (using the algorithm indicated by the option **Method** ).
+When solving a continuous multi-objective optimization model using a hierarchical approach, the model is solved once for each objective. The algorithm used to solve for the highest priority objective is controlled by the option **Method**. This option determines the algorithm used to solve for subsequent objectives. The default setting 'Automatic' usually chooses primal simplex. The setting 'Discard warm start' indicates that warm-start information from previous solves should be discarded, and the model should be solved from scratch (using the algorithm indicated by the option **Method** ).
 
 
 

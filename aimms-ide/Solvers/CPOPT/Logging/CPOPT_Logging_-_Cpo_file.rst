@@ -24,7 +24,7 @@ This option can be used to generate a cpo file of the current model loaded. The 
 
 **Note** 
 
-*	The names of variables and constraints can be anonymized using the option **Cpo File Anonymizer** .
+*	The names of variables and constraints can be anonymized using the option **Cpo File Anonymizer**.
 
 
 

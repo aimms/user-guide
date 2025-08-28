@@ -12,17 +12,17 @@ The pivot table will only read in a state file (if present) during initializatio
 
 
 
-*   **Load Default Layout** . This menu command is always present and will reload the pivot table as if no state file was present. The layout will be similar to that of newly created pivot tables. Amongst others, this means that both the row and column tree will contain at most one index and that all column widths are reset.
+*   **Load Default Layout**. This menu command is always present and will reload the pivot table as if no state file was present. The layout will be similar to that of newly created pivot tables. Amongst others, this means that both the row and column tree will contain at most one index and that all column widths are reset.
 
 
 
 
-*   **Load Last Saved Developer Layout** . This menu command is only available if the application is running in end-user mode and a developer state (for the selected pivot table) is present. It will load the layout that had been saved by the developer.
+*   **Load Last Saved Developer Layout**. This menu command is only available if the application is running in end-user mode and a developer state (for the selected pivot table) is present. It will load the layout that had been saved by the developer.
 
 
 
 
-*   **Load Last Saved User Layout** . This menu command is only available if an end-user state (for the selected pivot table) is present.
+*   **Load Last Saved User Layout**. This menu command is only available if an end-user state (for the selected pivot table) is present.
 
 
 

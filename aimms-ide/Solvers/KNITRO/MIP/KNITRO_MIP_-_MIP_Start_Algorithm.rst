@@ -26,7 +26,7 @@ This option specifies which algorithm to use for the root node solve in the bran
 
 
 
-Nonlinear programming subproblems use the algorithm specified by the option **Algorithm** . For more information about the algorithms, see the help of that option.
+Nonlinear programming subproblems use the algorithm specified by the option **Algorithm**. For more information about the algorithms, see the help of that option.
 
 
 

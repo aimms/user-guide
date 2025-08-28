@@ -22,7 +22,7 @@ In some cases one might want to interrupt the current solve and continue it late
 
 
 
-Restart files are named coptddddd.mst (MIP start file) for MIP and coptddddd.bas (basis file) for LP. The number ddddd represents the current value of the option **Restart File Number** .
+Restart files are named coptddddd.mst (MIP start file) for MIP and coptddddd.bas (basis file) for LP. The number ddddd represents the current value of the option **Restart File Number**.
 
 
 

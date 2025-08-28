@@ -12,7 +12,7 @@ Minimal Memory Size
 
 
 
-Together with the option **Extra Memory** , this option influences the size of the workspace allocated by XA, which is determined according to the formula
+Together with the option **Extra Memory**, this option influences the size of the workspace allocated by XA, which is determined according to the formula
 
 
 

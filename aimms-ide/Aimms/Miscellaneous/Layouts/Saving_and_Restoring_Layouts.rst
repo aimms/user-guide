@@ -28,7 +28,7 @@ These 'Last use' layouts are stored in the Registry of your computer using the f
 
 
 
-If the option Startup Layout is set to 'From project', then you must save a layout explicitly via the menu command **Window - Layout - Save Layouts to Project** . This layout becomes part of the .prj file and thus can be re-used when the project is copied. Only a developer with write access on the .prj file, can change this layout. If you use this setting, then an End-User of your application will always start from the End-User layout that the developer has created, and the changes to the layout made by the End-User during a session are lost upon closing.
+If the option Startup Layout is set to 'From project', then you must save a layout explicitly via the menu command **Window - Layout - Save Layouts to Project**. This layout becomes part of the .prj file and thus can be re-used when the project is copied. Only a developer with write access on the .prj file, can change this layout. If you use this setting, then an End-User of your application will always start from the End-User layout that the developer has created, and the changes to the layout made by the End-User during a session are lost upon closing.
 
 
 
@@ -59,7 +59,7 @@ When re-opening a project, AIMMS tries to restore the End-User and/or Developer 
 
 **Reset** 
 
-While working in the IDE you can open various docking windows and arrange them in any way you want. If you feel that you have changed the layout too much and perhaps don't feel comfortable in changing things back, you can also use the menu command **Window - Layout - Reset to Default** . 
+While working in the IDE you can open various docking windows and arrange them in any way you want. If you feel that you have changed the layout too much and perhaps don't feel comfortable in changing things back, you can also use the menu command **Window - Layout - Reset to Default**.
 
 
 

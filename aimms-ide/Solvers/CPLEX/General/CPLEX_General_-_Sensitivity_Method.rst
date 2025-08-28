@@ -41,7 +41,7 @@ Multiple LP problems are solved to calculate shadow price ranges for constraints
 
 **Note** 
 
-*	The barrier algorithm can use parallel processes (threads) as controlled by the option **Global Thread Limit** .
+*	The barrier algorithm can use parallel processes (threads) as controlled by the option **Global Thread Limit**.
 
 
 

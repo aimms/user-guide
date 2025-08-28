@@ -52,12 +52,12 @@ Options in AIMMS can be set in the options dialog box.
 CPLEX can perform a minimum-cost relaxation in order to make an infeasible model feasible. 
 More information about relaxing infeasible models can be found in the section :ref:`CPLEX_Feasibility_Relaxation`.
 
-In CPLEX it is possible to use a partial solution as a MIP start by setting the option **Advanced Start** . 
+In CPLEX it is possible to use a partial solution as a MIP start by setting the option **Advanced Start**. 
 CPLEX also supports :ref:`CPLEX_Multiple_MIP_Starts`.
 
 CPLEX supports several types of callback procedures which allow you to monitor closely and to guide the behavior of the CPLEX optimizers. 
 In particular, callbacks allow user code to be executed regularly during an optimization run. 
-See the section :ref:`CPLEX_Threads_search_strat_and_callb` and the option **Use Generic Callbacks** .
+See the section :ref:`CPLEX_Threads_search_strat_and_callb` and the option **Use Generic Callbacks**.
 
 CPLEX can generate multiple solutions to a MIP problem. 
 This is described in the section :ref:`CPLEX_Solution_Pool`.
@@ -75,7 +75,7 @@ this is controlled by the option :ref:`option-CPLEX-display_solution_statistics`
 
 CPLEX supports several parallel optimizers: Parallel Barrier, Parallel MIP and the Concurrent Optimizer. 
 They are implemented to run on hardware platforms with parallel processors. 
-The easiest way to let the CPLEX optimizers invoke parallel threads is to set the option **Global Thread Limit** . 
+The easiest way to let the CPLEX optimizers invoke parallel threads is to set the option **Global Thread Limit**. 
 CPLEX can use parallel threads for solving MIP models and, if the barrier algorithm is used, for solving LP, QP and QCP models. 
 The Concurrent Optimizer is described in the section :ref:`CPLEX_Parallel_Concurrent_Optimizer`.
 

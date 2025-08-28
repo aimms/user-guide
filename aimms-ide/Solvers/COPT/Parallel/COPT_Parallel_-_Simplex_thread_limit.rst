@@ -12,7 +12,7 @@ Simplex Thread Limit
 
 
 
-This option specifies the number of threads used by the dual simplex algorithm. At the default value of -1 the thread count is determined by the option **Thread Limit** .
+This option specifies the number of threads used by the dual simplex algorithm. At the default value of -1 the thread count is determined by the option **Thread Limit**.
 
 
 

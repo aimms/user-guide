@@ -26,7 +26,7 @@ This option determines the style used for referencing the constraints in a solut
 
 **Note** 
 
-*	This option also influences the style used when printing presolve reductions as controlled by the option **List Presolve Reductions** .
+*	This option also influences the style used when printing presolve reductions as controlled by the option **List Presolve Reductions**.
 
 
 

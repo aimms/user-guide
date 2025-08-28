@@ -16,7 +16,7 @@ This option sets a relative tolerance on the objective value for optimization mo
 
 
 
-This option is used in conjunction with option **Optimality Tolerance** . The optimality of a solution is proven if either of the two options' criteria are fulfilled.
+This option is used in conjunction with option **Optimality Tolerance**. The optimality of a solution is proven if either of the two options' criteria are fulfilled.
 
 
 

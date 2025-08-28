@@ -73,7 +73,7 @@ The parameter settings in the multi-objective parameter files will only affect t
 **Concurrent MIP** 
 
 
-If the option **Concurrent MIP**  is set to a value greater than 1, then by switching on this option you can specify option settings for the different instances in a concurrent MIP run. In that case you have to specify n files, where n is the value of the option **Concurrent MIP** , and the files should be named 'gurobi_inst1.prm', 'gurobi_inst2.prm', etc.
+If the option **Concurrent MIP**  is set to a value greater than 1, then by switching on this option you can specify option settings for the different instances in a concurrent MIP run. In that case you have to specify n files, where n is the value of the option **Concurrent MIP**, and the files should be named 'gurobi_inst1.prm', 'gurobi_inst2.prm', etc.
 
 
 

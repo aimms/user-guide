@@ -24,7 +24,7 @@ This option determines whether or not to generate lift-and-project cuts for the 
 
 
 
-This option overrides option **Global Cut Control** .
+This option overrides option **Global Cut Control**.
 
 
 
