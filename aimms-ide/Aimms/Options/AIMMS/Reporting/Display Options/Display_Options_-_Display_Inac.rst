@@ -14,12 +14,12 @@ Display Inactive Data
 
 
 
-This option determines whether inactive data should be displayed when using display or write statements.
+This option determines whether inactive data should be displayed when using display or write statements. Possible values are:
 
 
 
-*	On (inactive data is displayed)
-*	Off (Inactive data is not displayed)
+    *	On (inactive data is displayed)
+    *	Off (Inactive data is not displayed)
 
 
 

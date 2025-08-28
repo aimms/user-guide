@@ -14,7 +14,7 @@ Formatstring Translate Special Values
 
 
 
-This option determines whether special values (inf, -inf, na, undf, zero) are translated by the FormatString function or not. Possible values are:
+This option determines whether special values (inf, -inf, na, undf, zero) are translated by the :any:`FormatString` function or not. Possible values are:
 
 
 
@@ -24,7 +24,8 @@ This option determines whether special values (inf, -inf, na, undf, zero) are tr
 
 
 
-If this option has the value "on", then the special values are translated according to the setting of the options Formatstring Translate Inf, Formatstring Translate Mininf, Formatstring Translate NA, Formatstring Translate Undf and Formatstring Translate Zero.
+If this option has the value "on", then the special values are translated according to the setting of the options **Formatstring Translate Inf**,
+**Formatstring Translate Mininf**, **Formatstring Translate NA**, **Formatstring Translate Undf** and **Formatstring Translate Zero**.
 
 
 

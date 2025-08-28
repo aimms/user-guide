@@ -14,7 +14,7 @@ Formatstring Translate Inf
 
 
 
-This option specifies to which number inf is translated by the FormatString function if the option Formatstring Translate Special Values is set equal to "On".
+This option specifies to which number inf is translated by the :any:`FormatString` function if the option **Formatstring Translate Special Values** is set equal to "On".
 
 
 

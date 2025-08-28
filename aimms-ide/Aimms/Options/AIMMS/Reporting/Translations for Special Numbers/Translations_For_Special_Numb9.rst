@@ -14,7 +14,7 @@ Put Translate NA
 
 
 
-This option specifies to which number na is translated by the PUT statement if the option Put Translate Special Values is set equal to "On".
+This option specifies to which number na is translated by the PUT statement if the option **Put Translate Special Values** is set equal to "On".
 
 
 

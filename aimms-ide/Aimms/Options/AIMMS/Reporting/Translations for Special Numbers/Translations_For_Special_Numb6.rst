@@ -24,7 +24,8 @@ This option determines whether special values (inf, -inf, na, undf, zero) are tr
 
 
 
-If this option has the value "on", then the special values are translated according to the setting of the options Put Translate Inf, Put Translate Mininf, Put Translate NA, Put Translate Undf and Put Translate Zero.
+If this option has the value "on", then the special values are translated according to the setting of the options **Put Translate Inf**,
+**Put Translate Mininf**, **Put Translate NA**, **Put Translate Undf** and **Put Translate Zero**.
 
 
 
