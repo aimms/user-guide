@@ -1,6 +1,6 @@
 
 
-.. _option-AIMMS-object_for_2-dimensional_identifier:
+.. _option-AIMMS-object_for_2_dimensional_identifier:
 
 
 Object for 2-dimensional identifier

@@ -1,6 +1,6 @@
 
 
-.. _option-AIMMS-object_for_4-dimensional_identifier:
+.. _option-AIMMS-object_for_4_dimensional_identifier:
 
 
 Object for 4-dimensional identifier

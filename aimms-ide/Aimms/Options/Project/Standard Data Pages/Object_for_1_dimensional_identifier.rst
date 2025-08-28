@@ -1,6 +1,6 @@
 
 
-.. _option-AIMMS-object_for_1-dimensional_identifier:
+.. _option-AIMMS-object_for_1_dimensional_identifier:
 
 
 Object for 1-dimensional identifier

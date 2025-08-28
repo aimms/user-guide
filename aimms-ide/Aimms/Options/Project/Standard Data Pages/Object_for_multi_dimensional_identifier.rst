@@ -1,6 +1,6 @@
 
 
-.. _option-AIMMS-object_for_multi-dimensional_identifier:
+.. _option-AIMMS-object_for_multi_dimensional_identifier:
 
 
 Object for multi-dimensional identifier
