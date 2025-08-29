@@ -12,7 +12,10 @@ Idiot crash
 
 
 
-Idiot crash is a type of 'crash' which works well on some homogeneous problems. It works best on problems with unit elements and right-hand-side but will do something to any model. It should only be used before primal. It can be set to -1 in which case CBC decides whether to use it. A value of 0 switches it off, and for n > 0 it will do n passes.
+Idiot crash is a type of 'crash' which works well on some homogeneous problems. It works best on problems with
+unit elements and right-hand-side but will do something to any model. It should only be used before primal.
+It can be set to -1 in which case CBC decides whether to use it. A value of 0 switches it off,
+and for :math:`n > 0` it will do :math:`n` passes.
 
 
 
