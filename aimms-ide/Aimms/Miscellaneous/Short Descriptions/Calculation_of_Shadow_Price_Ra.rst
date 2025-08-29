@@ -8,23 +8,23 @@ Calculation of Shadow Price Ranges
 
 **Description** 
 
-For an LP problem
+AIMMS can calculate the shadow price ranges for an LP problem:
 
 .. math::
 
    \begin{aligned}
-   \text{(P)} \quad & \text{Max} \quad && c^Tx \\
+   \text{(P)} \qquad & \text{Max} \quad && c^Tx \\
    & \text{s.t.} \quad && Ax \leq b \\
    & && x \geq 0
    \end{aligned}
 
 
-AIMMS can calculate the shadow price ranges. The dual problem is given by
+The dual problem is given by
 
 .. math::
 
    \begin{aligned}
-   \text{(D)} \quad & \text{Min} \quad && b^Ty \\
+   \text{(D)} \qquad & \text{Min} \quad && b^Ty \\
    & \text{s.t.} \quad && A^Ty \geq c \\
    & && y \geq 0
    \end{aligned}
@@ -35,9 +35,9 @@ The shadow price range for constraint :math:`i` is calculated by solving the fol
 .. math::
 
    \begin{aligned}
-   \text{(Smax)} \quad & \text{Max} \quad && b^Ty \\
+   \text{(Smax)} \qquad & \text{Max} \quad && b^Ty \\
    & \text{s.t.} \quad && A^Ty \geq c \\
-   & && b^Ty = D_{obj}
+   & && b^Ty = D_{obj} \\
    & && y \geq 0
    \end{aligned}
 
@@ -46,15 +46,15 @@ and
 .. math::
 
    \begin{aligned}
-   \text{(Smin)} \quad & \text{Min} \quad && b^Ty \\
+   \text{(Smin)} \qquad & \text{Min} \quad && b^Ty \\
    & \text{s.t.} \quad && A^Ty \geq c \\
-   & && b^Ty = D_{obj}
+   & && b^Ty = D_{obj} \\
    & && y \geq 0
    \end{aligned}
 
 
-where :math:`D_{obj}` denotes the optimal solution value of (D). The optimal solution value of (Smax) gives the largest
-shadow price and (Smin) the smallest shadow price for constraint :math:`i`.
+where :math:`D_{obj}` denotes the optimal objective value of (D). The optimal objective value of (Smax) gives the largest
+shadow price and that of (Smin) the smallest shadow price for constraint :math:`i`.
 
 In practice the problems (Smax) and (Smin) are sometimes infeasible because of numerical problems with the constraint
 
@@ -80,8 +80,8 @@ instead where :math:`R` is defined as
     \end{cases}
 
 Here :math:`\epsilon_r` is the value of the option **Shadow Price Range Relative Tolerance** and
-:math:`\epsilon_a` the value of **Shadow Price Range Absolute Tolerance**. When the setting of both
-options is 0.0 (the default), :math:`R` equals :math:`D_{obj}`.
+:math:`\epsilon_a` the value of **Shadow Price Range Absolute Tolerance**. If both options are set to 0.0
+(the default) then :math:`R` equals :math:`D_{obj}`. Otherwise, :math:`R > D_{obj}`.
 
 
 **Remark** 
