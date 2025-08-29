@@ -14,11 +14,17 @@ Evaluations Range Integer Variables
 
 
 
-This option controls whether the AIMMS Presolver will evaluate nonlinear expressions (in a constraint) that contain (bounded) integer variables. Doing so might result in tighter upper and lower bounds for these or other variables.
+This option controls whether the AIMMS Presolver will evaluate nonlinear expressions (in a constraint)
+that contain (bounded) integer variables. Doing so might result in tighter upper and lower bounds for
+these or other variables.
 
 
 
-The value of this option determines which integer variables are used for evaluating nonlinear expressions. If the value of this option equals n > 0, then each integer variable in the model with at most n elements in its range will be used for evaluating nonlinear expressions. For example, if an integer variable has range {0,...,4} (and therefore 5 elements in its range) then it will be used for evaluating nonlinear expressions if this option is set to 5 (the default) but it is excluded if this option is set to 4 (or lower).
+The value of this option determines which integer variables are used for evaluating nonlinear expressions.
+If the value of this option equals :math:`n > 0`, then each integer variable in the model with at most :math:`n`
+elements in its range will be used for evaluating nonlinear expressions. For example, if an integer
+variable has range {0,...,4} (and therefore 5 elements in its range) then it will be used for evaluating
+nonlinear expressions if this option is set to 5 (the default) but it is excluded if this option is set to 4 (or lower).
 
 
 

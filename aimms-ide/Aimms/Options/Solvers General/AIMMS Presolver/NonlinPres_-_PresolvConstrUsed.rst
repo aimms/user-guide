@@ -13,29 +13,23 @@ Presolve Constraints Used
 :Default:	All	
 
 
-
-This option controls the type of constraints that are used by the AIMMS Presolver to reduce the bounds of the variables (using Feasibility-Based Bound Tightening). Possible values are:
-
-
+This option controls the type of constraints that are used by the AIMMS Presolver to reduce the bounds of
+the variables (using Feasibility-Based Bound Tightening). Possible values are:
 
     *	Linear
     *	Nonlinear
     *	All
 
 
-
-
-The largest amount of reductions will be obtained if all constraints are used; however reducing the bounds of the variables by using nonlinear constraints might sometimes be time consuming.
-
-
-
+The largest amount of reductions will be obtained if all constraints are used; however reducing the bounds
+of the variables by using nonlinear constraints might sometimes be time consuming.
 
 
 **Note** 
 
-*	This option has only an effect when solving a nonlinear model and the option **Nonlinear Presolve**  is switched on, or when solving a linear, quadratic or quadratically-constrained model and the option **Linear Presolve**  is switched on, or if the function GMP::Instance::CreatePresolved is used.
-
-
+*	This option has only an effect when solving a nonlinear model and the option **Nonlinear Presolve** is switched
+    on, or when solving a linear, quadratic or quadratically-constrained model and the option **Linear Presolve**
+    is switched on, or if the function :any:`GMP::Instance::CreatePresolved` is used.
 
 
 **Learn more about** 

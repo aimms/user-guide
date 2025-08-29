@@ -13,9 +13,8 @@ MINLP Probing
 :Default:	Limited	
 
 
-
-This option controls whether the AIMMS Presolver should do probing for MINLP models (and for MIP, MIQP and MIQCP models). Probing is a technique that looks at the logical implications of fixing a binary variable to 0 or 1. Possible values are:
-
+This option controls whether the AIMMS Presolver should do probing for MINLP models (and for MIP, MIQP and MIQCP models).
+Probing is a technique that looks at the logical implications of fixing a binary variable to 0 or 1. Possible values are:
 
 
     *	Off
@@ -24,33 +23,24 @@ This option controls whether the AIMMS Presolver should do probing for MINLP mod
     *	Full
 
 
+With setting 'Limited' only very basic probing is done. The AIMMS Presolver will try to transform some classes of
+nonlinear constraints if the option **Reformulate Constraints** is switched on.
 
+If setting 'More' is selected then probing will also apply coefficient improvement using bound reduction. Coefficient
+improvement is a process of improving the coefficients of the binary variables such that the NLP relaxation becomes
+more tight. More about coefficient improvement can be found in the paper by Johnson et al. (2000).
 
-With setting 'Limited' only very basic probing is done. The AIMMS Presolver will try to transform some classes of nonlinear constraints if the option **Reformulate Constraints**  is switched on.
-
-
-
-
-
-If setting 'More' is selected then probing will also apply coefficient improvement using bound reduction. Coefficient improvement is a process of improving the coefficients of the binary variables such that the NLP relaxation becomes more tight. More about coefficient improvement can be found in the paper by Johnson et al. (2000).
-
-
-
-
-
-If setting 'Full' is selected then probing will try coefficient improvement more aggressively. Full probing can result in more (binary) variables being removed. This setting can be computationally expensive.
-
-
-
+If setting 'Full' is selected then probing will try coefficient improvement more aggressively. Full probing can
+result in more (binary) variables being removed. This setting can be computationally expensive.
 
 
 **Note** 
 
-*	This option has only an effect when solving a nonlinear model and the option **Nonlinear Presolve**  is switched on, or when solving a linear, quadratic or quadratically-constrained model and the option **Linear Presolve**  is switched on, or if the function GMP::Instance::CreatePresolved is used.
-*	If the function GMP::Instance::CreatePresolved is used then AIMMS will change the model type from MINLP (NLP) into MIP (LP) if this option is switched on and the presolved model contains no nonlinear constraints.
+*	This option has only an effect when solving a nonlinear model and the option **Nonlinear Presolve** is switched on,
+    or when solving a linear, quadratic or quadratically-constrained model and the option **Linear Presolve** is switched on,
+    or if the function :any:`GMP::Instance::CreatePresolved` is used.
+*	If the function :any:`GMP::Instance::CreatePresolved` is used then AIMMS will change the model type from MINLP (NLP) into MIP (LP) if this option is switched on and the presolved model contains no nonlinear constraints.
 *	Probing can significantly improve the performance of the solvers CBC and XA for MIP models.
-
-
 
 
 **Learn more about** 
@@ -58,8 +48,6 @@ If setting 'Full' is selected then probing will try coefficient improvement more
 *	:ref:`option-AIMMS-linear_presolve` 
 *	:ref:`option-AIMMS-nonlinear_presolve`  
 *	:ref:`option-AIMMS-reformulate_constraints`  
-
-
 
 
 **References** 

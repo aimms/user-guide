@@ -39,7 +39,7 @@ variable bounds in these constraints are shown. For example:
          x2                 -0.200  ->  0        0.200
          y                  0       ->  4.200    inf
          [Nonlinear term]   -inf                 0
-         x2                 1                    8
+         x1                 1                    8
 
 
     c2 .. 
@@ -53,7 +53,7 @@ variable bounds in these constraints are shown. For example:
 
 The lines 15-21 show the constraint 'c2' for which the AIMMS Presolver found an inconsistency. The variables
 'x1' and 'y' can never be lower than 1 and 4.2 respectively and therefore the sum of these variables must be greater
-than or equal to 5.2 which contradicts the right hand side value of 4 of constraint 'c2'. The lower bound for variable
+than or equal to 5.2 which contradicts the right-hand-side value of 4 of constraint 'c2'. The lower bound for variable
 'y' was derived by the AIMMS Presolver from constraint 'c1' as shown in the lines 3-12. The original lower bound of
 variable 'y' was 0. The AIMMS Presolver also derived that the lower bound of variable 'x2' could be tightened from
 -0.2 to 0, but variable 'x2' was not (directly) responsible for the inconsistency.

@@ -14,7 +14,8 @@ Linear Presolve
 
 
 
-This option controls whether the AIMMS Presolver is called before solving a linear model, a quadratic programming (QP/MIQP) model or a quadratically-constrained programming (QCP/MIQCP) model. Possible values are:
+This option controls whether the AIMMS Presolver is called before solving a linear model, a quadratic programming
+(QP/MIQP) model or a quadratically-constrained programming (QCP/MIQCP) model. Possible values are:
 
 
 
@@ -24,7 +25,8 @@ This option controls whether the AIMMS Presolver is called before solving a line
 
 
 
-After calling the Presolver AIMMS will pass the presolved model to the solver. A solution obtained from the solver is translated back to the original model but in general sensitivity and basis information will not be complete.
+After calling the Presolver, AIMMS will pass the presolved model to the solver. A solution obtained from the solver is
+translated back to the original model but in general sensitivity and basis information will not be complete.
 
 
 
@@ -42,8 +44,8 @@ The amount of reductions that the AIMMS Presolver can do is influenced by the op
 *	The option **Nonlinear Presolve**  controls the AIMMS Presolver for nonlinear models.
 *	The AIMMS Presolver cannot process constraints that contain an external function and therefore it will ignore such a constraint.
 *	The AIMMS Presolver will not be called for models with multi-objectives.
-*	The AIMMS Presolver will not be called in case the model is solved using the procedure GMP::SolverSession::AsynchronousExecute.
-*	The function GMP::Instance::CreatePresolved will call the AIMMS Presolver underneath and can also be used for linear models.
+*	The AIMMS Presolver will not be called in case the model is solved using the procedure :any:`GMP::SolverSession::AsynchronousExecute`.
+*	The function :any:`GMP::Instance::CreatePresolved` will call the AIMMS Presolver underneath and can also be used for linear models.
 
 
 
