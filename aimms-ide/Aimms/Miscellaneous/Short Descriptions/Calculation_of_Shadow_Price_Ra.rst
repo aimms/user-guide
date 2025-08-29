@@ -80,8 +80,8 @@ instead where :math:`R` is defined as
     \end{cases}
 
 Here :math:`\epsilon_r` is the value of the option **Shadow Price Range Relative Tolerance** and
-:math:`\epsilon_a` the value of the options **Shadow Price Range Absolute Tolerance**. Note that if both
-options are set to 0 (the default) then :math:`R = D_{obj}`; otherwise, :math:`R > D_{obj}`.
+:math:`\epsilon_a` the value of the option **Shadow Price Range Absolute Tolerance**. Note that if both
+options are set to 0 (the default) then :math:`R = D_{obj}`, otherwise :math:`R > D_{obj}`.
 
 
 **Remark** 

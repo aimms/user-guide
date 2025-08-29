@@ -13,7 +13,7 @@ Miscellaneous
     Colors/index
     Command Line Options/index
     Grab/index
-    Help Files/index
+    Help Files/Help_Files_for_AIMMS_Projects
     Localization/index
     Solver Configuration/index
     XML/index
