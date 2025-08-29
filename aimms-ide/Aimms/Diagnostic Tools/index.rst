@@ -6,5 +6,5 @@ Diagnostic Tools
 
     Debugger/index
     Profiler/index
-    Identifier Cardinalities/index
+    Identifier Cardinalities/Identifier_Cardinalities
     Math Program Inspector/index
