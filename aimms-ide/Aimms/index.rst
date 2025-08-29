@@ -2,7 +2,7 @@ AIMMS IDE
 ===========================
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 4
 
     AIMMS
     Model Explorer/index

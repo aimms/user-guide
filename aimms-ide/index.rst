@@ -2,7 +2,7 @@ AIMMS and Solvers
 ================================
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 5
 
     Aimms/index
     Solvers/index
