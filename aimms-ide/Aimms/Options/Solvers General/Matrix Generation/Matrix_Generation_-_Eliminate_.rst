@@ -27,14 +27,20 @@ The matrix generation algorithm will decide whether or not to generate a column 
 
 
 1.	AIMMS will never generate matrix columns for
+
     * a symbolic variable that is not contained in the variable set of a mathematical program,
     * an index tuple of a symbolic variable that is not contained in its domain (i.e. does not satisfy the domain restriction),
     * a variable for which one of the indices in the domain refers to a HORIZON, and the corresponding element in the HORIZON falls outside the planning interval of the HORIZON.
+
 2.	If the NONVAR STATUS attribute of a variable (or the .nonvar suffix) assumes a value
+
     * < 0, then AIMMS will always generate a column,
     * > 0, then AIMMS will only generate a column if the option **Eliminate Nonvar Columns**  is switched off.
+
     In these cases, both bounds of the generated columns will be set equal to the level value of the associated variables prior to generating.
+
 3.	If the NONVAR STATUS attribute is equal to 0, and the lower and upper bound of a variable are equal, then AIMMS will only generate a column if the option **Eliminate Nonvar Columns**  is switched off.
+
 4.	In all other cases AIMMS will generate a column in the matrix.
 
 
