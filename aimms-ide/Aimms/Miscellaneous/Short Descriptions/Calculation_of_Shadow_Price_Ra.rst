@@ -10,7 +10,6 @@ Calculation of Shadow Price Ranges
 
 For an LP problem
 
-
 .. math::
 
    \begin{aligned}
@@ -20,146 +19,93 @@ For an LP problem
    \end{aligned}
 
 
-.. list-table::
-
-   * -  (P) 
-     - MAX
-     - c^T x
-   * - 
-     - s.t. 
-     - Ax ≤ b
-   * - 
-     - 
-     - x ≥ 0
-
-
-
-
 AIMMS can calculate the shadow price ranges. The dual problem is given by
 
+.. math::
+
+   \begin{aligned}
+   \text{(D)} \quad & \text{Min} \quad && b^Ty \\
+   & \text{s.t.} \quad && A^Ty \geq c \\
+   & && y \geq 0
+   \end{aligned}
 
 
+The shadow price range for constraint :math:`i` is calculated by solving the following two problems
 
-.. list-table::
+.. math::
 
-   * -  (D) 
-     - MIN
-     - b^T y
-   * - 
-     - s.t. 
-     - A^T y ≥ c
-   * - 
-     - 
-     - y ≥ 0
-
-
-
-
-The shadow price range for constraint i is calculated by solving the following two problems
-
-
-
-
-.. list-table::
-
-   * -  (S_max_i) 
-     - MAX
-     - y_i
-   * - 
-     - s.t. 
-     - A^T y ≥ c
-   * - 
-     - 
-     - b^T y = D_obj
-   * - 
-     - 
-     - y ≥ 0
-
-
-
+   \begin{aligned}
+   \text{(Smax)} \quad & \text{Max} \quad && b^Ty \\
+   & \text{s.t.} \quad && A^Ty \geq c \\
+   & && b^Ty = D_{obj}
+   & && y \geq 0
+   \end{aligned}
 
 and
 
+.. math::
+
+   \begin{aligned}
+   \text{(Smin)} \quad & \text{Min} \quad && b^Ty \\
+   & \text{s.t.} \quad && A^Ty \geq c \\
+   & && b^Ty = D_{obj}
+   & && y \geq 0
+   \end{aligned}
 
 
+where :math:`D_{obj}` denotes the optimal solution value of (D). The optimal solution value of (Smax) gives the largest
+shadow price and (Smin) the smallest shadow price for constraint :math:`i`.
 
-.. list-table::
+In practice the problems (Smax) and (Smin) are sometimes infeasible because of numerical problems with the constraint
 
-   * -  (S_min_i) 
-     - MIN
-     - y_i
-   * - 
-     - s.t. 
-     - A^T y ≥ c
-   * - 
-     - 
-     - b^T y = D_obj
-   * - 
-     - 
-     - y ≥ 0
+.. math::
 
-
-
-
-where D_obj denotes the optimal solution value of (D). The optimal solution value of (S_max_i) gives the largest shadow price and (S_min_i) the smallest shadow price.
-
-
-
-In practice the problems (S_max_i) and (S_min_i) are sometimes infeasible because of numerical problems with the constraint
-
-
-
-	b^T y = D_obj .
-
+   b^Ty = D_{obj}
 
 
 Therefore AIMMS uses the constraint
 
+.. math::
+
+   b^Ty \leq R
 
 
-	b^T y ≤ R
+instead where :math:`R` is defined as
 
+.. math::
 
+    R = \begin{cases}
+    \text{Max}[ D_{obj} * (1 + \epsilon_r), D_{obj} + \epsilon_a ]  \quad  \text{if } D_{obj} \geq 0.0 \\
+    \text{Max}[ D_{obj} * (1 - \epsilon_r), D_{obj} + \epsilon_a ]  \quad  \text{if } D_{obj} \leq 0.0
+    \end{cases}
 
-instead where R is defined as
-
-
-
- 	MAX[ D_obj * (1.0 +-eps_rel), D_obj + eps_abs ]	if D_obj ≥ 0.0
-
- 	MAX[ D_obj * (1.0 -+eps_rel), D_obj + eps_abs ]	if D_obj ≤ 0.0
-
-
-
-Here eps_rel is the value of the option **Shadow Price Range Relative Tolerance** and eps_abs the value of **Shadow Price Range Absolute Tolerance**. When the setting of both options is 0.0 (the default) R equals D_obj.
-
+Here :math:`\epsilon_r` is the value of the option **Shadow Price Range Relative Tolerance** and
+:math:`\epsilon_a` the value of **Shadow Price Range Absolute Tolerance**. When the setting of both
+options is 0.0 (the default), :math:`R` equals :math:`D_{obj}`.
 
 
 **Remark** 
 
-The subproblems (S_max_i) and (S_min_i) are not solved for constraints for which the nominal right hand side value is in the interior of the interval
+The subproblems (Smax) and (Smin) are not solved for constraints for which the nominal right-hand- side
+value is in the interior of the interval
 
 
-
-	[smallest right hand side, largest right hand side]
-
+	[smallest right-hand-side, largest right-hand-side]
 
 
 since for these constraints it is known that
 
 
-
 	smallest shadow price = largest shadow price = shadow price.
 
 
-
-(Calculating the smallest and largest right hand side values is only supported by CPLEX and Gurobi, so only these solvers can skip solving some of the subproblems (S_max_i) and (S_min_i).)
-
+Calculating the smallest and largest right-hand-side values is only supported by CPLEX and Gurobi,
+so only these solvers can skip solving some of the subproblems (Smax) and (Smin).
 
 
 **Note** 
 
-*	The option **Time Limit Sensitivity Ranges**  can be used to set a time limit for each LP problem that is solved while calculating shadow price ranges (or variable value ranges).
+*	The option **Time Limit Sensitivity Ranges** can be used to set a time limit for each LP problem that is solved while calculating shadow price ranges (or variable value ranges).
 
 
 
