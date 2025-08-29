@@ -39,7 +39,7 @@ Furthermore, for a set of constraints of the form
 
 
 where :math:`x` is a binary variable and :math:`y` and :math:`z` are continuous variables, the second constraint
-can be transformed into its perspective counterpart resulting in a tighter relaxation. See G{\"u}l{\"u}k et al. (2010).
+can be transformed into its perspective counterpart resulting in a tighter relaxation. See G\u00FCnl\u00FCk et al. (2010).
 
 With setting 'Single' the AIMMS Presolver will only transform constraints if their counterpart consists of one
 constraint. With setting 'Multi' also constraints are transformed for which the counterpart requires more than
@@ -55,7 +55,7 @@ solve statement is used then the 'Multi' setting is equivalent to the 'Single' s
 **Note** 
 
 *	This option has only an effect if the option **MINLP Probing** is switched on.
-*	For some MINLP problems it might be worthwhile to experiment with the function :any:`GMP::Instance::CreatePresolved` if you are using BARON or Knitro. (The GMP AOA algorithm already uses the function :any:`GMP::Instance::CreatePresolved` underneath.)
+*	For some MINLP problems it might be worthwhile to experiment with the function :any:`GMP::Instance::CreatePresolved` if you are using BARON or Knitro. (The GMP-AOA algorithm already uses the function :any:`GMP::Instance::CreatePresolved` underneath.)
 
 
 **Learn more about** 
@@ -65,7 +65,7 @@ solve statement is used then the 'Multi' setting is equivalent to the 'Single' s
 
 **References** 
 
-*	G{\"u}l{\"u}k, O., and J. Linderoth, Perspective reformulations of mixed integer nonlinear programs with indicator variables, Math. Program. B **124** (2010), pp. 183-205.
+*	G\u00FCnl\u00FCk, O., and J. Linderoth, Perspective reformulations of mixed integer nonlinear programs with indicator variables, Math. Program. B **124** (2010), pp. 183-205.
 
 
 

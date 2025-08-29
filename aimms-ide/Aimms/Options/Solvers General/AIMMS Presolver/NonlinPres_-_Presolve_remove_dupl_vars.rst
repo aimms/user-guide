@@ -22,8 +22,8 @@ then one of the variables is redundant and can be removed. Possible values are:
     *	Off
 
 
-For example, suppose that the variables :math:`X` and :math:`Y` have the same coefficient in every row of the mathematical
-program and the bounds are as follows: 
+For example, suppose that the variables :math:`X` and :math:`Y` have the same coefficient in every constraint
+of the mathematical program and the bounds are as follows: 
 
 .. math::
 
