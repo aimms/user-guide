@@ -2,7 +2,7 @@ Solvers General
 ===============
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     AIMMS Presolver/index
     Infeasibility analysis/index

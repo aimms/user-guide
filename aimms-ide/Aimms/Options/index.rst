@@ -4,7 +4,7 @@ Options
 =======
 
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: 1
 
     AIMMS_Execution_Options
     Opening_the_Options_Dialog_Box
