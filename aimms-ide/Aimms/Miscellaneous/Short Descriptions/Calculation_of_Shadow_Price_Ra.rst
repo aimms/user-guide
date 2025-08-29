@@ -35,7 +35,7 @@ The shadow price range for constraint :math:`i` is calculated by solving the fol
 .. math::
 
    \begin{aligned}
-   \text{(Smax)} \qquad & \text{Max} \quad && b^Ty \\
+   \text{(Smax)} \qquad & \text{Max} \quad && y_i \\
    & \text{s.t.} \quad && A^Ty \geq c \\
    & && b^Ty = D_{obj} \\
    & && y \geq 0
@@ -46,7 +46,7 @@ and
 .. math::
 
    \begin{aligned}
-   \text{(Smin)} \qquad & \text{Min} \quad && b^Ty \\
+   \text{(Smin)} \qquad & \text{Min} \quad && y_i \\
    & \text{s.t.} \quad && A^Ty \geq c \\
    & && b^Ty = D_{obj} \\
    & && y \geq 0
@@ -75,13 +75,13 @@ instead where :math:`R` is defined as
 .. math::
 
     R = \begin{cases}
-    \text{Max}[ D_{obj} * (1 + \epsilon_r), D_{obj} + \epsilon_a ]  \quad  \text{if } D_{obj} \geq 0.0 \\
-    \text{Max}[ D_{obj} * (1 - \epsilon_r), D_{obj} + \epsilon_a ]  \quad  \text{if } D_{obj} \leq 0.0
+    \text{max}[ D_{obj} * (1 + \epsilon_r), D_{obj} + \epsilon_a ]  \quad  \text{if } D_{obj} \geq 0.0 \\
+    \text{max}[ D_{obj} * (1 - \epsilon_r), D_{obj} + \epsilon_a ]  \quad  \text{if } D_{obj} \leq 0.0
     \end{cases}
 
 Here :math:`\epsilon_r` is the value of the option **Shadow Price Range Relative Tolerance** and
-:math:`\epsilon_a` the value of **Shadow Price Range Absolute Tolerance**. If both options are set to 0.0
-(the default) then :math:`R` equals :math:`D_{obj}`. Otherwise, :math:`R > D_{obj}`.
+:math:`\epsilon_a` the value of the options **Shadow Price Range Absolute Tolerance**. Note that if both
+options are set to 0 (the default) then :math:`R = D_{obj}`; otherwise, :math:`R > D_{obj}`.
 
 
 **Remark** 
