@@ -27,9 +27,7 @@ of the variables by using nonlinear constraints might sometimes be time consumin
 
 **Note** 
 
-*	This option has only an effect when solving a nonlinear model and the option **Nonlinear Presolve** is switched
-    on, or when solving a linear, quadratic or quadratically-constrained model and the option **Linear Presolve**
-    is switched on, or if the function :any:`GMP::Instance::CreatePresolved` is used.
+*	This option has only an effect when solving a nonlinear model and the option **Nonlinear Presolve** is switched on, or when solving a linear, quadratic or quadratically-constrained model and the option **Linear Presolve** is switched on, or if the function :any:`GMP::Instance::CreatePresolved` is used.
 
 
 **Learn more about** 
