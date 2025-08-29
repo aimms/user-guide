@@ -19,9 +19,10 @@ before passing the constraints to the solver. For instance, if the definition of
 quadratic term :math:`x * z + y * z` then this will be passed as :math:`(z + y) * x` if this option is turned on,
 and as :math:`x * z + y * z` if this option is turned off.
 
-In general, the solvers CONOPT, IPOPT, KNITRO, MINOS and SNOPT are more efficient if this option is turned on,
-and the solver BARON is more efficient if this option is turned off. This option has no influence on the
-performance of linear solvers (CBC, COPT, CPLEX, Gurobi).
+In general, the solvers :ref:`SolverCONOPT`, :ref:`SolverIPOPT`, :ref:`SolverKnitro`, :ref:`SolverMINOS`
+and :ref:`SolverSNOPT` are more efficient if this option is turned on, and the solver :ref:`SolverBARON`
+is more efficient if this option is turned off. This option has no influence on the performance of linear
+solvers (:ref:`SolverCBC`, :ref:`SolverCOPT`, :ref:`SolverCPLEX`, :ref:`SolverGurobi`).
 
 With the default setting ("Automatic") AIMMS tries to automatically determine whether it is best to combine
 quadratic terms or not.

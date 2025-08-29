@@ -1,5 +1,6 @@
+.. _SolverODH:
 
-ODH CPLEX
+ODH-CPLEX
 ==========
 
 **Description** 

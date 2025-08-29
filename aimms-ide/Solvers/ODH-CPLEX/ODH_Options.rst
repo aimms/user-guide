@@ -1,7 +1,7 @@
 .. _ODH_Options:
 
-ODH Options
-=============
+ODH-CPLEX Options
+==================
 
 .. toctree::
     :maxdepth: 1

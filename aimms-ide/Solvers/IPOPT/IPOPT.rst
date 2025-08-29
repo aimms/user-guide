@@ -1,3 +1,5 @@
+.. _SolverIPOPT:
+
 IPOPT
 =====
 

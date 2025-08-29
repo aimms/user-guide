@@ -21,9 +21,9 @@ This option determines which feasibility relaxation to use. Possible values are:
 
 
 If the option is set to 'Standard', AIMMS will use the built-in method of handling violation penalties.
-If this option is set to 'Advanced', AIMMS will use FeasOpt (if CPLEX is used) or FeasRelax (if Gurobi is
-used). If the option is set to 'Advanced', but neither CPLEX nor Gurobi is selected as solver, AIMMS will
-default to the standard approach. 
+If this option is set to 'Advanced', AIMMS will use FeasOpt (if ref:`SolverCPLEX` is used) or FeasRelax
+(if :ref:`SolverGurobi` is used). If the option is set to 'Advanced', but neither ref:`SolverCPLEX` nor
+:ref:`SolverGurobi` is selected as solver, AIMMS will default to the standard approach. 
 
 If violation penalties are specified for the optimization model, AIMMS will automatically generate excess
 variables for the specified constraints. In the built-in approach, AIMMS will add a penalty term - for each

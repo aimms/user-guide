@@ -1,4 +1,4 @@
-.. _option-CPOPT-cp_optimizer:
+.. _SolverCPOPT:
 
 
 CP Optimizer
