@@ -11,7 +11,7 @@ Use Quadratic Structure
 :Default:	Automatic	
 
 
-This option is currently used only by the solver :ref:`KNITRO`. Possible values are:
+This option is currently used only by the solver :ref:`SolverKnitro`. Possible values are:
 
     *	Off
     *	On
