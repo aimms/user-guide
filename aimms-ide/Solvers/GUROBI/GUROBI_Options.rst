@@ -1,6 +1,6 @@
 .. _GUROBI_Options:
 
-GUROBI Options
+Gurobi Options
 ==============
 
 .. toctree::
