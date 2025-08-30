@@ -3,7 +3,7 @@
 .. _AIMMS_to_GUROBI_Mapping:
 
 
-AIMMS to GUROBI Mapping
+AIMMS to Gurobi Mapping
 ============================
 
 **Description** 
@@ -13,7 +13,7 @@ The table shows in the left column the AIMMS Gurobi options while the right colu
 .. list-table::
 
    * - **Option name in AIMMS** 
-     - **Name in GUROBI** 
+     - **Name in Gurobi** 
    * - :ref:`option-GUROBI-barrier_convergence_tolerance` 
      - BARCONVTOL
    * - :ref:`option-GUROBI-barrier_correction_steps` 

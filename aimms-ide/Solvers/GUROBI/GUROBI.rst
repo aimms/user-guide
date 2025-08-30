@@ -1,6 +1,6 @@
 .. _SolverGurobi:
 
-GUROBI
+Gurobi
 ===========
 
 **Description** 

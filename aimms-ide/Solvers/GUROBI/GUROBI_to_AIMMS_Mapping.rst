@@ -3,7 +3,7 @@
 .. _GUROBI_to_AIMMS_Mapping:
 
 
-GUROBI to AIMMS Mapping
+Gurobi to AIMMS Mapping
 ============================
 
 **Description** 
@@ -13,7 +13,7 @@ the right column displays for each Gurobi parameter the associated AIMMS option.
 
 .. list-table::
 
-   * - **Name in GUROBI**
+   * - **Name in Gurobi**
      - **Option name in AIMMS**
    * - AGGFILL
      - :ref:`option-GUROBI-presolve_aggregation_fill`
