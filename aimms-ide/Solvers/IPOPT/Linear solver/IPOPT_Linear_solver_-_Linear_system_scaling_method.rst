@@ -14,7 +14,7 @@ Linear system scaling method
 
 
 
-This option determines the method used to compute symmetric scaling factors for the augmented system (see also the option **Linear System Scaling** ). This scaling is independent of the NLP problem scaling. By default, MC19 is only used if MA27 or MA57 is selected as linear solver as controlled by the option **Linear Solver Selection**. Possible values are:
+This option determines the method used to compute symmetric scaling factors for the augmented system (see also the option **Linear System Scaling**). This scaling is independent of the NLP problem scaling. By default, MC19 is only used if MA27 or MA57 is selected as linear solver as controlled by the option **Linear Solver Selection**. Possible values are:
 
 
 

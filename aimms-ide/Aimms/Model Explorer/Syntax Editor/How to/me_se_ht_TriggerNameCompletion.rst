@@ -7,7 +7,7 @@
 Trigger Name Completion
 =======================
 
-To explicitly trigger Name Completion, press the spacebar while holding the Control key and optionally the Shift key (**Ctrl (+ Shift) + Spacebar** ). Name completion will automatically take place upon typing a dot ('.') or a double colon ('::').
+To explicitly trigger Name Completion, press the spacebar while holding the Control key and optionally the Shift key (**Ctrl (+ Shift) + Spacebar**). Name completion will automatically take place upon typing a dot ('.') or a double colon ('::').
 
 
 

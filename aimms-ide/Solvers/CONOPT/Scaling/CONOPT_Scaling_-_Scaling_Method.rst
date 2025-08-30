@@ -23,7 +23,7 @@ This option specifies the method used by CONOPT for scaling. Possible values are
 
 
 
-CONOPT will by default use scaling of the equations and variables of the model to improve the numerical behavior of the solution algorithm and the accuracy of the final solution (see also the option **Rescaling Frequency** ). The objective of the scaling process is to reduce the values of all large primal and dual variables as well as the values of all large first derivatives so they become closer to 1. Small values are usually not scaled up, see the options **Minimal Scaling Factor**  and **Maximal Scaling Factor**. The default scaling method is recommended. The others are only kept for backward compatibility.
+CONOPT will by default use scaling of the equations and variables of the model to improve the numerical behavior of the solution algorithm and the accuracy of the final solution (see also the option **Rescaling Frequency**). The objective of the scaling process is to reduce the values of all large primal and dual variables as well as the values of all large first derivatives so they become closer to 1. Small values are usually not scaled up, see the options **Minimal Scaling Factor**  and **Maximal Scaling Factor**. The default scaling method is recommended. The others are only kept for backward compatibility.
 
 
 

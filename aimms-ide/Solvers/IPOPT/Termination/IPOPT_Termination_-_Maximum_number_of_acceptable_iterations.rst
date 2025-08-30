@@ -14,7 +14,7 @@ Maximum number of acceptable iterations
 
 
 
-This option sets the number of "acceptable" iterates before triggering termination. If the algorithm encounters this many successive "acceptable" iterates (see the option **Acceptable Relative Convergence Tolerance** ), it terminates, assuming that the problem has been solved to best possible accuracy given round-off. If it is set to 0, this heuristic is disabled.
+This option sets the number of "acceptable" iterates before triggering termination. If the algorithm encounters this many successive "acceptable" iterates (see the option **Acceptable Relative Convergence Tolerance**), it terminates, assuming that the problem has been solved to best possible accuracy given round-off. If it is set to 0, this heuristic is disabled.
 
 
 

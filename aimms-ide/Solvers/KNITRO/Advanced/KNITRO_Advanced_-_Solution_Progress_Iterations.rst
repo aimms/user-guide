@@ -16,7 +16,7 @@ The optimization process will terminate if the relative change in the solution e
 
 
 
-If set to 0, Knitro chooses this value based on the solver and context. Currently Knitro sets this value to 3 unless the MISQP algorithm (as controlled by the option **MIP Method** ) is being used, in which case the value is set to 1 by default.
+If set to 0, Knitro chooses this value based on the solver and context. Currently Knitro sets this value to 3 unless the MISQP algorithm (as controlled by the option **MIP Method**) is being used, in which case the value is set to 1 by default.
 
 
 

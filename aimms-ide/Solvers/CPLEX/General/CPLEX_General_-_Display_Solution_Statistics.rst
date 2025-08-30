@@ -277,8 +277,8 @@ The CPLEX barrier optimizer stops when it finds feasible primal and dual solutio
 
 *	This option will only be effective if a solution is found by CPLEX.
 *	For LP problems, if the barrier algorithm is used with a crossover step, as controlled by the option **Solution Type**, then information will be displayed related to the quality of the simplex solution.
-*	The solution statistics are displayed before the postsolve step is executed (if any; as controlled by the general solvers option **Postsolve** ).
-*	For MIP problems, the option **MIP Kappa**  offers a way to calculate the condition number.
+*	The solution statistics are displayed before the postsolve step is executed (if any; as controlled by the general solvers option **Postsolve**).
+*	For MIP problems, the option **MIP Kappa** offers a way to calculate the condition number.
 *	The solution statistics will not be displayed for models with multiple objectives.
 
 

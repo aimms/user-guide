@@ -34,7 +34,7 @@ Possible values of this option are:
 
 *	The Farkas infeasibility proof is only available for LP and RMIP models.
 *	If the presolver detects infeasibility (or indicates that the model is InfeasibleOrUnbounded) then the Farkas infeasibility proof is not available. In that case, turn **Presolve**  off and reoptimize to obtain the Farkas infeasibility proof.
-*	If you are using the barrier optimizer without crossover (see the options **Method**  and **Barrier Crossover** ) then the Farkas infeasibility proof is not available. 
+*	If you are using the barrier optimizer without crossover (see the options **Method** and **Barrier Crossover**) then the Farkas infeasibility proof is not available. 
 
 
 

@@ -39,7 +39,7 @@ If this option is activated then COPT calculates an unbounded ray once COPT dete
 *	The Farkas infeasibility proof and the unbounded ray are only available for LP and RMIP models.
 *	If the presolver detects infeasibility (or indicates that the model is InfeasibleOrUnbounded) then the Farkas infeasibility proof is not available. In that case, turn **Presolve**  off and reoptimize to obtain the Farkas infeasibility proof.
 *	If the presolver detects unboundedness (or indicates that the model is InfeasibleOrUnbounded) then the unbounded ray is not available. In that case, turn **Presolve**  off and reoptimize to obtain an unbounded ray.
-*	If you are using the barrier optimizer without crossover (see the options **LP Method**  and **Crossover** ) then the Farkas infeasibility proof and the unbounded ray are not available. 
+*	If you are using the barrier optimizer without crossover (see the options **LP Method** and **Crossover**) then the Farkas infeasibility proof and the unbounded ray are not available. 
 
 
 

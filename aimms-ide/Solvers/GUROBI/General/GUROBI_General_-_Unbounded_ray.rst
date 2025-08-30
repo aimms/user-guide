@@ -26,7 +26,7 @@ This option specifies whether Gurobi should calculate an unbounded ray once Guro
 
 *	The unbounded ray is only available for LP and RMIP models.
 *	If the presolver detects unboundedness (or indicates that the model is InfeasibleOrUnbounded) then the unbounded ray is not available. In that case, turn **Presolve**  off and reoptimize to obtain an unbounded ray.
-*	If you are using the barrier optimizer without crossover (see the options **Method**  and **Barrier Crossover** ) then the unbounded ray is not available. 
+*	If you are using the barrier optimizer without crossover (see the options **Method** and **Barrier Crossover**) then the unbounded ray is not available. 
 
 
 

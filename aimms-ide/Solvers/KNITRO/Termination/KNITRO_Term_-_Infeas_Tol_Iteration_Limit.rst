@@ -12,7 +12,7 @@ Infeasibility Tolerance Iteration Limit
 
 
 
-This option can be used to control termination when there is little progress in getting feasible. The optimization process will terminate if the relative change in the feasibility error is less than the setting of the option**Infeasibility Tolerance**  for n consecutive infeasible iterations, where n is the value of this option.
+This option can be used to control termination when there is little progress in getting feasible. The optimization process will terminate if the relative change in the feasibility error is less than the setting of the option **Infeasibility Tolerance** for :math:`n` consecutive infeasible iterations, where :math:`n` is the value of this option.
 
 
 

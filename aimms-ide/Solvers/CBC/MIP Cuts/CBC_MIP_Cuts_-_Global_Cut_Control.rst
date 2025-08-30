@@ -12,7 +12,7 @@ Global cut control
 
 
 
-This option provides a global cut control, affecting the generation of all cuts (except lift-and-project cuts and residual capacity cuts). Setting the value different from "Off" indicates that the attempt to generate cuts should be made. Setting 'On' means that cuts will be tried in the branch-and-cut tree (you can fine tune using option **Cut Depth** ). Setting 'Root only' means just at the root node while 'If promising' means that cuts will be used in the tree if they look as if they are doing some good and moving the objective value. Possible values are:
+This option provides a global cut control, affecting the generation of all cuts (except lift-and-project cuts and residual capacity cuts). Setting the value different from "Off" indicates that the attempt to generate cuts should be made. Setting 'On' means that cuts will be tried in the branch-and-cut tree (you can fine tune using option **Cut Depth**). Setting 'Root only' means just at the root node while 'If promising' means that cuts will be used in the tree if they look as if they are doing some good and moving the objective value. Possible values are:
 
 
 

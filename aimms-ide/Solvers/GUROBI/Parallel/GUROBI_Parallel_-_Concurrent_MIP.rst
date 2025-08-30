@@ -24,7 +24,7 @@ The total number of threads used by the concurrent MIP solver is limited by the 
 
 
 
-The concurrent MIP solver produces a slightly different log (as controlled by the option **Output File** ) from the standard MIP solver. Each concurrent MIP log line shows the objective for the best feasible solution found by any of the independent solves to that point, the best objective bound proved by any of the independent solves, and the relative gap between these two values.
+The concurrent MIP solver produces a slightly different log (as controlled by the option **Output File**) from the standard MIP solver. Each concurrent MIP log line shows the objective for the best feasible solution found by any of the independent solves to that point, the best objective bound proved by any of the independent solves, and the relative gap between these two values.
 
 
 

@@ -24,7 +24,7 @@ This option indicates if we want to do Mehrotra's algorithm. Possible values are
 
 
 
-If set to yes, IPOPT runs as Mehrotra's predictor-corrector algorithm. This works usually very well for LPs and convex QPs. This automatically disables the line search, and chooses the (unglobalized) adaptive barrier parameter strategy with the "probing" oracle (see option **Adaptive Strategy Oracle** ), and sets option **Corrector Steps Type**  to 'affine' without any safeguards; you should not set any of those options explicitly in addition.
+If set to yes, IPOPT runs as Mehrotra's predictor-corrector algorithm. This works usually very well for LPs and convex QPs. This automatically disables the line search, and chooses the (unglobalized) adaptive barrier parameter strategy with the "probing" oracle (see option **Adaptive Strategy Oracle**), and sets option **Corrector Steps Type**  to 'affine' without any safeguards; you should not set any of those options explicitly in addition.
 
 
 

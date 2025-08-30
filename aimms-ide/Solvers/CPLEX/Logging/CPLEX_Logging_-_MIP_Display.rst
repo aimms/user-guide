@@ -20,7 +20,7 @@ A setting of "Display integer feasible solutions" displays an entry for each int
 
 
 
-A setting of "Display each nth node" also generates an entry for every nth node (where n is the setting of the **MIP Interval**  option). A setting of "Nth node + info on node cuts" additionally generates an entry for every nth node giving the number of cuts added to the problem for the previous n nodes. A setting of "Nth node + LP display for root node" additionally generates entries for the LP root relaxation according to the setting of the option **Simplex Display** (or the option **Barrier Display** ). A setting of "Nth node + LP display for all nodes" additionally generates entries for the LP subproblems, also according to the setting of the option **Simplex Display** (or the option **Barrier Display** ).
+A setting of "Display each nth node" also generates an entry for every nth node (where n is the setting of the **MIP Interval**  option). A setting of "Nth node + info on node cuts" additionally generates an entry for every nth node giving the number of cuts added to the problem for the previous n nodes. A setting of "Nth node + LP display for root node" additionally generates entries for the LP root relaxation according to the setting of the option **Simplex Display** (or the option **Barrier Display**). A setting of "Nth node + LP display for all nodes" additionally generates entries for the LP subproblems, also according to the setting of the option **Simplex Display** (or the option **Barrier Display**).
 
 
 

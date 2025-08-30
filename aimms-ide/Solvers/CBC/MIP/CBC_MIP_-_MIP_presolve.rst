@@ -12,7 +12,7 @@ MIP presolve
 
 
 
-The MIP presolve algorithm tries to reduce the size of the model in a similar way to the general presolve algorithm (as controlled by option **Presolve** ) and it also tries to strengthen the model. This can be very useful and is worth trying. Possible values are:
+The MIP presolve algorithm tries to reduce the size of the model in a similar way to the general presolve algorithm (as controlled by option **Presolve**) and it also tries to strengthen the model. This can be very useful and is worth trying. Possible values are:
 
 
 

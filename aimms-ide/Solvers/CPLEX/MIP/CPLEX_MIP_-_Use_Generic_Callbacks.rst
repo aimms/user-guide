@@ -49,7 +49,7 @@ The usage of generic callback has several benefits:
 *   It is compatible with dynamic search, as controlled by the option **MIP Search Strategy**.
 *   It does not require disabling any MIP features. 
 *   It monitors progress as well as guides the search. 
-*   It does not implicitly change the number of threads that CPLEX uses (which is controlled by the option **Global Thread Limit** ).
+*   It does not implicitly change the number of threads that CPLEX uses (which is controlled by the option **Global Thread Limit**).
 *   Using an empty generic callback will yield the same solution path as using no generic callback. (This convention is not true for CPLEX legacy callbacks.) Of course, invoking an empty callback incurs some overhead, so a run with an empty callback will be slightly slower than a run without any callback, but the solution path will still be the same. 
 
 

@@ -12,7 +12,7 @@ Central Difference Interval
 
 
 
-When the value of **Derivative Option**  equals 'Some gradients are unknown', 
+When the value of **Derivative Option** equals 'Some gradients are unknown', 
 the value of this option, denoted by r, is used near an optimal solution 
 to obtain more accurate (but more expensive) estimates of gradients. 
 Twice as many function evaluations are required compared to forward differencing. 

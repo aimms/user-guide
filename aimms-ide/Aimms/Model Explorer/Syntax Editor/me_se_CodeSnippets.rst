@@ -26,7 +26,7 @@ Next, the XML files need to stored in the Snippets subdirectory of the AIMMS ins
 
 **Using Code Snippets** 
 
-The Code Snippet selection menu can be brought up by pressing the **Number 1**  key while holding the **Control**  key (**Ctrl + 1** ). The desired Code Snippet can be inserted by navigating the list using the mouse or arrow keys and selecting the appropriate Code Snippet by pressing left mouse button or the enter key. Alternatively a Code Snippet can be inserted by typing the shortcut of the Code Snippet and pressing the **Tab**  key. Valid shortcuts are e.g. for or while or if.
+The Code Snippet selection menu can be brought up by pressing the **Number 1** key while holding the **Control** key (**Ctrl + 1**). The desired Code Snippet can be inserted by navigating the list using the mouse or arrow keys and selecting the appropriate Code Snippet by pressing left mouse button or the enter key. Alternatively a Code Snippet can be inserted by typing the shortcut of the Code Snippet and pressing the **Tab**  key. Valid shortcuts are e.g. for or while or if.
 
 
 

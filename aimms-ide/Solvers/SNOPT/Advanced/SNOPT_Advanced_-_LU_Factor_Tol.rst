@@ -20,7 +20,7 @@ The default value of this option depends on the model class of the problem. For 
 
 
 
-For certain very regular structures (e.g., band matrices) it may be necessary to reduce the value of this option (and that of option **LU Update Tolerance** ) in order to achieve stability.
+For certain very regular structures (e.g., band matrices) it may be necessary to reduce the value of this option (and that of option **LU Update Tolerance**) in order to achieve stability.
 
 
 

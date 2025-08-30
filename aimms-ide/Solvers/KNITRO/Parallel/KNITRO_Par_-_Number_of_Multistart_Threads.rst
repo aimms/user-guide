@@ -12,7 +12,7 @@ Number of Multistart Threads
 
 
 
-This option specifies the number of threads to use for multistart. If the value is 0 then Knitro will choose the number of threads (currently sets it equal to **Number of Threads** ). If set to a value n > 0 then n problems are solved in parallel.
+This option specifies the number of threads to use for multistart. If the value is 0 then Knitro will choose the number of threads (currently sets it equal to **Number of Threads**). If set to a value n > 0 then n problems are solved in parallel.
 
 
 

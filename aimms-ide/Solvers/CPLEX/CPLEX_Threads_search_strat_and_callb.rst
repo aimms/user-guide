@@ -78,7 +78,7 @@ Number of threads used by default for combinations of callbacks and search strat
 
 
 
-At the default setting of 0 for **Global Thread Limit**, the amount of threads that CPLEX will use is equal to the number of available processors, with a maximum of 32. However, if control callbacks are installed then by default CPLEX will only use 1 thread unless the **Global Thread Limit**  is set to a value strictly larger than 1. CPLEX does this to ensure deterministic behavior. If the **Global Thread Limit**  is set to 2 or more, and control callbacks have been installed, then CPLEX becomes non-deterministic (see the option **Parallel Mode** ).
+At the default setting of 0 for **Global Thread Limit**, the amount of threads that CPLEX will use is equal to the number of available processors, with a maximum of 32. However, if control callbacks are installed then by default CPLEX will only use 1 thread unless the **Global Thread Limit**  is set to a value strictly larger than 1. CPLEX does this to ensure deterministic behavior. If the **Global Thread Limit**  is set to 2 or more, and control callbacks have been installed, then CPLEX becomes non-deterministic (see the option **Parallel Mode**).
 
 
 

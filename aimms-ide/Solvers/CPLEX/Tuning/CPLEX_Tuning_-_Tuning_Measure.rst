@@ -28,7 +28,7 @@ Setting 'Average' uses the mean average of time to compare different option sets
 
 
 
-This option is only meaningful if the value of option**Tuning Repeater**  is larger than one.
+This option is only meaningful if the value of option **Tuning Repeater** is larger than one.
 
 
 

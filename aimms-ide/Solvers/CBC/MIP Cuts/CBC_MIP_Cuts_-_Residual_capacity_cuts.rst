@@ -12,7 +12,7 @@ Residual capacity cuts
 
 
 
-The value of this option determines if there should be any attempt to generate residual capacity cuts for the problem. Setting the value different from "Off" indicates that the attempt to generate residual capacity cuts should be made. Setting 'On' means that this cut generator will be tried in the branch-and-cut tree (you can fine tune using option **Cut Depth** ). Setting 'Root only' means just at the root node while 'If promising' means that cuts will be used in the tree if they look as if they are doing some good and moving the objective value. Possible values are:
+The value of this option determines if there should be any attempt to generate residual capacity cuts for the problem. Setting the value different from "Off" indicates that the attempt to generate residual capacity cuts should be made. Setting 'On' means that this cut generator will be tried in the branch-and-cut tree (you can fine tune using option **Cut Depth**). Setting 'Root only' means just at the root node while 'If promising' means that cuts will be used in the tree if they look as if they are doing some good and moving the objective value. Possible values are:
 
 
 

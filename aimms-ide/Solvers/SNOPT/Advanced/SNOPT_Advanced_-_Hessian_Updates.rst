@@ -22,7 +22,7 @@ Broadly speaking, the more updates stored, the better the quality of the approxi
 
 **Note** 
 
-*	Setting the value of this option to for instance 20 (in combination with 'Limited memory' for the option **Hessian Memory** ) has a same effect as setting the value of the option **Hessian Frequency**  equal to 20 (in combination with 'Full memory' for the **Hessian Memory** ), except that the first retains the current diagonal during resets.
+*	Setting the value of this option to for instance 20 (in combination with 'Limited memory' for the option **Hessian Memory**) has a same effect as setting the value of the option **Hessian Frequency** equal to 20 (in combination with 'Full memory' for the **Hessian Memory**), except that the first retains the current diagonal during resets.
 
 
 

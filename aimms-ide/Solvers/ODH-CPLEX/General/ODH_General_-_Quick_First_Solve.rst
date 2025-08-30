@@ -22,7 +22,7 @@ This option influences the acceleration of the initial CPLEX solve. Possible val
 
 
 
-If set to 'No', the initial solve is not accelerated if presolve is set applied to the full model (as controlled by the option **Presolve** ).
+If set to 'No', the initial solve is not accelerated if presolve is set applied to the full model (as controlled by the option **Presolve**).
 
 
 

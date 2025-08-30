@@ -24,7 +24,7 @@ This option specifies which algorithm to use for solving linear programming (LP)
 
 
 
-In the hybrid Quesada-Grossman algorithm (see option **MIP Method** ), most of the subproblems are LP subproblems and this option controls which algorithm is used for solving these LP subproblems.
+In the hybrid Quesada-Grossman algorithm (see option **MIP Method**), most of the subproblems are LP subproblems and this option controls which algorithm is used for solving these LP subproblems.
 
 
 

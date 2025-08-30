@@ -20,7 +20,7 @@ With linear programs, the basis factors are usually updated every iteration. The
 
 
 
-When the objective function is nonlinear, fewer basis updates will occur as an optimum is approached. The number of iterations between basis factorizations will therefore increase. During these iterations a test is made regularly (according to the value of the option **Check Frequency** ) to ensure that the general constraints are satisfied. If necessary the basis will be refactorized before the limit, as defined by the value of this option, is reached.
+When the objective function is nonlinear, fewer basis updates will occur as an optimum is approached. The number of iterations between basis factorizations will therefore increase. During these iterations a test is made regularly (according to the value of the option **Check Frequency**) to ensure that the general constraints are satisfied. If necessary the basis will be refactorized before the limit, as defined by the value of this option, is reached.
 
 
 

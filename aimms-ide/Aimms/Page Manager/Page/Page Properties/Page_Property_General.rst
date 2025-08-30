@@ -48,7 +48,7 @@ If it is useful to have a certain page being docked based upon the end-user's ch
 
 **Include in Saved Layout** 
 
-This property is only valid if either 'Always Docked' or 'Allow User Dockable' is enabled. If checked for a page, then each time the current layout of docking windows is saved, the page is included in this saved layout. This implies that, if such a saved layout is restored (either at project startup, or via the menu command **Windows - Layout - Reset** ), the page is automatically (re-)opened as well. See also: :ref:`Miscellaneous_Saving_and_Restoring_Layouts` .
+This property is only valid if either 'Always Docked' or 'Allow User Dockable' is enabled. If checked for a page, then each time the current layout of docking windows is saved, the page is included in this saved layout. This implies that, if such a saved layout is restored (either at project startup, or via the menu command **Windows - Layout - Reset**), the page is automatically (re-)opened as well. See also: :ref:`Miscellaneous_Saving_and_Restoring_Layouts` .
 
 
 

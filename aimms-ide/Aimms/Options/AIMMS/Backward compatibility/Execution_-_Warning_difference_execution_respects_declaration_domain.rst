@@ -12,7 +12,7 @@ Warning Difference Execution Respects Declaration Domain
 
 
 
-When the option **Execution respects declaration domain**  in the Backward Compatibility category is set to On, this option specifies what happens when, during execution, there are differences with regard to the declaration domain (as specified by the option **Execution respects declaration domain** ). This situation is ignored, reported as a warning, or interpreted as an error, depending on the following settings:
+When the option **Execution respects declaration domain** in the Backward Compatibility category is set to On, this option specifies what happens when, during execution, there are differences with regard to the declaration domain (as specified by the option **Execution respects declaration domain**). This situation is ignored, reported as a warning, or interpreted as an error, depending on the following settings:
 
 
 

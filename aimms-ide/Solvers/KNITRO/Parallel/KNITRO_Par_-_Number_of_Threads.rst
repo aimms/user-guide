@@ -12,15 +12,15 @@ Number of Threads
 
 
 
-This option specifies the number of threads n to use for all parallel features other than parallel BLAS (which is controlled by the option **Number of BLAS Threads** ).
+This option specifies the number of threads n to use for all parallel features other than parallel BLAS (which is controlled by the option **Number of BLAS Threads**).
 
 
 
-This option can be used to let the four Knitro algorithms run in parallel, if the option **Algorithm**  is set to 'Multi-algorithm'.
+This option can be used to let the four Knitro algorithms run in parallel, if the option **Algorithm** is set to 'Multi-algorithm'.
 
 
 
-This option can also be used to let the multistart algorithm (as controlled by the option **Multistart** ) run in parallel.
+This option can also be used to let the multistart algorithm (as controlled by the option **Multistart**) run in parallel.
 
 
 

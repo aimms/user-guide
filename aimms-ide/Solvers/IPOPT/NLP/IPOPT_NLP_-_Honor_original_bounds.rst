@@ -14,7 +14,7 @@ Honor original bounds
 
 
 
-This option indicates whether final points should be projected into original bounds. IPOPT might relax the bounds during the optimization (see, e.g., the option **Factor for Initial Bounds Relaxation** ). This option determines whether the final point should be projected back into the user-provide original bounds after the optimization. Possible values are:
+This option indicates whether final points should be projected into original bounds. IPOPT might relax the bounds during the optimization (see, e.g., the option **Factor for Initial Bounds Relaxation**). This option determines whether the final point should be projected back into the user-provide original bounds after the optimization. Possible values are:
 
 
 

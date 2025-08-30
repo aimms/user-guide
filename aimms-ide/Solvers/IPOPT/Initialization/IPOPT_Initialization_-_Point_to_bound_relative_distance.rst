@@ -14,7 +14,7 @@ Point to bound relative distance
 
 
 
-This option determines how much the initial point might have to be modified in order to be sufficiently inside the bounds (together with the option**Point to Bound Absolute Distance** ). The desired minimum relative distance from the initial point to bound.
+This option determines how much the initial point might have to be modified in order to be sufficiently inside the bounds (together with the option **Point to Bound Absolute Distance**). The desired minimum relative distance from the initial point to bound.
 
 
 

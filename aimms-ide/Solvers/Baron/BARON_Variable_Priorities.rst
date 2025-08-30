@@ -26,7 +26,7 @@ The rule for transforming AIMMS priority values to BARON priority values is as f
 
 **Note** 
 
-*	Only variables with an AIMMS priority value unequal to 0 (corresponding to a BARON priority value of 1) are written to the BRANCHING_PRIORITIES section of the model file (see option **Keep model file** ).
+*	Only variables with an AIMMS priority value unequal to 0 (corresponding to a BARON priority value of 1) are written to the BRANCHING_PRIORITIES section of the model file (see option **Keep model file**).
 
 
 

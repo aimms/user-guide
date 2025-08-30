@@ -14,7 +14,7 @@ Slack to bound absolute distance
 
 
 
-This option determines how much the initial slack variables might have to be modified in order to be sufficiently inside the inequality bounds (together with the option **Slack to Bound Relative Distance** ). The desired minimum absolute distance from the initial slack to bound.
+This option determines how much the initial slack variables might have to be modified in order to be sufficiently inside the inequality bounds (together with the option **Slack to Bound Relative Distance**). The desired minimum absolute distance from the initial slack to bound.
 
 
 
