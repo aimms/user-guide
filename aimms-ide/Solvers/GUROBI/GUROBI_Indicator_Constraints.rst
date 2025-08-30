@@ -1,6 +1,9 @@
 .. _GUROBI_Indicator_Constraints:
 
 
+.. |rarrow| unicode:: U+00FC .. rarrow
+
+
 Indicator Constraints
 =====================
 
@@ -24,7 +27,7 @@ you can enter the following formulation, where y is a binary variable, using an 
 
 
 
-	constr01: y = 0  \rightarrow  x1 + x2 + x3 = 0
+	constr01: y = 0  |rarrow|  x1 + x2 + x3 = 0
 
 
 
