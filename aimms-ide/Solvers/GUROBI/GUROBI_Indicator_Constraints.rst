@@ -1,4 +1,4 @@
-.. |rarrow| unicode:: U+00FC .. rarrow
+.. |rarrow| unicode:: U+2192 .. rarrow
 
 .. _GUROBI_Indicator_Constraints:
 
