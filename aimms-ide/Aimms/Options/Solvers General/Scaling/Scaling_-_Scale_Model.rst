@@ -23,7 +23,7 @@ After scaling the model, AIMMS will pass the scaled model to the solver. Solutio
 translated back to the original model.
 
 
-The scaling algorithm used by AIMMS is controlled by the option **Scaling Algorithm**. The option**List Scaling Factors**
+The scaling algorithm used by AIMMS is controlled by the option **Scaling Algorithm**. The option **List Scaling Factors**
 can be used to list the scaling factors, as found by the scaling algorithm, that are used in the scaled model. The option
 **Constraint Listing Scaled Model** can be activated to use the scaled model and solution for printing the constraint listing.
 
@@ -55,10 +55,20 @@ so you do not have to change your model.
 AIMMS keeps track of a *scaling score* which, more or less, measures how well the model is scaled. The score is
 calculated by using the variable bounds, the right-hand-side values of the constraints, and the matrix coefficients
 of each couple of variable and constraint. For each of these terms the largest and smallest value (in absolute sense)
-is determined. If the largest value *lv* is larger than 1 then this term contributes to the scaling score by
-power(10,ceil(log10(*lv*))), that is, we round up *lv* to the next 10 power. If the smallest value *sv* is smaller than
-1 then this term contributes to the scaling score by power(10,ceil(-log10(*sv*))). A lower score corresponds
-to a better scaled model.
+is determined. If the largest value :math:`lv` is larger than 1 then this term contributes to the scaling score by
+
+.. math::
+
+    \text{power}(10,\text{ceil}(\text{log10}(lv))),
+
+that is, we round up :math:`lv` to the next 10 power. If the smallest value :math:`sv` is smaller than
+1 then this term contributes to the scaling score by
+
+.. math::
+
+    \text{power}(10,\text{ceil}(-\text{log10}(sv))),
+
+A lower score corresponds to a better scaled model. The best possible score is 1.
 
 
 For example, if the constraint ``c1(i)`` has right-hand-side values 200, 20, 10 and 0.01 then the contribution of

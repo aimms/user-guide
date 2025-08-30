@@ -23,7 +23,7 @@ This option controls the algorithm used by AIMMS to scale the model before sendi
 
 The Iterative algorithm first scales the constraints and then the variables. This process is repeated during
 several iterations. This algorithm finds scaling factors for individual columns and rows. For example, if the
-model contains the variable ``X(i)``, with ``i`` in {1,...,5}, then the scaling factor found for ``X(1)``
+model contains the variable ``X(i)``, with :math:`i` in {1,...,5}, then the scaling factor found for ``X(1)``
 might be different than the one found for ``X(2)``. Only linear variables and constraints are scaled.
 
 
