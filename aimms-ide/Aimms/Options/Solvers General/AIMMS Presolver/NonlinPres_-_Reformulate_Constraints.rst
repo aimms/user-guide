@@ -1,9 +1,6 @@
-
+.. |uum| unicode:: U+00FC .. uum
 
 .. _option-AIMMS-reformulate_constraints:
-
-
-.. |uum| unicode:: U+00FC .. uum
 
 
 Reformulate Constraints

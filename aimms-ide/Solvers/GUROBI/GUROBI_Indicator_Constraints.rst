@@ -1,7 +1,6 @@
-.. _GUROBI_Indicator_Constraints:
-
-
 .. |rarrow| unicode:: U+00FC .. rarrow
+
+.. _GUROBI_Indicator_Constraints:
 
 
 Indicator Constraints

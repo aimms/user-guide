@@ -27,7 +27,7 @@ and solve the math program use
     GMP::Instance::Solve( gmpMP );
 
 
-Here 'gmpMP' is an element parameter with range 'AllGeneratedMathematicalPrograms'.
+Here 'gmpMP' is an element parameter with range :aimms:set:`AllGeneratedMathematicalPrograms`.
 
 AIMMS will not actually pass the multi-objective variables to Gurobi but instead substitute these variables by the
 linear expression that defines them. For example, if TotalDist is defined as 10*x1 + 20*x2 then Gurobi will receive
