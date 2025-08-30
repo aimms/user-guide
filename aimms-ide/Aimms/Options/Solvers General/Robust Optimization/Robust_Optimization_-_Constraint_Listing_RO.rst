@@ -37,7 +37,7 @@ will be printed for the uncertain mathematical program and the robust counterpar
 
 *	If this option is set to 'Uncertain mathematical program' or 'Both' then the memory used by AIMMS might increase significantly.
 *	In the constraint listing for the uncertain mathematical program, adjustable variables and variables corresponding to uncertain parameters get a level value of NA because no unique level value exists for them.
-*	AIMMS prints the constraint listing(s) if the robust counterpart is solved (e.g., by using the procedure :any:`GMP::Instance::Solve`) but the constraint listing for the uncertain mathematical program is printed at the beginning of the function GMP::Instance::GenerateRobustCounterpart if the value of the option **Constraint Listing Printed When** equals 'Before solve' or 'Before and after solve'.
+*	AIMMS prints the constraint listing(s) if the robust counterpart is solved (e.g., by using the procedure :any:`GMP::Instance::Solve`) but the constraint listing for the uncertain mathematical program is printed at the beginning of the function :any:`GMP::Instance::GenerateRobustCounterpart` if the value of the option **Constraint Listing Printed When** equals 'Before solve' or 'Before and after solve'.
 
 
 **Learn more about** 

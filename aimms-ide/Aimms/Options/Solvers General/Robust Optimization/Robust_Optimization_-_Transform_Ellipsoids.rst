@@ -22,7 +22,7 @@ parameter satisfying :math:`y = x - b`.
 
 
 With setting 'Root' an uncertainty constraint of the form :math:`x^TQx <= b` will be transformed into
-:math:`\sqrt( x^TQx ) \leq \sqrt( b )`. This transformation is valid if matrix :math:`Q` is positive semi-definite.
+:math:`\sqrt{x^TQx} \leq \sqrt{b}`. This transformation is valid if matrix :math:`Q` is positive semi-definite.
 
 
 At the default setting both transformations are applied. Possible values are:
