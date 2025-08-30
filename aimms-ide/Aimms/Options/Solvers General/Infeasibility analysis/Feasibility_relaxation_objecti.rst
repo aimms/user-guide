@@ -14,7 +14,7 @@ Feasibility Relaxation Objective
 
 
 
-This option will set the objective for the minimum cost relaxation performed by FeasOpt (ref:`SolverCPLEX`)
+This option will set the objective for the minimum cost relaxation performed by FeasOpt (:ref:`SolverCPLEX`)
 or FeasRelax (:ref:`SolverGurobi`). Possible values are:
 
     *	Sum of violations

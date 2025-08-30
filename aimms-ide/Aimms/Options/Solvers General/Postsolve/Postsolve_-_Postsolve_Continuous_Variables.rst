@@ -13,30 +13,19 @@ Postsolve Continuous Variables
 :Default:	No rounding	
 
 
-
-Solvers allow variables to slightly violate their bounds as specified by the feasibility tolerance. This option offers the possibility to perform some postsolving on the found solution concerning rounding of values to the nearest bound. Possible values are:
-
-
+Solvers allow variables to slightly violate their bounds as specified by the feasibility tolerance. This option offers
+the possibility to perform some postsolving on the found solution concerning rounding of values to the nearest bound.
+Possible values are:
 
     *	No rounding
     *	Round to nearest bound
     *	Round to nearest bound and resolve LP
 
 
-
-
 If the value equals 'No rounding' then the variable values found by the solver are passed directly to AIMMS.
-
-
-
-
 
 If the value equals 'Round to nearest bound' then the variable values found by the solver that violate the bounds, by more than
 the **Postsolve Bound Tolerance**, are rounded to the nearest bound before passing them to AIMMS.
-
-
-
-
 
 If the value equals 'Round to nearest bound and resolve LP' then AIMMS checks whether the solution returned by the solver contains contains
 some variables that violate their bounds, by more than the **Postsolve Bound Tolerance**. In that case the violated variables are fixed
@@ -45,16 +34,11 @@ satisfy their bounds. In some cases some new variables might violate a bound, in
 by the option **Repeat Postsolve**.
 
 
-
-
-
 **Note** 
 
 *	The solving time might increase drastically if the value of this option is set to 'Round to nearest bound and resolve LP'.
-*	Please check the option **Postsolve**  for more information regarding the postsolve step.
-*	For CBC, the option **Postsolve**  should be switched on to activate this option.
-
-
+*	Please check the option **Postsolve** for more information regarding the postsolve step.
+*	For :ref:`SolverCBC`, the option **Postsolve** should be switched on to activate this option.
 
 
 **Learn more about** 
@@ -62,6 +46,4 @@ by the option **Repeat Postsolve**.
 *	:ref:`option-AIMMS-postsolve` 
 *	:ref:`option-AIMMS-postsolve_bound_tolerance` 
 *	:ref:`option-AIMMS-repeat_postsolve` 
-
-
 

@@ -37,7 +37,7 @@ In the most basic linear optimization problem, the variables of the objective fu
 
 
 
-COPT can also handle certain problems in which the objective function is not linear but quadratic. Such a problem is known as quadratic program or QP if the constraints are linear, and it is known as quadratically constrained program or QCP if some of the constraints are quadratic. COPT can also be used for some types of second-order cone constraints, and it can be used to solve programs with a non-convex quadratic objective and/or non-convex quadratic constraints; see the section about :ref:`COPT_Quadratic_Programs` .
+COPT can also handle certain problems in which the objective function is not linear but quadratic. Such a problem is known as quadratic program or QP if the constraints are linear, and it is known as quadratically constrained program or QCP if some of the constraints are quadratic. COPT can also be used for some types of second-order cone constraints, and it can be used to solve programs with a non-convex quadratic objective and/or non-convex quadratic constraints; see the section about :ref:`COPT_Quadratic_Programs`.
 
 
 
@@ -45,11 +45,11 @@ COPT is equipped with parameters that influence the performance of COPT. AIMMS i
 
 
 
-In COPT it is possible to use a solution as a MIP start by setting the option **MIP Start**. COPT also supports :ref:`COPT_Multiple_MIP_Starts` .
+In COPT it is possible to use a solution as a MIP start by setting the option **MIP Start**. COPT also supports :ref:`COPT_Multiple_MIP_Starts`.
 
 
 
-COPT can generate multiple solutions to a MIP problem. This is described in the section :ref:`COPT_Solution_Pool` .
+COPT can generate multiple solutions to a MIP problem. This is described in the section :ref:`COPT_Solution_Pool`.
 
 
 
@@ -61,7 +61,7 @@ COPT has a parallel optimizer for solving MIP problems. This parallel optimizer 
 
 **Postsolve** 
 
-When solving a problem COPT allows variables to slightly violate their bounds as specified by some (feasibility) tolerance. When solving a MIP problem, COPT does not round the found integer variable values to the nearest integer value. Instead the solver returns values which are considered to be integer within some (integrality) tolerance. For these reasons AIMMS offers a postsolve step during which integer variables are fixed to the nearest integer and/or variables outside their bounds are fixed to the nearest bound. In case of a MIP, this results in a problem in which all integer variables are fixed, and therefore it can be solved as a LP problem. See the new general solvers option **Postsolve**  for more information.
+When solving a problem COPT allows variables to slightly violate their bounds as specified by some (feasibility) tolerance. When solving a MIP problem, COPT does not round the found integer variable values to the nearest integer value. Instead the solver returns values which are considered to be integer within some (integrality) tolerance. For these reasons AIMMS offers a postsolve step during which integer variables are fixed to the nearest integer and/or variables outside their bounds are fixed to the nearest bound. In case of a MIP, this results in a problem in which all integer variables are fixed, and therefore it can be solved as a LP problem. See the new general solvers option **Postsolve** for more information.
 
 
 

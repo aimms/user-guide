@@ -38,7 +38,7 @@ Possible values of this option are:
 **Note** 
 
 *	Please check the option **Postsolve**  for more information regarding the postsolve step.
-*	In rare situations, namely if a MIP solve is interrupted before the root node LP is solved, an incumbent solution found by CPLEX might not be optimal regarding the continuous variables. If the postsolve step rounds and fixes the integer variables to solve the resulting LP problem then a solution with a better objective value might be found.
+*	In rare situations, namely if a MIP solve is interrupted before the root node LP is solved, an incumbent solution found by :ref:`SolverCPLEX` might not be optimal regarding the continuous variables. If the postsolve step rounds and fixes the integer variables to solve the resulting LP problem then a solution with a better objective value might be found.
 
 
 

@@ -14,7 +14,7 @@ Feasibility Relaxation Optimize Original Objective
 
 
 
-This option determines whether FeasOpt (ref:`SolverCPLEX`) or FeasRelax (:ref:`SolverGurobi`) should
+This option determines whether FeasOpt (:ref:`SolverCPLEX`) or FeasRelax (:ref:`SolverGurobi`) should
 optimize the original objective, after finding a minimum cost relaxation. Possible values are:
 
     *	Off
