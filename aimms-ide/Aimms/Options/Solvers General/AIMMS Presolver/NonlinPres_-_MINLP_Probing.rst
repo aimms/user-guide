@@ -50,5 +50,5 @@ result in more (binary) variables being removed. This setting can be computation
 
 **References** 
 
-*	Johnson, E.L., G.L. Nemhauser and M.W.P. Savelsbergh, Progress in Linear Programming-Based Algorithms for Integer Programming: An Exposition, INFORMS Journal on Computing **12(1)**  (2000), pp. 2-23.
-*	Savelsbergh, M.W.P., Preprocessing and probing techniques for mixed integer programming problems, ORSA Journal on Computing **6**  (1994), pp. 445-454.
+*	Johnson, E.L., G.L. Nemhauser and M.W.P. Savelsbergh, Progress in Linear Programming-Based Algorithms for Integer Programming: An Exposition, INFORMS Journal on Computing **12(1)** (2000), pp. 2-23.
+*	Savelsbergh, M.W.P., Preprocessing and probing techniques for mixed integer programming problems, ORSA Journal on Computing **6** (1994), pp. 445-454.

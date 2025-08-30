@@ -45,8 +45,8 @@ With setting 'Single' the AIMMS Presolver will only transform constraints if the
 constraint. With setting 'Multi' also constraints are transformed for which the counterpart requires more than
 one constraint. For inequalities the AIMMS presolver can add one additional constraint and for equalities up
 to three additional constraints. The suffix .ExtendedConstraint can be used to refer to these additional
-constraints. For example, the first additional constraint for constraint c(i) is labeled as
-c(i).ExtendedConstraint('Linearization'), the second as c(i).ExtendedConstraint('Linearization2'), and so on.
+constraints. For example, the first additional constraint for constraint ``c(i)`` is labeled as
+``c(i).ExtendedConstraint('Linearization')``, the second as ``c(i).ExtendedConstraint('Linearization2')``, and so on.
 
 Setting 'Multi' is only applied if the GMP function :any:`GMP::Instance::CreatePresolved` is used! If a normal
 solve statement is used then the 'Multi' setting is equivalent to the 'Single' setting.
