@@ -14,15 +14,11 @@ Solver Window Messages
 
 
 
-This option determines if and which messages of the solver are included in the AIMMS message window. Possible values are:
-
-
+This option determines if and which messages of the solver are included in the AIMMS :ref:`aimmshelp13-Messages_Window`. Possible values are:
 
     *	Never
     *	Error
     *	Warning
     *	Remark
     *	All
-
-
 

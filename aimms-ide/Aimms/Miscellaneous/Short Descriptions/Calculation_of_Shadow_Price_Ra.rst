@@ -99,7 +99,7 @@ since for these constraints it is known that
 	smallest shadow price = largest shadow price = shadow price.
 
 
-Calculating the smallest and largest right-hand-side values is only supported by CPLEX and Gurobi,
+Calculating the smallest and largest right-hand-side values is only supported by :ref:`SolverCPLEX` and :ref:`SolverGurobi`,
 so only these solvers can skip solving some of the subproblems (Smax) and (Smin).
 
 

@@ -14,20 +14,15 @@ Solution Listing Printed When
 
 
 
-This option determines whether a solution listing will be produced before and/or after a solve. The option Solution Listing still selects for which solve a listing is produced. Possible values are:
-
-
+This option determines whether a solution listing will be produced before and/or after a solve. The option **Solution Listing** still
+selects for which solve a listing is produced. Possible values are:
 
     *	Before solve
     *	After solve
     *	Before and after solve
 
 
-
-
 **Learn more about** 
 
 *	:ref:`option-AIMMS-solution_listing` 
-
-
 

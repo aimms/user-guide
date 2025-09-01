@@ -16,16 +16,12 @@ Solver Listing
 
 This option determines if and when the solver listing is copied into the AIMMS listing file. Possible values are:
 
-
-
     *	Never
     *	At first solve
     *	At an infeasible solve
     *	At every solve
 
 
-
-
 **Note** 
 
-*	This option is not supported by ODH-CPLEX.
+*	This option is not supported by :ref:`SolverODH`.

@@ -35,7 +35,7 @@ The computations required to compute the shadow price ranges or value ranges may
 
 **Note** 
 
-*	Shadow price ranges and value ranges can be calculated by all linear solvers but right hand side ranges and objective coefficient ranges are only calculated by CPLEX and Gurobi.
+*	Shadow price ranges and value ranges can be calculated by all linear solvers but right hand side ranges and objective coefficient ranges are only calculated by :ref:`SolverCPLEX` and :ref:`SolverGurobi`.
 *	The option **Time Limit Sensitivity Ranges** can be used to set a time limit for each LP problem that is solved while calculating shadow price ranges or value ranges.
 
 
