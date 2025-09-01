@@ -12,15 +12,13 @@ Small Data Updates Strategy
 
 
 
-In AIMMS 4.2, the strategy to actually change the values of the left-hand-side of an assignment can be modified by this option.
-
-For some statements this new strategy results in a significant performance improvement. If you feel that your assignment is performing not as well as expected, you may attempt to switch strategy by setting this option to 'Off'.
-
-
-
-Possible values are:
-
-
+This option can be used to activate a strategy in which small data updates are used to actually change the values of the
+left-hand-side of an assignment. Possible values are:
 
     *	On
     *	Off
+
+
+For some statements the default setting results in a significant performance improvement. If you feel that your assignment is
+performing not as well as expected, you may attempt to switch the strategy by setting this option to 'Off'.
+

@@ -14,22 +14,13 @@ Profiler Store Data
 
 
 
-This option determines whether the profiler results should be stored in the predeclared identifier ProfilerData. Possible values are:
-
-
+This option determines whether the profiler results should be stored in the predeclared identifier :aimms:set:`ProfilerData`. Possible values are:
 
     *	On 
     *	Off 
 
 
-
-
 **Note** 
 
-*	Switching this option to On only has effect when the profiler itself is also on.
-
-
-
-
-
+*	Switching on this option only has effect when the profiler itself is also enabled.
 

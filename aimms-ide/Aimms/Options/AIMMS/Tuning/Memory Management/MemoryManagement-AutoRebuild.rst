@@ -14,31 +14,20 @@ Auto Rebuild
 
 
 
-When switching the option to on, AIMMS will check after each update of an identifier whether or not it is worthwhile to rebuild that identifier. It might be worth while to switch this option on when memory statistics report a high cardinality high dimensional identifier, which might contain a lot of unused memory.
-
-
-
-The decision whether or not to rebuild, depends on the settings of the options Auto Rebuild Minimum Difference Absolute and Auto Rebuild Minimum Difference Relative.
-
-
-
-Possible values are:
-
-
+When switching the option to on, AIMMS will check after each update of an identifier whether or not it is worthwhile to rebuild that identifier.
+It might be worth while to switch this option on when memory statistics report a high cardinality high dimensional identifier, which might contain
+a lot of unused memory. Possible values are:
 
     *	On
     *	Off
 
 
+The decision whether or not to rebuild also depends on the settings of the options **Auto Rebuild Minimum Difference Absolute** and **Auto Rebuild
+Minimum Difference Relative**.
 
 
 **Learn more about** 
 
 *	:ref:`option-AIMMS-auto_rebuild_minimum_difference_absolute` 
 *	:ref:`option-AIMMS-auto_rebuild_minimum_difference_relative` 
-
-
-
-
-
 
