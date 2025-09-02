@@ -9,7 +9,7 @@ Rebuild Fragmentation Threshold
 
 
 :Type:	Integer	
-:Range:	{ 0 … 100 }	
+:Range:	{0 .. 100}	
 :Default:	50
 
 
