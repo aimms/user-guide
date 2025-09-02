@@ -23,7 +23,7 @@ For each global constraint it is verified whether or not it is binding. Consider
     }
 
 
-When the set that is the scope of index i is empty, AIMMS will issue the following warning
+When the set that is the scope of index i is empty, AIMMS will issue the following warning:
 
 .. code-block:: text
 
@@ -36,14 +36,16 @@ and the sequence length.
 .. code-block:: text
 
     Constraint seq {
-        Definition: cp::Sequence(
+        Definition: {
+             cp::Sequence(
                          inspectedBinding : k,
                          inspectedValues  : v3(k),
                          lookupValues     : lv,
                          sequenceLength   : 3,
                          lowerBound       : 0,
                          upperBound       : 3,
-                         cyclic           : 0);
+                         cyclic           : 0)
+        }
     }
 
 

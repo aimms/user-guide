@@ -3,7 +3,7 @@
 .. _option-AIMMS-warning_explicit_element_not_in_set:
 
 
-Warning_explicit_element_not_in_set
+Warning Explicit Element not in Set
 ===================================
 
 
@@ -15,10 +15,6 @@ Warning_explicit_element_not_in_set
 
 
 This option determines what happens when a statement contains an explicit element name that is not in the associated set at the time the statement is executed.
-
-
-
-
 
 
 .. list-table::
@@ -43,46 +39,30 @@ This option determines what happens when a statement contains an explicit elemen
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 An example of such a situation arises when executing the following model:
 
+.. code-block:: text
 
-
-``Set Cities {`` 
-
-``definition : data{Paris,London} ;`` 
-
-``}`` 
-
-``ElementParameter MyCity {`` 
-
-``Range : Cities;`` 
-
-``}`` 
-
-``Procedure MainExecution {`` 
-
-``body : {`` 
-
-		``MyCity := 'Amsterdam';`` 
-
-	``}`` 
-
-``}`` 
-
+    Set Cities { 
+        Definition: data { Paris, London };
+    }
+    ElementParameter MyCity {
+        Range: Cities;
+    }
+    Procedure MainExecution {
+        Body: {
+            MyCity := 'Amsterdam';
+        }
+    }
 
 
 When executing procedure 'MainExecution', 'Amsterdam' is not an element of the set 'Cities' 
 
 
-
 **Note** 
 
-*	If the setting of this option does not result in Error, the element will be translated to an empty element..
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	If the setting of this option does not result in Error, the element will be translated to an empty element.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -91,9 +71,4 @@ When executing procedure 'MainExecution', 'Amsterdam' is not an element of the s
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 

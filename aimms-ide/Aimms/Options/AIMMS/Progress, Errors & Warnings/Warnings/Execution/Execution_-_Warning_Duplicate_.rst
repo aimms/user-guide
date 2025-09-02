@@ -14,14 +14,10 @@ Warning Duplicate Mapping
 
 
 
-In the mapping attribute of a database table identifier, you can specify a mapping between a database column and an AIMMS identifier. It is possible to map a database column on more than one AIMMS identifiers. 
-
-
+In the mapping attribute of a database table identifier, you can specify a mapping between a database column and an AIMMS identifier.
+It is possible to map a database column on more than one AIMMS identifiers. 
 
 This situation is ignored, reported as a warning, or interpreted as an error, depending on the following settings:
-
-
-
 
 .. list-table::
 
@@ -45,14 +41,10 @@ This situation is ignored, reported as a warning, or interpreted as an error, de
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	If you set this option to "Off" or "Warning", AIMMS will only read or write the first mapped identifier when a read or write statement is executed with a duplicate mapping.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	If you set this option to 'Off' or 'Warning', AIMMS will only read or write the first mapped identifier when a read or write statement is executed with a duplicate mapping.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -61,6 +53,4 @@ This situation is ignored, reported as a warning, or interpreted as an error, de
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

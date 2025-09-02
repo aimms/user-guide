@@ -17,8 +17,6 @@ Warning Domain Violation
 This option determines what happens when domains are violated, depending on the following settings:
 
 
-
-
 .. list-table::
 
    * - *	Off	
@@ -41,57 +39,36 @@ This option determines what happens when domains are violated, depending on the 
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 An example of such a situation arises when executing the following model:
 
+.. code-block:: text
 
-
-``SET:`` 
-
-``identifier : Cities`` 
-
-``definition : data{Paris,London} ;`` 
-
-``SET:`` 
-
-``identifier : FrenchCities`` 
-
-``subset of : Cities;`` 
-
-``PROCEDURE`` 
-
-``identifier : MainExecution`` 
-
-``body :`` 
-
-``FrenchCities:={Paris,Toulouse};`` 
-
-``ENDPROCEDURE ;`` 
-
+    Set Cities {
+        Definition: data { Paris, London };
+    }
+    Set FrenchCities {
+        SubsetOf: Cities;
+    }
+    Procedure MainExecution {
+        Body: {
+            FrenchCities := { Paris, Toulouse };
+        }
+    }
 
 
 When executing procedure 'MainExecution', there is a domain violation, because 'Toulouse' is not an element of the set 'Cities'.
 
 
+**Note**
 
-**Note** 
-
-*	If you set this option to "Off" or "Warning", data will be assigned to elements that are outside the domain.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
+*	If you set this option to 'Off' or 'Warning', data will be assigned to elements that are outside the domain.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
-
-**Learn more about** 
+**Learn more about**
 
 *	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 

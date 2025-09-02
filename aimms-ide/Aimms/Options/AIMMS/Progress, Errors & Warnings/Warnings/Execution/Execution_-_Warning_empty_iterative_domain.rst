@@ -3,7 +3,7 @@
 .. _option-AIMMS-warning_empty_iterative_domain:
 
 
-Warning_empty_iterative_domain
+Warning Empty Iterative Domain
 ==============================
 
 
@@ -15,10 +15,6 @@ Warning_empty_iterative_domain
 
 
 For some iterative operators, for example Mean, the expression cannot be correctly evaluated if there are no elements in the iterative domain.
-
-
-
-
 
 
 .. list-table::
@@ -43,55 +39,35 @@ For some iterative operators, for example Mean, the expression cannot be correct
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 An example of such a situation arises when executing the following model:
 
 
+.. code-block:: text
 
-``Set Cities {`` 
-
-``index : c ;`` 
-
-``definition : data{Paris,London} ;`` 
-
-``}`` 
-
-``Parameter selectedCities {`` 
-
-``IndexDomain : c;`` 
-
-``}`` 
-
-``Parameter population {`` 
-
-``IndexDomain : c;`` 
-
-``}`` 
-
-``Parameter result;`` 
-
-``Procedure MainExecution {`` 
-
-``body : {`` 
-
-		``result := Mean( c | selectedCities(c), population(c));`` 
-
-	``}`` 
-
-``}`` 
-
+    Set Cities { 
+        Index: c;
+        Definition: data { Paris, London };
+    }
+    Parameter selectedCities {
+        IndexDomain: c;
+    }
+    Parameter population {
+        IndexDomain: c;
+    }
+    Parameter result;
+    Procedure MainExecution {
+        Body: {
+            result := Mean( c | selectedCities(c), population(c) );
+        }
+    }
 
 
 When executing procedure 'MainExecution', if the parameter 'selectedCities' is empty the statement cannot calculate a valid Mean.
 
 
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -100,9 +76,4 @@ When executing procedure 'MainExecution', if the parameter 'selectedCities' is e
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 

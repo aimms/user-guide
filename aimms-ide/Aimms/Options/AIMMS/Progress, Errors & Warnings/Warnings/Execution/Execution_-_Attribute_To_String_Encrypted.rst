@@ -14,15 +14,12 @@ Attribute to string encrypted
 
 
 
-The function "AttributeToString" returns the contents of an attribute of a node or identifier in the model tree. In order to protect the IP of a model, it will return "encrypted" when the attribute is in a different library and the model is encrypted. When the option "attribute to string encrypted" is turned on, the function will also issue an error message.
+The function :any:`AttributeToString` returns the contents of an attribute of a node or identifier in the model tree. In order
+to protect the IP of a model, it will return "encrypted" when the attribute is in a different library and the model is encrypted.
+When this option is turned on, the function will also issue an error message.
 
+Possible values are:
 
-
-*	Off 
-*	On 
-
-
-
-
- 
+    *	On 
+    *	Off 
 

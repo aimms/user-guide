@@ -14,9 +14,9 @@ Warning Ensuring Case Consistency
 
 
 
-At the end of a case load AIMMS attempts to attain subset consistency as controlled by the option Case ensure subset consistency method. When during the ensuring of subset consistency elements are inserted or removed from sets, a warning or error message is issued depending on the setting of this option:
-
-
+At the end of a case load AIMMS attempts to attain subset consistency as controlled by the option **Case Ensure Subset Consistency Method**.
+When during the ensuring of subset consistency elements are inserted or removed from sets, a warning or error message is issued depending on
+the setting of this option:
 
 
 .. list-table::
@@ -41,14 +41,11 @@ At the end of a case load AIMMS attempts to attain subset consistency as control
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Learn more about** 
 
+*	:ref:`option-AIMMS-case_ensure_subset_consistency_method` 
 *	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

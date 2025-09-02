@@ -14,7 +14,7 @@ Warning Database Non Official Key in Mapping
 
 
 
-When this option is not set to 'off', a warning (or error) will be issued when the user tries to read from or write to a database table, using a primary key in the mapping that is not exactly the same as the official primary key in the database table itself. Possible values are:
+When this option is not set to 'Off', a warning (or error) will be issued when the user tries to read from or write to a database table, using a primary key in the mapping that is not exactly the same as the official primary key in the database table itself. Possible values are:
 
 
 
