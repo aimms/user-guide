@@ -14,18 +14,10 @@ Debugger break on execution error
 
 
 
-This option determines whether AIMMS will invoke the debugger upon an execution error.
-
-
+This option determines whether AIMMS will invoke the debugger :ref:`debugger <debug.debug>` upon an execution error.
 
 *	Off
 *	On
 
 
-
-
-The debugger will never be invoked in the end-user version of AIMMS or while the profiler is active.
-
-
-
-
+The debugger will never be invoked in the end-user version of AIMMS or while the :ref:`profiler <debug.profile>` is active.

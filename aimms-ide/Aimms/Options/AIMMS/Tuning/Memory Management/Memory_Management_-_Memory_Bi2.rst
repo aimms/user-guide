@@ -16,9 +16,9 @@ Memory Bin Resolution
 
 When AIMMS requests a block of memory smaller than **Memory Bin Limit** bytes for the first time, a block of memory with the size
 **Memory Bin Allocation Size** bytes will be allocated (within AIMMS this is called a Large Block). This Large Block will be
-subdivided into smaller Bins, each with size Memory Bin Size. At this first memory request the first Bin will also be subdivided;
+subdivided into smaller Bins, each with size **Memory Bin Size**. At this first memory request the first Bin will also be subdivided;
 it will be divided into a series of so-called Small Blocks. All Small Blocks within a single Bin have the same size, which is determined
-by the amount of memory requested and the setting of the option Memory Bin Resolution.
+by the amount of memory requested and the setting of this option.
 
 
 Possible values are:
@@ -39,7 +39,7 @@ the small blocks is always larger than or equal to the size of the requested mem
 
 The larger the setting of this option, the faster the AIMMS memory manager will be. Using a large value however might also lead to
 more memory being allocated than is actually needed. In case you think your model might benefit from a different setting you can set
-the option **Memory Statistics** to `On` and use the function :any:`MemoryStatistics` to compare the results.
+the option **Memory Statistics** to 'On' and use the function :any:`MemoryStatistics` to compare the results.
 
 
 **Note** 

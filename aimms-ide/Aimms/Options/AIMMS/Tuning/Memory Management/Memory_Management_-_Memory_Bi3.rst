@@ -42,7 +42,7 @@ The setting of this option determines how large the Bins are that are made by th
 
 Depending on the setting of this option, the AIMMS memory manager might be more efficient or faster. This depends on the model
 and it is not possible to predict the outcome in advance. In case you think your model might benefit from a different setting
-you can set the option **Memory Statistics** to `On` and use the function :any:`MemoryStatistics` to compare the results.
+you can set the option **Memory Statistics** to 'On' and use the function :any:`MemoryStatistics` to compare the results.
 
 
 **Note** 
