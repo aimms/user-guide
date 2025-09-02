@@ -9,7 +9,7 @@ Number of Logfile Backups
 
 
 :Type:	Integer	
-:Range:	{0.. 64 }	
+:Range:	{0 .. 64}	
 :Default:	0	
 
 
