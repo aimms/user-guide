@@ -14,13 +14,10 @@ Warning Illegal Bulk Mode Write
 
 
 
-This options specifies the behavior of AIMMS in case a bulk write statement is executed and the underlying data source doesn't support this mode. Possible values are:
-
-
+This options specifies the behavior of AIMMS in case a bulk write statement is executed and the underlying data source
+doesn't support this mode. Possible values are:
 
 This situation is ignored, reported as a warning, or interpreted as an error, depending on the following settings:
-
-
 
 
 .. list-table::
@@ -45,16 +42,10 @@ This situation is ignored, reported as a warning, or interpreted as an error, de
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
-
-
 **Note** 
 
-*	If you set this option to "Off" or "Warning", AIMMS will try to use an alternative writing mode if the data source does not support bulk write.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	If you set this option to 'Off' or 'Warning', AIMMS will try to use an alternative writing mode if the data source does not support bulk write.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -63,6 +54,4 @@ This situation is ignored, reported as a warning, or interpreted as an error, de
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

@@ -43,17 +43,17 @@ An example of such a situation arises when executing the following model:
 
 .. code-block:: text
 
-	Set Cities { 
-	    Definition: data { Paris, London };
-	}
-	ElementParameter MyCity {
-	    Range: Cities;
-	}
-	Procedure MainExecution {
-	    Body: {
-	        MyCity := 'Amsterdam';
-	    }
-	}
+    Set Cities { 
+        Definition: data { Paris, London };
+    }
+    ElementParameter MyCity {
+        Range: Cities;
+    }
+    Procedure MainExecution {
+        Body: {
+            MyCity := 'Amsterdam';
+        }
+    }
 
 
 When executing procedure 'MainExecution', 'Amsterdam' is not an element of the set 'Cities' 

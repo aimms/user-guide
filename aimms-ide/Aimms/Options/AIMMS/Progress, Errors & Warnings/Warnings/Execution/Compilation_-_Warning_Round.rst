@@ -14,21 +14,16 @@ Warning Round
 
 
 
-This option determines what happens whenever AIMMS expects an integral value, but a fractional one is provided. Consider the following example:
-
-
+This option determines what happens whenever AIMMS expects an integral value, but a fractional one is provided.
+Consider the following example:
 
   p(i) := p(i + 1.5)
 
+In that case AIMMS will issue the warning message: "The value 1.5 is too far (0.5) from its rounded value, see also the
+options warning_round and warning_round_tolerance.".
 
-
-In that case AIMMS will issue the warning message: "The value 1.5 is too far (0.5) from its rounded value, see also the options warning_round and warning_round_tolerance."
-
-
-
-The option "Warning_Round" determines what will happen when AIMMS expects an integral value, but a fractional one is provided, depending on the following settings:
-
-
+This option determines what will happen when AIMMS expects an integral value, but a fractional one is provided,
+depending on the following settings:
 
 
 .. list-table::
@@ -53,14 +48,10 @@ The option "Warning_Round" determines what will happen when AIMMS expects an int
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	Warning round tolerance is the tolerance used on integrality; if the absolute difference between a fractional value and its rounded value is less than this tolerance, then that value is considered to be integer.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	The option **Warning Round Tolerance** specifies the tolerance used on integrality; if the absolute difference between a fractional value and its rounded value is less than this tolerance, then that value is considered to be integer.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 

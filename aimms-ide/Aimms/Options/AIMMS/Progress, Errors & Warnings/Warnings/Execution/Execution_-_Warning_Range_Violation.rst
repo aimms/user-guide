@@ -17,8 +17,6 @@ Warning Range Violation
 This option determines what happens during execution, when a range is violated, depending on the following settings:
 
 
-
-
 .. list-table::
 
    * - *	Off	
@@ -41,15 +39,11 @@ This option determines what happens during execution, when a range is violated, 
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
 *	The setting of this option has effect on both range violations in AIMMS code and in the graphical user interface.
 *	The setting of this option has also an effect on the empty statement; because an empty statement is viewed as setting all elements to its default. You may consider moving the default inside the bounds.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 

@@ -14,9 +14,8 @@ Warning Not Initialized
 
 
 
-This option determines what happens during execution when an identifier is used before it is initialized, depending on the following settings:
-
-
+This option determines what happens during execution when an identifier is used before it is initialized,
+depending on the following settings:
 
 
 .. list-table::
@@ -41,18 +40,13 @@ This option determines what happens during execution when an identifier is used 
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 Notice that identifiers that are not initialized are set to their default.
-
 
 
 **Note** 
 
-*	If you set this option to "Off" or "Warning", the data of not initialized identifiers is automatically set to their default value.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	If you set this option to 'Off' or 'Warning', the data of not initialized identifiers is automatically set to their default value.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -61,6 +55,4 @@ Notice that identifiers that are not initialized are set to their default.
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

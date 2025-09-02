@@ -14,9 +14,9 @@ Warning Read Range Running Index
 
 
 
-This option determines what happens during execution when a case is loaded from within a for loop and that case contains data for the range set of the running index. The data of the range ser will always be ignored. AIMMS will ignore this, return a warning or return an error depending on the following settings: 
-
-
+This option determines what happens during execution when a case is loaded from within a for loop and that
+case contains data for the range set of the running index. The data of the range ser will always be ignored.
+AIMMS will ignore this, return a warning or return an error depending on the following settings: 
 
 
 .. list-table::
@@ -41,21 +41,15 @@ This option determines what happens during execution when a case is loaded from 
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
-
-
-**Learn more about** 
+**Learn more about**
 
 *	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

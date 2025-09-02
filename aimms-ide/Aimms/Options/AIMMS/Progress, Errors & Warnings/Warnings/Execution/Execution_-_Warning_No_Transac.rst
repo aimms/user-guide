@@ -14,9 +14,9 @@ Warning No Transactions Supported
 
 
 
-Not all data sources that can be accessed from AIMMS support transactions. When the first communication with such a source takes place, AIMMS will check if this data source supports transactions. This options determines what happens when transactions are not supported, depending on the following settings:
-
-
+Not all data sources that can be accessed from AIMMS support transactions. When the first communication
+with such a source takes place, AIMMS will check if this data source supports transactions. This options
+determines what happens when transactions are not supported, depending on the following settings:
 
 
 .. list-table::
@@ -41,13 +41,9 @@ Not all data sources that can be accessed from AIMMS support transactions. When 
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -57,6 +53,4 @@ Not all data sources that can be accessed from AIMMS support transactions. When 
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

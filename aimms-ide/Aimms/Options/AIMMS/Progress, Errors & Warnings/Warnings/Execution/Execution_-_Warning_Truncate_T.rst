@@ -14,9 +14,8 @@ Warning Truncate Table
 
 
 
-This option determines the behavior of AIMMS when a truncate table command is used on a data source that does not support truncating tables. Possible values are: 
-
-
+This option determines the behavior of AIMMS when a truncate table command is used on a data source that does not
+support truncating tables. Possible values are: 
 
 
 .. list-table::
@@ -41,14 +40,10 @@ This option determines the behavior of AIMMS when a truncate table command is us
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-*	You can use the empty command on database that do not support truncating tables. The empty is slower, but the effect is the same. When this option is set to Off or Warning, AIMMS will use the empty statement automatically when the database does not support truncating tables.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	You can use the empty command on database that do not support truncating tables. The empty is slower, but the effect is the same. When this option is set to 'Off' or 'Warning', AIMMS will use the empty statement automatically when the database does not support truncating tables.
 
 
 **Learn more about** 
@@ -57,6 +52,4 @@ This option determines the behavior of AIMMS when a truncate table command is us
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

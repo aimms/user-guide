@@ -14,11 +14,10 @@ Warning Round Tolerance
 
 
 
-This is a helper option of the option "Warning_round". If the absolute difference between a value x and its rounded value is less than the value of this option, AIMMS will consider x to be integral.
+This is a helper option of the option **Warning Round**. If the absolute difference between a value x and its rounded value
+is less than the value of this option, AIMMS will consider x to be integral.
 
 
+**Learn more about** 
 
-
-
- 
-
+*	:ref:`option-AIMMS-warning_round` 

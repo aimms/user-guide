@@ -14,9 +14,8 @@ Warning Index Domain Violation
 
 
 
-This option determines what happens during execution when an identifier is referenced outside its index domain, depending on the following settings: 
-
-
+This option determines what happens during execution when an identifier is referenced outside its index domain,
+depending on the following settings: 
 
 
 .. list-table::
@@ -41,57 +40,39 @@ This option determines what happens during execution when an identifier is refer
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 An example of such a situation arises when executing the following model:
 
 
+.. code-block:: text
 
-``SET:`` 
-
-``identifier  : Cities`` 
-
-``index  : c`` 
-
-``definition  : data{Paris,London} ;`` 
-
-``PARAMETER:`` 
-
-``identifier  : Population`` 
-
-``index domain : Cities;`` 
-
-``PROCEDURE`` 
-
-``identifier : MainExecution`` 
-
-``body :`` 
-
-``Population('Amsterdam'):=700000;`` 
-
-``ENDPROCEDURE ;`` 
-
+    Set Cities { 
+        Index: c;
+        Definition: data { Paris, London };
+    }
+    Parameter Population {
+        IndexDomain: c;
+    }
+    Procedure MainExecution {
+        Body: {
+            Population('Amsterdam') := 700000;
+        }
+    }
 
 
 When executing procedure 'MainExecution', there is an index domain violation, because 'Amsterdam' is not an element of the set 'Cities'.
 
 
+**Note**
 
-**Note** 
-
-*	If you set this option to "Off" or "Warning", data will be assigned to elements that are outside the domain.
-*	When an element is not in the index domain of an identifier due to domain restrictions in the ``index domain``  attribute of that identifier, the statement will give no warning or error.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
+*	If you set this option to 'Off' or 'Warning', data will be assigned to elements that are outside the domain.
+*	When an element is not in the index domain of an identifier due to domain restrictions in the ``index domain`` attribute of that identifier, the statement will give no warning or error.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
-
-**Learn more about** 
+**Learn more about**
 
 *	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

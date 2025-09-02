@@ -14,9 +14,8 @@ Warning Undf in Data
 
 
 
-This option determines what happens when the value 'Undf' is assigned to an identifier by reading from an ASCII file, database table, or case, or by assigment in GUI or model code, depending on the following settings: 
-
-
+This option determines what happens when the value 'Undf' is assigned to an identifier by reading from an ASCII file,
+database table, or case, or by assigment in GUI or model code, depending on the following settings: 
 
 
 .. list-table::
@@ -41,13 +40,9 @@ This option determines what happens when the value 'Undf' is assigned to an iden
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -56,6 +51,4 @@ This option determines what happens when the value 'Undf' is assigned to an iden
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

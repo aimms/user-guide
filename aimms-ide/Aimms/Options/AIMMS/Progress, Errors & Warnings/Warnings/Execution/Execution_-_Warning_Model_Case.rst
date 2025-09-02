@@ -14,9 +14,8 @@ Warning Model Case Compatibility
 
 
 
-This option determines what happens during execution, when a case is used that is not compatible with the current model, depending on the following settings:
-
-
+This option determines what happens during execution, when a case is used that is not compatible with the current model,
+depending on the following settings:
 
 
 .. list-table::
@@ -41,14 +40,10 @@ This option determines what happens during execution, when a case is used that i
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
 *	An incompatibility may be caused by a change of type or dimension of an identifier.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -57,6 +52,4 @@ This option determines what happens during execution, when a case is used that i
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

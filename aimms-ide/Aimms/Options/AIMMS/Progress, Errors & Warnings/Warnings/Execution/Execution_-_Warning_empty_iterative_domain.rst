@@ -41,7 +41,6 @@ For some iterative operators, for example Mean, the expression cannot be correct
 
 An example of such a situation arises when executing the following model:
 
-
 .. code-block:: text
 
     Set Cities { 
@@ -51,13 +50,13 @@ An example of such a situation arises when executing the following model:
     Parameter selectedCities {
         IndexDomain: c;
     }
-    Parameter population {
+    Parameter Population {
         IndexDomain: c;
     }
     Parameter result;
     Procedure MainExecution {
         Body: {
-            result := Mean( c | selectedCities(c), population(c) );
+            result := Mean( c | selectedCities(c), Population(c) );
         }
     }
 

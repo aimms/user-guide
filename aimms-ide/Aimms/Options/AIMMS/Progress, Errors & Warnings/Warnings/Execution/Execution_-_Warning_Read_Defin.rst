@@ -14,9 +14,8 @@ Warning Read Defined Identifier
 
 
 
-This option determines what happens during execution when a set or parameter with a definition is read from an ASCII or XML file, depending on the following settings: 
-
-
+This option determines what happens during execution when a set or parameter with a definition is read from
+an ASCII or XML file, depending on the following settings: 
 
 
 .. list-table::
@@ -41,14 +40,10 @@ This option determines what happens during execution when a set or parameter wit
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	If you set this option to "Off" or "Warning", the specific data from the ASCII or XML file will be ignored, but AIMMS will continue reading the remaining data.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	If you set this option to 'Off' or 'Warning', the specific data from the ASCII or XML file will be ignored, but AIMMS will continue reading the remaining data.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -57,6 +52,4 @@ This option determines what happens during execution when a set or parameter wit
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

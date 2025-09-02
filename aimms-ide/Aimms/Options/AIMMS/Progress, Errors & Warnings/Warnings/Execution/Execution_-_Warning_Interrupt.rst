@@ -17,8 +17,6 @@ Warning Interrupt
 This option determines what AIMMS should do when a user interrupts the execution, depending on the following settings: 
 
 
-
-
 .. list-table::
 
    * - *	Off	
@@ -41,13 +39,9 @@ This option determines what AIMMS should do when a user interrupts the execution
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -56,6 +50,4 @@ This option determines what AIMMS should do when a user interrupts the execution
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 
