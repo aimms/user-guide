@@ -14,7 +14,9 @@ Matrix Block Sizes
 
 
 
-This option determines whether during each solve the predeclared identifiers CurrentMatrixRowCount, CurrentMatrixColumnCount and CurrentMatrixBlockSizes will be filled. These identifiers can help you to determine which symbolic variables and constraints are responsible for the size of your model.
+This option determines whether during each solve the predeclared identifiers :any:`CurrentMatrixRowCount`,
+:any:`CurrentMatrixColumnCount` and :any:`CurrentMatrixBlockSizes` will be filled. These identifiers can help you
+to determine which symbolic variables and constraints are responsible for the size of your model.
 
 
 

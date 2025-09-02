@@ -14,13 +14,12 @@ Warning Excluded Uncertain Parameter Referenced in Uncertainty Constraints
 
 
 
-At the start of generation of a Robust Counterpart AIMMS checks whether there are any uncertain parameters referenced in handled uncertainty constraints or the uncertain attribute of other uncertain parameters that are not passed in the second argument of the function GMP::Instance::GenerateRobustCounterpart.
+At the start of generation of a Robust Counterpart AIMMS checks whether there are any uncertain parameters referenced in
+handled uncertainty constraints or the uncertain attribute of other uncertain parameters that are not passed in the second
+argument of the function :any:`GMP::Instance::GenerateRobustCounterpart`.
 
 
-
-The option "``Warning_excluded_uncertain_parameter_referenced_in_uncertainty_constraints`` " determines how unreferenced uncertain parameters are reported, depending on the following settings:
-
-
+This option determines how unreferenced uncertain parameters are reported, depending on the following settings:
 
 
 .. list-table::
@@ -45,13 +44,9 @@ The option "``Warning_excluded_uncertain_parameter_referenced_in_uncertainty_con
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -60,6 +55,4 @@ The option "``Warning_excluded_uncertain_parameter_referenced_in_uncertainty_con
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

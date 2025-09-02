@@ -14,55 +14,47 @@ Warning Global Constraint
 
 
 
-For each global constraint it is verified whether or not it is binding. Consider the following examples:
+For each global constraint it is verified whether or not it is binding. Consider the following example:
+
+.. code-block:: text
+
+    Constraint ad {
+        Definition: cp::AllDifferent(i,v(i));
+    }
 
 
+When the set that is the scope of index i is empty, AIMMS will issue the following warning
 
-CONSTRAINT:
+.. code-block:: text
 
-  identifier : ad
-
-  definition : cp::AllDifferent(i,v(i))
-
+    The cp::AllDifferent constraint does not need to restrict the value of any variable which makes it nonbinding.
 
 
-When the set that is the scope of index i is empty, AIMMS will issue the following warning "The cp::AllDifferent constraint does not need to restrict the value of any variable which makes it nonbinding.".
+As another example, in the following constraint, the number of occurrences in a subsequence is always between 0
+and the sequence length.
+
+.. code-block:: text
+
+    Constraint seq {
+        Definition: cp::Sequence(
+                         inspectedBinding : k,
+                         inspectedValues  : v3(k),
+                         lookupValues     : lv,
+                         sequenceLength   : 3,
+                         lowerBound       : 0,
+                         upperBound       : 3,
+                         cyclic           : 0);
+    }
 
 
+For the above constraint AIMMS will issue the warning:
 
-In the following constraint, the number of occurrences in a subsequence is always between 0 and the sequence length.
+.. code-block:: text
 
-
-
-CONSTRAINT:
-
-  identifier : seq
-
-  definition : cp::Sequence(
-
-             inspectedBinding : k,
-
-             inspectedValues : v3(k),
-
-             lookupValues   : lv,
-
-             sequenceLength  : 3,
-
-             lowerBound    : 0,
-
-             upperBound    : 3,
-
-             cyclic      : 0)
+    cp::Sequence(): With a zero lowerbound and a sequence length 3 and upper bound 3 this constraint becomes nonbinding.
 
 
-
-For the above constraint AIMMS will issue the warning: "cp::Sequence(): With a zero lowerbound and a sequence length 3 and upper bound 3 this constraint becomes nonbinding."
-
-
-
-The option "``Warning_Global_Constraint`` " determines how nonbinding global constraints are reported, depending on the following settings:
-
-
+The option ``Warning_Global_Constraint`` determines how nonbinding global constraints are reported, depending on the following settings:
 
 
 .. list-table::
@@ -87,13 +79,9 @@ The option "``Warning_Global_Constraint`` " determines how nonbinding global con
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 

@@ -20,33 +20,30 @@ Consider the following example:
 
 
 
-RESOURCE:
+.. code-block:: text
 
-  identifier   : res
-
-  usage      : parallel
-
-  schedule domain : Timeline
-
-  activities   : act1, act2, act3, act4
-
-  level range   : {0..10}
-
-  level change  : act1: 1
-
-  begin change  : act2: 2
-
-  end change   : act3: 3
+    Resource res {
+        Usage: parallel;
+        ScheduleDomain: Timeline;
+        Activities: act1, act2, act3, act4;
+        LevelRange: {
+            {0..10}
+        }
+        LevelChange: act1: 1;
+        BeginChange: act2: 2;
+        EndChange: act3: 3;
+    }
 
 
+For this resource AIMMS will issue the message:
 
-For this resource AIMMS will issue the message: "Warning: The activity act4, referenced in the activity attribute of res, is not referenced in any of the level modification attributes of that parallel schedule."
+.. code-block:: text
+
+    Warning: The activity act4, referenced in the activity attribute of res, is not referenced in any of the
+    level modification attributes of that parallel schedule.
 
 
-
-The option "``Warning_Ineffective_Activity`` " determines how nonbinding global constraints are reported, depending on the following settings:
-
-
+The option ``Warning_Ineffective_Activity`` determines how nonbinding global constraints are reported, depending on the following settings:
 
 
 .. list-table::
@@ -71,13 +68,9 @@ The option "``Warning_Ineffective_Activity`` " determines how nonbinding global 
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -87,6 +80,4 @@ The option "``Warning_Ineffective_Activity`` " determines how nonbinding global 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 *	:ref:`option-AIMMS-warning_referenced_activities` 
-
-
 

@@ -14,15 +14,10 @@ Progress Execution
 
 
 
-This option controls the progress reports during the execution of statements. If the Progress Window is open, it will display information about the current location in the model. Possible values are:
+This option controls the progress reports during the execution of statements. If the :ref:`aimmshelp12-progress_window` is open,
+it will display information about the current location in the model. Possible values are:
 
+    0:	Do not report progress.	
 
-
-0:	Do not report progress.	
-
-n:	Report progress after each n statements.	
-
-
-
-
+    *n*:	Report progress after each *n* statements.	
 

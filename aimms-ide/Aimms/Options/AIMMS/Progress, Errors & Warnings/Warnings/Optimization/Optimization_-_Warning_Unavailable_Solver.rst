@@ -14,9 +14,8 @@ Warning Unavailable Solver
 
 
 
-This option determines what happens when a mathematical program calls a solver that is not available in the present AIMMS distribution, depending on the following settings:
-
-
+This option determines what happens when a mathematical program calls a solver that is not available in the present
+AIMMS distribution, depending on the following settings:
 
 
 .. list-table::
@@ -41,14 +40,10 @@ This option determines what happens when a mathematical program calls a solver t
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
 *	Regardless of this option, the mathematical program will not be solved if the solver is not available.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -57,12 +52,4 @@ This option determines what happens when a mathematical program calls a solver t
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
-
-
-
 

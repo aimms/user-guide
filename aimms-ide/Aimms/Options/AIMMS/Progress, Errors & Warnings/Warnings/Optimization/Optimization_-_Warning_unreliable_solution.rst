@@ -14,9 +14,8 @@ Warning Unreliable Solution
 
 
 
-This option determines what happens when the postsolve of an LP or MIP problem indicates that the solution found is unreliable, depending on the following settings:
-
-
+This option determines what happens when the :ref:`option-AIMMS-postsolve` of an LP or MIP problem indicates that the solution found is unreliable,
+depending on the following settings:
 
 
 .. list-table::
@@ -41,13 +40,9 @@ This option determines what happens when the postsolve of an LP or MIP problem i
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -57,12 +52,4 @@ This option determines what happens when the postsolve of an LP or MIP problem i
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
-
-
-
 

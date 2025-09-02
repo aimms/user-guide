@@ -17,8 +17,6 @@ Warning Free Arcs
 This option determines what happens when a network model contains arcs that are "free", i.e. arcs with range (-inf, inf), depending on the following settings:
 
 
-
-
 .. list-table::
 
    * - *	Off	
@@ -41,13 +39,9 @@ This option determines what happens when a network model contains arcs that are 
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -56,9 +50,4 @@ This option determines what happens when a network model contains arcs that are 
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 

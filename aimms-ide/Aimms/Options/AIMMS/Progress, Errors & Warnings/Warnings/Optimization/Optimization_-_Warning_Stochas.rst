@@ -14,9 +14,10 @@ Warning Stochastic Programming Scenario Consistency
 
 
 
-This option determines whether a consistency check on the scenarios in a stochastic program is executed; In all but the last stage, for coefficients in a group of rows differing only in their scenario index, the coefficients in a column with the same representative scenario should be the same. Whether the consistency check is executed and whether a warning or error is given when the check fails depends on the following settings:
-
-
+This option determines whether a consistency check on the scenarios in a stochastic program is executed.
+In all but the last stage, for coefficients in a group of rows differing only in their scenario index,
+the coefficients in a column with the same representative scenario should be the same. Whether the consistency
+check is executed and whether a warning or error is given when the check fails depends on the following settings:
 
 
 .. list-table::
@@ -41,13 +42,9 @@ This option determines whether a consistency check on the scenarios in a stochas
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 

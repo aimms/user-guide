@@ -16,31 +16,21 @@ Warning Duplicate Row
 
 At the end of generating a mathematical program, AIMMS checks whether it contains duplicate rows.
 
-
-
 The consequences of duplicate rows are:
 
-*	An increase in the size of the mathematical program, and therefore an increase in memory consumption.
-*	Solution time may increase, in particular when a non-linear program has been generated.
-*	Duplicate rows lead to non-unique shadow prices.
-
-
+    *	An increase in the size of the mathematical program, and therefore an increase in memory consumption.
+    *	Solution time may increase, in particular when a non-linear program has been generated.
+    *	Duplicate rows lead to non-unique shadow prices.
 
 
 Potential causes of duplicate rows are:
 
-*	The data used to create this instance contains duplicate information for selected elements. 
-*	There is an index in the index domain of the constraint which isn't used in the definition of that constraint.
-*	There is a duplicate constraint formulation.
+    *	The data used to create this instance contains duplicate information for selected elements. 
+    *	There is an index in the index domain of the constraint which isn't used in the definition of that constraint.
+    *	There is a duplicate constraint formulation.
 
 
-
-
-The option "``Warning_duplicate_row`` " determines how duplicate rows should be reported, depending on the following settings:
-
-
-
-
+The option ``Warning_duplicate_row`` determines how duplicate rows should be reported, depending on the following settings:
 
 
 .. list-table::
@@ -65,15 +55,9 @@ The option "``Warning_duplicate_row`` " determines how duplicate rows should be 
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 

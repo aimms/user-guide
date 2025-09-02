@@ -3,7 +3,7 @@
 .. _option-AIMMS-warning_stage_0_stochastic_variables:
 
 
-Warning stage 0 stochastic variables
+Warning Stage 0 Stochastic Variables
 ====================================
 
 
@@ -15,8 +15,6 @@ Warning stage 0 stochastic variables
 
 
 This option determines what happens when stochastic variables have stage 0, depending on the following settings:
-
-
 
 
 .. list-table::
@@ -41,13 +39,9 @@ This option determines what happens when stochastic variables have stage 0, depe
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 

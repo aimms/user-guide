@@ -17,6 +17,7 @@ This option controls the progress reports during the solution process if the bar
 current status, the best value found, etc. Possible values are: 
 
     0:	Do not report progress	
+    
     *n*:	Report progress after each *n* barrier iterations	
 
 

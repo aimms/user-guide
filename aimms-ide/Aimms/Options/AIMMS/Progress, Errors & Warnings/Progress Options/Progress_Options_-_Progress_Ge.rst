@@ -14,13 +14,10 @@ Progress Generation
 
 
 
-This option controls progress reports during the generation of the matrix. If the Progress Window is open, it will display information about how many rows, columns and nonzero matrix elements are generated. Possible values are:
+This option controls progress reports during the generation of the matrix. If the :ref:`aimmshelp12-progress_window` is open,
+it will display information about how many rows, columns and nonzero matrix elements are generated. Possible values are:
 
+    0:	Do not report progress.	
 
-
-0:	Do not report progress.	
-
-n:	Report progress after the generation of every n constraint blocks.	
-
-
+    *n*:	Report progress after the generation of every *n* constraint blocks.	
 

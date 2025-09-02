@@ -14,25 +14,27 @@ Warning Row Range Left Hand Side
 
 
 
-At the end of the first generation of a mathematical program, individual constraints are checked whether or not they are binding by computing the range of the left hand side and comparing it to the right hand side. Consider the following example, where b1 and b2 are binary variables:
+At the end of the first generation of a mathematical program, individual constraints are checked whether or not they are
+binding by computing the range of the left-hand-side and comparing it to the right-hand-side. Consider the following example,
+where b1 and b2 are binary variables:
 
 
+.. code-block:: text
 
-  CONSTRAINT:
-
-  	identifier : eqn
-
-  	definition : b1 + b2 <= 3
-
+    Constraint eqn {
+        Definition: b1 + b2 <= 3;
+    }
 
 
-AIMMS will issue the warning message: The range of the left hand side of the "<=" constraint eqn is [0, 2], and the right hand side of that constraint is 3; this constraint is non-binding.
+AIMMS will issue the warning message:
+
+.. code-block:: text
+
+    The range of the left hand side of the "<=" constraint eqn is [0, 2], and the right hand side
+    of that constraint is 3; this constraint is non-binding.
 
 
-
-The option "``Warning_Row_Range_Left_Hand_Side`` " determines how non-binding constraints are reported, depending on the following settings:
-
-
+The option ``Warning_Row_Range_Left_Hand_Side`` determines how non-binding constraints are reported, depending on the following settings:
 
 
 .. list-table::
@@ -57,14 +59,10 @@ The option "``Warning_Row_Range_Left_Hand_Side`` " determines how non-binding co
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	The option Warning Row Range Left Hand Side is the complement of the option Row Range Violation Left Hand Side.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	The option **Warning Row Range Left Hand Side** is the complement of the option **Row Range Violation Left Hand Side**.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -74,9 +72,4 @@ The option "``Warning_Row_Range_Left_Hand_Side`` " determines how non-binding co
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 *	:ref:`option-AIMMS-row_range_violation_left_hand_side` 
-
-
-
-
-
 

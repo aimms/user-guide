@@ -17,8 +17,6 @@ Warning Non Optimal
 This option determines what happens when the solution found by a solver is non-optimal, depending on the following settings:
 
 
-
-
 .. list-table::
 
    * - *	Off	
@@ -41,14 +39,10 @@ This option determines what happens when the solution found by a solver is non-o
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	If you set this option to "Off", you can check the result of the solver yourself via the various suffix values of the mathematical program.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	If you set this option to 'Off', you can check the result of the solver yourself via the various suffix values of the mathematical program.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -58,12 +52,4 @@ This option determines what happens when the solution found by a solver is non-o
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
-
-
-
 

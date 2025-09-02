@@ -14,12 +14,9 @@ Time Messages
 
 
 
-This option controls whether timing information about a particular phase in the model (compilation, execution, and solving) should be reported in the Message Window. Possible values are:
-
-
+This option controls whether timing information about a particular phase in the model (compilation, execution, and solving)
+should be reported in the :ref:`aimmshelp13-Messages_Window`. Possible values are:
 
     *	No time messages
     *	Show time messages
-
-
 

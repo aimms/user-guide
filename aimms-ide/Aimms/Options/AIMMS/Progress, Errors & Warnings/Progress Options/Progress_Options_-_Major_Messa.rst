@@ -14,12 +14,9 @@ Major Messages
 
 
 
-This option controls whether general information about the compilation, execution and solving should be reported to the Message Window. Possible values are:
-
-
+This option controls whether general information about the compilation, execution and solving should be reported to the :ref:`aimmshelp13-Messages_Window`.
+Possible values are:
 
     *	No major messages
     *	Show major messages
-
-
 

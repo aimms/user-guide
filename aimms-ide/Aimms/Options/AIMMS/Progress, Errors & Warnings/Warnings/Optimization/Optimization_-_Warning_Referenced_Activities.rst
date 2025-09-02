@@ -14,41 +14,34 @@ Warning Referenced Activities
 
 
 
-When an activity is referenced in one of the sequencing attributes of a sequential resource or in one of the level modification attributes of a parallel resource, but is not referenced in the attribute "activities" of that resource, AIMMS will issue a warning. Consider the following example:
+When an activity is referenced in one of the sequencing attributes of a sequential resource or in one of the level modification
+attributes of a parallel resource, but is not referenced in the attribute "activities" of that resource, AIMMS will issue a warning.
+Consider the following example:
+
+.. code-block:: text
+
+    Set mySet {
+        Index: i, j, k;
+        Definition: data { a, b, c, d, e, f, g, h, i, j, k };
+    }
+
+    Resource res {
+        Usage: sequential;
+        ScheduleDomain: Timeline;
+        Activities: act(i):ord(i)<5;
+        ComesBefore: (act('f'),act('g'));
+    }
 
 
+AIMMS will issue the warning message:
 
-  SET:
+.. code-block:: text
 
-    identifier   : mySet
-
-    indices     : i, j, k
-
-    definition   : data { a, b, c, d, e, f, g, h, i, j, k } ;
+    The activity act('f') referenced in the attribute "comes before" of resource res, is not scheduled on that resource.
 
 
-
-  RESOURCE:
-
-    identifier   : res
-
-    usage      : sequential
-
-    schedule domain : Timeline
-
-    activities   : act(i):ord(i)<5
-
-    comes before  : (act('f'),act('g')) ;
-
-
-
-AIMMS will issue the warning message: The activity act('f') referenced in the attribute "comes before" of resource res, is not scheduled on that resource.
-
-
-
-The option "``Warning_Referenced_Activities`` " determines how activities referenced in a sequencing or level modification attribute, but not in the activities attribute, are reported, depending on the following settings:
-
-
+The option ``Warning_Referenced_Activities`` determines how activities referenced in a sequencing or level modification attribute,
+but not in the activities attribute, are reported, depending on the following settings:
 
 
 .. list-table::
@@ -73,13 +66,9 @@ The option "``Warning_Referenced_Activities`` " determines how activities refere
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -89,12 +78,4 @@ The option "``Warning_Referenced_Activities`` " determines how activities refere
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
 *	:ref:`option-AIMMS-warning_ineffective_activity` 
-
-
-
-
-
-
-
-
 

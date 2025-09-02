@@ -3,7 +3,7 @@
 .. _option-AIMMS-warning_move_frozen_into_bounds:
 
 
-Warning move frozen into bounds
+Warning Move Frozen into Bounds
 ===============================
 
 
@@ -15,8 +15,6 @@ Warning move frozen into bounds
 
 
 This option determines what happens when the type of mathematical program does not correspond to the model class, depending on the following settings:
-
-
 
 
 .. list-table::
@@ -41,14 +39,10 @@ This option determines what happens when the type of mathematical program does n
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	If this option is not set to "Error", the mathematical program will be solved using the specified model class.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	If this option is not set to 'Error', the mathematical program will be solved using the specified model class.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -58,6 +52,4 @@ This option determines what happens when the type of mathematical program does n
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

@@ -17,11 +17,7 @@ Progress Compilation
 This option determines the number of lines after which progress in compilation is reported. If the :ref:`aimmshelp12-progress_window`
 is open, it will display information about the current location in the model. Possible values are:
 
-0:	Do not report progress.	
+    0:	Do not report progress.	
 
-n:	Report progress after each n lines.	
-
-
-
-
+    *n*:	Report progress after each *n* lines.	
 

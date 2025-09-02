@@ -46,7 +46,7 @@ This option determines what happens when a model contains rows or columns with i
 **Note** 
 
 *	You should be a cautious in changing the setting of this option. If this option is switched off for a model containing infeasible rows or columns, and you try to solve the model then it will be marked as infeasible. It might not be evident why the model is marked as infeasible or to detect the cause of the infeasibility without switching this option back to its default.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

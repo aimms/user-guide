@@ -14,31 +14,25 @@ Progress Solution
 
 
 
-This option controls the progress reports during the solution process based on the number of iterations. If the Progress Window is open, it will display information about the number of iterations, the current status, the best value found, etc. Possible values are:
+This option controls the progress reports during the solution process based on the number of iterations. If the :ref:`aimmshelp12-progress_window`
+is open, it will display information about the number of iterations, the current status, the best value found, etc. Possible values are:
+
+    0:	Do not report progress.	
+
+    *n*:	Report progress after each *n* iterations.	
 
 
-
-0:	Do not report progress.	
-
-n:	Report progress after each n iterations.	
-
-
-
-The option **Progress Time Interval** can be used to control progress reports based on the number of seconds. By default, progress reports are based on elapsed time only.
-
+The option **Progress Time Interval** can be used to control progress reports based on the number of seconds. By default, progress reports are
+based on elapsed time only.
 
 
 **Note** 
 
 *	This option, together with the option **Progress Time Interval**, also influences the responsiveness of AIMMS during a solve. If both options are set to 0 or a large value then AIMMS will become less responsive.
-*	This option is not supported by the following solvers SNOPT, MINOS, PATH, KNITRO, BARON and CP Optimizer. SNOPT, MINOS and PATH each use a solver specific option named **Solution Progress**. Progress updates by BARON, KNITRO and CP Optimizer are only based on elapsed time.
-
-
+*	This option is not supported by the following solvers :ref:`SolverSNOPT`, :ref:`SolverMINOS`, :ref:`SolverPATH`, :ref:`SolverKnitro`, :ref:`SolverBARON` and :ref:`SolverCPOPT`. SNOPT, MINOS and PATH each use a solver specific option named **Solution Progress**. Progress updates by BARON, KNITRO and CP Optimizer are only based on elapsed time.
 
 
 **Learn more about** 
 
 *	:ref:`option-AIMMS-progress_time_interval` 
-
-
 

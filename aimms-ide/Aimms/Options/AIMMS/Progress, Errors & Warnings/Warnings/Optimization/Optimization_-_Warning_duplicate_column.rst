@@ -16,30 +16,20 @@ Warning Duplicate Column
 
 At the end of generating a linear mathematical program, AIMMS checks whether it contains duplicate columns. Two columns are duplicates when they contain the same coefficients in the matrix for each row.
 
-
-
 The consequences of duplicate columns are:
 
-*	An increase in the size of the mathematical program, and therefore an increase in memory consumption.
-*	More important is that duplicate columns can lead to non-unique solutions, and consequently small changes in data or a change of solver may lead to a different solution.
-
-
+    *	An increase in the size of the mathematical program, and therefore an increase in memory consumption.
+    *	More important is that duplicate columns can lead to non-unique solutions, and consequently small changes in data or a change of solver may lead to a different solution.
 
 
 Potential causes of duplicate columns are:
 
-*	An incomplete index domain condition on one of the variables.
-*	The data used to create this instance contains duplicate information for selected elements. 
-*	A modeling error; one of the columns should also be present in another constraint.
-
-
+    *	An incomplete index domain condition on one of the variables.
+    *	The data used to create this instance contains duplicate information for selected elements. 
+    *	A modeling error; one of the columns should also be present in another constraint.
 
 
 The option ``Warning_duplicate_column``  determines how duplicate columns should be reported, depending on the following settings:
-
-
-
-
 
 
 .. list-table::
@@ -64,15 +54,9 @@ The option ``Warning_duplicate_column``  determines how duplicate columns should
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -81,6 +65,4 @@ The option ``Warning_duplicate_column``  determines how duplicate columns should
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 
