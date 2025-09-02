@@ -31,7 +31,7 @@ The setting of this option determines how large the large blocks are that are al
 
 The higher the setting of this option, the faster the AIMMS memory manager will be. Using a high value however might also
 lead to more memory being allocated than is actually needed. In case you think your model might benefit from a different
-setting you can set the option **Memory Statistics** to 'On' and use the function :any:`MemoryStatistics:any:` to compare the results.
+setting you can set the option **Memory Statistics** to 'On' and use the function :any:`MemoryStatistics` to compare the results.
 
 
 
