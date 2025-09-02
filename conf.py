@@ -109,7 +109,7 @@ html_theme_options = {
     'display_help_and_feedback' : True,
     'is_github' : True,
     'repo_url' : "https://github.com/aimms/user-guide",
-    "navigation_depth": 6,
+    "navigation_depth": 7,
 
 }
 
