@@ -16,11 +16,7 @@ Warning Incompatible Binding IN
 
 This option controls a warning on a binding IN for which the handling has changed since AIMMS version 25.1.
 
-
-
 This situation is ignored, reported as a warning, or interpreted as an error, depending on the following settings:
-
-
 
 
 .. list-table::
@@ -45,69 +41,43 @@ This situation is ignored, reported as a warning, or interpreted as an error, de
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 An example of such a situation arises in the definition of pcard in the following model fragment:
 
+.. code-block:: aimms
+
+    Set A {
+        Index: i;
+        InitialData: data { i1 .. i2 };
+    }
+    Set RootSet {
+        InitialData: data { 1 .. 10 };
+    }
+    Set MySubSet {
+        SubsetOf: RootSet;
+        Index: sm;
+        InitialData: data { 3, 4 };
+    }
+    Set MyIndexedSet {
+        Index: i;
+        Range: RootSet;
+        InitialData: data { i1 : { 1, 3, 5 }, i2 : { 6, 7 } };
+    }
+    Parameter pcard {
+        IndexDomain: i;
+        Definition: count( sm IN MyIndexedSet(i) );
+    }
 
 
-``SET A {`` 
-
-``Index i;`` 
-
-``InitialData: data { i1 .. i2 }`` 
-
-``}`` 
-
-``SET RootSet {`` 
-
-``InitialData: data { 1 .. 10 };`` 
-
-``SET MySubSet {`` 
-
-``Index: sm;`` 
-
-``:Range: RootSet;`` 
-
-``InitialData: data { 3, 4 };`` 
-
-``}`` 
-
-``SET MyIndexedSet {`` 
-
-``Index: i;`` 
-
-``:Range: RootSet;`` 
-
-``InitialData: data { i1 : { 1, 3, 5 }, i2 : { 6, 7 } };`` 
-
-``}`` 
-
-``PARAMETER pcard {`` 
-
-``Index: i;`` 
-
-``Definition: count( sm IN MyIndexedSet(i) );`` 
-
-``}`` 
-
-
-
-In AIMMS versions before 25.1 this would result in pcard having the following data: { i1 : 1, i2 : 0 }, while it should have been { i1 : 3, i2 : 2 }
-
-This is because in the older versions the definition of pcard, was executed as it it was specified as: count( sm IN MyIndexedSet(i) **| sm IN MySubset**  )
-
-
+In AIMMS versions before 25.1 this would result in ``pcard`` having the following data: ``{ i1 : 1, i2 : 0 }``,
+while it should have been ``{ i1 : 3, i2 : 2 }``. This is because in the older versions the definition of ``pcard``
+was executed as if it was specified as: ``count( sm IN MyIndexedSet(i) | sm IN MySubset )``.
 
 If you intend to use it the 'old' way then you must now specify the extra binding IN explicitly.
-
 
 
 **Note** 
 
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -116,9 +86,4 @@ If you intend to use it the 'old' way then you must now specify the extra bindin
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 

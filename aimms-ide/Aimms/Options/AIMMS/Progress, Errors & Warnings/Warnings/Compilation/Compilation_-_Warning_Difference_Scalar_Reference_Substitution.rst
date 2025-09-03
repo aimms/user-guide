@@ -18,10 +18,10 @@ Consider the following declarations:
 
 .. code-block:: aimms
 
-    Parameter x_lo { 
+    Parameter x_lo {
         InitialData: 1;
     }
-    Parameter x_up { 
+    Parameter x_up {
         InitialData: 5;
     }
     Parameter x_mid;

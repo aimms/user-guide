@@ -14,9 +14,9 @@ Warning Ignored Cleandependents
 
 
 
-Cleandependents does not work (has no effect) on compound or indexed sets. This options determines whether the use of cleandependents on a compound or indexed set is ignored, results in a warning, or results in an error, corresponding to following settings:
-
-
+Cleandependents does not work (has no effect) on indexed sets. This option determines whether the use of
+cleandependents on a indexed set is ignored, results in a warning, or results in an error, corresponding
+to following settings:
 
 
 .. list-table::
@@ -41,13 +41,9 @@ Cleandependents does not work (has no effect) on compound or indexed sets. This 
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -56,6 +52,4 @@ Cleandependents does not work (has no effect) on compound or indexed sets. This 
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

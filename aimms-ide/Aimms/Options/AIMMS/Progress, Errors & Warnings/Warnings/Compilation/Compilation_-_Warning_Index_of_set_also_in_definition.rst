@@ -14,11 +14,8 @@ Warning Index of Set also in Definition
 
 
 
-When an index is declared in the set, and also used in the definition of that same set,the result may be unexpected. This option controls whether to ignore such a situation, warn about it, or even raise an error:
-
-
-
-
+When an index is declared in the set, and also used in the definition of that same set,the result may be
+unexpected. This option controls whether to ignore such a situation, warn about it, or even raise an error:
 
 
 .. list-table::
@@ -43,43 +40,29 @@ When an index is declared in the set, and also used in the definition of that sa
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 Consider the following example:
 
+.. code-block:: aimms
+
+    Set ExampleRootSet {
+        Index: ers;
+        Definition: data { R1..R10 };
+    }
+    Set ExampleSubset {
+        SubsetOf: ExampleRootSet;
+        Index: ess;
+        Definition: { ess | 1 };
+    }
 
 
-SET:
-
- identifier : ExampleRootSet
-
- index   : ers
-
- definition : Data{R1..R10} ;
-
-
-
-SET:
-
- identifier : ExampleSubset
-
- subset of : ExampleRootSet
-
- index   : ess
-
- definition : {ess | 1} ;
-
-
-
-In the above example, the index ess is both declared as an index of ExampleSubSet, and it is used in the definition. The result of this definition, is empty however. In contrast, when using the definition { ers | 1 } all elements will be added to the set ExampleSubset.
-
+In the above example, the index ``ess`` is both declared as an index of ``ExampleSubSet``, and it is used in the definition.
+The result of this definition, is empty however. In contrast, when using the definition ``{ ers | 1 }`` all elements will
+be added to the set ``ExampleSubset``.
 
 
 **Note** 
 
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -88,9 +71,4 @@ In the above example, the index ess is both declared as an index of ExampleSubSe
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 

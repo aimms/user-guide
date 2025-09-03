@@ -14,9 +14,10 @@ Warning Incompatible Argument Data Type
 
 
 
-This option determines what happens during compilation when there is call to a function or procedure with an argument of which the data type is incompatible with the data type of the argument as declared within the function or procedure. This situation is ignored, reported as a warning, or interpreted as an error, depending on the following settings:
-
-
+This option determines what happens during compilation when there is call to a function or procedure with
+an argument of which the data type is incompatible with the data type of the argument as declared within
+the function or procedure. This situation is ignored, reported as a warning, or interpreted as an error,
+depending on the following settings:
 
 
 .. list-table::
@@ -41,50 +42,32 @@ This option determines what happens during compilation when there is call to a f
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
+An example of such a situation arises in the following model fragment, where the function "twice",
+of which the argument is declared as parameter, is called with a string parameter.
 
+.. code-block:: aimms
 
-An example of such a situation arises in the following model fragment, where the function "twice", of which the argument is declared as parameter, is called with a string parameter.
-
-
-
-``STRING PARAMETER:`` 
-
-``identifier : p`` 
-
-``definition : "hello" ;`` 
-
-``PARAMETER:`` 
-
-``identifier : q`` 
-
-``definition : twice(p) ;`` 
-
-``FUNCTION`` 
-
-``identifier : twice`` 
-
-``arguments : a`` 
-
-``PARAMETER:`` 
-
-``identifier : a`` 
-
-``property  : Input ;`` 
-
-``body :`` 
-
-``twice:=2*a;`` 
-
-``ENDFUNCTION ;`` 
-
+    StringParameter p {
+        Definition: "hello";
+    }
+    Parameter q {
+        Definition: twice(p);
+    }
+    Function twice {
+        Arguments: (a);
+        Body: {
+            twice := 2*a;
+        }
+        Parameter a {
+            Property: Input;
+        }
+    }
 
 
 **Note** 
 
-*	If you set this option to "Off" or "Warning", then the results of a mismatch in arguments are not predictable. You may use this in a call to an external procedure or function, as long as you know what you are doing.
+*	If you set this option to 'Off' or 'Warning', then the results of a mismatch in arguments are not predictable. You may use this in a call to an external procedure or function, as long as you know what you are doing.
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -93,9 +76,4 @@ An example of such a situation arises in the following model fragment, where the
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 

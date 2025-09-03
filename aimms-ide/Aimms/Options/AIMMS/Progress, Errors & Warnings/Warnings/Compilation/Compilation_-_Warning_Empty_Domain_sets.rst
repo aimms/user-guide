@@ -17,10 +17,6 @@ Warning Empty Domain Sets
 This option determines what happens in case of empty domain sets, depending on the following settings:
 
 
-
-
-
-
 .. list-table::
 
    * - *	Off	
@@ -43,45 +39,26 @@ This option determines what happens in case of empty domain sets, depending on t
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
-
-
-
-
 For example, this situation arises in the following model fragment:
 
+.. code-block:: aimms
 
-
-``SET:`` 
-
-``identifier  : UndefinedSet`` 
-
-``index  : u ;`` 
-
-``PARAMETER:`` 
-
-``identifier  : p`` 
-
-``index domain : u ;`` 
-
-``PROCEDURE:`` 
-
-``identifier : MainExecution`` 
-
-``body:`` 
-
-``p(u):=1;`` 
-
-``ENDPROCEDURE ;`` 
-
+    Set UndefinedSet {
+        Index: u;
+    }
+    Parameter p {
+        IndexDomain: u;
+    }
+    Procedure MainExecution {
+        Body: {
+            p(u) := 1;
+        }
+    }
 
 
 **Note** 
 
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -90,6 +67,4 @@ For example, this situation arises in the following model fragment:
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

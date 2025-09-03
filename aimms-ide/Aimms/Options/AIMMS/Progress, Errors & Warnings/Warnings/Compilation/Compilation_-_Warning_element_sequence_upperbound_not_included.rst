@@ -14,7 +14,8 @@ Warning Element Sequence Upperbound Not Included
 
 
 
-This option determines what happens when the upperbound of an element sequence is not included in the generated sequence, depending on the following settings:
+This option determines what happens when the upperbound of an element sequence is not included in the generated
+sequence, depending on the following settings:
 
 
 .. list-table::
@@ -39,21 +40,14 @@ This option determines what happens when the upperbound of an element sequence i
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
-
-
 For example, this situation arises in the following model fragment:
 
+.. code-block:: aimms
 
-
-``SET:`` 
-
-``identifier  : Seq`` 
-
-``index    : s`` 
-
-``initial data : data { 1 .. 8 by 2 }`` 
+    Set Seq {
+        Index: s;
+        InitialData: data { 1 .. 8 by 2 };
+    }
 
 
 **Note** 
