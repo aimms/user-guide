@@ -27,7 +27,7 @@ The hint value and hint priority can be set in the AIMMS project by using the fu
 For example, to pass the current level values of the variable JobSchedule as hints you can use:
 
 
-.. code-block:: text
+.. code-block:: aimms
 
     myGMP := GMP::Instance::Generate( FlowShopModel );
     

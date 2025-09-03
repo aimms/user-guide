@@ -41,7 +41,7 @@ For some iterative operators, for example Mean, the expression cannot be correct
 
 An example of such a situation arises when executing the following model:
 
-.. code-block:: text
+.. code-block:: aimms
 
     Set Cities { 
         Index: c;

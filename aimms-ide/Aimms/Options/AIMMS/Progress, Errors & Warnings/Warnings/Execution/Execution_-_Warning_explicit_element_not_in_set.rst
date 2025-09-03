@@ -41,7 +41,7 @@ This option determines what happens when a statement contains an explicit elemen
 
 An example of such a situation arises when executing the following model:
 
-.. code-block:: text
+.. code-block:: aimms
 
     Set Cities { 
         Definition: data { Paris, London };

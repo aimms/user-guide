@@ -18,7 +18,7 @@ When an activity is referenced in one of the sequencing attributes of a sequenti
 attributes of a parallel resource, but is not referenced in the attribute "activities" of that resource, AIMMS will issue a warning.
 Consider the following example:
 
-.. code-block:: text
+.. code-block:: aimms
 
     Set mySet {
         Index: i, j, k;

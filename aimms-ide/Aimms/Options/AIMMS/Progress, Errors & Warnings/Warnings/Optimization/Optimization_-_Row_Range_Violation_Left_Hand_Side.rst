@@ -19,7 +19,7 @@ of the left-hand-side and comparing it to the right-hand-side.
 
 As an example, consider the following constraint:
 
-.. code-block:: text
+.. code-block:: aimms
 
     Constraint gt3 {
         Definition: b1 + b2 >= 3;

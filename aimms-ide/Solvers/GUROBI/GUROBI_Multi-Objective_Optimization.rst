@@ -17,7 +17,7 @@ For example, to mark the variables TotalDist and TotalTime in a mathematical pro
 and solve the math program use
 
 
-.. code-block:: text
+.. code-block:: aimms
 
     gmpMP := GMP::Instance::Generate( MP );
 

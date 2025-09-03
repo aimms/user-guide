@@ -20,7 +20,7 @@ Consider the following example:
 
 
 
-.. code-block:: text
+.. code-block:: aimms
 
     Resource res {
         Usage: parallel;

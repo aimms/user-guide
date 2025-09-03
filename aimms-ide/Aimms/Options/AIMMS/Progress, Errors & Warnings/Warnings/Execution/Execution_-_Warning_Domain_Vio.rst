@@ -41,7 +41,7 @@ This option determines what happens when domains are violated, depending on the 
 
 An example of such a situation arises when executing the following model:
 
-.. code-block:: text
+.. code-block:: aimms
 
     Set Cities {
         Definition: data { Paris, London };

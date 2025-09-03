@@ -28,7 +28,7 @@ strategy has its own merits and drawbacks.
 
 Consider the for loop:
 
-.. code-block:: text
+.. code-block:: aimms
 
     for ( (i,j,k) | Expr(i,j,k) ) do
         statements ;

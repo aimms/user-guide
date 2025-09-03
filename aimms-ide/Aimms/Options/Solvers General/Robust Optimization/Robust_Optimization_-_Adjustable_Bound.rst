@@ -28,7 +28,7 @@ You can also assign lower and upper bounds to .Adjustable variables without usin
 example, you can use in your model the following statements:
 
 
-.. code-block:: text
+.. code-block:: aimms
 
     x.Adjustable.a.upper(i,j) := 1000;
     x.Adjustable.a.lower(i,j) := -1000;

@@ -16,7 +16,7 @@ Warning Global Constraint
 
 For each global constraint it is verified whether or not it is binding. Consider the following example:
 
-.. code-block:: text
+.. code-block:: aimms
 
     Constraint ad {
         Definition: cp::AllDifferent(i,v(i));
@@ -33,7 +33,7 @@ When the set that is the scope of index i is empty, AIMMS will issue the followi
 As another example, in the following constraint, the number of occurrences in a subsequence is always between 0
 and the sequence length.
 
-.. code-block:: text
+.. code-block:: aimms
 
     Constraint seq {
         Definition: {

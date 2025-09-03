@@ -19,7 +19,7 @@ binding by computing the range of the left-hand-side and comparing it to the rig
 where b1 and b2 are binary variables:
 
 
-.. code-block:: text
+.. code-block:: aimms
 
     Constraint eqn {
         Definition: b1 + b2 <= 3;

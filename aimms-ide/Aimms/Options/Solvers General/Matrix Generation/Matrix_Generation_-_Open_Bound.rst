@@ -16,7 +16,7 @@ Open Bound Tolerance
 
 This option is used to specify open bounds for solvers. In an AIMMS model a variable is allowed to have an open bound. For example:
 
-.. code-block:: text
+.. code-block:: aimms
 
     Variable x {
         Range: ( 0.0, 1.0 ];
