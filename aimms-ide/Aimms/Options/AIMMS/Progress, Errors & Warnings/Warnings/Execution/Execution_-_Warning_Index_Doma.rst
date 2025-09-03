@@ -43,7 +43,7 @@ depending on the following settings:
 An example of such a situation arises when executing the following model:
 
 
-.. code-block:: text
+.. code-block:: aimms
 
     Set Cities { 
         Index: c;
