@@ -4,6 +4,7 @@ Logging
 .. toctree::
     :maxdepth: 1
 
+    GUROBI_Logging_-_Compute_Server_Client_Log
     GUROBI_Logging_-_Display_Solution_Quality
     GUROBI_Logging_-_Log_to_Console
     GUROBI_Logging_-_Output_File

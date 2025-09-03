@@ -3,7 +3,7 @@
 .. _option-COPT-barrier_start_algorithm:
 
 
-barrier Start Algorithm
+Barrier Start Algorithm
 =======================
 
 
