@@ -82,7 +82,7 @@ An example of such a situation arises in the following model fragment, where the
 **Note** 
 
 *	If you set this option to "Off" or "Warning", then the results of a mismatch in arguments are not predictable. You may use this in a call to an external procedure or function, as long as you know what you are doing.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

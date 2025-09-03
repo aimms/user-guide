@@ -115,7 +115,7 @@ A variable used as argument of a function where a parameter is expected while co
 
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

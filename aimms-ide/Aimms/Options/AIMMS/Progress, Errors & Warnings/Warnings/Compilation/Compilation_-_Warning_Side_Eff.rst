@@ -88,7 +88,7 @@ An example of such a side effect occurs in the following model, where the parame
 **Note** 
 
 *	If you set this option to "Off" or "Warning", then it is not predictable how these side effects will influence the execution of the model.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

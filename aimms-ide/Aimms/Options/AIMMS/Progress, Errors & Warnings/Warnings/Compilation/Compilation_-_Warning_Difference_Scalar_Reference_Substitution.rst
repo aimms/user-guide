@@ -101,7 +101,7 @@ This option controls how you will be alerted against a potential difference in e
 
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

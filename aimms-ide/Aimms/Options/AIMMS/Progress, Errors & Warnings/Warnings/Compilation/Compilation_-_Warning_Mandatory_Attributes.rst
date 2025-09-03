@@ -45,7 +45,7 @@ This option determines what AIMMS will do, during compilation, when mandatory at
 
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

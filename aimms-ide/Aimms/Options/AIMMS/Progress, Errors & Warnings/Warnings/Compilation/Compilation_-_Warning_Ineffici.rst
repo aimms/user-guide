@@ -94,7 +94,7 @@ Such situations are ignored, reported as a warning, or interpreted as an error, 
 **Note** 
 
 *	If you choose not to report this as an error, then AIMMS will execute the statements as is. It will not try to convert it to the more efficient counterpart.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

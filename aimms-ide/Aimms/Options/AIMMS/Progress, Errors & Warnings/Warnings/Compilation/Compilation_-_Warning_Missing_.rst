@@ -46,7 +46,7 @@ This option determines what happens during compilation when the property attribu
 **Note** 
 
 *	If this options is set to Off" or "Warning", then AIMMS assumes that the missing property is "InOut".
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

@@ -49,7 +49,7 @@ This warning is issued because AIMMS generates the stochastic mathematical progr
 
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

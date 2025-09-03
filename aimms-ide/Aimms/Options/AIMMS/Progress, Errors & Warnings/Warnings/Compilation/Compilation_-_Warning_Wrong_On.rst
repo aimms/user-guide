@@ -46,7 +46,7 @@ Warning Wrong Onlyif Symbol
 **Note** 
 
 *	If this option has the value "Off" or "Warning", then "|" as symbol for "only if" is translated to "$".
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

@@ -77,7 +77,7 @@ In the above example, the index ess is both declared as an index of ExampleSubSe
 
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

@@ -14,11 +14,9 @@ Warning Adapting Range For Loop
 
 
 
-This options determines what AIMMS will do when the range of a for loop is adapted within the for loop. This can be ignored, communicated via the message window as a warning to the user, or can result in a compilation error, corresponding to following settings:
-
-
-
-
+This options determines what AIMMS will do when the range of a for loop is adapted within the for loop. This can be
+ignored, communicated via the message window as a warning to the user, or can result in a compilation error, corresponding
+to following settings:
 
 
 .. list-table::
@@ -43,15 +41,9 @@ This options determines what AIMMS will do when the range of a for loop is adapt
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Remark** 
@@ -60,18 +52,10 @@ This options determines what AIMMS will do when the range of a for loop is adapt
 When this option doesn't issue an error AIMMS will still try to execute the for loop. The number of times the loop is executed is however undefined and may vary between different AIMMS releases due to small changes.
 
 
-
-
-
 **Learn more about** 
 
 *	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 

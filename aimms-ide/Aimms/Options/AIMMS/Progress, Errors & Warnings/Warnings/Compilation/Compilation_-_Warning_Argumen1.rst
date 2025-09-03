@@ -14,9 +14,9 @@ Warning Argument Unit Consistency
 
 
 
-This option determines what happens during compilation when the unit of the formal argument is not commensurate with the unit of the actual argument of a procedure/function; this situation is ignored, reported as a warning, or interpreted as an error, depending on the following settings:
-
-
+This option determines what happens during compilation when the unit of the formal argument is not commensurate
+with the unit of the actual argument of a procedure/function. This situation is ignored, reported as a warning,
+or interpreted as an error, depending on the following settings:
 
 
 .. list-table::
@@ -41,13 +41,9 @@ This option determines what happens during compilation when the unit of the form
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -56,9 +52,4 @@ This option determines what happens during compilation when the unit of the form
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 

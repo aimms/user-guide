@@ -14,9 +14,9 @@ Warning Default Outside Bounds
 
 
 
-At the end of compilation variables and parameters are checked whether the default is consistent with its bounds. This is only checked when the bounds of the parameter/variable are numbers. When the default of a parameter is outside the bounds, it might get an inconsistent value when it is emptied. Possible values for this option are:
-
-
+At the end of compilation variables and parameters are checked whether the default is consistent with its bounds. This is only checked when
+the bounds of the parameter/variable are numbers. When the default of a parameter is outside the bounds, it might get an inconsistent value
+when it is emptied. Possible values for this option are:
 
 
 .. list-table::
@@ -41,13 +41,9 @@ At the end of compilation variables and parameters are checked whether the defau
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -56,6 +52,4 @@ At the end of compilation variables and parameters are checked whether the defau
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

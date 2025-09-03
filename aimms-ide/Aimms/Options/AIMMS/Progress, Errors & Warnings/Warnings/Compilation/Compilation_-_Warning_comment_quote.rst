@@ -14,13 +14,12 @@ Warning Comment Quote
 
 
 
-In general, the commentary text in the model does not have to obey to a specific syntax. However, when renaming identifiers throughout your model, AIMMS also searches for identifier references between single quotes in a commentary text.
+In general, the commentary text in the model does not have to obey to a specific syntax. However, when renaming identifiers
+throughout your model, AIMMS also searches for identifier references between single quotes in a commentary text.
 
-With this option, you can let AIMMS detect a mismatch in quotes in a comment text during compilation (i.e. one or more single quotes that do not properly include an identifier name). By default, this situation is ignored, but you can let AIMMS generate a warning or error. Possible values for this option are:
-
-
-
-
+With this option, you can let AIMMS detect a mismatch in quotes in a comment text during compilation (i.e. one or more single
+quotes that do not properly include an identifier name). By default, this situation is ignored, but you can let AIMMS generate
+a warning or error. Possible values for this option are:
 
 
 .. list-table::
@@ -45,13 +44,9 @@ With this option, you can let AIMMS detect a mismatch in quotes in a comment tex
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -60,6 +55,4 @@ With this option, you can let AIMMS detect a mismatch in quotes in a comment tex
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

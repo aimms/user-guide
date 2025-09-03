@@ -3,7 +3,7 @@
 .. _option-AIMMS-warning_element_sequence_upperbound_not_included:
 
 
-Warning element sequence upperbound not included
+Warning Element Sequence Upperbound Not Included
 ================================================
 
 
@@ -15,10 +15,6 @@ Warning element sequence upperbound not included
 
 
 This option determines what happens when the upperbound of an element sequence is not included in the generated sequence, depending on the following settings:
-
-
-
-
 
 
 .. list-table::
@@ -60,12 +56,9 @@ For example, this situation arises in the following model fragment:
 ``initial data : data { 1 .. 8 by 2 }`` 
 
 
-
 **Note** 
 
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 **Learn more about** 
@@ -75,6 +68,4 @@ For example, this situation arises in the following model fragment:
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

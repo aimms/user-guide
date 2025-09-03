@@ -72,7 +72,7 @@ This option is only effective at the end of initialization; after running the pr
 **Note** 
 
 *	If you set this option to "Off" or "Warning", the data will be assigned to the elements that are outside the domain.
-*	With the option Maximal Number of Warnings Reported you can set the maximal number of warnings that are shown in errors/warnings and message window.
+*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
 

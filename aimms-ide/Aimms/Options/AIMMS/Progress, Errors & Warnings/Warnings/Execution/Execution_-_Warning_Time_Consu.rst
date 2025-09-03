@@ -35,7 +35,7 @@ Consider the for loop:
     endfor ;
 
 
-whereby i,j,k are indices into the sets S, T, U each with a specified ordering and Expr is some expression over the indices i,j,k.
+whereby i,j,k are indices into the sets S, T, U, each with a specified ordering, and Expr is some expression over the indices i,j,k.
 
 The first strategy, called the sparse strategy, will evaluate Expr completely before doing any of the statements and then for each
 tuple (i,j,k) != 0.0 execute the statements. If an identifier is modified during the execution of these statements, then the condition
