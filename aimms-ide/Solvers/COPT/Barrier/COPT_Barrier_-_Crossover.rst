@@ -25,5 +25,5 @@ This option specifies whether to use crossover. Possible values are:
 
 
 
-Setting 'Automatic' implies: only run crossover when the LP solution is not primal-dual feasible..
+Setting 'Automatic' implies: only run crossover when the LP solution is not primal-dual feasible.
 

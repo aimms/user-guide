@@ -18,5 +18,6 @@ General
     COPT_General_-_Scale
     COPT_General_-_Sensitivity_method
     COPT_General_-_Solution_file
+    COPT_General_-_Solution_time_limit
     COPT_General_-_Updates_batch_size
     COPT_General_-_Write_parameter_file
