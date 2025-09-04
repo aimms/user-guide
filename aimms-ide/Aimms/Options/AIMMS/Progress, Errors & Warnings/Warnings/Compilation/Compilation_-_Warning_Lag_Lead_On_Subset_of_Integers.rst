@@ -15,10 +15,10 @@ Warning Lag Lead on subset of Integers
 
 
 In the AIMMS syntax the + is a **Lead** operator when the left operand is an element valued expression, and
-similarly the - is a **Lag** operator. If the range of an element valued expression is a subset of Integers,
-in some situations the result may not be what you expect at first sight. AIMMS gives a warning when it encounters
-such a construct. It is not necessarily wrong, but the warning might help you to double-check whether the
-expression is doing what you expect.
+similarly the - is a **Lag** operator. If the range of an element valued expression is a subset of :any:`Integers`,
+in some situations the result may not be what you would expect at first sight. AIMMS gives a warning when it
+encounters such a construct. It is not necessarily wrong, but the warning might help you to double-check whether
+the expression is doing what you expect.
 
 With this option you can control whether you want to see this warning.
 
@@ -46,9 +46,13 @@ Let's inspect the following examples:
     epS := 12;
     X := epS + 2;
 
-This results in X = 16. First the Lead operation is performed and then a Val() function is applied to cast
+This results in X = 16. First the Lead operation is performed and then the :any:`Val` function is applied to cast
 the element expression on the left to the numerical value on the right. Written out explicitly, the statement
-is thus the same as: ``X := Val( epS + 2 )``;
+is thus the same as:
+
+.. code-block:: aimms
+
+    X := Val( epS + 2 );
 
 
 **Example 2:** 
@@ -58,21 +62,27 @@ is thus the same as: ``X := Val( epS + 2 )``;
     epS := 12;
     X := epS - 2;
 
-This results in X = 0. The statement is equivalent to ``X := Val( epS - 2 )``> Note that (epS - 2) results in the
-empty element, because '12' is the second element in the set, and Val( 'empty element' ) is defined to be 0.
+This results in X = 0. The statement is equivalent to:
+
+.. code-block:: aimms
+
+    X := Val( epS - 2 );
+
+Note that ``(epS - 2)`` results in the empty element, because '12' is the second element in the set,
+and Val( 'empty element' ) is defined to be 0.
 
 
 Please note that it is only since AIMMS version 4.39 that AIMMS does this correctly. In older versions of AIMMS
 the compiler sometimes(!) interpreted the + and - in these situations as a numeric + or -.
 
-In the above two examples, the equivalent statement for the old compiler are:
+In the above two examples, the equivalent statement for the old compiler of AIMMS 4.39 (and older) are:
 	
 
 **Example 1:** 
 
 .. code-block:: aimms
 
-    X := val(epS) + 2;
+    X := Val(epS) + 2;
 
 This results in 14.
 
@@ -81,14 +91,14 @@ This results in 14.
 
 .. code-block:: aimms
 
-    X := val(epS) - 2;
+    X := Val(epS) - 2;
 
 This results in 10.
 
 
 The differences between these two implementations of the compiler only give problems in two situations:
 
-* if the subset of Integers on which the statement operates is a non-consecutive range, and/or 
+* if the subset of :any:`Integers` on which the statement operates is a non-consecutive range, and/or 
 
 * if the lag or lead operator results in the empty element because you exceed the first or last element of the set.
 
