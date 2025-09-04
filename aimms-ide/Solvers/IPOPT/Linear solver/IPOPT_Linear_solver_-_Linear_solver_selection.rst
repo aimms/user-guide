@@ -78,4 +78,4 @@ See the prerequisites for IPOPT for more information on these third party compon
 *	`IPOPT: Prerequisites <https://coin-or.github.io/Ipopt/INSTALL.html>`_ (Internet link)
 *	`MUMPS <https://mumps-solver.org>`_ (Internet link)
 *	`HSL for IPOPT <https://licences.stfc.ac.uk/product/coin-hsl>`_ (Internet link)
-*	`Pardiso <https://panua.ch/products/pardiso/>`_ (Internet link)
+
