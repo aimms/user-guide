@@ -24,7 +24,7 @@ In some cases, such as f(x) = aebx or f(x) = axb, even a moderate change in the 
 
 
 
-b' = r (1``+ ||x||`` )``/ ||p||`` ``,`` 
+b' = r (1``+ ||x||``)``/ ||p||`` ``,`` 
 
 
 

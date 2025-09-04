@@ -50,7 +50,7 @@ This property controls where to place the axis annotation and the axis title. Th
 
 
 
-You can use the ``AnnotationPlacementConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``AnnotationPlacementConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -70,7 +70,7 @@ This property controls where to draw the Y-axis on the X-axis. The allowed value
 
 
 
-You can use the ``AnnotationOriginPlacementConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``AnnotationOriginPlacementConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -194,7 +194,7 @@ This property controls the pattern of the gridlines (e.g. solid, dotted, etc.).
 
 
 
-You can use the ``LinePatternConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``LinePatternConstants`` set in ``Chart2DconstantsModule``.
 
 
 

@@ -16,7 +16,7 @@ Notice that no legend is shown (even if you set the Legend property to "Show") i
 
 
 
-You can use the ``ShowConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``ShowConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -84,7 +84,7 @@ This property determines the location of the legend area, relative to the actual
 
 
 
-You can use the ``LegendAnchorConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``LegendAnchorConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -94,7 +94,7 @@ This property determines the layout of the legend area. The two possible values 
 
 
 
-You can use the ``LegendOrientationConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``LegendOrientationConstants`` set in ``Chart2DconstantsModule``.
 
 
 

@@ -44,7 +44,7 @@ This property specifies the order in which to sort the slices of a pie chart. Th
 
 
 
-You can use the ``SortOrderConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``SortOrderConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -62,7 +62,7 @@ Note that the "Minimum number of slices" property overrules the threshold method
 
 
 
-You can use the ``ThresholdMethodConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``ThresholdMethodConstants`` set in ``Chart2DconstantsModule``.
 
 
 

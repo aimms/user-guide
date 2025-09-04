@@ -15,8 +15,8 @@ A section node in the model explorer can have the following attributes:
 
 
 
-*	``SOURCE FILE``  : With the ``SOURCE FILE``  attribute you can specify that the contents of the section should not be saved as part of the main model file, but that you want to save it in a separate file. This is especially useful when you want to interchange parts of the model between two different versions of the same project. This attribute can only be changed using the accompanying wizard. Note that if the source file is in the project folder or a child folder, the relative position will be saved, in all other cases the absolute file position will be used. Take this into consideration when moving a project.
-*	``COMMENT``  : In this field you can place any comment. A good idea is to give a short global description of the contents of the section for future reference.
+*	``SOURCE FILE``: With the ``SOURCE FILE`` attribute you can specify that the contents of the section should not be saved as part of the main model file, but that you want to save it in a separate file. This is especially useful when you want to interchange parts of the model between two different versions of the same project. This attribute can only be changed using the accompanying wizard. Note that if the source file is in the project folder or a child folder, the relative position will be saved, in all other cases the absolute file position will be used. Take this into consideration when moving a project.
+*	``COMMENT``: In this field you can place any comment. A good idea is to give a short global description of the contents of the section for future reference.
 
 
 

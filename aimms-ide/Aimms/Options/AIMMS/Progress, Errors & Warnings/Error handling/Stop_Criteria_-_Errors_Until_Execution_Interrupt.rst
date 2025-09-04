@@ -14,13 +14,6 @@ Errors Until Execution Interrupt
 
 
 
-This option specifies the number of errors after which AIMMS will stop. If this option has the value 0, then AIMMS will never stop after execution errors.
-
-
-
-**Note** 
-
-*	Up to AIMMS 3.9 this option was known as "Errors Until Halt".
-
-
+This option specifies the number of errors after which AIMMS will stop. If this option has the value 0,
+then AIMMS will never stop after execution errors.
 

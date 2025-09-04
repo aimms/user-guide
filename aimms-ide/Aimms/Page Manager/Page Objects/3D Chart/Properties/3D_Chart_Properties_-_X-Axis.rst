@@ -86,7 +86,7 @@ This property controls the pattern of the gridlines (e.g. solid, dotted, etc.).
 
 
 
-You can use the ``LinePatternConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``LinePatternConstants`` set in ``Chart3DconstantsModule``.
 
 
 

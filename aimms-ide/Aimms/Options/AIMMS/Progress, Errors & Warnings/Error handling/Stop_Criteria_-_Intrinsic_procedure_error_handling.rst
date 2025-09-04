@@ -3,7 +3,7 @@
 .. _option-AIMMS-intrinsic_procedure_error_handling:
 
 
-Intrinsic procedure error handling
+Intrinsic Procedure Error Handling
 ==================================
 
 
@@ -15,10 +15,6 @@ Intrinsic procedure error handling
 
 
 This option specifies how messages should be processed during a call to an intrinsic procedure corresponding to the following settings:
-
-
-
-
 
 
 .. list-table::
@@ -33,18 +29,4 @@ This option specifies how messages should be processed during a call to an intri
      - Always raise a warning.
    * - *	Raise_always
      - Always raise an error.
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
 

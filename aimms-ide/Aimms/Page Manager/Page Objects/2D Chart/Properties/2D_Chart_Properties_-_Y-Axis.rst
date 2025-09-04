@@ -18,7 +18,7 @@ This property determines the chart type in which your data will be displayed. Ce
 
 
 
-You can use the ``YChartTypeConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``YChartTypeConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -124,7 +124,7 @@ With this property, you can specify what entry the legend should contain for the
 
 **Value label string** 
 
-With this property, you can specify the string that should appear in the tooltip, when you click on a chart. You can enter either a literal (static) string, or a string parameter with a dimension that is smaller than or equal to the dimension of the corresponding Y-axis identifier. By using the AIMMS ``FormatString`` -function, this property offers the maximum in flexibility. You can, for example, show the value of the point that is clicked in the chart, in the format that you want. Consider for example a Y-axis identifier ``Dummy(i, j)`` . If you define a string parameter ``ValueOfDummy(i, j)`` , with definition ``FormatString("The current dummy value is %6.2n", Dummy(i, j))`` , for every point that you click on in the chart, a nicely formatted string appears.
+With this property, you can specify the string that should appear in the tooltip, when you click on a chart. You can enter either a literal (static) string, or a string parameter with a dimension that is smaller than or equal to the dimension of the corresponding Y-axis identifier. By using the AIMMS ``FormatString`` -function, this property offers the maximum in flexibility. You can, for example, show the value of the point that is clicked in the chart, in the format that you want. Consider for example a Y-axis identifier ``Dummy(i, j)``. If you define a string parameter ``ValueOfDummy(i, j)``, with definition ``FormatString("The current dummy value is %6.2n", Dummy(i, j))``, for every point that you click on in the chart, a nicely formatted string appears.
 
 
 
@@ -142,7 +142,7 @@ With the properties in the (identifier) appearance subtree, you can customize th
 
 **Fill/background color and Fill/foreground color** 
 
-The fill background- and foreground color determine the colors of the current identifier in the chart. These properties can be of any dimension smaller than or equal to the dimension of the current identifier. To use a non-scalar color, use a non-scalar color parameter, i.e. an element parameter with range ``AllColors`` .
+The fill background- and foreground color determine the colors of the current identifier in the chart. These properties can be of any dimension smaller than or equal to the dimension of the current identifier. To use a non-scalar color, use a non-scalar color parameter, i.e. an element parameter with range ``AllColors``.
 
 
 
@@ -152,7 +152,7 @@ The fill pattern determines the pattern that is used to fill the representation 
 
 
 
-You can use the ``FillPatternConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``FillPatternConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -168,7 +168,7 @@ This property determines the pattern of the line in chart types where the curren
 
 
 
-You can use the ``LinePatternConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``LinePatternConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -196,7 +196,7 @@ This property determines the shape of the symbols drawn at the data points in th
 
 
 
-You can use the ``SymbolShapeConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``SymbolShapeConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -230,7 +230,7 @@ If a title is specified for the Y-axis, a title rotation can also be entered. Yo
 
 
 
-You can use the ``TitleRotationConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``TitleRotationConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -258,7 +258,7 @@ This property controls where to place the axis annotation and the axis title. Th
 
 
 
-You can use the ``AnnotationPlacementConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``AnnotationPlacementConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -278,7 +278,7 @@ This property controls where to draw the X-axis on the Y-axis. The allowed value
 
 
 
-You can use the ``AnnotationOriginPlacementConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``AnnotationOriginPlacementConstants`` set in ``Chart2DconstantsModule``.
 
 
 

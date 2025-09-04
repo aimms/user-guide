@@ -141,7 +141,7 @@ By default, the end user is allowed to drag and drop index headers from and to t
 
 
 
-By default, the end user is allowed to open and close nodes in the row and column tree, either by using the |img_def_Button_-_Close_jpg| or |img_def_Button_-_Open_jpg| buttons or by pressing the corresponding keyboard shortcut (``<Ctrl>``  - ``<arrow>`` )). If you disallow this, all open and close buttons will be removed from the pivot table and the keyboard shortcuts to open and close the tree will not be functional.
+By default, the end user is allowed to open and close nodes in the row and column tree, either by using the |img_def_Button_-_Close_jpg| or |img_def_Button_-_Open_jpg| buttons or by pressing the corresponding keyboard shortcut (``<Ctrl>``  - ``<arrow>``)). If you disallow this, all open and close buttons will be removed from the pivot table and the keyboard shortcuts to open and close the tree will not be functional.
 
 
 

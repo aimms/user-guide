@@ -3,7 +3,7 @@
 .. _option-AIMMS-communicate_warnings_to_end_users:
 
 
-Communicate warnings to end users
+Communicate Warnings to End Users
 =================================
 
 
@@ -14,23 +14,12 @@ Communicate warnings to end users
 
 
 
-This option suppresses the issuing of warnings when AIMMS runs in end-user mode. AIMMS runs in end-user mode when using the command line option --end-user or it is using an end-user license. Possible values of this option are:
-
-
-
+This option suppresses the issuing of warnings when AIMMS runs in end-user mode. AIMMS runs in end-user
+mode when using the command line option --end-user or it is using an end-user license. Possible values
+of this option are:
 
 
     *	Off (do not communicate warnings to end users)
     *	On (communicate warnings to end users)
-
-
-
-
-
-
-
-
-
-
 
 

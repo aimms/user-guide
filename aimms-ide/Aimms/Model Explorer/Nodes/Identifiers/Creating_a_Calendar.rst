@@ -36,12 +36,12 @@ The most commonly used attributes of a calendar identifier are discussed below.
 
 
 
-*	``BEGIN DATE`` : The ``BEGIN DATE``  attribute should be used to specify the start moment of the time range that is considered in the calendar. The |img_def_Wizard_button_bmp| wizard will a display dialog box allowing you to specify a moment in time.
-*	``END DATE`` : The ``END DATE``  attribute should be used to specify the end moment of the time range that is considered in the calendar. The |img_def_Wizard_button_bmp| wizard will display a dialog box allowing you to specify a moment in time.
-*	``UNIT`` : The ``UNIT``  attribute is mandatory and is used to define the length of a single time slot in the calendar. The |img_def_Wizard_button_bmp| wizard will display a dialog box allowing you to select from one of the available time units.
-*	``TIMESLOT FORMAT`` : The ``TIMESLOT FORMAT``  attribute is used to specify the format of the elements in the calendar. The |img_def_Wizard_button_bmp| wizard will allow you to select from various predefined timeslot formats.
-*	``INDEX`` : The ``INDEX`` attribute is the place to declare indices in the current calendar. The |img_def_Wizard_button_bmp| wizard allows you to declare new index, delete or rename an existing index or move an index to another set. 
-*	``PARAMETER`` : The ``PARAMETER`` attribute is like the ``INDEX``  attribute except that it allows you to declare scalar element parameters (instead of indices) in the current calendar. 
+*	``BEGIN DATE``: The ``BEGIN DATE`` attribute should be used to specify the start moment of the time range that is considered in the calendar. The |img_def_Wizard_button_bmp| wizard will a display dialog box allowing you to specify a moment in time.
+*	``END DATE``: The ``END DATE`` attribute should be used to specify the end moment of the time range that is considered in the calendar. The |img_def_Wizard_button_bmp| wizard will display a dialog box allowing you to specify a moment in time.
+*	``UNIT``: The ``UNIT`` attribute is mandatory and is used to define the length of a single time slot in the calendar. The |img_def_Wizard_button_bmp| wizard will display a dialog box allowing you to select from one of the available time units.
+*	``TIMESLOT FORMAT``: The ``TIMESLOT FORMAT`` attribute is used to specify the format of the elements in the calendar. The |img_def_Wizard_button_bmp| wizard will allow you to select from various predefined timeslot formats.
+*	``INDEX``: The ``INDEX`` attribute is the place to declare indices in the current calendar. The |img_def_Wizard_button_bmp| wizard allows you to declare new index, delete or rename an existing index or move an index to another set. 
+*	``PARAMETER``: The ``PARAMETER`` attribute is like the ``INDEX`` attribute except that it allows you to declare scalar element parameters (instead of indices) in the current calendar. 
 
 
 

@@ -36,9 +36,9 @@ The most commonly used attributes of an assertion are discussed below.
 
 
 
-*	``INDEX DOMAIN``  : The ``INDEX DOMAIN``  attribute should be specified in order to declare indexed assertions. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
-*	``DEFINITION``  : The ``DEFINITION``  attribute should contain a logical expression that is to be verified when the assertion is executed.
-*	``ACTION``  : The ``ACTION``  attribute is used to specify some non-default action (by default a message box with displaying the contents of the ``TEXT``  attribute is displayed), that is performed when the assertion fails. The ``ACTION``  attribute is comparable to a ``BODY``  attribute of an AIMMS function or procedure.
+*	``INDEX DOMAIN``: The ``INDEX DOMAIN`` attribute should be specified in order to declare indexed assertions. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
+*	``DEFINITION``: The ``DEFINITION`` attribute should contain a logical expression that is to be verified when the assertion is executed.
+*	``ACTION``: The ``ACTION`` attribute is used to specify some non-default action (by default a message box with displaying the contents of the ``TEXT`` attribute is displayed), that is performed when the assertion fails. The ``ACTION`` attribute is comparable to a ``BODY`` attribute of an AIMMS function or procedure.
 
 
 

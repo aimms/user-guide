@@ -119,9 +119,9 @@ During the course of an optimization CONOPT can work with up to three different 
 
 
 
-*   **Full Model** : This model consists of the constraints in the user's model excluding all pre- and post-triangular constraints and with the definitional variables eliminated by their defining constraints.
-*   **No-Penalty Model** : This model consists of the Full Model excluding all penalty and mini-max constraints. This model does not have an objective function.
-*   **Linear Feasibility Model** : This model consists of the linear constraints of the Full Model. The Linear Feasibility model is either solved without an objective function or minimizing a quadratic distance measure; this is discussed below.
+*   **Full Model**: This model consists of the constraints in the user's model excluding all pre- and post-triangular constraints and with the definitional variables eliminated by their defining constraints.
+*   **No-Penalty Model**: This model consists of the Full Model excluding all penalty and mini-max constraints. This model does not have an objective function.
+*   **Linear Feasibility Model**: This model consists of the linear constraints of the Full Model. The Linear Feasibility model is either solved without an objective function or minimizing a quadratic distance measure; this is discussed below.
 
 
 

@@ -7,8 +7,8 @@ Changing Authorization Level within an Application
 
 If you temporary want to change to another authorization level, 
 for example for maintenance or demonstration purposes, you can change the current authorization level. 
-Changing the current authorization level will only change the value of the AIMMS identifier ``CurrentAuthorizationLevel`` . 
-The values of the AIMMS identifiers ``CurrentUser``  and ``CurrentGroup`` will not change.
+Changing the current authorization level will only change the value of the AIMMS identifier ``CurrentAuthorizationLevel``. 
+The values of the AIMMS identifiers ``CurrentUser`` and ``CurrentGroup`` will not change.
 
 
 

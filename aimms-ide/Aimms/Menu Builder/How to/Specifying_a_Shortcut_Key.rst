@@ -30,8 +30,8 @@ To specify a shortcut key for a menu item node:
 **Note** 
 
 *	Shortcut keys only work for menu items, not for items in a toolbar.
-*	Some key combinations are commonly used in many windows applications, and most people are very familiar with them. For example: in most applications ``<Ctrl-C>`` , ``<Ctrl-P>`` , and ``<Ctrl-V>``  are used for the cut, copy and paste commands, and <F1> is used to access the help facilities. In the Menu Builder, you can redefine all these key combinations, but you should realize that this may confuse your end-users.
-*	The Menu Builder allows you to specify single-character shortcuts like ``<A>`` , ``<B>`` , etc. However, you should be careful using these type of shortcuts, because the specific key can then no longer be used for regular editing. For example, if you define a shortcut ``<H>``  for some menu item, the user can not simply type the string "Hello" anywhere within that page.
+*	Some key combinations are commonly used in many windows applications, and most people are very familiar with them. For example: in most applications ``<Ctrl-C>``, ``<Ctrl-P>``, and ``<Ctrl-V>``  are used for the cut, copy and paste commands, and <F1> is used to access the help facilities. In the Menu Builder, you can redefine all these key combinations, but you should realize that this may confuse your end-users.
+*	The Menu Builder allows you to specify single-character shortcuts like ``<A>``, ``<B>``, etc. However, you should be careful using these type of shortcuts, because the specific key can then no longer be used for regular editing. For example, if you define a shortcut ``<H>``  for some menu item, the user can not simply type the string "Hello" anywhere within that page.
 *	In addition to the explicitly defined shortcuts, you can access every menu using an ``<Alt>``  key combination. If you press the ``<Alt>``  in combination with the first character (or an underlined character) in a menu title, the menu will be opened, and you can further select the specific command to be executed. For each menu in the menu bar, you can decide which character should be used for this ``<Alt>``  key stroke.
 
 

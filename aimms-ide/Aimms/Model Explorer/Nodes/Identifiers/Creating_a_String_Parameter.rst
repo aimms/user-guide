@@ -36,9 +36,9 @@ The most commonly used attributes of a string parameter are discussed below.
 
 
 
-*	``INDEX DOMAIN``  : The ``INDEX DOMAIN``  attribute should be specified in order to declare indexed string parameters. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
-*	``DEFAULT``  : The ``DEFAULT``  attribute should be used in order to specify a default value other than the empty string. Note that AIMMS will explicitly store all values that are non-default. 
-*	``DEFINITION`` : The ``DEFINITION``  attribute can (and should) be used to specify the definition of an identifier by means of a global relationship. AIMMS stores the result of a definition and recomputes it only when necessary.
+*	``INDEX DOMAIN``: The ``INDEX DOMAIN`` attribute should be specified in order to declare indexed string parameters. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
+*	``DEFAULT``: The ``DEFAULT`` attribute should be used in order to specify a default value other than the empty string. Note that AIMMS will explicitly store all values that are non-default. 
+*	``DEFINITION``: The ``DEFINITION`` attribute can (and should) be used to specify the definition of an identifier by means of a global relationship. AIMMS stores the result of a definition and recomputes it only when necessary.
 
 
 

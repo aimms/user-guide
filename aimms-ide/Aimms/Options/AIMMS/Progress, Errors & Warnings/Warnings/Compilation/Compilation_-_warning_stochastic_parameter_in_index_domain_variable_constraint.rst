@@ -14,7 +14,7 @@ Warning Stochastic Parameter in Index Domain Variable Constraint
 
 
 
-AIMMS now warns when a stochastic parameter is used in the index domain of a variable or of a constraint. 
+AIMMS warns when a stochastic parameter is used in the index domain of a variable or of a constraint. 
 
 This warning is issued because AIMMS generates the stochastic mathematical program for only one scenario.
 In order to be able to present the full stochastic mathematical program it stores the differences with

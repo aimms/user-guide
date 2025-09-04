@@ -3,7 +3,7 @@
 .. _option-AIMMS-common_warning_default:
 
 
-Common warning default
+Common Warning Default
 ======================
 
 
@@ -14,11 +14,8 @@ Common warning default
 
 
 
-This option provides the actual warning level for options that have option value '``common warning default`` '. This can be one of the following values:
-
-
-
-
+This option provides the actual warning level for options that have option value ``common warning default``.
+This can be one of the following values:
 
 
 .. list-table::
@@ -39,20 +36,8 @@ This option provides the actual warning level for options that have option value
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
-
-
 **Learn more about** 
 
 *	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`sec:exec.error`  
-
-
-
-
-
-
-
-
 

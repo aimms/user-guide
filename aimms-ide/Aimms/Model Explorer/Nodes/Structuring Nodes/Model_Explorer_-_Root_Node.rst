@@ -13,8 +13,8 @@ The Main Model node forms the root of the Model Tree. The main model is represen
 
 The attributes of the model node are:
 
-*	``CONVENTION``  : The unit convention that you enter here determines the default convention that is used in the interface or for data exchange with external components. You can specify a convention explicitly, or implicitly via a string parameter in the pre-declared set AllConventions..
-*	``COMMENT``  : In this field you can place any comment. A good idea is to give a short global description of the model for future reference.
+*	``CONVENTION``: The unit convention that you enter here determines the default convention that is used in the interface or for data exchange with external components. You can specify a convention explicitly, or implicitly via a string parameter in the pre-declared set AllConventions..
+*	``COMMENT``: In this field you can place any comment. A good idea is to give a short global description of the model for future reference.
 
 
 

@@ -36,10 +36,10 @@ The most commonly used attributes of an element parameter are discussed below.
 
 
 
-*	``INDEX DOMAIN``  : The ``INDEX DOMAIN``  attribute should be specified in order to declare indexed element parameters. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
-*	``RANGE``  : The ``RANGE``  attribute should be used to specify the set in which the element parameter should take its value. The |img_def_Wizard_button_bmp| wizard will display an Identifier Selection Dialog box that helps you select the appropriate set.
-*	``DEFAULT``  : The ``DEFAULT``  attribute should be used in order to specify a default value other than the empty element. Note that AIMMS will explicitly store all values that are non-default. 
-*	``DEFINITION`` : The ``DEFINITION``  attribute can (and should) be used to specify the definition of an identifier by means of a global relationship. AIMMS stores the result of a definition and recomputes it only when necessary.
+*	``INDEX DOMAIN``: The ``INDEX DOMAIN`` attribute should be specified in order to declare indexed element parameters. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
+*	``RANGE``: The ``RANGE`` attribute should be used to specify the set in which the element parameter should take its value. The |img_def_Wizard_button_bmp| wizard will display an Identifier Selection Dialog box that helps you select the appropriate set.
+*	``DEFAULT``: The ``DEFAULT`` attribute should be used in order to specify a default value other than the empty element. Note that AIMMS will explicitly store all values that are non-default. 
+*	``DEFINITION``: The ``DEFINITION`` attribute can (and should) be used to specify the definition of an identifier by means of a global relationship. AIMMS stores the result of a definition and recomputes it only when necessary.
 
 
 

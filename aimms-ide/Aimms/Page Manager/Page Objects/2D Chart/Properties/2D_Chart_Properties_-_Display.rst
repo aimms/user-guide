@@ -42,7 +42,7 @@ This property specifies the layout of the background image. Valid values are "Ce
 
 
 
-You can use the ``ImageLayoutConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``ImageLayoutConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -64,7 +64,7 @@ This property determines the type of border to draw around the chart area. Possi
 
 
 
-You can use the ``BorderTypeConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``BorderTypeConstants`` set in ``Chart2DconstantsModule``.
 
 
 
@@ -128,7 +128,7 @@ This property defines the type of shading to be used in the 3D-like displaying o
 
 
 
-You can use the ``View3DShadingConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``View3DShadingConstants`` set in ``Chart2DconstantsModule``.
 
 
 

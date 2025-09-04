@@ -10,7 +10,7 @@ Identifier Selection Dialog Box
 **Description** 
 
 In the property dialog boxes and the attribute forms, you often need to specify the name of an identifier (in combination with specifications for the index domain). 
-For example: ``Cities`` , ``ConsumedFruit(c,f)`` , ``Demand('Amsterdam')`` , etc. 
+For example: ``Cities``, ``ConsumedFruit(c,f)``, ``Demand('Amsterdam')``, etc. 
 You can type these names yourself, but it is often much easier to specify the identifier using the Identifier Selection dialog box. 
 Usually, you can access this dialog box using the small |img_def_Wizard_button_bmp| button.
 
@@ -76,7 +76,7 @@ On this second page of the Identifier Selection dialog box, you specify alternat
 
 
 
-In some situations, AIMMS also allows you to specify a Reverse Link for an index. A Reverse Link (to a scalar element parameter) is used in a page object to propagate the current selection in that object: if the user selects an item in the object, the value of the linked scalar element parameter will be set to the corresponding set element. This mechanism offers you the possibility to link objects (i.e. the contents of one object, depends on the current selection in another object). In the string that is constructed by the Identifier Selection dialog box, a reverse link is represented using an arrow: '``->`` ', for example: ``Demand( c -> SelectedCity )`` .
+In some situations, AIMMS also allows you to specify a Reverse Link for an index. A Reverse Link (to a scalar element parameter) is used in a page object to propagate the current selection in that object: if the user selects an item in the object, the value of the linked scalar element parameter will be set to the corresponding set element. This mechanism offers you the possibility to link objects (i.e. the contents of one object, depends on the current selection in another object). In the string that is constructed by the Identifier Selection dialog box, a reverse link is represented using an arrow: '``->`` ', for example: ``Demand( c -> SelectedCity )``.
 
 **Note** 
 

@@ -12,7 +12,7 @@ The legend tab contains all properties needed to show and customize the legend o
 
 
 
-You can use the ``ShowConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``ShowConstants`` set in ``Chart3DconstantsModule``.
 
 
 
@@ -84,7 +84,7 @@ This property determines the location of the legend area, relative to the actual
 
 
 
-You can use the ``LegendAnchorConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``LegendAnchorConstants`` set in ``Chart3DconstantsModule``.
 
 
 
@@ -94,7 +94,7 @@ This property determines the layout of the legend area. The two possible values 
 
 
 
-You can use the ``LegendOrientationConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``LegendOrientationConstants`` set in ``Chart3DconstantsModule``.
 
 
 
@@ -104,7 +104,7 @@ This property is only displayed when the chart type is "Bar" or "Surface". It de
 
 
 
-You can use the ``LegendDistributionRangeConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``LegendDistributionRangeConstants`` set in ``Chart3DconstantsModule``.
 
 
 
@@ -118,7 +118,7 @@ Notice that this property doesn't have any influence when the property IsShaded 
 
 
 
-You can use the ``LegendTypeConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``LegendTypeConstants`` set in ``Chart3DconstantsModule``.
 
 
 

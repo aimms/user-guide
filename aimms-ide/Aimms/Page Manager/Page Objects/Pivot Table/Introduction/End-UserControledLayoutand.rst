@@ -91,7 +91,7 @@ An end-user can extend the pivot table with all kinds of aggregator rows and/or 
 
 
 
-The pivot table allows you to specify, on a per-index level, whether you want to see sparse or dense data. By default the pivot table will only display sparse data. That is, every row or column in the pivot table will at least have one non-default entry. In some views it makes more sense to display data in a dense manner, e.g. when displaying data over the set ``AllMonths`` .
+The pivot table allows you to specify, on a per-index level, whether you want to see sparse or dense data. By default the pivot table will only display sparse data. That is, every row or column in the pivot table will at least have one non-default entry. In some views it makes more sense to display data in a dense manner, e.g. when displaying data over the set ``AllMonths``.
 
 
 

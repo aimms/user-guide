@@ -29,11 +29,11 @@ With this option, you can direct CPLEX to decompose your model and to apply its 
 
 
 
-*	**User** : CPLEX attempts to decompose your model strictly according to the decomposition specified by you.
+*	**User**: CPLEX attempts to decompose your model strictly according to the decomposition specified by you.
 
 
 
-*	**Worker** : CPLEX decomposes your model by using the decomposition specified by you as hints and refining the decomposition where it can.
+*	**Worker**: CPLEX decomposes your model by using the decomposition specified by you as hints and refining the decomposition where it can.
 
 
 
@@ -49,7 +49,7 @@ With this option, you can direct CPLEX to decompose your model and to apply its 
 
 
 
-*	**Full** : CPLEX automatically decomposes your model, ignoring any specification you may have supplied. 
+*	**Full**: CPLEX automatically decomposes your model, ignoring any specification you may have supplied. 
 
 
 

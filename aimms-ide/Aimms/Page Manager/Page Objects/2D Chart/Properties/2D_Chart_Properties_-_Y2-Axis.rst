@@ -30,7 +30,7 @@ This property specifies the chart type that is used for displaying the identifie
 
 
 
-You can use the ``Y2ChartTypeConstants``  set in ``Chart2DconstantsModule`` .
+You can use the ``Y2ChartTypeConstants`` set in ``Chart2DconstantsModule``.
 
 
 

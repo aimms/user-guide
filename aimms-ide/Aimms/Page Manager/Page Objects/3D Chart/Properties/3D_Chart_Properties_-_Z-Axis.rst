@@ -66,7 +66,7 @@ This property determines the pattern of the drop lines for the current identifie
 
 
 
-You can use the ``LinePatternConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``LinePatternConstants`` set in ``Chart3DconstantsModule``.
 
 
 
@@ -88,7 +88,7 @@ This property determines the shape of the symbol for the current identifier.
 
 
 
-You can use the ``SymbolShapeConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``SymbolShapeConstants`` set in ``Chart3DconstantsModule``.
 
 
 
@@ -136,7 +136,7 @@ This property controls the pattern of the gridlines (e.g. solid, dotted, etc.).
 
 
 
-You can use the ``LinePatternConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``LinePatternConstants`` set in ``Chart3DconstantsModule``.
 
 
 

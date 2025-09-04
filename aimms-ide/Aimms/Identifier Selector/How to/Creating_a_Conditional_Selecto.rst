@@ -22,7 +22,7 @@ To create a new Conditional Selector in the Identifier Selector tree:
 
 Initially, the condition in the newly created node will select identifiers of all types. You can modify the condition via the properties of the node. To open the properties dialog box:
 
-6.	From the Edit menu, select |img_def_Properties_button_bmp| Properties (or press ``<Alt>-<Enter>`` ).
+6.	From the Edit menu, select |img_def_Properties_button_bmp| Properties (or press ``<Alt>-<Enter>``).
 
 
 

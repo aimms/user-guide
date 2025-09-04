@@ -54,7 +54,7 @@ An example of such an input data domain violation arises in the following model 
     }
 
 
-This option is only effective at the end of initialization; after running the procedure ``MainInitialization`` .
+This option is only effective at the end of initialization; after running the procedure ``MainInitialization``.
 
 
 **Note** 

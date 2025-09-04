@@ -3,7 +3,7 @@
 .. _option-AIMMS-external_procedure_error_handling:
 
 
-External procedure error handling
+External Procedure Error Handling
 =================================
 
 
@@ -15,10 +15,6 @@ External procedure error handling
 
 
 This option specifies how messages should be processed during a call to an external procedure corresponding to the following settings:
-
-
-
-
 
 
 .. list-table::
@@ -33,13 +29,4 @@ This option specifies how messages should be processed during a call to an exter
      - Always raise a warning.
    * - *	Raise_always
      - Always raise an error.
-
-
-
- 
-
-
-
-
-
 

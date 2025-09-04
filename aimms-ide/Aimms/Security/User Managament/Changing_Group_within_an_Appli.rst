@@ -6,8 +6,8 @@ Changing Group within an Application
 **Description** 
 
 If you temporary want to change to another group, for example for maintenance or demonstration purposes, you can change the current group. 
-Changing the current group will only change the value of the AIMMS identifier ``CurrentGroup`` . 
-The values of the AIMMS identifiers ``CurrentUser``  and ``CurrentAuthorizationLevel``  will not change.
+Changing the current group will only change the value of the AIMMS identifier ``CurrentGroup``. 
+The values of the AIMMS identifiers ``CurrentUser`` and ``CurrentAuthorizationLevel`` will not change.
 
 To change the current group
 

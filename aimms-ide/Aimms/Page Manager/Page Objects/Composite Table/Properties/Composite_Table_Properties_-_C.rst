@@ -60,17 +60,17 @@ This field allows you to specify one identifier that handles the hidden status o
 
 For example: 
 
-If the composite table has columns: index ``i`` , and parameter ``x(i)`` , and 
+If the composite table has columns: index ``i``, and parameter ``x(i)``, and 
 
-the identifier for this property is ``myHiddenIdentifiers(IndexIdentifiers)`` , 
+the identifier for this property is ``myHiddenIdentifiers(IndexIdentifiers)``, 
 
-then the hidden status of the column containing i is determined by the value of ``myHiddenIdentifiers('i')`` .
+then the hidden status of the column containing i is determined by the value of ``myHiddenIdentifiers('i')``.
 
 Please note that:
 
 
 *    you cannot use this to hide columns that represent an expression, instead of a direct identifier reference, and 
-*    you cannot distinguish between several slices of the same identifier (for example: ``x('a')`` and ``x('b')`` )
+*    you cannot distinguish between several slices of the same identifier (for example: ``x('a')`` and ``x('b')``)
 
 
 

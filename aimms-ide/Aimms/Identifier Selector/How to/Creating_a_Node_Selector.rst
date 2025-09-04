@@ -21,7 +21,7 @@ To create a new Node Selector in the Identifier Selector tree:
 
 Initially, the newly created node does not contain any references to nodes in the model tree. You can add these references via the Properties dialog box or via drag-and-drop operations. To open the Properties dialog box:
 
-6.	From the Edit menu, select Properties (or press ``<Alt>-<Enter>`` )
+6.	From the Edit menu, select Properties (or press ``<Alt>-<Enter>``)
 
 
 

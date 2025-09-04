@@ -16,7 +16,7 @@ This option determines how CPLEX orders variables relative to the objective func
 
 
 
-For **LP primal simplex** :
+For **LP primal simplex**:
 
 
 
@@ -26,7 +26,7 @@ For **LP primal simplex** :
 
 
 
-For **LP dual simplex** :
+For **LP dual simplex**:
 
 
 
@@ -36,7 +36,7 @@ For **LP dual simplex** :
 
 
 
-For **QP Primal** :
+For **QP Primal**:
 
 
 
@@ -48,7 +48,7 @@ For **QP Primal** :
 
 
 
-For **QP Dual** : 
+For **QP Dual**: 
 
 	
 

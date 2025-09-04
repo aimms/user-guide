@@ -13,7 +13,7 @@ To change the type of the set operation for a selector node:
 
 2.	Select the node you want to change.
 
-3.	From the Edit menu, select |img_def_Properties_button_bmp| Properties (or press ``<Alt>-<Enter>`` ).
+3.	From the Edit menu, select |img_def_Properties_button_bmp| Properties (or press ``<Alt>-<Enter>``).
 
 A dialog box appears.
 

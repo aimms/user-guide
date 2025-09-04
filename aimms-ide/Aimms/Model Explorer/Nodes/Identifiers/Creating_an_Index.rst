@@ -40,7 +40,7 @@ The most commonly used attribute of an index is discussed below.
 
 
 
-*	``RANGE``  : The ``RANGE``  attribute should be used to specify the set in which the index should take its value. If not specified, the index has no default binding to a specific set and can only be used in the context of local or implicit index binding. The |img_def_Wizard_button_bmp| wizard will display an Identifier Selection Dialog box that helps you select the appropriate set.
+*	``RANGE``: The ``RANGE`` attribute should be used to specify the set in which the index should take its value. If not specified, the index has no default binding to a specific set and can only be used in the context of local or implicit index binding. The |img_def_Wizard_button_bmp| wizard will display an Identifier Selection Dialog box that helps you select the appropriate set.
 
 
 

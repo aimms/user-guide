@@ -44,7 +44,7 @@ This property specifies the layout of the background image. Valid values are "Ce
 
 
 
-You can use the ``ImageLayoutConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``ImageLayoutConstants`` set in ``Chart3DconstantsModule``.
 
 
 
@@ -68,7 +68,7 @@ This property determines the type of border to draw around the chart area. Possi
 
 
 
-You can use the ``BorderTypeConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``BorderTypeConstants`` set in ``Chart3DconstantsModule``.
 
 
 
@@ -234,7 +234,7 @@ This property determines the rotation applied to the axis annotation and titles.
 
 
 
-You can use the ``FontRotationConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``FontRotationConstants`` set in ``Chart3DconstantsModule``.
 
 
 
@@ -248,7 +248,7 @@ The property has the two possible values: "Full" and "Cube". "Full" will display
 
 
 
-You can use the ``PreviewMethodConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``PreviewMethodConstants`` set in ``Chart3DconstantsModule``.
 
 
 
@@ -302,7 +302,7 @@ The scatter chart is the only chart that supports the actual displaying of more 
 
  
 
-You can use the ``ChartTypeConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``ChartTypeConstants`` set in ``Chart3DconstantsModule``.
 
 
 
@@ -416,7 +416,7 @@ This property can only be specified when the color scheme is set to "Fluent". It
 
 This property can only be specified when the color scheme is set to "User-defined".
 
-The contour fill color property lets you specify exactly what colors to use for the contouring of the chart. A one-dimensional color parameter (an element parameter with range ``AllColors`` ) is expected. The easiest way of doing this, is to create a one-dimensional color parameter over the same index as you used for the contour values property's one-dimensional parameter.
+The contour fill color property lets you specify exactly what colors to use for the contouring of the chart. A one-dimensional color parameter (an element parameter with range ``AllColors``) is expected. The easiest way of doing this, is to create a one-dimensional color parameter over the same index as you used for the contour values property's one-dimensional parameter.
 
 
 
@@ -440,7 +440,7 @@ This property specifies the pattern of the contour lines.
 
 
 
-You can use the ``LinePatternConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``LinePatternConstants`` set in ``Chart3DconstantsModule``.
 
 
 
@@ -468,7 +468,7 @@ This property controls the method used for zoning. Possible values are "Cells" a
 
 
 
-You can use the ``ZoneMethodConstants``  set in ``Chart3DconstantsModule`` .
+You can use the ``ZoneMethodConstants`` set in ``Chart3DconstantsModule``.
 
 
 

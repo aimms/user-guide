@@ -36,9 +36,9 @@ The most commonly used attributes of a file identifier are discussed below.
 
 
 
-*	``NAME``  : The ``NAME``  attribute is used to specify a name by which the file can be reference within AIMMS. The |img_def_Wizard_button_bmp| wizard will display a menu allowing you to specify either a system filename or a string parameter from your model that will be used to specify the filename.
-*	``DEVICE``  : The ``DEVICE``  attribute should contain one of ``disk`` , ``window``  or ``void`` . The |img_def_Wizard_button_bmp| wizard will let you specify the ``DEVICE`` attribute through a selection of radio buttons.
-*	``MODE``  : The ``MODE``  attribute should contain one of ``replace``  or ``merge`` . The |img_def_Wizard_button_bmp| wizard will let you specify the ``MODE`` attribute through a selection of radio buttons.
+*	``NAME``: The ``NAME`` attribute is used to specify a name by which the file can be reference within AIMMS. The |img_def_Wizard_button_bmp| wizard will display a menu allowing you to specify either a system filename or a string parameter from your model that will be used to specify the filename.
+*	``DEVICE``: The ``DEVICE`` attribute should contain one of ``disk``, ``window`` or ``void``. The |img_def_Wizard_button_bmp| wizard will let you specify the ``DEVICE`` attribute through a selection of radio buttons.
+*	``MODE``: The ``MODE`` attribute should contain one of ``replace`` or ``merge``. The |img_def_Wizard_button_bmp| wizard will let you specify the ``MODE`` attribute through a selection of radio buttons.
 
 
 

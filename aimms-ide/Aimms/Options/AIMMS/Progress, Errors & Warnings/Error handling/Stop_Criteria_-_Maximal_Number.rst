@@ -16,5 +16,3 @@ Maximal Number of Execution Errors Reported
 
 AIMMS will stop reporting further error messages if this maximum number is reached.
 
-
-

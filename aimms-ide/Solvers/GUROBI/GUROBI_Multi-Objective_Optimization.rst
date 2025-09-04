@@ -78,7 +78,7 @@ Objective degradations are handled differently for multi-objective LP models. Fo
 higher-priority objectives is maintained by fixing some variables to their values in previous optimal solutions.
 These fixings are decided using variable reduced costs. The absolute tolerance indicates the amount by which a
 fixed variable's reduced cost is allowed to violate dual feasibility, whereas the relative tolerance is simply
-ignored. **Note** : If you want the MIP behavior, where the degradation is controlled more directly, you can
+ignored. **Note**: If you want the MIP behavior, where the degradation is controlled more directly, you can
 add a dummy binary variable to the model, thus transforming it into a MIP. Solving the resulting multi-objective
 MIP can be much more time consuming than solving the original multi-objective LP.
 

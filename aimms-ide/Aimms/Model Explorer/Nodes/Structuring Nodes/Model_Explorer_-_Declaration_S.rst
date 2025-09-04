@@ -14,7 +14,7 @@ A declaration section node itself does not have a specific meaning in your model
 
 
 
-*	``COMMENT``  : In this field you can place any comment. A good idea is to give a short global description of the contents of the declaration section for future reference.
+*	``COMMENT``: In this field you can place any comment. A good idea is to give a short global description of the contents of the declaration section for future reference.
 
 
 

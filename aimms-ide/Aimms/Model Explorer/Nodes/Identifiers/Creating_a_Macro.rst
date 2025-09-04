@@ -35,8 +35,8 @@ The most commonly used attributes of a macro are discussed below.
 
 
 
-*	``ARGUMENTS``  : In the ``ARGUMENTS``  attribute, you can specify the argument names in terms of which the ``MACRO``  definition can be formulated.
-*	``DEFINITION``  : The ``DEFINITION``  attribute should contain the replacement text that is substituted when the macro is used in the model text. References to arguments in this definition are replaced with the calling arguments of the macro.
+*	``ARGUMENTS``: In the ``ARGUMENTS`` attribute, you can specify the argument names in terms of which the ``MACRO`` definition can be formulated.
+*	``DEFINITION``: The ``DEFINITION`` attribute should contain the replacement text that is substituted when the macro is used in the model text. References to arguments in this definition are replaced with the calling arguments of the macro.
 
 
 

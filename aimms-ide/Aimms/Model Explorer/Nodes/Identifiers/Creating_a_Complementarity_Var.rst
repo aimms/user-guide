@@ -34,12 +34,12 @@ The most commonly used attributes of a complementarity variable are discussed be
 
 
 
-*	``INDEX DOMAIN``  : The ``INDEX DOMAIN``  attribute should be specified in order to declare indexed complementarity variables. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
-*	``RANGE``  : The ``RANGE``  attribute should be specified in order to restrict the values to certain intervals. The |img_def_Wizard_button_bmp| wizard will let you either select one of the predefined ranges, like ``Real`` , ``Nonnegative`` , ``Nonpositive`` , ``Integer`` , or ``Binary`` , or specify a (parametric) interval range.
-*	``UNIT``  : The ``UNIT``  attribute is used to specify the unit in which the complementarity variable's value is measured. By specifying a unit, AIMMS is able to perform automatic unit conversions and unit consistency checks. The |img_def_Wizard_button_bmp| wizard will let you select a unit and quantity from the list made up from your model quantities and units together with the information in the AIMMS SI unit base.
-*	``DEFAULT``  : The ``DEFAULT``  attribute should be used in order to specify a nonzero default value for the complementarity variable. Note that AIMMS will explicitly store all values that are non-default. 
-*	``PROPERTY`` : The ``PROPERTY``  attribute should be used to specify additional properties. Note that in case of a complementarity variable only the NoSave property can be set..
-*	``COMPLEMENT`` : The mandatory ``COMPLEMENT``  attribute for complementarity variables should be used to specify the complement.
+*	``INDEX DOMAIN``: The ``INDEX DOMAIN`` attribute should be specified in order to declare indexed complementarity variables. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
+*	``RANGE``: The ``RANGE`` attribute should be specified in order to restrict the values to certain intervals. The |img_def_Wizard_button_bmp| wizard will let you either select one of the predefined ranges, like ``Real``, ``Nonnegative``, ``Nonpositive``, ``Integer``, or ``Binary``, or specify a (parametric) interval range.
+*	``UNIT``: The ``UNIT`` attribute is used to specify the unit in which the complementarity variable's value is measured. By specifying a unit, AIMMS is able to perform automatic unit conversions and unit consistency checks. The |img_def_Wizard_button_bmp| wizard will let you select a unit and quantity from the list made up from your model quantities and units together with the information in the AIMMS SI unit base.
+*	``DEFAULT``: The ``DEFAULT`` attribute should be used in order to specify a nonzero default value for the complementarity variable. Note that AIMMS will explicitly store all values that are non-default. 
+*	``PROPERTY``: The ``PROPERTY`` attribute should be used to specify additional properties. Note that in case of a complementarity variable only the NoSave property can be set..
+*	``COMPLEMENT``: The mandatory ``COMPLEMENT`` attribute for complementarity variables should be used to specify the complement.
 
 
 

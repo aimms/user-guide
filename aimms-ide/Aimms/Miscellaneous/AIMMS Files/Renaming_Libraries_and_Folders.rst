@@ -64,11 +64,11 @@ This file should resemble the following folder content on your disk:
 
 
 
-If you want to rename the folder ``MyLibrary2``  to ``MySecondLibrary`` , you do the rename on disk and you modify the .aimms file accordingly.
+If you want to rename the folder ``MyLibrary2`` to ``MySecondLibrary``, you do the rename on disk and you modify the .aimms file accordingly.
 
 
 
-Similarly, if you want to rename ``MyLibrary1.ams``  to ``MyFirstLibrary.ams`` , you should make a similar modification to the content of the file ``MyLibrary\Project.xml`` . 
+Similarly, if you want to rename ``MyLibrary1.ams`` to ``MyFirstLibrary.ams``, you should make a similar modification to the content of the file ``MyLibrary\Project.xml``. 
 
 
 

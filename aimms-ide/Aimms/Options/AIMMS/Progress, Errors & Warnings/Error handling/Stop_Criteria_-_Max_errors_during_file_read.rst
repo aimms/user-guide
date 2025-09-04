@@ -3,7 +3,7 @@
 .. _option-AIMMS-max_errors_during_file_read:
 
 
-Max errors during file read
+Max Errors during File Read
 ===========================
 
 
@@ -15,6 +15,4 @@ Max errors during file read
 
 
 This option specifies the maximum number of errors during a file read until that file read is aborted.
-
-
 

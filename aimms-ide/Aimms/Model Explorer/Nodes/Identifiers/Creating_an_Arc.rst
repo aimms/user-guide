@@ -36,13 +36,13 @@ The most commonly used attributes of an arc are discussed below.
 
 
 
-*	``INDEX DOMAIN``  : The ``INDEX DOMAIN``  attribute should be specified in order to declare indexed arcs. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
-*	``RANGE``  : The ``RANGE``  attribute should be specified in order to restrict the values to certain intervals. The |img_def_Wizard_button_bmp| wizard will let you either select one of the predefined ranges, like ``Real`` , ``Nonnegative`` , ``Nonpositive`` , ``Integer`` , or ``Binary`` , or specify a (parametric) interval range.
-*	``UNIT``  : The ``UNIT``  attribute is used to specify the unit in which the arc's value is measured. By specifying a unit, AIMMS is able to perform automatic unit conversions and unit consistency checks. The |img_def_Wizard_button_bmp| wizard will let you select a unit and quantity from the list made up from your model quantities and units together with the information in the AIMMS SI unit base.
-*	``FROM``  : The ``FROM``  attribute is mandatory an should contain a node reference specifying the start node of the arc. The |img_def_Wizard_button_bmp| wizard will display an Identifier Selection Dialog box that helps you select the appropriate node.
-*	``TO``  : The ``TO``  attribute is mandatory an should contain a node reference specifying the end node of the arc. The |img_def_Wizard_button_bmp| wizard will display an Identifier Selection Dialog box that helps you select the appropriate node.
-*	``COST`` : The ``COST``  attribute is used to specify the cost coefficient that will be used to calculate the predefined AIMMS variable ``FlowCost`` . 
-*	``PROPERTY`` : The ``PROPERTY``  attribute should be used to specify additional properties. Note that in order to retrieve sensitivity information from the solver, the ``ReducedCosts`` , ``ValueRange`` , or ``CoefficientRange``  property should be explicitly set. The |img_def_Wizard_button_bmp| wizard will let you specify the properties through a selection of radio buttons and check boxes.
+*	``INDEX DOMAIN``: The ``INDEX DOMAIN`` attribute should be specified in order to declare indexed arcs. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
+*	``RANGE``: The ``RANGE`` attribute should be specified in order to restrict the values to certain intervals. The |img_def_Wizard_button_bmp| wizard will let you either select one of the predefined ranges, like ``Real``, ``Nonnegative``, ``Nonpositive``, ``Integer``, or ``Binary``, or specify a (parametric) interval range.
+*	``UNIT``: The ``UNIT`` attribute is used to specify the unit in which the arc's value is measured. By specifying a unit, AIMMS is able to perform automatic unit conversions and unit consistency checks. The |img_def_Wizard_button_bmp| wizard will let you select a unit and quantity from the list made up from your model quantities and units together with the information in the AIMMS SI unit base.
+*	``FROM``: The ``FROM`` attribute is mandatory an should contain a node reference specifying the start node of the arc. The |img_def_Wizard_button_bmp| wizard will display an Identifier Selection Dialog box that helps you select the appropriate node.
+*	``TO``: The ``TO`` attribute is mandatory an should contain a node reference specifying the end node of the arc. The |img_def_Wizard_button_bmp| wizard will display an Identifier Selection Dialog box that helps you select the appropriate node.
+*	``COST``: The ``COST`` attribute is used to specify the cost coefficient that will be used to calculate the predefined AIMMS variable ``FlowCost``. 
+*	``PROPERTY``: The ``PROPERTY`` attribute should be used to specify additional properties. Note that in order to retrieve sensitivity information from the solver, the ``ReducedCosts``, ``ValueRange``, or ``CoefficientRange`` property should be explicitly set. The |img_def_Wizard_button_bmp| wizard will let you specify the properties through a selection of radio buttons and check boxes.
 
 
 

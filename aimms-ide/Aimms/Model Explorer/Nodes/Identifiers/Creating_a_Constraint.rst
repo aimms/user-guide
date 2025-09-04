@@ -34,10 +34,10 @@ The most commonly used attributes of a constraint are discussed below.
 
 
 
-*	``INDEX DOMAIN``  : The ``INDEX DOMAIN``  attribute should be specified in order to declare indexed constraints. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
-*	``UNIT``  : The ``UNIT``  attribute is used to specify the unit in which the constraint's RHS value is measured. By specifying a unit, AIMMS is able to perform automatic unit conversions and unit consistency checks. The |img_def_Wizard_button_bmp| wizard will let you select a unit and quantity from the list made up from your model quantities and units together with the information in the AIMMS SI unit base.
-*	``PROPERTY`` : The ``PROPERTY``  attribute should be used to specify additional properties. Note that in order to retrieve sensitivity information from the solver, the ``ShadowPrices`` , ``RightHandSideRange`` , or ``ShadowPriceRange``  property should be explicitly set. The |img_def_Wizard_button_bmp| wizard will let you specify the properties through a selection of radio buttons and check boxes.
-*	``DEFINITION`` : The ``DEFINITION``  attribute is mandatory and should contain the constraint formulation containing two or three expressions separated by one of the relational operators ``=`` , ``<=`` , or ``>=`` .
+*	``INDEX DOMAIN``: The ``INDEX DOMAIN`` attribute should be specified in order to declare indexed constraints. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
+*	``UNIT``: The ``UNIT`` attribute is used to specify the unit in which the constraint's RHS value is measured. By specifying a unit, AIMMS is able to perform automatic unit conversions and unit consistency checks. The |img_def_Wizard_button_bmp| wizard will let you select a unit and quantity from the list made up from your model quantities and units together with the information in the AIMMS SI unit base.
+*	``PROPERTY``: The ``PROPERTY`` attribute should be used to specify additional properties. Note that in order to retrieve sensitivity information from the solver, the ``ShadowPrices``, ``RightHandSideRange``, or ``ShadowPriceRange`` property should be explicitly set. The |img_def_Wizard_button_bmp| wizard will let you specify the properties through a selection of radio buttons and check boxes.
+*	``DEFINITION``: The ``DEFINITION`` attribute is mandatory and should contain the constraint formulation containing two or three expressions separated by one of the relational operators ``=``, ``<=``, or ``>=``.
 
 
 

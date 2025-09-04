@@ -13,7 +13,7 @@ To modify the properties of a Conditional Selector in the Identifier Selector tr
 
 2.	In the tree, select the node that you want to modify.
 
-3.	From the Edit menu, select |img_def_Properties_button_bmp| Properties (or press ``<Alt>-<Enter>`` ).
+3.	From the Edit menu, select |img_def_Properties_button_bmp| Properties (or press ``<Alt>-<Enter>``).
 
 A dialog box appears.
 

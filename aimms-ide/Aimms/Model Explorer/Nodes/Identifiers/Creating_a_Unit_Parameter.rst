@@ -36,8 +36,8 @@ The most commonly used attributes of a unit parameter are discussed below.
 
 
 
-*	``INDEX DOMAIN``  : The ``INDEX DOMAIN``  attribute should be specified in order to declare indexed unit parameters. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
-*	``DEFINITION`` : The ``DEFINITION``  attribute can (and should) be used to specify a unit expression. In case the unit expression is a constant unit expression (e.g. ``[m]`` ), there is in fact no need for a unit parameter and the unit ``[m]``  could be directly specified as the unit attribute of the corresponding identifiers.
+*	``INDEX DOMAIN``: The ``INDEX DOMAIN`` attribute should be specified in order to declare indexed unit parameters. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
+*	``DEFINITION``: The ``DEFINITION`` attribute can (and should) be used to specify a unit expression. In case the unit expression is a constant unit expression (e.g. ``[m]``), there is in fact no need for a unit parameter and the unit ``[m]``  could be directly specified as the unit attribute of the corresponding identifiers.
 
 
 

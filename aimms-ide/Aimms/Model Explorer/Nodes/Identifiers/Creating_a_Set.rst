@@ -34,11 +34,11 @@ The most commonly used attributes of a set identifier are discussed below.
 
 
 
-*	``INDEX DOMAIN``  : The ``INDEX DOMAIN``  attribute should be specified in order to declare indexed sets. However, in most models scalar, simple (or compound) sets suffice to formulate your model. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
-*	``SUBSET OF`` : The ``SUBSET OF``  attribute should be specified in order to declare a subset. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more sets.
-*	``INDEX`` : The ``INDEX`` attribute is the most natural place to declare indices in the current set. The |img_def_Wizard_button_bmp| wizard allows you to declare a new index, delete or rename an existing index or move an index to another set. When declaring an index this way, the index is bound to the corresponding set. To declare an index that is not bound, you should explicitly declare an index identifier.
-*	``PARAMETER`` : The ``PARAMETER`` attribute is like the ``INDEX``  attribute except that it allows you to declare scalar element parameters (instead of indices) in the current set. Another common way to achieve the same is to explicitly declare an element parameter.
-*	``DEFINITION`` : The ``DEFINITION``  attribute can (and should) be used to specify the definition of an identifier by means of a global relationship. AIMMS stores the result of a definition and recomputes it only when necessary.
+*	``INDEX DOMAIN``: The ``INDEX DOMAIN`` attribute should be specified in order to declare indexed sets. However, in most models scalar, simple (or compound) sets suffice to formulate your model. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more indices.
+*	``SUBSET OF``: The ``SUBSET OF`` attribute should be specified in order to declare a subset. The |img_def_Wizard_button_bmp| wizard will display the Set Dependency Tree of your model and allows you to select one or more sets.
+*	``INDEX``: The ``INDEX`` attribute is the most natural place to declare indices in the current set. The |img_def_Wizard_button_bmp| wizard allows you to declare a new index, delete or rename an existing index or move an index to another set. When declaring an index this way, the index is bound to the corresponding set. To declare an index that is not bound, you should explicitly declare an index identifier.
+*	``PARAMETER``: The ``PARAMETER`` attribute is like the ``INDEX`` attribute except that it allows you to declare scalar element parameters (instead of indices) in the current set. Another common way to achieve the same is to explicitly declare an element parameter.
+*	``DEFINITION``: The ``DEFINITION`` attribute can (and should) be used to specify the definition of an identifier by means of a global relationship. AIMMS stores the result of a definition and recomputes it only when necessary.
 
 
 

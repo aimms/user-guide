@@ -35,7 +35,7 @@ In a nonconvex quadratic program (QP) or mixed integer quadratic program (MIQP) 
 
 
 
-This option interacts with the option **Solution Target** :
+This option interacts with the option **Solution Target**:
 
 
 

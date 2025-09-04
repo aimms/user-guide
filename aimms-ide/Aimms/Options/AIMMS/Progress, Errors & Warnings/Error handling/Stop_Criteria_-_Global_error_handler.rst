@@ -3,7 +3,7 @@
 .. _option-AIMMS-global_error_handler:
 
 
-Global error handler
+Global Error Handler
 ====================
 
 
@@ -16,11 +16,8 @@ Global error handler
 This option specifies the procedure that is executed to handle execution time errors and warnings.
 
 
-
 **Learn more about** 
 
 *	:ref:`Model-Explorer_Procedures`  
 *	:ref:`sec:exec.error`  
-
-
 

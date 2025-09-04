@@ -163,7 +163,7 @@ When the relation between the existing index and artificial index is specified b
 
 
 
-For example, when your pivot table contains a 4-dimensional identifier ``Sales`` (c,r,p,m) (c in ``Customers`` , r in ``Regions`` , p in ``Products`` , m in ``Months`` ) and you would extend the pivot table with two articifial indices q in ``Quarters``  and y in ``Years`` , together with two element parameters ``MappingMonth2Quarter`` (m) in ``Quarters``  and ``MappingQuarter2Year`` (q) in ``Years``  to specify the relation between months, quarters and years (as illustrated in the Figure below), the resulting pivot table would look as if it contained a 6-dimensional identifier ``Sales`` (c,r,p,m,q,y).
+For example, when your pivot table contains a 4-dimensional identifier ``Sales`` (c,r,p,m) (c in ``Customers``, r in ``Regions``, p in ``Products``, m in ``Months``) and you would extend the pivot table with two articifial indices q in ``Quarters``  and y in ``Years``, together with two element parameters ``MappingMonth2Quarter`` (m) in ``Quarters``  and ``MappingQuarter2Year`` (q) in ``Years``  to specify the relation between months, quarters and years (as illustrated in the Figure below), the resulting pivot table would look as if it contained a 6-dimensional identifier ``Sales`` (c,r,p,m,q,y).
 
 
 
@@ -218,7 +218,7 @@ Please note that
 
 
 
-If you want to display multiple suffices for a single identifier in the Pivot Table (e.g. Lower and ``Upper`` ) you could decide to specify multiple entries on the Contents tab. Alternatively, you could choose to extend the Pivot Table with a 'Suffix Index'. This will allow you to deal with the suffices as if they were an index in the domain of the identifiers (i.e. you are allowed to move the suffix index around as if it was an ordinary index).
+If you want to display multiple suffices for a single identifier in the Pivot Table (e.g. Lower and ``Upper``) you could decide to specify multiple entries on the Contents tab. Alternatively, you could choose to extend the Pivot Table with a 'Suffix Index'. This will allow you to deal with the suffices as if they were an index in the domain of the identifiers (i.e. you are allowed to move the suffix index around as if it was an ordinary index).
 
 
 
