@@ -1,4 +1,4 @@
-Execution tolerances
+Execution Tolerances
 ====================
 
 .. toctree::

@@ -1,4 +1,4 @@
-Backward compatibility
+Backward Compatibility
 ======================
 
 .. toctree::

@@ -16,7 +16,7 @@ By default, AIMMS installs CPLEX callback routines which are used to pass progre
 routines, and to give the user the possibility to interrupt the solve. If the value of this option equals 'Fast' then these
 CPLEX callback routines are not installed. As a consequence the solve might become significantly faster. However the disadvantages are:
 
-    *   The Progress Window will not be updated during the solve;
+    *   The :ref:`aimmshelp12-progress_window` will not be updated during the solve;
     *   The solve cannot be interrupted;
     *   No callback will be made to AIMMS procedures that are installed with the Mathematical Program suffices ``CallbackProcedure``,``CallbackTime``  or ``CallbackStatusChange`` (or installed with the GMP routines :any:`GMP::Instance::SetCallbackIterations`, :any:`GMP::Instance::SetCallbackTime` or :any:`GMP::Instance::SetCallbackStatusChange`).
 

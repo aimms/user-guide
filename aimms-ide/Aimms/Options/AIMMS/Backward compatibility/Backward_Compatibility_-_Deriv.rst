@@ -14,22 +14,18 @@ Derive Definitions Stochastic Parameters
 
 
 
-Consider the following situation: A parameter P has both a definition and the stochastic property set. The definition of P references parameter Q and parameter Q also has the property stochastic set. When this option is set to 'Off', the parameter P.stochastic does not have a definition. When this option is set to 'On', AIMMS copies the definition of P to P.stochastic, but the definition of P.Stochastic will reference Q.Stochastic instead of just Q. Possible values are:
-
+Consider the following situation: A parameter P has both a definition and the stochastic property set.
+The definition of P references parameter Q and parameter Q also has the property stochastic set. When
+this option is set to 'Off', the parameter P.stochastic does not have a definition. When this option is
+set to 'On', AIMMS copies the definition of P to P.stochastic, but the definition of P.Stochastic will
+reference Q.Stochastic instead of just Q. Possible values are:
 
 
     *	On
     *	Off
 
 
-
-
 **Learn more about** 
 
-*	:ref:`sec:stoch.solve`  
-
-
-
-
-
+*	:ref:`chap:stoch`  
 

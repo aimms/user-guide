@@ -3,7 +3,7 @@
 .. _option-AIMMS-debugger_break_on_execution_error:
 
 
-Debugger break on execution error
+Debugger Break on Execution Error
 =================================
 
 
