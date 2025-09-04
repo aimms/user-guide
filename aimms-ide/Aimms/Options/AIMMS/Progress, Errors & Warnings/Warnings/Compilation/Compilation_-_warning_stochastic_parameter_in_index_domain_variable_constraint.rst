@@ -56,5 +56,5 @@ ignored, reported as a warning, or interpreted as an error, depending on the fol
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-*	`Stochastic Programming <https://documentation.aimms.com/language-reference/optimization-modeling-components/stochastic-programming/index.html>`_
+*	:ref:`chap:stoch`
 

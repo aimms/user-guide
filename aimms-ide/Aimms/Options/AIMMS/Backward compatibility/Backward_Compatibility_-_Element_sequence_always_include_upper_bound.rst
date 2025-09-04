@@ -3,7 +3,7 @@
 .. _option-AIMMS-element_sequence_always_include_upper_bound:
 
 
-Element sequence always include upper bound
+Element Sequence Always Include Upper Bound
 ===========================================
 
 
@@ -14,19 +14,19 @@ Element sequence always include upper bound
 
 
 
-An element sequence can be specified using the syntax { lo .. up by incr }.  Even when there was no integer i such that up = lo + incr * i, AIMMS used to include up in the generated sequence. For example, { 1 .. 8 by 2 } generates the elements { 1, 3, 5, 7 } when this option is off and { 1, 3, 5, 7, 8 } when this option is on. Now this depends on the setting of this option. Possible values are:
+An element sequence can be specified using the syntax ``{ lo .. up by incr }``. Even if there is
+no integer ``i`` such that ``up = lo + incr * i``, AIMMS might include ``up`` in the generated sequence,
+depending on the configuration of this option.
+For example, ``{ 1 .. 8 by 2 }`` generates the elements ``{ 1, 3, 5, 7 }`` when this option is switched
+off and ``{ 1, 3, 5, 7, 8 }`` when this option is switched on.
 
+Possible values are:
 
-
-    *	On  Include up even when up is not in the sequence defined by lo and incr.
-    *	Off  Include up only when there is an integer i such that up = lo + incr * i.
-
-
+    *	On
+    *	Off
 
 
 **Learn more about** 
 
 *	:ref:`option-AIMMS-warning_element_sequence_upperbound_not_included` 
-
-
 

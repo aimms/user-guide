@@ -8,23 +8,10 @@ Elapsed Time is Unitless
 :Default:	Off	
 
 This option determines whether the result of the functions 
-StringToMoment, TimeSlotToMoment, and CurrentToMoment, and 
-the eleapsed time argument of the functions MomentToString and MomentToTimeSlot is unitless. 
+:any:`StringToMoment`, :any:`TimeSlotToMoment`, and :any:`CurrentToMoment`, and 
+the elapsed time argument of the functions :any:`MomentToString` and :any:`MomentToTimeSlot` are unitless. 
 Possible values are:
 
     *	On
     *	Off
-
-**Learn more about** 
-
-*	:any:`StringToMoment`
-*	:any:`TimeSlotToMoment`
-*	:any:`CurrentToMoment`
-*	:any:`MomentToString`
-*	:any:`MomentToTimeSlot`
-
-
-
-
-
 

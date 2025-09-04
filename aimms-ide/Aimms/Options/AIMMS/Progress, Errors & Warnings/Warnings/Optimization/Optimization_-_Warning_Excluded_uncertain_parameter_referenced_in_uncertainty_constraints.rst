@@ -54,5 +54,5 @@ This option determines how unreferenced uncertain parameters are reported, depen
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-*	`Robust Optimization <https://documentation.aimms.com/language-reference/optimization-modeling-components/robust-optimization/index.html>`_
+*	:ref:`chap:robust`
 

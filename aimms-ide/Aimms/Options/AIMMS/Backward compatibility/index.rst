@@ -7,7 +7,6 @@ Backward Compatibility
     Api_Accesses_All_Identifiers
     Backward_Compatibility_-_Curre
     Backward_Compatibility_-_Deriv
-    Backward_Compatibility_-_Distr
     Backward_Compatibility_-_Elaps
     Backward_Compatibility_-_Element_sequence_always_include_upper_bound
     Backward_Compatibility_-_Enable_SOS_Priority_attribute
