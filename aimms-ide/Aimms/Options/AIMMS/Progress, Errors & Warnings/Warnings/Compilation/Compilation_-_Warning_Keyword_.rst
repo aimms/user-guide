@@ -41,7 +41,7 @@ on the following settings:
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-The set of :aimms:set:`AllKeywords`  is documented in the function reference.
+The set of :aimms:set:`AllKeywords` is documented in the function reference.
 
 
 **Note** 
