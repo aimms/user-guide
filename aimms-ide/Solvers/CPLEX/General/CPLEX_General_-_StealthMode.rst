@@ -30,7 +30,7 @@ Possible values are:
 **Note** 
 
 
-*   If the value of this option is set to 'Fast' then still a callback will be made to AIMMS procedures installed with the GMP routines :any:`GMP::Instance::SetCallbackAddCut`, :any:`GMP::Instance::SetCallbackBranch`, :any:`GMP::Instance::SetCallbackHeuristic`, :any:`GMP::Instance::Candidate` or :any:`GMP::Instance::Incumbent`. (Same for a callback installed with the Mathematical Program suffix ``CallbackIncumbent``.)
+*   If the value of this option is set to 'Fast' then still a callback will be made to AIMMS procedures installed with the GMP routines :any:`GMP::Instance::SetCallbackAddCut`, :any:`GMP::Instance::SetCallbackBranch`, :any:`GMP::Instance::SetCallbackHeuristic`, :any:`GMP::Instance::SetCallbackCandidate` or :any:`GMP::Instance::SetCallbackIncumbent`. (Same for a callback installed with the Mathematical Program suffix ``CallbackIncumbent``.)
 
 
 **Learn more about** 
