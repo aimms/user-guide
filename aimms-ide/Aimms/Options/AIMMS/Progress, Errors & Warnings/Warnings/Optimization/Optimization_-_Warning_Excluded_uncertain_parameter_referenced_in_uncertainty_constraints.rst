@@ -18,7 +18,6 @@ At the start of generation of a Robust Counterpart AIMMS checks whether there ar
 handled uncertainty constraints or the uncertain attribute of other uncertain parameters that are not passed in the second
 argument of the function :any:`GMP::Instance::GenerateRobustCounterpart`.
 
-
 This option determines how unreferenced uncertain parameters are reported, depending on the following settings:
 
 
@@ -55,4 +54,5 @@ This option determines how unreferenced uncertain parameters are reported, depen
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
+*	`Robust Optimization <https://documentation.aimms.com/language-reference/optimization-modeling-components/robust-optimization/index.html>`_
 

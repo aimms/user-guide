@@ -14,25 +14,21 @@ Warning Repeated Iterative Evaluation
 
 
 
-This option determines what happens during compilation when an iterative operator doesn't depend on some of the indices and subsequently executing the encompassing statement will result in repeatedly evaluating the iterative operator to the same result.
-
-
+This option determines what happens during compilation when an iterative operator does not depend on some
+of the indices and subsequently executing the encompassing statement will result in repeatedly evaluating
+the iterative operator to the same result.
 
 Consider the example:
 
+.. code-block:: aimms
+
+    a(i) := sum( j, b(j) );
 
 
-	``a(i) := sum(j,b(j));`` 
-
-
-
-In this example the result of ``sum(j,b(j))``  doesn't depend on ``i`` , and this summation will therefore be repeatedly evaluated with the same result for every ``i`` .
-
-
+In this example the result of ``sum( j, b(j) )`` does not depend on ``i``, and this summation will therefore be
+repeatedly evaluated with the same result for every ``i``.
 
 This will be ignored, reported as a warning, or interpreted as an error, depending on the following settings:
-
-
 
 
 .. list-table::
@@ -57,13 +53,9 @@ This will be ignored, reported as a warning, or interpreted as an error, dependi
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -72,9 +64,4 @@ This will be ignored, reported as a warning, or interpreted as an error, dependi
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 

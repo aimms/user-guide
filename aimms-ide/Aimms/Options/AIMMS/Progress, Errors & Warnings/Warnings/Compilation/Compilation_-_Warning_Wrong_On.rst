@@ -14,9 +14,10 @@ Warning Wrong Onlyif Symbol
 
 
 
-``Although the symbol "|" in AIMMS 2.20 could be used for both the "only if" operator and the "such that" operator in index domains, in AIMMS 3.0, the symbol "|" just stands for the "such that" operator, and should not be used for the "only if" operator, for which the symbol reads "$". This option determines what happens during the compilation of expressions that still use the "|" symbol for the ONLYIF operator instead of "$". This situation is ignored, reported as a warning, or interpreted as an error, depending on the following settings:`` 
-
-
+In AIMMS the symbol ``|`` just stands for the "such that" operator, and should not be used for the
+"only if" operator, for which the symbol reads ``$``. This option determines what happens during
+the compilation of expressions that use the ``|`` symbol for the ONLYIF operator instead of ``$``.
+This situation is ignored, reported as a warning, or interpreted as an error, depending on the following settings:
 
 
 .. list-table::
@@ -41,14 +42,10 @@ Warning Wrong Onlyif Symbol
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
-*	If this option has the value "Off" or "Warning", then "|" as symbol for "only if" is translated to "$".
+*	If this option has the value 'Off' or 'Warning', then ``|`` as symbol for "only if" is translated to ``$``.
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -57,6 +54,4 @@ Warning Wrong Onlyif Symbol
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

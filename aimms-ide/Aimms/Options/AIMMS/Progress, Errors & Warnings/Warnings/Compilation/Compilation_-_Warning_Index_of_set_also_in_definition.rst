@@ -56,8 +56,8 @@ Consider the following example:
 
 
 In the above example, the index ``ess`` is both declared as an index of ``ExampleSubSet``, and it is used in the definition.
-The result of this definition is empty however. In contrast, when using the definition ``{ ers | 1 }`` all elements will
-be added to the set ``ExampleSubset``.
+The result of this definition is empty however. In contrast, all elements will be added to the set ``ExampleSubset`` when
+using the definition ``{ ers | 1 }``.
 
 
 **Note** 

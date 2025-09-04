@@ -16,11 +16,11 @@ Warning Stochastic Parameter in Index Domain Variable Constraint
 
 AIMMS now warns when a stochastic parameter is used in the index domain of a variable or of a constraint. 
 
-
-
-This warning is issued because AIMMS generates the stochastic mathematical program for only one scenario. In order to be able to present the full stochastic mathematical program it stores the differences with respect to the other scenarios. This is usually equivalent to generating all scenarios, except when the index domain of a variable / constraint contains references to stochastic parameters. This situation is ignored, reported as a warning, or interpreted as an error, depending on the following settings:
-
-
+This warning is issued because AIMMS generates the stochastic mathematical program for only one scenario.
+In order to be able to present the full stochastic mathematical program it stores the differences with
+respect to the other scenarios. This is usually equivalent to generating all scenarios, except when the
+index domain of a variable / constraint contains references to stochastic parameters. This situation is
+ignored, reported as a warning, or interpreted as an error, depending on the following settings:
 
 
 .. list-table::
@@ -45,13 +45,9 @@ This warning is issued because AIMMS generates the stochastic mathematical progr
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -60,6 +56,5 @@ This warning is issued because AIMMS generates the stochastic mathematical progr
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
+*	`Stochastic Programming <https://documentation.aimms.com/language-reference/optimization-modeling-components/stochastic-programming/index.html>`_
 

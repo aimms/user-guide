@@ -14,9 +14,9 @@ Warning Mandatory Attributes
 
 
 
-This option determines what AIMMS will do, during compilation, when mandatory attributes of identifiers are not filled. This can be ignored, communicated via the Message Window as a warning to the user, or can result in a compilation error, corresponding to following settings:
-
-
+This option determines what AIMMS will do, during compilation, when mandatory attributes of identifiers are not
+filled. This can be ignored, communicated via the :ref:`aimmshelp13-Messages_Window` as a warning to the user,
+or can result in a compilation error, corresponding to following settings:
 
 
 .. list-table::
@@ -41,13 +41,9 @@ This option determines what AIMMS will do, during compilation, when mandatory at
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -56,6 +52,4 @@ This option determines what AIMMS will do, during compilation, when mandatory at
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

@@ -14,9 +14,9 @@ Warning Side Effects
 
 
 
-This option determines what happens during compilation when a procedure, referenced inside the definition of a set or a parameter, has a side effect; this situation is ignored, reported as a warning, or interpreted as an error, depending on the following settings:
-
-
+This option determines what happens during compilation when a procedure, referenced inside the definition
+of a set or a parameter, has a side effect; this situation is ignored, reported as a warning, or interpreted
+as an error, depending on the following settings:
 
 
 .. list-table::
@@ -41,56 +41,35 @@ This option determines what happens during compilation when a procedure, referen
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
+An example of such a side effect occurs in the following model, where the parameter ``TotalCosts``
+is defined via the internal procedure ``ComputeCosts``. A side effect of this procedure is the change
+of the global parameter ``SomeParameter``.
 
+.. code-block:: aimms
 
-An example of such a side effect occurs in the following model, where the parameter "TotalCosts" is defined via the internal procedure "ComputeCosts". A side effect of this procedure is the change of the global parameter "SomeParameter".
-
-
-
-``PARAMETER:`` 
-
-``identifier : TotalCosts`` 
-
-``definition : ComputeCosts(TotalCosts,5) ;`` 
-
-``PARAMETER:`` 
-
-``identifier : SomeParameter ;`` 
-
-``PROCEDURE`` 
-
-``identifier : ComputeCosts`` 
-
-``arguments : Costs,Production`` 
-
-``PARAMETER:`` 
-
-``identifier : Costs`` 
-
-``property  : Output ;`` 
-
-``PARAMETER:`` 
-
-``identifier : Production`` 
-
-``property  : Input ;`` 
-
-``body :`` 
-
-``Costs:=2*Production+10;`` 
-
-``SomeParameter:=1;`` 
-
-``ENDPROCEDURE ;`` 
-
+    Parameter TotalCosts {
+        Definition: ComputeCosts(TotalCosts,5);
+    }
+    Parameter SomeParameter;
+    Function ComputeCosts {
+        Arguments: (Costs,Production);
+        Body: {
+            Costs := 2*Production + 10;
+            SomeParameter := 1;
+        }
+        Parameter Costs {
+            Property: Output;
+        }
+        Parameter Production {
+            Property: Input;
+        }
+    }
 
 
 **Note** 
 
-*	If you set this option to "Off" or "Warning", then it is not predictable how these side effects will influence the execution of the model.
+*	If you set this option to 'Off' or 'Warning', then it is not predictable how these side effects will influence the execution of the model.
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -99,9 +78,4 @@ An example of such a side effect occurs in the following model, where the parame
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 

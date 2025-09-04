@@ -14,57 +14,46 @@ Warning Unused Index
 
 
 
-This option determines what happens during compilation when an index of an iterative operator is not used in the expressions inside that iterative operator. In addition, it warns against the use of an index in the index domain of a constraint that is not used in the definition of that constraint.
-
-
+This option determines what happens during compilation when an index of an iterative operator is not used
+in the expressions inside that iterative operator. In addition, it warns against the use of an index in the
+index domain of a constraint that is not used in the definition of that constraint.
 
 Consider the example:
 
+.. code-block:: aimms
+
+    a(i) := sum( (j,k), b(i,j) );
 
 
-	``a(i) := sum((j,k),b(i,j));`` 
+In this example the result of ``sum( (j,k), b(i,j) )`` does not depend on ``k``, and this assignment could
+thus be rewritten more efficiently as:
 
+.. code-block:: aimms
 
-
-In this example the result of ``sum((j,k),b(i,j))``  doesn't depend on ``k`` , and this assignment could thus be rewritten more efficiently as:
-
-
-
-	``a(i) := Card(Set_K) * sum(j,b(i,j));`` 
-
-
+    a(i) := Card(Set_K) * sum( j, b(i,j) );
 
 In addition, consider the following example:
 
+.. code-block:: aimms
+
+    Constraint limX {
+        IndexDomain: (i,j) | C(i,j);
+        Definition: sum( k, x(i,k) ) <= r(i);
+    }
 
 
-``CONSTRAINT:`` 
+In this example, the index ``j`` is not used in the definition of constraint ``limX`` and thus leads to
+the generation of duplicate rows. The above constraint can be rewritten as follows, avoiding duplicate rows:
 
-``identifier  : limX`` 
+.. code-block:: aimms
 
-``index domain : (i,j) | C(i,j)`` 
-
-``definition  : sum( k, x(i,k) ) <= r(i) ;`` 
-
-
-
-In this example, the index ``j``  isn't used in the definition of constraint ``limX``  and thus lead to the generation of duplicate rows. The above constraint can be rewritten as follows, avoiding duplicate rows:
-
-
-
-``CONSTRAINT:`` 
-
-``identifier  : limX`` 
-
-``index domain : (i) | exists( j | C(i,j) )`` 
-
-``definition  : sum( k, x(i,k) ) <= r(i) ;`` 
-
+    Constraint limX {
+        IndexDomain: (i) | exists( j | C(i,j) );
+        Definition: sum( k, x(i,k) ) <= r(i);
+    }
 
 
 An unused index situation will be ignored, reported as a warning, or interpreted as an error, depending on the following settings:
-
-
 
 
 .. list-table::
@@ -89,13 +78,9 @@ An unused index situation will be ignored, reported as a warning, or interpreted
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -104,9 +89,4 @@ An unused index situation will be ignored, reported as a warning, or interpreted
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 

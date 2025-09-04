@@ -14,14 +14,12 @@ Warning Out of Specified Scope
 
 
 
-This option determines what happens during compilation when an identifier does not exist in the given scope, but it does exist in another scope; this situation is reported as a warning, or interpreted as an error, depending on the following settings:
+This option determines what happens during compilation when an identifier does not exist in the given scope,
+but it does exist in another scope; this situation is reported as a warning, or interpreted as an error,
+depending on the following settings:
 
-
-
-*	Warning
-*	Error
-
-
+    *	Warning
+    *	Error
 
 
 **Note** 
@@ -29,15 +27,8 @@ This option determines what happens during compilation when an identifier does n
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
 
 
-
-
 **Learn more about** 
 
 *	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
-
-
-
 
