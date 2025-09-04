@@ -16,55 +16,38 @@ Warning Inefficient For
 
 This option determines what happens during compilation when AIMMS detects an inefficient for loop. For example, the loop
 
+.. code-block:: text
 
-
-``for(i)do`` 
-
-``a(i):=b(i);`` 
-
-``endfor;`` 
-
-
+    for (i) do
+        a(i) := b(i);
+    endfor;
 
 is not efficient, because it can replaced by the statement
 
+.. code-block:: text
 
-
-``a(i):=b(i);`` 
-
-
+    a(i) := b(i);
 
 Similarly, the nested for loop (assuming i and j are not indices into ordered sets)
 
 
+.. code-block:: text
 
-``for(i)do`` 
-
-``for(j)do`` 
-
-``. . .`` 
-
-``endfor;`` 
-
-``endfor;`` 
-
-
+    for (i) do
+        for (j) do
+            ...
+        endfor;
+    endfor;
 
 can be replaced by
 
+.. code-block:: text
 
-
-``for(i,j)do`` 
-
-``. . .`` 
-
-``endfor;`` 
-
-
+    for (i,j) do
+        ...
+    endfor;
 
 Such situations are ignored, reported as a warning, or interpreted as an error, depending on the following settings:
-
-
 
 
 .. list-table::
@@ -89,14 +72,10 @@ Such situations are ignored, reported as a warning, or interpreted as an error, 
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 **Note** 
 
 *	If you choose not to report this as an error, then AIMMS will execute the statements as is. It will not try to convert it to the more efficient counterpart.
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -105,6 +84,4 @@ Such situations are ignored, reported as a warning, or interpreted as an error, 
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

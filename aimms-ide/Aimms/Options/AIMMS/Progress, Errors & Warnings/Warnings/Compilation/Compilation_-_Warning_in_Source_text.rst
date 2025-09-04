@@ -14,9 +14,9 @@ Warning in Source Text
 
 
 
-This options determines whether user specified warnings in the AIMMS source text are ignored, are communicated via the Message Window as a warning to the user, or result in a compilation error, corresponding to following settings:
-
-
+This options determines whether user specified warnings in the AIMMS source text are ignored, are
+communicated via the :ref:`aimmshelp13-Messages_Window` as a warning to the user, or result in a
+compilation error, corresponding to following settings:
 
 
 .. list-table::
@@ -41,21 +41,16 @@ This options determines whether user specified warnings in the AIMMS source text
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
+A warning in the AIMMS source text is a line of the following form
 
+.. code-block:: text
 
-A warnings in the AIMMS source text is a line of the following form
-
-
-
-``! Warning: <warning message>`` 
-
+    ! Warning: <warning message>
 
 
 **Note** 
 
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -64,6 +59,4 @@ A warnings in the AIMMS source text is a line of the following form
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

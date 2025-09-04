@@ -54,8 +54,7 @@ other computer languages. Thus AIMMS will issue the message:
 
 .. code-block:: text
 
-    Warning: An exclamation mark in AIMMS starts a comment; the operator "!=" is not supported
-    but the operator "<>" is.
+    Warning: An exclamation mark in AIMMS starts a comment; the operator "!=" is not supported but the operator "<>" is.
 
 
 This encourages the constraint to be written as:

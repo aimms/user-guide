@@ -14,9 +14,8 @@ Warning Input Data Domain
 
 
 
-This option determines what happens during compilation when initial data is referenced outside a conditional domain, depending on the following settings:
-
-
+This option determines what happens during compilation when initial data is referenced outside a conditional
+domain, depending on the following settings:
 
 
 .. list-table::
@@ -41,40 +40,27 @@ This option determines what happens during compilation when initial data is refe
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
 An example of such an input data domain violation arises in the following model fragment:
 
+.. code-block:: aimms
 
-
-``SET:`` 
-
-``identifier  : Cities`` 
-
-``index    : c`` 
-
-``definition  : data{Amsterdam,Paris} ;`` 
-
-``PARAMETER:`` 
-
-``identifier  : Population`` 
-
-``index domain : c|ord(c)<2`` 
-
-``initial data : data{Amsterdam: 0.7e6, Paris: 3e6} ;`` 
-
+    Set Cities {
+        Index: c;
+        Definition: data { Amsterdam, Paris };
+    }
+    Parameter Population {
+        IndexDomain: c | ord(c) < 2;
+        InitialData: data { Amsterdam : 0.7e6, Paris : 3e6 };
+    }
 
 
 This option is only effective at the end of initialization; after running the procedure ``MainInitialization`` .
 
 
-
 **Note** 
 
-*	If you set this option to "Off" or "Warning", the data will be assigned to the elements that are outside the domain.
+*	If you set this option to 'Off' or 'Warning', the data will be assigned to the elements that are outside the domain.
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -83,6 +69,4 @@ This option is only effective at the end of initialization; after running the pr
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 

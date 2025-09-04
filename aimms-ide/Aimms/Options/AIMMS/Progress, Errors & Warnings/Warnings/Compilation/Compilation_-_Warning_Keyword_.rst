@@ -14,9 +14,9 @@ Warning Keyword Reuse
 
 
 
-Some keywords in AIMMS can be reused. This option determines what happens during compilation when such a keyword is reused; this situation is ignored, reported as a warning, or interpreted as an error, depending on the following settings:
-
-
+Some keywords in AIMMS can be reused. This option determines what happens during compilation when such a
+keyword is reused; this situation is ignored, reported as a warning, or interpreted as an error, depending
+on the following settings:
 
 
 .. list-table::
@@ -41,19 +41,12 @@ Some keywords in AIMMS can be reused. This option determines what happens during
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-
-
-
-
-The set of ``AllKeywords``  is documented in the function reference.
-
+The set of :aimms:set:`AllKeywords`  is documented in the function reference.
 
 
 **Note** 
 
 *	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
 
 
 **Learn more about** 
@@ -62,6 +55,4 @@ The set of ``AllKeywords``  is documented in the function reference.
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
-
-
 
