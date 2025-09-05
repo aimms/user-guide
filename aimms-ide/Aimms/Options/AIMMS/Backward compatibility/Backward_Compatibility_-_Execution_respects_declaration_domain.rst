@@ -31,8 +31,8 @@ For example:
     }
 
 The statement ``A := sum( i, P(i) )`` should only consider the elements in ``S`` that also exist in ``T``.
-This is the case when this option is set to `On`. When you want to use the old behavior (all elements
-in ``S`` are considered), you should switch this option to `Off`. Possible values are:
+This is the case when this option is set to 'On'. When you want to use the old behavior (all elements
+in ``S`` are considered), you should switch this option to 'Off'. Possible values are:
 
     *	On
     *	Off

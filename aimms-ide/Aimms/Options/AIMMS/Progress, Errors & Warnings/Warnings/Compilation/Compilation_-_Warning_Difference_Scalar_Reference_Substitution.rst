@@ -32,7 +32,7 @@ Consider the following declarations:
 
 With these declarations the statement:
 
-.. code-block:: text
+.. code-block:: aimms
 
     x_mid := ( x_scalar.lower + x_scalar.upper ) / 2 ;
 

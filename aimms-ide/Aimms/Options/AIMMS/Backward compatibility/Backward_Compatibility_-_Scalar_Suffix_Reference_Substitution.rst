@@ -14,71 +14,40 @@ Scalar Suffix Reference Substitution
 
 
 
-Consider the following declarations:
-
-
-
-  PARAMETER:
-
-    identifier  : x_lo 
-
-    initial data : 1 ;
-
-
-
-  PARAMETER:
-
-    identifier  : x_up 
-
-    initial data : 5 ;
-
-
-
-  PARAMETER:
-
-    identifier  : x_mid ;
-
-
-
-  VARIABLE:
-
-    identifier  : x_scalar
-
-    range    : [x_lo, x_up] ;
-
-
-
-With these declarations the result of the statement:
-
-
-
-    x_mid := ( x_scalar.lower + x_scalar.upper ) / 2 ;
-
-
-
-Will depend on the setting of this option:
-
-
-
-   When this option is off: 	 x_mid = 0
-
-   When this option is on:	 x_mid = 3
-
-
-
 Possible values of this option are:
-
-
 
     *	Off
     *	On
 
+Consider the following declarations:
 
+.. code-block:: aimms
+
+    Parameter x_lo {
+        InitialData: 1;
+    }
+    Parameter x_up {
+        InitialData: 5;
+    }
+    Parameter x_mid;
+    Variable x_scalar {
+        Range: [x_lo, x_up];
+    }
+
+
+With these declarations the result of the statement
+
+.. code-block:: aimms
+
+    x_mid := ( x_scalar.lower + x_scalar.upper ) / 2 ;
+
+will depend on the setting of this option:
+
+    *	When this option is off: 	 x_mid = 0
+    *	When this option is on:	 x_mid = 3
 
 
 **Learn more about** 
 
 *	:ref:`option-AIMMS-warning_difference_scalar_suffix_reference_substitution` 
-
-
 
