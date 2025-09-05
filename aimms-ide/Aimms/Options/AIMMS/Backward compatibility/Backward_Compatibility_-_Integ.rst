@@ -14,13 +14,10 @@ Integer Variable Default Upperbound
 
 
 
-Variables in AIMMS models with as range integer, will get the value of this option as default upperbound. 
-
+Variables in AIMMS models with as range "integer", will get the value of this option as default upper bound. 
 
 
 **Note** 
 
-*	Integer variables in GAMS or AIMMS 2 models have a default upperbound of 100.
-
-
+*	Integer variables in GAMS or AIMMS 2 models have a default upper bound of 100.
 

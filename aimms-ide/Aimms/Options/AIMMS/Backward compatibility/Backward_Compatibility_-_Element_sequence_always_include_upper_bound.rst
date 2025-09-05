@@ -18,7 +18,7 @@ An element sequence can be specified using the syntax ``{ lo .. up by incr }``. 
 no integer ``i`` such that ``up = lo + incr * i``, AIMMS might include ``up`` in the generated sequence,
 depending on the configuration of this option.
 For example, ``{ 1 .. 8 by 2 }`` generates the elements ``{ 1, 3, 5, 7 }`` when this option is switched
-off and ``{ 1, 3, 5, 7, 8 }`` when this option is switched on.
+off, and ``{ 1, 3, 5, 7, 8 }`` when this option is switched on.
 
 Possible values are:
 

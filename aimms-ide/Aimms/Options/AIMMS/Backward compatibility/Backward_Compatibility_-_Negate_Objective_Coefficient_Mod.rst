@@ -14,14 +14,13 @@ Negate Objective Coefficient Modifications
 
 
 
-If this option is switched on then coefficient values passed to the procedures GMP::Coefficient::Set and GMP::Coefficient::SetMulti will automatically be multiplied by -1 if the row (passed as argument to these procedures) contains the objective variable. Possible values are:
+If this option is switched on then coefficient values passed to the procedures :any:`GMP::Coefficient::Set`
+and :any:`GMP::Coefficient::SetMulti` will automatically be multiplied by -1 if the row (passed as argument
+to these procedures) contains the objective variable. Possible values are:
 
 
-
-    *	Off
     *	On
-
-
+    *	Off
 
 
 **Note** 
