@@ -3,7 +3,7 @@
 .. _option-AIMMS-case_ensure_subset_consistency_method:
 
 
-Case ensure subset consistency method
+Case Ensure Subset Consistency Method
 =====================================
 
 
@@ -33,5 +33,10 @@ Possible values are:
 
 **Note** 
 
-*	See also option warning ensuring case consistency.
+*	See also the option **Warning Ensuring Case Consistency**.
+
+
+**Learn more about** 
+
+*	:ref:`option-AIMMS-warning_ensuring_case_consistency` 
 

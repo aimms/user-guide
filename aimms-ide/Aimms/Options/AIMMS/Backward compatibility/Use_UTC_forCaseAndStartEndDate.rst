@@ -24,8 +24,6 @@ should be careful to feed :any:`CurrentToMoment` a local time.
 
 Possible values are:
 
-
-
-    *	Off
     *	On
+    *	Off
 

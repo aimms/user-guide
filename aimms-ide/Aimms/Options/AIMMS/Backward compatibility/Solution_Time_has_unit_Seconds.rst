@@ -3,7 +3,7 @@
 .. _option-AIMMS-solution_time_has_unit_seconds:
 
 
-Solution Time has unit Seconds
+Solution Time Has Unit Seconds
 ==============================
 
 :Type:	Selection	
@@ -12,12 +12,10 @@ Solution Time has unit Seconds
 
 
 
-This option is used to determine whether the suffix .SolutionTime has unit [seconds] or not. In AIMMS 3.8 and upwards the suffix .SolutionTime has unit [seconds] by default. In AIMMS 3.7 and earlier it has no unit. Possible values are:
+This option is used to determine whether the suffix .SolutionTime has unit [seconds] or not. In AIMMS 3.8
+and upwards the suffix .SolutionTime has unit [seconds] by default. In AIMMS 3.7 and earlier it has no unit.
+Possible values are:
 
-
-
-    *	Off
     *	On
-
-
+    *	Off
 

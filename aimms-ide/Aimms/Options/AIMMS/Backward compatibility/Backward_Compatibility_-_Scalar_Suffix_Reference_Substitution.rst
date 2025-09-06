@@ -16,8 +16,8 @@ Scalar Suffix Reference Substitution
 
 Possible values of this option are:
 
-    *	Off
     *	On
+    *	Off
 
 Consider the following declarations:
 
