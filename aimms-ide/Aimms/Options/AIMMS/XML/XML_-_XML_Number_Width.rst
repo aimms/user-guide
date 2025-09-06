@@ -9,7 +9,7 @@ XML Number Width
 
 
 :Type:	Integer	
-:Range:	{-1..32}	
+:Range:	{-1 .. 32}	
 :Default:	0	
 
 

@@ -9,7 +9,7 @@ XML Number Precision
 
 
 :Type:	Integer	
-:Range:	{0..16}	
+:Range:	{0 .. 16}	
 :Default:	5	
 
 

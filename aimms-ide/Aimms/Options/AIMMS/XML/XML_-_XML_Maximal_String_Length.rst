@@ -9,7 +9,7 @@ XML Maximal String Length
 
 
 :Type:	Integer	
-:Range:	{255..65536}	
+:Range:	{255 .. 65536}	
 :Default:	255	
 
 

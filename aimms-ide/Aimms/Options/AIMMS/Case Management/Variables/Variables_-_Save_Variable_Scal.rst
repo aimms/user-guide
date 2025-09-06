@@ -14,12 +14,8 @@ Save Variable Scales
 
 
 
-This option determines whether the scale factors of the variables as provided by the solver are saved in a case or not. Possible values are:
-
-
+This option determines whether the scale factors of the variables are saved in a case or not. Possible values are:
 
     *	Off (do not save)
     *	On (save)
-
-
 

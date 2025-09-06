@@ -14,16 +14,17 @@ Case Size Overview
 
 
 
-This option determines whether or not the size of the identifiers read in is listed to the listing file during case read provided this size exceeds the threshold specified by the option Case Size Overview Threshold. Possible values are:
+This option determines whether or not the size of the identifiers read in is listed to the listing file
+during case read provided this size exceeds the threshold specified by the option **Case Size Overview Threshold**.
+Possible values are:
 
-
-
-    *	Off
     *	On
+    *	Off
 
 
+**Learn more about** 
 
-
+*	:ref:`option-AIMMS-case_size_overview_threshold` 
 
 
 

@@ -7,10 +7,12 @@ XML Warning Empty Element
 :Range:  The settings listed below   
 :Default:    On  
 
-By default, when reading an XML file, AIMMS checks for empty elements that are assigned to a set. If the XML reader finds such an empty set element then AIMMS will generate a warning. AIMMS will not generate warnings if you switch off this option. Possible values are:
+By default, when reading an XML file, AIMMS checks for empty elements that are assigned to a set. If the
+XML reader finds such an empty set element then AIMMS will generate a warning. AIMMS will not generate
+warnings if you switch off this option. Possible values are:
 
-    *   Off
     *   On
+    *   Off
 
 **Example** 
 

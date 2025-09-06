@@ -9,7 +9,7 @@ Power_0_0
 
 
 :Type:	Integer	
-:Range:	{ -1 .. 1 }	
+:Range:	{-1 .. 1}	
 :Default:	1	
 
 

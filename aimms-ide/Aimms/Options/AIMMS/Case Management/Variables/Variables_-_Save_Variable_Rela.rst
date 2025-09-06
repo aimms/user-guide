@@ -14,12 +14,8 @@ Save Variable Relaxes
 
 
 
-This option determines whether the relax status of integer variables is saved in a case or not. Possible values are:
-
-
+This option determines whether the relax status of integer variables are saved in a case or not. Possible values are:
 
     *	Off (do not save)
     *	On (save)
-
-
 

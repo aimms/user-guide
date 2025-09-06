@@ -10,7 +10,7 @@ Database Foreign Key Handling
 
 :Type:	Selection	
 :Range:	The settings listed below	
-:Default:	check	
+:Default:	Check	
 
 
 

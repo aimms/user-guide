@@ -29,8 +29,8 @@ identifiers in a case, for better performance. Also, this setting is required if
 use the Native_Linux or Native_Windows character encodings, as controlled by the option
 **Case String Character Set**.
 
-For AIMMS projects orginally created in AIMMS 4.79 or older, that are converted to a newer
-AIMMS version, this option will be set to 'Aimms 3 14'.
+For AIMMS projects orginally created with AIMMS 4.79 or older, that are converted to a newer
+AIMMS version, this option will be set to 'Aimms 3 14' by default.
 
 
 **Remark** 

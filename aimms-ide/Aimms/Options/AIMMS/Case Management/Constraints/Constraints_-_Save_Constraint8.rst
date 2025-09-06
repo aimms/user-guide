@@ -14,12 +14,8 @@ Save Constraint Relaxation Only
 
 
 
-This option determines whether the relaxation only values of the constraints as provided by the solver are saved in a case or not. Possible values are:
-
-
+This option determines whether the relaxation only values of the constraints are saved in a case or not. Possible values are:
 
     *	Off (do not save)
     *	On (save)
-
-
 
