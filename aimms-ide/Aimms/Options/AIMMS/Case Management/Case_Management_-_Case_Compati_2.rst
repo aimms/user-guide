@@ -9,7 +9,7 @@ Case Compatibility
 
 
 :Type:	Selection	
-:Default:	'Aimms 4 80' in newly created projects; 'Aimms 3 14' for existing projects	
+:Default:	'Aimms 4 80' in newly created projects; 'Aimms 3 14' for converted old AIMMS projects	
 
 
 
@@ -29,10 +29,14 @@ identifiers in a case, for better performance. Also, this setting is required if
 use the Native_Linux or Native_Windows character encodings, as controlled by the option
 **Case String Character Set**.
 
+For AIMMS projects orginally created in AIMMS 4.79 or older, that are converted to a newer
+AIMMS version, this option will be set to 'Aimms 3 14'.
+
 
 **Remark** 
 
-We advice you to set this option to older versions only if the cases need to be compatible with older versions of AIMMS.
+We advice you to set this option to older versions only if the cases need to be compatible with
+older versions of AIMMS.
 
 
 **Learn more about** 

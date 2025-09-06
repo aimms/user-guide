@@ -8,7 +8,7 @@ Use UTC forCaseAndStartEndDate
 
 :Type:	Selection	
 :Range:	The settings listed below	
-:Default:	On in newly created projects; Off for existing projects	
+:Default:	On in newly created projects; Off for converted old AIMMS projects	
 
 
 

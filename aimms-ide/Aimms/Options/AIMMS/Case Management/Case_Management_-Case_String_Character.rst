@@ -28,8 +28,8 @@ Possible values are:
 
     *	UTF8 (produces the smallest cases)
     *	Native (for the current operating system, translates to either Native_Linux or Native_Windows)
-    *	Native_Linux (requires option **Case Compatibility** to be at set to 'Aimms 4 80')
-    *	Native_Windows (requires option **Case Compatibility** to be at set to 'Aimms 4 80')
+    *	Native_Linux (requires the option **Case Compatibility** to be at set to 'Aimms 4 80')
+    *	Native_Windows (requires the option **Case Compatibility** to be at set to 'Aimms 4 80')
 
 
 **Learn more about** 
