@@ -41,5 +41,5 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-save_data_update_definitions` 
+*	:ref:`option-AIMMS-save_data_update_definitions` 
 

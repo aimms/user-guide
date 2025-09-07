@@ -26,5 +26,5 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-case_save_defined_identifiers` 
+*	:ref:`option-AIMMS-case_save_defined_identifiers` 
 
