@@ -3,7 +3,7 @@
 .. _option-AIMMS-maximum_number_of_nodes_in_tree:
 
 
-Maximum number of nodes in tree
+Maximum Number of Nodes in Tree
 ===============================
 
 

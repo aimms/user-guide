@@ -3,7 +3,7 @@
 .. _option-AIMMS-ascii_case_character_encoding:
 
 
-Ascii case character encoding
+ASCII Case Character Encoding
 =============================
 
 
@@ -16,7 +16,7 @@ Ascii case character encoding
 
 This option determines the encoding used to decode strings stored in a case file constructed by an ASCII AIMMS 3.13 or older release. 
 
-Possible values for this option are the elements in the predeclared set ASCIICharacterEncodings.
+Possible values for this option are the elements in the predeclared set :any:`ASCIICharacterEncodings`.
 
 
 
@@ -35,7 +35,7 @@ If you converted your project from AIMMS 3.13 or older, the option value is set 
 **Learn more about** 
 
 *	:ref:`file.encoding`
-*	:any:`AllCharacterEncodings`
+*	:any:`ASCIICharacterEncodings`
 
 
 

@@ -3,7 +3,7 @@
 .. _option-AIMMS-use_iis_from_solver:
 
 
-Use IIS from solver
+Use IIS From Solver
 ===================
 
 

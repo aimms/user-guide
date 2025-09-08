@@ -17,7 +17,7 @@ This option specifies the directory in which AIMMS writes backup files of the pr
 
 
 
-The specified folder name is relative to the project folder (i.e. the folder in which the .prj file is located). In end-user situations this folder may not be writable, so then you must specify some other folder location.
+The specified folder name is relative to the project folder (i.e. the folder in which the .aimms file is located). In end-user situations this folder may not be writable, so then you must specify some other folder location.
 
 To help you in specifying a valid writable location for this folder, you can use names of environment variables in this specification.
 

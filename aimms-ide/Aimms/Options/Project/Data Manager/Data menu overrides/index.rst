@@ -1,4 +1,4 @@
-Data menu overrides
+Data Menu Overrides
 ===================
 
 .. toctree::

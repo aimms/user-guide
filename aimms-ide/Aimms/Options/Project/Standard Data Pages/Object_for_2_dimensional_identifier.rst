@@ -3,7 +3,7 @@
 .. _option-AIMMS-object_for_2_dimensional_identifier:
 
 
-Object for 2-dimensional identifier
+Object for 2-Dimensional Identifier
 ===================================
 
 :Type:	Selection	

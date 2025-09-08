@@ -3,7 +3,7 @@
 .. _option-AIMMS-case_new_procedure:
 
 
-Case new procedure
+Case New Procedure
 ==================
 
 :Type:	Name of a procedure	
@@ -16,8 +16,8 @@ With this option you can override the menu command **Data - New Case**
 If this option is not specified, AIMMS uses built-in code that does the following:
 
 
-*   check whether current data needs to be saved first,
-*   set the 'active case' to none.
+*   Check whether current data needs to be saved first,
+*   Set the 'active case' to none.
 
 
 

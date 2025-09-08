@@ -14,7 +14,7 @@ Put Translate Inf
 
 
 
-This option specifies to which number inf is translated by the PUT statement if the option **Put Translate Special Values** is set equal to "On".
+This option specifies to which number inf is translated by the PUT statement if the option **Put Translate Special Values** is set equal to 'On'.
 
 
 

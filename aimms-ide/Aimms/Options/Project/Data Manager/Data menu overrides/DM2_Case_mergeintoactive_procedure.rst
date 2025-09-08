@@ -3,7 +3,7 @@
 .. _option-AIMMS-case_mergeintoactive_procedure:
 
 
-Case mergeintoactive procedure
+Case Mergeintoactive Procedure
 ==============================
 
 :Type:	Name of a procedure	
@@ -16,9 +16,9 @@ With this option you can override the menu command **Data - Load Case - Merging 
 If this option is not specified, AIMMS uses built-in code that does the following:
 
 
-*   let the user select a case file
-*   merge the data from the selected case file with the current data (the current data will only be overwritten by the non defaults stored in the case file)
-*   the active case reference remains unchanged
+*   Let the user select a case file
+*   Merge the data from the selected case file with the current data (the current data will only be overwritten by the non defaults stored in the case file)
+*   The active case reference remains unchanged
 
 
 

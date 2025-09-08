@@ -3,7 +3,7 @@
 .. _option-AIMMS-default_data_folder:
 
 
-Default data folder
+Default Data Folder
 ===================
 
 :Type:	Name of a directory	

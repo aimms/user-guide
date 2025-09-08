@@ -3,7 +3,7 @@
 .. _option-AIMMS-default_output_character_encoding:
 
 
-Default output character encoding
+Default Output Character Encoding
 =================================
 
 
@@ -16,7 +16,7 @@ Default output character encoding
 
 This option sets the default encoding when a text file is written, for instance using PUT statements or Write to File statements.
 
-Possible values for this option are the elements in the predeclared set AllCharacterEncodings.
+Possible values for this option are the elements in the predeclared set :any:`AllCharacterEncodings`.
 
 
 

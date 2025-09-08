@@ -3,7 +3,7 @@
 .. _option-AIMMS-case_saveas_procedure:
 
 
-Case saveas procedure
+Case Saveas Procedure
 =====================
 
 :Type:	Name of a procedure	
@@ -16,14 +16,10 @@ With this option you can override the menu command **Data - Save Case As**
 If this option is not specified, AIMMS uses built-in code that does the following:
 
 
-*   let the user select the case file to save the data to,
-*   save current data to the selected case file
-
-
-*   assign the 'active case' to the selected case
-
-
-*   make current data 'clean'
+*   Let the user select the case file to save the data to,
+*   Save current data to the selected case file
+*   Assign the 'active case' to the selected case
+*   Make current data 'clean'
 
 
 

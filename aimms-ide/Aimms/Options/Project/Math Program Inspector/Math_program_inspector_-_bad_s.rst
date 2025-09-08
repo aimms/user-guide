@@ -3,7 +3,7 @@
 .. _option-AIMMS-bad_scaling_threshold:
 
 
-Bad scaling threshold
+Bad Scaling Threshold
 =====================
 
 

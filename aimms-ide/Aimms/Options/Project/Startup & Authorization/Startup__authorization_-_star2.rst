@@ -17,13 +17,13 @@ This option specifies the procedure that is executed automatically when starting
 
 If you also specify a startup case and/or a startup page, then you should know that AIMMS uses the following sequence when starting a project:
 
-1.	Compilation and running of MainInitialization
+    1.	Compilation and running of MainInitialization
 
-2.	Load the startup case (if specified)
+    2.	Load the startup case (if specified)
 
-3.	Run the startup procedure (if specified)
+    3.	Run the startup procedure (if specified)
 
-4.	Open the startup page.
+    4.	Open the startup page.
 
 
 

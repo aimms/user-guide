@@ -14,7 +14,10 @@ XML Number Width
 
 
 
-This option specifies the minimal width of the string used to represent a number exported with XML. If necessary the string will start with spaces. If this options has the value 0 the width of the string will be so that it exactly contains the number, taking into account the setting of the option XML Number Precision. If this option has the value –1 the scientific notation will always be used, taking into account the setting of the option XML Number Precision.
+This option specifies the minimal width of the string used to represent a number exported with XML. If necessary the string will start with spaces.
+If this option has the value 0, the width of the string will be so that it exactly contains the number, taking into account the setting of the option
+**XML Number Precision**. If this option has the value –1 the scientific notation will always be used, taking into account the setting of the option
+**XML Number Precision**.
 
 
 

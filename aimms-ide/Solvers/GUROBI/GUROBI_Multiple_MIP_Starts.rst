@@ -8,7 +8,7 @@ Gurobi supports multiple MIP starts; that is, a user may maintain more than one 
 
 
 
-A solution in the solution repository can be marked as a MIP start by using the AIMMS routine GMP::Solution::SetMIPStartFlag. For example, to mark the solutions 2 and 3 in the solution repository of a mathematical program 'MP' and solve the MIP use
+A solution in the solution repository can be marked as a MIP start by using the AIMMS routine :any:`GMP::Solution::SetMIPStartFlag`. For example, to mark the solutions 2 and 3 in the solution repository of a mathematical program 'MP' and solve the MIP use
 
 .. code-block:: aimms
 

@@ -3,7 +3,7 @@
 .. _option-AIMMS-show_branch_and_bound_progress:
 
 
-Show branch and bound progress
+Show Branch and Bound Progress
 ==============================
 
 

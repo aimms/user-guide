@@ -9,7 +9,7 @@ WebUI Maximum Number of Entries in Widget
 
 
 :Type:	Integer	
-:Range:	{0..1000000}	
+:Range:	{0 .. 1000000}	
 :Default:	50000
 
 

@@ -3,7 +3,7 @@
 .. _option-AIMMS-object_for_multi_dimensional_identifier:
 
 
-Object for multi-dimensional identifier
+Object for Multi-Dimensional Identifier
 =======================================
 
 :Type:	Selection	

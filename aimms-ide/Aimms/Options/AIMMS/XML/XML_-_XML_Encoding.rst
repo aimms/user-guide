@@ -18,10 +18,10 @@ When AIMMS data is written to an XML file the characters are represented by (hex
 
 
 
-*	Automatic
-*	ISO-8859-1 (European language characters 8 bit)
-*	UTF-8 (Unicode character encoding for English language characters 8 bit)
-*	UTF-16 (Unicode character encoding 16 bit)
+    *	Automatic
+    *	ISO-8859-1 (European language characters 8 bit)
+    *	UTF-8 (Unicode character encoding for English language characters 8 bit)
+    *	UTF-16 (Unicode character encoding 16 bit)
 
 
 

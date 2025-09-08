@@ -9,7 +9,7 @@ Put Number Decimals
 
 
 :Type:	Integer	
-:Range:	{0..12}	
+:Range:	{0 .. 12}	
 :Default:	3	
 
 

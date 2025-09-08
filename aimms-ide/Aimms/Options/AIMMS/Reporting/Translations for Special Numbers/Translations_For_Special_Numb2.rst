@@ -16,19 +16,12 @@ Formatstring Translate Special Values
 
 This option determines whether special values (inf, -inf, na, undf, zero) are translated by the :any:`FormatString` function or not. Possible values are:
 
-
-
-    *	Off
     *	On
+    *	Off
 
 
-
-
-If this option has the value "on", then the special values are translated according to the setting of the options **Formatstring Translate Inf**,
+If this option has the value 'On'., then the special values are translated according to the setting of the options **Formatstring Translate Inf**,
 **Formatstring Translate Mininf**, **Formatstring Translate NA**, **Formatstring Translate Undf** and **Formatstring Translate Zero**.
-
-
-
 
 
 **Learn more about** 
@@ -39,6 +32,4 @@ If this option has the value "on", then the special values are translated accord
 *	:ref:`option-AIMMS-formatstring_translate_undf`  
 *	:ref:`option-AIMMS-formatstring_translate_zero`  
 *	:any:`FormatString`
-
-
 

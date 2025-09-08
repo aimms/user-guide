@@ -3,7 +3,7 @@
 .. _option-AIMMS-enhanced_long_run_responsiveness:
 
 
-Enhanced long run responsiveness
+Enhanced Long Run Responsiveness
 ================================
 
 
@@ -37,5 +37,5 @@ Possible values are:
 
 
 
-The value 'Automatic' means that the option is set to Yes on Vista based systems, and set to No on non-Vista based systems.
+The value 'Automatic' means that the option is set to 'Yes' on Vista based systems, and set to 'No' on non-Vista based systems.
 

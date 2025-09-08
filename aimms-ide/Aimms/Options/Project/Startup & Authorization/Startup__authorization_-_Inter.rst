@@ -13,7 +13,7 @@ Interrupt Procedure
 
 
 
-This option specifies the procedure that is executed when the user tries to interrupts a procedure run via <Ctrl>-<Shift>-<S>. If you allow the end-user to interrupt the run at the current stage of the run, the procedure must return a non-zero value. If you do not specify this procedure, the end-user can interrupt the current run at any time. By specifying your own interrupt procedure you make sure that the user can only interrupt a procedure at certain stages of the execution, and thus prevent the model to be left in an undetermined state.
+This option specifies the procedure that is executed when the user tries to interrupt a procedure run via <Ctrl>+<Shift>+<S>. If you allow the end-user to interrupt the run at the current stage of the run, the procedure must return a non-zero value. If you do not specify this procedure, the end-user can interrupt the current run at any time. By specifying your own interrupt procedure you make sure that the user can only interrupt a procedure at certain stages of the execution, and thus prevent the model to be left in an undetermined state.
 
 
 

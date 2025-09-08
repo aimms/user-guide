@@ -9,7 +9,7 @@ Project Title
 
 
 :Type:	String	
-:Default:	The name of the current AIMMS version	
+:Default:	\-
 
 
 

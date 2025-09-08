@@ -3,7 +3,7 @@
 .. _option-AIMMS-external_string_character_encoding:
 
 
-External string character encoding
+External String Character Encoding
 ==================================
 
 
@@ -16,7 +16,7 @@ External string character encoding
 
 This option determines the encoding used to communicate the value of a string parameter that is the argument of an external function with the external library.
 
-Possible values for this option are the elements in the predeclared set AllCharacterEncodings.
+Possible values for this option are the elements in the predeclared set :any:`AllCharacterEncodings`.
 
 
 

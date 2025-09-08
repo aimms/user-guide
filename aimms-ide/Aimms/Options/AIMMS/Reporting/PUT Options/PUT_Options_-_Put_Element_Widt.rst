@@ -9,7 +9,7 @@ Put Element Width
 
 
 :Type:	Integer	
-:Range:	{0..32766}	
+:Range:	{0 .. 32766}	
 :Default:	12	
 
 

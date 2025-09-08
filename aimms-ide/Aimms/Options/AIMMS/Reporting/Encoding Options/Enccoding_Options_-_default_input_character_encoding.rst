@@ -3,7 +3,7 @@
 .. _option-AIMMS-default_input_character_encoding:
 
 
-Default input character encoding
+Default Input Character Encoding
 ================================
 
 
@@ -16,7 +16,7 @@ Default input character encoding
 
 This option sets the default encoding when a text file is read in.
 
-Possible values for this option are the elements in the predeclared set AllCharacterEncodings.
+Possible values for this option are the elements in the predeclared set :any:`AllCharacterEncodings`.
 
 
 

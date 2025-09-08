@@ -3,7 +3,7 @@
 .. _option-AIMMS-mpi_feasibility_tolerance:
 
 
-MPI feasibility tolerance
+MPI Feasibility Tolerance
 =========================
 
 
@@ -21,7 +21,7 @@ When determining a substructure causing infeasibility, the Math Program Inspecto
 In addition, the 'feasibility tolerance' is used to determine statistics presented by the Math Program Inspector. More specific, the 'feasibility tolerance' is used to determine whether or not
 
 *	a constraint is infeasibile, and
-*	a variable is infeasible (wrt its bounds)
+*	a variable is infeasible (with respect to its bounds)
 
 
 

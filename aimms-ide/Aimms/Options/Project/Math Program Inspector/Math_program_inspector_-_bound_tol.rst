@@ -3,7 +3,7 @@
 .. _option-AIMMS-mpi_bound_tolerance:
 
 
-MPI bound tolerance
+MPI Bound Tolerance
 ===================
 
 
@@ -17,7 +17,7 @@ MPI bound tolerance
 The Math Program Inspector reports several statistics on the math program under investigation. More specific, the 'bound tolerance' is used to determine whether or not
 
 *	a constraint is binding,
-*	a variable is at bound, and
+*	a variable is at one of its bounds, and
 *	the math program is primal degenerated
 
 

@@ -3,19 +3,21 @@
 .. _option-AIMMS-open_webui_on_startup:
 
 
-Open WebUI on startup
+Open WebUI on Startup
 =====================
 
 
 
 :Type:	Selection	
-:Range:	Either Yes or No	
+:Range:	The settings listed below	
 :Default:	No	
 
 
 
-If you set this option to Yes then AIMMS will automatically start the WebUI when starting the project.
+If you set this option to 'Yes' then AIMMS will automatically start the WebUI when starting the project. Possible values are:
 
+    *	No
+    *	Yes
 
 
 **Tips & Tricks** 

@@ -3,7 +3,7 @@
 .. _option-AIMMS-show_branch_and_bound_tree:
 
 
-Show branch and bound tree
+Show Branch and Bound Tree
 ==========================
 
 

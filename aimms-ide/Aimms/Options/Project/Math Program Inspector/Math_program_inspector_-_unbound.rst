@@ -3,7 +3,7 @@
 .. _option-AIMMS-unboundedness_analysis_bound:
 
 
-Unboundedness analysis bound
+Unboundedness Analysis Bound
 ============================
 
 

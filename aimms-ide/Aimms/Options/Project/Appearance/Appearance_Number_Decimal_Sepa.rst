@@ -10,7 +10,7 @@ Number Decimal Separator
 
 :Type:	Selection	
 :Range:	The settings listed below	
-:Default:	Period	
+:Default:	Period (0.1234)
 
 
 
@@ -18,14 +18,15 @@ This option determines in which format numbers are displayed in pages. Possible 
 
 
 
-    *	Period
-    *	Comma
+    *	Period (0.1234)
+    *	Comma (0,1234)
     *	Use regional settings of Windows
 
 
 
 
-When this option is set to "Use regional settings of Windows", then the format of numbers is determined depending on the "Decimal symbol" setting, which is a setting that can be found in the "Number" tag of the "Regional settings" in the "Windows Control Panel".
+When this option is set to 'Use regional settings of Windows', then the format of numbers is determined depending on the "Decimal symbol" setting,
+which is a setting that can be found in the "Number" tag of the "Regional settings" in the "Windows Control Panel".
 
 
 
@@ -33,7 +34,7 @@ When this option is set to "Use regional settings of Windows", then the format o
 
 **Note** 
 
-*	Only the format of numbers on pages is influenced by this option and the numbers formatted using the function FormatString with %tn, %ti, and %tf in the format string.
+*	Only the format of numbers on pages is influenced by this option and the numbers formatted using the function :any:`FormatString` with %tn, %ti, and %tf in the format string.
 
 
 

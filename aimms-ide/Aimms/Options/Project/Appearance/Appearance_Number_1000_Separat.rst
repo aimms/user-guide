@@ -26,7 +26,7 @@ This option determines in which format large numbers (>1000) are displayed in pa
 
 
 
-When this option is set to "Use regional settings of Windows", then the format of numbers is determined depending on the "Digit grouping symbol" setting, which is a setting that can be found in the "Number" tag of the "Regional settings" of the "Windows Control Panel".
+When this option is set to 'Use regional settings of Windows', then the format of numbers is determined depending on the "Digit grouping symbol" setting, which is a setting that can be found in the "Number" tag of the "Regional settings" of the "Windows Control Panel".
 
 
 
@@ -35,7 +35,5 @@ When this option is set to "Use regional settings of Windows", then the format o
 **Note** 
 
 *	If the Windows settings are used and the "Digital grouping symbol" is valued ".", then the number "1.2" is an invalid value.
-*	Only the format of numbers on pages is influenced by this option and the numbers formatted using the function FormatString with %tn, %ti, and %tf in the format string.
-
-
+*	Only the format of numbers on pages is influenced by this option and the numbers formatted using the function :any:`FormatString` with %tn, %ti, and %tf in the format string.
 

@@ -9,7 +9,7 @@ Put Number Width
 
 
 :Type:	Integer	
-:Range:	{0..20}	
+:Range:	{0 .. 20}	
 :Default:	12	
 
 
