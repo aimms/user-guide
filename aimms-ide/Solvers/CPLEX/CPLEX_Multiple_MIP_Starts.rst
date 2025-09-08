@@ -16,7 +16,7 @@ A solution in the solution repository can be marked as a MIP start by using the 
 
    GMP::Instance::Solve( gmpMP );
 
-where 'gmpMP' is an element parameter with range 'AllGeneratedMathematicalPrograms'.
+where 'gmpMP' is an element parameter with range :aimms:set:`AllGeneratedMathematicalPrograms`.
 
 Users may want CPLEX to process multiple MIP starts differently, expending more effort on some than on others. Moreover, a user may want to limit the effort CPLEX applies to MIP starts when it transforms each MIP start into a feasible solution, especially if there are many of them. In that context, the user may specify a level of effort that CPLEX should expend for each MIP start to transform it into a feasible solution. The user specifies the level of effort by using the optional argument 'effortLevel' in the AIMMS routine GMP::Solution::SetMIPStartFlag.
 
