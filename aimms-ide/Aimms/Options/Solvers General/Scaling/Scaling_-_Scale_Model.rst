@@ -86,7 +86,15 @@ will also report the scaling score after the first step.
 **Note** 
 
 *	The scaling factors will be powers of 10.
-*	Most solvers have implemented their own scaling algorithm(s). The corresponding solver specific options that control their scaling algorithm(s) have been listed in the section below.
+*	Most solvers have implemented their own scaling algorithm(s). The corresponding solver specific options that control their scaling algorithm(s) have been listed below:
+
+    *	:ref:`option-CBC-scaling` (CBC)
+    *	:ref:`option-CONOPT-scaling_method` (CONOPT)
+    *	:ref:`option-COPT-scale` (COPT)
+    *	:ref:`option-CPLEX-scale` (CPLEX)
+    *	:ref:`option-GUROBI-scale` (Gurobi)
+    *	:ref:`option-KNITRO-scaling` (Knitro)
+    *	:ref:`option-SNOPT-scale_method` (SNOPT)
 
 
 **Learn more about** 
@@ -95,11 +103,5 @@ will also report the scaling score after the first step.
 *	:ref:`option-AIMMS-list_scaling_factors` 
 *	:ref:`option-AIMMS-scaling_algorithm` 
 *	:ref:`Diagnostic-Tools_Math_Program_Inspector_Scale_Model` 
-*	:ref:`option-CBC-scaling`
-*	:ref:`option-CONOPT-scaling_method`
-*	:ref:`option-COPT-scale`
-*	:ref:`option-CPLEX-scale`
-*	:ref:`option-GUROBI-scale`
-*	:ref:`option-KNITRO-scaling`
-*	:ref:`option-SNOPT-scale_method`
+
 

@@ -30,24 +30,20 @@ The Math Program Inspector copies the original solution before it conducts an an
 
 
 
-The substructure causing infeasibility is calculated by solving a perturbation of the original problem in which slack variables are added for all constraints and for each finite variable bound. The substructure causing unboundedness is calculated by solving a perturbation of the original problem in which finite bounds are added for all variables (except the objective variable). If this option is set at its default value then the solution of the perturbated problem will be shown in the Math Program Inspector. However, the model status will be set to 'infeasible' or 'Unbounded' (or 'InfeasibleOrUnbounded') after the analysis even though the perturbated problem is normally feasible.
+The substructure causing infeasibility is calculated by solving a perturbation of the original problem in which
+slack variables are added for all constraints and for each finite variable bound. The substructure causing
+unboundedness is calculated by solving a perturbation of the original problem in which finite bounds are
+added for all variables (except the objective variable). If this option is set at its default value then the
+solution of the perturbated problem will be shown in the Math Program Inspector. However, the model status will
+be set to 'infeasible' or 'Unbounded' (or 'InfeasibleOrUnbounded') after the analysis even though the perturbated
+problem is normally feasible.
 
 
-
-
-
-The IIS is calculated by solving a sequence of problems. Also in this case the model status will be set to 'infeasible' (or 'InfeasibleOrUnbounded') after the analysis.
-
-
-
+The IIS is calculated by solving a sequence of problems. Also in this case the model status will be set to
+'infeasible' (or 'InfeasibleOrUnbounded') after the analysis.
 
 
 **Learn more about** 
 
 *	:ref:`aimmshelp26-Math_Program_Inspector` 
-
-
-
-
-
 

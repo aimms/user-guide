@@ -23,15 +23,15 @@ This option controls the algorithm used by AIMMS to scale the model before sendi
 
 The Iterative algorithm first scales the constraints and then the variables. This process is repeated during
 several iterations. This algorithm finds scaling factors for individual columns and rows. For example, if the
-model contains the variable ``X(i)``, with :math:`i` in {1,...,5}, then the scaling factor found for ``X(1)``
+model contains the variable ``X(i)``, with ``i`` in {1,...,5}, then the scaling factor found for ``X(1)``
 might be different than the one found for ``X(2)``. Only linear variables and constraints are scaled.
 
 
-The Optimization based algorithm solves an MIP model to determine the scaling factors. This algorithm is also
-used by the :ref:`Diagnostic-Tools_Math_Program_Inspector_Scale_Model` inside the Math Program Inspector. This
+The Optimization based algorithm solves an MIP model to determine the scaling factors. This
 algorithm finds scaling factors at the symbolic level, that is, it will find scaling factors for variables and
 constraints. For example, it will return the same scaling factor for all ``X(i)``, so the scaling factor for
-``X(1)`` will be equal to that of ``X(2)`` to ``X(5)``.
+``X(1)`` will be equal to that of ``X(2)`` to ``X(5)``. This algorithm is also by the
+:ref:`Diagnostic-Tools_Math_Program_Inspector_Scale_Model` action inside the Math Program Inspector.
 
 
 The Combination algorithm will first apply the Optimization based algorithm and use the scaling factors found
@@ -60,5 +60,4 @@ will be skipped. (The scaling score is explained in the help of the option **Sca
 
 *	:ref:`option-AIMMS-list_scaling_factors` 
 *	:ref:`option-AIMMS-scale_model` 
-*	:ref:`Diagnostic-Tools_Math_Program_Inspector_Scale_Model` 
-
+ 
