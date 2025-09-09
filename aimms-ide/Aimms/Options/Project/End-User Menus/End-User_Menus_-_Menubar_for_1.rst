@@ -14,7 +14,7 @@ Menubar for Progress Window
 
 
 
-With this option you can specify an alternative menubar for the progress window.
+With this option you can specify an alternative menubar for the :ref:`aimmshelp12-progress_window`.
 
 
 

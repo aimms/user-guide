@@ -14,7 +14,7 @@ Toolbar for Progress Window
 
 
 
-With this option you can specify an alternative toolbar for the progress window.
+With this option you can specify an alternative toolbar for the :ref:`aimmshelp12-progress_window`.
 
 
 

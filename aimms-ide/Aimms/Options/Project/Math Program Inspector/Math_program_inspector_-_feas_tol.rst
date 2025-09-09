@@ -36,7 +36,7 @@ In addition, the 'feasibility tolerance' is used to determine statistics present
 
 **Learn more about** 
 
-*	:ref:`aimmshelp26-Math_Program_Inspector` 
+*	:ref:`Math Program Inspector <aimmshelp26-Math_Program_Inspector>` 
 
 
 

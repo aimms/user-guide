@@ -15,9 +15,9 @@ Store Nonlinear Presolve Info
 
 
 This option determines whether AIMMS will store MPI related information during the presolve of a nonlinear model.
-Of course, this information is only available if you are solving a nonlinear model and :ref:`sec:nlp.presolve` has
-been activated. Without this option set to 'Yes', the MPI will not report any information about the presolver. This
-information includes information about bound reductions and eliminated rows and columns. Possible values are:
+Of course, this information is only available if you are solving a nonlinear model and the :ref:`AIMMS Presolver <sec:nlp.presolve>`
+has been activated. Without this option set to 'Yes', the MPI will not report any information about the presolver.
+This information includes information about bound reductions and eliminated rows and columns. Possible values are:
 
     *	No
     *	Yes
@@ -25,6 +25,6 @@ information includes information about bound reductions and eliminated rows and 
 
 **Learn more about** 
 
-*	:ref:`aimmshelp26-Math_Program_Inspector` 
+*	:ref:`Math Program Inspector <aimmshelp26-Math_Program_Inspector>` 
 *	:ref:`option-AIMMS-nonlinear_presolve` 
 

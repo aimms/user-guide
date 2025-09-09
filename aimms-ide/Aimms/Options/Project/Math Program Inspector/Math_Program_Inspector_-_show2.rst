@@ -34,7 +34,7 @@ stored. Possible values are:
 
 **Learn more about** 
 
-*	:ref:`aimmshelp26-Math_Program_Inspector` 
+*	:ref:`Math Program Inspector <aimmshelp26-Math_Program_Inspector>` 
 *	:ref:`option-CPLEX-mip_search_strategy` 
 *	:ref:`option-CPLEX-mip_display` 
 *	:ref:`option-CPLEX-mip_interval` 

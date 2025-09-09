@@ -21,9 +21,9 @@ The optional argument 'l' can be used in combination with option 't' to display 
     *** The smallest coefficient (in absolute sense) = 5.62E-009    
 
     GenerationIncidenceDetermination(London,England):
-    coefficient for variable Generation(Paris,France) is small (-7.22E-009) 
+       coefficient for variable Generation(Paris,France) is small (-7.22E-009) 
     GenerationIncidenceDetermination(Paris,France):
-    coefficient for variable Generation(Rome,Italy) is large (-1.11E+004)
+       coefficient for variable Generation(Rome,Italy) is large (-1.11E+004)
 
 Line 1 shows that 1e-8 is used for argument 'l' and 1000 for argument 'u'. 
 Line 3 shows that infomation is printed for the first constraint listing. 

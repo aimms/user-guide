@@ -30,5 +30,5 @@ This progress is displayed on the MIP Search Tree tab on the Math Program Inspec
 
 **Learn more about** 
 
-*	:ref:`aimmshelp26-Math_Program_Inspector` 
+*	:ref:`Math Program Inspector <aimmshelp26-Math_Program_Inspector>` 
 

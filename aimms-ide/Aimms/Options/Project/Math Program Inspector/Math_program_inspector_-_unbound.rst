@@ -20,7 +20,7 @@ When determining a substructure causing unboundedness, the Math Program Inspecto
 
 **Learn more about** 
 
-*	:ref:`aimmshelp26-Math_Program_Inspector`  
+*	:ref:`Math Program Inspector <aimmshelp26-Math_Program_Inspector>`  
 
 
 

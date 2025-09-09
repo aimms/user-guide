@@ -92,7 +92,7 @@ From this menubar, you can choose the following actions:
 *	:ref:`Diagnostic-Tools_AIMMS_Debugger`  
 *	:ref:`Diagnostic-Tools_AIMMS_Profiler`  
 *	:ref:`Diagnostic-Tools_Identifier_Cardinalities`  
-*	:ref:`aimmshelp26-Math_Program_Inspector` 
+*	:ref:`Math Program Inspector <aimmshelp26-Math_Program_Inspector>` 
 *	:ref:`Miscellaneous_User_Colors`  
 *	:ref:`Miscellaneous_User_Files_in_the_Project_File`  
 *	:ref:`Miscellaneous_XML`  

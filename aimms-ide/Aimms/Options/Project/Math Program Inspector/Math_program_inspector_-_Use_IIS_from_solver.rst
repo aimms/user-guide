@@ -42,13 +42,13 @@ be selected in the Math Program Inspector before the action Irreducible Inconsis
 
 **Note** 
 
-*	The IIS calculated by the AIMMS' algorithm calculates the IIS for the relaxed model in which the integer variables are made continuous. If this relaxed model is feasible then the IIS will not be available.
+*	The IIS calculated by the AIMMS algorithm calculates the IIS for the relaxed model in which the integer variables are made continuous. If this relaxed model is feasible then the IIS will not be available.
 *	The algorithm for calculating the IIS and implemented in AIMMS is described in `The User’s Guide <https://documentation.aimms.com/user-guide/creating-and-managing-a-model/the-math-program-inspector/functional-overview.html#performing-analysis-to-find-causes-of-problems>`_.
-*	The solver :ref:`SolverCBC` cannot calculate an IIS itself. Therefore the AIMMS' algorithm will always be used for CBC even if this option is set to 'Yes'.
+*	The solver :ref:`SolverCBC` cannot calculate an IIS itself. Therefore the AIMMS algorithm will always be used for CBC even if this option is set to 'Yes'.
 *	For an infeasible model, the IIS calculated by the solver will be the same as the one which is calculated if the option **Infeasibility Finder**  is switched on.
 
 
 **Learn more about** 
 
-*	:ref:`aimmshelp26-Math_Program_Inspector` 
-*	:ref:`option-AIMMS-infeasibility_finder` 
+*	:ref:`Math Program Inspector <aimmshelp26-Math_Program_Inspector>`
+*	:ref:`option-AIMMS-infeasibility_finder`

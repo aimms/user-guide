@@ -14,7 +14,7 @@ Toolbar for Message Window
 
 
 
-With this option you can specify an alternative toolbar for the message window.
+With this option you can specify an alternative toolbar for the :ref:`aimmshelp13-Messages_Window`.
 
 
 
