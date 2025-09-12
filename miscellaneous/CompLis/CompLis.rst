@@ -95,7 +95,7 @@ of variable 'Generation(Paris,France)' is 30 in the first file and -1e20 in the 
 level value of variable 'Generation(Rome,Italy)' is 10 in the first file and 2 in the second file.
 
 
-If CompLis would conclude that both files contain the same constraint listing(s) then the output file would contain:
+If CompLis would conclude that both files contain the same constraint listing(s) then the output file would be:
 
 .. code-block:: text
    :linenos:

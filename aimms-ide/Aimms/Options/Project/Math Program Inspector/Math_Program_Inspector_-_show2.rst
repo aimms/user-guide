@@ -23,6 +23,9 @@ stored. Possible values are:
     *	Yes
 
 
+The number of nodes shown in the MIP Search Tree is limited by the option **Maximum Number of Nodes in Tree**.
+
+
 **Note** 
 
 *	The MIP Search Tree is only available for CPLEX if the CPLEX option **MIP Search Strategy** is set to 'Apply branch-and-cut'.
@@ -35,6 +38,7 @@ stored. Possible values are:
 **Learn more about** 
 
 *	:ref:`Math Program Inspector <aimmshelp26-Math_Program_Inspector>` 
+*	:ref:`option-AIMMS-maximum_number_of_nodes_in_tree` 
 *	:ref:`option-CPLEX-mip_search_strategy` 
 *	:ref:`option-CPLEX-mip_display` 
 *	:ref:`option-CPLEX-mip_interval` 
