@@ -47,12 +47,13 @@ Such a problem is known as quadratic program or QP if the constraints are linear
 and it is known as quadratically constrained program or QCP if some of the constraints are quadratic. 
 Gurobi can also handle QP and QCP problems in which some or all variables must be integer. 
 Such problems are called mixed integer quadratic programs (MIQP) and mixed integer quadratically constrained programs (MIQCP) respectively. 
-Gurobi can also be used for some types of second-order cone constraints, and it can be used to solve programs with a non-convex quadratic objective and/or non-convex quadratic constraints; see the section about :ref:`GUROBI_Quadratic_Programs`.
+Gurobi can also be used for some types of second-order cone constraints, and it can be used to solve programs with a non-convex quadratic objective and/or
+non-convex quadratic constraints; see the section about :ref:`GUROBI_Quadratic_Programs`.
 
-Gurobi can also handle problems in which the objective function and/or some or all of the constraints are nonlinear. It can handle nonlinear problems using continuous variables only (NLP) and nonlinear problems in which some or all variables must be integer (MINLP). Both problem types are solved to global optimality using a branch-and-bound algorithm. (Note: for some models both QCP and NLP are fitting model types, e.g., if the model only contains quadratic constraints and a linear objective. In that case the methods used by Gurobi for solving the model as QCP or NLP will be different.)
-
-Gurobi is equipped with parameters that influence the performance of Gurobi. AIMMS is equipped with options that set the parameters in Gurobi.
-Options in AIMMS can be set in the options dialog box.
+Gurobi can also handle problems in which the objective function and/or some or all of the constraints are nonlinear. It can handle nonlinear problems using
+continuous variables only (NLP) and nonlinear problems in which some or all variables must be integer (MINLP). Both problem types are solved to global
+optimality using a branch-and-bound algorithm. (Note: for some models both QCP and NLP are fitting model types, e.g., if the model only contains quadratic
+constraints and a linear objective. In that case the methods used by Gurobi for solving the model as QCP or NLP will be different.)
 
 Gurobi can perform a minimum-cost relaxation in order to make an infeasible model feasible. 
 More information about relaxing infeasible models can be found in the section :ref:`GUROBI_FeasRelax_Feasibility_Relaxation`.
@@ -64,8 +65,23 @@ MIP starts and Hints can also be used for NLP and MINLP.
 
 Gurobi can generate multiple solutions to a MIP problem. This is described in the section :ref:`GUROBI_Solution_Pool`.
 
-Gurobi supports the :ref:`GUROBI_Tuning_Tool`, a utility to aid you in improving the performance of your optimization applications, analyzes a model or a group of models and suggests a suite of option settings for you to use that provide better performance than the default option settings for your model or group of models.
 
+**Options** 
+
+Gurobi is equipped with parameters that influence the performance of Gurobi. AIMMS is equipped with options that set the parameters in Gurobi.
+Options in AIMMS can be set in the options dialog box.
+
+A few options that control the termination of the solving process can be modified from within a callback within Gurobi (version 12.0
+or higher), using the procedure :any:`GMP::SolverSession::SetOptionValue`. These options are:
+
+    -	:ref:`option-AIMMS-time_limit`
+    -	:ref:`option-GUROBI-barrier_iteration_limit`
+    -	:ref:`option-GUROBI-feasibility_pump_passes`
+    -	:ref:`option-GUROBI-node_limit`
+    -	:ref:`option-GUROBI-work_limit`
+
+Gurobi supports the :ref:`GUROBI_Tuning_Tool`, a utility to aid you in improving the performance of your optimization applications, analyzes a model or
+a group of models and suggests a suite of option settings for you to use that provide better performance than the default option settings for your model or group of models.
 
 
 **Parallel Gurobi** 

@@ -15,4 +15,7 @@ Barrier Iteration Limit
 This option limits the number of barrier iterations performed.
 
 
+**Note** 
+
+*	This option can be modified from within a callback within Gurobi (version 12.0 or higher) using the procedure :any:`GMP::SolverSession::SetOptionValue`.
 
