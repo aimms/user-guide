@@ -7,6 +7,7 @@ Gurobi
     GUROBI
     GUROBI_to_AIMMS_Mapping
     AIMMS_to_GUROBI_Mapping
+    GUROBI_Callback_Settable_Options
     GUROBI_FeasRelax_Feasibility_Relaxation
     GUROBI_Hints
     GUROBI_Indicator_Constraints
