@@ -15,7 +15,8 @@ but it won't necessarily be pulled in if another lazy constraint also cuts off t
 With a value of 2, all lazy constraints that are violated by a feasible solution will be pulled into the model.
 With a value of 3, lazy constraints that cut off the relaxation solution at the root node are also pulled in.
 
-This option sets the mode for all lazy constraints, but the mode can be overwritten for individual rows by using the procedures GMP::Row::SetPoolType and GMP::Row::SetPoolTypeMulti.
+This option sets the mode for all lazy constraints, but the mode can be overwritten for individual rows by using the
+procedures :any:`GMP::Row::SetPoolType` and :any:`GMP::Row::SetPoolTypeMulti`.
 
 **Learn more about** 
 

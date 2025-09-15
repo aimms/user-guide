@@ -25,8 +25,8 @@ that begins with the hash sign (#) is a comment line and is ignored. The followi
 .. code-block:: text
 
     # Parameter settings
-    Cuts     2
-    Heuristics 0.5
+    Cuts          2
+    Heuristics  0.5
 
 
 **Multi-objective optimization** 
