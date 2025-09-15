@@ -13,7 +13,7 @@ MPS Dual
 
 
 This option can be used to generate a model file with the dual formulation of the loaded LP model. The model file can be in MPS or LP format.
-The generated files are named gur*ddddd*.dua or gur*ddddd*.dlp, where *ddddd* denotes a 5 digits sequence number. Possible values are:
+The generated files are named gur\ *ddddd*\ .dua or gur\ *ddddd*\ .dlp, where *ddddd* denotes a 5 digits sequence number. Possible values are:
 
     *	Never
     *	At the first solve (MPS format)

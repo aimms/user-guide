@@ -21,7 +21,7 @@ to generate the necessary restart information and to restart the solver. Possibl
     *	Yes (restart)
 
 
-Restart files are named gur*ddddd*.mst (MIP start file) for MIP and gur*ddddd*.bas (basis file) for LP. The number *ddddd* represents the current value of
+Restart files are named gur\ *ddddd*\ .mst (MIP start file) for MIP and gur\ *ddddd*\ .bas (basis file) for LP. The number *ddddd* represents the current value of
 the option **Restart File Number**.
 
 When this option is set to 'Yes' then Gurobi will restart a problem if the restart file exists. In that case the restart file is loaded just before the solve.
