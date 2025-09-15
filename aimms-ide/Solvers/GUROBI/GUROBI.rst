@@ -71,14 +71,7 @@ Gurobi can generate multiple solutions to a MIP problem. This is described in th
 Gurobi is equipped with parameters that influence the performance of Gurobi. AIMMS is equipped with options that set the parameters in Gurobi.
 Options in AIMMS can be set in the options dialog box.
 
-A few options that control the termination of the solving process can be modified from within a callback within Gurobi (version 12.0
-or higher), using the procedure :any:`GMP::SolverSession::SetOptionValue`. These options are:
-
-    -	:ref:`option-AIMMS-time_limit`
-    -	:ref:`option-GUROBI-barrier_iteration_limit`
-    -	:ref:`option-GUROBI-feasibility_pump_passes`
-    -	:ref:`option-GUROBI-node_limit`
-    -	:ref:`option-GUROBI-work_limit`
+A few options that control the termination of the solving process can be modified from within a callback within Gurobi; see the section :ref:`GUROBI_Callback_Settable_Options`.
 
 Gurobi supports the :ref:`GUROBI_Tuning_Tool`, a utility to aid you in improving the performance of your optimization applications, analyzes a model or
 a group of models and suggests a suite of option settings for you to use that provide better performance than the default option settings for your model or group of models.
@@ -114,6 +107,7 @@ Gurobi requires that your computer's CPU supports SSE2. SSE2 was first introduce
 *	:ref:`GUROBI_to_AIMMS_Mapping`  
 *	:ref:`AIMMS_to_GUROBI_Mapping`  
 *	:ref:`Options_AIMMS_Execution_Options`  
+*	:ref:`GUROBI_Callback_Settable_Options` 
 *	:ref:`GUROBI_FeasRelax_Feasibility_Relaxation` 
 *	:ref:`GUROBI_Hints` 
 *	:ref:`GUROBI_Indicator_Constraints` 
