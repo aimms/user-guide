@@ -12,5 +12,6 @@ RINS Heuristic Frequency
 
 
 
-This option set the frequency of the RINS heuristic. The default value of -1 chooses automatically. A value of 0 shuts off RINS. A positive value n applies RINS at every n-th node of the MIP search tree.
+This option set the frequency of the RINS heuristic. The default value of -1 chooses automatically. A value of 0 shuts
+off RINS. A positive value *n* applies RINS at every *n*-th node of the MIP search tree.
 

@@ -12,7 +12,7 @@ Work Limit
 
 
 
-This option limits the total work expended (in work units). Optimization returns with a ResourceInterrupt solver status if the limit is exceeded.
+This option limits the total work expended (in work units). Optimization returns with a ``ResourceInterrupt`` solver status if the limit is exceeded.
 
 
 In contrast to a time limit, work limits are deterministic. This means that on the same hardware and with the same option settings, a work limit

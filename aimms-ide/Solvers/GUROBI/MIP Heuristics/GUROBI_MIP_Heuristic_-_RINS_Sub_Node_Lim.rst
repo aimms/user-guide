@@ -12,7 +12,6 @@ RINS Sub MIP Node Limit
 
 
 
-This option limits the number of nodes explored by the relaxation induced neighborhood search (RINS) heuristic. Exploring more nodes can produce better solutions, but it generally takes longer.
-
-
+This option limits the number of nodes explored by the relaxation induced neighborhood search (RINS) heuristic. Exploring more
+nodes can produce better solutions, but it generally takes longer.
 

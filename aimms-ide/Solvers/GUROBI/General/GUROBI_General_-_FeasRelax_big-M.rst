@@ -12,8 +12,8 @@ FeasRelax Big M
 
 
 
-When relaxing a constraint in a feasibility relaxation, it is sometimes necessary to introduce a big-M value. This option determines the default magnitude of that value.
-
+When relaxing a constraint in a feasibility relaxation, it is sometimes necessary to introduce a Big M value. This option determines
+the default magnitude of that value.
 
 
 **Learn more about** 

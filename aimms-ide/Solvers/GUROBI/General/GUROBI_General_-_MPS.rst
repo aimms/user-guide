@@ -12,9 +12,8 @@ MPS
 
 
 
-This option can be used to generate a model file of the loaded model. The model file can be in MPS or LP format. The generated files are named gurddddd.mps or gurddddd.lp, where ddddd denotes a 5 digits sequence number. Possible values are:
-
-
+This option can be used to generate a model file of the loaded model. The model file can be in MPS or LP format. The generated files
+are named gur\ *ddddd*\ .mps or gur\ *ddddd*\ .lp, where *ddddd* denotes a 5 digits sequence number. Possible values are:
 
     *	Never
     *	At the first solve (MPS format)
@@ -23,18 +22,12 @@ This option can be used to generate a model file of the loaded model. The model 
     *	At every solve (LP format)
 
 
-
-
 **Note** 
 
-*	By setting the option **Restart**  to "Before" a corresponding MIP start file or basis file can be written.
-
-
+*	By setting the option **Restart** to 'Before' a corresponding MIP start file or basis file can be written.
 
 
 **Learn more about** 
 
 *	:ref:`option-GUROBI-restart` 
-
-
 
