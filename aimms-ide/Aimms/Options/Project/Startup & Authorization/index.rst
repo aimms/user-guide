@@ -8,6 +8,7 @@ Startup & Authorization
     Startup__authorization_-_Star1
     Startup__authorization_-_star2
     Startup__authorization_-_Star3
+	appearance-in-enduser
     Startup_Open_WebUI_on_startup
     Startup__authorization_-_Logon
     Startup__authorization_-_Logof
