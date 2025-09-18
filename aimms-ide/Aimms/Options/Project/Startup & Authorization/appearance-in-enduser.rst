@@ -17,7 +17,7 @@ This option determines how the AIMMS window appears when an application is start
 you probably only want to see the WebUI itself in the browser and not the AIMMS window as well.
 
     *	Normal
-	*	Minimized
+    *	Minimized
     *	Hidden
 
 
