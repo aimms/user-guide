@@ -36,3 +36,12 @@ Currently, the old generator will always be used:
 *	If one of the constraint or variable definitions contains a (rare) expression that is not yet supported by the new compiler.
 
 
+**Note** 
+
+*	In some cases the new generator handles frozen variables differently compared to the old generator. If the options **Equal Bounds Imply Nonvar** and **Move Nonvar Level Within Bounds** are switched on then the new generator behaves more like the old generator.
+
+
+**Learn more about** 
+
+*	:ref:`option-AIMMS-equal_bounds_imply_nonvar`
+*	:ref:`option-AIMMS-move_nonvar_level_within_bounds`
