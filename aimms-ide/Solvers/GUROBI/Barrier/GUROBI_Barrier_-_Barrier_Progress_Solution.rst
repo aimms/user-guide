@@ -17,6 +17,8 @@ This option controls the progress reports during the solution process if the bar
 current status, the best value found, etc. Possible values are: 
 
 .. list-table::
+  :width: 60 %
+  :widths: 20 80
 
    * - 0
      - Do not report progress

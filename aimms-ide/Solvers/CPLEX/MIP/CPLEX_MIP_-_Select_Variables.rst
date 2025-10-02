@@ -33,6 +33,6 @@ Pseudo costs causes variable selection based on pseudo-costs which are derived f
 Strong branching causes variable selection based on partially solving a number of subproblems which tentative
 branches to see which branch is the most promising. This strategy can be effective on large, difficult MIP problems.
 
-Pseudo-reduced costs are a computationally less intensive form of pseudo costs. The
-default value allows CPLEX to select the best rule based on the problem and its progress. 
+Pseudo-reduced costs are a computationally less intensive form of pseudo costs.
 
+The default value allows CPLEX to select the best rule based on the problem and its progress. 

@@ -22,12 +22,12 @@ Possible values of this option are:
 Assume the values returned for the constraints are stored in an array :math:`y[]` which has the following interpretation.
 For the *i*\ -th constraint, if that constraint is a less-than-or-equal-to constraint, :math:`y[i] \leq 0` holds; if that
 constraint is a greater-than-or-equal-to constraint, :math:`y[i] \geq 0` holds. Thus, where :math:`b` is the right-hand-side
-vector for the given linear program, :math:`A` is the constraint matrix, and x denotes the vector of variables, :math:`y`
-may be used to derive the following valid inequality:
+vector for the given linear program, :math:`A` is the constraint matrix, and :math:`x` denotes the vector of variables,
+:math:`y` may be used to derive the following valid inequality:
 
 .. math::
 
-   y^TA x >\geq y^Tb
+   y^TA x \geq y^Tb
 
 
 Here :math:`y` is being interpreted as a column vector, and math:`y^T` denotes the transpose of :math:`y`. The real point of
@@ -36,8 +36,8 @@ and having the following value for entries
 
 .. math::
 
-   z_j = u_j \quad \text{where} y^TA_j > 0, \text{and}
-   z_j = l_j \quad \text{where} y^TA_j < 0,
+   z_j = u_j \quad \text{where } & y^TA_j > 0, \text{and} \\
+   z_j = l_j \quad \text{where } & y^TA_j < 0,
 
 
 where :math:`A_j` denotes the column of :math:`A` corresponding to :math:`x_j`, :math:`u_j` the given upper bound on :math:`x_j`,

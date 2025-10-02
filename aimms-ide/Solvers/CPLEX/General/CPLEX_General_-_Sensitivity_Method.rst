@@ -16,8 +16,8 @@ This option specifies which method is used by CPLEX for solving LP problems whil
 
     *	Primal simplex
     *	Dual simplex
-    *	Network + Primal (network followed by primal simplex)
-    *	Network + Dual (network followed by dual simplex)
+    *	Network + Primal (*network followed by primal simplex*)
+    *	Network + Dual (*network followed by dual simplex*)
     *	Barrier
     *	Sifting
     *	Concurrent

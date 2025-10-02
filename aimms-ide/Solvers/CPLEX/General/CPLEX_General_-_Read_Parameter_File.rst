@@ -30,8 +30,8 @@ own line. Any line that begins with the hash sign (#) is a comment line and is i
 .. code-block:: text
 
    CPLEX Parameter File Version 22.1.0.0
-   CPX_PARAM_PERIND    1
-   CPX_PARAM_EPPER     3.45000000000000e-06
+   CPX_PARAM_PERIND     1
+   CPX_PARAM_EPPER      3.45000000000000e-06
    CPX_PARAM_STARTALG   2
 
 

@@ -18,6 +18,8 @@ infeasible MIP start. This option has no effect if the MIP start you supplied is
 if no MIP start was supplied. Possible values are:
 
 .. list-table::
+  :width: 60 %
+  :widths: 30 70
 
    * - -1
      - None: do not try to repair
