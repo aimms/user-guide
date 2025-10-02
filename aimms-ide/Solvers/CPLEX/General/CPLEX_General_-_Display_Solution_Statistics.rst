@@ -33,15 +33,15 @@ For LP and QP problems that are solved using the simplex algorithm (or the sifti
 and unscaled, are printed:
 
 
-#.  `:ref:`maximum bound infeasibility <BoundInf>`
-#.  `:ref:`maximum reduced-cost infeasibility <RedCostInf>`
-#.  `:ref:`maximum constraint residual <ConstrResi>`
-#.  `:ref:`maximum dual residual <DualResi>`
-#.  `:ref:`maximum of absolute values of all (primal) variables <AbsVarVal>`
-#.  `:ref:`maximum of absolute values of all slack variables <AbsVarVal>`
-#.  `:ref:`maximum of absolute values of all dual variables <AbsVarVal>`
-#.  `:ref:`maximum of absolute values of all reduced costs <AbsVarVal>`
-#.  `:ref:`basis condition number <BasisCondNumber>`  (unscaled only)
+#.  :ref:`maximum bound infeasibility <BoundInf>`
+#.  :ref:`maximum reduced-cost infeasibility <RedCostInf>`
+#.  :ref:`maximum constraint residual <ConstrResi>`
+#.  :ref:`maximum dual residual <DualResi>`
+#.  :ref:`maximum of absolute values of all (primal) variables <AbsVarVal>`
+#.  :ref:`maximum of absolute values of all slack variables <AbsVarVal>`
+#.  :ref:`maximum of absolute values of all dual variables <AbsVarVal>`
+#.  :ref:`maximum of absolute values of all reduced costs <AbsVarVal>`
+#.  :ref:`basis condition number <BasisCondNumber>`  (unscaled only)
 
 
 Note: The basis condition number will not be calculated it the option **Memory Emphasis** is switched on.
@@ -50,25 +50,25 @@ Note: The basis condition number will not be calculated it the option **Memory E
 For LP and QP problems that are solved using the barrier algorithm, the following statistics are printed:
 
 
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` .
+#.  :ref:`duality gap <DualityGap>`
+#.  :ref:`total of variable and constraint complementarity <Complementarity>`
+#.  :ref:`total and maximum of absolute values of all (primal) variables <AbsVarVal>`
+#.  :ref:`total and maximum of absolute values of all reduced costs <AbsVarVal>`
+#.  :ref:`total and maximum error in satisfying primal equality constraints <ConstrResi>`
+#.  :ref:`total and maximum error in satisfying dual equality constraints <DualResi>`
+#.  :ref:`total and maximum error in satisfying primal lower and upper bound constraints <ConstrResi>`
+#.  :ref:`total and maximum violation in slack variables <ConstrResi>`
 
 
 For MIP and MIQP problems the following statistics are printed:
 
 
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics`  (if indicator constraints are present).
+#.  :ref:`total and maximum of absolute values of all variables <AbsVarVal>`
+#.  :ref:`total and maximum of all equality constraint residuals <ConstrResi>`
+#.  :ref:`total and maximum of all bound infeasibilities <BoundInf>`
+#.  :ref:`total and maximum of all integer infeasibilities <IntInf>`
+#.  :ref:`total and maximum bound violation of slack variables <ConstrResi>`
+#.  :ref:`total and maximum violation in slack variables in indicator constraints <ConstrResi>`  (if indicator constraints are present).
 
 
 Note: Statistic nr. 5 reports bound violations of slack variables. A bound violation of a slack variable implies an infeasibility
@@ -78,14 +78,14 @@ in the corresponding constraint.
 For QCP and MIQCP problems the following statistics are printed:
 
 
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics`  (only MIQCP);
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics`  (if indicator constraints are present).
+#.  :ref:`total and maximum of absolute values of all variables <AbsVarVal>`
+#.  :ref:`total and maximum of all equality constraint residuals <ConstrResi>`
+#.  :ref:`total and maximum of all (unscaled) quadratic constraint residuals <ConstrResi>`
+#.  :ref:`total and maximum of all bound infeasibilities <BoundInf>`
+#.  :ref:`total and maximum of all integer infeasibilities <IntInf>`  (only MIQCP);
+#.  :ref:`total and maximum bound violation of slack variables <ConstrResi>`
+#.  :ref:`total and maximum violation in slack variables in quadratic constraints <ConstrResi>`
+#.  :ref:`total and maximum violation in slack variables in indicator constraints <ConstrResi>`  (if indicator constraints are present).
 
 
 Note: Statistic nr. 6 reports bound violations of slack variables. A bound violation of a slack variable implies an infeasibility
