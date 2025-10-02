@@ -33,29 +33,21 @@ For LP and QP problems that are solved using the simplex algorithm (or the sifti
 and unscaled, are printed:
 
 
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics` ;
-#.  :ref:`option-CPLEX-display_solution_statistics`  (unscaled only).
+#.  `:ref:`maximum bound infeasibility <BoundInf>`
+#.  `:ref:`maximum reduced-cost infeasibility <RedCostInf>`
+#.  `:ref:`maximum constraint residual <ConstrResi>`
+#.  `:ref:`maximum dual residual <DualResi>`
+#.  `:ref:`maximum of absolute values of all (primal) variables <AbsVarVal>`
+#.  `:ref:`maximum of absolute values of all slack variables <AbsVarVal>`
+#.  `:ref:`maximum of absolute values of all dual variables <AbsVarVal>`
+#.  `:ref:`maximum of absolute values of all reduced costs <AbsVarVal>`
+#.  `:ref:`basis condition number <BasisCondNumber>`  (unscaled only)
 
 
-
-
-Note: The basis condition number will not be calculated it the option **Memory Emphasis**  is switched on.
-
-
-
+Note: The basis condition number will not be calculated it the option **Memory Emphasis** is switched on.
 
 
 For LP and QP problems that are solved using the barrier algorithm, the following statistics are printed:
-
-
-
 
 
 #.  :ref:`option-CPLEX-display_solution_statistics` ;
@@ -68,12 +60,7 @@ For LP and QP problems that are solved using the barrier algorithm, the followin
 #.  :ref:`option-CPLEX-display_solution_statistics` .
 
 
-
-
 For MIP and MIQP problems the following statistics are printed:
-
-
-
 
 
 #.  :ref:`option-CPLEX-display_solution_statistics` ;
@@ -84,18 +71,11 @@ For MIP and MIQP problems the following statistics are printed:
 #.  :ref:`option-CPLEX-display_solution_statistics`  (if indicator constraints are present).
 
 
-
-
-Note: Statistic nr. 5 reports bound violations of slack variables. A bound violation of a slack variable implies an infeasibility in the corresponding constraint.
-
-
-
+Note: Statistic nr. 5 reports bound violations of slack variables. A bound violation of a slack variable implies an infeasibility
+in the corresponding constraint.
 
 
 For QCP and MIQCP problems the following statistics are printed:
-
-
-
 
 
 #.  :ref:`option-CPLEX-display_solution_statistics` ;
@@ -108,82 +88,60 @@ For QCP and MIQCP problems the following statistics are printed:
 #.  :ref:`option-CPLEX-display_solution_statistics`  (if indicator constraints are present).
 
 
-
-
-Note: Statistic nr. 6 reports bound violations of slack variables. A bound violation of a slack variable implies an infeasibility in the corresponding constraint.
-
-
-
+Note: Statistic nr. 6 reports bound violations of slack variables. A bound violation of a slack variable implies an infeasibility
+in the corresponding constraint.
 
 
 Below the statistics are discussed in more detail.
 
 
-
-
-
-
-
+.. _BoundInf:
 
 **Bound Infeasibility: Identifying Largest Bound Violation** 
 
+The maximum bound infeasibility identifies the largest bound violation. This information may help you discover the cause of infeasibility
+in your problem. If the largest bound violation exceeds the feasibility tolerance of your problem by only a small amount, then you may be
+able to get a feasible solution to the problem by increasing the option **Feasibility** for feasibility tolerance. Its range is between
+1e-9 and 0.1. Its default value is 1e-6. 
 
 
-
-
-The maximum bound infeasibility identifies the largest bound violation. This information may help you discover the cause of infeasibility in your problem. If the largest bound violation exceeds the feasibility tolerance of your problem by only a small amount, then you may be able to get a feasible solution to the problem by increasing the option **Feasibility**  for feasibility tolerance. Its range is between 1e-9 and 0.1. Its default value is 1e-6. 
-
-
-
-
+.. _RedCostInf:
 
 **Reduced-Cost Infeasibility** 
 
-
-
-
-
-The maximum reduced-cost infeasibility identifies a value for the optimality tolerance that would cause CPLEX to perform additional iterations. It refers to the infeasibility in the dual slack associated with reduced costs. Whether CPLEX terminated with an optimal or infeasible solution, if the maximum reduced-cost infeasibility is only slightly smaller in absolute value than the optimality tolerance, then solving the problem with a smaller optimality tolerance may result in an improvement in the objective function. 
-
-
-
+The maximum reduced-cost infeasibility identifies a value for the optimality tolerance that would cause CPLEX to perform additional
+iterations. It refers to the infeasibility in the dual slack associated with reduced costs. Whether CPLEX terminated with an optimal or
+infeasible solution, if the maximum reduced-cost infeasibility is only slightly smaller in absolute value than the optimality tolerance,
+then solving the problem with a smaller optimality tolerance may result in an improvement in the objective function. 
 
 
 To change the optimality tolerance, set the option **Optimality**. 
 
 
-
-
+.. _ConstrResi:
 
 **Constraint Residual / Slack Bound Violation** 
 
-
-
-
-
-The maximum constraint residual identifies the maximum constraint violation. CPLEX simplex optimizers control these residuals only indirectly by applying numerically sound methods to solve the given linear system. When CPLEX terminates with an infeasible solution, all infeasibilities will appear as bound violations on structural or slack variables, not constraint violations. The maximum constraint residual may help you decide whether a model of your problem is poorly scaled, or whether the final basis (whether it is optimal or infeasible) is ill-conditioned.
-
-
-
+The maximum constraint residual identifies the maximum constraint violation. CPLEX simplex optimizers control these residuals only
+indirectly by applying numerically sound methods to solve the given linear system. When CPLEX terminates with an infeasible solution,
+all infeasibilities will appear as bound violations on structural or slack variables, not constraint violations. The maximum constraint
+residual may help you decide whether a model of your problem is poorly scaled, or whether the final basis (whether it is optimal or
+infeasible) is ill-conditioned.
 
 
 Normally CPLEX reports infeasibilities in the constraints as bound violations of the corresponding slack variables.
 
 
-
-
+.. _DualResi:
 
 **Dual Residual** 
 
+The maximum dual residual indicates the numeric accuracy of the reduced costs in the current solution. By construction, in exact arithmetic,
+the dual residual of a basic solution is always 0 (zero). A nonzero value is thus the effect of round-off error due to finite-precision
+arithmetic in the computation of the dual solution vector. Thus, a significant nonzero value indicates ill conditioning. 
 
 
-
-
-The maximum dual residual indicates the numeric accuracy of the reduced costs in the current solution. By construction, in exact arithmetic, the dual residual of a basic solution is always 0 (zero). A nonzero value is thus the effect of round-off error due to finite-precision arithmetic in the computation of the dual solution vector. Thus, a significant nonzero value indicates ill conditioning. 
-
-
-
-
+.. _AbsVarVal:
 
 **Absolute Variable Values: Detecting Ill-Conditioned Problems** 
 
@@ -197,6 +155,8 @@ When you are trying to decide whether your problem is ill-conditioned, you also 
 If one of these values is very large (above 1e6) then this is an indication that the model might be numerical instable.
 
 
+.. _BasisCondNumber:
+
 **Basis Condition Number** 
 
 The basis condition number ("Kappa") can be used to measure the sensitivity of a linear problem to the problem data. You might also
@@ -208,6 +168,8 @@ accuracy in double precision, only three accurate places are left in such a solu
 the first three significant digits are reliable.
 
 
+.. _IntInf:
+
 **Integer Infeasibility** 
 
 The integer infeasibility measures the difference between the solution value of an integer variable and the nearest integer value.
@@ -215,10 +177,14 @@ Ideally this difference is 0, however by default a small deviation is allowed, a
 range of this option is between 0.0 and 0.5. Its default value is 1e-5.
 
 
+.. _DualityGap:
+
 **Duality Gap** 
 
 The duality gap measures the difference between the primal and dual objective.
 
+
+.. _Complementarity:
 
 **Complementarity** 
 

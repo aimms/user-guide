@@ -13,10 +13,10 @@ Warning Move Frozen into Bounds
 :Default:	Common_warning_default	
 
 This option determines what happens to the .level value of a frozen variable if this value is currently outside the bounds of the variable.
-Only when set to Error the .level value will not be changed. For all other settings the .level value  will be changed to the value of the closest
+Only when set to 'Error' the .level value will not be changed. For all other settings the .level value  will be changed to the value of the closest
 bound, and an optional warning message is triggered.
 
-This option is no longer valid for the new mathematical program generator. This new generator uses the option 'move_nonvar_level_within_bounds' and
+This option is no longer valid for the new mathematical program generator. This new generator uses the option **Move Nonvar Level Within Bounds** and
 will act according to that option without any error or warning message.
 
 .. list-table::
@@ -40,6 +40,8 @@ will act according to that option without any error or warning message.
    * - *	Warning_in_develop_else_off
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
+
+**Learn more about** 
 
 *	:ref:`option-AIMMS-move_nonvar_level_within_bounds` 
 *	:ref:`option-AIMMS-common_warning_default` 
