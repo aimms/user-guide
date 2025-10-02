@@ -32,6 +32,7 @@ ignored if dynamic search is used.
 
 
 .. list-table:: Interaction of callbacks with search strategy
+   :header-rows: 1
 
    * - **MIP search strategy** 
      - **No callbacks**
@@ -63,6 +64,7 @@ denotes the number of available processors.
 
 
 .. list-table:: Number of threads used by default for combinations of callbacks and search strategy
+   :header-rows: 1
 
    * - **MIP search strategy** 
      - **No callbacks**
