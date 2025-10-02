@@ -12,7 +12,7 @@ A lexicographic objective assumes that the objectives can be ranked in order of 
 lexicographically better than another solution if it is better in the first objective where they differ (following
 the order). For a minimization problem, an optimal solution is one that is lexicographically minimal.
 
-A variable can be specified as a multi-objective variable by using the AIMMS routine GMP::Column::SetAsMultiObjective.
+A variable can be specified as a multi-objective variable by using the AIMMS routine :any:`GMP::Column::SetAsMultiObjective`.
 For example, to mark the variables TotalDist and TotalTime in a mathematical program 'MP' as multi-objective variables
 and solve the math program use
 

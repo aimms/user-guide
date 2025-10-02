@@ -1,3 +1,5 @@
+.. |rarrow| unicode:: U+2192 .. rarrow
+
 .. _CPLEX_Indicator_Constraints:
 
 
@@ -24,7 +26,7 @@ you can enter the following formulation, where y is a binary variable, using an 
 
 
 
-	constr01: y = 0 ®  x1 + x2 + x3 = 0
+	constr01: y = 0  |rarrow|  x1 + x2 + x3 = 0
 
 
 

@@ -37,7 +37,7 @@ If this option is disabled, AIMMS will stop after Phase I and return a minimum-c
 
 **Note** 
 
-* 	In the FeasOpt documentation, the objective of the feasibility relaxation uses the reciprocal of a 'preference value'. That is, if one provides a preference value p for a certain violation, the corresponding term in the objective will be 1/p.
+* 	In the FeasOpt documentation, the objective of the feasibility relaxation uses the reciprocal of a 'preference value'. That is, if one provides a preference value *p* for a certain violation, the corresponding term in the objective will be 1/*p*.
 *	Feasibility relaxation is not enabled for lazy pool, cut pool, quadratic and indicator constraints. 
 *	In case the objective 'Minimize the weighted number of relaxed bounds and constraints' is selected, if the problem was a Linear Program, it will be transformed into a Mixed Integer Program. 
 *	In case the objective 'Minimize the weighted sum of squared penalties of the relaxations' is selected, if the problem was a Linear Program, it will be transformed into a Quadratic Program. 

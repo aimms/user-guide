@@ -12,9 +12,9 @@ MPS
 
 
 
-By setting this option different from "Never", a MPS file will be generated which can be used to solve the model using the CPLEX Interactive Optimizer. If a basis and/or SOS are present, they are written to a separate file also. The generated files start with cpx followed by a five-digit number and one of the following extensions:
-
-
+By setting this option different from 'Never', a MPS file will be generated which can be used to solve the model using the
+CPLEX Interactive Optimizer. If a basis and/or SOS are present, they are written to a separate file also. The generated files
+start with cpx followed by a five-digit number and one of the following extensions:
 
 
 .. list-table::
@@ -27,18 +27,9 @@ By setting this option different from "Never", a MPS file will be generated whic
      - SOS file
 
 
-
-
 Possible values of this option are:
-
-
 
     *	Never
     *	At the first solve
     *	At every solve
-
-
-
-
-
 
