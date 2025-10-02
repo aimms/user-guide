@@ -36,8 +36,8 @@ and having the following value for entries
 
 .. math::
 
-   z_j = u_j \quad \text{where } & y^TA_j > 0, \text{and} \\
-   z_j = l_j \quad \text{where } & y^TA_j < 0,
+   z_j & = u_j \quad & \text{where} \enspace & y^TA_j > 0, \text{ and} \\
+   z_j & = l_j \quad & \text{where} \enspace & y^TA_j < 0,
 
 
 where :math:`A_j` denotes the column of :math:`A` corresponding to :math:`x_j`, :math:`u_j` the given upper bound on :math:`x_j`,
