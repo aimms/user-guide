@@ -20,7 +20,8 @@ Possible values are:
 For **LP primal simplex**:
 
 .. list-table::
-   :widths: 30 70
+   :width: 60 %
+   :widths: 20 80
    :header-rows: 0
 
    * - 0
@@ -32,7 +33,8 @@ For **LP primal simplex**:
 For **LP dual simplex**:
 
 .. list-table::
-   :widths: 30 70
+   :width: 60 %
+   :widths: 20 80
    :header-rows: 0
 
    * - 0 or -1
@@ -44,7 +46,8 @@ For **LP dual simplex**:
 For **QP Primal**:
 
 .. list-table::
-   :widths: 30 70
+   :width: 60 %
+   :widths: 20 80
    :header-rows: 0
 
    * - -1
@@ -58,7 +61,8 @@ For **QP Primal**:
 For **QP Dual**: 
 
 .. list-table::
-   :widths: 30 70
+   :width: 60 %
+   :widths: 20 80
    :header-rows: 0
 
    * - -1

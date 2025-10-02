@@ -17,7 +17,8 @@ If the :ref:`aimmshelp12-progress_window` is open, it will display information a
 iterations, the current status, the best value found, etc. Possible values are: 
 
 .. list-table::
-   :widths: 20 80
+   :width: 60 %
+   :widths: 10 90
    :header-rows: 0
 
    * - 0

@@ -18,7 +18,7 @@ current status, the best value found, etc. Possible values are:
 
 .. list-table::
    :width: 60 %
-   :widths: 20 80
+   :widths: 10 90
    :header-rows: 0
 
    * - 0
