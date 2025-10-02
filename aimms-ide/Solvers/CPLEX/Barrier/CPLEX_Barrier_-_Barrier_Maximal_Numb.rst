@@ -19,8 +19,9 @@ barrier algorithm, if the computed value is 0, setting the value to an explicit 
 improve the numerical performance of the algorithm at the expense of computation time. Possible values are:
 
 .. list-table::
-  :width: 60 %
-  :widths: 20 80
+   :width: 60 %
+   :widths: 20 80
+   :header-rows: 0
 
    * - -1
      - Automatically determined

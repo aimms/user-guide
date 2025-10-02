@@ -20,8 +20,8 @@ Possible values are:
 For **LP primal simplex**:
 
 .. list-table::
-  :width: 60 %
-  :widths: 30 70
+   :widths: 30 70
+   :header-rows: 0
 
    * - 0
      - Ignore objective coefficients during crash
@@ -32,8 +32,8 @@ For **LP primal simplex**:
 For **LP dual simplex**:
 
 .. list-table::
-  :width: 60 %
-  :widths: 30 70
+   :widths: 30 70
+   :header-rows: 0
 
    * - 0 or -1
      - Aggressive starting basis
@@ -44,8 +44,8 @@ For **LP dual simplex**:
 For **QP Primal**:
 
 .. list-table::
-  :width: 60 %
-  :widths: 30 70
+   :widths: 30 70
+   :header-rows: 0
 
    * - -1
      - Slack basis
@@ -58,8 +58,8 @@ For **QP Primal**:
 For **QP Dual**: 
 
 .. list-table::
-  :width: 60 %
-  :widths: 30 70
+   :widths: 30 70
+   :header-rows: 0
 
    * - -1
      - Slack basis
