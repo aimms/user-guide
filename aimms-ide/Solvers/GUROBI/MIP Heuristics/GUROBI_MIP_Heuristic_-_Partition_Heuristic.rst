@@ -23,12 +23,12 @@ you would set the 8 bit and the 4 bit to 1, which would correspond to a option v
 The default value of 15 indicates that we enable every option except the first one listed above.
 
 The partitioning heuristic uses large-neighborhood search to try to improve the current incumbent solution. 
-To enable the partitioning heuristic a partition should be specified for at least one variable. 
-In AIMMS you can specify a partition for a variable using the function :any:`GMP::Column::SetDecomposition`. 
+To enable the partitioning heuristic, a partition should be specified for at least one variable. 
+In AIMMS you can specify a partition for a variable using the procedure :any:`GMP::Column::SetDecomposition`. 
 The provided partition number can be positive, which indicates that the variable should be included when the correspondingly
 numbered sub-MIP is solved, 0 which indicates that the variable should be included in every sub-MIP, or -1 which indicates
 that the variable should not be included in any sub-MIP.  Variables that are not included in the sub-MIP are fixed to their
-values in the current incumbent solution. If no partition value is assigned to a variable, using the function
+values in the current incumbent solution. If no partition value is assigned to a variable, using the procedure
 :any:`GMP::Column::SetDecomposition`, then its partition value will be -1.
 
 To give an example, imagine you are solving a model with 400 variables and you set the partition attribute to -1 for variables 0-99,

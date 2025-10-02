@@ -44,8 +44,3 @@ like the current MIP gap. For example:
 
 In this example the time limit is set to 60 seconds once the MIP gap reaches 5%.
 
-
-**Note** 
-
-*	The constraint must be linear; a quadratic constraint is not allowed to be an indicator constraint.
-
