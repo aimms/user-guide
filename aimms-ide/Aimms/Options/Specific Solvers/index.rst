@@ -17,5 +17,4 @@ Specific Solvers
 *   :ref:`PATH_Options`
 *   :ref:`SNOPT_Options`
 *   :ref:`XA_Options`
-*   :ref:`CompLis_Options`
 

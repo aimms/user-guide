@@ -31,11 +31,7 @@ search during the optimization of MIP problems. Because control callbacks interv
 ignored if dynamic search is used.
 
 
-Interaction of callbacks with search strategy
-
-
-
-.. list-table::
+.. list-table:: Interaction of callbacks with search strategy
 
    * - **MIP search strategy** 
      - **No callbacks**
@@ -55,8 +51,6 @@ Interaction of callbacks with search strategy
      - Dynamic search, control callbacks ignored
 
 
-
-
 The table above shows that if the option **MIP Search Strategy**  is set to 'Automatic' (the default) then CPLEX will use dynamic
 search unless a control callback procedure has been installed in which case CPLEX will use branch-and-cut.
 
@@ -68,11 +62,7 @@ combinations of callback types and search strategies, if the option **Global Thr
 denotes the number of available processors.
 
 
-Number of threads used by default for combinations of callbacks and search strategy
-
-
-
-.. list-table::
+.. list-table:: Number of threads used by default for combinations of callbacks and search strategy
 
    * - **MIP search strategy** 
      - **No callbacks**
@@ -90,7 +80,6 @@ Number of threads used by default for combinations of callbacks and search strat
      - 1
      - 1
      - 1
-
 
 
 At the default setting of 0 for **Global Thread Limit**, the amount of threads that CPLEX will use is equal to the number of

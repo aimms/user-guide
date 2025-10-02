@@ -18,7 +18,7 @@ CPLEX callback routines are not installed. As a consequence the solve might beco
 
     *   The :ref:`aimmshelp12-progress_window` will not be updated during the solve;
     *   The solve cannot be interrupted;
-    *   No callback will be made to AIMMS procedures that are installed with the Mathematical Program suffices ``CallbackProcedure``,``CallbackTime``  or ``CallbackStatusChange`` (or installed with the GMP routines :any:`GMP::Instance::SetCallbackIterations`, :any:`GMP::Instance::SetCallbackTime` or :any:`GMP::Instance::SetCallbackStatusChange`).
+    *   No callback will be made to AIMMS procedures that are installed with the Mathematical Program suffices ``CallbackProcedure``, ``CallbackTime`` or ``CallbackStatusChange`` (or installed with the GMP routines :any:`GMP::Instance::SetCallbackIterations`, :any:`GMP::Instance::SetCallbackTime` or :any:`GMP::Instance::SetCallbackStatusChange`).
 
 
 Possible values are:

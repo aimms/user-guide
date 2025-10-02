@@ -12,5 +12,7 @@ Updates Batch Size
 
 
 
-This option limits the size of the batches that are used to pass model updates to CPLEX after, e.g., modifying matrix coefficients using GMP functionality. A large batch size will usually be more efficient but requires more memory. The actual batch size used is limited by the number of updates.
+This option limits the size of the batches that are used to pass model updates to CPLEX after, e.g., modifying matrix
+coefficients using :ref:`GMP <sec:gmp.intro>` functionality. A large batch size will usually be more efficient but
+requires more memory. The actual batch size used is limited by the number of updates.
 

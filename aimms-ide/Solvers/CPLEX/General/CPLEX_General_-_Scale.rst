@@ -12,13 +12,11 @@ Scale
 
 
 
-This option influences the scaling of the problem matrix. The default implements an equilibration scaling method, which is generally very effective. The "Aggressive" setting invokes a modified scaling method that can produce improvements on some problems. The setting "None" indicates that no scaling is to be done. Possible values are:
-
-
+This option influences the scaling of the problem matrix. The default implements an equilibration scaling method, which is
+generally very effective. The 'Aggressive' setting invokes a modified scaling method that can produce improvements on some
+problems. The setting 'None' indicates that no scaling is to be done. Possible values are:
 
     *	None (no scaling)
     *	Standard (use equilibration scaling)
     *	Aggressive (use aggressive scaling)
-
-
 

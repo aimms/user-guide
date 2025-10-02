@@ -36,7 +36,7 @@ This property is only valid if 'Behaves as Dialog' is enabled. If you enable thi
 
 **Always Docked** 
 
-By default a page appears in the Document Area of the IDE (see also :ref:`Page-Manager_Making_a_Page_dockable` ). If you enable the style 'Always Docked', then a page will always open in docked mode, and a user cannot put it back to the Document Area. If you check this option in the property dialog box while the page is not yet docked, then upon Apply (or OK), the page will become docked automatically.
+By default a page appears in the Document Area of the IDE (see also :ref:`Page-Manager_Making_a_Page_dockable`). If you enable the style 'Always Docked', then a page will always open in docked mode, and a user cannot put it back to the Document Area. If you check this option in the property dialog box while the page is not yet docked, then upon Apply (or OK), the page will become docked automatically.
 
 
 

@@ -64,7 +64,7 @@ pivot 1e-8 1e-14
 
 
 
-This options file tells the Knitro-Tuner to explore all possible option values for the algorithm (AIMMS: :ref:`option-KNITRO-algorithm` ) and bar_murule (AIMMS: :ref:`option-KNITRO-initial_barrier_parameter_value` ) options, while exploring three values (0, 1 and 10) for the bar_directinterval (AIMMS: :ref:`option-KNITRO-direct_step_interval` ) option and two values (1e-8 and 1e-14) for the pivot (AIMMS: :ref:`option-KNITRO-initial_pivot_treshold` ) option.
+This options file tells the Knitro-Tuner to explore all possible option values for the algorithm (AIMMS: :ref:`option-KNITRO-algorithm`) and bar_murule (AIMMS: :ref:`option-KNITRO-initial_barrier_parameter_value`) options, while exploring three values (0, 1 and 10) for the bar_directinterval (AIMMS: :ref:`option-KNITRO-direct_step_interval`) option and two values (1e-8 and 1e-14) for the pivot (AIMMS: :ref:`option-KNITRO-initial_pivot_treshold`) option.
 
 
 
@@ -160,7 +160,7 @@ This table indicates the option values explored, the number of Tuner runs for ea
 
 
 
-This summary table provides some global view of which option settings may be preferable. For example, the table above suggests that algorithm = 2 (which corresponds to setting 'Interior-CG' for AIMMS option :ref:`option-KNITRO-algorithm` ) may be preferable for models of this type since it (on average) requires fewer function evaluations and less time to find an optimal solution. The table also suggests that perhaps the non-default setting bar_murule = 6 (which corresponds to setting 'Quality' for AIMMS option :ref:`option-KNITRO-initial_barrier_parameter_value` ) should be used, since it requires, on average, the fewest number of function evaluations to converge, although other values are only slightly worse.
+This summary table provides some global view of which option settings may be preferable. For example, the table above suggests that algorithm = 2 (which corresponds to setting 'Interior-CG' for AIMMS option :ref:`option-KNITRO-algorithm`) may be preferable for models of this type since it (on average) requires fewer function evaluations and less time to find an optimal solution. The table also suggests that perhaps the non-default setting bar_murule = 6 (which corresponds to setting 'Quality' for AIMMS option :ref:`option-KNITRO-initial_barrier_parameter_value`) should be used, since it requires, on average, the fewest number of function evaluations to converge, although other values are only slightly worse.
 
 
 

@@ -111,7 +111,7 @@ Here you can specify a numerical scalar identifier or constant that indicates th
 
 
 
-When a Pivot Table is opened without using a previously saved "State or Layout" (see :ref:`Pivot-Table_SaveaUser-SpecifiedLayout` ), then the Pivot Table uses this property to determine in which area (Row, Column or Outer) a specific index is placed initially. If not specified, then the Pivot Table tries to place them in such a way that it results in a 'nice' view. Unless you disallow an end user to re-arrange the indices, the end-user can of course adjust the view once it is opened.
+When a Pivot Table is opened without using a previously saved "State or Layout" (see :ref:`Pivot-Table_SaveaUser-SpecifiedLayout`), then the Pivot Table uses this property to determine in which area (Row, Column or Outer) a specific index is placed initially. If not specified, then the Pivot Table tries to place them in such a way that it results in a 'nice' view. Unless you disallow an end user to re-arrange the indices, the end-user can of course adjust the view once it is opened.
 
 
 

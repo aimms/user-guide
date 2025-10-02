@@ -12,40 +12,30 @@ Benders Decomposition Check Limit
 
 
 
-This option specifies how much detailed information AIMMS should print when CPLEX concludes that the Benders decomposition, as specified by the user, is invalid.
-
-
+This option specifies how much detailed information AIMMS should print when CPLEX concludes that the Benders decomposition,
+as specified by the user, is invalid.
 
 If this option is set to 0 then no detailed information will be printed. Otherwise the following checks are done:
 
+    *   check whether each variable has a valid decomposition value, that is, a nonnegative value for continuous variables and a value of 0 for integer variables.
+    *   check whether each constraint contains variables that all have the same decomposition value or a decomposition value of 0.
 
 
+This option limits the number of lines that will be printed for each of these two checks. At the default value at most
+2*10 = 20 lines are printed.
 
-*   check whether each variable has a valid decomposition value, that is, a nonnegative value for continuous variables and a value of 0 for integer variables.
-*   check whether each constraint contains variables that all have the same decomposition value or a decomposition value of 0.
-
-
-
-This option limits the number of lines that will be printed for each of these two checks. At the default value at most 2*10 = 20 lines are printed.
-
-
-
-The information will be printed in the Messages Window.
-
+The information will be printed in the :ref:`aimmshelp13-Messages_Window`.
 
 
 **Remark** 
 
-The information is also written to the file 'CPLEX 22.1.sta' if the general solvers option **Solver Listing Messages**  is set to a value unequal to 'Never'. 
-The file 'CPLEX 22.1.sta' is placed in the log directory of the AIMMS project.
-
-Of course, the ``22.1`` in the filename will be replaced by the actual CPLEX version number.
+The information is also written to the file 'CPLEX 22.1.sta' if the general solvers option **Solver Listing Messages** is set
+to a value unequal to 'Never'.  The file 'CPLEX 22.1.sta' is placed in the log directory of the AIMMS project.
+(Of course, the ``22.1`` in the filename will be replaced by the actual CPLEX version number.)
 
 
 **Learn more about** 
 
 *	:ref:`option-CPLEX-benders_strategy` 
 *	:ref:`option-AIMMS-solver_listing_messages` 
-
-
 

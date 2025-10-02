@@ -16,11 +16,11 @@ This option can be used to select the pricing algorithm for the primal simplex m
 
 
 
-    *	Reduced Cost (reduced-cost pricing)
-    *	Hybrid + Devex (hybrid reduced-cost and Devex pricing)
-    *	Devex (Devex pricing)
-    *	Steepest edge (steepest-edge pricing)
-    *	Steepest edge + slack norms (steepest-edge pricing with slack initial norms)
+    *	Reduced Cost (*reduced-cost pricing*)
+    *	Hybrid + Devex (*hybrid reduced-cost and Devex pricing*)
+    *	Devex (*Devex pricing*)
+    *	Steepest edge (*steepest-edge pricing*)
+    *	Steepest edge + slack norms (*steepest-edge pricing with slack initial norms*)
     *	Full pricing
 
 

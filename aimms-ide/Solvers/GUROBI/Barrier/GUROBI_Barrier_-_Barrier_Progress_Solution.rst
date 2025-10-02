@@ -16,9 +16,12 @@ This option controls the progress reports during the solution process if the bar
 :ref:`aimmshelp12-progress_window` is open, it will display information about the number of (barrier) iterations, the
 current status, the best value found, etc. Possible values are: 
 
-    0:	Do not report progress	
-    
-    *n*:	Report progress after each *n* barrier iterations	
+.. list-table::
+
+   * - 0
+     - Do not report progress
+   * - *n*
+     - Report progress after each *n* barrier iterations
 
 
 **Note** 

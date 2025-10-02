@@ -17,7 +17,7 @@ Not all type of windows within AIMMS can be docked like this. In general, the wi
 
 Attribute windows (for editing the model identifiers) and the GUI Pages, which are usually opened only for a relatively brief period, are not dockable, and appear in the 'document area' (which is the empty blue area in the picture below).
 
-For some pages that you create, it might be useful to your end-user to have these appear as docking pages, and for that the Page Properties do allow you to mark a page as dockable (See :ref:`Page-Manager_Making_a_Page_dockable` ).
+For some pages that you create, it might be useful to your end-user to have these appear as docking pages, and for that the Page Properties do allow you to mark a page as dockable (See :ref:`Page-Manager_Making_a_Page_dockable`).
 
 
 

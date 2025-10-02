@@ -12,49 +12,49 @@ Crash Ordering
 
 
 
-This option determines how CPLEX orders variables relative to the objective function when selecting an initial basis. Possible values are:
+This option determines how CPLEX orders variables relative to the objective function when selecting an initial basis.
+Possible values are:
 
 
 
 For **LP primal simplex**:
 
+.. list-table::
 
-
-0:	Ignore objective coefficients during crash	
-
--1 or 1:	Alternate ways of using objective coefficients	
-
+   * - 0
+     - Ignore objective coefficients during crash
+   * - -1 or 1
+     - Alternate ways of using objective coefficients
 
 
 For **LP dual simplex**:
 
+.. list-table::
 
-
-0 or -1:	Aggressive starting basis	
-
-1:	Default starting basis	
-
+   * - 0 or -1
+     - Aggressive starting basis
+   * - 1
+     - Default starting basis
 
 
 For **QP Primal**:
 
+.. list-table::
 
-
--1:	Slack basis
-
-0:	Ignore Q terms and use LP solver for crash	
-
-1:	Ignore objective and use LP solver for crash	
-
+   * - -1
+     - Slack basis
+   * - 0
+     - Ignore Q terms and use LP solver for crash
+   * - 1
+     - Ignore objective and use LP solver for crash
 
 
 For **QP Dual**: 
 
-	
+.. list-table::
 
--1:	Slack basis	
-
-0 or 1:	Use Q terms for crash
-
-
+   * - -1
+     - Slack basis
+   * - 0 or 1
+     - Use Q terms for crash
 
