@@ -12,10 +12,12 @@ Warning Move Frozen into Bounds
 :Range:	The settings listed below	
 :Default:	Common_warning_default	
 
+This option determines what happens to the .level value of a frozen variable if this value is currently outside the bounds of the variable.
+Only when set to Error the .level value will not be changed. For all other settings the .level value  will be changed to the value of the closest
+bound, and an optional warning message is triggered.
 
-
-This option determines what happens when the type of mathematical program does not correspond to the model class, depending on the following settings:
-
+This option is no longer valid for the new mathematical program generator. This new generator uses the option 'move_nonvar_level_within_bounds' and
+will act according to that option without any error or warning message.
 
 .. list-table::
 
@@ -39,16 +41,7 @@ This option determines what happens when the type of mathematical program does n
      - In a developer system same as Warning_handle, in a deployment system same as Off
 
 
-**Note** 
-
-*	If this option is not set to 'Error', the mathematical program will be solved using the specified model class.
-*	With the option **Maximal Number of Warnings Reported** you can set the maximal number of warnings that are shown in errors/warnings and message window.
-
-
-**Learn more about** 
-
-*	:ref:`option-AIMMS-maximal_number_of_warnings_reported` 
-*	:ref:`Model-Explorer_Creating_a_Mathematical_Progra` 
+*	:ref:`option-AIMMS-move_nonvar_level_within_bounds` 
 *	:ref:`option-AIMMS-common_warning_default` 
 *	:ref:`option-AIMMS-strict_warning_default` 
 *	:ref:`option-AIMMS-communicate_warnings_to_end_users` 
