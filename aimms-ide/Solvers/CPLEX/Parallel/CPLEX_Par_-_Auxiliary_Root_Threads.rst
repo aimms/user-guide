@@ -16,7 +16,7 @@ This option partitions the the number of threads for CPLEX to use for auxiliary 
 of a problem. An example of an auxiliary task at the root node is the usage of root node heuristics.
 
 
-On a system that offers N global threads, if you set this option to :math:`n`, where
+On a system that offers :math:`N` global threads, if you set this option to :math:`n`, where
 
 .. math::
 

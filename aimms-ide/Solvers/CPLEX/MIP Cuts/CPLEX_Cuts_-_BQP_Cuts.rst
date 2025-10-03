@@ -29,14 +29,14 @@ observation that every valid linear cut for the mixed integer set defined by:
 
 .. math::
 
-    A = { (x, X) : x \text{in } {0,1}, X_{ij} = x_i x_j \text{ if } i \text{ is different from } j, X_{ii} = 0 }
+    A = { (x, X) : x \in \{0,1\}, X_{ij} = x_i x_j \enspace \text{ if } i \ne j, X_{ii} = 0 }
 
 
 is also a valid inequality for the continuous set defined by:
 
 .. math::
 
-    B = { (x, X) : 0 \leq x \leq 1, X_{ij} = x_i x_j \text{ if } i \text{ is different from } j, X_{ii} = 0 }
+    B = { (x, X) : 0 \leq x \leq 1, X_{ij} = x_i x_j \enspace \text{ if } i \ne j, X_{ii} = 0 }
 
 
 **Note** 

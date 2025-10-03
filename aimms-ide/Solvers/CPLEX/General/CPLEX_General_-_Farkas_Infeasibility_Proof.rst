@@ -30,7 +30,7 @@ vector for the given linear program, :math:`A` is the constraint matrix, and :ma
    y^TA x \geq y^Tb
 
 
-Here :math:`y` is being interpreted as a column vector, and math:`y^T` denotes the transpose of :math:`y`. The real point of
+Here :math:`y` is being interpreted as a column vector, and :math:`y^T` denotes the transpose of :math:`y`. The real point of
 computing :math:`y` is the following. Suppose we define a vector :math:`z` of dimension equal to the dimension of :math:`x`
 and having the following value for entries
 
