@@ -12,14 +12,11 @@ Network Pricing
 
 
 
-The setting "Automatic", the default, shows the best performance for most problems, and currently is equivalent to "Multiple partial pricing with sorting". Possible values are:
-
-
+The setting 'Automatic', the default, shows the best performance for most problems, and currently is equivalent
+to 'Multiple partial pricing with sorting'. Possible values are:
 
     *	Automatic
     *	Partial pricing
     *	Multiple partial pricing
     *	Multiple partial pricing with sorting
-
-
 

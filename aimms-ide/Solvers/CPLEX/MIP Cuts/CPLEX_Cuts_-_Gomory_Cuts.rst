@@ -12,9 +12,9 @@ Gomory Cuts
 
 
 
-This option determines whether or not to generate Gomory (fractional) cuts for the problem. Setting the value to "Automatic", the default, indicates that the attempt to generate Gomory cuts should continue only if it seems to be helping. Possible values are:
-
-
+This option determines whether or not to generate Gomory (fractional) cuts for the problem. Setting the value
+to 'Automatic', the default, indicates that the attempt to generate Gomory cuts should continue only if it
+seems to be helping. Possible values are:
 
     *	Off
     *	Automatic
@@ -22,11 +22,7 @@ This option determines whether or not to generate Gomory (fractional) cuts for t
     *	Generate cuts aggressively
 
 
-
-
 **Note** 
 
 *	This option can also be used for MIQP problems. For MIQP problems the default setting 'Automatic' means that no Gomory cuts will be generated.
-
-
 

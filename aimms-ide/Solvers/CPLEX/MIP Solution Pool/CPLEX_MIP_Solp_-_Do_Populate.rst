@@ -14,25 +14,16 @@ Do Populate
 
 This option can be used to let CPLEX generate multiple solutions to a mixed integer programming (MIP) problem. Possible values are:
 
-
-
     *	No
     *	Yes
 
 
-
-
-This option should be switched on before a normal solve statement (or before GMP::Instance::Solve) to let CPLEX fill the solution pool.
-
-
-
+This option should be switched on before a normal solve statement (or before :any:`GMP::Instance::Solve`) to let CPLEX fill the solution pool.
 
 
 **Note** 
 
 *	If this option is switched on, no postsolve will be done, and sensitivity information and constraint level values will not be available.
-
-
 
 
 **Learn more about** 
@@ -44,6 +35,4 @@ This option should be switched on before a normal solve statement (or before GMP
 *	:ref:`option-CPLEX-pool_replacement_strategy`  
 *	:ref:`option-CPLEX-populate_time_limit`  
 *	:ref:`option-CPLEX-population_limit`  
-
-
 

@@ -49,7 +49,7 @@ will satisfy
    y^Tb - y^TA z > 0.
 
 
-This last inequality contradicts the validity of :math:`y^TA x >= y^Tb`, and hence shows that the given linear program is infeasible.
+This last inequality contradicts the validity of :math:`y^TA x \geq y^Tb`, and hence shows that the given linear program is infeasible.
 
 The constraint values in the Farkas infeasibility proof are passed to AIMMS instead of the normal level values for the constraints.
 Note that the general solvers option **Always Store Constraint Levels** should be switched on.

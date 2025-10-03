@@ -12,13 +12,11 @@ Gomory Cuts Pass Limit
 
 
 
-This option limits the passes for generating Gomory cuts for the problem. At the default setting of 0, CPLEX decides. This option is ignored if the option **Gomory Cuts**  is not set to its default value.
-
+This option limits the passes for generating Gomory cuts for the problem. At the default setting of 0,
+CPLEX decides. This option is ignored if the option **Gomory Cuts** is not set to its default value.
 
 
 **Learn more about** 
 
 *	:ref:`option-CPLEX-gomory_cuts`  
-
-
 

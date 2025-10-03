@@ -49,7 +49,7 @@ For a more thorough exploration of the theory supporting SOS reformulations, see
 
 **References** 
 
-*	J.P. Vielma, J.P., G.L. Nemhauser, Modeling disjunctive constraints with a logarithmic number of binary variables and constraints. Mathematical Programming **128**  (2011), pp. 49-72.
+*	Vielma, J.P., G.L. Nemhauser, Modeling disjunctive constraints with a logarithmic number of binary variables and constraints. *Mathematical Programming* **128**  (2011), pp. 49-72.
 
 
 

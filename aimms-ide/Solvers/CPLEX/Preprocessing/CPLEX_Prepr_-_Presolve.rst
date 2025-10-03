@@ -12,15 +12,9 @@ Presolve
 
 
 
-The presolve indicator, when activated, will invoke the CPLEX Presolve to make problem simplifications and reductions. Possible values are:
-
-
+The presolve indicator, when activated, will invoke the CPLEX Presolver to make problem simplifications
+and reductions. Possible values are:
 
     *	No
     *	Yes
-
-
-
-
-
 

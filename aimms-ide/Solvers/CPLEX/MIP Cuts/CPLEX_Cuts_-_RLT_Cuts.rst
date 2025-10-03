@@ -12,7 +12,9 @@ RLT Cuts
 
 
 
-This option controls the addition of cuts based on the Reformulation Linearization Technique (RLT) for nonconvex quadratic programs (QP) or mixed integer quadratic programs (MIQP) solved to global optimality, that is, if the option **Solution Target**  is set to 'Search for global optimum'. Possible values are:
+This option controls the addition of cuts based on the Reformulation Linearization Technique (RLT) for
+nonconvex quadratic programs (QP) or mixed integer quadratic programs (MIQP) solved to global optimality,
+that is, if the option **Solution Target** is set to 'Search for global optimum'. Possible values are:
 
 
 
@@ -41,4 +43,4 @@ This option controls the addition of cuts based on the Reformulation Linearizati
 
 **References** 
 
-*	H. D. Sherali and W. P. Adams, A Reformulation-Linearization Technique for Solving Discrete and Continuous Nonconvex Problems, Springer, 1999.
+*	Sherali, H. D., and W. P. Adams, *A Reformulation-Linearization Technique for Solving Discrete and Continuous Nonconvex Problems*, Springer, 1999.
