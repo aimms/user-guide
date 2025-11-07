@@ -16,3 +16,4 @@ Memory Management
     MemoryManagement-Rebuild_before_solve
     MemoryManagement-RebuildFr
     MemoryManagement-UseMultip
+    MemoryManagement-UseMiMalloc
