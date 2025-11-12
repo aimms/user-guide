@@ -13,7 +13,7 @@ Memory Management
     Memory_Management_-_Memory_Bi2
     Memory_Management_-_Memory_Bi3
     Memory_Management_-_Memory_Sta
+    MemoryManagement-UseMiMalloc
     MemoryManagement-Rebuild_before_solve
     MemoryManagement-RebuildFr
     MemoryManagement-UseMultip
-    MemoryManagement-UseMiMalloc

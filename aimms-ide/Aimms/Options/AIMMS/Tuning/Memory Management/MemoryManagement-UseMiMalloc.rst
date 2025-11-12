@@ -1,16 +1,22 @@
 .. _option-AIMMS-memory_use_mimalloc:
 
-Use MiMalloc
-============
+Memory Use MiMalloc
+===================
 
 :Type:	Selection	
-:Range:	{ On , Off }
-:Default:	Off	
+:Range:	One of the settings listed below	
+:Default:	Off
 
-With this option enabled, AIMMS will use MiMalloc (by Microsoft) as the underlying memory allocation system (instead of dlMalloc).
-Tests have shown that MiMalloc may initially use a bit more memory, but for long-running apps the memory consumption is much more stable.
-With dlMalloc (the default), the total 'memory in use' sometimes seems to be constantly  growing (due to memory fragmentation).
+With this option enabled, AIMMS will use *mimalloc* (by Microsoft) as the underlying memory allocation system (instead of *dlmalloc*).
+Tests have shown that *mimalloc* may initially use a bit more memory, but for long-running apps the memory consumption is much more stable.
+With *dlmalloc* (the default), the total 'memory in use' sometimes seems to be constantly growing (due to memory fragmentation).
 
-Note: if you change this option, you must close and restart AIMMS to use the new setting.
+Possible values are:
 
+    *	On
+    *	Off
+
+**Note** 
+
+*	You will have to restart AIMMS before a change in this option setting has effect.
 
