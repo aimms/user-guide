@@ -12,15 +12,15 @@ MIP Display
 
 
 
-This option determines what logging information CPLEX reports during mixed integer optimization. A setting of "None" causes no logging to be displayed until the optimal solution is found.
+This option determines what logging information CPLEX reports during mixed integer optimization. A setting of 'None' causes no logging to be displayed until the optimal solution is found.
 
 
 
-A setting of "Display integer feasible solutions" displays an entry for each integer feasible solution found. Each entry contains the objective function value, the node count, the number of unexplored nodes in the tree, and the current optimality gap.
+A setting of 'Display integer feasible solutions' displays an entry for each integer feasible solution found. Each entry contains the objective function value, the node count, the number of unexplored nodes in the tree, and the current optimality gap.
 
 
 
-A setting of "Display each nth node" also generates an entry for every nth node (where n is the setting of the **MIP Interval** option). A setting of "Nth node + info on node cuts" additionally generates an entry for every nth node giving the number of cuts added to the problem for the previous n nodes. A setting of "Nth node + LP display for root node" additionally generates entries for the LP root relaxation according to the setting of the option **Simplex Display** (or the option **Barrier Display**). A setting of "Nth node + LP display for all nodes" additionally generates entries for the LP subproblems, also according to the setting of the option **Simplex Display** (or the option **Barrier Display**).
+A setting of 'Display each nth node' also generates an entry for every nth node (where n is the setting of the **MIP Interval** option). A setting of 'Nth node + info on node cuts' additionally generates an entry for every nth node giving the number of cuts added to the problem for the previous n nodes. A setting of 'Nth node + LP display for root node' additionally generates entries for the LP root relaxation according to the setting of the option **Simplex Display** (or the option **Barrier Display**). A setting of 'Nth node + LP display for all nodes' additionally generates entries for the LP subproblems, also according to the setting of the option **Simplex Display** (or the option **Barrier Display**).
 
 
 
