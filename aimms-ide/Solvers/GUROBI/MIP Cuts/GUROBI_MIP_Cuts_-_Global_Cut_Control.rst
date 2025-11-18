@@ -11,10 +11,7 @@ Global Cut Control
 :Default:	Automatic	
 
 
-
 This option provides a global cut control, affecting the generation of all cuts. Possible values are:
-
-
 
     *	Automatic
     *	Off
@@ -23,12 +20,9 @@ This option provides a global cut control, affecting the generation of all cuts.
     *	Very aggressive
 
 
-
-
-Setting the value of this option to 'Aggressive' would apply all cut types aggressively, unless the cut specific option is set. For example, if the value of this option is set to 'Aggressive' and the value of option **Clique Cuts**  is set to 'Off' then all cut types will be generated aggressively, except clique cuts which would not be generated at all.
-
-
-
+Setting the value of this option to 'Aggressive' would apply all cut types aggressively, unless the cut specific option is set.
+For example, if the value of this option is set to 'Aggressive' and the value of option **Clique Cuts** is set to 'Off' then all
+cut types will be generated aggressively, except clique cuts which would not be generated at all.
 
 
 **Learn more about** 
@@ -42,6 +36,7 @@ Setting the value of this option to 'Aggressive' would apply all cut types aggre
 *	:ref:`option-GUROBI-implied_bound_cuts`  
 *	:ref:`option-GUROBI-lift_and_project_cuts`  
 *	:ref:`option-GUROBI-mip_separation_cuts`  
+*	:ref:`option-GUROBI-mip_separation_cuts`  
 *	:ref:`option-GUROBI-mir_cuts`  
 *	:ref:`option-GUROBI-mixing_cuts`  
 *	:ref:`option-GUROBI-mod_k_cuts`  
@@ -49,6 +44,4 @@ Setting the value of this option to 'Aggressive' would apply all cut types aggre
 *	:ref:`option-GUROBI-projected_implied_bound_cuts`  
 *	:ref:`option-GUROBI-sub_mip_cuts`  
 *	:ref:`option-GUROBI-zero_half_cuts`  
-
-
 

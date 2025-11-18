@@ -20,3 +20,4 @@ The MIP solver can change option settings in the middle of the search in order t
 
 *	:ref:`option-GUROBI-improve_start_nodes`  
 *	:ref:`option-GUROBI-improve_start_time`  
+*	:ref:`option-GUROBI-improve_start_work`  

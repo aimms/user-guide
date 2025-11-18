@@ -12,14 +12,11 @@ MIP Start
 
 
 
-This option determines whether Gurobi should load a start solution (if available) for solving a MIP model. Gurobi uses whatever start information is provided to try to construct a complete solution. Possible values are:
-
-
+This option determines whether Gurobi should load a start solution (if available) for solving a MIP model. Gurobi uses whatever
+start information is provided to try to construct a complete solution. Possible values are:
 
     *	No
     *	Yes
-
-
 
 
 **Note** 
@@ -28,9 +25,9 @@ This option determines whether Gurobi should load a start solution (if available
 *	Gurobi also supports :ref:`GUROBI_Multiple_MIP_Starts`.
 
 
-
-
 **Learn more about** 
 
 *	:ref:`option-GUROBI-mip_start_node_limit` 
+*	:ref:`option-GUROBI-mip_start_time_limit` 
+*	:ref:`option-GUROBI-mip_start_work_limit` 
 *	:ref:`GUROBI_Multiple_MIP_Starts` 

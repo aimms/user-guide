@@ -7,6 +7,7 @@ MIP Heuristics
     GUROBI_MIP_Heuristic_-_Feasibility_Pump_Passes
     GUROBI_MIP_Heuristic_-_Heuristics
     GUROBI_MIP_Heuristic_-_Minimum_Relaxation_Heuristic_N
+    GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Limit
     GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Time
     GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Work
     GUROBI_MIP_Heuristic_-_Partition_Heuristic

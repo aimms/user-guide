@@ -10,6 +10,7 @@ MIP
     GUROBI_MIP_-_Improve_Start_Gap
     GUROBI_MIP_-_Improve_Start_Nodes
     GUROBI_MIP_-_Improve_Start_Time
+    GUROBI_MIP_-_Improve_Start_Work
     GUROBI_MIP_-_Integrality
     GUROBI_MIP_-_Integrality_Focus
     GUROBI_MIP_-_Lazy_Constraint_Mode
@@ -19,6 +20,8 @@ MIP
     GUROBI_MIP_-_MIP_Node_Method
     GUROBI_MIP_-_MIP_Start
     GUROBI_MIP_-_MIP_Start_Node_Limit
+    GUROBI_MIP_-_MIP_Start_Time_Limit
+    GUROBI_MIP_-_MIP_Start_Work_Limit
     GUROBI_MIP_-_MIP_Symmetry
     GUROBI_MIP_-_Node_File_Start
     GUROBI_MIP_-_Node_Limit

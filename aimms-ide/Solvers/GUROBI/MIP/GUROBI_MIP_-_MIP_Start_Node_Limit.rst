@@ -12,15 +12,13 @@ MIP Start Node Limit
 
 
 
-This option limits the number of branch-and-bound nodes explored when completing a partial MIP start. The default value of -1 uses the value of the **RINS Sub_MIP Node Limit**  option. A value of -2 shuts off MIP start processing entirely. Non-negative values are node limits.
-
+This option limits the number of branch-and-bound nodes explored when completing a partial MIP start. The default value of -1 uses
+the value of the **RINS Sub MIP Node Limit** option. A value of -2 shuts off MIP start processing entirely. Non-negative values are node limits.
 
 
 **Note** 
 
 *	MIP starts can also be used for NLP and MINLP models, and therefore this option also applies to these models.
-
-
 
 
 **Learn more about** 

@@ -16,7 +16,7 @@ This option limits the amount of time (in seconds) spent in the No Relaxation he
 
 
 
-Note that this option will introduce non-determinism - different runs may take different paths. Use the **No Relaxation Heuristic Work**  option for deterministic results.
+Note that this option will introduce non-determinism - different runs may take different paths. Use the **No Relaxation Heuristic Work** option for deterministic results.
 
 
 

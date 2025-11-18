@@ -17,6 +17,7 @@ MIP Cuts
     GUROBI_MIP_Cuts_-_Implied_Bound_Cuts
     GUROBI_MIP_Cuts_-_Infeasibility_Proof_Cuts
     GUROBI_MIP_Cuts_-_Lift_and_Project_Cuts
+    GUROBI_MIP_Cuts_-_Master_Knapsack_Cuts
     GUROBI_MIP_Cuts_-_MIP_Separation_Cuts
     GUROBI_MIP_Cuts_-_MIR_Cuts
     GUROBI_MIP_Cuts_-_Mixing_Cuts
