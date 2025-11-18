@@ -13,6 +13,7 @@ Gurobi Options
     MIP Heuristics/index
     MIP Presolve/index
     Parallel/index
+    PDHG/index
     Presolve/index
     Nonlinear/index
     Quadratic/index
