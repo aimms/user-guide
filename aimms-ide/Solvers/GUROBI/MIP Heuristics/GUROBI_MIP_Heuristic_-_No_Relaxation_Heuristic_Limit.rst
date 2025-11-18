@@ -1,8 +1,8 @@
-.. _option-GUROBI-no_relaxation_heuristic_time:
+.. _option-GUROBI-no_relaxation_heuristic_limit:
 
 
-No Relaxation Heuristic Time
-============================
+No Relaxation Heuristic Limit
+=============================
 
 
 
