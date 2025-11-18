@@ -25,7 +25,7 @@ and that solution isn't found at the root, it is often better to allow a single 
 
 Another situation where reducing the thread count can be helpful is when memory is tight. Each thread can consume a significant amount of memory.
 
-Gurobi made the pragmatic choice to impose a soft limit of 32 threads for the automatic setting (0), because usually, Gurobi’s algorithms do not
+Gurobi made the pragmatic choice to impose a soft limit of 32 threads for the automatic setting (0), because usually, Gurobi's algorithms do not
 benefit from higher thread counts. Actually, higher thread counts may even hurt performance, because this will often saturate the memory system.
 If your machine has more virtual processors, and you find that using more threads increases performance, you should feel free to set this option
 to a larger value. Alternatively, you can use the value -1 to indicate that Gurobi should use all available virtual processors, even if the machine
