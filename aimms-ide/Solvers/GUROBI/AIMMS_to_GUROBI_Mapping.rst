@@ -164,7 +164,7 @@ The table shows in the left column the AIMMS Gurobi options while the right colu
      - IMPLIEDCUTS
    * - :ref:`MIP Cuts - Infeasibility Proof Cuts <option-GUROBI-infeasibility_proof_cuts>`
      - INFPROOFCUTS
-   * - :ref:`MIP Cuts - Lift-and-Project Cuts <option-GUROBI-lift_and_project_cuts>`
+   * - :ref:`MIP Cuts - Lift and Project Cuts <option-GUROBI-lift_and_project_cuts>`
      - LIFTPROJECTCUTS
    * - :ref:`MIP Cuts - Master Knapsack Cuts <option-GUROBI-master_knapsack_cuts>`
      - MASTERKNAPSACKCUTS
@@ -174,7 +174,7 @@ The table shows in the left column the AIMMS Gurobi options while the right colu
      - MIRCUTS
    * - :ref:`MIP Cuts - Mixing Cuts <option-GUROBI-mixing_cuts>`
      - MIXINGCUTS
-   * - :ref:`MIP Cuts - Mod-k Cuts <option-GUROBI-mod_k_cuts>`
+   * - :ref:`MIP Cuts - Mod K Cuts <option-GUROBI-mod_k_cuts>`
      - MODKCUTS
    * - :ref:`MIP Cuts - Network Cuts <option-GUROBI-network_cuts>`
      - NETWORKCUTS
@@ -188,9 +188,9 @@ The table shows in the left column the AIMMS Gurobi options while the right colu
      - CUTPASSES
    * - :ref:`MIP Cuts - Strong CG Cuts <option-GUROBI-strong_cg_cuts>`
      - STRONGCGCUTS
-   * - :ref:`MIP Cuts - Sub-MIP Cuts <option-GUROBI-sub_mip_cuts>`
+   * - :ref:`MIP Cuts - Sub MIP Cuts <option-GUROBI-sub_mip_cuts>`
      - SUBMIPCUTS
-   * - :ref:`MIP Cuts - Zero-Half Cuts <option-GUROBI-zero_half_cuts>`
+   * - :ref:`MIP Cuts - Zero Half Cuts <option-GUROBI-zero_half_cuts>`
      - ZEROHALFCUTS
    * - :ref:`MIP Heuristics - Feasibility Pump Passes <option-GUROBI-feasibility_pump_passes>`
      - PUMPPASSES
