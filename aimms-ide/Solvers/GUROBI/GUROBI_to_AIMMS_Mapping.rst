@@ -91,6 +91,8 @@ the right column displays for each Gurobi parameter the associated AIMMS option.
      - :ref:`option-GUROBI-improve_start_nodes`
    * - IMPROVESTARTTIME
      - :ref:`option-GUROBI-improve_start_time`
+   * - IMPROVESTARTWORK
+     - :ref:`option-GUROBI-improve_start_work`
    * - INFPROOFCUTS
      - :ref:`option-GUROBI-infeasibility_proof_cuts`
    * - INTEGRALITYFOCUS
@@ -105,6 +107,8 @@ the right column displays for each Gurobi parameter the associated AIMMS option.
      - :ref:`option-GUROBI-warm_start`
    * - MARKOWITZTOL
      - :ref:`option-GUROBI-markowitz`
+   * - MASTERKNAPSACKCUTS
+     - :ref:`option-GUROBI-master_knapsack_cuts`
    * - MEMLIMIT
      - :ref:`option-GUROBI-memory_limit`
    * - METHOD
@@ -141,6 +145,8 @@ the right column displays for each Gurobi parameter the associated AIMMS option.
      - :ref:`option-GUROBI-mip_node_method`
    * - NONCONVEX
      - :ref:`option-GUROBI-nonconvex_strategy`
+   * - NORELHEURSOLUTIONS
+     - :ref:`option-GUROBI-no_relaxation_heuristic_limit`
    * - NORELHEURTIME
      - :ref:`option-GUROBI-no_relaxation_heuristic_time`
    * - NORELHEURWORK
@@ -159,6 +165,14 @@ the right column displays for each Gurobi parameter the associated AIMMS option.
      - :ref:`option-GUROBI-output_file`
    * - PARTITIONPLACE
      - :ref:`option-GUROBI-partition_heuristic`
+   * - PDHGABSTOL
+     - :ref:`option-GUROBI-pdhg_absolute_feasibility_tolerance`
+   * - PDHGCONVTOL
+     - :ref:`option-GUROBI-pdhg_convergence_tolerance`
+   * - PDHGITERLIMIT
+     - :ref:`option-GUROBI-pdhg_iteration_limit`
+   * - PDHGRELTOL
+     - :ref:`option-GUROBI-pdhg_relative_feasibility_tolerance`
    * - PERTURBVALUE
      - :ref:`option-GUROBI-perturbation`
    * - POOLGAP
@@ -223,6 +237,10 @@ the right column displays for each Gurobi parameter the associated AIMMS option.
      - :ref:`option-GUROBI-solution_target`
    * - STARTNODELIMIT
      - :ref:`option-GUROBI-mip_start_node_limit`
+   * - STARTTIMELIMIT
+     - :ref:`option-GUROBI-mip_start_time_limit`
+   * - STARTWORKLIMIT
+     - :ref:`option-GUROBI-mip_start_work_limit`
    * - STRONGCGCUTS
      - :ref:`option-GUROBI-strong_cg_cuts`
    * - SUBMIPCUTS

@@ -14,287 +14,305 @@ The table shows in the left column the AIMMS Gurobi options while the right colu
 
    * - **Option name in AIMMS** 
      - **Name in Gurobi** 
-   * - :ref:`option-GUROBI-barrier_convergence_tolerance` 
+   * - :ref:`Barrier - Barrier Convergence Tolerance <option-GUROBI-barrier_convergence_tolerance>`
      - BARCONVTOL
-   * - :ref:`option-GUROBI-barrier_correction_steps` 
+   * - :ref:`Barrier - Barrier Correction Steps <option-GUROBI-barrier_correction_steps>`
      - BARCORRECTORS
-   * - :ref:`option-GUROBI-barrier_crossover` 
+   * - :ref:`Barrier - Barrier Crossover <option-GUROBI-barrier_crossover>`
      - CROSSOVER
-   * - :ref:`option-GUROBI-barrier_crossover_basis` 
+   * - :ref:`Barrier - Barrier Crossover Basis <option-GUROBI-barrier_crossover_basis>`
      - CROSSOVERBASIS
-   * - :ref:`option-GUROBI-barrier_homogeneous_algorithm` 
+   * - :ref:`Barrier - Barrier Homogeneous Algorithm <option-GUROBI-barrier_homogeneous_algorithm>`
      - BARHOMOGENEOUS
-   * - :ref:`option-GUROBI-barrier_iteration_limit` 
+   * - :ref:`Barrier - Barrier Iteration Limit <option-GUROBI-barrier_iteration_limit>`
      - BARITERLIMIT
-   * - :ref:`option-GUROBI-barrier_ordering` 
+   * - :ref:`Barrier - Barrier Ordering <option-GUROBI-barrier_ordering>`
      - BARORDER
-   * - :ref:`option-GUROBI-barrier_progress_solution` 
+   * - :ref:`Barrier - Barrier Progress Solution <option-GUROBI-barrier_progress_solution>`
      - 
-   * - :ref:`option-GUROBI-barrier_qcp_convergence_tolerance` 
+   * - :ref:`Barrier - Barrier QCP Convergence Tolerance <option-GUROBI-barrier_qcp_convergence_tolerance>`
      - BARQCPCONVTOL
-   * - :ref:`option-GUROBI-calculate_kappa` 
+   * - :ref:`General - Calculate Kappa <option-GUROBI-calculate_kappa>`
      - 
-   * - :ref:`option-GUROBI-concurrent_method` 
+   * - :ref:`General - Concurrent Method <option-GUROBI-concurrent_method>`
      - CONCURRENTMETHOD
-   * - :ref:`option-GUROBI-farkas_infeasibility_proof`  
+   * - :ref:`General - Farkas Infeasibility Proof <option-GUROBI-farkas_infeasibility_proof>`
      - 
-   * - :ref:`option-GUROBI-feasibility`  
+   * - :ref:`General - Feasibility Tolerance <option-GUROBI-feasibility>`
      - FEASIBILITYTOL
-   * - :ref:`option-GUROBI-iis_method` 
+   * - :ref:`General - IIS Method <option-GUROBI-iis_method>`
      - FEASRELAXBIGM
-   * - :ref:`option-GUROBI-iis_method`  
+   * - :ref:`General - IIS Method <option-GUROBI-iis_method>`
      - IISMETHOD
-   * - :ref:`option-GUROBI-memory_limit` 
+   * - :ref:`General - Memory Limit <option-GUROBI-memory_limit>`
      - MEMLIMIT
-   * - :ref:`option-GUROBI-method`  
+   * - :ref:`General - Method <option-GUROBI-method>`
      - METHOD
-   * - :ref:`option-GUROBI-mps`  
+   * - :ref:`General - MPS <option-GUROBI-mps>`
      - 
-   * - :ref:`option-GUROBI-mps_dual` 
+   * - :ref:`General - MPS Dual <option-GUROBI-mps_dual>`
      - 
-   * - :ref:`option-GUROBI-multi_objective_method`  
+   * - :ref:`General - Multi-objective Method <option-GUROBI-multi_objective_method>`
      - MULTIOBJMETHOD
-   * - :ref:`option-GUROBI-numeric_focus`  
+   * - :ref:`General - Numeric Focus <option-GUROBI-numeric_focus>`
      - NUMERICFOCUS
-   * - :ref:`option-GUROBI-optimality`  
+   * - :ref:`General - Optimality Tolerance <option-GUROBI-optimality>`
      - OPTIMALITYTOL
-   * - :ref:`option-GUROBI-random_seed`  
+   * - :ref:`General - Random Seed <option-GUROBI-random_seed>`
      - SEED
-   * - :ref:`option-GUROBI-read_parameter_file`  
+   * - :ref:`General - Read Parameter File <option-GUROBI-read_parameter_file>`
      - 
-   * - :ref:`option-GUROBI-restart`  
+   * - :ref:`General - Restart <option-GUROBI-restart>`
      - 
-   * - :ref:`option-GUROBI-restart_file_number` 
+   * - :ref:`General - Restart File Number <option-GUROBI-restart_file_number>`
      - 
-   * - :ref:`option-GUROBI-scale`  
+   * - :ref:`General - Scale <option-GUROBI-scale>`
      - SCALEFLAG
-   * - :ref:`option-GUROBI-sensitivity_method`  
+   * - :ref:`General - Sensitivity Method <option-GUROBI-sensitivity_method>`
      - 
-   * - :ref:`option-GUROBI-soft_memory_limit` 
+   * - :ref:`General - Soft Memory Limit <option-GUROBI-soft_memory_limit>`
      - SOFTMEMLIMIT
-   * - :ref:`option-GUROBI-solution_file`  
+   * - :ref:`General - Solution File <option-GUROBI-solution_file>`
      - 
-   * - :ref:`option-GUROBI-solution_target`  
+   * - :ref:`General - Solution Target <option-GUROBI-solution_target>`
      - SOLUTIONTARGET
-   * - :ref:`option-GUROBI-unbounded_ray`  
+   * - :ref:`General - Unbounded Ray <option-GUROBI-unbounded_ray>`
      - 
-   * - :ref:`option-GUROBI-updates_batch_size`  
+   * - :ref:`General - Updates Batch Size <option-GUROBI-updates_batch_size>`
      - 
-   * - :ref:`option-GUROBI-warm_start` 
+   * - :ref:`General - Warm Start <option-GUROBI-warm_start>`
      - LPWARMSTART
-   * - :ref:`option-GUROBI-work_limit` 
+   * - :ref:`General - Work Limit <option-GUROBI-work_limit>`
      - WORKLIMIT
-   * - :ref:`option-GUROBI-write_parameter_file` 
+   * - :ref:`General - Write Parameter File <option-GUROBI-write_parameter_file>`
      - 
-   * - :ref:`option-GUROBI-display_solution_quality`  
+   * - :ref:`Logging - Display Solution Quality <option-GUROBI-display_solution_quality>`
      - 
-   * - :ref:`option-GUROBI-log_to_console`  
+   * - :ref:`Logging - Log to Console <option-GUROBI-log_to_console>`
      - LOGTOCONSOLE
-   * - :ref:`option-GUROBI-output_file`  
+   * - :ref:`Logging - Output File <option-GUROBI-output_file>`
      - OUTPUTFLAG
-   * - :ref:`option-GUROBI-output_file_display_interval`  
+   * - :ref:`Logging - Output File Display Interval <option-GUROBI-output_file_display_interval>`
      - DISPLAYINTERVAL
-   * - :ref:`option-GUROBI-tune_output_level`  
+   * - :ref:`Logging - Tune Output Level <option-GUROBI-tune_output_level>`
      - TUNEOUTPUT
-   * - :ref:`option-GUROBI-branch_direction`  
+   * - :ref:`MIP - Branch Direction <option-GUROBI-branch_direction>`
      - BRANCHDIR
-   * - :ref:`option-GUROBI-disconnected_component_strategy`  
+   * - :ref:`MIP - Disconnected Component Strategy <option-GUROBI-disconnected_component_strategy>`
      - DISCONNECTED
-   * - :ref:`option-GUROBI-hints_file`  
+   * - :ref:`MIP - Hints File <option-GUROBI-hints_file>`
      - 
-   * - :ref:`option-GUROBI-improve_start_gap` 
+   * - :ref:`MIP - Improve Start Gap <option-GUROBI-improve_start_gap>`
      - IMPROVESTARTGAP
-   * - :ref:`option-GUROBI-improve_start_nodes` 
+   * - :ref:`MIP - Improve Start Nodes <option-GUROBI-improve_start_nodes>`
      - IMPROVESTARTNODES
-   * - :ref:`option-GUROBI-improve_start_time` 
+   * - :ref:`MIP - Improve Start Time <option-GUROBI-improve_start_time>`
      - IMPROVESTARTTIME
-   * - :ref:`option-GUROBI-integrality`  
+   * - :ref:`MIP - Improve Start Work <option-GUROBI-improve_start_work>`
+     - IMPROVESTARTWORK
+   * - :ref:`MIP - Integrality Tolerance <option-GUROBI-integrality>`
      - INTFEASTOL
-   * - :ref:`option-GUROBI-integrality_focus`  
+   * - :ref:`MIP - Integrality Focus <option-GUROBI-integrality_focus>`
      - INTEGRALITYFOCUS
-   * - :ref:`option-GUROBI-lazy_constraint_mode`  
+   * - :ref:`MIP - Lazy Constraint Mode <option-GUROBI-lazy_constraint_mode>`
      - 
-   * - :ref:`option-GUROBI-mip_best_bound_stop`  
+   * - :ref:`MIP - MIP Best Bound Stop <option-GUROBI-mip_best_bound_stop>`
      - BESTBDSTOP
-   * - :ref:`option-GUROBI-mip_best_objective_stop`  
+   * - :ref:`MIP - MIP Best Objective Stop <option-GUROBI-mip_best_objective_stop>`
      - BESTOBJSTOP
-   * - :ref:`option-GUROBI-mip_focus`  
+   * - :ref:`MIP - MIP Focus <option-GUROBI-mip_focus>`
      - MIPFOCUS
-   * - :ref:`option-GUROBI-mip_node_method`  
+   * - :ref:`MIP - MIP Node Method <option-GUROBI-mip_node_method>`
      - NODEMETHOD
-   * - :ref:`option-GUROBI-mip_start`  
+   * - :ref:`MIP - MIP Start <option-GUROBI-mip_start>`
      - 
-   * - :ref:`option-GUROBI-mip_start_node_limit`  
+   * - :ref:`MIP - MIP Start Node Limit <option-GUROBI-mip_start_node_limit>`
      - STARTNODELIMIT
-   * - :ref:`option-GUROBI-mip_symmetry`  
+   * - :ref:`MIP - MIP Start Time Limit <option-GUROBI-mip_start_time_limit>`
+     - STARTTIMELIMIT
+   * - :ref:`MIP - MIP Start Work Limit <option-GUROBI-mip_start_work_limit>`
+     - STARTWORKLIMIT
+   * - :ref:`MIP - MIP Symmetry <option-GUROBI-mip_symmetry>`
      - SYMMETRY
-   * - :ref:`option-GUROBI-node_file_start`  
+   * - :ref:`MIP - Node File Start <option-GUROBI-node_file_start>`
      - NODEFILESTART
-   * - :ref:`option-GUROBI-node_limit`  
+   * - :ref:`MIP - Node Limit <option-GUROBI-node_limit>`
      - NODELIMIT
-   * - :ref:`option-GUROBI-select_variables`  
+   * - :ref:`MIP - Select Variables <option-GUROBI-select_variables>`
      - VARBRANCH
-   * - :ref:`option-GUROBI-bqp_cuts` 
+   * - :ref:`MIP Cuts - BQP Cuts <option-GUROBI-bqp_cuts>`
      - BQPCUTS
-   * - :ref:`option-GUROBI-clique_cuts`  
+   * - :ref:`MIP Cuts - Clique Cuts <option-GUROBI-clique_cuts>`
      - CLIQUECUTS
-   * - :ref:`option-GUROBI-cover_cuts` 
+   * - :ref:`MIP Cuts - Cover Cuts <option-GUROBI-cover_cuts>`
      - COVERCUTS
-   * - :ref:`option-GUROBI-dual_implied_cuts` 
+   * - :ref:`MIP Cuts - Dual Implied Cuts <option-GUROBI-dual_implied_cuts>`
      - DUALIMPLIEDCUTS
-   * - :ref:`option-GUROBI-cut_aggregation_passes_limit` 
+   * - :ref:`MIP Cuts - Cut Aggregation Passes Limit <option-GUROBI-cut_aggregation_passes_limit>`
      - CUTAGGPASSES
-   * - :ref:`option-GUROBI-flow_cover_cuts` 
+   * - :ref:`MIP Cuts - Flow Cover Cuts <option-GUROBI-flow_cover_cuts>`
      - FLOWCOVERCUTS
-   * - :ref:`option-GUROBI-flow_path_cuts` 
+   * - :ref:`MIP Cuts - Flow Path Cuts <option-GUROBI-flow_path_cuts>`
      - FLOWPATHCUTS
-   * - :ref:`option-GUROBI-global_cut_control`  
+   * - :ref:`MIP Cuts - Global Cut Control <option-GUROBI-global_cut_control>`
      - CUTS
-   * - :ref:`option-GUROBI-gomory_cut_passes_limit` 
+   * - :ref:`MIP Cuts - Gomory Cut Passes Limit <option-GUROBI-gomory_cut_passes_limit>`
      - GOMORYPASSES
-   * - :ref:`option-GUROBI-gub_cover_cuts` 
+   * - :ref:`MIP Cuts - GUB Cover Cuts <option-GUROBI-gub_cover_cuts>`
      - GUBCOVERCUTS
-   * - :ref:`option-GUROBI-implied_bound_cuts` 
+   * - :ref:`MIP Cuts - Implied Bound Cuts <option-GUROBI-implied_bound_cuts>`
      - IMPLIEDCUTS
-   * - :ref:`option-GUROBI-infeasibility_proof_cuts` 
+   * - :ref:`MIP Cuts - Infeasibility Proof Cuts <option-GUROBI-infeasibility_proof_cuts>`
      - INFPROOFCUTS
-   * - :ref:`option-GUROBI-lift_and_project_cuts`  
+   * - :ref:`MIP Cuts - Lift-and-Project Cuts <option-GUROBI-lift_and_project_cuts>`
      - LIFTPROJECTCUTS
-   * - :ref:`option-GUROBI-mip_separation_cuts`  
+   * - :ref:`MIP Cuts - Master Knapsack Cuts <option-GUROBI-master_knapsack_cuts>`
+     - MASTERKNAPSACKCUTS
+   * - :ref:`MIP Cuts - MIP Separation Cuts <option-GUROBI-mip_separation_cuts>`
      - MIPSEPCUTS
-   * - :ref:`option-GUROBI-mir_cuts`  
+   * - :ref:`MIP Cuts - MIR Cuts <option-GUROBI-mir_cuts>`
      - MIRCUTS
-   * - :ref:`option-GUROBI-mixing_cuts`  
+   * - :ref:`MIP Cuts - Mixing Cuts <option-GUROBI-mixing_cuts>`
      - MIXINGCUTS
-   * - :ref:`option-GUROBI-mod_k_cuts`  
+   * - :ref:`MIP Cuts - Mod-k Cuts <option-GUROBI-mod_k_cuts>`
      - MODKCUTS
-   * - :ref:`option-GUROBI-network_cuts`  
+   * - :ref:`MIP Cuts - Network Cuts <option-GUROBI-network_cuts>`
      - NETWORKCUTS
-   * - :ref:`option-GUROBI-projected_implied_bound_cuts` 
+   * - :ref:`MIP Cuts - Projected Implied Bound Cuts <option-GUROBI-projected_implied_bound_cuts>`
      - PROJIMPLIEDCUTS
-   * - :ref:`option-GUROBI-relax-and-lift_cuts`  
+   * - :ref:`MIP Cuts - Relax-and-Lift Cuts <option-GUROBI-relax-and-lift_cuts>`
      - RELAXLIFTCUTS
-   * - :ref:`option-GUROBI-rlt_cuts` 
+   * - :ref:`MIP Cuts - RLT Cuts <option-GUROBI-rlt_cuts>`
      - RLTCUTS
-   * - :ref:`option-GUROBI-root_cut_passes_limit` 
+   * - :ref:`MIP Cuts - Root Cut Passes Limit <option-GUROBI-root_cut_passes_limit>`
      - CUTPASSES
-   * - :ref:`option-GUROBI-strong_cg_cuts`  
+   * - :ref:`MIP Cuts - Strong CG Cuts <option-GUROBI-strong_cg_cuts>`
      - STRONGCGCUTS
-   * - :ref:`option-GUROBI-sub_mip_cuts`  
+   * - :ref:`MIP Cuts - Sub-MIP Cuts <option-GUROBI-sub_mip_cuts>`
      - SUBMIPCUTS
-   * - :ref:`option-GUROBI-zero_half_cuts`  
+   * - :ref:`MIP Cuts - Zero-Half Cuts <option-GUROBI-zero_half_cuts>`
      - ZEROHALFCUTS
-   * - :ref:`option-GUROBI-feasibility_pump_passes` 
+   * - :ref:`MIP Heuristics - Feasibility Pump Passes <option-GUROBI-feasibility_pump_passes>`
      - PUMPPASSES
-   * - :ref:`option-GUROBI-heuristics`  
+   * - :ref:`MIP Heuristics - Heuristics <option-GUROBI-heuristics>`
      - HEURISTICS
-   * - :ref:`option-GUROBI-minimum_relaxation_heuristic_node_limit` 
+   * - :ref:`MIP Heuristics - Minimum Relaxation Heuristic Node Limit <option-GUROBI-minimum_relaxation_heuristic_node_limit>`
      - MINRELNODES
-   * - :ref:`option-GUROBI-no_relaxation_heuristic_time` 
+   * - :ref:`MIP Heuristics - No Relaxation Heuristic Limit <option-GUROBI-no_relaxation_heuristic_limit>`
+     - NORELHEURSOLUTIONS
+   * - :ref:`MIP Heuristics - No Relaxation Heuristic Time <option-GUROBI-no_relaxation_heuristic_time>`
      - NORELHEURTIME
-   * - :ref:`option-GUROBI-no_relaxation_heuristic_work` 
+   * - :ref:`MIP Heuristics - No Relaxation Heuristic Work <option-GUROBI-no_relaxation_heuristic_work>`
      - NORELHEURWORK
-   * - :ref:`option-GUROBI-partition_heuristic`  
+   * - :ref:`MIP Heuristics - Partition Heuristic <option-GUROBI-partition_heuristic>`
      - PARTITIONPLACE
-   * - :ref:`option-GUROBI-rins_heuristic_frequency`  
+   * - :ref:`MIP Heuristics - RINS Heuristic Frequency <option-GUROBI-rins_heuristic_frequency>`
      - RINS
-   * - :ref:`option-GUROBI-rins_sub_mip_node_limit`  
+   * - :ref:`MIP Heuristics - RINS Sub-MIP Node Limit <option-GUROBI-rins_sub_mip_node_limit>`
      - SUBMIPNODES
-   * - :ref:`option-GUROBI-zero_objective_node_limit` 
+   * - :ref:`MIP Heuristics - Zero Objective Node Limit <option-GUROBI-zero_objective_node_limit>`
      - ZEROOBJNODES
-   * - :ref:`option-GUROBI-mip_obbt` 
+   * - :ref:`MIP Presolve - MIP OBBT <option-GUROBI-mip_obbt>`
      - OBBT
-   * - :ref:`option-GUROBI-presolve_sparsify_reduction` 
+   * - :ref:`MIP Presolve - Presolve Sparsify Reduction <option-GUROBI-presolve_sparsify_reduction>`
      - PRESPARSIFY
-   * - :ref:`option-GUROBI-sos1_encoding` 
+   * - :ref:`MIP Presolve - SOS1 Encoding <option-GUROBI-sos1_encoding>`
      - PRESOS1ENCODING
-   * - :ref:`option-GUROBI-sos1_reformulation_threshold` 
+   * - :ref:`MIP Presolve - SOS1 Reformulation Threshold <option-GUROBI-sos1_reformulation_threshold>`
      - PRESOS1BIGM
-   * - :ref:`option-GUROBI-sos2_encoding` 
+   * - :ref:`MIP Presolve - SOS2 Encoding <option-GUROBI-sos2_encoding>`
      - PRESOS2ENCODING
-   * - :ref:`option-GUROBI-sos2_reformulation_threshold` 
+   * - :ref:`MIP Presolve - SOS2 Reformulation Threshold <option-GUROBI-sos2_reformulation_threshold>`
      - PRESOS2BIGM
-   * - :ref:`option-GUROBI-maximal_variable_bound` 
+   * - :ref:`Nonlinear - Maximal Variable Bound <option-GUROBI-maximal_variable_bound>`
      - 
-   * - :ref:`option-GUROBI-nonlinear_optimality_tolerance` 
-     - MIPGAP
-   * - :ref:`option-GUROBI-concurrent_mip` 
-     - CONCURRENTMIP
-   * - :ref:`option-GUROBI-thread_limit` 
-     - THREADS
-   * - :ref:`option-GUROBI-dual_reductions` 
-     - DUALREDUCTIONS
-   * - :ref:`option-GUROBI-linearize_quadratic_constraints` 
-     - PREQLINEARIZE
-   * - :ref:`option-GUROBI-multi_objective_presolve`  
-     - MULTIOBJPRE
-   * - :ref:`option-GUROBI-presolve` 
-     - PRESOLVE
-   * - :ref:`option-GUROBI-presolve_aggregation`  
-     - AGGREGATE
-   * - :ref:`option-GUROBI-presolve_aggregation_fill`  
-     - AGGFILL
-   * - :ref:`option-GUROBI-presolve_dual` 
-     - PREDUAL
-   * - :ref:`option-GUROBI-presolve_passes` 
-     - PREPASSES
-   * - :ref:`option-GUROBI-presolve_row_reduction` 
-     - PREDEPROW
-   * - :ref:`option-GUROBI-miqcp_formulation` 
-     - PREMIQCPFORM
-   * - :ref:`option-GUROBI-miqcp_method` 
-     - MIQCPMETHOD
-   * - :ref:`option-GUROBI-nlp_heuristic` 
+   * - :ref:`Nonlinear - NLP Heuristic <option-GUROBI-nlp_heuristic>`
      - NLPHEUR
-   * - :ref:`option-GUROBI-nonconvex_strategy` 
+   * - :ref:`Nonlinear - Nonlinear Optimality Tolerance <option-GUROBI-nonlinear_optimality_tolerance>`
+     - MIPGAP
+   * - :ref:`Parallel - Concurrent MIP <option-GUROBI-concurrent_mip>`
+     - CONCURRENTMIP
+   * - :ref:`Parallel - Thread Limit <option-GUROBI-thread_limit>`
+     - THREADS
+   * - :ref:`PDHG - PDHG Absolute Feasibility Tolerance <option-GUROBI-pdhg_absolute_feasibility_tolerance>`
+     - PDHGABSTOL
+   * - :ref:`PDHG - PDHG Convergence Tolerance <option-GUROBI-pdhg_convergence_tolerance>`
+     - PDHGCONVTOL
+   * - :ref:`PDHG - PDHG Iteration Limit <option-GUROBI-pdhg_iteration_limit>`
+     - PDHGITERLIMIT
+   * - :ref:`PDHG - PDHG Relative Feasibility Tolerance <option-GUROBI-pdhg_relative_feasibility_tolerance>`
+     - PDHGRELTOL
+   * - :ref:`Presolve - Dual Reductions <option-GUROBI-dual_reductions>`
+     - DUALREDUCTIONS
+   * - :ref:`Presolve - Linearize Quadratic Constraints <option-GUROBI-linearize_quadratic_constraints>`
+     - PREQLINEARIZE
+   * - :ref:`Presolve - Multi-objective Presolve <option-GUROBI-multi_objective_presolve>`
+     - MULTIOBJPRE
+   * - :ref:`Presolve - Presolve <option-GUROBI-presolve>`
+     - PRESOLVE
+   * - :ref:`Presolve - Presolve Aggregation <option-GUROBI-presolve_aggregation>`
+     - AGGREGATE
+   * - :ref:`Presolve - Presolve Aggregation Fill <option-GUROBI-presolve_aggregation_fill>`
+     - AGGFILL
+   * - :ref:`Presolve - Presolve Dual <option-GUROBI-presolve_dual>`
+     - PREDUAL
+   * - :ref:`PPresolve - resolve Passes <option-GUROBI-presolve_passes>`
+     - PREPASSES
+   * - :ref:`Presolve - Presolve Row Reduction <option-GUROBI-presolve_row_reduction>`
+     - PREDEPROW
+   * - :ref:`Quadratic - MIQCP Formulation <option-GUROBI-miqcp_formulation>`
+     - PREMIQCPFORM
+   * - :ref:`Quadratic - MIQCP Method <option-GUROBI-miqcp_method>`
+     - MIQCPMETHOD
+   * - :ref:`Quadratic - Nonconvex Strategy <option-GUROBI-nonconvex_strategy>`
      - NONCONVEX
-   * - :ref:`option-GUROBI-psd_tolerance` 
+   * - :ref:`Quadratic - PSD Tolerance <option-GUROBI-psd_tolerance>`
      - PSDTOL
-   * - :ref:`option-GUROBI-qcp_dual_values` 
+   * - :ref:`Quadratic - QCP Dual Values <option-GUROBI-qcp_dual_values>`
      - QCPDUAL
-   * - :ref:`option-GUROBI-degenerate_simplex_moves_limit` 
+   * - :ref:`Simplex - Degenerate Simplex Moves Limit <option-GUROBI-degenerate_simplex_moves_limit>`
      - DEGENMOVES
-   * - :ref:`option-GUROBI-markowitz` 
-     - MARKOWITZTOL	
-   * - :ref:`option-GUROBI-network_algorithm` 
+   * - :ref:`Simplex - Markowitz Tolerance <option-GUROBI-markowitz>`
+     - MARKOWITZTOL
+   * - :ref:`Simplex - Network Algorithm <option-GUROBI-network_algorithm>`
      - NETWORKALG
-   * - :ref:`option-GUROBI-norm_adjust` 
+   * - :ref:`Simplex - Norm Adjust <option-GUROBI-norm_adjust>`
      - NORMADJUST
-   * - :ref:`option-GUROBI-objective_scale` 
+   * - :ref:`Simplex - Objective Scale <option-GUROBI-objective_scale>`
      - OBJSCALE
-   * - :ref:`option-GUROBI-perturbation` 
+   * - :ref:`Simplex - Perturbation <option-GUROBI-perturbation>`
      - PERTURBVALUE
-   * - :ref:`option-GUROBI-pricing`  
+   * - :ref:`Simplex - Pricing <option-GUROBI-pricing>`
      - SIMPLEXPRICING
-   * - :ref:`option-GUROBI-quad_precision`  
+   * - :ref:`Simplex - Quad Precision <option-GUROBI-quad_precision>`
      - QUAD
-   * - :ref:`option-GUROBI-sifting` 
+   * - :ref:`Simplex - Sifting <option-GUROBI-sifting>`
      - SIFTING
-   * - :ref:`option-GUROBI-sifting_method` 
+   * - :ref:`Simplex - Sifting Method <option-GUROBI-sifting_method>`
      - SIFTMETHOD
-   * - :ref:`option-GUROBI-pool_absolute_gap` 
+   * - :ref:`Solution Pool - Pool Absolute Gap <option-GUROBI-pool_absolute_gap>`
      - POOLGAPABS
-   * - :ref:`option-GUROBI-pool_gap` 
+   * - :ref:`Solution Pool - Pool Gap <option-GUROBI-pool_gap>`
      - POOLGAP
-   * - :ref:`option-GUROBI-pool_search_mode` 
+   * - :ref:`Solution Pool - Pool Search Mode <option-GUROBI-pool_search_mode>`
      - POOLSEARCHMODE
-   * - :ref:`option-GUROBI-pool_size` 
+   * - :ref:`Solution Pool - Pool Size <option-GUROBI-pool_size>`
      - POOLSOLUTIONS
-   * - :ref:`option-GUROBI-tune_cleanup` 
+   * - :ref:`Tuning - Tune Cleanup <option-GUROBI-tune_cleanup>`
      - TUNECLEANUP
-   * - :ref:`option-GUROBI-tune_criterion` 
+   * - :ref:`Tuning - Tune Criterion <option-GUROBI-tune_criterion>`
      - TUNECRITERION
-   * - :ref:`option-GUROBI-tune_metric` 
+   * - :ref:`Tuning - Tune Metric <option-GUROBI-tune_metric>`
      - TUNEMETRIC
-   * - :ref:`option-GUROBI-tune_results` 
+   * - :ref:`Tuning - Tune Results <option-GUROBI-tune_results>`
      - TUNERESULTS
-   * - :ref:`option-GUROBI-tune_target_mip_gap` 
+   * - :ref:`Tuning - Tune Target MIP Gap <option-GUROBI-tune_target_mip_gap>`
      - TUNETARGETMIPGAP
-   * - :ref:`option-GUROBI-tune_target_time` 
+   * - :ref:`Tuning - Tune Target Time <option-GUROBI-tune_target_time>`
      - TUNETARGETTIME
-   * - :ref:`option-GUROBI-tune_time_limit` 
+   * - :ref:`Tuning - Tune Time Limit <option-GUROBI-tune_time_limit>`
      - TUNETIMELIMIT
-   * - :ref:`option-GUROBI-tune_trials`  
+   * - :ref:`Tuning - Tune Trials <option-GUROBI-tune_trials>`
      - TUNETRIALS
 
 
@@ -304,17 +322,18 @@ The table below shows Solvers General options that are mapped to Gurobi paramete
 
    * - **Option name in AIMMS** 
      - **Name in GUROBI** 
-   * - :ref:`option-AIMMS-cutoff` 
+   * - :ref:`MIP Options - Cutoff <option-AIMMS-cutoff>`
      - CUTOFF
-   * - :ref:`option-AIMMS-maximal_number_of_integer_solutions` 
+   * - :ref:`MIP Options - Maximal Number of Integer Solutions <option-AIMMS-maximal_number_of_integer_solutions>`
      - SOLUTIONLIMIT
-   * - :ref:`option-AIMMS-mip_absolute_optimality_tolerance` 
+   * - :ref:`MIP Options - MIP Absolute Optimality Tolerance <option-AIMMS-mip_absolute_optimality_tolerance>`
      - MIPGAPABS
-   * - :ref:`option-AIMMS-mip_relative_optimality_tolerance` 
+   * - :ref:`MIP Options - MIP Relative Optimality Tolerance <option-AIMMS-mip_relative_optimality_tolerance>`
      - MIPGAP
-   * - :ref:`option-AIMMS-iteration_limit` 
+   * - :ref:`Stop Criteria - Iteration Limit <option-AIMMS-iteration_limit>`
      - ITERATIONLIMIT
-   * - :ref:`option-AIMMS-time_limit` 
+   * - :ref:`Stop Criteria - Time Limit <option-AIMMS-time_limit>`
      - TIMELIMIT
+
 
 
