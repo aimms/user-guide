@@ -36,7 +36,7 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
    * - :ref:`Barrier - Barrier Iterations <option-CPLEX-barrier_iterations>`
      - Barrier limits iteration
      - CPX_PARAM_BARITLIM
-   * - :ref:`Barrier - Barrier Maximal Number Of Corrections <option-CPLEX-barrier_maximal_number_of_corrections>`
+   * - :ref:`Barrier - Barrier Maximal Number of Corrections <option-CPLEX-barrier_maximal_number_of_corrections>`
      - Barrier limits corrections
      - CPX_PARAM_BARMAXCOR
    * - :ref:`Barrier - Barrier Objective Range <option-CPLEX-barrier_objective_range>`
@@ -84,7 +84,7 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
    * - :ref:`General - Conflict Algorithm <option-CPLEX-conflict_algorithm>`
      - Conflict algorithm
      - CPX_PARAM_CONFLICTALG
-   * - :ref:`General - Data Check And Modeling Assistance <option-CPLEX-data_check_and_modeling_assistance>`
+   * - :ref:`General - Data Check and Modeling Assistance <option-CPLEX-data_check_and_modeling_assistance>`
      - Read datacheck
      - CPX_PARAM_DATACHECK
    * - :ref:`General - Deterministic Time Limit <option-CPLEX-deterministic_time_limit>`
@@ -201,7 +201,7 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
    * - :ref:`MIP - Integrality <option-CPLEX-integrality>`
      - MIP tolerances integrality
      - CPX_PARAM_EPINT
-   * - :ref:`MIP - Maximal Number Of Nodes <option-CPLEX-maximal_number_of_nodes>`
+   * - :ref:`MIP - Maximal Number of Nodes <option-CPLEX-maximal_number_of_nodes>`
      - MIP limits nodes
      - CPX_PARAM_NODELIM
    * - :ref:`MIP - MIP Basis <option-CPLEX-mip_basis>`
@@ -249,10 +249,10 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
    * - :ref:`MIP - MIP Node Presolve <option-CPLEX-mip_node_presolve>`
      - MIP strategy presolvenode
      - CPX_PARAM_PRESLVND
-   * - :ref:`MIP - Number Of Repair Attempts <option-CPLEX-number_of_repair_attempts>`
+   * - :ref:`MIP - Number of Repair Attempts <option-CPLEX-number_of_repair_attempts>`
      - MIP limits repairtries
      - CPX_PARAM_REPAIRTRIES
-   * - :ref:`MIP - Number Of Simplex Iterations <option-CPLEX-number_of_simplex_iterations>`
+   * - :ref:`MIP - Number of Simplex Iterations <option-CPLEX-number_of_simplex_iterations>`
      - MIP limits strongit
      - CPX_PARAM_STRONGITLIM
    * - :ref:`MIP - Probing Time <option-CPLEX-probing_time>`
@@ -267,7 +267,7 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
    * - :ref:`MIP - Select Variables <option-CPLEX-select_variables>`
      - MIP strategy variableselect
      - CPX_PARAM_VARSEL
-   * - :ref:`MIP - Selection Of Nodes <option-CPLEX-selection_of_nodes>`
+   * - :ref:`MIP - Selection of Nodes <option-CPLEX-selection_of_nodes>`
      - MIP strategy nodeselect
      - CPX_PARAM_NODESEL
    * - :ref:`MIP - Use Generic Callbacks <option-CPLEX-use_generic_callbacks>`
@@ -285,16 +285,16 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
    * - :ref:`MIP Advanced - Lower Objective Stop <option-CPLEX-lower_objective_stop>`
      - MIP limits lowerobjstop
      - CPX_PARAM_LOWEROBJSTOP
-   * - :ref:`MIP Advanced - Submip Node Limit <option-CPLEX-submip_node_limit>`
+   * - :ref:`MIP Advanced - SubMIP Node Limit <option-CPLEX-submip_node_limit>`
      - MIP submip nodelimit
      - CPX_PARAM_SUBMIPNODELIMIT
-   * - :ref:`MIP Advanced - Submip Scale <option-CPLEX-submip_scale>`
+   * - :ref:`MIP Advanced - SubMIP Scale <option-CPLEX-submip_scale>`
      - MIP submip scale
      - CPX_PARAM_SUBMIPSCAIND
-   * - :ref:`MIP Advanced - Submip Start Algorithm <option-CPLEX-submip_start_algorithm>`
+   * - :ref:`MIP Advanced - SubMIP Start Algorithm <option-CPLEX-submip_start_algorithm>`
      - MIP submip startalg
      - CPX_PARAM_SUBMIPSTARTALG
-   * - :ref:`MIP Advanced - Submip Subproblem Algorithm <option-CPLEX-submip_subproblem_algorithm>`
+   * - :ref:`MIP Advanced - SubMIP Subproblem Algorithm <option-CPLEX-submip_subproblem_algorithm>`
      - MIP submip subalg
      - CPX_PARAM_SUBMIPSUBALG
    * - :ref:`MIP Advanced - Upper Objective Stop <option-CPLEX-upper_objective_stop>`
@@ -348,7 +348,7 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
    * - :ref:`MIP Cuts - Implied Bound Cuts <option-CPLEX-implied_bound_cuts>`
      - MIP cuts implied
      - CPX_PARAM_IMPLBD
-   * - :ref:`MIP Cuts - Lift And Project Cuts <option-CPLEX-lift_and_project_cuts>`
+   * - :ref:`MIP Cuts - Lift and Project Cuts <option-CPLEX-lift_and_project_cuts>`
      - MIP cuts liftproj
      - CPX_PARAM_LANDPCUTS
    * - :ref:`MIP Cuts - Local Implied Bound Cuts <option-CPLEX-local_implied_bound_cuts>`
@@ -357,7 +357,7 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
    * - :ref:`MIP Cuts - MCF Cuts <option-CPLEX-mcf_cuts>`
      - MIP cuts mcfcut
      - CPX_PARAM_MCFCUTS
-   * - :ref:`MIP Cuts - MIP Number Of Cut Passes <option-CPLEX-mip_number_of_cut_passes>`
+   * - :ref:`MIP Cuts - MIP Number of Cut Passes <option-CPLEX-mip_number_of_cut_passes>`
      - MIP limits cutpasses
      - CPX_PARAM_CUTPASS
    * - :ref:`MIP Cuts - Mixed Integer Rounding Cuts <option-CPLEX-mixed_integer_rounding_cuts>`
@@ -411,10 +411,10 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
    * - :ref:`MIP Solution Polishing - Polishing Absolute MIP Gap <option-CPLEX-polishing_absolute_mip_gap>`
      - MIP polishafter absmipgap
      - CPX_PARAM_POLISHAFTEREPAGAP
-   * - :ref:`MIP Solution Polishing - Polishing Number Of Nodes <option-CPLEX-polishing_number_of_nodes>`
+   * - :ref:`MIP Solution Polishing - Polishing Number of Nodes <option-CPLEX-polishing_number_of_nodes>`
      - MIP polishafter nodes
      - CPX_PARAM_POLISHAFTERNODE
-   * - :ref:`MIP Solution Polishing - Polishing Number Of Solutions <option-CPLEX-polishing_number_of_solutions>`
+   * - :ref:`MIP Solution Polishing - Polishing Number of Solutions <option-CPLEX-polishing_number_of_solutions>`
      - MIP polishafter solutions
      - CPX_PARAM_POLISHAFTERINTSOL
    * - :ref:`MIP Solution Polishing - Polishing Relative MIP Gap <option-CPLEX-polishing_relative_mip_gap>`
@@ -486,7 +486,7 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
    * - :ref:`Preprocessing - Limit Substitutions <option-CPLEX-limit_substitutions>`
      - Preprocessing fill
      - CPX_PARAM_AGGFILL
-   * - :ref:`Preprocessing - Number Of Iterations In Presolve <option-CPLEX-number_of_iterations_in_presolve>`
+   * - :ref:`Preprocessing - Number of Iterations in Presolve <option-CPLEX-number_of_iterations_in_presolve>`
      - Preprocessing numpass
      - CPX_PARAM_PREPASS
    * - :ref:`Preprocessing - Preprocessing Reduction Types <option-CPLEX-preprocessing_reduction_types>`
@@ -504,7 +504,7 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
    * - :ref:`QP - Adjust MIQP <option-CPLEX-adjust_miqp>`
      - Preprocessing qpmakepsd
      - CPX_PARAM_QPMAKEPSDIND
-   * - :ref:`QP - Barrier Convergence Tolerance For QCP <option-CPLEX-barrier_convergence_tolerance_for_qcp>`
+   * - :ref:`QP - Barrier Convergence Tolerance for QCP <option-CPLEX-barrier_convergence_tolerance_for_qcp>`
      - Bar qcpconvergetol
      - CPX_PARAM_BARQCPEPCOMP
    * - :ref:`QP - MIQCP Strategy <option-CPLEX-miqcp_strategy>`
@@ -594,7 +594,7 @@ The table below shows Solvers General options that are mapped to CPLEX parameter
    * - 
      - MIP tolerances uppercutoff
      - CPX_PARAM_CUTUP
-   * - :ref:`MIP Options - Maximal Number Of Integer Solutions <option-AIMMS-maximal_number_of_integer_solutions>`
+   * - :ref:`MIP Options - Maximal Number of Integer Solutions <option-AIMMS-maximal_number_of_integer_solutions>`
      - MIP limits solutions
      - CPX_PARAM_INTSOLLIM
    * - :ref:`MIP Options - MIP Absolute Optimality Tolerance <option-AIMMS-mip_absolute_optimality_tolerance>`
