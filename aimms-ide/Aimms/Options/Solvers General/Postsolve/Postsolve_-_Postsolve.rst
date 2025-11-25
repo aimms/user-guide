@@ -62,6 +62,9 @@ will generate a warning by default, as controlled by the option **Warning Unreli
 "resolved" by adjusting solver tolerances, e.g., by lowering the values of the options that control the feasibility or the
 integrality tolerance. But sometimes it can only be resolved by reformulating the problem to improve the numerical stability.
 
+If the postsolve problem is infeasible then AIMMS can print the irreducible infeasibility set (IIS) by switching on the
+option **Infeasibility Finder Postsolve**. Analyzing this IIS can help with improving the robustness of the model.
+
 
 **Other postsolve options** 
 
@@ -84,6 +87,7 @@ controlled by the option **MIP Calculate Sensitivity Information**.
 **Learn more about** 
 
 *	:ref:`option-AIMMS-do_postsolve_after_interrupt` 
+*	:ref:`option-AIMMS-infeasibility_finder_postsolve` 
 *	:ref:`option-AIMMS-mip_calculate_sensitivity_information`  
 *	:ref:`option-AIMMS-postsolve_continuous_variables` 
 *	:ref:`option-AIMMS-postsolve_integer_variables` 
