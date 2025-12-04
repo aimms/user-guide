@@ -18,3 +18,8 @@ are translated to 0. However, AIMMS will not round the level value to 0 if that 
 of a bound. For example, if the solver returns a level value of 1e-8 for some variable for which the lower
 bound is set to 1e-10 then AIMMS will not set the level value to 0 (and also not to 1e-10).
 
+
+**Note** 
+
+*	If this option is set to 0 then the level values are not rounded to 0.
+
