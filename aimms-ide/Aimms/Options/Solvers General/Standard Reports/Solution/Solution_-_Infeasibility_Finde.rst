@@ -24,7 +24,7 @@ If this option is switched 'On' and a model is infeasible, extra information wil
 
 *	By default AIMMS will suppress the writing of the irreducible infeasibility set (IIS) for encrypted AIMMS projects; see the option **Suppress Listing File Encrypted Project**.
 *	The following solvers have an infeasibility finder: :ref:`SolverCPLEX`, :ref:`SolverGurobi`, :ref:`SolverCOPT`, :ref:`SolverODH`, :ref:`SolverXA`, :ref:`SolverCONOPT` and :ref:`SolverBARON`.
-*	The infeasibility finder can also be used for infeasible MIP models using CPLEX, Gurobi or COPT, or nonlinear models using Gurobi.
+*	The infeasibility finder can also be used for infeasible MIP models using CPLEX, Gurobi, COPT or ODH-CPLEX, or nonlinear models using Gurobi.
 *	CPLEX will use its conflict refiner if this option is switched on to construct an irreducible infeasibility set (IIS).
 *	XA's infeasibility finder will only be used if this option is switched on and the XA option **Force** is set to 'Yes'.
 *	CONOPT's infeasibility finder only finds infeasibilities in recursive and triangular equations.
