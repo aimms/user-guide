@@ -48,6 +48,7 @@ option **Accept Basis** indicates that the basis should be accepted, and CPLEX w
 **Note** 
 
 *	CPLEX also supports :ref:`CPLEX_Multiple_MIP_Starts`.
+*	CPLEX can write MIP starts (if any) to a file if the option **Write MIP Starts** is set to 'Yes'.
 *	If this option is not switched off and if GMP functionality is used (e.g., :any:`GMP::Instance::Solve`), then CPLEX can resume a solve that was interrupted or hit a time, node or iteration limit.
 
 
@@ -55,5 +56,6 @@ option **Accept Basis** indicates that the basis should be accepted, and CPLEX w
 
 *	:ref:`option-AIMMS-accept_basis`  
 *	:ref:`option-CPLEX-number_of_repair_attempts`  
+*	:ref:`option-CPLEX-write_mip_starts` 
 *	:ref:`CPLEX_Multiple_MIP_Starts` 
 

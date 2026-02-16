@@ -23,6 +23,7 @@ start information is provided to try to construct a complete solution. Possible 
 
 *	MIP starts can also be used for NLP and MINLP models.
 *	Gurobi also supports :ref:`GUROBI_Multiple_MIP_Starts`.
+*	Gurobi can write the (first) MIP start to a file if the option **Restart** is set to 'Before'.
 
 
 **Learn more about** 
@@ -30,4 +31,5 @@ start information is provided to try to construct a complete solution. Possible 
 *	:ref:`option-GUROBI-mip_start_node_limit` 
 *	:ref:`option-GUROBI-mip_start_time_limit` 
 *	:ref:`option-GUROBI-mip_start_work_limit` 
+*	:ref:`option-GUROBI-restart` 
 *	:ref:`GUROBI_Multiple_MIP_Starts` 
