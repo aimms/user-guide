@@ -41,7 +41,7 @@ The cuts and presolved model will be written to the file 'cplex_cuts.lis' which 
 
 
 
-By switching on the option **Write Cuts Variable Values**  each cut and constraint that is printed in the constraint list will be followed by a list of variables referenced in that cut or constraint. Such a list contains for each variable its lower bound, its level value and its upper bound. The level values correspond to the fractional solution found at the end of the root node. The lower and upper bounds correspond to the bounds in the presolved model.
+By switching on the option **Write Cuts Variable Values** each cut and constraint that is printed in the constraint list will be followed by a list of variables referenced in that cut or constraint. Such a list contains for each variable its lower bound, its level value and its upper bound. The level values correspond to the fractional solution found at the end of the root node. The lower and upper bounds correspond to the bounds in the presolved model.
 
 
 
@@ -49,8 +49,8 @@ By switching on the option **Write Cuts Variable Values**  each cut and constrai
 
 **Note** 
 
-*	The presolved model (without cuts) will be printed if this option is set to 'Presolved model plus cuts' and the option **MIP Number of Cut Passes**  is set to -1.
-
+*	The presolved model (without cuts) will be printed if this option is set to 'Presolved model plus cuts' and the option **MIP Number of Cut Passes** is set to -1.
+*	Setting the option **Heuristic Effort** to 0 might reduce the time required to write the cuts.
 
 
 
@@ -58,5 +58,6 @@ By switching on the option **Write Cuts Variable Values**  each cut and constrai
 
 *	:ref:`option-AIMMS-constraint_listing` 
 *	:ref:`option-CPLEX-find_fractional_root_solution` 
+*	:ref:`option-CPLEX-heuristic_effort` 
 *	:ref:`option-CPLEX-mip_number_of_cut_passes` 
 *	:ref:`option-CPLEX-write_cuts_variable_values` 
