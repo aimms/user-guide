@@ -65,7 +65,7 @@ If this option is activated then CPLEX will interrupt the solve after processing
 
 *	If this option is activated then CPLEX will use the 'branch-and-cut' algorithm instead of 'dynamic search'. If the option **MIP Search Strategy** is set to 'Apply dynamic search' then this option will be ignored.
 *	This option will also be ignored if the option **Use Generic Callbacks**  is switched on, or if a cut callback is installed for the math program in the AIMMS project.
-*	Setting the option **Heuristic Effort** to 0 might reduce the time required to finding the fractional root solution.
+*	Setting the option **Heuristic Effort** to 0 might reduce the time required for finding the fractional root solution.
 
 
 
