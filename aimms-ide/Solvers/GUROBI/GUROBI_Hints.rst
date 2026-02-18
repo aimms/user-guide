@@ -41,7 +41,8 @@ For example, to pass the current level values of the variable JobSchedule as hin
 
 In this example the hint priority for JobSchedule is set to 10.
 
-Optionally, you can also read hints from a file, as controlled by the option **Hints File**.
+Optionally, you can also read hints from a file, as controlled by the option **Hints File**. This option can also be used to
+write hints to a file.
 
 
 **Learn more about** 
