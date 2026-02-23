@@ -21,7 +21,7 @@ Possible values are:
 
 If the option is switched off, then such a variable will appear as a 'frozen' column in the generated mathematical program.
 If the option is switched on, then such a variable will not appear as a column in the generated mathematical program (similar as if the nonvar status is > 0),
-unless the option **Equal Bounds Imply Nonvar** is switched off.
+unless the option **Eliminate Nonvar Columns** is switched off.
 
 **Remark**
 
