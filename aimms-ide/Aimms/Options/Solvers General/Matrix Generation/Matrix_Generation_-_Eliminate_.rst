@@ -22,7 +22,7 @@ You should only need to use this option if you, for example, want such columns t
 
 
 
-The matrix generation algorithm will decide whether or not to generate a column for a reference to a variable in the formulation of a constraint that occurs in the declaration of a mathematical program, by consecutively checking the following set of rules below. Note that the option **Eliminate Nonvar Columns**  only has an impact on a few rules!
+The matrix generation algorithm will decide whether or not to generate a column for a reference to a variable in the formulation of a constraint that occurs in the declaration of a mathematical program, by consecutively checking the following set of rules below. Note that the option **Eliminate Nonvar Columns** only has an impact on a few rules!
 
 
 
@@ -35,11 +35,11 @@ The matrix generation algorithm will decide whether or not to generate a column 
 2.	If the NONVAR STATUS attribute of a variable (or the .nonvar suffix) assumes a value
 
     * < 0, then AIMMS will always generate a column,
-    * > 0, then AIMMS will only generate a column if the option **Eliminate Nonvar Columns**  is switched off.
+    * > 0, then AIMMS will only generate a column if the option **Eliminate Nonvar Columns** is switched off.
 
     In these cases, both bounds of the generated columns will be set equal to the level value of the associated variables prior to generating.
 
-3.	If the NONVAR STATUS attribute is equal to 0, and the lower and upper bound of a variable are equal, and the option **equal_bounds_imply_nonvar** is switched on,  then AIMMS will only generate a column if the option **Eliminate Nonvar Columns**  is switched off.
+3.	If the NONVAR STATUS attribute is equal to 0, and the lower and upper bound of a variable are equal, and the option **Equal Bounds Imply Nonvar** is switched on, then AIMMS will only generate a column if the option **Eliminate Nonvar Columns** is switched off.
 
 4.	In all other cases AIMMS will generate a column in the matrix.
 
@@ -72,3 +72,8 @@ or
 
 makes no difference. In both cases the lower and upper bound of Y.Stochastic(sc) will be set equal to the level value.
 
+
+*Learn more about** 
+
+*	:ref:`option-AIMMS-disable_new_mathprog_generator`
+*	:ref:`option-AIMMS-equal_bounds_imply_nonvar`

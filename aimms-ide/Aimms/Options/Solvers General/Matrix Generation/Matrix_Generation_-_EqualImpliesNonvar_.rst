@@ -20,7 +20,8 @@ Possible values are:
     *	On
 
 If the option is switched off, then such a variable will appear as a 'frozen' column in the generated mathematical program.
-If the option is switched on, then such a variable will not appear as a column in the generated mathematical program (similar as if the nonvar status is > 0).
+If the option is switched on, then such a variable will not appear as a column in the generated mathematical program (similar as if the nonvar status is > 0),
+unless the option **Equal Bounds Imply Nonvar** is switched off.
 
 **Remark**
 
@@ -38,3 +39,4 @@ variable will appear as a frozen column in the generated mathematical program.
 **Learn more about** 
 
 *	:ref:`option-AIMMS-disable_new_mathprog_generator`
+*	:ref:`option-AIMMS-eliminate_nonvar_columns`
