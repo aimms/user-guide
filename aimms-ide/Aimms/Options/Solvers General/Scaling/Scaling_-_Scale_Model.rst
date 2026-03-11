@@ -37,9 +37,8 @@ Scaling is not supported for:
 
     *	Constraint programming models,
     *	Models with complementarity constraints,
-    *	GMP's generated using :any:`GMP::Instance::CreateDual`,
-    *	GMP's generated using :any:`GMP::Instance::GenerateRobustCounterpart`, and
-    *	GMP's generated using :any:`GMP::Instance::GenerateStochasticProgram`.
+    *	GMP's generated using :any:`GMP::Instance::CreateDual`, and
+    *	GMP's generated using :any:`GMP::Instance::GenerateRobustCounterpart`.
 
 
 A model can also be scaled by using the :ref:`Diagnostic-Tools_Math_Program_Inspector_Scale_Model` in the Math

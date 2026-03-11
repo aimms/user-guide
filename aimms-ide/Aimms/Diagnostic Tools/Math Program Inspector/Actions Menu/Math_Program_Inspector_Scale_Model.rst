@@ -21,7 +21,7 @@ right-hand-side values and variable bounds will become as close to 1 (in absolut
 In other words, it will try to reduce the number of red blocks in the :ref:`Diagnostic-Tools_Math_Program_Inspector_Matrix1` . 
 Note, however, that binary and integer variables will not be scaled.
 
-By switching on the option **Scale Using Solution**  the scaling tool will use the current solution 
+By switching on the option **Scale Using Solution** the scaling tool will use the current solution 
 (if any) in the Math Program Inspector to scale the model. The focus then (partially) 
 shifts from making the Matrix View green to getting a solution in which 
 the variables get level values close to 1 (in absolute sense).
@@ -36,16 +36,15 @@ the variables and constraints.
 Please note that if you select a variable or constraint in the Scaling Factors tab, 
 you can use right-mouse-click to open the attributes window of the corresponding variable or constraint.
 
-The scaling factors can be printed in the listing file by setting the option **List Scaling Factors**  to 'Automatic' or 'Symbolic'.
+The scaling factors can be printed in the listing file by setting the option **List Scaling Factors** to 'Automatic' or 'Symbolic'.
 
 The Scale Model action is only available for linear models and it is not supported for:
 
 *	GMP's generated using GMP::Instance::CreateDual,
-*	GMP's generated using GMP::Instance::GenerateRobustCounterpart,
-*	GMP's generated using GMP::Instance::GenerateStochasticProgram, and
+*	GMP's generated using GMP::Instance::GenerateRobustCounterpart, and
 *	GMP's generated using GMP::Instance::CreatePresolved.
 
-A model can also be scaled, outside the Math Program Inspector, by activating the **Scale Model**  option. 
+A model can also be scaled, outside the Math Program Inspector, by activating the **Scale Model** option. 
 The main advantage of using this option is that AIMMS automatically applies all scaling factors underneath, 
 so you do not have to change your model. 
 Another advantage is that it can be used to scale a nonlinear model.
