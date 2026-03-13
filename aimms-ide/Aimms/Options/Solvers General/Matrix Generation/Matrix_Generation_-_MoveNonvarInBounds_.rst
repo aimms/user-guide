@@ -30,8 +30,10 @@ If the option is switched on, then prior to generation, the level value is chang
 
 *	This option is only used by the new generator, as controlled by the option **Disable New Mathprog Generator**.
 *	This option was added in AIMMS version 25.7.1.
+*	If the option **Equal Bounds Imply Nonvar** is enabled, then this option is automaticlly also treated as being enabled.
 
 
 **Learn more about** 
 
 *	:ref:`option-AIMMS-disable_new_mathprog_generator`
+*	:ref:`option-AIMMS-equal_bounds_imply_nonvar`
