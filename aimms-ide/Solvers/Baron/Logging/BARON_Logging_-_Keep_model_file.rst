@@ -3,7 +3,7 @@
 .. _option-Baron-keep_model_file:
 
 
-Keep model file
+Keep Model File
 ===============
 
 

@@ -1,7 +1,7 @@
 .. _option-CBC-cut_depth:
 
 
-Cut depth
+Cut Depth
 =========
 
 

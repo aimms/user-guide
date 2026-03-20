@@ -1,7 +1,7 @@
 .. _option-CBC-barrier_scaling:
 
 
-Barrier scaling
+Barrier Scaling
 ===============
 
 

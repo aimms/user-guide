@@ -1,7 +1,7 @@
 .. _option-CBC-mip_start:
 
 
-MIP start
+MIP Start
 =========
 
 

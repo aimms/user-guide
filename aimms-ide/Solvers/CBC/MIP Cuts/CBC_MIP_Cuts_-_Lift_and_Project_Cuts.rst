@@ -1,7 +1,7 @@
 .. _option-CBC-lift_and_project_cuts:
 
 
-Lift and project cuts
+Lift and Project Cuts
 =====================
 
 

@@ -3,7 +3,7 @@
 .. _option-Baron-upper_bounding:
 
 
-Upper bounding
+Upper Bounding
 ==============
 
 

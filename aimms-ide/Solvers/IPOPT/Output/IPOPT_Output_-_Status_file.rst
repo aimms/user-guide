@@ -3,7 +3,7 @@
 .. _option-IPOPT-status_file:
 
 
-Status file
+Status File
 ===========
 
 

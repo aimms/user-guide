@@ -1,4 +1,4 @@
-Restoration phase
+Restoration Phase
 =================
 
 .. toctree::

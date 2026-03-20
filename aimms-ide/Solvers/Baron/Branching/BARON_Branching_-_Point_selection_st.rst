@@ -3,7 +3,7 @@
 .. _option-Baron-point_selection_strategy:
 
 
-Point selection strategy
+Point Selection Strategy
 ========================
 
 

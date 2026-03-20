@@ -3,7 +3,7 @@
 .. _option-Baron-keep_summary_file:
 
 
-Keep summary file
+Keep Summary File
 =================
 
 

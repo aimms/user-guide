@@ -1,4 +1,4 @@
-NLP scaling
+NLP Scaling
 ===========
 
 .. toctree::

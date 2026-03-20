@@ -3,7 +3,7 @@
 .. _option-IPOPT-always_accept_full_trial_step:
 
 
-Always accept full trial step
+Always Accept Full Trial Step
 =============================
 
 

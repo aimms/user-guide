@@ -1,7 +1,7 @@
 .. _option-CPOPT-sequence_encoding:
 
 
-Sequence encoding
+Sequence Encoding
 =================
 
 

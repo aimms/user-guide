@@ -1,7 +1,7 @@
 .. _option-CBC-mir_cuts:
 
 
-MIR cuts
+MIR Cuts
 ========
 
 

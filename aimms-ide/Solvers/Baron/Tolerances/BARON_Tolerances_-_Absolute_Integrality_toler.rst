@@ -1,7 +1,7 @@
 .. _option-Baron-absolute_integrality_tolerance:
 
 
-Absolute integrality tolerance
+Absolute Integrality Tolerance
 ==============================
 
 

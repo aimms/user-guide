@@ -3,7 +3,7 @@
 .. _option-IPOPT-point_to_bound_relative_distance:
 
 
-Point to bound relative distance
+Point to Bound Relative Distance
 ================================
 
 

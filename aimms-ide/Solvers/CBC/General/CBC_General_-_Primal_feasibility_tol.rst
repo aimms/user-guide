@@ -1,7 +1,7 @@
 .. _option-CBC-primal_feasibility_tolerance:
 
 
-Primal feasibility tolerance
+Primal Feasibility Tolerance
 ============================
 
 

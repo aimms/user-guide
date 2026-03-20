@@ -3,7 +3,7 @@
 .. _option-Baron-model_file_page_width:
 
 
-Model file page width
+Model File Page Width
 =====================
 
 

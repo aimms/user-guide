@@ -1,7 +1,7 @@
 .. _option-CBC-global_cut_control:
 
 
-Global cut control
+Global Cut Control
 ==================
 
 

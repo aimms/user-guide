@@ -1,7 +1,7 @@
 .. _option-CBC-rins_heuristic:
 
 
-RINS heuristic
+RINS Heuristic
 ==============
 
 

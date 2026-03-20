@@ -1,7 +1,7 @@
 .. _option-Baron-absolute_feasibility_tolerance:
 
 
-Absolute feasibility tolerance
+Absolute Feasibility Tolerance
 ==============================
 
 

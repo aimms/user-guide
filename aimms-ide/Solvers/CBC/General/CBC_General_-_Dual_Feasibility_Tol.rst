@@ -1,7 +1,7 @@
 .. _option-CBC-dual_feasibility_tolerance:
 
 
-Dual feasibility tolerance
+Dual Feasibility Tolerance
 ==========================
 
 

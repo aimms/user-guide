@@ -3,7 +3,7 @@
 .. _option-IPOPT-hessian_approximation_successive_iterations_limit:
 
 
-Hessian approximation successive iterations limit
+Hessian Approximation Successive Iterations Limit
 =================================================
 
 

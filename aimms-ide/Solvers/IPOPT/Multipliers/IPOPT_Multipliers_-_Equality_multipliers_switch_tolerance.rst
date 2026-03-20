@@ -3,7 +3,7 @@
 .. _option-IPOPT-equality_multipliers_switch_tolerance:
 
 
-Equality multipliers switch tolerance
+Equality Multipliers Switch Tolerance
 =====================================
 
 

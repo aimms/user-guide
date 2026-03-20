@@ -1,7 +1,7 @@
 .. _option-Baron-box_elimination_tolerance:
 
 
-Box elimination tolerance
+Box Elimination Tolerance
 =========================
 
 

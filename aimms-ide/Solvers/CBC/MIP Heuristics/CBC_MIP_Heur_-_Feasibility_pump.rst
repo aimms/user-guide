@@ -1,7 +1,7 @@
 .. _option-CBC-feasibility_pump:
 
 
-Feasibility pump
+Feasibility Pump
 ================
 
 

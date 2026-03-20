@@ -3,7 +3,7 @@
 .. _option-Baron-automatically_set_missing_bounds:
 
 
-Automatically set missing bounds
+Automatically Set Missing Bounds
 ================================
 
 

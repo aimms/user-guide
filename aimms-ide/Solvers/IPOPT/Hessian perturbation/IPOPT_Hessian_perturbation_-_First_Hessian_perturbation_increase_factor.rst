@@ -2,7 +2,7 @@
 
 .. _option-IPOPT-first_hessian_perturbation_increase_factor:
 
-First Hessian perturbation increase factor
+First Hessian Perturbation Increase Factor
 ==========================================
 
 

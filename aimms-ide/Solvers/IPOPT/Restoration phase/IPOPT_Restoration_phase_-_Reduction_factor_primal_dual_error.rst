@@ -3,7 +3,7 @@
 .. _option-IPOPT-reduction_factor_primal_dual_error:
 
 
-Reduction factor primal dual error
+Reduction Factor Primal Dual Error
 ==================================
 
 

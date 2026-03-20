@@ -3,7 +3,7 @@
 .. _option-IPOPT-mumps_permuting_and_scaling:
 
 
-MUMPS permuting and scaling
+MUMPS Permuting and Scaling
 ===========================
 
 

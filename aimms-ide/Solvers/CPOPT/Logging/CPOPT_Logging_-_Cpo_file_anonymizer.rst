@@ -1,7 +1,7 @@
 .. _option-CPOPT-cpo_file_anonymizer:
 
 
-Cpo file anonymizer
+Cpo File Anonymizer
 ===================
 
 

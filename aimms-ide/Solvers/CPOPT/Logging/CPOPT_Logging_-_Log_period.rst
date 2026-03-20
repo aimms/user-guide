@@ -1,7 +1,7 @@
 .. _option-CPOPT-log_period:
 
 
-Log period
+Log Period
 ==========
 
 

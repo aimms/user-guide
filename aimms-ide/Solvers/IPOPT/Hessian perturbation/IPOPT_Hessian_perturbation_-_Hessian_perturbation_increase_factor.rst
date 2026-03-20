@@ -3,7 +3,7 @@
 .. _option-IPOPT-hessian_perturbation_increase_factor:
 
 
-Hessian perturbation increase factor
+Hessian Perturbation Increase Factor
 ====================================
 
 

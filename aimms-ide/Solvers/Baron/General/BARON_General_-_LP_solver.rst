@@ -3,7 +3,7 @@
 .. _option-Baron-lp_solver:
 
 
-LP solver
+LP Solver
 =========
 
 

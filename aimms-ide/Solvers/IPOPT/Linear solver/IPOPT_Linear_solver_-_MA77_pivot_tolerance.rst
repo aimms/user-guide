@@ -3,7 +3,7 @@
 .. _option-IPOPT-ma77_pivot_tolerance:
 
 
-MA77 pivot tolerance
+MA77 Pivot Tolerance
 ====================
 
 

@@ -1,7 +1,7 @@
 .. _option-CBC-mip_presolve:
 
 
-MIP presolve
+MIP Presolve
 ============
 
 

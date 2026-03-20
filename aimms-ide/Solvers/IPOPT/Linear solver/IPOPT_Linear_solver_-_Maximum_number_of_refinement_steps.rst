@@ -3,7 +3,7 @@
 .. _option-IPOPT-maximum_number_of_refinement_steps:
 
 
-Maximum number of refinement steps
+Maximum Number of Refinement Steps
 ==================================
 
 

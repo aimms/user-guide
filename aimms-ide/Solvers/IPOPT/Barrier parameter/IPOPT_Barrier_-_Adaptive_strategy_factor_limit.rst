@@ -3,7 +3,7 @@
 .. _option-IPOPT-adaptive_strategy_factor_limit:
 
 
-Adaptive strategy factor limit
+Adaptive Strategy Factor Limit
 ==============================
 
 

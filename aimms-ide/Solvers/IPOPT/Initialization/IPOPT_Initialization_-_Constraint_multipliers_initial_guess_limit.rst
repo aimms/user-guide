@@ -3,7 +3,7 @@
 .. _option-IPOPT-constraint_multipliers_initial_guess_limit:
 
 
-Constraint multipliers initial guess limit
+Constraint Multipliers Initial Guess Limit
 ==========================================
 
 

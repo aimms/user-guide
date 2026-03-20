@@ -1,7 +1,7 @@
 .. _option-CPOPT-branch_limit:
 
 
-Branch limit
+Branch Limit
 ============
 
 

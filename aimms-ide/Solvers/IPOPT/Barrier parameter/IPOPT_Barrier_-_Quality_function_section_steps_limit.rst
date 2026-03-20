@@ -3,7 +3,7 @@
 .. _option-IPOPT-quality_function_section_steps_limit:
 
 
-Quality function section steps limit
+Quality Function Section Steps Limit
 ====================================
 
 

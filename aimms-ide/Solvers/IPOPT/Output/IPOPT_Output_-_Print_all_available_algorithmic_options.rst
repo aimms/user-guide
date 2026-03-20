@@ -3,7 +3,7 @@
 .. _option-IPOPT-print_all_available_algorithmic_options:
 
 
-Print all available algorithmic options
+Print All Available Algorithmic Options
 =======================================
 
 

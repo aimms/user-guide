@@ -1,7 +1,7 @@
 .. _option-CPOPT-sequential_resource_inference_level:
 
 
-Sequential resource inference level
+Sequential Resource Inference Level
 ===================================
 
 

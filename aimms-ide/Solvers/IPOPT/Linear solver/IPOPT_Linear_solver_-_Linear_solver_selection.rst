@@ -3,7 +3,7 @@
 .. _option-IPOPT-linear_solver_selection:
 
 
-Linear solver selection
+Linear Solver Selection
 =======================
 
 

@@ -3,7 +3,7 @@
 .. _option-IPOPT-minimum_violation_infeasible_problem:
 
 
-Minimum violation infeasible problem
+Minimum Violation Infeasible Problem
 ====================================
 
 

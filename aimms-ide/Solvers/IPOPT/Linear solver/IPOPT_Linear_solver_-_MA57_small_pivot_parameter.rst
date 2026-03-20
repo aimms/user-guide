@@ -3,7 +3,7 @@
 .. _option-IPOPT-ma57_small_pivot_parameter:
 
 
-MA57 small pivot parameter
+MA57 Small Pivot Parameter
 ==========================
 
 

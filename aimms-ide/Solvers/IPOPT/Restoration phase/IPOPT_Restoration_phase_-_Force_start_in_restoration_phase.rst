@@ -3,7 +3,7 @@
 .. _option-IPOPT-force_start_in_restoration_phase:
 
 
-Force start in restoration phase
+Force Start in Restoration Phase
 ================================
 
 

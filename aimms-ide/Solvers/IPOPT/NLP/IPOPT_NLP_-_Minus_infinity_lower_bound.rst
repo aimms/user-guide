@@ -3,7 +3,7 @@
 .. _option-IPOPT-minus_infinity_lower_bound:
 
 
-Minus infinity lower bound
+Minus Infinity Lower Bound
 ==========================
 
 

@@ -3,7 +3,7 @@
 .. _option-IPOPT-ma57_node_amalgamation_parameter:
 
 
-MA57 node amalgamation parameter
+MA57 Node Amalgamation Parameter
 ================================
 
 

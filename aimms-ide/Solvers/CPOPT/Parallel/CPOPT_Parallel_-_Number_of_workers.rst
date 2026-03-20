@@ -1,7 +1,7 @@
 .. _option-CPOPT-number_of_workers:
 
 
-Number of workers
+Number of Workers
 =================
 
 

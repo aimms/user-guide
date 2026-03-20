@@ -3,7 +3,7 @@
 .. _option-IPOPT-ma57_block_size:
 
 
-MA57 block size
+MA57 Block Size
 ===============
 
 

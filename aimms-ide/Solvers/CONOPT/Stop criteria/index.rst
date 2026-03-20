@@ -1,4 +1,4 @@
-Stop criteria
+Stop Criteria
 =============
 
 .. toctree::

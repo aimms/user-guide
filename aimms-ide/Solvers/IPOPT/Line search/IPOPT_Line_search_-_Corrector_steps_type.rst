@@ -3,7 +3,7 @@
 .. _option-IPOPT-corrector_steps_type:
 
 
-Corrector steps type
+Corrector Steps Type
 ====================
 
 

@@ -3,7 +3,7 @@
 .. _option-Baron-solution_distance:
 
 
-Solution distance
+Solution Distance
 =================
 
 

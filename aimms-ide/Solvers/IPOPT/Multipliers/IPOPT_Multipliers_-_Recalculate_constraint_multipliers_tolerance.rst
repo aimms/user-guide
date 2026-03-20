@@ -3,7 +3,7 @@
 .. _option-IPOPT-recalculate_constraint_multipliers_tolerance:
 
 
-Recalculate constraint multipliers tolerance
+Recalculate Constraint Multipliers Tolerance
 ============================================
 
 

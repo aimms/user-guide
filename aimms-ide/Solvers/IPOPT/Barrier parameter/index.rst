@@ -1,4 +1,4 @@
-Barrier parameter
+Barrier Parameter
 =================
 
 .. toctree::

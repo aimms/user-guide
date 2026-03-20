@@ -3,7 +3,7 @@
 .. _option-Baron-number_of_probing_problems:
 
 
-Number of probing problems
+Number of Probing Problems
 ==========================
 
 

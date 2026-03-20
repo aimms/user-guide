@@ -1,7 +1,7 @@
 .. _option-Baron-relative_termination_tolerance:
 
 
-Relative termination tolerance
+Relative Termination Tolerance
 ==============================
 
 

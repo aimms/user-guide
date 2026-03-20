@@ -1,4 +1,4 @@
-Linear solver
+Linear Solver
 =============
 
 .. toctree::

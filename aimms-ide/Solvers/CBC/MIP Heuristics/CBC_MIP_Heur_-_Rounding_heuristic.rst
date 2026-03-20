@@ -1,7 +1,7 @@
 .. _option-CBC-rounding_heuristic:
 
 
-Rounding heuristic
+Rounding Heuristic
 ==================
 
 

@@ -1,7 +1,7 @@
 .. _option-CPOPT-relative_optimality_tolerance:
 
 
-Relative optimality tolerance
+Relative Optimality Tolerance
 =============================
 
 

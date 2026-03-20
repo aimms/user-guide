@@ -1,7 +1,7 @@
 .. _option-CPOPT-failure_directed_search:
 
 
-Failure directed search
+Failure Directed Search
 =======================
 
 

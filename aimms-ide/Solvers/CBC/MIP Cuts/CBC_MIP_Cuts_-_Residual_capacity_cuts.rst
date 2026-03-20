@@ -1,7 +1,7 @@
 .. _option-CBC-residual_capacity_cuts:
 
 
-Residual capacity cuts
+Residual Capacity Cuts
 ======================
 
 

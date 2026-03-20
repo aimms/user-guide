@@ -1,7 +1,7 @@
 .. _option-CPOPT-failure_directed_search_memory_limit:
 
 
-Failure directed search memory limit
+Failure Directed Search Memory Limit
 ====================================
 
 

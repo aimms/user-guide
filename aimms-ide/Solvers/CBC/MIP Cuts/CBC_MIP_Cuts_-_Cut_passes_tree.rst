@@ -1,7 +1,7 @@
 .. _option-CBC-cut_passes_tree:
 
 
-Cut passes tree
+Cut Passes Tree
 ===============
 
 

@@ -3,7 +3,7 @@
 .. _option-IPOPT-point_to_bound_absolute_distance:
 
 
-Point to bound absolute distance
+Point to Bound Absolute Distance
 ================================
 
 

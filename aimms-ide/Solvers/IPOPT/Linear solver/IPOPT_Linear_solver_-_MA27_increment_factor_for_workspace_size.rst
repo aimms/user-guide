@@ -2,7 +2,7 @@
 
 .. _option-IPOPT-ma27_increment_factor_for_workspace_size:
 
-MA27 increment factor for workspace size
+MA27 Increment Factor for Workspace Size
 ========================================
 
 

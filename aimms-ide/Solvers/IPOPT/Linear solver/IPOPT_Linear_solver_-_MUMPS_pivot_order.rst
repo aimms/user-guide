@@ -3,7 +3,7 @@
 .. _option-IPOPT-mumps_pivot_order:
 
 
-MUMPS pivot order
+MUMPS Pivot Order
 =================
 
 

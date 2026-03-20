@@ -3,7 +3,7 @@
 .. _option-IPOPT-fixed_variable_handling:
 
 
-Fixed variable handling
+Fixed Variable Handling
 =======================
 
 

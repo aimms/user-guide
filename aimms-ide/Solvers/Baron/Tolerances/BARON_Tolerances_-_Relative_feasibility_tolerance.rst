@@ -1,7 +1,7 @@
 .. _option-Baron-relative_feasibility_tolerance:
 
 
-Relative feasibility tolerance
+Relative Feasibility Tolerance
 ==============================
 
 

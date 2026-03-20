@@ -3,7 +3,7 @@
 .. _option-IPOPT-output_verbosity_level:
 
 
-Output verbosity level
+Output Verbosity Level
 ======================
 
 

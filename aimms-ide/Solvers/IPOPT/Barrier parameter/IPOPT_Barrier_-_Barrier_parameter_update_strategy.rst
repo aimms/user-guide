@@ -3,7 +3,7 @@
 .. _option-IPOPT-barrier_parameter_update_strategy:
 
 
-Barrier parameter update strategy
+Barrier Parameter Update Strategy
 =================================
 
 

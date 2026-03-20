@@ -3,7 +3,7 @@
 .. _option-Baron-thread_limit_mip:
 
 
-Thread limit MIP
+Thread Limit MIP
 ================
 
 

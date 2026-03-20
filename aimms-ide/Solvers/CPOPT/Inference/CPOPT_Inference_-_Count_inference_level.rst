@@ -1,7 +1,7 @@
 .. _option-CPOPT-count_inference_level:
 
 
-Count inference level
+Count Inference Level
 =====================
 
 

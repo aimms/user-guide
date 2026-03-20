@@ -1,6 +1,6 @@
 .. _option-CONOPT-model_is_square_system:
 
-Model is Square System
+Model Is Square System
 ======================
 
 

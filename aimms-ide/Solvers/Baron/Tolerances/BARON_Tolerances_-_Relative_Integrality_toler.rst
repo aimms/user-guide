@@ -1,7 +1,7 @@
 .. _option-Baron-relative_integrality_tolerance:
 
 
-Relative integrality tolerance
+Relative Integrality Tolerance
 ==============================
 
 

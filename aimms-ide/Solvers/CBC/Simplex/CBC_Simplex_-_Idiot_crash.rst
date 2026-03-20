@@ -1,7 +1,7 @@
 .. _option-CBC-idiot_crash:
 
 
-Idiot crash
+Idiot Crash
 ===========
 
 

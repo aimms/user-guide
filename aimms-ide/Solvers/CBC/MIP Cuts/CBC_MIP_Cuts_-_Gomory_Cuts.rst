@@ -1,7 +1,7 @@
 .. _option-CBC-gomory_cuts:
 
 
-Gomory cuts
+Gomory Cuts
 ===========
 
 

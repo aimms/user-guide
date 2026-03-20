@@ -3,7 +3,7 @@
 .. _option-IPOPT-linear_system_scaling:
 
 
-Linear system scaling
+Linear System Scaling
 =====================
 
 

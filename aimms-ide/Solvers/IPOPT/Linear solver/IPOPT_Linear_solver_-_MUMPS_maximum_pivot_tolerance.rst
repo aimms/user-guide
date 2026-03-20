@@ -3,7 +3,7 @@
 .. _option-IPOPT-mumps_maximum_pivot_tolerance:
 
 
-MUMPS maximum pivot tolerance
+MUMPS Maximum Pivot Tolerance
 =============================
 
 

@@ -1,7 +1,7 @@
 .. _option-CBC-cut_passes_root_node:
 
 
-Cut passes root node
+Cut Passes Root Node
 ====================
 
 

@@ -3,7 +3,7 @@
 .. _option-IPOPT-honor_original_bounds:
 
 
-Honor original bounds
+Honor Original Bounds
 =====================
 
 

@@ -3,7 +3,7 @@
 .. _option-Baron-keep_times_file:
 
 
-Keep times file
+Keep Times File
 ===============
 
 

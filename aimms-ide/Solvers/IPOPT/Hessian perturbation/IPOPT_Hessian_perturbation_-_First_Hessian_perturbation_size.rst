@@ -3,7 +3,7 @@
 .. _option-IPOPT-first_hessian_perturbation_size:
 
 
-First Hessian perturbation size
+First Hessian Perturbation Size
 ===============================
 
 

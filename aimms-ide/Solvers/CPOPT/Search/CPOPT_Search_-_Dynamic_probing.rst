@@ -1,7 +1,7 @@
 .. _option-CPOPT-dynamic_probing:
 
 
-Dynamic probing
+Dynamic Probing
 ===============
 
 

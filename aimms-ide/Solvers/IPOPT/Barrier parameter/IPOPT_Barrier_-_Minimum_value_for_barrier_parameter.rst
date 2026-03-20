@@ -3,7 +3,7 @@
 .. _option-IPOPT-minimum_value_for_barrier_parameter:
 
 
-Minimum value for barrier parameter
+Minimum Value for Barrier Parameter
 ===================================
 
 

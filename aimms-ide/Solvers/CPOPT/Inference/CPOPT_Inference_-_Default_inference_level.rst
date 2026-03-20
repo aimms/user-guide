@@ -1,7 +1,7 @@
 .. _option-CPOPT-default_inference_level:
 
 
-Default inference level
+Default Inference Level
 =======================
 
 

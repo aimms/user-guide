@@ -1,7 +1,7 @@
 .. _option-Baron-insufficient_progress_time:
 
 
-Insufficient progress time
+Insufficient Progress Time
 ==========================
 
 

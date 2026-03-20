@@ -1,7 +1,7 @@
 .. _option-CPOPT-number_of_search_points:
 
 
-Number of search points
+Number of Search Points
 =======================
 
 

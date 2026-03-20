@@ -3,7 +3,7 @@
 .. _option-IPOPT-mumps_working_space_percentage_increase:
 
 
-MUMPS working space percentage increase
+MUMPS Working Space Percentage Increase
 =======================================
 
 

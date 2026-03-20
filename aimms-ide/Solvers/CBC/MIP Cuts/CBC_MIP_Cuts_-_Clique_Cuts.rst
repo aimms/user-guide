@@ -1,7 +1,7 @@
 .. _option-CBC-clique_cuts:
 
 
-Clique cuts
+Clique Cuts
 ===========
 
 

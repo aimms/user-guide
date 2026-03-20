@@ -1,7 +1,7 @@
 .. _option-CBC-proximity_search:
 
 
-Proximity search
+Proximity Search
 ================
 
 

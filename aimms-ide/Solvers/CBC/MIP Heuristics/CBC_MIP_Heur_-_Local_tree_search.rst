@@ -1,7 +1,7 @@
 .. _option-CBC-local_tree_search:
 
 
-Local tree search
+Local Tree Search
 =================
 
 

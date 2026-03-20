@@ -1,7 +1,7 @@
 .. _option-XA-stop_after:
 
 
-Stop After
+Stop after
 ==========
 
 

@@ -2,7 +2,7 @@
 
 .. _option-IPOPT-slack_to_bound_relative_distance:
 
-Slack to bound relative distance
+Slack to Bound Relative Distance
 ================================
 
 

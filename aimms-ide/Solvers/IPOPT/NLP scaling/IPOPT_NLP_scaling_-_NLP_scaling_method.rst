@@ -3,7 +3,7 @@
 .. _option-IPOPT-nlp_scaling_method:
 
 
-NLP scaling method
+NLP Scaling Method
 ==================
 
 

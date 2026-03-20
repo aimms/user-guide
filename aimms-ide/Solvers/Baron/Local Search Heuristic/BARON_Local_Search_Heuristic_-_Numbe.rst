@@ -3,7 +3,7 @@
 .. _option-Baron-number_of_preprocessing_searches:
 
 
-Number of preprocessing searches
+Number of Preprocessing Searches
 ================================
 
 

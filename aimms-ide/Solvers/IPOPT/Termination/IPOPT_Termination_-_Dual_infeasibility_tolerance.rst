@@ -3,7 +3,7 @@
 .. _option-IPOPT-dual_infeasibility_tolerance:
 
 
-Dual infeasibility tolerance
+Dual Infeasibility Tolerance
 ============================
 
 

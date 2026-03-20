@@ -1,7 +1,7 @@
 .. _option-Baron-relative_improvement_tolerance:
 
 
-Relative improvement tolerance
+Relative Improvement Tolerance
 ==============================
 
 

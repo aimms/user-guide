@@ -1,7 +1,7 @@
 .. _option-CPOPT-temporal_relaxation:
 
 
-Temporal relaxation
+Temporal Relaxation
 ===================
 
 

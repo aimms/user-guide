@@ -3,7 +3,7 @@
 .. _option-IPOPT-adaptive_strategy_oracle:
 
 
-Adaptive strategy oracle
+Adaptive Strategy Oracle
 ========================
 
 

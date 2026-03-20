@@ -1,7 +1,7 @@
 .. _option-CPOPT-warning_level:
 
 
-Warning level
+Warning Level
 =============
 
 

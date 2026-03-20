@@ -1,7 +1,7 @@
 .. _option-Baron-insufficient_progress_termination:
 
 
-Insufficient progress termination
+Insufficient Progress Termination
 =================================
 
 

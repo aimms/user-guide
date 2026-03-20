@@ -1,7 +1,7 @@
 .. _option-CPOPT-starting_point:
 
 
-Starting point
+Starting Point
 ==============
 
 

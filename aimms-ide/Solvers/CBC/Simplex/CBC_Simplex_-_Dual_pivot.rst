@@ -1,7 +1,7 @@
 .. _option-CBC-dual_pivot:
 
 
-Dual pivot
+Dual Pivot
 ==========
 
 

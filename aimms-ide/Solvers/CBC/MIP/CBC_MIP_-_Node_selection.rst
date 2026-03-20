@@ -1,7 +1,7 @@
 .. _option-CBC-node_selection:
 
 
-Node selection
+Node Selection
 ==============
 
 

@@ -1,7 +1,7 @@
 .. _option-COPT-log_to_console:
 
 
-Log To Console
+Log to Console
 ==============
 
 

@@ -3,7 +3,7 @@
 .. _option-IPOPT-ma27_maximum_pivot_tolerance:
 
 
-MA27 maximum pivot tolerance
+MA27 Maximum Pivot Tolerance
 ============================
 
 

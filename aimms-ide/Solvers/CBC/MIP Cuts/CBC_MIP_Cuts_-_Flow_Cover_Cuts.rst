@@ -1,7 +1,7 @@
 .. _option-CBC-flow_cover_cuts:
 
 
-Flow cover cuts
+Flow Cover Cuts
 ===============
 
 

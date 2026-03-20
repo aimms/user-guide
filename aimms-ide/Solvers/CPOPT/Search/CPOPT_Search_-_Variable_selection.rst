@@ -1,7 +1,7 @@
 .. _option-CPOPT-variable_selection:
 
 
-Variable selection
+Variable Selection
 ==================
 
 

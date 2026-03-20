@@ -1,7 +1,7 @@
 .. _option-CPOPT-preprocess_table_constraints:
 
 
-Preprocess table constraints
+Preprocess Table Constraints
 ============================
 
 

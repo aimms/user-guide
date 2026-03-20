@@ -3,7 +3,7 @@
 .. _option-Baron-number_of_best_solutions:
 
 
-Number of best solutions
+Number of Best Solutions
 ========================
 
 

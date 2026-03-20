@@ -3,7 +3,7 @@
 .. _option-IPOPT-diverging_iterates_tolerance:
 
 
-Diverging iterates tolerance
+Diverging Iterates Tolerance
 ============================
 
 

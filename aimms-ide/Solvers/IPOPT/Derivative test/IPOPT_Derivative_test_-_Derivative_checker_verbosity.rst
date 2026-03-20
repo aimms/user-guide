@@ -3,7 +3,7 @@
 .. _option-IPOPT-derivative_checker_verbosity:
 
 
-Derivative checker verbosity
+Derivative Checker Verbosity
 ============================
 
 

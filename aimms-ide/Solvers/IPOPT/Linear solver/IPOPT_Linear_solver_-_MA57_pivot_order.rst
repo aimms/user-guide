@@ -3,7 +3,7 @@
 .. _option-IPOPT-ma57_pivot_order:
 
 
-MA57 pivot order
+MA57 Pivot Order
 ================
 
 

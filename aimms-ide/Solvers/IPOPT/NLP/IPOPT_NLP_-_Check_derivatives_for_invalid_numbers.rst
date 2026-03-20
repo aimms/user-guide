@@ -3,7 +3,7 @@
 .. _option-IPOPT-check_derivatives_for_invalid_numbers:
 
 
-Check derivatives for invalid numbers
+Check Derivatives for Invalid Numbers
 =====================================
 
 

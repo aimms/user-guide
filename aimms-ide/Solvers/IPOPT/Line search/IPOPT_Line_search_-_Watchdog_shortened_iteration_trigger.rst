@@ -3,7 +3,7 @@
 .. _option-IPOPT-watchdog_shortened_iteration_trigger:
 
 
-Watchdog shortened iteration trigger
+Watchdog Shortened Iteration Trigger
 ====================================
 
 

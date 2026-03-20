@@ -3,7 +3,7 @@
 .. _option-Baron-find_feasible_solution_only:
 
 
-Find feasible solution only
+Find Feasible Solution Only
 ===========================
 
 

@@ -1,7 +1,7 @@
 .. _option-CBC-output_level:
 
 
-Output level
+Output Level
 ============
 
 

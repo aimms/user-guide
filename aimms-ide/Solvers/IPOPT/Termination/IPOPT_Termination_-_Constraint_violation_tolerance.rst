@@ -1,6 +1,6 @@
 .. _option-IPOPT-constraint_violation_tolerance:
 
-Constraint violation tolerance
+Constraint Violation Tolerance
 ==============================
 
 :Type:	Floating point number	

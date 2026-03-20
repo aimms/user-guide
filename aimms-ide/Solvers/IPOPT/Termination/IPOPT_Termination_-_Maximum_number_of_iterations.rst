@@ -3,7 +3,7 @@
 .. _option-IPOPT-maximum_number_of_iterations:
 
 
-Maximum number of iterations
+Maximum Number of Iterations
 ============================
 
 

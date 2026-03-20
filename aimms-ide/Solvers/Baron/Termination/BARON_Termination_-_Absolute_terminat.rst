@@ -1,7 +1,7 @@
 .. _option-Baron-absolute_termination_tolerance:
 
 
-Absolute termination tolerance
+Absolute Termination Tolerance
 ==============================
 
 

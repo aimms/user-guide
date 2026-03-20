@@ -1,7 +1,7 @@
 .. _option-CBC-combine_solutions:
 
 
-Combine solutions
+Combine Solutions
 =================
 
 

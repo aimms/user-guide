@@ -3,7 +3,7 @@
 .. _option-IPOPT-second_order_correction_trial_steps_limit:
 
 
-Second order correction trial steps limit
+Second Order Correction Trial Steps Limit
 =========================================
 
 

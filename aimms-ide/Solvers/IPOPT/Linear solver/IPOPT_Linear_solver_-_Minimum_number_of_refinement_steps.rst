@@ -3,7 +3,7 @@
 .. _option-IPOPT-minimum_number_of_refinement_steps:
 
 
-Minimum number of refinement steps
+Minimum Number of Refinement Steps
 ==================================
 
 

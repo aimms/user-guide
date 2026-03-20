@@ -3,7 +3,7 @@
 .. _option-IPOPT-fixed_mode_oracle:
 
 
-Fixed mode oracle
+Fixed Mode Oracle
 =================
 
 

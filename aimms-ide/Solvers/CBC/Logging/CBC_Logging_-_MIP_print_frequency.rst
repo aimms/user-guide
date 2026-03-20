@@ -1,7 +1,7 @@
 .. _option-CBC-mip_print_frequency:
 
 
-MIP print frequency
+MIP Print Frequency
 ===================
 
 

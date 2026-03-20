@@ -1,7 +1,7 @@
 .. _option-CBC-barrier_crossover:
 
 
-Barrier crossover
+Barrier Crossover
 =================
 
 

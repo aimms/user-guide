@@ -3,7 +3,7 @@
 .. _option-IPOPT-mumps_pivot_tolerance:
 
 
-MUMPS pivot tolerance
+MUMPS Pivot Tolerance
 =====================
 
 

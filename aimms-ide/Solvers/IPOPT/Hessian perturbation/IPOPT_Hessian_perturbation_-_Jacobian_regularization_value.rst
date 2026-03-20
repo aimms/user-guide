@@ -3,7 +3,7 @@
 .. _option-IPOPT-jacobian_regularization_value:
 
 
-Jacobian regularization value
+Jacobian Regularization Value
 =============================
 
 

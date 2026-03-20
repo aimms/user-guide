@@ -1,7 +1,7 @@
 .. _option-CBC-probing_cuts:
 
 
-Probing cuts
+Probing Cuts
 ============
 
 

@@ -1,7 +1,7 @@
 .. _option-CPOPT-optimality_tolerance:
 
 
-Optimality tolerance
+Optimality Tolerance
 ====================
 
 

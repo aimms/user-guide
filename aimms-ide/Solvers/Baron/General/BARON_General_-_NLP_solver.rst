@@ -3,7 +3,7 @@
 .. _option-Baron-nlp_solver:
 
 
-NLP solver
+NLP Solver
 ==========
 
 

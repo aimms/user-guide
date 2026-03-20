@@ -1,7 +1,7 @@
 .. _option-Baron-optimality_based_tightening:
 
 
-Optimality based tightening
+Optimality Based Tightening
 ===========================
 
 

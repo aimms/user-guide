@@ -3,7 +3,7 @@
 .. _option-Baron-lp_algorithm:
 
 
-LP algorithm
+LP Algorithm
 ============
 
 

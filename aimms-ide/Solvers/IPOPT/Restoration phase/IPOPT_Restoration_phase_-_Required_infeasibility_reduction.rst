@@ -3,7 +3,7 @@
 .. _option-IPOPT-required_infeasibility_reduction:
 
 
-Required infeasibility reduction
+Required Infeasibility Reduction
 ================================
 
 

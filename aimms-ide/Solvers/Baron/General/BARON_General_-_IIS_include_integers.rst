@@ -3,7 +3,7 @@
 .. _option-Baron-iis_include_integers:
 
 
-IIS include integers
+IIS Include Integers
 ====================
 
 

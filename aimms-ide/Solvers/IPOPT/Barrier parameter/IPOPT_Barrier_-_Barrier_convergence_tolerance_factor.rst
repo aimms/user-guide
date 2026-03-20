@@ -3,7 +3,7 @@
 .. _option-IPOPT-barrier_convergence_tolerance_factor:
 
 
-Barrier convergence tolerance factor
+Barrier Convergence Tolerance Factor
 ====================================
 
 

@@ -1,7 +1,7 @@
 .. _option-CPOPT-substitute_variables:
 
 
-Substitute variables
+Substitute Variables
 ====================
 
 

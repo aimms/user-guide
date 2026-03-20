@@ -1,7 +1,7 @@
 .. _option-CBC-greedy_heuristic:
 
 
-Greedy heuristic
+Greedy Heuristic
 ================
 
 

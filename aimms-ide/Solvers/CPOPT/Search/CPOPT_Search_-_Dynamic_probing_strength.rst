@@ -1,7 +1,7 @@
 .. _option-CPOPT-dynamic_probing_strength:
 
 
-Dynamic probing strength
+Dynamic Probing Strength
 ========================
 
 

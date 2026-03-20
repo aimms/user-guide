@@ -3,7 +3,7 @@
 .. _option-Baron-print_local_search_information:
 
 
-Print local search information
+Print Local Search Information
 ==============================
 
 

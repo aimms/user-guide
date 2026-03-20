@@ -3,7 +3,7 @@
 .. _option-IPOPT-ma57_work_space_memory_safety_factor:
 
 
-MA57 work space memory safety factor
+MA57 Work Space Memory Safety Factor
 ====================================
 
 

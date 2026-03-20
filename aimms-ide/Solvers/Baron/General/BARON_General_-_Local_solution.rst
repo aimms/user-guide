@@ -3,7 +3,7 @@
 .. _option-Baron-local_solution:
 
 
-Local solution
+Local Solution
 ==============
 
 

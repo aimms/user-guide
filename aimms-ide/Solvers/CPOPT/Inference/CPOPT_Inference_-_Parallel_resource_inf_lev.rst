@@ -1,7 +1,7 @@
 .. _option-CPOPT-parallel_resource_inference_level:
 
 
-Parallel resource inference level
+Parallel Resource Inference Level
 =================================
 
 

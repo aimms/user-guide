@@ -3,7 +3,7 @@
 .. _option-IPOPT-derivative_test_tolerance:
 
 
-Derivative test tolerance
+Derivative Test Tolerance
 =========================
 
 

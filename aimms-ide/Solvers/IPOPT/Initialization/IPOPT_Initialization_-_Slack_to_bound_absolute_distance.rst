@@ -3,7 +3,7 @@
 .. _option-IPOPT-slack_to_bound_absolute_distance:
 
 
-Slack to bound absolute distance
+Slack to Bound Absolute Distance
 ================================
 
 

@@ -3,7 +3,7 @@
 .. _option-IPOPT-linear_system_scaling_method:
 
 
-Linear system scaling method
+Linear System Scaling Method
 ============================
 
 

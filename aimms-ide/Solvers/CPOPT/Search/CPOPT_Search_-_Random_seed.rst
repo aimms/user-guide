@@ -1,7 +1,7 @@
 .. _option-CPOPT-random_seed:
 
 
-Random seed
+Random Seed
 ===========
 
 

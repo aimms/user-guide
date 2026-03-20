@@ -1,7 +1,7 @@
 .. _option-CPOPT-alldiff_inference_level:
 
 
-Alldiff inference level
+Alldiff Inference Level
 =======================
 
 

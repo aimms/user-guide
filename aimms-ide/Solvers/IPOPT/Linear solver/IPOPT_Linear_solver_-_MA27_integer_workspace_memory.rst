@@ -3,7 +3,7 @@
 .. _option-IPOPT-ma27_integer_workspace_memory:
 
 
-MA27 integer workspace memory
+MA27 Integer Workspace Memory
 =============================
 
 

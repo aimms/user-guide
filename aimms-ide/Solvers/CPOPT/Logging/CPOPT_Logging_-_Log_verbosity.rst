@@ -1,7 +1,7 @@
 .. _option-CPOPT-log_verbosity:
 
 
-Log verbosity
+Log Verbosity
 =============
 
 

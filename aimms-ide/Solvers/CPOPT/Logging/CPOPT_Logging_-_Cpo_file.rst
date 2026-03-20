@@ -1,7 +1,7 @@
 .. _option-CPOPT-cpo_file:
 
 
-Cpo file
+Cpo File
 ========
 
 

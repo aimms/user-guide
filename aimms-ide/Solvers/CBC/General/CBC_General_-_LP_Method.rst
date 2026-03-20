@@ -1,7 +1,7 @@
 .. _option-CBC-lp_method:
 
 
-LP method
+LP Method
 =========
 
 

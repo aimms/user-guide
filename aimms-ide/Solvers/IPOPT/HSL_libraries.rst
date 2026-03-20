@@ -3,7 +3,7 @@
 .. _HSL_libraries:
 
 
-HSL libraries
+HSL Libraries
 =============
 
 By default, IPOPT in AIMMS only supports the public domain solver MUMPS as linear algebra package for the solution of the augmented linear system (for obtaining the search directions). It is important to keep in mind that usually the largest fraction of computation time in the optimizer is spent for solving the linear system.

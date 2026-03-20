@@ -1,7 +1,7 @@
 .. _option-CBC-presolve_tolerance:
 
 
-Presolve tolerance
+Presolve Tolerance
 ==================
 
 

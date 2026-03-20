@@ -1,7 +1,7 @@
 .. _option-CPOPT-mod_file:
 
 
-Mod file
+Mod File
 ========
 
 

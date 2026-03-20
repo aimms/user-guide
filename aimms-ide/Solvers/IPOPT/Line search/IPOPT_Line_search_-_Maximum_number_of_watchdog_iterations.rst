@@ -3,7 +3,7 @@
 .. _option-IPOPT-maximum_number_of_watchdog_iterations:
 
 
-Maximum number of watchdog iterations
+Maximum Number of Watchdog Iterations
 =====================================
 
 

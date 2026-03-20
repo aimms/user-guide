@@ -3,7 +3,7 @@
 .. _option-IPOPT-factor_for_initial_bounds_relaxation:
 
 
-Factor for initial bounds relaxation
+Factor for Initial Bounds Relaxation
 ====================================
 
 

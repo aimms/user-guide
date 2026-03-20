@@ -2,7 +2,7 @@
 
 .. _option-IPOPT-quickly_detect_infeasible_problem:
 
-Quickly detect infeasible problem
+Quickly Detect Infeasible Problem
 =================================
 
 

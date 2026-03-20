@@ -3,7 +3,7 @@
 .. _option-IPOPT-initial_value_for_bound_multipliers:
 
 
-Initial value for bound multipliers
+Initial Value for Bound Multipliers
 ===================================
 
 

@@ -3,7 +3,7 @@
 .. _option-IPOPT-print_all_user_selected_options:
 
 
-Print all user selected options
+Print All User Selected Options
 ===============================
 
 

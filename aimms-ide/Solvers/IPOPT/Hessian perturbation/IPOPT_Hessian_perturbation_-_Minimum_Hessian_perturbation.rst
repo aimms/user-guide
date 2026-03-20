@@ -3,7 +3,7 @@
 .. _option-IPOPT-minimum_hessian_perturbation:
 
 
-Minimum Hessian perturbation
+Minimum Hessian Perturbation
 ============================
 
 

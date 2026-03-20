@@ -3,7 +3,7 @@
 .. _option-IPOPT-execute_mehrotra_algorithm:
 
 
-Execute Mehrotra algorithm
+Execute Mehrotra Algorithm
 ==========================
 
 

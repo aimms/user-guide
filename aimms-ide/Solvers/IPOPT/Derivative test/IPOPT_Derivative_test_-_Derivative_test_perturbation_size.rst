@@ -3,7 +3,7 @@
 .. _option-IPOPT-derivative_test_perturbation_size:
 
 
-Derivative test perturbation size
+Derivative Test Perturbation Size
 =================================
 
 

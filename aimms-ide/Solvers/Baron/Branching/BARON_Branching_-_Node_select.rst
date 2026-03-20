@@ -3,7 +3,7 @@
 .. _option-Baron-node_selection:
 
 
-Node selection
+Node Selection
 ==============
 
 

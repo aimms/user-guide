@@ -3,7 +3,7 @@
 .. _option-IPOPT-mumps_scaling:
 
 
-MUMPS scaling
+MUMPS Scaling
 =============
 
 

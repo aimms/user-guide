@@ -3,7 +3,7 @@
 .. _option-IPOPT-ma27_real_workspace_memory:
 
 
-MA27 real workspace memory
+MA27 Real Workspace Memory
 ==========================
 
 

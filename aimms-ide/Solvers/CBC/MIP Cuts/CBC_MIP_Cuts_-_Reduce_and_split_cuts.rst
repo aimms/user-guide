@@ -1,7 +1,7 @@
 .. _option-CBC-reduce_and_split_cuts:
 
 
-Reduce and split cuts
+Reduce and Split Cuts
 =====================
 
 

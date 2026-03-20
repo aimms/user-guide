@@ -1,7 +1,7 @@
 .. _option-CBC-variable_selection:
 
 
-Variable selection
+Variable Selection
 ==================
 
 

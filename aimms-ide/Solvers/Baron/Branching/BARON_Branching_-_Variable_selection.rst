@@ -3,7 +3,7 @@
 .. _option-Baron-variable_selection_strategy:
 
 
-Variable selection strategy
+Variable Selection Strategy
 ===========================
 
 

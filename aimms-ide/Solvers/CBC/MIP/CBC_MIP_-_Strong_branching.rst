@@ -1,7 +1,7 @@
 .. _option-CBC-strong_branching:
 
 
-Strong branching
+Strong Branching
 ================
 
 

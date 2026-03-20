@@ -3,7 +3,7 @@
 .. _option-IPOPT-acceptable_relative_convergence_tolerance:
 
 
-Acceptable relative convergence tolerance
+Acceptable Relative Convergence Tolerance
 =========================================
 
 

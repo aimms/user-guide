@@ -1,7 +1,7 @@
 .. _option-KNITRO-debugging_mip_output:
 
 
-Debugging MIP output
+Debugging MIP Output
 ====================
 
 

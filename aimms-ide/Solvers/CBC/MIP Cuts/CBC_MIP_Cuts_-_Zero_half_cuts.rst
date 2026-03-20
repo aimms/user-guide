@@ -1,7 +1,7 @@
 .. _option-CBC-zero_half_cuts:
 
 
-Zero half cuts
+Zero Half Cuts
 ==============
 
 

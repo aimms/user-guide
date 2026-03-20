@@ -1,7 +1,7 @@
 .. _option-CBC-knapsack_cuts:
 
 
-Knapsack cuts
+Knapsack Cuts
 =============
 
 

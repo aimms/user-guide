@@ -1,7 +1,7 @@
 .. _option-PATH-nms_m-step_frequency:
 
 
-NMS m-Step Frequency
+NMS M-Step Frequency
 ====================
 
 

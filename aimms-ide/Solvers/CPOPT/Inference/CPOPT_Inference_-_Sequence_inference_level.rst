@@ -1,7 +1,7 @@
 .. _option-CPOPT-sequence_inference_level:
 
 
-Sequence inference level
+Sequence Inference Level
 ========================
 
 

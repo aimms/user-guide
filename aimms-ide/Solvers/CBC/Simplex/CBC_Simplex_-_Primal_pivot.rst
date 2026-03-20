@@ -1,7 +1,7 @@
 .. _option-CBC-primal_pivot:
 
 
-Primal pivot
+Primal Pivot
 ============
 
 

@@ -3,7 +3,7 @@
 .. _option-IPOPT-method_for_hessian_computation:
 
 
-Method for Hessian computation
+Method for Hessian Computation
 ==============================
 
 

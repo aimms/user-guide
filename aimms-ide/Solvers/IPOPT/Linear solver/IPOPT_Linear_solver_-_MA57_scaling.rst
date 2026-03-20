@@ -3,7 +3,7 @@
 .. _option-IPOPT-ma57_scaling:
 
 
-MA57 scaling
+MA57 Scaling
 ============
 
 

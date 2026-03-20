@@ -3,7 +3,7 @@
 .. _option-IPOPT-barrier_parameter_initial_value:
 
 
-Barrier parameter initial value
+Barrier Parameter Initial Value
 ===============================
 
 

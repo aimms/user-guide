@@ -3,7 +3,7 @@
 .. _option-Baron-pass_model_names:
 
 
-Pass model names
+Pass Model Names
 ================
 
 

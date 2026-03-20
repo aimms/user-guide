@@ -1,7 +1,7 @@
 .. _option-CBC-rhs_scale_factor:
 
 
-RHS scale factor
+RHS Scale Factor
 ================
 
 

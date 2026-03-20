@@ -1,6 +1,6 @@
 .. _option-IPOPT-infinity_upper_bound:
 
-Infinity upper bound
+Infinity Upper Bound
 ====================
 
 :Type:	Floating point number	

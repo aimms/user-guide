@@ -1,7 +1,7 @@
 .. _option-CBC-status_file:
 
 
-Status file
+Status File
 ===========
 
 

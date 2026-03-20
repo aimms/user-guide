@@ -3,7 +3,7 @@
 .. _option-IPOPT-bound_multipliers_reset_threshold:
 
 
-Bound multipliers reset threshold
+Bound Multipliers Reset Threshold
 =================================
 
 

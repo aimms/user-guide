@@ -1,7 +1,7 @@
 .. _option-CPOPT-solution_limit:
 
 
-Solution limit
+Solution Limit
 ==============
 
 

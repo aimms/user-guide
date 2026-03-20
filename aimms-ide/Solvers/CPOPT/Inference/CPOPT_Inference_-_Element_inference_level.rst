@@ -1,7 +1,7 @@
 .. _option-CPOPT-element_inference_level:
 
 
-Element inference level
+Element Inference Level
 =======================
 
 

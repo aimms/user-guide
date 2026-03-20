@@ -3,7 +3,7 @@
 .. _option-IPOPT-assume_quadratic_problem:
 
 
-Assume quadratic problem
+Assume Quadratic Problem
 ========================
 
 

@@ -3,7 +3,7 @@
 .. _option-IPOPT-acceptable_constraint_violation_tolerance:
 
 
-Acceptable constraint violation tolerance
+Acceptable Constraint Violation Tolerance
 =========================================
 
 

@@ -1,6 +1,6 @@
 .. _option-CONOPT-model_is_convex:
 
-Model is Convex
+Model Is Convex
 ===============
 
 

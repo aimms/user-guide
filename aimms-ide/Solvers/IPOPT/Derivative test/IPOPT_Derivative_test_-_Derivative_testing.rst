@@ -3,7 +3,7 @@
 .. _option-IPOPT-derivative_testing:
 
 
-Derivative testing
+Derivative Testing
 ==================
 
 

@@ -3,7 +3,7 @@
 .. _option-Baron-marginals_testing:
 
 
-Marginals testing
+Marginals Testing
 =================
 
 

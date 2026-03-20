@@ -1,7 +1,7 @@
 .. _option-CPOPT-failure_directed_search_emphasis:
 
 
-Failure directed search emphasis
+Failure Directed Search Emphasis
 ================================
 
 

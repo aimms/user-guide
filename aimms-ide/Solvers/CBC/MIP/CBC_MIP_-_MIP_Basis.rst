@@ -1,7 +1,7 @@
 .. _option-CBC-mip_basis:
 
 
-MIP basis
+MIP Basis
 =========
 
 

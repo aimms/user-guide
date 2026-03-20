@@ -1,7 +1,7 @@
 .. _option-Baron-number_of_cutting_plane_rounds:
 
 
-Number of cutting plane rounds
+Number of Cutting Plane Rounds
 ==============================
 
 

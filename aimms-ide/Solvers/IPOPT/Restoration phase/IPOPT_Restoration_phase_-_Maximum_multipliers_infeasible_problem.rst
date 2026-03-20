@@ -3,7 +3,7 @@
 .. _option-IPOPT-maximum_multipliers_infeasible_problem:
 
 
-Maximum multipliers infeasible problem
+Maximum Multipliers Infeasible Problem
 ======================================
 
 

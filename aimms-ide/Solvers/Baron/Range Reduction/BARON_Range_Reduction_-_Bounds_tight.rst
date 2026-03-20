@@ -3,7 +3,7 @@
 .. _option-Baron-bounds_tightening:
 
 
-Bounds tightening
+Bounds Tightening
 =================
 
 

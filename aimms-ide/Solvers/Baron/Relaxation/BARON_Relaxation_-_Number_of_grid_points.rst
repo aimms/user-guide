@@ -1,7 +1,7 @@
 .. _option-Baron-number_of_grid_points:
 
 
-Number of grid points
+Number of Grid Points
 =====================
 
 

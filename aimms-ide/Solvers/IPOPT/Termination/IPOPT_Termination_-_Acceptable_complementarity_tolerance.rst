@@ -3,7 +3,7 @@
 .. _option-IPOPT-acceptable_complementarity_tolerance:
 
 
-Acceptable complementarity tolerance
+Acceptable Complementarity Tolerance
 ====================================
 
 

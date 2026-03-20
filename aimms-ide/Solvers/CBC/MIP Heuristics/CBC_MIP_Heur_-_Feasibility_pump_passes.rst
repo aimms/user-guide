@@ -1,7 +1,7 @@
 .. _option-CBC-feasibility_pump_passes:
 
 
-Feasibility pump passes
+Feasibility Pump Passes
 =======================
 
 

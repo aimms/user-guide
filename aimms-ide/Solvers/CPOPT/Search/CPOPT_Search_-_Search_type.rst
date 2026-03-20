@@ -1,7 +1,7 @@
 .. _option-CPOPT-search_type:
 
 
-Search type
+Search Type
 ===========
 
 

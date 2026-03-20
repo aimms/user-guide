@@ -1,7 +1,7 @@
 .. _option-Baron-number_of_outer_approximators_multi:
 
 
-Number of outer approximators multi
+Number of Outer Approximators Multi
 ===================================
 
 

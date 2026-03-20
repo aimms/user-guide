@@ -1,4 +1,4 @@
-Line search
+Line Search
 ===========
 
 .. toctree::

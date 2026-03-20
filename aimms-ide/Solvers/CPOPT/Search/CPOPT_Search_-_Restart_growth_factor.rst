@@ -1,7 +1,7 @@
 .. _option-CPOPT-restart_growth_factor:
 
 
-Restart growth factor
+Restart Growth Factor
 =====================
 
 

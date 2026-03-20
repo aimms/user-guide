@@ -3,7 +3,7 @@
 .. _option-IPOPT-ma86_maximum_pivot_tolerance:
 
 
-MA86 maximum pivot tolerance
+MA86 Maximum Pivot Tolerance
 ============================
 
 

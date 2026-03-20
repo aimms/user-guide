@@ -1,7 +1,7 @@
 .. _option-Baron-absolute_improvement_tolerance:
 
 
-Absolute improvement tolerance
+Absolute Improvement Tolerance
 ==============================
 
 

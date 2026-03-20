@@ -3,7 +3,7 @@
 .. _option-IPOPT-use_original_objective_function_in_restoration_phase:
 
 
-Use original objective function in restoration phase
+Use Original Objective Function in Restoration Phase
 ====================================================
 
 

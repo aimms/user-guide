@@ -3,7 +3,7 @@
 .. _option-IPOPT-constraint_multipliers_reset_threshold:
 
 
-Constraint multipliers reset threshold
+Constraint Multipliers Reset Threshold
 ======================================
 
 

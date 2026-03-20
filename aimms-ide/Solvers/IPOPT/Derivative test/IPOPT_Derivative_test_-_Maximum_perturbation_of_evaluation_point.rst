@@ -3,7 +3,7 @@
 .. _option-IPOPT-maximum_perturbation_of_evaluation_point:
 
 
-Maximum perturbation of evaluation point
+Maximum Perturbation of Evaluation Point
 ========================================
 
 

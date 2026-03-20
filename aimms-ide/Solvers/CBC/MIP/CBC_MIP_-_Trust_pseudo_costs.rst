@@ -1,7 +1,7 @@
 .. _option-CBC-trust_pseudo_costs:
 
 
-Trust pseudo costs
+Trust Pseudo Costs
 ==================
 
 

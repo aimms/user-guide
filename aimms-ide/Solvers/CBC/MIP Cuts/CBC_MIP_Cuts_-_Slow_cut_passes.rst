@@ -1,7 +1,7 @@
 .. _option-CBC-slow_cut_passes:
 
 
-Slow cut passes
+Slow Cut Passes
 ===============
 
 

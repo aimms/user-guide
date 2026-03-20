@@ -1,7 +1,7 @@
 .. _option-CPOPT-choice_point_limit:
 
 
-Choice point limit
+Choice Point Limit
 ==================
 
 

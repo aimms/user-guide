@@ -1,7 +1,7 @@
 .. _option-CPOPT-time_mode:
 
 
-Time mode
+Time Mode
 =========
 
 

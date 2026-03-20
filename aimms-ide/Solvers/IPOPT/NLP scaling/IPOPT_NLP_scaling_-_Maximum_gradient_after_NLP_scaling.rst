@@ -3,7 +3,7 @@
 .. _option-IPOPT-maximum_gradient_after_nlp_scaling:
 
 
-Maximum gradient after NLP scaling
+Maximum Gradient after NLP Scaling
 ==================================
 
 

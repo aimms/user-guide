@@ -1,7 +1,7 @@
 .. _option-CPOPT-restart_failure_limit:
 
 
-Restart failure limit
+Restart Failure Limit
 =====================
 
 

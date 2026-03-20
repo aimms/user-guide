@@ -1,7 +1,7 @@
 .. _option-KNITRO-linear_solver_out_of_core:
 
 
-Linear Solver Out of Core
+Linear Solver out of Core
 =========================
 
 

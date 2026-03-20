@@ -1,7 +1,7 @@
 .. _option-CPOPT-solution_storage_limit:
 
 
-Solution storage limit
+Solution Storage Limit
 ======================
 
 

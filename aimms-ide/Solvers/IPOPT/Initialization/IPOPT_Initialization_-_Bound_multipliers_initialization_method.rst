@@ -3,7 +3,7 @@
 .. _option-IPOPT-bound_multipliers_initialization_method:
 
 
-Bound multipliers initialization method
+Bound Multipliers Initialization Method
 =======================================
 
 

@@ -3,7 +3,7 @@
 .. _option-IPOPT-assume_equality_constraints_are_linear:
 
 
-Assume equality constraints are linear
+Assume Equality Constraints Are Linear
 ======================================
 
 

@@ -3,7 +3,7 @@
 .. _option-IPOPT-acceptable_objective_change_tolerance:
 
 
-Acceptable objective change tolerance
+Acceptable Objective Change Tolerance
 =====================================
 
 

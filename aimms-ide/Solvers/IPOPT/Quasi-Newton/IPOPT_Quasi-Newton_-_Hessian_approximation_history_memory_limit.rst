@@ -3,7 +3,7 @@
 .. _option-IPOPT-hessian_approximation_history_memory_limit:
 
 
-Hessian approximation history memory limit
+Hessian Approximation History Memory Limit
 ==========================================
 
 

@@ -1,7 +1,7 @@
 .. _option-CPOPT-cardinality_encoding:
 
 
-Cardinality encoding
+Cardinality Encoding
 ====================
 
 

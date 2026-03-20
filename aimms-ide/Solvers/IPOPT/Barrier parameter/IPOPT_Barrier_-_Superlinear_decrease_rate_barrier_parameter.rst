@@ -3,7 +3,7 @@
 .. _option-IPOPT-superlinear_decrease_rate_barrier_parameter:
 
 
-Superlinear decrease rate barrier parameter
+Superlinear Decrease Rate Barrier Parameter
 ===========================================
 
 

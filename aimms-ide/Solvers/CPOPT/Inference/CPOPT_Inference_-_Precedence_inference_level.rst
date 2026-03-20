@@ -1,7 +1,7 @@
 .. _option-CPOPT-precedence_inference_level:
 
 
-Precedence inference level
+Precedence Inference Level
 ==========================
 
 

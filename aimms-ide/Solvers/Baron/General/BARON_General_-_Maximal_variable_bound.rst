@@ -3,7 +3,7 @@
 .. _option-Baron-maximal_variable_bound:
 
 
-Maximal variable bound
+Maximal Variable Bound
 ======================
 
 

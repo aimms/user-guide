@@ -3,7 +3,7 @@
 .. _option-IPOPT-maximum_value_for_barrier_parameter:
 
 
-Maximum value for barrier parameter
+Maximum Value for Barrier Parameter
 ===================================
 
 

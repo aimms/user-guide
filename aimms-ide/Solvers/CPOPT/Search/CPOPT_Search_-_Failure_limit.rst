@@ -1,7 +1,7 @@
 .. _option-CPOPT-failure_limit:
 
 
-Failure limit
+Failure Limit
 =============
 
 

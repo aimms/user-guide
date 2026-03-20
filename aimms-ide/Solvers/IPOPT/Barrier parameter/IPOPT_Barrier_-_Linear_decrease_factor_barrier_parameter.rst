@@ -3,7 +3,7 @@
 .. _option-IPOPT-linear_decrease_factor_barrier_parameter:
 
 
-Linear decrease factor barrier parameter
+Linear Decrease Factor Barrier Parameter
 ========================================
 
 

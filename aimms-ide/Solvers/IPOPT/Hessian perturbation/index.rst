@@ -1,4 +1,4 @@
-Hessian perturbation
+Hessian Perturbation
 ====================
 
 .. toctree::

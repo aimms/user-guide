@@ -1,7 +1,7 @@
 .. _option-CPOPT-preprocess_cumulative:
 
 
-Preprocess cumulative
+Preprocess Cumulative
 =====================
 
 

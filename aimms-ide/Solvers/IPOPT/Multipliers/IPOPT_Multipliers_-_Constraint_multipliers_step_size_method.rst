@@ -3,7 +3,7 @@
 .. _option-IPOPT-constraint_multipliers_step_size_method:
 
 
-Constraint multipliers step size method
+Constraint Multipliers Step Size Method
 =======================================
 
 

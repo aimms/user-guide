@@ -3,7 +3,7 @@
 .. _option-IPOPT-objective_function_scaling_factor:
 
 
-Objective function scaling factor
+Objective Function Scaling Factor
 =================================
 
 

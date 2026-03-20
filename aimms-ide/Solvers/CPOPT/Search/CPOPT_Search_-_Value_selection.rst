@@ -1,7 +1,7 @@
 .. _option-CPOPT-value_selection:
 
 
-Value selection
+Value Selection
 ===============
 
 
