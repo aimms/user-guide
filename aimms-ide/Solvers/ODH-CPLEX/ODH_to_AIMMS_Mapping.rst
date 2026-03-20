@@ -387,7 +387,7 @@ The table below shows in the left column the CPLEX parameters from ODH-CPLEX tha
 
 **Heuristic sub-model parameters** 
 
-The heuristic sub-model parameters can only be set using a :ref:`ODH-CPLEX_-_Parameter_File`. The syntax for the parameters that influence the heuristic sub-model CPLEX solves is the following: SUB_<parameter> where <parameter> refers to the ODH-CPLEX name in the second table above. The syntax for the parameters that influence the heuristic sub-model CPLEX solves in Phase I is the following: PHASE1_<parameter>.
+The heuristic sub-model parameters can only be set using a :doc:`ODH_-_Parameter_File`. The syntax for the parameters that influence the heuristic sub-model CPLEX solves is the following: SUB_<parameter> where <parameter> refers to the ODH-CPLEX name in the second table above. The syntax for the parameters that influence the heuristic sub-model CPLEX solves in Phase I is the following: PHASE1_<parameter>.
 
 
 
@@ -397,5 +397,5 @@ For example, SUB_CPX_RINSHEUR specifies the RINS heuristic frequency for CPLEX i
 
 **Learn more about** 
 
-*	:doc:`ODH-CPLEX_-_Parameter_File` 
-*	:ref:`General - Search Mode <General/ODH_General_-_Search_Mode>`  
+*	:doc:`ODH_-_Parameter_File`
+*	:doc:`General - Search Mode <General/ODH_General_-_Search_Mode>`  

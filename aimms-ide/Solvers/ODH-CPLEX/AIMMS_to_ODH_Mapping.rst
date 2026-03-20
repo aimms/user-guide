@@ -455,4 +455,4 @@ For example, SUB_CPX_RINSHEUR specifies the RINS heuristic frequency for CPLEX i
 **Learn more about** 
 
 *	:doc:`ODH_-_Parameter_File` 
-*	:ref:`General - Search Mode <General/ODH_General_-_Search_Mode>`  
+*	:doc:`General - Search Mode <General/ODH_General_-_Search_Mode>`  
