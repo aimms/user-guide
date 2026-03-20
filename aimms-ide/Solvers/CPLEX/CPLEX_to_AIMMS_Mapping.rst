@@ -16,326 +16,326 @@ The table shows in the left column the parameters from CPLEX that can be set in 
    * - **Name in CPLEX**
      - **Option name in AIMMS** 
    * - Advance
-     - :ref:`option-CPLEX-advanced_start`
+     - :ref:`General - Advanced Start <option-CPLEX-advanced_start>`
    * - Bar qcpconvergetol
-     - :ref:`option-CPLEX-barrier_convergence_tolerance_for_qcp`
+     - :ref:`QP - Barrier Convergence Tolerance for QCP <option-CPLEX-barrier_convergence_tolerance_for_qcp>`
    * - Barrier algorithm
-     - :ref:`option-CPLEX-barrier_algorithm`
+     - :ref:`Barrier - Barrier Algorithm <option-CPLEX-barrier_algorithm>`
    * - Barrier colnonzeros
-     - :ref:`option-CPLEX-barrier_density_definition`
+     - :ref:`Barrier - Barrier Density Definition <option-CPLEX-barrier_density_definition>`
    * - Barrier convergetol
-     - :ref:`option-CPLEX-barrier_convergence_tolerance`
+     - :ref:`Barrier - Barrier Convergence Tolerance <option-CPLEX-barrier_convergence_tolerance>`
    * - Barrier crossover
-     - :ref:`option-CPLEX-barrier_crossover_algorithm`
+     - :ref:`Barrier - Barrier Crossover Algorithm <option-CPLEX-barrier_crossover_algorithm>`
    * - Barrier display
-     - :ref:`option-CPLEX-barrier_display`
+     - :ref:`Logging - Barrier Display <option-CPLEX-barrier_display>`
    * - Barrier limits corrections
-     - :ref:`option-CPLEX-barrier_maximal_number_of_corrections`
+     - :ref:`Barrier - Barrier Maximal Number of Corrections <option-CPLEX-barrier_maximal_number_of_corrections>`
    * - Barrier limits growth
-     - :ref:`option-CPLEX-barrier_growth_limit`
+     - :ref:`Barrier - Barrier Growth Limit <option-CPLEX-barrier_growth_limit>`
    * - Barrier limits iteration
-     - :ref:`option-CPLEX-barrier_iterations`
+     - :ref:`Barrier - Barrier Iterations <option-CPLEX-barrier_iterations>`
    * - Barrier limits objrange
-     - :ref:`option-CPLEX-barrier_objective_range`
+     - :ref:`Barrier - Barrier Objective Range <option-CPLEX-barrier_objective_range>`
    * - Barrier ordering
-     - :ref:`option-CPLEX-barrier_ordering`
+     - :ref:`Barrier - Barrier Ordering <option-CPLEX-barrier_ordering>`
    * - Barrier startalg
-     - :ref:`option-CPLEX-barrier_start_algorithm`
+     - :ref:`Barrier - Barrier Start Algorithm <option-CPLEX-barrier_start_algorithm>`
    * - Benders strategy
-     - :ref:`option-CPLEX-benders_strategy`
+     - :ref:`Benders - Benders Strategy <option-CPLEX-benders_strategy>`
    * - Benders tolerances feasibilitycut
-     - :ref:`option-CPLEX-benders_feasibility_cut_tolerance`
+     - :ref:`Benders - Benders Feasibility Cut Tolerance <option-CPLEX-benders_feasibility_cut_tolerance>`
    * - Benders tolerances optimalitycut
-     - :ref:`option-CPLEX-benders_optimality_cut_tolerance`
+     - :ref:`Benders - Benders Optimality Cut Tolerance <option-CPLEX-benders_optimality_cut_tolerance>`
    * - Benders workeralgorithm
-     - :ref:`option-CPLEX-benders_worker_algorithm`
+     - :ref:`Benders - Benders Worker Algorithm <option-CPLEX-benders_worker_algorithm>`
    * - Clocktype
-     - :ref:`option-CPLEX-clock_type`
+     - :ref:`General - Clock Type <option-CPLEX-clock_type>`
    * - Conflict algorithm
-     - :ref:`option-CPLEX-conflict_algorithm`
+     - :ref:`General - Conflict Algorithm <option-CPLEX-conflict_algorithm>`
    * - Dettimelimit
-     - :ref:`option-CPLEX-deterministic_time_limit`
+     - :ref:`General - Deterministic Time Limit <option-CPLEX-deterministic_time_limit>`
    * - Emphasis memory
-     - :ref:`option-CPLEX-memory_emphasis`
+     - :ref:`General - Memory Emphasis <option-CPLEX-memory_emphasis>`
    * - Emphasis MIP
-     - :ref:`option-CPLEX-mip_emphasis`
+     - :ref:`MIP - MIP Emphasis <option-CPLEX-mip_emphasis>`
    * - Emphasis numerical
-     - :ref:`option-CPLEX-numerical_emphasis`
+     - :ref:`General - Numerical Emphasis <option-CPLEX-numerical_emphasis>`
    * - Feasopt tolerance
-     - :ref:`option-CPLEX-feasopt_tolerance`
+     - :ref:`General - Feasopt Tolerance <option-CPLEX-feasopt_tolerance>`
    * - Lpmethod
-     - :ref:`option-CPLEX-lp_method`
+     - :ref:`General - LP Method <option-CPLEX-lp_method>`
    * - MIP cuts bqp
-     - :ref:`option-CPLEX-bqp_cuts`
+     - :ref:`MIP Cuts - Bqp Cuts <option-CPLEX-bqp_cuts>`
    * - MIP cuts cliques
-     - :ref:`option-CPLEX-clique_cuts`
+     - :ref:`MIP Cuts - Clique Cuts <option-CPLEX-clique_cuts>`
    * - MIP cuts covers
-     - :ref:`option-CPLEX-cover_cuts`
+     - :ref:`MIP Cuts - Cover Cuts <option-CPLEX-cover_cuts>`
    * - MIP cuts disjunctive
-     - :ref:`option-CPLEX-disjunctive_cuts`
+     - :ref:`MIP Cuts - Disjunctive Cuts <option-CPLEX-disjunctive_cuts>`
    * - MIP cuts flow
-     - :ref:`option-CPLEX-flow_cover_cuts`
+     - :ref:`MIP Cuts - Flow Cover Cuts <option-CPLEX-flow_cover_cuts>`
    * - MIP cuts gomory
-     - :ref:`option-CPLEX-gomory_cuts`
+     - :ref:`MIP Cuts - Gomory Cuts <option-CPLEX-gomory_cuts>`
    * - MIP cuts gubcovers
-     - :ref:`option-CPLEX-gub_cover_cuts`
+     - :ref:`MIP Cuts - Gub Cover Cuts <option-CPLEX-gub_cover_cuts>`
    * - MIP cuts implied
-     - :ref:`option-CPLEX-implied_bound_cuts`
+     - :ref:`MIP Cuts - Implied Bound Cuts <option-CPLEX-implied_bound_cuts>`
    * - MIP cuts liftproj
-     - :ref:`option-CPLEX-lift_and_project_cuts`
+     - :ref:`MIP Cuts - Lift and Project Cuts <option-CPLEX-lift_and_project_cuts>`
    * - MIP cuts localimplied
-     - :ref:`option-CPLEX-local_implied_bound_cuts`
+     - :ref:`MIP Cuts - Local Implied Bound Cuts <option-CPLEX-local_implied_bound_cuts>`
    * - MIP cuts mcfcut
-     - :ref:`option-CPLEX-mcf_cuts`
+     - :ref:`MIP Cuts - MCF Cuts <option-CPLEX-mcf_cuts>`
    * - MIP cuts mircut
-     - :ref:`option-CPLEX-mixed_integer_rounding_cuts`
+     - :ref:`MIP Cuts - Mixed Integer Rounding Cuts <option-CPLEX-mixed_integer_rounding_cuts>`
    * - MIP cuts nodecuts
-     - :ref:`option-CPLEX-node_cuts`
+     - :ref:`MIP Cuts - Node Cuts <option-CPLEX-node_cuts>`
    * - MIP cuts pathcut
-     - :ref:`option-CPLEX-flow_path_cuts`
+     - :ref:`MIP Cuts - Flow Path Cuts <option-CPLEX-flow_path_cuts>`
    * - MIP cuts rlt
-     - :ref:`option-CPLEX-rlt_cuts`
+     - :ref:`MIP Cuts - RLT Cuts <option-CPLEX-rlt_cuts>`
    * - MIP cuts zerohalf
-     - :ref:`option-CPLEX-zero_half_cuts`
+     - :ref:`MIP Cuts - Zero Half Cuts <option-CPLEX-zero_half_cuts>`
    * - MIP display
-     - :ref:`option-CPLEX-mip_display`
+     - :ref:`Logging - MIP Display <option-CPLEX-mip_display>`
    * - MIP interval
-     - :ref:`option-CPLEX-mip_interval`
+     - :ref:`Logging - MIP Interval <option-CPLEX-mip_interval>`
    * - MIP limits aggforcut
-     - :ref:`option-CPLEX-cut_generation_limit`
+     - :ref:`MIP Cuts - Cut Generation Limit <option-CPLEX-cut_generation_limit>`
    * - MIP limits auxrootthreads
-     - :ref:`option-CPLEX-auxiliary_root_threads`
+     - :ref:`Parallel - Auxiliary Root Threads <option-CPLEX-auxiliary_root_threads>`
    * - MIP limits cutpasses
-     - :ref:`option-CPLEX-mip_number_of_cut_passes`
+     - :ref:`MIP Cuts - MIP Number of Cut Passes <option-CPLEX-mip_number_of_cut_passes>`
    * - MIP limits cutsfactor
-     - :ref:`option-CPLEX-cuts_factor`
+     - :ref:`MIP Cuts - Cuts Factor <option-CPLEX-cuts_factor>`
    * - MIP limits eachcutlimit
-     - :ref:`option-CPLEX-cut_limit`
+     - :ref:`MIP Cuts - Cut Limit <option-CPLEX-cut_limit>`
    * - MIP limits gomorycand
-     - :ref:`option-CPLEX-gomory_cuts_candidate_limit`
+     - :ref:`MIP Cuts - Gomory Cuts Candidate Limit <option-CPLEX-gomory_cuts_candidate_limit>`
    * - MIP limits gomorypass
-     - :ref:`option-CPLEX-gomory_cuts_pass_limit`
+     - :ref:`MIP Cuts - Gomory Cuts Pass Limit <option-CPLEX-gomory_cuts_pass_limit>`
    * - MIP limits lowerobjstop
-     - :ref:`option-CPLEX-lower_objective_stop`
+     - :ref:`MIP Advanced - Lower Objective Stop <option-CPLEX-lower_objective_stop>`
    * - MIP limits nodes
-     - :ref:`option-CPLEX-maximal_number_of_nodes`
+     - :ref:`MIP - Maximal Number of Nodes <option-CPLEX-maximal_number_of_nodes>`
    * - MIP limits populate
-     - :ref:`option-CPLEX-population_limit`
+     - :ref:`MIP Solution Pool - Population Limit <option-CPLEX-population_limit>`
    * - MIP limits probedettime
-     - :ref:`option-CPLEX-probing_time_deterministic`
+     - :ref:`MIP - Probing Time Deterministic <option-CPLEX-probing_time_deterministic>`
    * - MIP limits probetime
-     - :ref:`option-CPLEX-probing_time`
+     - :ref:`MIP - Probing Time <option-CPLEX-probing_time>`
    * - MIP limits repairtries
-     - :ref:`option-CPLEX-number_of_repair_attempts`
+     - :ref:`MIP - Number of Repair Attempts <option-CPLEX-number_of_repair_attempts>`
    * - MIP limits solutions
-     - :ref:`option-AIMMS-maximal_number_of_integer_solutions`
+     - :ref:`MIP Options - Maximal Number of Integer Solutions <option-AIMMS-maximal_number_of_integer_solutions>`
    * - MIP limits strongcand
-     - :ref:`option-CPLEX-mip_candidate_list`
+     - :ref:`MIP - MIP Candidate List <option-CPLEX-mip_candidate_list>`
    * - MIP limits strongit
-     - :ref:`option-CPLEX-number_of_simplex_iterations`
+     - :ref:`MIP - Number of Simplex Iterations <option-CPLEX-number_of_simplex_iterations>`
    * - MIP limits treememory
-     - :ref:`option-CPLEX-mip_tree_memory_limit`
+     - :ref:`MIP - MIP Tree Memory Limit <option-CPLEX-mip_tree_memory_limit>`
    * - MIP limits upperobjstop
-     - :ref:`option-CPLEX-upper_objective_stop`
+     - :ref:`MIP Advanced - Upper Objective Stop <option-CPLEX-upper_objective_stop>`
    * - MIP ordertype
-     - :ref:`option-CPLEX-mip_priority_order_type`
+     - :ref:`MIP - MIP Priority Order Type <option-CPLEX-mip_priority_order_type>`
    * - MIP polishafter absmipgap
-     - :ref:`option-CPLEX-polishing_absolute_mip_gap`
+     - :ref:`MIP Solution Polishing - Polishing Absolute MIP Gap <option-CPLEX-polishing_absolute_mip_gap>`
    * - MIP polishafter dettime
-     - :ref:`option-CPLEX-polishing_time_deterministic`
+     - :ref:`MIP Solution Polishing - Polishing Time Deterministic <option-CPLEX-polishing_time_deterministic>`
    * - MIP polishafter mipgap
-     - :ref:`option-CPLEX-polishing_relative_mip_gap`
+     - :ref:`MIP Solution Polishing - Polishing Relative MIP Gap <option-CPLEX-polishing_relative_mip_gap>`
    * - MIP polishafter nodes
-     - :ref:`option-CPLEX-polishing_number_of_nodes`
+     - :ref:`MIP Solution Polishing - Polishing Number of Nodes <option-CPLEX-polishing_number_of_nodes>`
    * - MIP polishafter solutions
-     - :ref:`option-CPLEX-polishing_number_of_solutions`
+     - :ref:`MIP Solution Polishing - Polishing Number of Solutions <option-CPLEX-polishing_number_of_solutions>`
    * - MIP polishafter time
-     - :ref:`option-CPLEX-polishing_time`
+     - :ref:`MIP Solution Polishing - Polishing Time <option-CPLEX-polishing_time>`
    * - MIP pool absgap
-     - :ref:`option-CPLEX-pool_absolute_objective_gap`
+     - :ref:`MIP Solution Pool - Pool Absolute Objective Gap <option-CPLEX-pool_absolute_objective_gap>`
    * - MIP pool capacity
-     - :ref:`option-CPLEX-pool_capacity`
+     - :ref:`MIP Solution Pool - Pool Capacity <option-CPLEX-pool_capacity>`
    * - MIP pool intensity
-     - :ref:`option-CPLEX-pool_intensity`
+     - :ref:`MIP Solution Pool - Pool Intensity <option-CPLEX-pool_intensity>`
    * - MIP pool relgap
-     - :ref:`option-CPLEX-pool_relative_objective_gap`
+     - :ref:`MIP Solution Pool - Pool Relative Objective Gap <option-CPLEX-pool_relative_objective_gap>`
    * - MIP pool replace
-     - :ref:`option-CPLEX-pool_replacement_strategy`
+     - :ref:`MIP Solution Pool - Pool Replacement Strategy <option-CPLEX-pool_replacement_strategy>`
    * - MIP strategy backtrack
-     - :ref:`option-CPLEX-backtrack`
+     - :ref:`Logging - Backtrack <option-CPLEX-backtrack>`
    * - MIP strategy branch
-     - :ref:`option-CPLEX-branch`
+     - :ref:`MIP - Branch <option-CPLEX-branch>`
    * - MIP strategy dive
-     - :ref:`option-CPLEX-mip_dive_strategy`
+     - :ref:`MIP - MIP Dive Strategy <option-CPLEX-mip_dive_strategy>`
    * - MIP strategy file
-     - :ref:`option-CPLEX-node_file`
+     - :ref:`MIP - Node File <option-CPLEX-node_file>`
    * - MIP strategy fpheur
-     - :ref:`option-CPLEX-feasibility_pump_heuristic`
+     - :ref:`MIP Heuristics - Feasibility Pump Heuristic <option-CPLEX-feasibility_pump_heuristic>`
    * - MIP strategy heuristiceffort
-     - :ref:`option-CPLEX-heuristic_effort`
+     - :ref:`MIP Heuristics - Heuristic Effort <option-CPLEX-heuristic_effort>`
    * - MIP strategy heuristicfreq
-     - :ref:`option-CPLEX-heuristic_frequency`
+     - :ref:`MIP Heuristics - Heuristic Frequency <option-CPLEX-heuristic_frequency>`
    * - MIP strategy kappastats
-     - :ref:`option-CPLEX-mip_kappa`
+     - :ref:`MIP - MIP Kappa <option-CPLEX-mip_kappa>`
    * - MIP strategy lbheur
-     - :ref:`option-CPLEX-local_branching_heuristic`
+     - :ref:`MIP Heuristics - Local Branching Heuristic <option-CPLEX-local_branching_heuristic>`
    * - MIP strategy miqcpstrat
-     - :ref:`option-CPLEX-miqcp_strategy`
+     - :ref:`QP - MIQCP Strategy <option-CPLEX-miqcp_strategy>`
    * - MIP strategy nodeselect
-     - :ref:`option-CPLEX-selection_of_nodes`
+     - :ref:`MIP - Selection of Nodes <option-CPLEX-selection_of_nodes>`
    * - MIP strategy order
-     - :ref:`option-CPLEX-mip_priority_order_switch`
+     - :ref:`MIP - MIP Priority Order Switch <option-CPLEX-mip_priority_order_switch>`
    * - MIP strategy presolvenode
-     - :ref:`option-CPLEX-mip_node_presolve`
+     - :ref:`MIP - MIP Node Presolve <option-CPLEX-mip_node_presolve>`
    * - MIP strategy probe
-     - :ref:`option-CPLEX-mip_probing`
+     - :ref:`MIP - MIP Probing <option-CPLEX-mip_probing>`
    * - MIP strategy rinsheur
-     - :ref:`option-CPLEX-rins_heuristic_frequency`
+     - :ref:`MIP Heuristics - RINS Heuristic Frequency <option-CPLEX-rins_heuristic_frequency>`
    * - MIP strategy search
-     - :ref:`option-CPLEX-mip_search_strategy`
+     - :ref:`MIP - MIP Search Strategy <option-CPLEX-mip_search_strategy>`
    * - MIP strategy startalgorithm
-     - :ref:`option-CPLEX-mip_start_algorithm`
+     - :ref:`MIP - MIP Start Algorithm <option-CPLEX-mip_start_algorithm>`
    * - MIP strategy subalgorithm
-     - :ref:`option-CPLEX-mip_method`
+     - :ref:`MIP - MIP Method <option-CPLEX-mip_method>`
    * - MIP strategy variableselect
-     - :ref:`option-CPLEX-select_variables`
+     - :ref:`MIP - Select Variables <option-CPLEX-select_variables>`
    * - MIP submip nodelimit
-     - :ref:`option-CPLEX-submip_node_limit`
+     - :ref:`MIP Advanced - SubMIP Node Limit <option-CPLEX-submip_node_limit>`
    * - MIP submip scale
-     - :ref:`option-CPLEX-submip_scale`
+     - :ref:`MIP Advanced - SubMIP Scale <option-CPLEX-submip_scale>`
    * - MIP submip startalg
-     - :ref:`option-CPLEX-submip_start_algorithm`
+     - :ref:`MIP Advanced - SubMIP Start Algorithm <option-CPLEX-submip_start_algorithm>`
    * - MIP submip subalg
-     - :ref:`option-CPLEX-submip_subproblem_algorithm`
+     - :ref:`MIP Advanced - SubMIP Subproblem Algorithm <option-CPLEX-submip_subproblem_algorithm>`
    * - MIP tolerances absmipgap
-     - :ref:`option-AIMMS-mip_absolute_optimality_tolerance`
+     - :ref:`MIP Options - MIP Absolute Optimality Tolerance <option-AIMMS-mip_absolute_optimality_tolerance>`
    * - MIP tolerances integrality
-     - :ref:`option-CPLEX-integrality`
+     - :ref:`MIP - Integrality <option-CPLEX-integrality>`
    * - MIP tolerances lowercutoff
-     - :ref:`option-AIMMS-cutoff`
+     - :ref:`MIP Options - Cutoff <option-AIMMS-cutoff>`
    * - MIP tolerances mipgap
-     - :ref:`option-AIMMS-mip_relative_optimality_tolerance`
+     - :ref:`MIP Options - MIP Relative Optimality Tolerance <option-AIMMS-mip_relative_optimality_tolerance>`
    * - MIP tolerances objdifference
-     - :ref:`option-CPLEX-difference_objective`
+     - :ref:`MIP - Difference Objective <option-CPLEX-difference_objective>`
    * - MIP tolerances relobjdifference
-     - :ref:`option-CPLEX-relative_difference_objective`
+     - :ref:`MIP - Relative Difference Objective <option-CPLEX-relative_difference_objective>`
    * - MIP tolerances uppercutoff
-     - :ref:`option-AIMMS-cutoff`
+     - :ref:`MIP Options - Cutoff <option-AIMMS-cutoff>`
    * - Multiobjective display
-     - :ref:`option-CPLEX-multi_objective_display`
+     - :ref:`Logging - Multi Objective Display <option-CPLEX-multi_objective_display>`
    * - Network iterations
-     - :ref:`option-CPLEX-network_iterations`
+     - :ref:`Network - Network Iterations <option-CPLEX-network_iterations>`
    * - Network netfind
-     - :ref:`option-CPLEX-network_extraction_level`
+     - :ref:`Network - Network Extraction Level <option-CPLEX-network_extraction_level>`
    * - Network pricing
-     - :ref:`option-CPLEX-network_pricing`
+     - :ref:`Network - Network Pricing <option-CPLEX-network_pricing>`
    * - Network tolerances feasibility
-     - :ref:`option-CPLEX-network_feasibility`
+     - :ref:`Network - Network Feasibility <option-CPLEX-network_feasibility>`
    * - Network tolerances optimality
-     - :ref:`option-CPLEX-network_optimality`
+     - :ref:`Network - Network Optimality <option-CPLEX-network_optimality>`
    * - Optimalitytarget
-     - :ref:`option-CPLEX-solution_target`
+     - :ref:`QP - Solution Target <option-CPLEX-solution_target>`
    * - Output clonelog
-     - :ref:`option-CPLEX-clone_log_files`
+     - :ref:`Logging - Clone Log Files <option-CPLEX-clone_log_files>`
    * - Parallel mode
-     - :ref:`option-CPLEX-parallel_mode`
+     - :ref:`Parallel - Parallel Mode <option-CPLEX-parallel_mode>`
    * - Paramdisplay
-     - :ref:`option-CPLEX-parameter_display`
+     - :ref:`Logging - Parameter Display <option-CPLEX-parameter_display>`
    * - Preprocessing aggregator
-     - :ref:`option-CPLEX-aggregator`
+     - :ref:`Preprocessing - Aggregator <option-CPLEX-aggregator>`
    * - Preprocessing boundstrength
-     - :ref:`option-CPLEX-boundstrength`
+     - :ref:`MIP Preprocessing - Boundstrength <option-CPLEX-boundstrength>`
    * - Preprocessing coeffreduce
-     - :ref:`option-CPLEX-coefficient_reduction`
+     - :ref:`MIP Preprocessing - Coefficient Reduction <option-CPLEX-coefficient_reduction>`
    * - Preprocessing dependency
-     - :ref:`option-CPLEX-dependency`
+     - :ref:`Preprocessing - Dependency <option-CPLEX-dependency>`
    * - Preprocessing dual
-     - :ref:`option-CPLEX-presolve_pass_dual`
+     - :ref:`Preprocessing - Presolve Pass Dual <option-CPLEX-presolve_pass_dual>`
    * - Preprocessing fill
-     - :ref:`option-CPLEX-limit_substitutions`
+     - :ref:`Preprocessing - Limit Substitutions <option-CPLEX-limit_substitutions>`
    * - Preprocessing folding
-     - :ref:`option-CPLEX-folding`
+     - :ref:`Preprocessing - Folding <option-CPLEX-folding>`
    * - Preprocessing numpass
-     - :ref:`option-CPLEX-number_of_iterations_in_presolve`
+     - :ref:`Preprocessing - Number of Iterations in Presolve <option-CPLEX-number_of_iterations_in_presolve>`
    * - Preprocessing presolve
-     - :ref:`option-CPLEX-presolve`
+     - :ref:`Preprocessing - Presolve <option-CPLEX-presolve>`
    * - Preprocessing qcpduals
-     - :ref:`option-CPLEX-qcp_dual_values`
+     - :ref:`QP - QCP Dual Values <option-CPLEX-qcp_dual_values>`
    * - Preprocessing qpmakepsd
-     - :ref:`option-CPLEX-adjust_miqp`
+     - :ref:`QP - Adjust MIQP <option-CPLEX-adjust_miqp>`
    * - Preprocessing qtolin
-     - :ref:`option-CPLEX-qp_linearization`
+     - :ref:`QP - QP Linearization <option-CPLEX-qp_linearization>`
    * - Preprocessing reduce
-     - :ref:`option-CPLEX-preprocessing_reduction_types`
+     - :ref:`Preprocessing - Preprocessing Reduction Types <option-CPLEX-preprocessing_reduction_types>`
    * - Preprocessing relax
-     - :ref:`option-CPLEX-presolve_relaxed_mip`
+     - :ref:`MIP Preprocessing - Presolve Relaxed MIP <option-CPLEX-presolve_relaxed_mip>`
    * - Preprocessing repeatpresolve
-     - :ref:`option-CPLEX-repeat_presolve`
+     - :ref:`MIP Preprocessing - Repeat Presolve <option-CPLEX-repeat_presolve>`
    * - Preprocessing sos1reform
-     - :ref:`option-CPLEX-sos1_reformulations`
+     - :ref:`MIP Preprocessing - SOS1 Reformulations <option-CPLEX-sos1_reformulations>`
    * - Preprocessing sos2reform
-     - :ref:`option-CPLEX-sos2_reformulations`
+     - :ref:`MIP Preprocessing - SOS2 Reformulations <option-CPLEX-sos2_reformulations>`
    * - Preprocessing symmetry
-     - :ref:`option-CPLEX-preprocessing_symmetry`
+     - :ref:`MIP Preprocessing - Preprocessing Symmetry <option-CPLEX-preprocessing_symmetry>`
    * - QPMethod
-     - :ref:`option-CPLEX-qp_method`
+     - :ref:`QP - QP Method <option-CPLEX-qp_method>`
    * - Randomseed
-     - :ref:`option-CPLEX-random_seed`
+     - :ref:`General - Random Seed <option-CPLEX-random_seed>`
    * - Read datacheck
-     - :ref:`option-CPLEX-data_check_and_modeling_assistance`
+     - :ref:`General - Data Check and Modeling Assistance <option-CPLEX-data_check_and_modeling_assistance>`
    * - Read qpnonzeros
-     - :ref:`option-CPLEX-qp_nonzeros_read_limit`
+     - :ref:`QP - QP Nonzeros Read Limit <option-CPLEX-qp_nonzeros_read_limit>`
    * - Read scale
-     - :ref:`option-CPLEX-scale`
+     - :ref:`General - Scale <option-CPLEX-scale>`
    * - Sifting algorithm
-     - :ref:`option-CPLEX-sifting_algorithm`
+     - :ref:`General - Sifting Algorithm <option-CPLEX-sifting_algorithm>`
    * - Sifting simplex
-     - :ref:`option-CPLEX-sifting_from_simplex`
+     - :ref:`Simplex - Sifting From Simplex <option-CPLEX-sifting_from_simplex>`
    * - Simplex crash
-     - :ref:`option-CPLEX-crash_ordering`
+     - :ref:`Simplex - Crash Ordering <option-CPLEX-crash_ordering>`
    * - Simplex dgradient
-     - :ref:`option-CPLEX-dual_pricing_algorithm`
+     - :ref:`Simplex - Dual Pricing Algorithm <option-CPLEX-dual_pricing_algorithm>`
    * - Simplex display
-     - :ref:`option-CPLEX-simplex_display`
+     - :ref:`Logging - Simplex Display <option-CPLEX-simplex_display>`
    * - Simplex dynamicrows
-     - :ref:`option-CPLEX-dynamic_row_management`
+     - :ref:`Simplex - Dynamic Row Management <option-CPLEX-dynamic_row_management>`
    * - Simplex limits iterations
-     - :ref:`option-AIMMS-iteration_limit`
+     - :ref:`Stop Criteria - Iteration Limit <option-AIMMS-iteration_limit>`
    * - Simplex limits perturbation
-     - :ref:`option-CPLEX-stalled_iterations`
+     - :ref:`Simplex - Stalled Iterations <option-CPLEX-stalled_iterations>`
    * - Simplex limits singularity
-     - :ref:`option-CPLEX-singular`
+     - :ref:`Simplex - Singular <option-CPLEX-singular>`
    * - Simplex perturbationlimit
-     - :ref:`option-CPLEX-perturbation_constant`
+     - :ref:`Simplex - Perturbation Constant <option-CPLEX-perturbation_constant>`
    * - Simplex perturbationlimit
-     - :ref:`option-CPLEX-perturbation_indicator`
+     - :ref:`Simplex - Perturbation Indicator <option-CPLEX-perturbation_indicator>`
    * - Simplex pgradient
-     - :ref:`option-CPLEX-primal_pricing_algorithm`
+     - :ref:`Simplex - Primal Pricing Algorithm <option-CPLEX-primal_pricing_algorithm>`
    * - Simplex pricing
-     - :ref:`option-CPLEX-pricing`
+     - :ref:`Simplex - Pricing <option-CPLEX-pricing>`
    * - Simplex refactor
-     - :ref:`option-CPLEX-refactor`
+     - :ref:`Simplex - Refactor <option-CPLEX-refactor>`
    * - Simplex tolerances feasibility
-     - :ref:`option-CPLEX-feasibility`
+     - :ref:`Simplex - Feasibility <option-CPLEX-feasibility>`
    * - Simplex tolerances markowitz
-     - :ref:`option-CPLEX-markowitz`
+     - :ref:`Simplex - Markowitz <option-CPLEX-markowitz>`
    * - Simplex tolerances optimality
-     - :ref:`option-CPLEX-optimality`
+     - :ref:`Simplex - Optimality <option-CPLEX-optimality>`
    * - Solutiontype
-     - :ref:`option-CPLEX-solution_type`
+     - :ref:`General - Solution Type <option-CPLEX-solution_type>`
    * - Threads
-     - :ref:`option-CPLEX-global_thread_limit`
+     - :ref:`Parallel - Global Thread Limit <option-CPLEX-global_thread_limit>`
    * - Timelimit
-     - :ref:`option-AIMMS-time_limit`
+     - :ref:`Stop Criteria - Time Limit <option-AIMMS-time_limit>`
    * - Tune dettimelimit
-     - :ref:`option-CPLEX-tuning_time_limit_deterministic`
+     - :ref:`Tuning - Tuning Time Limit Deterministic <option-CPLEX-tuning_time_limit_deterministic>`
    * - Tune display
-     - :ref:`option-CPLEX-tuning_display`
+     - :ref:`Logging - Tuning Display <option-CPLEX-tuning_display>`
    * - Tune measure
-     - :ref:`option-CPLEX-tuning_measure`
+     - :ref:`Tuning - Tuning Measure <option-CPLEX-tuning_measure>`
    * - Tune repeat
-     - :ref:`option-CPLEX-tuning_repeater`
+     - :ref:`Tuning - Tuning Repeater <option-CPLEX-tuning_repeater>`
    * - Tune timelimit
-     - :ref:`option-CPLEX-tuning_time_limit`
+     - :ref:`Tuning - Tuning Time Limit <option-CPLEX-tuning_time_limit>`
    * - Workmem
-     - :ref:`option-CPLEX-working_memory_limit`
+     - :ref:`MIP - Working Memory Limit <option-CPLEX-working_memory_limit>`
