@@ -14,93 +14,93 @@ The table shows in the left column the AIMMS options for CP Optimizer while the 
 
    * - **Option name in AIMMS** 
      - **Name in CP Optimizer** 
-   * - :ref:`General - Optimality tolerance <option-CPOPT-optimality_tolerance>` 
+   * - :doc:`General - Optimality tolerance <General/CPOPT_General_-_Optimality_tolerance>` 
      - OptimalityTolerance
-   * - :ref:`General - Relative optimality tolerance <option-CPOPT-relative_optimality_tolerance>` 
+   * - :doc:`General - Relative optimality tolerance <General/CPOPT_General_-_Relative_optimality_tolerance>` 
      - RelativeOptimalityTolerance
-   * - :ref:`General - Solution limit <option-CPOPT-solution_limit>` 
+   * - :doc:`General - Solution limit <General/CPOPT_General_-_Solution_limit>` 
      - SolutionLimit
-   * - :ref:`General - Solution storage limit <option-CPOPT-solution_storage_limit>` 
+   * - :doc:`General - Solution storage limit <General/CPOPT_General_-_Solution_storage_limit>` 
      -  
-   * - :ref:`General - Starting point <option-CPOPT-starting_point>` 
+   * - :doc:`General - Starting point <General/CPOPT_General_-_Starting_point>` 
      -  
-   * - :ref:`General - Temporal relaxation <option-CPOPT-temporal_relaxation>` 
+   * - :doc:`General - Temporal relaxation <General/CPOPT_General_-_Temporal_relaxation>` 
      - TemporalRelaxation
-   * - :ref:`General - Time mode <option-CPOPT-time_mode>` 
+   * - :doc:`General - Time mode <General/CPOPT_General_-_Time_mode>` 
      - TimeMode
-   * - :ref:`Inference - Alldiff inference level <option-CPOPT-alldiff_inference_level>` 
+   * - :doc:`Inference - Alldiff inference level <Inference/CPOPT_Inference_-_Alldiff_inference_level>` 
      - AllDiffInferenceLevel
-   * - :ref:`Inference - Cardinality encoding <option-CPOPT-cardinality_encoding>` 
+   * - :doc:`Inference - Cardinality encoding <Inference/CPOPT_Inference_-_Cardinality_encoding>` 
      -  
-   * - :ref:`Inference - Count inference level <option-CPOPT-count_inference_level>` 
+   * - :doc:`Inference - Count inference level <Inference/CPOPT_Inference_-_Count_inference_level>` 
      - CountInferenceLevel
-   * - :ref:`Inference - Default inference level <option-CPOPT-default_inference_level>` 
+   * - :doc:`Inference - Default inference level <Inference/CPOPT_Inference_-_Default_inference_level>` 
      - DefaultInferenceLevel
-   * - :ref:`Inference - Element inference level <option-CPOPT-element_inference_level>` 
+   * - :doc:`Inference - Element inference level <Inference/CPOPT_Inference_-_Element_inference_level>` 
      - ElementInferenceLevel
-   * - :ref:`Inference - Parallel resource inference level <option-CPOPT-parallel_resource_inference_level>` 
+   * - :doc:`Inference - Parallel resource inference level <Inference/CPOPT_Inference_-_Parallel_resource_inf_lev>` 
      - CumulFunctionInferenceLevel
-   * - :ref:`Inference - Precedence inference level <option-CPOPT-precedence_inference_level>` 
+   * - :doc:`Inference - Precedence inference level <Inference/CPOPT_Inference_-_Precedence_inference_level>` 
      - PrecedenceInferenceLevel
-   * - :ref:`Inference - Sequence encoding <option-CPOPT-sequence_encoding>` 
+   * - :doc:`Inference - Sequence encoding <Inference/CPOPT_Inference_-_Sequence_encoding>` 
      -  
-   * - :ref:`Inference - Sequence inference level <option-CPOPT-sequence_inference_level>` 
+   * - :doc:`Inference - Sequence inference level <Inference/CPOPT_Inference_-_Sequence_inference_level>` 
      - SequenceInferenceLevel
-   * - :ref:`Inference - Sequential resource inference level <option-CPOPT-sequential_resource_inference_level>` 
+   * - :doc:`Inference - Sequential resource inference level <Inference/CPOPT_Inference_-_Sequential_resource_inf_lev>` 
      - NoOverlapInferenceLevel
-   * - :ref:`Logging - Cpo file <option-CPOPT-cpo_file>` 
+   * - :doc:`Logging - Cpo file <Logging/CPOPT_Logging_-_Cpo_file>` 
      -  
-   * - :ref:`Logging - Cpo file anonymizer <option-CPOPT-cpo_file_anonymizer>` 
+   * - :doc:`Logging - Cpo file anonymizer <Logging/CPOPT_Logging_-_Cpo_file_anonymizer>` 
      - ModelAnonymizer
-   * - :ref:`Logging - Log period <option-CPOPT-log_period>` 
+   * - :doc:`Logging - Log period <Logging/CPOPT_Logging_-_Log_period>` 
      - LogPeriod
-   * - :ref:`Logging - Log verbosity <option-CPOPT-log_verbosity>` 
+   * - :doc:`Logging - Log verbosity <Logging/CPOPT_Logging_-_Log_verbosity>` 
      - LogVerbosity
-   * - :ref:`Logging - Mod file <option-CPOPT-mod_file>` 
+   * - :doc:`Logging - Mod file <Logging/CPOPT_Logging_-_Mod_file>` 
      -  
-   * - :ref:`Logging - Mod file write constraint names <option-CPOPT-mod_file_write_constraint_names>` 
+   * - :doc:`Logging - Mod file write constraint names <Logging/CPOPT_Logging_-_Mod_file_write_constraint_name>` 
      -  
-   * - :ref:`Logging - Warning level <option-CPOPT-warning_level>` 
+   * - :doc:`Logging - Warning level <Logging/CPOPT_Logging_-_Warning_level>` 
      - WarningLevel
-   * - :ref:`Parallel - Number of workers <option-CPOPT-number_of_workers>` 
+   * - :doc:`Parallel - Number of workers <Parallel/CPOPT_Parallel_-_Number_of_workers>` 
      - Workers
-   * - :ref:`Preprocessing - Preprocess cumulative <option-CPOPT-preprocess_cumulative>` 
+   * - :doc:`Preprocessing - Preprocess cumulative <Preprocessing/CPOPT_Preprocessing_-_Preprocess_Cumulative>` 
      -  
-   * - :ref:`Preprocessing - Preprocess table constraints <option-CPOPT-preprocess_table_constraints>` 
+   * - :doc:`Preprocessing - Preprocess table constraints <Preprocessing/CPOPT_Preprocessing_-_Preprocess_table_constraints>` 
      -  
-   * - :ref:`Preprocessing - Presolve <option-CPOPT-presolve>` 
+   * - :doc:`Preprocessing - Presolve <Preprocessing/CPOPT_Preprocessing_-_Presolve>` 
      - Presolve
-   * - :ref:`Preprocessing - Substitute variables <option-CPOPT-substitute_variables>` 
+   * - :doc:`Preprocessing - Substitute variables <Preprocessing/CPOPT_Preprocessing_-_Substitute_variables>` 
      -  
-   * - :ref:`Search - Branch limit <option-CPOPT-branch_limit>` 
+   * - :doc:`Search - Branch limit <Search/CPOPT_Search_-_Branch_limit>` 
      - BranchLimit
-   * - :ref:`Search - Choice point limit <option-CPOPT-choice_point_limit>` 
+   * - :doc:`Search - Choice point limit <Search/CPOPT_Search_-_Choice_point_limit>` 
      - ChoicePointLimit
-   * - :ref:`Search - Dynamic probing <option-CPOPT-dynamic_probing>` 
+   * - :doc:`Search - Dynamic probing <Search/CPOPT_Search_-_Dynamic_probing>` 
      - DynamicProbing
-   * - :ref:`Search - Dynamic probing strength <option-CPOPT-dynamic_probing_strength>` 
+   * - :doc:`Search - Dynamic probing strength <Search/CPOPT_Search_-_Dynamic_probing_strength>` 
      - DynamicProbingStrength
-   * - :ref:`Search - Failure directed search <option-CPOPT-failure_directed_search>` 
+   * - :doc:`Search - Failure directed search <Search/CPOPT_Search_-_Failure_directed_search>` 
      - FailureDirectedSearch
-   * - :ref:`Search - Failure directed search emphasis <option-CPOPT-failure_directed_search_emphasis>` 
+   * - :doc:`Search - Failure directed search emphasis <Search/CPOPT_Search_-_Failure_directed_search_emphas>` 
      - FailureDirectedSearchEmphasis
-   * - :ref:`Search - Failure directed search memory limit <option-CPOPT-failure_directed_search_memory_limit>` 
+   * - :doc:`Search - Failure directed search memory limit <Search/CPOPT_Search_-_Failure_directed_search_memory>` 
      - FailureDirectedSearchMaxMemory
-   * - :ref:`Search - Failure limit <option-CPOPT-failure_limit>` 
+   * - :doc:`Search - Failure limit <Search/CPOPT_Search_-_Failure_limit>` 
      - FailLimit
-   * - :ref:`Search - Number of search points <option-CPOPT-number_of_search_points>` 
+   * - :doc:`Search - Number of search points <Search/CPOPT_Search_-_Number_of_search_points>` 
      - MultiPointNumberOfSearchPoints
-   * - :ref:`Search - Random seed <option-CPOPT-random_seed>` 
+   * - :doc:`Search - Random seed <Search/CPOPT_Search_-_Random_seed>` 
      - RandomSeed
-   * - :ref:`Search - Restart failure limit <option-CPOPT-restart_failure_limit>` 
+   * - :doc:`Search - Restart failure limit <Search/CPOPT_Search_-_Restart_failure_limit>` 
      - RestartFailLimit
-   * - :ref:`Search - Restart growth factor <option-CPOPT-restart_growth_factor>` 
+   * - :doc:`Search - Restart growth factor <Search/CPOPT_Search_-_Restart_growth_factor>` 
      - RestartGrowthFactor
-   * - :ref:`Search - Search type <option-CPOPT-search_type>` 
+   * - :doc:`Search - Search type <Search/CPOPT_Search_-_Search_type>` 
      - SearchType
-   * - :ref:`Search - Value selection <option-CPOPT-value_selection>` 
+   * - :doc:`Search - Value selection <Search/CPOPT_Search_-_Value_selection>` 
      -  
-   * - :ref:`Search - Variable selection <option-CPOPT-variable_selection>` 
+   * - :doc:`Search - Variable selection <Search/CPOPT_Search_-_Variable_selection>` 
      -  
 
 

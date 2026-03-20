@@ -14,79 +14,79 @@ The table shows in the left column the AIMMS BARON options; the right column dis
 
    * - **Option name in AIMMS**
      - **Name in BARON**
-   * - :ref:`Branching - Point selection strategy <option-Baron-point_selection_strategy>`
+   * - :doc:`Branching - Point selection strategy <Branching/BARON_Branching_-_Point_selection_st>`
      - brptstra
-   * - :ref:`Branching - Node selection <option-Baron-node_selection>`
+   * - :doc:`Branching - Node selection <Branching/BARON_Branching_-_Node_select>`
      - nodesel
-   * - :ref:`Branching - Variable selection strategy <option-Baron-variable_selection_strategy>`
+   * - :doc:`Branching - Variable selection strategy <Branching/BARON_Branching_-_Variable_selection>`
      - brvarstra
-   * - :ref:`General - Automatically set missing bounds <option-Baron-automatically_set_missing_bounds>`
+   * - :doc:`General - Automatically set missing bounds <General/BARON_General_-_Automatically_set_mi>`
      - autobounds
-   * - :ref:`General - Compute IIS <option-Baron-compute_iis>`
+   * - :doc:`General - Compute IIS <General/BARON_General_-_Compute_IIS>`
      - compiis
-   * - :ref:`General - Cut off <option-Baron-cut_off>`
+   * - :doc:`General - Cut off <General/BARON_General_-_Cutoff>`
      - cutoff
-   * - :ref:`General - Find feasible solution only <option-Baron-find_feasible_solution_only>`
+   * - :doc:`General - Find feasible solution only <General/BARON_General_-_Find_feasible_soluti>`
      - firstfeas
-   * - :ref:`General - IIS include integers <option-Baron-iis_include_integers>`
+   * - :doc:`General - IIS include integers <General/BARON_General_-_IIS_include_integers>`
      - iisint
-   * - :ref:`General - Local solution <option-Baron-local_solution>`
+   * - :doc:`General - Local solution <General/BARON_General_-_Local_solution>`
      - firstloc
-   * - :ref:`General - LP algorithm <option-Baron-lp_algorithm>`
+   * - :doc:`General - LP algorithm <General/BARON_General_-_LP_algorithm>`
      - lpalg
-   * - :ref:`General - LP solver <option-Baron-lp_solver>`
+   * - :doc:`General - LP solver <General/BARON_General_-_LP_solver>`
      - lpsol
-   * - :ref:`General - NLP solver <option-Baron-nlp_solver>`
+   * - :doc:`General - NLP solver <General/BARON_General_-_NLP_solver>`
      - nlpsol
-   * - :ref:`General - Number of best solutions <option-Baron-number_of_best_solutions>`
+   * - :doc:`General - Number of best solutions <General/BARON_General_-_Numberofbestsolutio>`
      - numsol
-   * - :ref:`General - Solution distance <option-Baron-solution_distance>`
+   * - :doc:`General - Solution distance <General/BARON_General_-_Solutiondistance>`
      - isoltol
-   * - :ref:`Local Search Heuristic - Number of preprocessing searches <option-Baron-number_of_preprocessing_searches>`
+   * - :doc:`Local Search Heuristic - Number of preprocessing searches <Local Search Heuristic/BARON_Local_Search_Heuristic_-_Numbe>`
      - numloc
-   * - :ref:`Local Search Heuristic - Upper bounding <option-Baron-upper_bounding>`
+   * - :doc:`Local Search Heuristic - Upper bounding <Local Search Heuristic/BARON_Local_Search_Heuristic_-_Upper>`
      - dolocal
-   * - :ref:`Logging - Print local search information <option-Baron-print_local_search_information>`
+   * - :doc:`Logging - Print local search information <Logging/BARON_Logging_-_Print_local_search_i>`
      - locres
-   * - :ref:`Parallel - Thread limit MIP <option-Baron-thread_limit_mip>`
+   * - :doc:`Parallel - Thread limit MIP <Parallel/BARON_Parallel_-_Thread_limit_MIP>`
      - threads
-   * - :ref:`Range Reduction - Bounds tightening <option-Baron-bounds_tightening>`
+   * - :doc:`Range Reduction - Bounds tightening <Range Reduction/BARON_Range_Reduction_-_Bounds_tight>`
      - tdo
-   * - :ref:`Range Reduction - Feasibility based tightening <option-Baron-feasibility_based_tightening>`
+   * - :doc:`Range Reduction - Feasibility based tightening <Range Reduction/BARON_Range_Reduction_-_Feasibility_>`
      - lbttdo
-   * - :ref:`Range Reduction - Marginals testing <option-Baron-marginals_testing>`
+   * - :doc:`Range Reduction - Marginals testing <Range Reduction/BARON_Range_Reduction_-_Marginals_te>`
      - mdo
-   * - :ref:`Range Reduction - Number of probing problems <option-Baron-number_of_probing_problems>`
+   * - :doc:`Range Reduction - Number of probing problems <Range Reduction/BARON_Range_Reduction_-_Number_of_pr>`
      - pdo
-   * - :ref:`Range Reduction - Optimality based tightening <option-Baron-optimality_based_tightening>`
+   * - :doc:`Range Reduction - Optimality based tightening <Range Reduction/BARON_Range_Reduction_-_Optimality_b>`
      - obttdo
-   * - :ref:`Relaxation - Number of cutting plane rounds <option-Baron-number_of_cutting_plane_rounds>`
+   * - :doc:`Relaxation - Number of cutting plane rounds <Relaxation/BARON_Relaxation_-_Number_of_cutting>`
      - noutiter
-   * - :ref:`Relaxation - Number of grid points <option-Baron-number_of_grid_points>`
+   * - :doc:`Relaxation - Number of grid points <Relaxation/BARON_Relaxation_-_Number_of_grid_points>`
      - outgrid
-   * - :ref:`Relaxation - Number of outer approximators <option-Baron-number_of_outer_approximators>`
+   * - :doc:`Relaxation - Number of outer approximators <Relaxation/BARON_Relaxation_-_Number_of_outer_a>`
      - nouter1
-   * - :ref:`Relaxation - Number of outer approximators multi <option-Baron-number_of_outer_approximators_multi>`
+   * - :doc:`Relaxation - Number of outer approximators multi <Relaxation/BARON_Relaxation_-_Number_of_outer_approximators_m>`
      - noutpervar
-   * - :ref:`Termination - Absolute improvement tolerance <option-Baron-absolute_improvement_tolerance>`
+   * - :doc:`Termination - Absolute improvement tolerance <Termination/BARON_Termination_-_Absolute_improvement_tolerance>`
      - DeltaA
-   * - :ref:`Termination - Absolute termination tolerance <option-Baron-absolute_termination_tolerance>`
+   * - :doc:`Termination - Absolute termination tolerance <Termination/BARON_Termination_-_Absolute_terminat>`
      - epsa
-   * - :ref:`Termination - Insufficient progress termination <option-Baron-insufficient_progress_termination>`
+   * - :doc:`Termination - Insufficient progress termination <Termination/BARON_Termination_-_Insufficient_progress_terminat>`
      - DeltaTerm
-   * - :ref:`Termination - Insufficient progress time <option-Baron-insufficient_progress_time>`
+   * - :doc:`Termination - Insufficient progress time <Termination/BARON_Termination_-_Insufficient_progress_time>`
      - DeltaT
-   * - :ref:`Termination - Relative improvement tolerance <option-Baron-relative_improvement_tolerance>`
+   * - :doc:`Termination - Relative improvement tolerance <Termination/BARON_Termination_-_Relative_improvement_tolerance>`
      - DeltaD
-   * - :ref:`Termination - Relative termination tolerance <option-Baron-relative_termination_tolerance>`
+   * - :doc:`Termination - Relative termination tolerance <Termination/BARON_Termination_-_Relative_terminat>`
      - epsr
-   * - :ref:`Tolerances - Absolute feasibility tolerance <option-Baron-absolute_feasibility_tolerance>`
+   * - :doc:`Tolerances - Absolute feasibility tolerance <Tolerances/BARON_Tolerances_-_Absolute_feasibility_tolerance>`
      - AbsConFeasTol
-   * - :ref:`Tolerances - Absolute integrality tolerance <option-Baron-absolute_integrality_tolerance>`
+   * - :doc:`Tolerances - Absolute integrality tolerance <Tolerances/BARON_Tolerances_-_Absolute_Integrality_toler>`
      - AbsIntFeasTol
-   * - :ref:`Tolerances - Box elimination tolerance <option-Baron-box_elimination_tolerance>`
+   * - :doc:`Tolerances - Box elimination tolerance <Tolerances/BARON_Tolerances_-_Box_elimination_t>`
      - boxtol
-   * - :ref:`Tolerances - Relative feasibility tolerance <option-Baron-relative_feasibility_tolerance>`
+   * - :doc:`Tolerances - Relative feasibility tolerance <Tolerances/BARON_Tolerances_-_Relative_feasibility_tolerance>`
      - RelConFeasTol
-   * - :ref:`Tolerances - Relative integrality tolerance <option-Baron-relative_integrality_tolerance>`
+   * - :doc:`Tolerances - Relative integrality tolerance <Tolerances/BARON_Tolerances_-_Relative_Integrality_toler>`
      - RelIntFeasTol

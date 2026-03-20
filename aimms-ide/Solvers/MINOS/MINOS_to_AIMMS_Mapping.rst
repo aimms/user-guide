@@ -15,48 +15,48 @@ The table shows in the left column the parameters from MINOS that can be set in 
    * - **Name in MINOS**
      - **Option name in AIMMS**
    * - CHECK FREQUENCY
-     - :ref:`Advanced - Check Frequency <option-MINOS-check_frequency>`
+     - :doc:`Advanced - Check Frequency <Advanced/MINOS_Advanced_-_Check_Frequen>`
    * - CRASH OPTION
-     - :ref:`Advanced - Calling Crash Procedure <option-MINOS-calling_crash_procedure>`
+     - :doc:`Advanced - Calling Crash Procedure <Advanced/MINOS_Advanced_-_Calling_Crash>`
    * - CRASH TOLERANCE
-     - :ref:`Advanced - Crash Tolerance <option-MINOS-crash_tolerance>`
+     - :doc:`Advanced - Crash Tolerance <Advanced/Advanced_-_Crash_Tolerance>`
    * - FACTORIZATION FREQUENCY
-     - :ref:`Advanced - Factorization Frequency <option-MINOS-factorization_frequency>`
+     - :doc:`Advanced - Factorization Frequency <Advanced/Advanced_-_Factorization_Frequ>`
    * - FEASIBILITY TOLERANCE
-     - :ref:`Feasibility - Feasibility Tolerance <option-MINOS-feasibility_tolerance>`
+     - :doc:`Feasibility - Feasibility Tolerance <Feasibility/FeasibilityTolerance>`
    * - FUNCTION PRECISION
-     - :ref:`Advanced - Function Precision <option-MINOS-function_precision>`
+     - :doc:`Advanced - Function Precision <Advanced/Advanced_-_Function_Precision>`
    * - ITERATIONS LIMIT
-     - :ref:`Limits - Maximum Number of Total Iterations <option-MINOS-maximum_number_of_total_iterations>`
+     - :doc:`Limits - Maximum Number of Total Iterations <Limits/Limits_-_Maximum_Number_of_Tot>`
    * - LINESEARCH TOLERANCE
-     - :ref:`Lagrangian - Linesearch Tolerance <option-MINOS-linesearch_tolerance>`
+     - :doc:`Lagrangian - Linesearch Tolerance <Lagrangian/Linesearch_Toleranc>`
    * - LU FACTOR TOLERANCE
-     - :ref:`Advanced - LU Factor Tolerance <option-MINOS-lu_factor_tolerance>`
+     - :doc:`Advanced - LU Factor Tolerance <Advanced/MINOS_Advanced_-_LU_Factor_Tol>`
    * - LU UPDATE TOLERANCE
-     - :ref:`Advanced - LU Update Tolerance <option-MINOS-lu_update_tolerance>`
+     - :doc:`Advanced - LU Update Tolerance <Advanced/Advanced_-_LU_Update_Tolerance>`
    * - MAJOR DAMPING PARAMETER
-     - :ref:`Lagrangian - Damping Parameter <option-MINOS-damping_parameter>`
+     - :doc:`Lagrangian - Damping Parameter <Lagrangian/DampingParameter>`
    * - MINOR ITERATIONS
-     - :ref:`Limits - Maximum Number of Minor Iterations <option-MINOS-maximum_number_of_minor_iterations>`
+     - :doc:`Limits - Maximum Number of Minor Iterations <Limits/MINOS_-_Maximum_Number_of_Min>`
    * - OPTIMALITY TOLERANCE
-     - :ref:`Stop Criteria - Optimality Tolerance <option-MINOS-optimality_tolerance>`
+     - :doc:`Stop Criteria - Optimality Tolerance <Stop Criteria/Limits_-_Optimality_Tolerance>`
    * - PENALTY PARAMETER
-     - :ref:`Lagrangian - Penalty Parameter <option-MINOS-penalty_parameter>`
+     - :doc:`Lagrangian - Penalty Parameter <Lagrangian/PenaltyParameter>`
    * - PIVOT TOLERANCE
-     - :ref:`Advanced - Pivot Tolerance <option-MINOS-pivot_tolerance>`
+     - :doc:`Advanced - Pivot Tolerance <Advanced/Advanced_-_Pivot_Tolerance>`
    * - RADIUS OF CONVERGENCE
-     - :ref:`Lagrangian - Radius of Convergence <option-MINOS-radius_of_convergence>`
+     - :doc:`Lagrangian - Radius of Convergence <Lagrangian/RadiusofConvergence>`
    * - ROW TOLERANCE
-     - :ref:`Feasibility - Row Tolerance <option-MINOS-row_tolerance>`
+     - :doc:`Feasibility - Row Tolerance <Feasibility/RowTolerance>`
    * - SCALE OPTION
-     - :ref:`Scaling - Scale Method <option-MINOS-scale_method>`
+     - :doc:`Scaling - Scale Method <Scaling/Scaling_-_Scale_Method>`
    * - SCALE TOLERANCE
-     - :ref:`Scaling - Scale Tolerance <option-MINOS-scale_tolerance>`
+     - :doc:`Scaling - Scale Tolerance <Scaling/Scaling_-_Scale_Tolerance>`
    * - SUBSPACE TOLERANCE
-     - :ref:`Advanced - Subspace Tolerance <option-MINOS-subspace_tolerance>`
+     - :doc:`Advanced - Subspace Tolerance <Advanced/SubspaceTolerance>`
    * - UNBOUNDED OBJECTIVE VALUE
-     - :ref:`Stop Criteria - Unbounded Objective Value <option-MINOS-unbounded_objective_value>`
+     - :doc:`Stop Criteria - Unbounded Objective Value <Stop Criteria/Limits_-_Unbounded_Objec>`
    * - UNBOUNDED STEP SIZE
-     - :ref:`Stop Criteria - Unbounded Step Size <option-MINOS-unbounded_step_size>`
+     - :doc:`Stop Criteria - Unbounded Step Size <Stop Criteria/Limits_-_Unbounded_Step_Size>`
    * - WEIGHT ON LINEAR OBJECTIVE
-     - :ref:`Advanced - Weight on Linear Objective <option-MINOS-weight_on_linear_objective>`
+     - :doc:`Advanced - Weight on Linear Objective <Advanced/WeightonLinearObjective>`

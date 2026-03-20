@@ -14,85 +14,85 @@ The table below shows in the left column the AIMMS options that control the ODH 
 
    * - **Option name in AIMMS** 
      - **Name in ODH-CPLEX** 
-   * - :ref:`Advanced - Backtrack Limit <option-ODHCPLEX-backtrack_limit>` 
+   * - :doc:`Advanced - Backtrack Limit <Advanced/ODH_Advanced_-_Backtrack_Limit>` 
      - MAXBACKTRACK
-   * - :ref:`Advanced - Decomposition Density <option-ODHCPLEX-decomposition_density>` 
+   * - :doc:`Advanced - Decomposition Density <Advanced/ODH_Advanced_-_Decomposition_Density>` 
      - DECOMPDENSITY
-   * - :ref:`Advanced - Global Bounds <option-ODHCPLEX-global_bounds>` 
+   * - :doc:`Advanced - Global Bounds <Advanced/ODH_Advanced_-_Global_Bounds>` 
      - GLOBALBOUNDS
-   * - :ref:`Advanced - Initial Divisor Value <option-ODHCPLEX-initial_divisor_value>` 
+   * - :doc:`Advanced - Initial Divisor Value <Advanced/ODH_Advanced_-_Initial_Divisor_Value>` 
      - INTERDIV
-   * - :ref:`Advanced - Initial Divisor Value Sub Models <option-ODHCPLEX-initial_divisor_value_sub_models>` 
+   * - :doc:`Advanced - Initial Divisor Value Sub Models <Advanced/ODH_Advanced_-_Initial_Divisor_Value_Sub>` 
      - DIVISOR
-   * - :ref:`Advanced - Maximum Divisor Repeats <option-ODHCPLEX-maximum_divisor_repeats>` 
+   * - :doc:`Advanced - Maximum Divisor Repeats <Advanced/ODH_Advanced_-_Maximum_Divisor_Repeats>` 
      - MAXREPEAT
-   * - :ref:`Advanced - Maximum Divisor Repeats Infeasible <option-ODHCPLEX-maximum_divisor_repeats_infeasible>` 
+   * - :doc:`Advanced - Maximum Divisor Repeats Infeasible <Advanced/ODH_Advanced_-_Maximum_Divisor_Repeats_Inf>` 
      - MAXINFREPEAT
-   * - :ref:`Advanced - Maximum Divisor Value <option-ODHCPLEX-maximum_divisor_value>` 
+   * - :doc:`Advanced - Maximum Divisor Value <Advanced/ODH_Advanced_-_Maximum_Divisor_Value>` 
      - MAXINTERDIV
-   * - :ref:`Advanced - Optimization Method <option-ODHCPLEX-optimization_method>` 
+   * - :doc:`Advanced - Optimization Method <Advanced/ODH_Advanced_-_Optimization_Method>` 
      - FEASOPT
-   * - :ref:`Advanced - Write Decomposition File <option-ODHCPLEX-write_decomposition_file>` 
+   * - :doc:`Advanced - Write Decomposition File <Advanced/ODH_Advanced_-_Write_Decomposition_File>` 
      - 
-   * - :ref:`General - Clean Variables Sub Models <option-ODHCPLEX-clean_variables_sub_models>` 
+   * - :doc:`General - Clean Variables Sub Models <General/ODH_General_-_Clean_variables_sub_models>` 
      - VARIABLECLEAN
-   * - :ref:`General - Objective Target <option-ODHCPLEX-objective_target>` 
+   * - :doc:`General - Objective Target <General/ODH_General_-_Objective_Target>` 
      - OBJTARGET
-   * - :ref:`General - ODH Feasibility Tolerance <option-ODHCPLEX-odh_feasibility_tolerance>` 
+   * - :doc:`General - ODH Feasibility Tolerance <General/ODH_General_-_ODH_Feasibility_Tolerance>` 
      - FEASTOL
-   * - :ref:`General - ODH Presolve <option-ODHCPLEX-odh_presolve>` 
+   * - :doc:`General - ODH Presolve <General/ODH_General_-_ODH_Presolve>` 
      - ODHPRESOLVE
-   * - :ref:`General - ODH Seed <option-ODHCPLEX-odh_seed>` 
+   * - :doc:`General - ODH Seed <General/ODH_General_-_ODH_Seed>` 
      - SEED
-   * - :ref:`General - Presolve <option-ODHCPLEX-presolve>` 
+   * - :doc:`General - Presolve <General/ODH_General_-_Presolve>` 
      - PRESOLVE
-   * - :ref:`General - Quick First Solve <option-ODHCPLEX-quick_first_solve>` 
+   * - :doc:`General - Quick First Solve <General/ODH_General_-_Quick_First_Solve>` 
      - QUICKFIRSTSOLVE
-   * - :ref:`General - Reject Infeasible Solutions <option-ODHCPLEX-reject_infeasible_solutions>` 
+   * - :doc:`General - Reject Infeasible Solutions <General/ODH_General_-_Reject_Inf_Solutions>` 
      - REJECTINFSOL
-   * - :ref:`General - Relax SOS2 <option-ODHCPLEX-relax_sos2>` 
+   * - :doc:`General - Relax SOS2 <General/ODH_General_-_Relax_SOS2>` 
      - RELAXSOS2
-   * - :ref:`General - Remove Infeasibilities Method <option-ODHCPLEX-remove_infeasibilities_method>` 
+   * - :doc:`General - Remove Infeasibilities Method <General/ODH_General_-_Remove_Inf_Method>` 
      - PHASE12
-   * - :ref:`General - Search Mode <option-ODHCPLEX-search_mode>` 
+   * - :doc:`General - Search Mode <General/ODH_General_-_Search_Mode>` 
      - 
-   * - :ref:`General - Write Solution File <option-ODHCPLEX-write_solution_file>` 
+   * - :doc:`General - Write Solution File <General/ODH_General_-_Write_Solution_File>` 
      - WRITESOLUTION
-   * - :ref:`Heuristics - First Feasible Heuristic <option-ODHCPLEX-first_feasible_heuristic>` 
+   * - :doc:`Heuristics - First Feasible Heuristic <Heuristics/ODH_Heuristic_-_First_Feasible_Heuristic>` 
      - FIRSTFEAS
-   * - :ref:`Heuristics - First Feasible Heuristic Continue <option-ODHCPLEX-first_feasible_heuristic_continue>` 
+   * - :doc:`Heuristics - First Feasible Heuristic Continue <Heuristics/ODH_Heuristic_-_First_Feasible_Heuristic_Continue>` 
      - FIRSTFEASCONTINUE
-   * - :ref:`Heuristics - First Feasible Heuristic Effort Level <option-ODHCPLEX-first_feasible_heuristic_effort_level>` 
+   * - :doc:`Heuristics - First Feasible Heuristic Effort Level <Heuristics/ODH_Heuristic_-_First_Feasible_Heuristic_Effort_Level>` 
      - FIRSTFEASEFFORT
-   * - :ref:`Heuristics - First Feasible Heuristic Shift <option-ODHCPLEX-first_feasible_heuristic_shift>` 
+   * - :doc:`Heuristics - First Feasible Heuristic Shift <Heuristics/ODH_Heuristic_-_First_Feasible_Heuristic_Shift>` 
      - FIRSTFEASSHIFT
-   * - :ref:`Heuristics - Recurse <option-ODHCPLEX-recurse>` 
+   * - :doc:`Heuristics - Recurse <Heuristics/ODH_Heuristic_-_Recurse>` 
      - RECURSE
-   * - :ref:`Heuristics - Recurse Decomposition Method <option-ODHCPLEX-recurse_decomposition_method>` 
+   * - :doc:`Heuristics - Recurse Decomposition Method <Heuristics/ODH_Heuristic_-_Recurse_Decomposition_Method>` 
      - RECURSEDECOMP
-   * - :ref:`Heuristics - Recurse Iteration Limit <option-ODHCPLEX-recurse_iteration_limit>` 
+   * - :doc:`Heuristics - Recurse Iteration Limit <Heuristics/ODH_Heuristic_-_Recurse_Iteration_Limit>` 
      - RECURSEITERLIM
-   * - :ref:`Heuristics - Recurse Iteration Limit Solution <option-ODHCPLEX-recurse_iteration_limit_solution>` 
+   * - :doc:`Heuristics - Recurse Iteration Limit Solution <Heuristics/ODH_Heuristic_-_Recurse_Iteration_Limit_Solution>` 
      - RECURSESOLITERLIM
-   * - :ref:`Heuristics - Recurse Minimum Iterations <option-ODHCPLEX-recurse_minimum_iterations>` 
+   * - :doc:`Heuristics - Recurse Minimum Iterations <Heuristics/ODH_Heuristic_-_Recurse_Minimum_Iterations>` 
      - RECURSEMINITERLIM
-   * - :ref:`Heuristics - Solution Improvement Heuristic Mode <option-ODHCPLEX-solution_improvement_heuristic_mode>` 
+   * - :doc:`Heuristics - Solution Improvement Heuristic Mode <Heuristics/ODH_Heuristic_-_Sol_Impr_Heur_Mode>` 
      - DETERMINISTIC
-   * - :ref:`Heuristics - Solution Improvement Heuristic Penalty <option-ODHCPLEX-solution_improvement_heuristic_penalty>` 
+   * - :doc:`Heuristics - Solution Improvement Heuristic Penalty <Heuristics/ODH_Heuristic_-_Sol_Impr_Heur_Penalty>` 
      - PENALTY
-   * - :ref:`Heuristics - Solution Improvement Heuristic Strategy <option-ODHCPLEX-solution_improvement_heuristic_strategy>` 
+   * - :doc:`Heuristics - Solution Improvement Heuristic Strategy <Heuristics/ODH_Heuristic_-_Sol_Impr_Heur_Strategy>` 
      - STRATEGY
-   * - :ref:`Logging - Recurse Log <option-ODHCPLEX-recurse_log>` 
+   * - :doc:`Logging - Recurse Log <Logging/ODH_Logging_-_Recurse_Log>` 
      - RECURSELOG
-   * - :ref:`Logging - Status Display <option-ODHCPLEX-status_display>` 
+   * - :doc:`Logging - Status Display <Logging/ODH_Logging_-_Status_Display>` 
      - 
-   * - :ref:`Logging - Thread Log <option-ODHCPLEX-thread_log>` 
+   * - :doc:`Logging - Thread Log <Logging/ODH_Logging_-_Thread_Log>` 
      - THREADLOG
-   * - :ref:`Parallel - Thread Limit <option-ODHCPLEX-thread_limit>` 
+   * - :doc:`Parallel - Thread Limit <Parallel/ODH_Parallel_-_Thread_Limit>` 
      - THREADS
-   * - :ref:`Parallel - Thread Synchronization Frequency <option-ODHCPLEX-thread_synchronization_frequency>` 
+   * - :doc:`Parallel - Thread Synchronization Frequency <Parallel/ODH_Parallel_-_Thread_Sync_Freq>` 
      - SYNCFREQ
-   * - :ref:`Parallel - Processor Lock <option-ODHCPLEX-processor_lock>` 
+   * - :doc:`Parallel - Processor Lock <Parallel/ODH_Parallel_-_Processor_Lock>` 
      - PROCESSORLOCK
 
 
@@ -111,301 +111,301 @@ The two tables below show options used by ODH-CPLEX for the main CPLEX solve in 
 
    * - **Option name in AIMMS** 
      - **Name in ODH-CPLEX for main CPLEX solve** 
-   * - :ref:`CPLEX Barrier - Barrier Algorithm <option-ODHCPLEX-barrier_algorithm>`  
+   * - :doc:`CPLEX Barrier - Barrier Algorithm <CPLEX Barrier/ODH_XBarrier_-_Barrier_Algorithm>`  
      - CPX_BARALG
-   * - :ref:`CPLEX Barrier - Barrier Convergence Tolerance <option-ODHCPLEX-barrier_convergence_tolerance>`  
+   * - :doc:`CPLEX Barrier - Barrier Convergence Tolerance <CPLEX Barrier/ODH_XBarrier_-_Barrier_Convergence_>`  
      - CPX_BAREPCOMP
-   * - :ref:`CPLEX Barrier - Barrier Crossover Algorithm <option-ODHCPLEX-barrier_crossover_algorithm>` 
+   * - :doc:`CPLEX Barrier - Barrier Crossover Algorithm <CPLEX Barrier/ODH_XBarrier_-_Barrier_cross>` 
      - CPX_BARCROSSALG
-   * - :ref:`CPLEX Barrier - Barrier Density Definition <option-ODHCPLEX-barrier_density_definition>`  
+   * - :doc:`CPLEX Barrier - Barrier Density Definition <CPLEX Barrier/ODH_XBarrier_-_Barrier_Density_Defi>`  
      - CPX_BARCOLNZ
-   * - :ref:`CPLEX Barrier - Barrier Growth Limit <option-ODHCPLEX-barrier_growth_limit>`  
+   * - :doc:`CPLEX Barrier - Barrier Growth Limit <CPLEX Barrier/ODH_XBarrier_-_Barrier_Growth_Limit>`  
      - CPX_BARGROWTH
-   * - :ref:`CPLEX Barrier - Barrier Iterations <option-ODHCPLEX-barrier_iterations>`  
+   * - :doc:`CPLEX Barrier - Barrier Iterations <CPLEX Barrier/ODH_XBarrier_-_Barrier_Iterations>`  
      - CPX_BARITLIM
-   * - :ref:`CPLEX Barrier - Barrier Maximal Number of Corrections <option-ODHCPLEX-barrier_maximal_number_of_corrections>`  
+   * - :doc:`CPLEX Barrier - Barrier Maximal Number of Corrections <CPLEX Barrier/ODH_XBarrier_-_Barrier_Maximal_Numb>`  
      - CPX_BARMAXCOR
-   * - :ref:`CPLEX Barrier - Barrier Objective Range <option-ODHCPLEX-barrier_objective_range>`  
+   * - :doc:`CPLEX Barrier - Barrier Objective Range <CPLEX Barrier/ODH_XBarrier_-_Barrier_Objective_Ra>`  
      - CPX_BAROBJRNG
-   * - :ref:`CPLEX Barrier - Barrier Ordering <option-ODHCPLEX-barrier_ordering>`  
+   * - :doc:`CPLEX Barrier - Barrier Ordering <CPLEX Barrier/ODH_XBarrier_-_Barrier_Ordering>`  
      - CPX_BARORDER
-   * - :ref:`CPLEX Barrier - Barrier Start Algorithm <option-ODHCPLEX-barrier_start_algorithm>`  
+   * - :doc:`CPLEX Barrier - Barrier Start Algorithm <CPLEX Barrier/ODH_XBarrier_-_Barrier_Start_Algori>`  
      - CPX_BARSTARTALG
-   * - :ref:`CPLEX General - Advanced Start <option-ODHCPLEX-advanced_start>` 
+   * - :doc:`CPLEX General - Advanced Start <CPLEX General/ODH_XGeneral_-_AdvancedStart>` 
      - CPX_ADVIND
-   * - :ref:`CPLEX General - Cleanup Coefficients <option-ODHCPLEX-cleanup_coefficients>` 
+   * - :doc:`CPLEX General - Cleanup Coefficients <CPLEX General/ODH_XGeneral_-_Cleanup_Coefficients>` 
      - 
-   * - :ref:`CPLEX General - Clock Type <option-ODHCPLEX-clock_type>` 
+   * - :doc:`CPLEX General - Clock Type <CPLEX General/ODH_XGeneral_-_Clock_Type>` 
      - CPX_CLOCKTYPE
-   * - :ref:`CPLEX General - Conflict Algorithm <option-ODHCPLEX-conflict_algorithm>`  
+   * - :doc:`CPLEX General - Conflict Algorithm <CPLEX General/ODH_XGeneral_-_Conflict_Algorithm>`  
      - CPX_CONFLICTALG
-   * - :ref:`CPLEX General - Data Check and Modeling Assistance <option-ODHCPLEX-data_check_and_modeling_assistance>`  
+   * - :doc:`CPLEX General - Data Check and Modeling Assistance <CPLEX General/ODH_XGeneral_-_Data_Check>`  
      - CPX_DATACHECK
-   * - :ref:`CPLEX General - Deterministic Time Limit <option-ODHCPLEX-deterministic_time_limit>` 
+   * - :doc:`CPLEX General - Deterministic Time Limit <CPLEX General/ODH_XGeneral_-_Deterministic_Time_Limit>` 
      - CPX_DETTILIM
-   * - :ref:`CPLEX General - LP File <option-ODHCPLEX-lp_file>`  
+   * - :doc:`CPLEX General - LP File <CPLEX General/ODH_XGeneral_-_LP_File>`  
      - 
-   * - :ref:`CPLEX General - Memory Emphasis <option-ODHCPLEX-memory_emphasis>` 
+   * - :doc:`CPLEX General - Memory Emphasis <CPLEX General/ODH_XGeneral_-_MemoryEmphasis>` 
      - CPX_MEMORYEMPHASIS
-   * - :ref:`CPLEX General - MPS <option-ODHCPLEX-mps>`  
+   * - :doc:`CPLEX General - MPS <CPLEX General/ODH_XGeneral_-_MPS>`  
      - 
-   * - :ref:`CPLEX General - Numerical Emphasis <option-ODHCPLEX-numerical_emphasis>` 
+   * - :doc:`CPLEX General - Numerical Emphasis <CPLEX General/ODH_XGeneral_-_NumericalEmphasis>` 
      - CPX_NUMERICALEMPHASIS
-   * - :ref:`CPLEX General - Ord File <option-ODHCPLEX-ord_file>`  
+   * - :doc:`CPLEX General - Ord File <CPLEX General/ODH_XGeneral_-_Ord_File>`  
      - 
-   * - :ref:`CPLEX General - Random Seed <option-ODHCPLEX-random_seed>`  
+   * - :doc:`CPLEX General - Random Seed <CPLEX General/ODH_XGeneral_-_Random_Seed>`  
      - CPX_RANDOMSEED
-   * - :ref:`CPLEX General - Round Coefficients <option-ODHCPLEX-round_coefficients>` 
+   * - :doc:`CPLEX General - Round Coefficients <CPLEX General/ODH_XGeneral_-_Round_Coefficients>` 
      - 
-   * - :ref:`CPLEX General - Sav File <option-ODHCPLEX-sav_file>`  
+   * - :doc:`CPLEX General - Sav File <CPLEX General/ODH_XGeneral_-_Sav_File>`  
      - 
-   * - :ref:`CPLEX General - Scale <option-ODHCPLEX-scale>`
+   * - :doc:`CPLEX General - Scale <CPLEX General/ODH_XGeneral_-_Scale>`
      - CPX_SCAIND
-   * - :ref:`CPLEX General - Sifting Algorithm <option-ODHCPLEX-sifting_algorithm>` 
+   * - :doc:`CPLEX General - Sifting Algorithm <CPLEX General/ODH_XGeneral_-_Sifting_Algorithm>` 
      - CPX_SIFTALG
-   * - :ref:`CPLEX General - Updates Batch Size <option-ODHCPLEX-updates_batch_size>`  
+   * - :doc:`CPLEX General - Updates Batch Size <CPLEX General/ODH_XGeneral_-_Updates_Batch_Size>`  
      - 
-   * - :ref:`CPLEX Logging - Barrier Display <option-ODHCPLEX-barrier_display>`  
+   * - :doc:`CPLEX Logging - Barrier Display <CPLEX Logging/ODH_XLogging_-_Barrier_Display>`  
      - CPX_BARDISPLAY
-   * - :ref:`CPLEX Logging - Clone Log Files <option-ODHCPLEX-clone_log_files>` 
+   * - :doc:`CPLEX Logging - Clone Log Files <CPLEX Logging/ODH_XLogging_-_Clone_Log_Files>` 
      - CPX_CLONELOG
-   * - :ref:`CPLEX Logging - MIP Display <option-ODHCPLEX-mip_display>`  
+   * - :doc:`CPLEX Logging - MIP Display <CPLEX Logging/ODH_XLogging_-_MIP_Display>`  
      - CPX_MIPDISPLAY
-   * - :ref:`CPLEX Logging - MIP Interval <option-ODHCPLEX-mip_interval>` 
+   * - :doc:`CPLEX Logging - MIP Interval <CPLEX Logging/ODH_XLogging_-_MIP_Interval>` 
      - CPX_MIPINTERVAL
-   * - :ref:`CPLEX Logging - Simplex Display <option-ODHCPLEX-simplex_display>`  
+   * - :doc:`CPLEX Logging - Simplex Display <CPLEX Logging/ODH_XLogging_-_Simplex_Display>`  
      - CPX_SIMDISPLAY
-   * - :ref:`CPLEX MIP - Backtrack <option-ODHCPLEX-backtrack>`  
+   * - :doc:`CPLEX MIP - Backtrack <CPLEX MIP/ODH_XMIP_-_Backtrack>`  
      - CPX_BTTOL
-   * - :ref:`CPLEX MIP - Branch <option-ODHCPLEX-branch>`  
+   * - :doc:`CPLEX MIP - Branch <CPLEX MIP/ODH_XMIP_-_Branch>`  
      - CPX_BRDIR
-   * - :ref:`CPLEX MIP - Difference Objective <option-ODHCPLEX-difference_objective>`  
+   * - :doc:`CPLEX MIP - Difference Objective <CPLEX MIP/ODH_XMIP_-_Difference_Object>`  
      - CPX_OBJDIF
-   * - :ref:`CPLEX MIP - Integrality <option-ODHCPLEX-integrality>`  
+   * - :doc:`CPLEX MIP - Integrality <CPLEX MIP/ODH_XMIP_-_Integrality>`  
      - CPX_EPINT
-   * - :ref:`CPLEX MIP - Maximal Number of Nodes <option-ODHCPLEX-maximal_number_of_nodes>`  
+   * - :doc:`CPLEX MIP - Maximal Number of Nodes <CPLEX MIP/ODH_XMIP_-_Max_Nr_of_Nodes>`  
      - CPX_NODELIM
-   * - :ref:`CPLEX MIP - MIP Basis <option-ODHCPLEX-mip_basis>`  
+   * - :doc:`CPLEX MIP - MIP Basis <CPLEX MIP/ODH_XMIP_-_MIP_Basis>`  
      - 
-   * - :ref:`CPLEX MIP - MIP Candidate List <option-ODHCPLEX-mip_candidate_list>` 
+   * - :doc:`CPLEX MIP - MIP Candidate List <CPLEX MIP/ODH_XMIP_-_MIP_Cand_List>` 
      - CPX_STRONGCANDLIM
-   * - :ref:`CPLEX MIP - MIP Dive Strategy <option-ODHCPLEX-mip_dive_strategy>`  
+   * - :doc:`CPLEX MIP - MIP Dive Strategy <CPLEX MIP/ODH_XMIP_-_MIP_Dive_Strat>`  
      - CPX_DIVETYPE
-   * - :ref:`CPLEX MIP - MIP Emphasis <option-ODHCPLEX-mip_emphasis>` 
+   * - :doc:`CPLEX MIP - MIP Emphasis <CPLEX MIP/ODH_XMIP_-_MIP_Emphasis>` 
      - CPX_MIPEMPHASIS
-   * - :ref:`CPLEX MIP - MIP Method <option-ODHCPLEX-mip_method>`  
+   * - :doc:`CPLEX MIP - MIP Method <CPLEX MIP/ODH_XMIP_-_MIP_Method>`  
      - CPX_SUBALG
-   * - :ref:`CPLEX MIP - MIP Probing <option-ODHCPLEX-mip_probing>` 
+   * - :doc:`CPLEX MIP - MIP Probing <CPLEX MIP/ODH_XMIP_-_MIP_Probing>` 
      - CPX_PROBE
-   * - :ref:`CPLEX MIP - MIP Search Strategy <option-ODHCPLEX-mip_search_strategy>` 
+   * - :doc:`CPLEX MIP - MIP Search Strategy <CPLEX MIP/ODH_XMIP_-_MIP_Search_Strategy>` 
      - CPX_MIPSEARCH
-   * - :ref:`CPLEX MIP - MIP Start Algorithm <option-ODHCPLEX-mip_start_algorithm>`  
+   * - :doc:`CPLEX MIP - MIP Start Algorithm <CPLEX MIP/ODH_XMIP_-_MIP_Start_Algorit>`  
      - CPX_STARTALG
-   * - :ref:`CPLEX MIP - MIP Tree Memory Limit <option-ODHCPLEX-mip_tree_memory_limit>`  
+   * - :doc:`CPLEX MIP - MIP Tree Memory Limit <CPLEX MIP/ODH_XMIP_-_MIP_Tree_Memory_Limit>`  
      - CPX_TRELIM
-   * - :ref:`CPLEX MIP - MIP Update <option-ODHCPLEX-mip_update>`  
+   * - :doc:`CPLEX MIP - MIP Update <CPLEX MIP/ODH_XMIP_-_MIP_Update>`  
      - 
-   * - :ref:`CPLEX MIP - Node File <option-ODHCPLEX-node_file>`  
+   * - :doc:`CPLEX MIP - Node File <CPLEX MIP/ODH_XMIP_-_Node_File>`  
      - CPX_NODEFILEIND
-   * - :ref:`CPLEX MIP - MIP Node Presolve <option-ODHCPLEX-mip_node_presolve>`  
+   * - :doc:`CPLEX MIP - MIP Node Presolve <CPLEX MIP/ODH_XMIP_-_MIP_Node_Presolve>`  
      - CPX_PRESLVND
-   * - :ref:`CPLEX MIP - Number of Parallel Threads <option-ODHCPLEX-number_of_parallel_threads>` 
+   * - :doc:`CPLEX MIP - Number of Parallel Threads <CPLEX MIP/ODH_XMIP_-_NrofParallelThrea>` 
      - CPX_STRONGTHREADLIM
-   * - :ref:`CPLEX MIP - Number of Repair Attempts <option-ODHCPLEX-number_of_repair_attempts>` 
+   * - :doc:`CPLEX MIP - Number of Repair Attempts <CPLEX MIP/ODH_XMIP_-_NumberofRepairAttempts>` 
      - CPX_REPAIRTRIES
-   * - :ref:`CPLEX MIP - Number of Simplex Iterations <option-ODHCPLEX-number_of_simplex_iterations>`
+   * - :doc:`CPLEX MIP - Number of Simplex Iterations <CPLEX MIP/ODH_XMIP_-_Nr_of_Simplex_Iter>`
      - CPX_STRONGITLIM
-   * - :ref:`CPLEX MIP - MIP Priority Order Switch <option-ODHCPLEX-mip_priority_order_switch>`
+   * - :doc:`CPLEX MIP - MIP Priority Order Switch <CPLEX MIP/ODH_XMIP_-_MIP_Priority_Order_Switch>`
      - CPX_MIPORDIND
-   * - :ref:`CPLEX MIP - MIP Priority Order Type <option-ODHCPLEX-mip_priority_order_type>` 
+   * - :doc:`CPLEX MIP - MIP Priority Order Type <CPLEX MIP/ODH_XMIP_-_MIP_Priority_Order_Type>` 
      - CPX_MIPORDTYPE
-   * - :ref:`CPLEX MIP - Probing Time <option-ODHCPLEX-probing_time>`  
+   * - :doc:`CPLEX MIP - Probing Time <CPLEX MIP/ODH_XMIP_-_Probing_Time>`  
      - CPX_PROBETIME
-   * - :ref:`CPLEX MIP - Probing Time Deterministic <option-ODHCPLEX-probing_time_deterministic>`  
+   * - :doc:`CPLEX MIP - Probing Time Deterministic <CPLEX MIP/ODH_XMIP_-_Probing_Time_Deterministic>`  
      - CPX_PROBEDETTIME
-   * - :ref:`CPLEX MIP - Relative Difference Objective <option-ODHCPLEX-relative_difference_objective>`  
+   * - :doc:`CPLEX MIP - Relative Difference Objective <CPLEX MIP/ODH_XMIP_-_Rel_Difference_Obj>`  
      - CPX_RELOBJDIF
-   * - :ref:`CPLEX MIP - Select Variables <option-ODHCPLEX-select_variables>`  
+   * - :doc:`CPLEX MIP - Select Variables <CPLEX MIP/ODH_XMIP_-_Select_Variables>`  
      - CPX_VARSEL
-   * - :ref:`CPLEX MIP - Selection of Nodes <option-ODHCPLEX-selection_of_nodes>`  
+   * - :doc:`CPLEX MIP - Selection of Nodes <CPLEX MIP/ODH_XMIP_-_Selection_of_Nodes>`  
      - CPX_NODESEL
-   * - :ref:`CPLEX MIP - Working Memory Limit <option-ODHCPLEX-working_memory_limit>`  
+   * - :doc:`CPLEX MIP - Working Memory Limit <CPLEX MIP/ODH_XMIP_-_Working_Memory_Limit>`  
      - CPX_WORKMEM
-   * - :ref:`CPLEX MIP - Write MIP Starts <option-ODHCPLEX-write_mip_starts>`  
+   * - :doc:`CPLEX MIP - Write MIP Starts <CPLEX MIP/ODH_XMIP_-_Write_MIP_Starts>`  
      - 
-   * - :ref:`CPLEX MIP Advanced - SubMIP Node Limit <option-ODHCPLEX-submip_node_limit>` 
+   * - :doc:`CPLEX MIP Advanced - SubMIP Node Limit <CPLEX MIP Advanced/ODH_XMIP_Advanced_-_SubMIP_Node_Limit>` 
      - CPX_SUBMIPNODELIMIT
-   * - :ref:`CPLEX MIP Advanced - SubMIP Scale <option-ODHCPLEX-submip_scale>` 
+   * - :doc:`CPLEX MIP Advanced - SubMIP Scale <CPLEX MIP Advanced/ODH_XMIP_Advanced_-_SubMIP_Scale>` 
      - CPX_SUBMIPSCAIND
-   * - :ref:`CPLEX MIP Advanced - SubMIP Start Algorithm <option-ODHCPLEX-submip_start_algorithm>` 
+   * - :doc:`CPLEX MIP Advanced - SubMIP Start Algorithm <CPLEX MIP Advanced/ODH_XMIP_Advanced_-_SubMIP_Start_Algorithm>` 
      - CPX_SUBMIPSTARTALG
-   * - :ref:`CPLEX MIP Advanced - SubMIP Subproblem Algorithm <option-ODHCPLEX-submip_subproblem_algorithm>` 
+   * - :doc:`CPLEX MIP Advanced - SubMIP Subproblem Algorithm <CPLEX MIP Advanced/ODH_XMIP_Advanced_-_SubMIP_Subproblem_Algorithm>` 
      - CPX_SUBMIPSUBALG
-   * - :ref:`CPLEX MIP Cuts - BQP Cuts <option-ODHCPLEX-bqp_cuts>`  
+   * - :doc:`CPLEX MIP Cuts - BQP Cuts <CPLEX MIP Cuts/ODH_XCuts_-_BQP_Cuts>`  
      - CPX_BQPCUTS
-   * - :ref:`CPLEX MIP Cuts - Clique Cuts <option-ODHCPLEX-clique_cuts>`  
+   * - :doc:`CPLEX MIP Cuts - Clique Cuts <CPLEX MIP Cuts/ODH_XCuts_-_Clique_Cuts>`  
      - CPX_CLIQUES
-   * - :ref:`CPLEX MIP Cuts - Cover Cuts <option-ODHCPLEX-cover_cuts>` 
+   * - :doc:`CPLEX MIP Cuts - Cover Cuts <CPLEX MIP Cuts/ODH_XCuts_-_Cover_Cuts>` 
      - CPX_COVERS
-   * - :ref:`CPLEX MIP Cuts - Cut Generation Limit <option-ODHCPLEX-cut_generation_limit>` 
+   * - :doc:`CPLEX MIP Cuts - Cut Generation Limit <CPLEX MIP Cuts/ODH_XCuts_-_Cut_Gen_Limi>` 
      - CPX_AGGCUTLIM
-   * - :ref:`CPLEX MIP Cuts - Cut Limit <option-ODHCPLEX-cut_limit>`  
+   * - :doc:`CPLEX MIP Cuts - Cut Limit <CPLEX MIP Cuts/ODH_XCuts_-_Cut_Limit>`  
      - CPX_EACHCUTLIM
-   * - :ref:`CPLEX MIP Cuts - Cuts Factor <option-ODHCPLEX-cuts_factor>`  
+   * - :doc:`CPLEX MIP Cuts - Cuts Factor <CPLEX MIP Cuts/ODH_XCuts_-_Cuts_Factor>`  
      - CPX_CUTSFACTOR
-   * - :ref:`CPLEX MIP Cuts - Disjunctive Cuts <option-ODHCPLEX-disjunctive_cuts>` 
+   * - :doc:`CPLEX MIP Cuts - Disjunctive Cuts <CPLEX MIP Cuts/ODH_XCuts_-_Disjunct_Cuts>` 
      - CPX_DISJCUTS
-   * - :ref:`CPLEX MIP Cuts - Flow Cover Cuts <option-ODHCPLEX-flow_cover_cuts>` 
+   * - :doc:`CPLEX MIP Cuts - Flow Cover Cuts <CPLEX MIP Cuts/ODH_XCuts_-_Flow_Cover_Cuts>` 
      - CPX_FLOWCOVERS
-   * - :ref:`CPLEX MIP Cuts - Flow Path Cuts <option-ODHCPLEX-flow_path_cuts>` 
+   * - :doc:`CPLEX MIP Cuts - Flow Path Cuts <CPLEX MIP Cuts/ODH_XCuts_-_Flow_Path_Cuts>` 
      - CPX_FLOWPATHS
-   * - :ref:`CPLEX MIP Cuts - Gomory Cuts <option-ODHCPLEX-gomory_cuts>` 
+   * - :doc:`CPLEX MIP Cuts - Gomory Cuts <CPLEX MIP Cuts/ODH_XCuts_-_Gomory_Cuts>` 
      - CPX_FRACCUTS
-   * - :ref:`CPLEX MIP Cuts - Gomory Cuts Candidate Limit <option-ODHCPLEX-gomory_cuts_candidate_limit>` 
+   * - :doc:`CPLEX MIP Cuts - Gomory Cuts Candidate Limit <CPLEX MIP Cuts/ODH_XCuts_-_Gomory_Cuts_Cand>` 
      - CPX_FRACCAND
-   * - :ref:`CPLEX MIP Cuts - Gomory Cuts Pass Limit <option-ODHCPLEX-gomory_cuts_pass_limit>` 
+   * - :doc:`CPLEX MIP Cuts - Gomory Cuts Pass Limit <CPLEX MIP Cuts/ODH_XCuts_-_Gomory_Cuts_Pass_L>` 
      - CPX_FRACPASS
-   * - :ref:`CPLEX MIP Cuts - GUB Cover Cuts <option-ODHCPLEX-gub_cover_cuts>` 
+   * - :doc:`CPLEX MIP Cuts - GUB Cover Cuts <CPLEX MIP Cuts/ODH_XCuts_-_GUB_Cover_Cuts>` 
      - CPX_GUBCOVERS
-   * - :ref:`CPLEX MIP Cuts - Implied Bound Cuts <option-ODHCPLEX-implied_bound_cuts>` 
+   * - :doc:`CPLEX MIP Cuts - Implied Bound Cuts <CPLEX MIP Cuts/ODH_XCuts_-_Implied_Bound_Cuts>` 
      - CPX_IMPLBD
-   * - :ref:`CPLEX MIP Cuts - Lift and Project Cuts <option-ODHCPLEX-lift_and_project_cuts>` 
+   * - :doc:`CPLEX MIP Cuts - Lift and Project Cuts <CPLEX MIP Cuts/ODH_XCuts_-_Lift_and_Project_Cuts>` 
      - CPX_LANDPCUTS
-   * - :ref:`CPLEX MIP Cuts - Local Implied Bound Cuts <option-ODHCPLEX-local_implied_bound_cuts>` 
+   * - :doc:`CPLEX MIP Cuts - Local Implied Bound Cuts <CPLEX MIP Cuts/ODH_XCuts_-_Local_Implied_Bound_Cuts>` 
      - CPX_LOCALIMPLBD
-   * - :ref:`CPLEX MIP Cuts - MCF Cuts <option-ODHCPLEX-mcf_cuts>`  
+   * - :doc:`CPLEX MIP Cuts - MCF Cuts <CPLEX MIP Cuts/ODH_XCuts_-_MCF_Cuts>`  
      - CPX_MCFCUTS
-   * - :ref:`CPLEX MIP Cuts - MIP Number of Cut Passes <option-ODHCPLEX-mip_number_of_cut_passes>` 
+   * - :doc:`CPLEX MIP Cuts - MIP Number of Cut Passes <CPLEX MIP Cuts/ODH_XCuts_-_MIP_Nr_of_Cut_Pa>` 
      - CPX_CUTPASS
-   * - :ref:`CPLEX MIP Cuts - Mixed Integer Rounding Cuts <option-ODHCPLEX-mixed_integer_rounding_cuts>`  
+   * - :doc:`CPLEX MIP Cuts - Mixed Integer Rounding Cuts <CPLEX MIP Cuts/ODH_XCuts_-_Mix_Integer_Round>`  
      - CPX_MIRCUTS
-   * - :ref:`CPLEX MIP Cuts - Node Cuts <option-ODHCPLEX-node_cuts>`  
+   * - :doc:`CPLEX MIP Cuts - Node Cuts <CPLEX MIP Cuts/ODH_XCuts_-_Node_Cuts>`  
      - CPX_NODECUTS
-   * - :ref:`CPLEX MIP Cuts - RLT Cuts <option-ODHCPLEX-rlt_cuts>`  
+   * - :doc:`CPLEX MIP Cuts - RLT Cuts <CPLEX MIP Cuts/ODH_XCuts_-_RLT_Cuts>`  
      - CPX_RLTCUTS
-   * - :ref:`CPLEX MIP Cuts - Zero Half Cuts <option-ODHCPLEX-zero_half_cuts>`  
+   * - :doc:`CPLEX MIP Cuts - Zero Half Cuts <CPLEX MIP Cuts/ODH_XCuts_-_Zero_Half_Cuts>`  
      - CPX_ZEROHALFCUTS
-   * - :ref:`CPLEX MIP Heuristics - Feasibility Pump Heuristic <option-ODHCPLEX-feasibility_pump_heuristic>` 
+   * - :doc:`CPLEX MIP Heuristics - Feasibility Pump Heuristic <CPLEX MIP Heuristics/ODH_XMIP_Heuristic_-_Feasibility_Pump_Heuristic>` 
      - CPX_FPHEUR
-   * - :ref:`CPLEX MIP Heuristics - Heuristic Effort <option-ODHCPLEX-heuristic_effort>` 
+   * - :doc:`CPLEX MIP Heuristics - Heuristic Effort <CPLEX MIP Heuristics/ODH_XMIP_Heuristic_-_Heuristic_Effort>` 
      - CPX_HEUREFFORT
-   * - :ref:`CPLEX MIP Heuristics - Heuristic Frequency <option-ODHCPLEX-heuristic_frequency>` 
+   * - :doc:`CPLEX MIP Heuristics - Heuristic Frequency <CPLEX MIP Heuristics/ODH_XMIP_Heuristic_-_Heuristic_Freq>` 
      - CPX_HEURFREQ
-   * - :ref:`CPLEX MIP Heuristics - Local Branching Heuristic <option-ODHCPLEX-local_branching_heuristic>`  
+   * - :doc:`CPLEX MIP Heuristics - Local Branching Heuristic <CPLEX MIP Heuristics/ODH_XMIP_Heuristic_-_Local_Branch_Heur>`  
      - CPX_LBHEUR
-   * - :ref:`CPLEX MIP Heuristics - RINS Heuristic Frequency <option-ODHCPLEX-rins_heuristic_frequency>` 
+   * - :doc:`CPLEX MIP Heuristics - RINS Heuristic Frequency <CPLEX MIP Heuristics/ODH_XMIP_Heuristic_-_RINS_Heurist_Freq>` 
      - CPX_RINSHEUR
-   * - :ref:`CPLEX MIP Preprocessing - Boundstrength <option-ODHCPLEX-boundstrength>`  
+   * - :doc:`CPLEX MIP Preprocessing - Boundstrength <CPLEX MIP Preprocessing/ODH_XMIP_Prepr_-_Boundstreng>`  
      - CPX_BNDSTRENIND
-   * - :ref:`CPLEX MIP Preprocessing - Coefficient Reduction <option-ODHCPLEX-coefficient_reduction>` 
+   * - :doc:`CPLEX MIP Preprocessing - Coefficient Reduction <CPLEX MIP Preprocessing/ODH_XMIP_Prepr_-_Coef_Reduc>` 
      - CPX_COEREDIND
-   * - :ref:`CPLEX MIP Preprocessing - Preprocessing Symmetry <option-ODHCPLEX-preprocessing_symmetry>`  
+   * - :doc:`CPLEX MIP Preprocessing - Preprocessing Symmetry <CPLEX MIP Preprocessing/ODH_XMIP_Prepr_-_Preproc_Sym>`  
      - CPX_SYMMETRY
-   * - :ref:`CPLEX MIP Preprocessing - Presolve Relaxed MIP <option-ODHCPLEX-presolve_relaxed_mip>`  
+   * - :doc:`CPLEX MIP Preprocessing - Presolve Relaxed MIP <CPLEX MIP Preprocessing/ODH_XMIP_Prepr_-_Presolve_Re>`  
      - CPX_RELAXPREIND
-   * - :ref:`CPLEX MIP Preprocessing - Repeat Presolve <option-ODHCPLEX-repeat_presolve>`  
+   * - :doc:`CPLEX MIP Preprocessing - Repeat Presolve <CPLEX MIP Preprocessing/ODH_XMIP_Prepr_-_Repeat_Presolve>`  
      - CPX_REPEATPRESOLVE
-   * - :ref:`CPLEX MIP Preprocessing - SOS1 Reformulations <option-ODHCPLEX-sos1_reformulations>` 
+   * - :doc:`CPLEX MIP Preprocessing - SOS1 Reformulations <CPLEX MIP Preprocessing/ODH_XMIP_Prepr_-_SOS1_Reformulations>` 
      - CPX_SOS1REFORM
-   * - :ref:`CPLEX MIP Preprocessing - SOS2 Reformulations <option-ODHCPLEX-sos2_reformulations>` 
+   * - :doc:`CPLEX MIP Preprocessing - SOS2 Reformulations <CPLEX MIP Preprocessing/ODH_XMIP_Prepr_-_SOS2_Reformulations>` 
      - CPX_SOS2REFORM
-   * - :ref:`CPLEX MIP Solution Polishing - Polishing Absolute MIP Gap <option-ODHCPLEX-polishing_absolute_mip_gap>`  
+   * - :doc:`CPLEX MIP Solution Polishing - Polishing Absolute MIP Gap <CPLEX MIP Solution Polishing/ODH_XPolishing_Absolute_MIP_Gap>`  
      - CPX_POLISHAFTEREPAGAP
-   * - :ref:`CPLEX MIP Solution Polishing - Polishing Number of Nodes <option-ODHCPLEX-polishing_number_of_nodes>`  
+   * - :doc:`CPLEX MIP Solution Polishing - Polishing Number of Nodes <CPLEX MIP Solution Polishing/ODH_XPolishing_Number_of_Nodes>`  
      - CPX_POLISHAFTERNODE
-   * - :ref:`CPLEX MIP Solution Polishing - Polishing Number of Solutions <option-ODHCPLEX-polishing_number_of_solutions>`  
+   * - :doc:`CPLEX MIP Solution Polishing - Polishing Number of Solutions <CPLEX MIP Solution Polishing/ODH_XPolishing_Number_of_Solutions>`  
      - CPX_POLISHAFTERINTSOL
-   * - :ref:`CPLEX MIP Solution Polishing - Polishing Relative MIP Gap <option-ODHCPLEX-polishing_relative_mip_gap>`  
+   * - :doc:`CPLEX MIP Solution Polishing - Polishing Relative MIP Gap <CPLEX MIP Solution Polishing/ODH_XPolishing_Relative_MIP_Gap>`  
      - CPX_POLISHAFTEREPGAP
-   * - :ref:`CPLEX MIP Solution Polishing - Polishing Time <option-ODHCPLEX-polishing_time>`  
+   * - :doc:`CPLEX MIP Solution Polishing - Polishing Time <CPLEX MIP Solution Polishing/ODH_XPolishing_Time>`  
      - CPX_POLISHAFTERTIME
-   * - :ref:`CPLEX MIP Solution Polishing - Polishing Time Deterministic <option-ODHCPLEX-polishing_time_deterministic>`  
+   * - :doc:`CPLEX MIP Solution Polishing - Polishing Time Deterministic <CPLEX MIP Solution Polishing/ODH_XPolishing_Time_Deterministic>`  
      - CPX_POLISHAFTERDETTIME
-   * - :ref:`CPLEX MIP Solution Pool - Do Populate <option-ODHCPLEX-do_populate>`  
+   * - :doc:`CPLEX MIP Solution Pool - Do Populate <CPLEX MIP Solution Pool/ODH_XMIP_Solp_-_Do_Populate>`  
      - 
-   * - :ref:`CPLEX MIP Solution Pool - Pool Absolute Objective Gap <option-ODHCPLEX-pool_absolute_objective_gap>` 
+   * - :doc:`CPLEX MIP Solution Pool - Pool Absolute Objective Gap <CPLEX MIP Solution Pool/ODH_XMIP_Solp_-_Pool_Abs_Obj_Gap>` 
      - CPX_SOLNPOOLAGAP
-   * - :ref:`CPLEX MIP Solution Pool - Pool Capacity <option-ODHCPLEX-pool_capacity>`  
+   * - :doc:`CPLEX MIP Solution Pool - Pool Capacity <CPLEX MIP Solution Pool/ODH_XMIP_Solp_-_Pool_Capacity>`  
      - CPX_SOLNPOOLCAPACITY
-   * - :ref:`CPLEX MIP Solution Pool - Pool Intensity <option-ODHCPLEX-pool_intensity>`  
+   * - :doc:`CPLEX MIP Solution Pool - Pool Intensity <CPLEX MIP Solution Pool/ODH_XMIP_Solp_-_Pool_Intensity>`  
      - CPX_SOLNPOOLINTENSITY
-   * - :ref:`CPLEX MIP Solution Pool - Pool Relative Objective Gap <option-ODHCPLEX-pool_relative_objective_gap>` 
+   * - :doc:`CPLEX MIP Solution Pool - Pool Relative Objective Gap <CPLEX MIP Solution Pool/ODH_XMIP_Solp_-_Pool_Rel_Obj_Gap>` 
      - CPX_SOLNPOOLGAP
-   * - :ref:`CPLEX MIP Solution Pool - Pool Replacement Strategy <option-ODHCPLEX-pool_replacement_strategy>`  
+   * - :doc:`CPLEX MIP Solution Pool - Pool Replacement Strategy <CPLEX MIP Solution Pool/ODH_XMIP_Solp_-_Pool_Repl_Strat>`  
      - CPX_SOLNPOOLREPLACE
-   * - :ref:`CPLEX MIP Solution Pool - Populate Time Limit <option-ODHCPLEX-populate_time_limit>`  
+   * - :doc:`CPLEX MIP Solution Pool - Populate Time Limit <CPLEX MIP Solution Pool/ODH_XMIP_Solp_-_Populate_time_limit>`  
      - 
-   * - :ref:`CPLEX MIP Solution Pool - Population Limit <option-ODHCPLEX-population_limit>`  
+   * - :doc:`CPLEX MIP Solution Pool - Population Limit <CPLEX MIP Solution Pool/ODH_XMIP_Solp_-_Population_Limit>`  
      - CPX_POPULATELIM
-   * - :ref:`CPLEX Network - Network Feasibility <option-ODHCPLEX-network_feasibility>` 
+   * - :doc:`CPLEX Network - Network Feasibility <CPLEX Network/ODH_XNetwork_-_Network_Feasibility>` 
      - CPX_NETEPRHS
-   * - :ref:`CPLEX Network - Network Iterations <option-ODHCPLEX-network_iterations>` 
+   * - :doc:`CPLEX Network - Network Iterations <CPLEX Network/ODH_XNetwork_-_Network_Iterations>` 
      - CPX_NETITLIM
-   * - :ref:`CPLEX Network - Network Optimality <option-ODHCPLEX-network_optimality>` 
+   * - :doc:`CPLEX Network - Network Optimality <CPLEX Network/ODH_XNetwork_-_Network_Optimality>` 
      - CPX_NETEPOPT
-   * - :ref:`CPLEX Network - Network Pricing <option-ODHCPLEX-network_pricing>` 
+   * - :doc:`CPLEX Network - Network Pricing <CPLEX Network/ODH_XNetwork_-_Network_Pricing>` 
      - CPX_NETPPRIIND
-   * - :ref:`CPLEX Parallel - Auxiliary Root Threads <option-ODHCPLEX-auxiliary_root_threads>` 
+   * - :doc:`CPLEX Parallel - Auxiliary Root Threads <CPLEX Parallel/ODH_XPar_-_Auxiliary_Root_Threads>` 
      - CPX_AUXROOTTHREADS
-   * - :ref:`CPLEX Parallel - Global Thread Limit <option-ODHCPLEX-global_thread_limit>` 
+   * - :doc:`CPLEX Parallel - Global Thread Limit <CPLEX Parallel/ODH_XPar_-_GlobalThreadLimit>` 
      - CPX_THREADS
-   * - :ref:`CPLEX Parallel - Parallel Mode <option-ODHCPLEX-parallel_mode>` 
+   * - :doc:`CPLEX Parallel - Parallel Mode <CPLEX Parallel/ODH_XPar_-_Parallel_Mode>` 
      - CPX_PARALLELMODE
-   * - :ref:`CPLEX Preprocessing - Aggregator <option-ODHCPLEX-aggregator>` 
+   * - :doc:`CPLEX Preprocessing - Aggregator <CPLEX Preprocessing/ODH_XPrepr_-_Aggregator>` 
      - CPX_AGGIND
-   * - :ref:`CPLEX Preprocessing - Dependency <option-ODHCPLEX-dependency>`
+   * - :doc:`CPLEX Preprocessing - Dependency <CPLEX Preprocessing/ODH_XPrepr_-_Dependency>`
      - CPX_DEPIND
-   * - :ref:`CPLEX Preprocessing - Folding <option-ODHCPLEX-folding>` 
+   * - :doc:`CPLEX Preprocessing - Folding <CPLEX Preprocessing/ODH_XPrepr_-_Folding>` 
      - CPX_FOLDING
-   * - :ref:`CPLEX Preprocessing - Limit Substitutions <option-ODHCPLEX-limit_substitutions>`  
+   * - :doc:`CPLEX Preprocessing - Limit Substitutions <CPLEX Preprocessing/ODH_XPrepr_-_Limit_Substitut>`  
      - CPX_AGGFILL
-   * - :ref:`CPLEX Preprocessing - Number of Iterations in Presolve <option-ODHCPLEX-number_of_iterations_in_presolve>` 
+   * - :doc:`CPLEX Preprocessing - Number of Iterations in Presolve <CPLEX Preprocessing/ODH_XPrepr_-_Number_of_IterP>` 
      - CPX_PREPASS
-   * - :ref:`CPLEX Preprocessing - Preprocessing Reduction Types <option-ODHCPLEX-preprocessing_reduction_types>`  
+   * - :doc:`CPLEX Preprocessing - Preprocessing Reduction Types <CPLEX Preprocessing/ODH_XPrepr_-_Pre_reduction_types>`  
      - CPX_REDUCE
-   * - :ref:`CPLEX Preprocessing - Presolve Pass Dual <option-ODHCPLEX-presolve_pass_dual>` 
+   * - :doc:`CPLEX Preprocessing - Presolve Pass Dual <CPLEX Preprocessing/ODH_XPrepr_-_Presolve_Pass_D>` 
      - CPX_PREDUAL
-   * - :ref:`CPLEX Quadratic - Adjust MIQP <option-ODHCPLEX-adjust_miqp>`  
+   * - :doc:`CPLEX Quadratic - Adjust MIQP <CPLEX Quadratic/ODH_XQuadratic_-_Adjust_MIQP>`  
      - CPX_QPMAKEPSDIND
-   * - :ref:`CPLEX Quadratic - Barrier Convergence Tolerance for QCP <option-ODHCPLEX-barrier_convergence_tolerance_for_qcp>`  
+   * - :doc:`CPLEX Quadratic - Barrier Convergence Tolerance for QCP <CPLEX Quadratic/ODH_XQuadratic_-_Barrier_Conv_Toler>`  
      - CPX_BARQCPEPCOMP
-   * - :ref:`CPLEX Quadratic - MIQCP Strategy <option-ODHCPLEX-miqcp_strategy>`  
+   * - :doc:`CPLEX Quadratic - MIQCP Strategy <CPLEX Quadratic/ODH_XQuadratic_-_MIQCP_Strategy>`  
      - CPX_MIQCPSTRAT
-   * - :ref:`CPLEX Quadratic - QP Linearization <option-ODHCPLEX-qp_linearization>`  
+   * - :doc:`CPLEX Quadratic - QP Linearization <CPLEX Quadratic/ODH_XQuadratic_-_QP_Linearization>`  
      - CPX_QTOLININD
-   * - :ref:`CPLEX Quadratic - QP Method <option-ODHCPLEX-qp_method>`  
+   * - :doc:`CPLEX Quadratic - QP Method <CPLEX Quadratic/ODH_XQuadratic_-_QP_Method>`  
      - CPX_QPMETHOD
-   * - :ref:`CPLEX Quadratic - QP Nonzeros Read Limit <option-ODHCPLEX-qp_nonzeros_read_limit>`  
+   * - :doc:`CPLEX Quadratic - QP Nonzeros Read Limit <CPLEX Quadratic/ODH_XQuadratic_-_QP_Nonzeros_Read_Limit>`  
      - CPX_QPNZREADLIM
-   * - :ref:`CPLEX Quadratic - Solution Target <option-ODHCPLEX-solution_target>`  
+   * - :doc:`CPLEX Quadratic - Solution Target <CPLEX Quadratic/ODH_XQuadratic_-_Solution_Target>`  
      - CPX_OPTIMALITYTARGET
-   * - :ref:`CPLEX Simplex - Crash Ordering <option-ODHCPLEX-crash_ordering>`  
+   * - :doc:`CPLEX Simplex - Crash Ordering <CPLEX Simplex/ODH_XSimplex_-_Crash_Ordering>`  
      - CPX_CRAIND
-   * - :ref:`CPLEX Simplex - Dual Pricing Algorithm <option-ODHCPLEX-dual_pricing_algorithm>`  
+   * - :doc:`CPLEX Simplex - Dual Pricing Algorithm <CPLEX Simplex/ODH_XSimplex_-_Dual_Pric_Alg>`  
      - CPX_DPRIIND
-   * - :ref:`CPLEX Simplex - Dynamic Row Management <option-ODHCPLEX-dynamic_row_management>` 
+   * - :doc:`CPLEX Simplex - Dynamic Row Management <CPLEX Simplex/ODH_XSimplex_-_Dynamic_Row_Management>` 
      - CPX_DYNAMICROWS
-   * - :ref:`CPLEX Simplex - Feasibility <option-ODHCPLEX-feasibility>`  
+   * - :doc:`CPLEX Simplex - Feasibility <CPLEX Simplex/ODH_XSimplex_-_Feasibility>`  
      - CPX_EPRHS
-   * - :ref:`CPLEX Simplex - Markowitz <option-ODHCPLEX-markowitz>` 
+   * - :doc:`CPLEX Simplex - Markowitz <CPLEX Simplex/ODH_XSimplex_-_Markowitz>` 
      - CPX_EPMRK
-   * - :ref:`CPLEX Simplex - Optimality <option-ODHCPLEX-optimality>`  
+   * - :doc:`CPLEX Simplex - Optimality <CPLEX Simplex/ODH_XSimplex_-_Optimality>`  
      - CPX_EPOPT
-   * - :ref:`CPLEX Simplex - Perturbation Constant <option-ODHCPLEX-perturbation_constant>`  
+   * - :doc:`CPLEX Simplex - Perturbation Constant <CPLEX Simplex/ODH_XSimplex_-_Perturb_Const>`  
      - CPX_EPPER
-   * - :ref:`CPLEX Simplex - Perturbation Indicator <option-ODHCPLEX-perturbation_indicator>` 
+   * - :doc:`CPLEX Simplex - Perturbation Indicator <CPLEX Simplex/ODH_XSimplex_-_Perturb_Indic>` 
      - CPX_PERIND
-   * - :ref:`CPLEX Simplex - Pricing <option-ODHCPLEX-pricing>`  
+   * - :doc:`CPLEX Simplex - Pricing <CPLEX Simplex/ODH_XSimplex_-_Pricing>`  
      - CPX_PRICELIM
-   * - :ref:`CPLEX Simplex - Primal Pricing Algorithm <option-ODHCPLEX-primal_pricing_algorithm>`  
+   * - :doc:`CPLEX Simplex - Primal Pricing Algorithm <CPLEX Simplex/ODH_XSimplex_-_Prim_Pric_Alg>`  
      - CPX_PPRIIND
-   * - :ref:`CPLEX Simplex - Refactor <option-ODHCPLEX-refactor>`  
+   * - :doc:`CPLEX Simplex - Refactor <CPLEX Simplex/ODH_XSimplex_-_Refactor>`  
      - CPX_REINV
-   * - :ref:`CPLEX Simplex - Sifting from Simplex <option-ODHCPLEX-sifting_from_simplex>` 
+   * - :doc:`CPLEX Simplex - Sifting from Simplex <CPLEX Simplex/ODH_XSimplex_-_Sifting_from_Simplex>` 
      - CPX_SIFTSIM
-   * - :ref:`CPLEX Simplex - Singular <option-ODHCPLEX-singular>` 
+   * - :doc:`CPLEX Simplex - Singular <CPLEX Simplex/ODH_XSimplex_-_Singular>` 
      - CPX_SINGLIM
-   * - :ref:`CPLEX Simplex - Stalled Iterations <option-ODHCPLEX-stalled_iterations>`  
+   * - :doc:`CPLEX Simplex - Stalled Iterations <CPLEX Simplex/ODH_XSimplex_-_Stalled_Iter>`  
      - CPX_PERLIM
 
 
@@ -422,19 +422,19 @@ The table below shows Solvers General options that are mapped to ODH-CPLEX param
 
    * - **Option name in AIMMS** 
      - **Name in ODH-CPLEX** 
-   * - :ref:`MIP Options - Cutoff <option-AIMMS-cutoff>` 
+   * - :doc:`MIP Options - Cutoff <../../Aimms/Options/Solvers General/MIP Options/MIP_Options_-_Cutoff>` 
      - CPX_CUTLO
    * - 
      - CPX_CUTUP
-   * - :ref:`MIP Options - Maximal Number of Integer Solutions <option-AIMMS-maximal_number_of_integer_solutions>` 
+   * - :doc:`MIP Options - Maximal Number of Integer Solutions <../../Aimms/Options/Solvers General/MIP Options/MIP_Options_-_Maximal_Number_o>` 
      - CPX_INTSOLLIM
-   * - :ref:`MIP Options - MIP Absolute Optimality Tolerance <option-AIMMS-mip_absolute_optimality_tolerance>` 
+   * - :doc:`MIP Options - MIP Absolute Optimality Tolerance <../../Aimms/Options/Solvers General/MIP Options/MIP_Options_-_MIP_Absolute_Opt>` 
      - CPX_EPAGAP
-   * - :ref:`MIP Options - MIP Relative Optimality Tolerance <option-AIMMS-mip_relative_optimality_tolerance>` 
+   * - :doc:`MIP Options - MIP Relative Optimality Tolerance <../../Aimms/Options/Solvers General/MIP Options/MIP_Options_-_MIP_Relative_Opt>` 
      - CPX_EPGAP
-   * - :ref:`Stop Criteria - Iteration Limit <option-AIMMS-iteration_limit>` 
+   * - :doc:`Stop Criteria - Iteration Limit <../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Iteration_Limi>` 
      - CPX_ITLIM
-   * - :ref:`Stop Criteria - Time Limit <option-AIMMS-time_limit>` 
+   * - :doc:`Stop Criteria - Time Limit <../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>` 
      - TIMELIMIT
 
 
@@ -454,5 +454,5 @@ For example, SUB_CPX_RINSHEUR specifies the RINS heuristic frequency for CPLEX i
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_-_Parameter_File` 
-*	:ref:`General - Search Mode <option-ODHCPLEX-search_mode>`  
+*	:doc:`ODH-CPLEX_-_Parameter_File` 
+*	:ref:`General - Search Mode <General/ODH_General_-_Search_Mode>`  

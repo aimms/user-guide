@@ -13,70 +13,70 @@ The table shows in the left column the options from COPT that can be set in AIMM
    * - **Option name in COPT**
      - **Option name in AIMMS**
    * - BarHomogeneous
-     - :ref:`Barrier - Barrier Homogeneous <option-COPT-barrier_homogeneous>`
+     - :doc:`Barrier - Barrier Homogeneous <Barrier/COPT_Barrier_-_Barrier_homogeneous>`
    * - BarOrder
-     - :ref:`Barrier - Barrier Ordering <option-COPT-barrier_ordering>`
+     - :doc:`Barrier - Barrier Ordering <Barrier/COPT_Barrier_-_Barrier_ordering>`
    * - BarThreads
-     - :ref:`Parallel - Barrier Thread Limit <option-COPT-barrier_thread_limit>`
+     - :doc:`Parallel - Barrier Thread Limit <Parallel/COPT_Parallel_-_Barrier_thread_limit>`
    * - Crossover
-     - :ref:`Barrier - Crossover <option-COPT-crossover>`
+     - :doc:`Barrier - Crossover <Barrier/COPT_Barrier_-_Crossover>`
    * - CrossoverThreads
-     - :ref:`Parallel - Crossover Thread Limit <option-COPT-crossover_thread_limit>`
+     - :doc:`Parallel - Crossover Thread Limit <Parallel/COPT_Parallel_-_Crossover_thread_limit>`
    * - CutLevel
-     - :ref:`MIP Cuts - Cut Level <option-COPT-cut_level>`
+     - :doc:`MIP Cuts - Cut Level <MIP Cuts/COPT_MIP_cuts_-_Cut_level>`
    * - DivingHeurLevel
-     - :ref:`MIP Heuristics - Diving Heuristic Level <option-COPT-diving_heuristic_level>`
+     - :doc:`MIP Heuristics - Diving Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_Diving_heuristic_level>`
    * - Dualize
-     - :ref:`General - Dualize <option-COPT-dualize>`
+     - :doc:`General - Dualize <General/COPT_General_-_Dualize>`
    * - DualPerturb
-     - :ref:`Simplex - Objective Perturbation <option-COPT-objective_perturbation>`
+     - :doc:`Simplex - Objective Perturbation <Simplex/COPT_Simplex_-_Objective_Perturbation>`
    * - DualPrice
-     - :ref:`Simplex - Pricing <option-COPT-pricing>`
+     - :doc:`Simplex - Pricing <Simplex/COPT_Simplex_-_Pricing>`
    * - DualTol
-     - :ref:`General - Dual Tolerance <option-COPT-dual_tolerance>`
+     - :doc:`General - Dual Tolerance <General/COPT_General_-_Dual_tolerance>`
    * - FeasTol
-     - :ref:`General - Feasibility Tolerance <option-COPT-feasibility_tolerance>`
+     - :doc:`General - Feasibility Tolerance <General/COPT_General_-_Feasibility_tolerance>`
    * - HeurLevel
-     - :ref:`MIP Heuristics - Heuristic Level <option-COPT-heuristic_level>`
+     - :doc:`MIP Heuristics - Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_Heuristic_level>`
    * - IISMethod
-     - :ref:`General - IIS Method <option-COPT-iis_method>`
+     - :doc:`General - IIS Method <General/COPT_General_-_IIS_method>`
    * - IntTol
-     - :ref:`MIP - Integrality Tolerance <option-COPT-integrality_tolerance>`
+     - :doc:`MIP - Integrality Tolerance <MIP/COPT_MIP_-_Integrality_tolerance>`
    * - LogToConsole
-     - :ref:`Logging - Log To Console <option-COPT-log_to_console>`
+     - :doc:`Logging - Log To Console <Logging/COPT_Logging_-_Log_to_console>`
    * - LpMethod
-     - :ref:`General - LP Method <option-COPT-lp_method>`
+     - :doc:`General - LP Method <General/COPT_General_-_LP_method>`
    * - MatrixTol
-     - :ref:`General - Matrix Tolerance <option-COPT-matrix_tolerance>`
+     - :doc:`General - Matrix Tolerance <General/COPT_General_-_Matrix_tolerance>`
    * - MipStartMode
-     - :ref:`MIP - MIP Start <option-COPT-mip_start>`
+     - :doc:`MIP - MIP Start <MIP/COPT_MIP_-_MIP_start>`
    * - MipStartNodeLimit
-     - :ref:`MIP - MIP Start Node Limit <option-COPT-mip_start_node_limit>`
+     - :doc:`MIP - MIP Start Node Limit <MIP/COPT_MIP_-_MIP_start_node_limit>`
    * - MipTasks
-     - :ref:`Parallel - MIP Tasks <option-COPT-mip_tasks>`
+     - :doc:`Parallel - MIP Tasks <Parallel/COPT_Parallel_-_MIP_tasks>`
    * - NodeCutRounds
-     - :ref:`MIP Cuts - Node Cut Rounds <option-COPT-node_cut_rounds>`
+     - :doc:`MIP Cuts - Node Cut Rounds <MIP Cuts/COPT_MIP_cuts_-_Node_cut_rounds>`
    * - NodeLimit
-     - :ref:`MIP - Node Limit <option-COPT-node_limit>`
+     - :doc:`MIP - Node Limit <MIP/COPT_MIP_-_Node_limit>`
    * - Presolve
-     - :ref:`Presolve - Presolve <option-COPT-presolve>`
+     - :doc:`Presolve - Presolve <Presolve/COPT_Presolve_-_Presolve>`
    * - ReqFarkasRay
-     - :ref:`General - Calculate Farkas Ray <option-COPT-calculate_farkas_ray>`
+     - :doc:`General - Calculate Farkas Ray <General/COPT_General_-_Calculate_Farkas_ray>`
    * - RootCutLevel
-     - :ref:`MIP Cuts - Root Cut Level <option-COPT-root_cut_level>`
+     - :doc:`MIP Cuts - Root Cut Level <MIP Cuts/COPT_MIP_cuts_-_Root_cut_level>`
    * - RootCutRounds
-     - :ref:`MIP Cuts - Root Cut Rounds <option-COPT-root_cut_rounds>`
+     - :doc:`MIP Cuts - Root Cut Rounds <MIP Cuts/COPT_MIP_cuts_-_Root_cut_rounds>`
    * - RoundingHeurLevel
-     - :ref:`MIP Heuristics - Rounding Heuristic Level <option-COPT-rounding_heuristic_level>`
+     - :doc:`MIP Heuristics - Rounding Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_Rounding_heuristic_level>`
    * - Scaling
-     - :ref:`General - Scale <option-COPT-scale>`
+     - :doc:`General - Scale <General/COPT_General_-_Scale>`
    * - SimplexThreads
-     - :ref:`Parallel - Simplex Thread Limit <option-COPT-simplex_thread_limit>`
+     - :doc:`Parallel - Simplex Thread Limit <Parallel/COPT_Parallel_-_Simplex_thread_limit>`
    * - StrongBranching
-     - :ref:`MIP - Strong Branching <option-COPT-strong_branching>`
+     - :doc:`MIP - Strong Branching <MIP/COPT_MIP_-_Strong_branching>`
    * - SubMipHeurLevel
-     - :ref:`MIP Heuristics - SubMIP Heuristic Level <option-COPT-submip_heuristic_level>`
+     - :doc:`MIP Heuristics - SubMIP Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_SubMIP_heuristic_level>`
    * - Threads
-     - :ref:`Parallel - Thread Limit <option-COPT-thread_limit>`
+     - :doc:`Parallel - Thread Limit <Parallel/COPT_Parallel_-_Thread_limit>`
    * - TreeCutLevel
-     - :ref:`MIP Cuts - Tree Cut Level <option-COPT-tree_cut_level>`
+     - :doc:`MIP Cuts - Tree Cut Level <MIP Cuts/COPT_MIP_cuts_-_Tree_cut_level>`

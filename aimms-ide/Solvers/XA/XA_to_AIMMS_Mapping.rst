@@ -15,78 +15,78 @@ The table shows in the left column the parameters from XA that can be set in AIM
    * - **Name in XA**
      - **Option name in AIMMS**
    * - CONFLICT
-     - :ref:`General - Force <option-XA-force>`
+     - :doc:`General - Force <General/XA_General_-_Force>`
    * - PRESOLVE
-     - :ref:`General - Presolve Activity Types <option-XA-presolve_activity_types>`
+     - :doc:`General - Presolve Activity Types <General/XA_General_-_Presolve_Activity_Types>`
    * - PRIORITY
-     - :ref:`MIP - MIP Branch Order <option-XA-mip_branch_order>`
+     - :doc:`MIP - MIP Branch Order <MIP/XA_MIP_-_MIP_Branch_Order>`
    * - SET BARRIER
-     - :ref:`General - LP Method <option-XA-lp_method>`
+     - :doc:`General - LP Method <General/XA_General_-_LP_Method>`
    * - SET BASISMEMORY
-     - :ref:`MIP - Basis in Memory <option-XA-basis_in_memory>`
+     - :doc:`MIP - Basis in Memory <MIP/XA_MIP_-_Basis_in_Memory>`
    * - SET CRASH
-     - :ref:`General - Crash <option-XA-crash>`
+     - :doc:`General - Crash <General/XA_General_-_Crash>`
    * - SET DEGENITER
-     - :ref:`Simplex - Degenerate Pivots <option-XA-degenerate_pivots>`
+     - :doc:`Simplex - Degenerate Pivots <Simplex/XA_Simplex_-_Degenerate_Pivots>`
    * - SET DUALSIMPLEX
-     - :ref:`MIP - Dual Simplex <option-XA-dual_simplex>`
+     - :doc:`MIP - Dual Simplex <MIP/XA_MIP_-_Dual_Simplex>`
    * - SET ELEMSIZE
-     - :ref:`Advanced - Size of Smallest Element <option-XA-size_of_smallest_element>`
+     - :doc:`Advanced - Size of Smallest Element <Advanced/XA_Advanced_-_Size_of_Smallest_El>`
    * - SET ELIMINATE
-     - :ref:`General - Presolve <option-XA-presolve>`
+     - :doc:`General - Presolve <General/XA_General_-_Presolve>`
    * - SET INTPCT
-     - :ref:`MIP - Percentage Fixed Integer Variables <option-XA-percentage_fixed_integer_variables>`
+     - :doc:`MIP - Percentage Fixed Integer Variables <MIP/XA_MIP_-_Percentage_Fixed_Integer>`
    * - SET LIMITNODES
-     - :ref:`MIP - Maximal Number of Generated Nodes <option-XA-maximal_number_of_generated_nodes>`
+     - :doc:`MIP - Maximal Number of Generated Nodes <MIP/XA_MIP_-_Maximal_Number_of_Genera>`
    * - SET LTOLERANCE
-     - :ref:`MIP - Lower Integer Tolerance <option-XA-lower_integer_tolerance>`
+     - :doc:`MIP - Lower Integer Tolerance <MIP/XA_MIP_-_Lower_Integer_Tolerance>`
    * - SET MARKOWITZ
-     - :ref:`Simplex - Markowitz <option-XA-markowitz>`
+     - :doc:`Simplex - Markowitz <Simplex/XA_Simplex_-_Markowitz>`
    * - SET MAXNODES
-     - :ref:`MIP - Maximal Number of Nodes <option-XA-maximal_number_of_nodes>`
+     - :doc:`MIP - Maximal Number of Nodes <MIP/XA_MIP_-_Maximal_Number_of_Nodes>`
    * - SET PERTURBATE
-     - :ref:`Advanced - Perturbate <option-XA-perturbate>`
+     - :doc:`Advanced - Perturbate <Advanced/XA_Advanced_-_Perturbate>`
    * - SET PRICING
-     - :ref:`Simplex - Pricing <option-XA-pricing>`
+     - :doc:`Simplex - Pricing <Simplex/XA_Simplex_-_Pricing>`
    * - SET REDUCEDCOST
-     - :ref:`Simplex - Reduced Cost <option-XA-reduced_cost>`
+     - :doc:`Simplex - Reduced Cost <Simplex/XA_Simplex_-_Reduced_Cost>`
    * - SET REINVERTFREQ
-     - :ref:`Simplex - Reinvert Frequency <option-XA-reinvert_frequency>`
+     - :doc:`Simplex - Reinvert Frequency <Simplex/XA_Simplex_-_Reinvert_Frequency>`
    * - SET REJPIVOT
-     - :ref:`Advanced - Maximal Absolute Pivot Value <option-XA-maximal_absolute_pivot_value>`
+     - :doc:`Advanced - Maximal Absolute Pivot Value <Advanced/XA_Advanced_-_Maximal_Absolute_Pi>`
    * - SET RESTART
-     - :ref:`General - Restart <option-XA-restart>`
+     - :doc:`General - Restart <General/XA_General_-_Restart>`
    * - SET RUNNER
-     - :ref:`MIP - Selection of Nodes <option-XA-selection_of_nodes>`
+     - :doc:`MIP - Selection of Nodes <MIP/XA_MIP_-_Selection_of_Nodes>`
    * - SET SCALE
-     - :ref:`General - Scale <option-XA-scale>`
+     - :doc:`General - Scale <General/XA_General_-_Scale>`
    * - SET TOLERANCE DUAL
-     - :ref:`Advanced - Dual Activity Tolerance <option-XA-dual_activity_tolerance>`
+     - :doc:`Advanced - Dual Activity Tolerance <Advanced/XA_Advanced_-_Dual_Activity_Toler>`
    * - SET TOLERANCE PRIMAL
-     - :ref:`Advanced - Primal Activity Tolerance <option-XA-primal_activity_tolerance>`
+     - :doc:`Advanced - Primal Activity Tolerance <Advanced/XA_Advanced_-_Primal_Activity_Tol>`
    * - SET UTOLERANCE
-     - :ref:`MIP - Upper Integer Tolerance <option-XA-upper_integer_tolerance>`
+     - :doc:`MIP - Upper Integer Tolerance <MIP/XA_MIP_-_Upper_Integer_Tolerance>`
    * - SET WINFRIENDLY
-     - :ref:`General - Windows Friendly <option-XA-windows_friendly>`
+     - :doc:`General - Windows Friendly <General/XA_General_-_Windows_Friendly>`
    * - SET XTOZERO
-     - :ref:`Simplex - Primal Infeasibility <option-XA-primal_infeasibility>`
+     - :doc:`Simplex - Primal Infeasibility <Simplex/XA_Simplex_-_Primal_Infeasibility>`
    * - SET YPIVOT
-     - :ref:`Advanced - Minimal Absolute Pivot Value <option-XA-minimal_absolute_pivot_value>`
+     - :doc:`Advanced - Minimal Absolute Pivot Value <Advanced/XA_Advanced_-_Minimal_Absolute_Pi>`
    * - STOPAFTER
-     - :ref:`MIP - Stop After <option-XA-stop_after>`
+     - :doc:`MIP - Stop After <MIP/XA_MIP_-_Stop_After>`
    * - STOPUNCHANGED
-     - :ref:`MIP - Stop Unchanged <option-XA-stop_unchanged>`
+     - :doc:`MIP - Stop Unchanged <MIP/XA_MIP_-_Stop_Unchanged>`
    * - STRATEGY
-     - :ref:`MIP - MIP Strategy <option-XA-mip_strategy>`
+     - :doc:`MIP - MIP Strategy <MIP/XA_MIP_-_MIP_Strategy>`
    * - 
-     - :ref:`MIP - MIP Strategy Branching Priorities <option-XA-mip_strategy_branching_priorities>`
+     - :doc:`MIP - MIP Strategy Branching Priorities <MIP/XA_MIP_-_MIP_Strategy_Branching_P>`
    * - 
-     - :ref:`MIP - MIP Strategy Estimate Integer Solution <option-XA-mip_strategy_estimate_integer_solution>`
+     - :doc:`MIP - MIP Strategy Estimate Integer Solution <MIP/XA_MIP_-_MIP_Strategy_Estimate_In>`
    * - 
-     - :ref:`MIP - MIP Strategy Split Node List <option-XA-mip_strategy_split_node_list>`
+     - :doc:`MIP - MIP Strategy Split Node List <MIP/XA_MIP_-_MIP_Strategy_Split_Node_>`
    * - TOMPS
-     - :ref:`General - MPS <option-XA-mps>`
+     - :doc:`General - MPS <General/XA_General_-_MPS>`
    * - TREEDEPTH
-     - :ref:`MIP - Tree Depth <option-XA-tree_depth>`
+     - :doc:`MIP - Tree Depth <MIP/XA_MIP_-_Tree_Depth>`
    * - TREETIME
-     - :ref:`MIP - Tree Time <option-XA-tree_time>`
+     - :doc:`MIP - Tree Time <MIP/XA_MIP_-_Tree_Time>`

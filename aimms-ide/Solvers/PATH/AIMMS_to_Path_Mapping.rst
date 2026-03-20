@@ -15,100 +15,100 @@ The table shows in the left column the AIMMS PATH options; the right column disp
    * - **Option name in AIMMS**
      - **Name in PATH**
    * - Chen_lambda
-     - :ref:`General - Chen Lambda <option-PATH-chen_lambda>`
+     - :doc:`General - Chen Lambda <General/PATH_General_-_Chen_Lambda>`
    * - Convergence_tolerance
-     - :ref:`General - Convergence Tolerance <option-PATH-convergence_tolerance>`
+     - :doc:`General - Convergence Tolerance <General/PATH_General_-_Convergence_Tole>`
    * - Crash_iteration_limit
-     - :ref:`Crash - Crash Iteration Limit <option-PATH-crash_iteration_limit>`
+     - :doc:`Crash - Crash Iteration Limit <Crash/PATH_Crash_-_Crash_Iterat_Limit>`
    * - Crash_merit_function
-     - :ref:`Crash - Crash Merit Function <option-PATH-crash_merit_function>`
+     - :doc:`Crash - Crash Merit Function <Crash/PATH_Crash_-_Crash_Merit_Funct>`
    * - Crash_method
-     - :ref:`Crash - Crash Method <option-PATH-crash_method>`
+     - :doc:`Crash - Crash Method <Crash/PATH_Crash_-_Crash_Method>`
    * - Crash_minimum_dimension
-     - :ref:`Crash - Minimal Problem Dimension <option-PATH-minimal_problem_dimension>`
+     - :doc:`Crash - Minimal Problem Dimension <Crash/PATH_Crash_-_Minimal_Prob_Dimen>`
    * - Crash_nbchange_limit
-     - :ref:`Crash - Maximal Number of Basis Changes <option-PATH-maximal_number_of_basis_changes>`
+     - :doc:`Crash - Maximal Number of Basis Changes <Crash/PATH_Crash_-_Max_Nr_Basis_Chang>`
    * - Crash_perturb
-     - :ref:`Crash - Crash Perturb Problem <option-PATH-crash_perturb_problem>`
+     - :doc:`Crash - Crash Perturb Problem <Crash/PATH_Crash_-_Crash_Perturb_Prob>`
    * - Crash_searchtype
-     - :ref:`Crash - Crash Method Search Type <option-PATH-crash_method_search_type>`
+     - :doc:`Crash - Crash Method Search Type <Crash/PATH_Crash_-_Crash_Method_S_Typ>`
    * - Gradient_searchtype
-     - :ref:`Advanced - Gradient Search Type <option-PATH-gradient_search_type>`
+     - :doc:`Advanced - Gradient Search Type <Advanced/PATH_Advanced_-_Gradient_Search>`
    * - Gradient_step_limit
-     - :ref:`Advanced - Maximal Number of Gradient Steps <option-PATH-maximal_number_of_gradient_steps>`
+     - :doc:`Advanced - Maximal Number of Gradient Steps <Advanced/PATH_Advanced_-_Max_Nr_of_Grad>`
    * - Lemke_rank_deficiency_iterations
-     - :ref:`Advanced - Lemke Rank Deficiency Attempts <option-PATH-lemke_rank_deficiency_attempts>`
+     - :doc:`Advanced - Lemke Rank Deficiency Attempts <Advanced/PATH_Advanced_-_Lemke_Rank_Def>`
    * - Lemke_start
-     - :ref:`Advanced - Frequency of Lemke Starts <option-PATH-frequency_of_lemke_starts>`
+     - :doc:`Advanced - Frequency of Lemke Starts <Advanced/PATH_Advanced_-_Frequency_Lemke>`
    * - Lemke_start_type
-     - :ref:`Advanced - Lemke Start Type <option-PATH-lemke_start_type>`
+     - :doc:`Advanced - Lemke Start Type <Advanced/PATH_Advanced_-_Lemke_Start_Typ>`
    * - Major_iteration_limit
-     - :ref:`Limits - Major Iteration Limit <option-PATH-major_iteration_limit>`
+     - :doc:`Limits - Major Iteration Limit <Limits/PATH_Limits_-_Major_Iter_Limit>`
    * - Merit_function
-     - :ref:`General - Merit Function <option-PATH-merit_function>`
+     - :doc:`General - Merit Function <General/PATH_General_-_Merit_Function>`
    * - Minor_iteration_limit
-     - :ref:`Limits - Minor Iteration Limit <option-PATH-minor_iteration_limit>`
+     - :doc:`Limits - Minor Iteration Limit <Limits/PATH_Limits_-_Minor_Itera_Limit>`
    * - Nms
-     - :ref:`Advanced - NMS <option-PATH-nms>`
+     - :doc:`Advanced - NMS <Advanced/PATH_Advanced_-_NMS>`
    * - Nms_initial_reference_factor
-     - :ref:`Advanced - NMS Initial Reference Factor <option-PATH-nms_initial_reference_factor>`
+     - :doc:`Advanced - NMS Initial Reference Factor <Advanced/PATH_Advanced_-_NMS_Initial_Ref>`
    * - Nms_maximum_watchdogs
-     - :ref:`Advanced - NMS Number of Watchdog Steps <option-PATH-nms_number_of_watchdog_steps>`
+     - :doc:`Advanced - NMS Number of Watchdog Steps <Advanced/PATH_Advanced_-_NMS_Number_of_W>`
    * - Nms_memory_size
-     - :ref:`Advanced - NMS Merit Function Values Storage <option-PATH-nms_merit_function_values_storage>`
+     - :doc:`Advanced - NMS Merit Function Values Storage <Advanced/PATH_Advanced_-_NMS_Merit_Funct>`
    * - Nms_mstep_frequency
-     - :ref:`Advanced - NMS m-Step Frequency <option-PATH-nms_m-step_frequency>`
+     - :doc:`Advanced - NMS m-Step Frequency <Advanced/PATH_Advanced_-_NMS_m-Step_Freq>`
    * - Nms_searchtype
-     - :ref:`Advanced - NMS Search Type <option-PATH-nms_search_type>`
+     - :doc:`Advanced - NMS Search Type <Advanced/PATH_Advanced_-_NMS_Search_Type>`
    * - Output_crash_iterations
-     - :ref:`Reporting - Output Crash Iterations <option-PATH-output_crash_iterations>`
+     - :doc:`Reporting - Output Crash Iterations <Reporting/PATH_Reporting_-_O_Crash_Itera>`
    * - Output_crash_iterations_frequency
-     - :ref:`Reporting - Output Crash Iterations Frequency <option-PATH-output_crash_iterations_frequency>`
+     - :doc:`Reporting - Output Crash Iterations Frequency <Reporting/PATH_Reporting_-_O_Crash_Iter_f>`
    * - Output_errors
-     - :ref:`Reporting - Output Errors <option-PATH-output_errors>`
+     - :doc:`Reporting - Output Errors <Reporting/PATH_Reporting_-_Output_Errors>`
    * - Output_final_degeneracy_statistics
-     - :ref:`Reporting - Output Final Degeneracy Statistics <option-PATH-output_final_degeneracy_statistics>`
+     - :doc:`Reporting - Output Final Degeneracy Statistics <Reporting/Reporting_-_Output_Final_Degen>`
    * - Output_final_point
-     - :ref:`Reporting - Output Final Point <option-PATH-output_final_point>`
+     - :doc:`Reporting - Output Final Point <Reporting/Reporting_-_Output_Final_Point>`
    * - Output_final_point_statistics
-     - :ref:`Reporting - Output Final Point Statistics <option-PATH-output_final_point_statistics>`
+     - :doc:`Reporting - Output Final Point Statistics <Reporting/Reporting_-_Output_Final_Poin1>`
    * - Output_final_scaling_statistics
-     - :ref:`Reporting - Output Final Scaling Statistics <option-PATH-output_final_scaling_statistics>`
+     - :doc:`Reporting - Output Final Scaling Statistics <Reporting/Reporting_-_Output_Final_Scali>`
    * - Output_final_statistics
-     - :ref:`Reporting - Output Final Statistics <option-PATH-output_final_statistics>`
+     - :doc:`Reporting - Output Final Statistics <Reporting/Reporting_-_Output_Final_Stati>`
    * - Output_final_summary
-     - :ref:`Reporting - Output Final Summary <option-PATH-output_final_summary>`
+     - :doc:`Reporting - Output Final Summary <Reporting/Reporting_-_Output_Final_Summa>`
    * - Output_initial_point
-     - :ref:`Reporting - Output Initial Point <option-PATH-output_initial_point>`
+     - :doc:`Reporting - Output Initial Point <Reporting/Reporting_-_Output_Initial_Poi>`
    * - Output_initial_point_statistics
-     - :ref:`Reporting - Output Initial Point Statistics <option-PATH-output_initial_point_statistics>`
+     - :doc:`Reporting - Output Initial Point Statistics <Reporting/Reporting_-_Output_Initial_Po1>`
    * - Output_initial_scaling_statistics
-     - :ref:`Reporting - Output Initial Scaling Statistics <option-PATH-output_initial_scaling_statistics>`
+     - :doc:`Reporting - Output Initial Scaling Statistics <Reporting/Reporting_-_Output_Initial_Sca>`
    * - Output_initial_statistics
-     - :ref:`Reporting - Output Initial Statistics <option-PATH-output_initial_statistics>`
+     - :doc:`Reporting - Output Initial Statistics <Reporting/Reporting_-_Output_Initial_Sta>`
    * - Output_linear_model
-     - :ref:`Reporting - Output Linear Model <option-PATH-output_linear_model>`
+     - :doc:`Reporting - Output Linear Model <Reporting/Reporting_-_Output_Linear_Mode>`
    * - Output_major_iterations
-     - :ref:`Reporting - Output Major Iterations <option-PATH-output_major_iterations>`
+     - :doc:`Reporting - Output Major Iterations <Reporting/PATH_Reporting_-_O_Major_Itera>`
    * - Output_major_iterations_frequency
-     - :ref:`Reporting - Output Major Iterations Frequency <option-PATH-output_major_iterations_frequency>`
+     - :doc:`Reporting - Output Major Iterations Frequency <Reporting/PATH_Reporting_-_O_Major_Iter_f>`
    * - Output_minor_iterations
-     - :ref:`Reporting - Output Minor Iterations <option-PATH-output_minor_iterations>`
+     - :doc:`Reporting - Output Minor Iterations <Reporting/PATH_Reporting_-_O_Minor_Itera>`
    * - Output_minor_iterations_frequency
-     - :ref:`Reporting - Output Minor Iterations Frequency <option-PATH-output_minor_iterations_frequency>`
+     - :doc:`Reporting - Output Minor Iterations Frequency <Reporting/PATH_Reporting_-_O_Minor_Iter_f>`
    * - Output_model_statistics
-     - :ref:`Reporting - Output Model Statistics <option-PATH-output_model_statistics>`
+     - :doc:`Reporting - Output Model Statistics <Reporting/Reporting_-_Output_Model_Stati>`
    * - Output_options
-     - :ref:`Reporting - Output Options <option-PATH-output_options>`
+     - :doc:`Reporting - Output Options <Reporting/PATH_Reporting_-_Output_Options>`
    * - Output_preprocess
-     - :ref:`Reporting - Output Preprocess <option-PATH-output_preprocess>`
+     - :doc:`Reporting - Output Preprocess <Reporting/PATH_Reporting_-_Output_Preproc>`
    * - Output_restart_log
-     - :ref:`Reporting - Output Restart Log <option-PATH-output_restart_log>`
+     - :doc:`Reporting - Output Restart Log <Reporting/Reporting_-_Output_Restart_Log>`
    * - Output_warnings
-     - :ref:`Reporting - Output Warnings <option-PATH-output_warnings>`
+     - :doc:`Reporting - Output Warnings <Reporting/PATH_Reporting_-_Output_Warning>`
    * - Preprocess
-     - :ref:`General - Preprocess <option-PATH-preprocess>`
+     - :doc:`General - Preprocess <General/PATH_General_-_Preprocess>`
    * - Proximal_perturbation
-     - :ref:`Advanced - Initial Perturbation <option-PATH-initial_perturbation>`
+     - :doc:`Advanced - Initial Perturbation <Advanced/PATH_Advanced_-_Initial_Perturb>`
    * - Restart_limit
-     - :ref:`Limits - Restart Limit <option-PATH-restart_limit>`
+     - :doc:`Limits - Restart Limit <Limits/PATH_Limits_-_Restart_Limit>`
