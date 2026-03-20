@@ -31,9 +31,9 @@ The output produced by this option can only be noticed if either the option **So
 
 **Learn more about** 
 
-*	:ref:`option-AIMMS-solver_window_messages`  
-*	:ref:`option-AIMMS-solver_listing`  
-*	:ref:`option-AIMMS-solver_listing_messages`  
+*	:doc:`Solver_Specific_-_Solver_Windo <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_Windo>`  
+*	:doc:`Solver_Specific_-_Solver_Listi <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_Listi>`  
+*	:doc:`Solver_Specific_-_Solver_List1 <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1>`  
 
 
 

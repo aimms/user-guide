@@ -32,7 +32,7 @@ This option overrides option **Global Cut Control**.
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-global_cut_control`  
+*	:doc:`GUROBI_MIP_Cuts_-_Global_Cut_Control <GUROBI_MIP_Cuts_-_Global_Cut_Control>`  
 
 
 

@@ -26,5 +26,5 @@ the option **MIP Basis** to 'No'. Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-mip_basis` 
+*	:doc:`CPLEX_MIP_-_MIP_Basis <CPLEX_MIP_-_MIP_Basis>` 
 

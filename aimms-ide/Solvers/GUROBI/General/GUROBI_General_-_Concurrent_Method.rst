@@ -33,5 +33,5 @@ This option is only used when solving a continuous model or the root node of a M
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-method` 
-*	:ref:`option-GUROBI-sensitivity_method` 
+*	:doc:`GUROBI_General_-_Method <GUROBI_General_-_Method>` 
+*	:doc:`GUROBI_General_-_Sensitivity_Method <GUROBI_General_-_Sensitivity_Method>` 

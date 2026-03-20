@@ -41,6 +41,6 @@ has more than 32.
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-concurrent_mip` 
-*	:ref:`option-GUROBI-method` 
+*	:doc:`GUROBI_Parallel_-_Concurrent_MIP <GUROBI_Parallel_-_Concurrent_MIP>` 
+*	:doc:`GUROBI_General_-_Method <../General/GUROBI_General_-_Method>` 
 

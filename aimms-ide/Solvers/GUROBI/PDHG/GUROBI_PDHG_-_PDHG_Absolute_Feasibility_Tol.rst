@@ -27,6 +27,6 @@ based solely on absolute tolerances, you should set the option **PDHG Relative F
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-pdhg_convergence_tolerance`  
-*	:ref:`option-GUROBI-pdhg_relative_feasibility_tolerance`  
+*	:doc:`GUROBI_PDHG_-_PDHG_Convergence_Tol <GUROBI_PDHG_-_PDHG_Convergence_Tol>`  
+*	:doc:`GUROBI_PDHG_-_PDHG_Relative_Feasibility_Tol <GUROBI_PDHG_-_PDHG_Relative_Feasibility_Tol>`  
 

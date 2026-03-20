@@ -39,4 +39,4 @@ When solving a continuous multi-objective optimization model using a hierarchica
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-method` 
+*	:doc:`GUROBI_General_-_Method <GUROBI_General_-_Method>` 

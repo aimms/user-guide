@@ -36,7 +36,7 @@ that is, if the option **Solution Target** is set to 'Search for global optimum'
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-solution_target` 
+*	:doc:`CPLEX_QP_-_Solution_Target <../QP/CPLEX_QP_-_Solution_Target>` 
 
 
 

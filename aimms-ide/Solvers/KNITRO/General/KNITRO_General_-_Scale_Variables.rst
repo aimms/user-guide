@@ -24,4 +24,4 @@ This option determines the strategy that Knitro applies for scaling variables. I
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-scaling` 
+*	:doc:`KNITRO_General_-_Scaling <KNITRO_General_-_Scaling>` 

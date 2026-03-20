@@ -27,7 +27,7 @@ See the option **LP Method** for a description of the algorithms.
 
 
 Multiple LP problems are solved to calculate shadow price ranges for constraints and value ranges for variables.
-See :ref:`Miscellaneous_Calculation_of_Shadow_Price_Ra` for more information.
+See :doc:`Calculation_of_Shadow_Price_Ra <../../../Aimms/Miscellaneous/Short Descriptions/Calculation_of_Shadow_Price_Ra>` for more information.
 
 
 **Note** 
@@ -37,7 +37,7 @@ See :ref:`Miscellaneous_Calculation_of_Shadow_Price_Ra` for more information.
 
 **Learn more about** 
 
-*	:ref:`option-AIMMS-calculate_sensitivity_ranges` 
-*	:ref:`option-CPLEX-global_thread_limit`  
-*	:ref:`option-CPLEX-lp_method` 
+*	:doc:`Sensitivity_-_Calculate_Sensit <../../../Aimms/Options/Solvers General/Sensitivity/Sensitivity_-_Calculate_Sensit>` 
+*	:doc:`CPLEX_Par_-_GlobalThreadLimit <../Parallel/CPLEX_Par_-_GlobalThreadLimit>`  
+*	:doc:`CPLEX_General_-_LP_Method <CPLEX_General_-_LP_Method>` 
 

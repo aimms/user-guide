@@ -18,4 +18,4 @@ This option sets the number of branches before we trust pseudo-costs. Using stro
 
 **Learn more about** 
 
-*	:ref:`option-CBC-strong_branching` 
+*	:doc:`CBC_MIP_-_Strong_branching <CBC_MIP_-_Strong_branching>` 

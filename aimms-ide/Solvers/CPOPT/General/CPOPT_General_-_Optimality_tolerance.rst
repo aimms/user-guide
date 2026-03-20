@@ -22,4 +22,4 @@ This option is used in conjunction with option **Relative Optimality Tolerance**
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-relative_optimality_tolerance` 
+*	:doc:`CPOPT_General_-_Relative_optimality_tolerance <CPOPT_General_-_Relative_optimality_tolerance>` 

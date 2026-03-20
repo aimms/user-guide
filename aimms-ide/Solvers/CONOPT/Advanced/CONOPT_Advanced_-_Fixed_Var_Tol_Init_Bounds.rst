@@ -17,4 +17,4 @@ This option specifies the tolerance for defining variables as fixed based on ini
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-bound_tolerance` 
+*	:doc:`CONOPT_General_-_Bound_Tolerance <../General/CONOPT_General_-_Bound_Tolerance>` 

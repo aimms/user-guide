@@ -18,7 +18,7 @@ The option controls the number of simplex iterations performed on each variable 
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-select_variables`  
+*	:doc:`ODH_XMIP_-_Select_Variables <ODH_XMIP_-_Select_Variables>`  
 
 
 

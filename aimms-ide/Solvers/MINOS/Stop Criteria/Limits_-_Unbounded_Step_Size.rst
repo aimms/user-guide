@@ -26,7 +26,7 @@ Unboundedness in :math:`x` is best avoided by placing finite upper and lower bou
 
 **Learn more about** 
 
-*	:ref:`option-MINOS-unbounded_objective_value`  
+*	:doc:`Limits_-_Unbounded_Objec <Limits_-_Unbounded_Objec>`  
 
 
 

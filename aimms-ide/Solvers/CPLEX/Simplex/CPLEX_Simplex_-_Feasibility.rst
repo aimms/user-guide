@@ -30,7 +30,7 @@ This option also controls indirectly the maximum constraint violation as it cont
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-integrality`  
+*	:doc:`CPLEX_MIP_-_Integrality <../MIP/CPLEX_MIP_-_Integrality>`  
 
 
 

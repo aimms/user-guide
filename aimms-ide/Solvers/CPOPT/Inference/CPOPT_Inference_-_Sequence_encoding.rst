@@ -51,4 +51,4 @@ Encoding 'Partial sum' follows the encoding proposed by Sebastian Brand, Nina Na
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-mod_file` 
+*	:doc:`CPOPT_Logging_-_Mod_file <../Logging/CPOPT_Logging_-_Mod_file>` 

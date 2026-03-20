@@ -444,7 +444,7 @@ The table below shows Solvers General options that are mapped to ODH-CPLEX param
 
 **Heuristic sub-model options** 
 
-The heuristic sub-model parameters can only be set using a :ref:`ODH-CPLEX_-_Parameter_File`. The syntax for the parameters that influence the heuristic sub-model CPLEX solves is the following: SUB_<parameter> where <parameter> refers to the ODH-CPLEX name in the second table above. The syntax for the parameters that influence the heuristic sub-model CPLEX solves in Phase I is the following: PHASE1_<parameter>.
+The heuristic sub-model parameters can only be set using a :doc:`ODH_-_Parameter_File <ODH_-_Parameter_File>`. The syntax for the parameters that influence the heuristic sub-model CPLEX solves is the following: SUB_<parameter> where <parameter> refers to the ODH-CPLEX name in the second table above. The syntax for the parameters that influence the heuristic sub-model CPLEX solves in Phase I is the following: PHASE1_<parameter>.
 
 
 

@@ -25,5 +25,5 @@ This option limits the amount of time (expressed in deterministic ticks) CPLEX s
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-mip_probing` 
-*	:ref:`option-CPLEX-probing_time` 
+*	:doc:`CPLEX_MIP_-_MIP_Probing <CPLEX_MIP_-_MIP_Probing>` 
+*	:doc:`CPLEX_MIP_-_Probing_Time <CPLEX_MIP_-_Probing_Time>` 

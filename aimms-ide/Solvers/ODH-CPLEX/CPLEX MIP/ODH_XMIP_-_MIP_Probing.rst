@@ -33,4 +33,4 @@ The probing feature can help in many different ways on difficult models. Probing
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-probing_time` 
+*	:doc:`ODH_XMIP_-_Probing_Time <ODH_XMIP_-_Probing_Time>` 

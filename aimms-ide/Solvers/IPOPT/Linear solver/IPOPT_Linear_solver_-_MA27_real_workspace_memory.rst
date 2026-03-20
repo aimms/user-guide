@@ -27,6 +27,6 @@ This option determines the real workspace memory for MA27. The initial real work
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-linear_solver_selection` 
-*	:ref:`option-IPOPT-ma27_increment_factor_for_workspace_size` 
-*	:ref:`option-IPOPT-ma27_integer_workspace_memory` 
+*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection <IPOPT_Linear_solver_-_Linear_solver_selection>` 
+*	:doc:`IPOPT_Linear_solver_-_MA27_increment_factor_for_workspace_size <IPOPT_Linear_solver_-_MA27_increment_factor_for_workspace_size>` 
+*	:doc:`IPOPT_Linear_solver_-_MA27_integer_workspace_memory <IPOPT_Linear_solver_-_MA27_integer_workspace_memory>` 

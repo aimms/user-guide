@@ -44,9 +44,9 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-Baron-absolute_improvement_tolerance` 
-*	:ref:`option-Baron-insufficient_progress_time` 
-*	:ref:`option-Baron-relative_improvement_tolerance` 
+*	:doc:`BARON_Termination_-_Absolute_improvement_tolerance <BARON_Termination_-_Absolute_improvement_tolerance>` 
+*	:doc:`BARON_Termination_-_Insufficient_progress_time <BARON_Termination_-_Insufficient_progress_time>` 
+*	:doc:`BARON_Termination_-_Relative_improvement_tolerance <BARON_Termination_-_Relative_improvement_tolerance>` 
 
 
 

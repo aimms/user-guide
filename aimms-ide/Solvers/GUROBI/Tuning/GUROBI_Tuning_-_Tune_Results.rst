@@ -25,4 +25,4 @@ The tuning tool often finds multiple option sets that produce better results tha
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Tuning_Tool` 
+*	:doc:`GUROBI_Tuning_Tool <../GUROBI_Tuning_Tool>` 

@@ -25,5 +25,5 @@ This option limits the amount of time (expressed in deterministic ticks) CPLEX s
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-mip_probing` 
-*	:ref:`option-ODHCPLEX-probing_time` 
+*	:doc:`ODH_XMIP_-_MIP_Probing <ODH_XMIP_-_MIP_Probing>` 
+*	:doc:`ODH_XMIP_-_Probing_Time <ODH_XMIP_-_Probing_Time>` 

@@ -22,4 +22,4 @@ CPLEX must have a feasible solution in order to start polishing. It must also ha
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-polishing_relative_mip_gap`  
+*	:doc:`ODH_XPolishing_Relative_MIP_Gap <ODH_XPolishing_Relative_MIP_Gap>`  

@@ -25,8 +25,8 @@ This option determines the number of BFGS updates after which the Hessian approx
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-hessian_memory`  
-*	:ref:`option-SNOPT-hessian_updates`  
+*	:doc:`SNOPT_Advanced_-_Hessian_Memory <SNOPT_Advanced_-_Hessian_Memory>`  
+*	:doc:`SNOPT_Advanced_-_Hessian_Updates <SNOPT_Advanced_-_Hessian_Updates>`  
 
 
 

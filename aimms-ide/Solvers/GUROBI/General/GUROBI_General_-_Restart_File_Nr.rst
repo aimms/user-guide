@@ -18,7 +18,7 @@ This option represents the number part of the restart file name.
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-restart` 
+*	:doc:`GUROBI_General_-_Restart <GUROBI_General_-_Restart>` 
 
 
 

@@ -27,6 +27,6 @@ The command file will be named cpx\ *ddddd*\ .cmd, where *ddddd* denotes a 5-dig
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-lp_file`  
-*	:ref:`option-CPLEX-mps`  
-*	:ref:`option-CPLEX-sav_file`  
+*	:doc:`CPLEX_General_-_LP_File <CPLEX_General_-_LP_File>`  
+*	:doc:`CPLEX_General_-_MPS <CPLEX_General_-_MPS>`  
+*	:doc:`CPLEX_General_-_Sav_File <CPLEX_General_-_Sav_File>`  

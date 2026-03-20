@@ -40,11 +40,11 @@ The Intel MKL PARDISO solver can run in parallel by using the option **Number of
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-linear_solver_node_amalgamation` 
-*	:ref:`option-KNITRO-linear_solver_ordering` 
-*	:ref:`option-KNITRO-linear_solver_out_of_core` 
-*	:ref:`option-KNITRO-linear_solver_scaling` 
-*	:ref:`option-KNITRO-number_of_linear_system_threads`  
+*	:doc:`KNITRO_General_-_Linear_Solver_Node_Amalgamation <KNITRO_General_-_Linear_Solver_Node_Amalgamation>` 
+*	:doc:`KNITRO_General_-_Linear_Solver_Ordering <KNITRO_General_-_Linear_Solver_Ordering>` 
+*	:doc:`KNITRO_General_-_Linear_Solver_Out_of_Core <KNITRO_General_-_Linear_Solver_Out_of_Core>` 
+*	:doc:`KNITRO_General_-_Linear_Solver_Scaling <KNITRO_General_-_Linear_Solver_Scaling>` 
+*	:doc:`KNITRO_Par_-_Number_of_Lin_Sys_Threads <../Parallel/KNITRO_Par_-_Number_of_Lin_Sys_Threads>`  
 
 
 

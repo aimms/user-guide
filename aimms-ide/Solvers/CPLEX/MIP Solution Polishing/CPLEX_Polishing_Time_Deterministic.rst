@@ -30,4 +30,4 @@ by this option is met and when solution polishing starts.
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-polishing_time`  
+*	:doc:`CPLEX_Polishing_Time <CPLEX_Polishing_Time>`  

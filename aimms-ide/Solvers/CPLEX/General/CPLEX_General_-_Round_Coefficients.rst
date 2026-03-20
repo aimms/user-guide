@@ -29,4 +29,4 @@ Coefficients like 10.99999999 may arise as round-off errors if the matrix coeffi
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-cleanup_coefficients`  
+*	:doc:`CPLEX_General_-_Cleanup_Coefficients <CPLEX_General_-_Cleanup_Coefficients>`  

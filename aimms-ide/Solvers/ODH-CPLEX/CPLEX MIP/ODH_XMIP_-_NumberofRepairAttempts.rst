@@ -26,4 +26,4 @@ n:	Indicates the frequency
 
     **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-advanced_start` 
+*	:doc:`ODH_XGeneral_-_AdvancedStart <../CPLEX General/ODH_XGeneral_-_AdvancedStart>` 

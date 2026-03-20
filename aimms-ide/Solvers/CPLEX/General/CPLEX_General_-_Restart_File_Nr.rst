@@ -18,7 +18,7 @@ This option represents the number part of the restart file name.
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-restart` 
+*	:doc:`CPLEX_General_-_Restart <CPLEX_General_-_Restart>` 
 
 
 

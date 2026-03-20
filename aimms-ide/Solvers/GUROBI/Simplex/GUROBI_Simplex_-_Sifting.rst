@@ -32,4 +32,4 @@ With a 'Moderate' setting, sifting will be applied to LP models and to the root 
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-sifting_method`  
+*	:doc:`GUROBI_Simplex_-_Sifting_Method <GUROBI_Simplex_-_Sifting_Method>`  

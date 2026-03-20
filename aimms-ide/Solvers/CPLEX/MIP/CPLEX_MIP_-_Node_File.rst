@@ -32,7 +32,7 @@ If the node file parameter is set to 'None' when the tree memory limit is reache
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-working_memory_limit` 
+*	:doc:`CPLEX_MIP_-_Working_Memory_Limit <CPLEX_MIP_-_Working_Memory_Limit>` 
 
 
 

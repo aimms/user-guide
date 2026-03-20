@@ -17,4 +17,4 @@ Scale factors used to scale variables and equations are projected on the range *
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-maximal_scaling_factor`  
+*	:doc:`CONOPT_Scaling_-_Maximal_Scaling_Factor <CONOPT_Scaling_-_Maximal_Scaling_Factor>`  

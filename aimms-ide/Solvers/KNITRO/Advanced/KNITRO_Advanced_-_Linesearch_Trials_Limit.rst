@@ -22,4 +22,4 @@ This option has no effect on the Interior-CG or Active-Set algorithm.
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-linesearch_strategy`  
+*	:doc:`KNITRO_Advanced_-_Linesearch_Strategy <KNITRO_Advanced_-_Linesearch_Strategy>`  

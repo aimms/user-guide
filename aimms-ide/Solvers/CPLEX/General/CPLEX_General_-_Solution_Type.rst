@@ -45,5 +45,5 @@ When the value of this option is 'Nonbasic', CPLEX seeks a pair of primal-dual s
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-barrier_crossover_algorithm` 
-*	:ref:`option-CPLEX-lp_method` 
+*	:doc:`CPLEX_Barrier_-_Barrier_cross <../Barrier/CPLEX_Barrier_-_Barrier_cross>` 
+*	:doc:`CPLEX_General_-_LP_Method <CPLEX_General_-_LP_Method>` 

@@ -33,7 +33,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`option-PATH-crash_method`  
+*	:doc:`PATH_Crash_-_Crash_Method <PATH_Crash_-_Crash_Method>`  
 
 
 

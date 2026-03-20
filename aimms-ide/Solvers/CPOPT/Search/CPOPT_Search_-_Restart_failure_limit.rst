@@ -18,4 +18,4 @@ When option **Search Type**  is set to 'Restart', a depth-first search is restar
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-search_type` 
+*	:doc:`CPOPT_Search_-_Search_type <CPOPT_Search_-_Search_type>` 

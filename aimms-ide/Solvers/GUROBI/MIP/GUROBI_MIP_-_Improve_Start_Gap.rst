@@ -18,6 +18,6 @@ The MIP solver can change option settings in the middle of the search in order t
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-improve_start_nodes`  
-*	:ref:`option-GUROBI-improve_start_time`  
-*	:ref:`option-GUROBI-improve_start_work`  
+*	:doc:`GUROBI_MIP_-_Improve_Start_Nodes <GUROBI_MIP_-_Improve_Start_Nodes>`  
+*	:doc:`GUROBI_MIP_-_Improve_Start_Time <GUROBI_MIP_-_Improve_Start_Time>`  
+*	:doc:`GUROBI_MIP_-_Improve_Start_Work <GUROBI_MIP_-_Improve_Start_Work>`  

@@ -24,10 +24,10 @@ This option determines whether or not to use the Knitro presolver to try to simp
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-presolve_identify_linear_variables`  
-*	:ref:`option-KNITRO-presolve_substitution`  
-*	:ref:`option-KNITRO-presolve_substitution_tolerance`  
-*	:ref:`option-KNITRO-presolve_tolerance`  
+*	:doc:`KNITRO_Presolve_-_Presolve_Identify_Lin_Var <KNITRO_Presolve_-_Presolve_Identify_Lin_Var>`  
+*	:doc:`KNITRO_Presolve_-_Presolve_Substitution <KNITRO_Presolve_-_Presolve_Substitution>`  
+*	:doc:`KNITRO_Presolve_-_Presolve_Substitution_Tolerance <KNITRO_Presolve_-_Presolve_Substitution_Tolerance>`  
+*	:doc:`KNITRO_Presolve_-_Presolve_Tolerance <KNITRO_Presolve_-_Presolve_Tolerance>`  
 
 
 

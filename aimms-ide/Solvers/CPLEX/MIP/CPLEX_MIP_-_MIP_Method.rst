@@ -65,4 +65,4 @@ With the setting 'Sifting', CPLEX solves a sequence of LP subproblems, where the
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-mip_start_algorithm` 
+*	:doc:`CPLEX_MIP_-_MIP_Start_Algorit <CPLEX_MIP_-_MIP_Start_Algorit>` 

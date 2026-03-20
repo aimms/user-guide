@@ -50,5 +50,5 @@ This option only has effect if the option **Tuner**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-status_file_display`  
-*	:ref:`option-KNITRO-tuner`  
+*	:doc:`KNITRO_Reporting_-_StatusFileDi <../Reporting/KNITRO_Reporting_-_StatusFileDi>`  
+*	:doc:`KNITRO_Tuner_-_Tuner <KNITRO_Tuner_-_Tuner>`  

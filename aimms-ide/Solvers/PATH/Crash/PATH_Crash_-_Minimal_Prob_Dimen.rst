@@ -18,7 +18,7 @@ If the dimension of the problem is smaller than the value of this option, PATH d
 
 **Learn more about** 
 
-*	:ref:`option-PATH-crash_method`  
+*	:doc:`PATH_Crash_-_Crash_Method <PATH_Crash_-_Crash_Method>`  
 
 
 

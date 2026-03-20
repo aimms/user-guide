@@ -42,8 +42,8 @@ may be used together in solving a MIP model, although that would be an unusual c
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-dual_reductions` 
-*	:ref:`GUROBI_Indicator_Constraints` 
-*	:ref:`option-GUROBI-lazy_constraint_mode`  
+*	:doc:`GUROBI_Presolve_-_Dual_Reductions <Presolve/GUROBI_Presolve_-_Dual_Reductions>` 
+*	:doc:`GUROBI_Indicator_Constraints <GUROBI_Indicator_Constraints>` 
+*	:doc:`GUROBI_MIP_-_Lazy_Constraint_Mode <MIP/GUROBI_MIP_-_Lazy_Constraint_Mode>`  
 *	:any:`GMP::Instance::SetCallbackAddCut`
 *	:any:`GMP::Instance::SetCallbackAddLazyConstraint`

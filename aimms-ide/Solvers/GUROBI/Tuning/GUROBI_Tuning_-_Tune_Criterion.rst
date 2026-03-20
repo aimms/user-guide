@@ -33,4 +33,4 @@ The primary tuning criterion is always to minimize the runtime required to find 
 
 **Learn more about** 
 
-*	:ref:`GUROBI_Tuning_Tool` 
+*	:doc:`GUROBI_Tuning_Tool <../GUROBI_Tuning_Tool>` 

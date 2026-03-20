@@ -26,7 +26,7 @@ For certain very regular structures (e.g., band matrices) it may be necessary to
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-lu_update_tolerance`  
+*	:doc:`SNOPT_Advanced_-_LU_Update_Tolerance <SNOPT_Advanced_-_LU_Update_Tolerance>`  
 
 
 

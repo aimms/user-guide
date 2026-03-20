@@ -24,7 +24,7 @@ Extreme caution should be exercised when changing the value of this option becau
 
 **Learn more about** 
 
-*	:ref:`option-XA-maximal_absolute_pivot_value`  
+*	:doc:`XA_Advanced_-_Maximal_Absolute_Pi <XA_Advanced_-_Maximal_Absolute_Pi>`  
 
 
 

@@ -69,7 +69,7 @@ This option has only meaning if the option **Do Populate**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-do_populate`  
+*	:doc:`ODH_XMIP_Solp_-_Do_Populate <ODH_XMIP_Solp_-_Do_Populate>`  
 
 
 

@@ -7,7 +7,7 @@ Minimal Memory Size
 
 
 :Type:	Integer	
-:Range:	{0 .. :ref:`Miscellaneous_Maxint`}	
+:Range:	{0 .. :doc:`Maxint <../../../Aimms/Miscellaneous/Short Descriptions/Maxint>`}	
 :Default:	65536	
 
 
@@ -22,8 +22,8 @@ max(100 ** number of non-zeros + **Extra Memory**  , the value of this option).
 
 **Learn more about** 
 
-*	:ref:`option-XA-extra_memory`  
-*	:ref:`option-AIMMS-solver_workspace`  
+*	:doc:`XA_Memory_-_Extra_Memory <XA_Memory_-_Extra_Memory>`  
+*	:doc:`Memory_-_Solver_Workspace <../../../Aimms/Options/Solvers General/Memory/Memory_-_Solver_Workspace>`  
 
 
 

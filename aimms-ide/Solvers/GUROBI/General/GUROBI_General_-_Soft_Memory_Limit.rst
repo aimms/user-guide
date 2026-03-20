@@ -26,5 +26,5 @@ Memory usage is tracked across all threads. One consequence of this is that term
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-memory_limit`  
+*	:doc:`GUROBI_General_-_Memory_Limit <GUROBI_General_-_Memory_Limit>`  
 

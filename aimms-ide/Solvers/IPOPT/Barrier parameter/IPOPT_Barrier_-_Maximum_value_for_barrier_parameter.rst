@@ -24,5 +24,5 @@ This option is only used if 'Adaptive' is selected for option **Barrier Paramete
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-adaptive_strategy_factor_limit` 
-*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 
+*	:doc:`IPOPT_Barrier_-_Adaptive_strategy_factor_limit <IPOPT_Barrier_-_Adaptive_strategy_factor_limit>` 
+*	:doc:`IPOPT_Barrier_-_Barrier_parameter_update_strategy <IPOPT_Barrier_-_Barrier_parameter_update_strategy>` 

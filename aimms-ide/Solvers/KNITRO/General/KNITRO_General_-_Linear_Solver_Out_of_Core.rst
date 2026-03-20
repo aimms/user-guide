@@ -31,4 +31,4 @@ With setting 'Automatic' Knitro bases the decision to solve out-of-core dependin
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-linear_solver` 
+*	:doc:`KNITRO_General_-_Linear_Solver <KNITRO_General_-_Linear_Solver>` 

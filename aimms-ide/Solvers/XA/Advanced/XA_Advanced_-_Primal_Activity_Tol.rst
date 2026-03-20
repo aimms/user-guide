@@ -24,7 +24,7 @@ Extreme caution should be exercised when changing the value of this option becau
 
 **Learn more about** 
 
-*	:ref:`option-XA-dual_activity_tolerance`  
+*	:doc:`XA_Advanced_-_Dual_Activity_Toler <XA_Advanced_-_Dual_Activity_Toler>`  
 
 
 

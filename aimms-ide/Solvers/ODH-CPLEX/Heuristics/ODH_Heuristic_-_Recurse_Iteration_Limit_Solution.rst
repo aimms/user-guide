@@ -22,5 +22,5 @@ This option is only active if the option **Recurse**  is set to a value other th
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-recurse`  
-*	:ref:`option-ODHCPLEX-recurse_iteration_limit`  
+*	:doc:`ODH_Heuristic_-_Recurse <ODH_Heuristic_-_Recurse>`  
+*	:doc:`ODH_Heuristic_-_Recurse_Iteration_Limit <ODH_Heuristic_-_Recurse_Iteration_Limit>`  

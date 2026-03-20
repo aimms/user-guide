@@ -33,6 +33,6 @@ been passed to Gurobi. For MIP problems this means that the option **MIP Start**
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-mip_start` 
-*	:ref:`option-GUROBI-restart_file_number` 
+*	:doc:`GUROBI_MIP_-_MIP_Start <../MIP/GUROBI_MIP_-_MIP_Start>` 
+*	:doc:`GUROBI_General_-_Restart_File_Nr <GUROBI_General_-_Restart_File_Nr>` 
 

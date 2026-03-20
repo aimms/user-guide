@@ -56,8 +56,8 @@ By switching on the option **Write Cuts Variable Values** each cut and constrain
 
 **Learn more about** 
 
-*	:ref:`option-AIMMS-constraint_listing` 
-*	:ref:`option-CPLEX-find_fractional_root_solution` 
-*	:ref:`option-CPLEX-heuristic_effort` 
-*	:ref:`option-CPLEX-mip_number_of_cut_passes` 
-*	:ref:`option-CPLEX-write_cuts_variable_values` 
+*	:doc:`Constraints_-_Constraint_Listi <../../../Aimms/Options/Solvers General/Standard Reports/Constraints/Constraints_-_Constraint_Listi>` 
+*	:doc:`CPLEX_MIP_Advanced_-_Find_Fractional_Root_Solution <CPLEX_MIP_Advanced_-_Find_Fractional_Root_Solution>` 
+*	:doc:`CPLEX_MIP_Heuristic_-_Heuristic_Effort <../MIP Heuristics/CPLEX_MIP_Heuristic_-_Heuristic_Effort>` 
+*	:doc:`CPLEX_Cuts_-_MIP_Nr_of_Cut_Pa <../MIP Cuts/CPLEX_Cuts_-_MIP_Nr_of_Cut_Pa>` 
+*	:doc:`CPLEX_MIP_Advanced_-_Write_Cuts_Variable_Val <CPLEX_MIP_Advanced_-_Write_Cuts_Variable_Val>` 

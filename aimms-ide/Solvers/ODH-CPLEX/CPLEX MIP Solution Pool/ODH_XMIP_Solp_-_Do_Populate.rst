@@ -37,12 +37,12 @@ This option should be switched on before a normal solve statement (or before GMP
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-pool_absolute_objective_gap`  
-*	:ref:`option-ODHCPLEX-pool_intensity`  
-*	:ref:`option-ODHCPLEX-pool_relative_objective_gap`  
-*	:ref:`option-ODHCPLEX-pool_replacement_strategy`  
-*	:ref:`option-ODHCPLEX-populate_time_limit`  
-*	:ref:`option-ODHCPLEX-population_limit`  
+*	:doc:`ODH_XMIP_Solp_-_Pool_Abs_Obj_Gap <ODH_XMIP_Solp_-_Pool_Abs_Obj_Gap>`  
+*	:doc:`ODH_XMIP_Solp_-_Pool_Intensity <ODH_XMIP_Solp_-_Pool_Intensity>`  
+*	:doc:`ODH_XMIP_Solp_-_Pool_Rel_Obj_Gap <ODH_XMIP_Solp_-_Pool_Rel_Obj_Gap>`  
+*	:doc:`ODH_XMIP_Solp_-_Pool_Repl_Strat <ODH_XMIP_Solp_-_Pool_Repl_Strat>`  
+*	:doc:`ODH_XMIP_Solp_-_Populate_time_limit <ODH_XMIP_Solp_-_Populate_time_limit>`  
+*	:doc:`ODH_XMIP_Solp_-_Population_Limit <ODH_XMIP_Solp_-_Population_Limit>`  
 
 
 

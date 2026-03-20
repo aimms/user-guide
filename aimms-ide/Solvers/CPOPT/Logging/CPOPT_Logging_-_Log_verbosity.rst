@@ -32,4 +32,4 @@ The search log is printed in the status file which is named 'CP Optimizer 22.1.s
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-log_period` 
+*	:doc:`CPOPT_Logging_-_Log_period <CPOPT_Logging_-_Log_period>` 

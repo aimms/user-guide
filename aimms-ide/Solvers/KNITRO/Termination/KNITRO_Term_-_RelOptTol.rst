@@ -38,4 +38,4 @@ if the problem is unconstrained. Here f represents the objective function.
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-absolute_optimality_tolerance`  
+*	:doc:`KNITRO_Term_-_AbsOptTol <KNITRO_Term_-_AbsOptTol>`  

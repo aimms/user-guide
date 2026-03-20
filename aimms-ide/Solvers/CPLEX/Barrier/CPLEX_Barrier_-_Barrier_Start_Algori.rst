@@ -26,7 +26,7 @@ This option sets the algorithm to be used to compute the initial starting point 
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-presolve_pass_dual`  
+*	:doc:`CPLEX_Prepr_-_Presolve_Pass_D <../Preprocessing/CPLEX_Prepr_-_Presolve_Pass_D>`  
 
 
 

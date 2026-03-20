@@ -26,4 +26,4 @@ Switch to print all options set by the user. If selected, the algorithm will pri
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-status_file` 
+*	:doc:`IPOPT_Output_-_Status_file <IPOPT_Output_-_Status_file>` 

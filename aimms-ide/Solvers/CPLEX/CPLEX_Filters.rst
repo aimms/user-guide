@@ -38,5 +38,5 @@ specified as a linear expression.
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Solution_Pool`  
-*	:ref:`option-CPLEX-do_populate`  
+*	:doc:`CPLEX_Solution_Pool <CPLEX_Solution_Pool>`  
+*	:doc:`CPLEX_MIP_Solp_-_Do_Populate <MIP Solution Pool/CPLEX_MIP_Solp_-_Do_Populate>`  

@@ -37,5 +37,5 @@ This option is not influenced by the option **Global Cut Control**.
 
 **Learn more about** 
 
-*	:ref:`option-CBC-cut_depth`  
-*	:ref:`option-CBC-global_cut_control`  
+*	:doc:`CBC_MIP_Cuts_-_Cut_Depth <CBC_MIP_Cuts_-_Cut_Depth>`  
+*	:doc:`CBC_MIP_Cuts_-_Global_Cut_Control <CBC_MIP_Cuts_-_Global_Cut_Control>`  

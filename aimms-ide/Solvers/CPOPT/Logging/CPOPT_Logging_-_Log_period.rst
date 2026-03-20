@@ -25,4 +25,4 @@ The CP Optimizer search log includes information that is displayed periodically.
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-log_verbosity` 
+*	:doc:`CPOPT_Logging_-_Log_verbosity <CPOPT_Logging_-_Log_verbosity>` 

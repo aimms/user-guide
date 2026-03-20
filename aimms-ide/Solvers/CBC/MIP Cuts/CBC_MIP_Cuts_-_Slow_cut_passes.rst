@@ -25,5 +25,5 @@ are **Lift and Project Cuts** and **Reduce and Split Cuts**.
 
 **Learn more about** 
 
-*	:ref:`option-CBC-lift_and_project_cuts`  
-*	:ref:`option-CBC-reduce_and_split_cuts`  
+*	:doc:`CBC_MIP_Cuts_-_Lift_and_Project_Cuts <CBC_MIP_Cuts_-_Lift_and_Project_Cuts>`  
+*	:doc:`CBC_MIP_Cuts_-_Reduce_and_split_cuts <CBC_MIP_Cuts_-_Reduce_and_split_cuts>`  

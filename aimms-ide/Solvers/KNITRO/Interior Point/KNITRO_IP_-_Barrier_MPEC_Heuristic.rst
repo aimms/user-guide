@@ -30,6 +30,6 @@ In some cases enabling this heuristic can speedup the convergence to the solutio
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-algorithm` 
-*	:ref:`KNITRO_Complementarities` 
+*	:doc:`KNITRO_General_-_Algorithm <../General/KNITRO_General_-_Algorithm>` 
+*	:doc:`KNITRO_Complementarities <../KNITRO_Complementarities>` 
 

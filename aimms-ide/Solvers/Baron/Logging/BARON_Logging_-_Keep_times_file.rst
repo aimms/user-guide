@@ -33,7 +33,7 @@ This option determines whether the times file should be kept after the model is 
 
 **Learn more about** 
 
-*	:ref:`option-Baron-file_name` 
+*	:doc:`BARON_Logging_-_File_name <BARON_Logging_-_File_name>` 
 
 
 

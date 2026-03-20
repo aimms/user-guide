@@ -68,8 +68,8 @@ The postsolve step for linear models has been moved from the solver interface of
 *	`CBC <https://github.com/coin-or/Cbc>`_ (Internet link)
 *	`COIN-OR <https://www.coin-or.org/>`_ (Internet link)
 *	`AIMMSlinks <https://github.com/coin-or/AIMMSlinks>`_ (Internet link)
-*	:ref:`CBC_to_AIMMS_Mapping`  
-*	:ref:`AIMMS_to_CBC_Mapping`  
-*	:ref:`Options_AIMMS_Execution_Options`  
-*	:ref:`option-CBC-mip_start` 
-*	:ref:`option-AIMMS-postsolve` 
+*	:doc:`CBC_to_AIMMS_Mapping <CBC_to_AIMMS_Mapping>`  
+*	:doc:`AIMMS_to_CBC_Mapping <AIMMS_to_CBC_Mapping>`  
+*	:doc:`AIMMS_Execution_Options <../../Aimms/Options/AIMMS_Execution_Options>`  
+*	:doc:`CBC_MIP_-_MIP_Start <MIP/CBC_MIP_-_MIP_Start>` 
+*	:doc:`Postsolve_-_Postsolve <../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve>` 

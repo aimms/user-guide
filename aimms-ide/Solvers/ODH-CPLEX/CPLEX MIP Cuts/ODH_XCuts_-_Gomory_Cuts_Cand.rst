@@ -18,7 +18,7 @@ This option limits the number of candidate variables for generating Gomory cuts 
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-gomory_cuts`  
+*	:doc:`ODH_XCuts_-_Gomory_Cuts <ODH_XCuts_-_Gomory_Cuts>`  
 
 
 

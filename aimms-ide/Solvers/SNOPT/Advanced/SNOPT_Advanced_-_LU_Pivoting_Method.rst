@@ -33,7 +33,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-lu_factor_tolerance`  
+*	:doc:`SNOPT_Advanced_-_LU_Factor_Tol <SNOPT_Advanced_-_LU_Factor_Tol>`  
 
 
 

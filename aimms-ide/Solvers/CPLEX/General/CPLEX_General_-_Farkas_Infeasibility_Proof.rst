@@ -67,6 +67,6 @@ of the math program.
 
 **Learn more about** 
 
-*	:ref:`option-AIMMS-always_store_constraint_levels`  
-*	:ref:`option-CPLEX-lp_method`  
-*	:ref:`option-CPLEX-presolve`  
+*	:doc:`Sensitivity_-_Always_Store_Con <../../../Aimms/Options/Solvers General/Sensitivity/Sensitivity_-_Always_Store_Con>`  
+*	:doc:`CPLEX_General_-_LP_Method <CPLEX_General_-_LP_Method>`  
+*	:doc:`CPLEX_Prepr_-_Presolve <../Preprocessing/CPLEX_Prepr_-_Presolve>`  

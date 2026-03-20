@@ -17,4 +17,4 @@ This option specifies the zero filter for Jacobian elements and inversion result
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-absolute_pivot_tolerance` 
+*	:doc:`CONOPT_Pivot_-_Absolute_Pivot_Tol <../Pivot/CONOPT_Pivot_-_Absolute_Pivot_Tol>` 

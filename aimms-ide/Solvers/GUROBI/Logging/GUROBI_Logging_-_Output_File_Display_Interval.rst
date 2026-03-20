@@ -25,6 +25,6 @@ This option controls the frequency at which log lines are printed (in seconds) t
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-output_file` 
-*	:ref:`option-AIMMS-progress_solution` 
-*	:ref:`option-AIMMS-progress_time_interval` 
+*	:doc:`GUROBI_Logging_-_Output_File <GUROBI_Logging_-_Output_File>` 
+*	:doc:`Progress_Options_-_Progress_So <../../../Aimms/Options/AIMMS/Progress, Errors & Warnings/Progress Options/Progress_Options_-_Progress_So>` 
+*	:doc:`Progress_Options_-_Progress_Time_Interval <../../../Aimms/Options/AIMMS/Progress, Errors & Warnings/Progress Options/Progress_Options_-_Progress_Time_Interval>` 

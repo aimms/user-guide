@@ -34,7 +34,7 @@ This option determines which algorithm is used for solving QP problems and MIQP 
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-global_thread_limit`  
+*	:doc:`CPLEX_Par_-_GlobalThreadLimit <../Parallel/CPLEX_Par_-_GlobalThreadLimit>`  
 
 
 

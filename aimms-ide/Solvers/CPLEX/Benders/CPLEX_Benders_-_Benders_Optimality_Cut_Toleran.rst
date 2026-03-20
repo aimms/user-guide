@@ -18,4 +18,4 @@ This option specifies a tolerance for the optimality of cuts when CPLEX solves a
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-benders_strategy` 
+*	:doc:`CPLEX_Benders_-_Benders_Strategy <CPLEX_Benders_-_Benders_Strategy>` 

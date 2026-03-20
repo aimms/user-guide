@@ -24,4 +24,4 @@ This option is only used if 'Quality function' is selected for option **Adaptive
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-adaptive_strategy_oracle` 
+*	:doc:`IPOPT_Barrier_-_Adaptive_strategy_oracle <IPOPT_Barrier_-_Adaptive_strategy_oracle>` 

@@ -34,4 +34,4 @@ iterations, the current status, the best value found, etc. Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-AIMMS-progress_solution` 
+*	:doc:`Progress_Options_-_Progress_So <../../../Aimms/Options/AIMMS/Progress, Errors & Warnings/Progress Options/Progress_Options_-_Progress_So>` 

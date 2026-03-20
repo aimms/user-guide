@@ -18,4 +18,4 @@ CPLEX will change matrix coefficients that are smaller in magnitude than the val
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-round_coefficients`  
+*	:doc:`CPLEX_General_-_Round_Coefficients <CPLEX_General_-_Round_Coefficients>`  

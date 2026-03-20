@@ -6,7 +6,7 @@ Limit on Candidates for Defined Variable
 
 
 :Type:	Integer	
-:Range:	{0 .. :ref:`Miscellaneous_Maxint`}	
+:Range:	{0 .. :doc:`Maxint <../../../Aimms/Miscellaneous/Short Descriptions/Maxint>`}	
 :Default:	2	
 
 

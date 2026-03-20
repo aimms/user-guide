@@ -39,4 +39,4 @@ At the default value Gurobi chooses automatically. Barrier is not an option for 
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-method` 
+*	:doc:`GUROBI_General_-_Method <../General/GUROBI_General_-_Method>` 

@@ -203,14 +203,14 @@ This tolerance is controlled by the option **Barrier Convergence Tolerance**.
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-barrier_convergence_tolerance`  
-*	:ref:`option-CPLEX-check_solution`  
-*	:ref:`option-CPLEX-feasibility`  
-*	:ref:`option-CPLEX-integrality`  
-*	:ref:`option-CPLEX-lp_method`  
-*	:ref:`option-CPLEX-memory_emphasis`  
-*	:ref:`option-CPLEX-mip_kappa`  
-*	:ref:`option-CPLEX-optimality`  
-*	:ref:`option-AIMMS-postsolve` 
-*	:ref:`option-CPLEX-solution_type`  
-*	:ref:`option-AIMMS-solver_listing_messages`  
+*	:doc:`CPLEX_Barrier_-_Barrier_Convergence_ <../Barrier/CPLEX_Barrier_-_Barrier_Convergence_>`  
+*	:doc:`CPLEX_General_-_Check_Solution <CPLEX_General_-_Check_Solution>`  
+*	:doc:`CPLEX_Simplex_-_Feasibility <../Simplex/CPLEX_Simplex_-_Feasibility>`  
+*	:doc:`CPLEX_MIP_-_Integrality <../MIP/CPLEX_MIP_-_Integrality>`  
+*	:doc:`CPLEX_General_-_LP_Method <CPLEX_General_-_LP_Method>`  
+*	:doc:`CPLEX_General_-_MemoryEmphasis <CPLEX_General_-_MemoryEmphasis>`  
+*	:doc:`CPLEX_MIP_-_MIP_Kappa <../MIP/CPLEX_MIP_-_MIP_Kappa>`  
+*	:doc:`CPLEX_Simplex_-_Optimality <../Simplex/CPLEX_Simplex_-_Optimality>`  
+*	:doc:`Postsolve_-_Postsolve <../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve>` 
+*	:doc:`CPLEX_General_-_Solution_Type <CPLEX_General_-_Solution_Type>`  
+*	:doc:`Solver_Specific_-_Solver_List1 <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1>`  

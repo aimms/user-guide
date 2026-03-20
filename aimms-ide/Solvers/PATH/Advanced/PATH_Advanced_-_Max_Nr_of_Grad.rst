@@ -24,7 +24,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`option-PATH-restart_limit`  
+*	:doc:`PATH_Limits_-_Restart_Limit <../Limits/PATH_Limits_-_Restart_Limit>`  
 
 
 

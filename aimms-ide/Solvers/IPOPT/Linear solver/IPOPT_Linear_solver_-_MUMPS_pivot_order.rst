@@ -27,4 +27,4 @@ Controls pivot order in MUMPS. (This is ICNTL(7) in MUMPS.)
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-linear_solver_selection` 
+*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection <IPOPT_Linear_solver_-_Linear_solver_selection>` 

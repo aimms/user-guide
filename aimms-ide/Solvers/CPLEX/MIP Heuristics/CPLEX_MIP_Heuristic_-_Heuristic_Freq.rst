@@ -25,4 +25,4 @@ The value of this option determines how often to apply the periodic heuristic. S
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-heuristic_effort` 
+*	:doc:`CPLEX_MIP_Heuristic_-_Heuristic_Effort <CPLEX_MIP_Heuristic_-_Heuristic_Effort>` 

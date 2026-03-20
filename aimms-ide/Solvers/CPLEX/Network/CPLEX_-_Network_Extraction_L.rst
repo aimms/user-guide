@@ -23,5 +23,5 @@ modeling approaches when representing a network problem within an LP formulation
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-lp_method` 
+*	:doc:`CPLEX_General_-_LP_Method <../General/CPLEX_General_-_LP_Method>` 
 

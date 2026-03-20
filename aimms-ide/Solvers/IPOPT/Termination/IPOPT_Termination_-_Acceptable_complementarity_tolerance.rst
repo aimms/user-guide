@@ -20,4 +20,4 @@ This option specifies the acceptable absolute tolerance on the complementarity. 
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-acceptable_relative_convergence_tolerance` 
+*	:doc:`IPOPT_Termination_-_Acceptable_relative_convergence_tolerance <IPOPT_Termination_-_Acceptable_relative_convergence_tolerance>` 

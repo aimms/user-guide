@@ -24,7 +24,7 @@ When solving mixed integer models XA must decide how to handle node generation, 
 
 **Learn more about** 
 
-*	:ref:`option-XA-mip_basis`  
+*	:doc:`XA_MIP_-_MIP_Basis <XA_MIP_-_MIP_Basis>`  
 
 
 

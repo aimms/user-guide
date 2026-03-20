@@ -46,7 +46,7 @@ If this option is activated then COPT calculates an unbounded ray once COPT dete
 
 **Learn more about** 
 
-*	:ref:`option-AIMMS-always_store_constraint_levels`  
-*	:ref:`option-COPT-crossover`  
-*	:ref:`option-COPT-lp_method`  
-*	:ref:`option-COPT-presolve`  
+*	:doc:`Sensitivity_-_Always_Store_Con <../../../Aimms/Options/Solvers General/Sensitivity/Sensitivity_-_Always_Store_Con>`  
+*	:doc:`COPT_Barrier_-_Crossover <../Barrier/COPT_Barrier_-_Crossover>`  
+*	:doc:`COPT_General_-_LP_method <COPT_General_-_LP_method>`  
+*	:doc:`COPT_Presolve_-_Presolve <../Presolve/COPT_Presolve_-_Presolve>`  

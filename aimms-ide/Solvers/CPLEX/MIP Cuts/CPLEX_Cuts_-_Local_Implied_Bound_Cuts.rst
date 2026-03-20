@@ -33,4 +33,4 @@ bound cuts:
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-implied_bound_cuts`  
+*	:doc:`CPLEX_Cuts_-_Implied_Bound_Cuts <CPLEX_Cuts_-_Implied_Bound_Cuts>`  

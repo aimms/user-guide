@@ -18,5 +18,5 @@ The option controls the number of simplex iterations performed on each variable 
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-select_variables`  
+*	:doc:`CPLEX_MIP_-_Select_Variables <CPLEX_MIP_-_Select_Variables>`  
 

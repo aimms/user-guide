@@ -50,5 +50,5 @@ A Big M constraint that is not eliminated by preprocessing can be reformulated a
 
 **Learn more about** 
 
-*	 :ref:`CPLEX_Indicator_Constraints` 
+*	 :doc:`CPLEX_Indicator_Constraints <../CPLEX_Indicator_Constraints>` 
 

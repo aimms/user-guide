@@ -18,15 +18,15 @@ This option sets the starting value of the model divisor, which increases until 
 
 **Note** 
 
-*	See the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure` for more information.
+*	See the section :doc:`ODH_-_Specifying_Model_Structure <../ODH_-_Specifying_Model_Structure>` for more information.
 
 
 
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-maximum_divisor_value`  
-*	:ref:`ODH-CPLEX_-_Specifying_Model_Structure` 
+*	:doc:`ODH_Advanced_-_Maximum_Divisor_Value <ODH_Advanced_-_Maximum_Divisor_Value>`  
+*	:doc:`ODH_-_Specifying_Model_Structure <../ODH_-_Specifying_Model_Structure>` 
 
 
 

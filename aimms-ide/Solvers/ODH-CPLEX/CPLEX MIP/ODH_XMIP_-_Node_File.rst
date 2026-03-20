@@ -32,7 +32,7 @@ If the node file parameter is set to 'None' when the tree memory limit is reache
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-working_memory_limit` 
+*	:doc:`ODH_XMIP_-_Working_Memory_Limit <ODH_XMIP_-_Working_Memory_Limit>` 
 
 
 

@@ -36,7 +36,7 @@ resources than in the original problem, but CPLEX offers options that enable you
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-submip_node_limit`  
-*	:ref:`option-CPLEX-submip_scale`  
-*	:ref:`option-CPLEX-submip_start_algorithm`  
-*	:ref:`option-CPLEX-submip_subproblem_algorithm`  
+*	:doc:`CPLEX_MIP_Advanced_-_SubMIP_Node_Limit <MIP Advanced/CPLEX_MIP_Advanced_-_SubMIP_Node_Limit>`  
+*	:doc:`CPLEX_MIP_Advanced_-_SubMIP_Scale <MIP Advanced/CPLEX_MIP_Advanced_-_SubMIP_Scale>`  
+*	:doc:`CPLEX_MIP_Advanced_-_SubMIP_Start_Algorithm <MIP Advanced/CPLEX_MIP_Advanced_-_SubMIP_Start_Algorithm>`  
+*	:doc:`CPLEX_MIP_Advanced_-_SubMIP_Subproblem_Algorithm <MIP Advanced/CPLEX_MIP_Advanced_-_SubMIP_Subproblem_Algorithm>`  

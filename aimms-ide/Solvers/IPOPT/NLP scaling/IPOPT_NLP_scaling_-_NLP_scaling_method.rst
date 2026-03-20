@@ -39,4 +39,4 @@ Setting 'Equilibration based' means: scale the problem so that first derivatives
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-maximum_gradient_after_nlp_scaling` 
+*	:doc:`IPOPT_NLP_scaling_-_Maximum_gradient_after_NLP_scaling <IPOPT_NLP_scaling_-_Maximum_gradient_after_NLP_scaling>` 

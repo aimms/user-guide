@@ -31,6 +31,6 @@ The aggressive strategy setting attempts to make more progress with each sub-mod
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-initial_divisor_value`  
-*	:ref:`option-ODHCPLEX-maximum_divisor_repeats`  
-*	:ref:`option-ODHCPLEX-maximum_divisor_value`  
+*	:doc:`ODH_Advanced_-_Initial_Divisor_Value <../Advanced/ODH_Advanced_-_Initial_Divisor_Value>`  
+*	:doc:`ODH_Advanced_-_Maximum_Divisor_Repeats <../Advanced/ODH_Advanced_-_Maximum_Divisor_Repeats>`  
+*	:doc:`ODH_Advanced_-_Maximum_Divisor_Value <../Advanced/ODH_Advanced_-_Maximum_Divisor_Value>`  

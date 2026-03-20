@@ -33,10 +33,10 @@ If the value of this option is 'Use baron' then, for instance, the model file wi
 
 **Learn more about** 
 
-*	:ref:`option-Baron-keep_model_file` 
-*	:ref:`option-Baron-keep_results_file` 
-*	:ref:`option-Baron-keep_summary_file` 
-*	:ref:`option-Baron-keep_times_file`  
+*	:doc:`BARON_Logging_-_Keep_model_file <BARON_Logging_-_Keep_model_file>` 
+*	:doc:`BARON_Logging_-_Keep_results_file <BARON_Logging_-_Keep_results_file>` 
+*	:doc:`BARON_Logging_-_Keep_summary_file <BARON_Logging_-_Keep_summary_file>` 
+*	:doc:`BARON_Logging_-_Keep_times_file <BARON_Logging_-_Keep_times_file>`  
 
 
 

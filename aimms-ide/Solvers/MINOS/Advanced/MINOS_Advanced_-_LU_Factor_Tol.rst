@@ -27,7 +27,7 @@ For certain very special structures (e.g., band matrices) it may be necessary to
 
 **Learn more about** 
 
-*	:ref:`option-MINOS-lu_update_tolerance`  
+*	:doc:`Advanced_-_LU_Update_Tolerance <Advanced_-_LU_Update_Tolerance>`  
 
 
 

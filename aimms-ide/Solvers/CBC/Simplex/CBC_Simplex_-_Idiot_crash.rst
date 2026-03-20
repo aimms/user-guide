@@ -21,4 +21,4 @@ and for :math:`n > 0` it will do :math:`n` passes.
 
 **Learn more about** 
 
-*	:ref:`option-CBC-crash`  
+*	:doc:`CBC_Simplex_-_Crash <CBC_Simplex_-_Crash>`  

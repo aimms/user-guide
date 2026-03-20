@@ -22,7 +22,7 @@ Note that the global solvers option **Iteration Limit**  defines (in case of SNO
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-maximum_number_of_total_iterations`  
+*	:doc:`SNOPT_Limits_-_Maximum_Number_of_Tot <SNOPT_Limits_-_Maximum_Number_of_Tot>`  
 
 
 

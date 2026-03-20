@@ -35,10 +35,10 @@ At the default value of 0, CPLEX decides the frequency to log nodes.
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-mip_display` 
-*	:ref:`option-AIMMS-solver_listing_messages`   (General solvers option)
-*	:ref:`option-AIMMS-solver_window_messages`   (General solvers option)
-*	:ref:`option-ODHCPLEX-status_display` 
+*	:doc:`ODH_XLogging_-_MIP_Display <ODH_XLogging_-_MIP_Display>` 
+*	:doc:`Solver_Specific_-_Solver_List1 <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1>`   (General solvers option)
+*	:doc:`Solver_Specific_-_Solver_Windo <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_Windo>`   (General solvers option)
+*	:doc:`ODH_Logging_-_Status_Display <../Logging/ODH_Logging_-_Status_Display>` 
 
 
 

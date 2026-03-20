@@ -18,15 +18,15 @@ This option sets the maximum number of sub-model repeat solves for each divisor 
 
 **Note** 
 
-*	See the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure` for more information.
+*	See the section :doc:`ODH_-_Specifying_Model_Structure <../ODH_-_Specifying_Model_Structure>` for more information.
 
 
 
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-initial_divisor_value`  
-*	:ref:`ODH-CPLEX_-_Specifying_Model_Structure` 
+*	:doc:`ODH_Advanced_-_Initial_Divisor_Value <ODH_Advanced_-_Initial_Divisor_Value>`  
+*	:doc:`ODH_-_Specifying_Model_Structure <../ODH_-_Specifying_Model_Structure>` 
 
 
 

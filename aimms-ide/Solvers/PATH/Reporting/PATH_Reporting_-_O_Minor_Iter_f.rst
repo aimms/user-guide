@@ -18,8 +18,8 @@ This option controls the frequency of the minor iteration logging to the PATH st
 
 **Learn more about** 
 
-*	:ref:`option-PATH-create_status_file`  
-*	:ref:`option-PATH-output_minor_iterations`  
+*	:doc:`PATH_Reporting_-_CreateStatFile <PATH_Reporting_-_CreateStatFile>`  
+*	:doc:`PATH_Reporting_-_O_Minor_Itera <PATH_Reporting_-_O_Minor_Itera>`  
 
 
 

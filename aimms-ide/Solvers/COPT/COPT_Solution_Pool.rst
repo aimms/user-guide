@@ -30,5 +30,5 @@ the second best solution for the mathematical program 'frac1' will be send to th
 
 **Learn more about** 
 
-*	:ref:`option-COPT-pool_size` 
+*	:doc:`COPT_MIP_-_Pool_size <MIP/COPT_MIP_-_Pool_size>` 
 *	:any:`GMP::Solution::SendToModel`

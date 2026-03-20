@@ -22,7 +22,7 @@ Unboundedness in x is best avoided by placing finite upper and lower bounds on t
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-unbounded_objective_value`  
+*	:doc:`SNOPT_Limits_-_Unbounded_Objec <SNOPT_Limits_-_Unbounded_Objec>`  
 
 
 

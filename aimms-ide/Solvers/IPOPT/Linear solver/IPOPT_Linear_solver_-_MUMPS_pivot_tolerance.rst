@@ -27,5 +27,5 @@ This option specifies the pivot tolerance for the linear solver MUMPS. A smaller
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-linear_solver_selection` 
-*	:ref:`option-IPOPT-mumps_maximum_pivot_tolerance` 
+*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection <IPOPT_Linear_solver_-_Linear_solver_selection>` 
+*	:doc:`IPOPT_Linear_solver_-_MUMPS_maximum_pivot_tolerance <IPOPT_Linear_solver_-_MUMPS_maximum_pivot_tolerance>` 

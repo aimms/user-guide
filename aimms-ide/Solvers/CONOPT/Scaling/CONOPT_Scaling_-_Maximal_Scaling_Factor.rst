@@ -17,5 +17,5 @@ Scale factors are projected on the interval from **Minimal Scaling Factor** to *
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-maximum_solution_of_a_variable`  
-*	:ref:`option-CONOPT-minimal_scaling_factor`  
+*	:doc:`CONOPT_Limits_-_Maximal_Solution_Variable <../Limits/CONOPT_Limits_-_Maximal_Solution_Variable>`  
+*	:doc:`CONOPT_Scaling_-_Minimal_Scaling_Factor <CONOPT_Scaling_-_Minimal_Scaling_Factor>`  

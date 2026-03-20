@@ -89,11 +89,11 @@ CPLEX is equipped with a few options that control the tuning process, e.g., **Tu
 
 *	:any:`GMP::Tuning::TuneSingleGMP`
 *	:any:`GMP::Tuning::TuneMultipleMPS`
-*	:ref:`option-AIMMS-mip_absolute_optimality_tolerance`  
-*	:ref:`option-AIMMS-mip_relative_optimality_tolerance`  
-*	:ref:`option-AIMMS-time_limit`  
-*	:ref:`option-CPLEX-tuning_display`  
-*	:ref:`option-CPLEX-tuning_measure`  
-*	:ref:`option-CPLEX-tuning_repeater`  
-*	:ref:`option-CPLEX-tuning_time_limit`  
+*	:doc:`MIP_Options_-_MIP_Absolute_Opt <../../Aimms/Options/Solvers General/MIP Options/MIP_Options_-_MIP_Absolute_Opt>`  
+*	:doc:`MIP_Options_-_MIP_Relative_Opt <../../Aimms/Options/Solvers General/MIP Options/MIP_Options_-_MIP_Relative_Opt>`  
+*	:doc:`Stop_Criteria_-_Time_Limit <../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>`  
+*	:doc:`CPLEX_Logging_-_Tuning_Display <Logging/CPLEX_Logging_-_Tuning_Display>`  
+*	:doc:`CPLEX_Tuning_-_Tuning_Measure <Tuning/CPLEX_Tuning_-_Tuning_Measure>`  
+*	:doc:`CPLEX_Tuning_-_Tuning_Repeater <Tuning/CPLEX_Tuning_-_Tuning_Repeater>`  
+*	:doc:`CPLEX_Tuning_-_Tuning_Time_Limit <Tuning/CPLEX_Tuning_-_Tuning_Time_Limit>`  
 

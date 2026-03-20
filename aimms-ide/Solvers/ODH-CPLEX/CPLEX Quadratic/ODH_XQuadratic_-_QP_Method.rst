@@ -34,7 +34,7 @@ This option determines which algorithm is used for solving QP problems and MIQP 
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-global_thread_limit`  
+*	:doc:`ODH_XPar_-_GlobalThreadLimit <../CPLEX Parallel/ODH_XPar_-_GlobalThreadLimit>`  
 
 
 

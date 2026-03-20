@@ -41,6 +41,6 @@ The logging information is written to the file 'CPLEX 22.1.sta' if the general s
 
 **Learn more about** 
 
-*	:ref:`option-AIMMS-solver_listing`  
-*	:ref:`option-AIMMS-solver_listing_messages`  
-*	:ref:`CPLEX_Tuning_Tool` 
+*	:doc:`Solver_Specific_-_Solver_Listi <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_Listi>`  
+*	:doc:`Solver_Specific_-_Solver_List1 <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1>`  
+*	:doc:`CPLEX_Tuning_Tool <../CPLEX_Tuning_Tool>` 

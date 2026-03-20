@@ -18,14 +18,14 @@ This option specifies the matrix density above which automatic decomposition ass
 
 **Note** 
 
-*	See the section :ref:`ODH-CPLEX_-_Specifying_Model_Structure` for more information.
+*	See the section :doc:`ODH_-_Specifying_Model_Structure <../ODH_-_Specifying_Model_Structure>` for more information.
 
 
 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_-_Specifying_Model_Structure` 
+*	:doc:`ODH_-_Specifying_Model_Structure <../ODH_-_Specifying_Model_Structure>` 
 
 
 

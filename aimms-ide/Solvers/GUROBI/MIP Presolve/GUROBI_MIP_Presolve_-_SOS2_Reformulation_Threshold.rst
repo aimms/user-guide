@@ -29,8 +29,8 @@ The default value of -1 chooses a threshold automatically. You should set this o
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-sos1_reformulation_threshold` 
-*	:ref:`option-GUROBI-sos2_encoding` 
+*	:doc:`GUROBI_MIP_Presolve_-_SOS1_Reformulation_Threshold <GUROBI_MIP_Presolve_-_SOS1_Reformulation_Threshold>` 
+*	:doc:`GUROBI_MIP_Presolve_-_SOS2_Encoding <GUROBI_MIP_Presolve_-_SOS2_Encoding>` 
 
 
 

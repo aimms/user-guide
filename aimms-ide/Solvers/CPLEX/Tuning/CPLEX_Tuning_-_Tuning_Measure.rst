@@ -36,5 +36,5 @@ This option is only meaningful if the value of option **Tuning Repeater** is lar
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Tuning_Tool` 
-*	:ref:`option-CPLEX-tuning_repeater` 
+*	:doc:`CPLEX_Tuning_Tool <../CPLEX_Tuning_Tool>` 
+*	:doc:`CPLEX_Tuning_-_Tuning_Repeater <CPLEX_Tuning_-_Tuning_Repeater>` 

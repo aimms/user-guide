@@ -18,7 +18,7 @@ The optimization will terminate when the relative change in the solution estimat
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-solution_progress_iterations` 
+*	:doc:`KNITRO_Advanced_-_Solution_Progress_Iterations <KNITRO_Advanced_-_Solution_Progress_Iterations>` 
 
 
 

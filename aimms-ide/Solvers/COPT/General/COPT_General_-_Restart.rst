@@ -42,5 +42,5 @@ This option also determines whether a restart file is written. If this option is
 
 **Learn more about** 
 
-*	:ref:`option-COPT-mip_start` 
-*	:ref:`option-COPT-restart_file_number` 
+*	:doc:`COPT_MIP_-_MIP_start <../MIP/COPT_MIP_-_MIP_start>` 
+*	:doc:`COPT_General_-_Restart_file_number <COPT_General_-_Restart_file_number>` 

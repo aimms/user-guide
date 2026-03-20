@@ -61,4 +61,4 @@ The conjugate-gradient solver is appropriate for problems with large numbers of 
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-reduced_hessian_dimension`  
+*	:doc:`SNOPT_SQP_-_Reduced_Hessian_Dimension <SNOPT_SQP_-_Reduced_Hessian_Dimension>`  

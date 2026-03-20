@@ -33,5 +33,5 @@ This option determines the method used to compute symmetric scaling factors for 
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-linear_solver_selection` 
-*	:ref:`option-IPOPT-linear_system_scaling` 
+*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection <IPOPT_Linear_solver_-_Linear_solver_selection>` 
+*	:doc:`IPOPT_Linear_solver_-_Linear_system_scaling <IPOPT_Linear_solver_-_Linear_system_scaling>` 

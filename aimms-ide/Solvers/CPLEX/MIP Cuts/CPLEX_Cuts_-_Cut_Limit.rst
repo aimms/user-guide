@@ -29,7 +29,7 @@ A setting of 0 means no cuts.
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-gomory_cuts`  
+*	:doc:`CPLEX_Cuts_-_Gomory_Cuts <CPLEX_Cuts_-_Gomory_Cuts>`  
 
 
 

@@ -32,5 +32,5 @@ If 'Constant' is chosen then all bound multipliers are initialized to the value 
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-barrier_parameter_initial_value` 
-*	:ref:`option-IPOPT-initial_value_for_bound_multipliers` 
+*	:doc:`IPOPT_Barrier_-_Barrier_parameter_initial_value <../Barrier parameter/IPOPT_Barrier_-_Barrier_parameter_initial_value>` 
+*	:doc:`IPOPT_Initialization_-_Initial_value_for_bound_multipliers <IPOPT_Initialization_-_Initial_value_for_bound_multipliers>` 

@@ -20,8 +20,8 @@ For some MINLP problems the performance of BARON can get a boost by providing a 
 
 **Learn more about** 
 
-*	:ref:`option-AIMMS-minlp_probing` 
-*	:ref:`option-AIMMS-nonlinear_presolve` 
+*	:doc:`NonlinPres_-_MINLP_Probing <../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_MINLP_Probing>` 
+*	:doc:`NonlinPres_-_NonlinearPresolve <../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_NonlinearPresolve>` 
 
 
 

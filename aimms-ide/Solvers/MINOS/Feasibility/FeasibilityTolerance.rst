@@ -61,8 +61,8 @@ Feasibility with respect to the nonlinear constraints themselves is measured aga
 
 **Learn more about** 
 
-*	:ref:`option-MINOS-row_tolerance`  
-*	:ref:`option-MINOS-scale_method`  
+*	:doc:`RowTolerance <RowTolerance>`  
+*	:doc:`Scaling_-_Scale_Method <../Scaling/Scaling_-_Scale_Method>`  
 
 
 

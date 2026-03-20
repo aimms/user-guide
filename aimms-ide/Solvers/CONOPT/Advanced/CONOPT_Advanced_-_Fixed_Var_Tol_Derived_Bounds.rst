@@ -17,4 +17,4 @@ A variable is considered fixed if the distance between the bounds is less than F
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-bound_tolerance` 
+*	:doc:`CONOPT_General_-_Bound_Tolerance <../General/CONOPT_General_-_Bound_Tolerance>` 

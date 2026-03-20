@@ -28,5 +28,5 @@ unbounded ray is passed to AIMMS instead of the normal level values for the vari
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-lp_method`  
-*	:ref:`option-CPLEX-presolve`  
+*	:doc:`CPLEX_General_-_LP_Method <CPLEX_General_-_LP_Method>`  
+*	:doc:`CPLEX_Prepr_-_Presolve <../Preprocessing/CPLEX_Prepr_-_Presolve>`  

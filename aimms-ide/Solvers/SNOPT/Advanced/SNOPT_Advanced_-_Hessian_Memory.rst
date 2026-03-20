@@ -41,8 +41,8 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-hessian_frequency`  
-*	:ref:`option-SNOPT-hessian_updates`  
+*	:doc:`SNOPT_Advanced_-_Hessian_Frequency <SNOPT_Advanced_-_Hessian_Frequency>`  
+*	:doc:`SNOPT_Advanced_-_Hessian_Updates <SNOPT_Advanced_-_Hessian_Updates>`  
 
 
 

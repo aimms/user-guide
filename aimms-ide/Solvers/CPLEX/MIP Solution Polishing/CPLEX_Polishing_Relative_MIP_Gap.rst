@@ -27,4 +27,4 @@ criterion specified by this option is met and when solution polishing starts.
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-polishing_absolute_mip_gap`  
+*	:doc:`CPLEX_Polishing_Absolute_MIP_Gap <CPLEX_Polishing_Absolute_MIP_Gap>`  

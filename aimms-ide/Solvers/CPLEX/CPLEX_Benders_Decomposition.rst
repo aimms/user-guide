@@ -70,7 +70,7 @@ Window is updated if an MIP problem is solved.)
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-benders_strategy` 
-*	:ref:`option-CPLEX-benders_decomposition_check_limit` 
+*	:doc:`CPLEX_Benders_-_Benders_Strategy <Benders/CPLEX_Benders_-_Benders_Strategy>` 
+*	:doc:`CPLEX_Benders_-_Benders_Decomposition_Check_Limit <Benders/CPLEX_Benders_-_Benders_Decomposition_Check_Limit>` 
 *	:any:`GMP::Column::SetDecomposition`
 

@@ -44,4 +44,4 @@ If the model uses lazy constraints (either through a callback or a pool) then CP
 
 **Learn more about** 
 
-*	:ref:`CPLEX_User_Cuts_and_Lazy_Constraints` 
+*	:doc:`CPLEX_User_Cuts_and_Lazy_Constraints <../CPLEX_User_Cuts_and_Lazy_Constraints>` 

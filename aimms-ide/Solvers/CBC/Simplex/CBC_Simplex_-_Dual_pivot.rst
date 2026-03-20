@@ -25,4 +25,4 @@ This option specifies the dual pivot selection algorithm. Settings 'Steepest' an
 
 **Learn more about** 
 
-*	:ref:`option-CBC-primal_pivot`  
+*	:doc:`CBC_Simplex_-_Primal_pivot <CBC_Simplex_-_Primal_pivot>`  

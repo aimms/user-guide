@@ -26,6 +26,6 @@ Possible values of this option are:
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-lp_file`  
-*	:ref:`option-CPLEX-mps`  
-*	:ref:`option-CPLEX-sav_file`  
+*	:doc:`CPLEX_General_-_LP_File <../General/CPLEX_General_-_LP_File>`  
+*	:doc:`CPLEX_General_-_MPS <../General/CPLEX_General_-_MPS>`  
+*	:doc:`CPLEX_General_-_Sav_File <../General/CPLEX_General_-_Sav_File>`  

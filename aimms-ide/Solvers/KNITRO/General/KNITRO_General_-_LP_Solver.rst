@@ -37,4 +37,4 @@ For setting 'Internal' Knitro uses its own LP solver.
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-algorithm` 
+*	:doc:`KNITRO_General_-_Algorithm <KNITRO_General_-_Algorithm>` 

@@ -37,6 +37,6 @@ The mod file cannot be printed in the following situations:
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-cardinality_encoding` 
-*	:ref:`option-CPOPT-mod_file_write_constraint_names` 
-*	:ref:`option-CPOPT-sequence_encoding` 
+*	:doc:`CPOPT_Inference_-_Cardinality_encoding <../Inference/CPOPT_Inference_-_Cardinality_encoding>` 
+*	:doc:`CPOPT_Logging_-_Mod_file_write_constraint_name <CPOPT_Logging_-_Mod_file_write_constraint_name>` 
+*	:doc:`CPOPT_Inference_-_Sequence_encoding <../Inference/CPOPT_Inference_-_Sequence_encoding>` 

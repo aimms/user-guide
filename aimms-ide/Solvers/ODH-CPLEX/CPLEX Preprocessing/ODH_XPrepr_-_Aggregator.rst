@@ -30,4 +30,4 @@ Another option, which affects only the aggregator, is**Limit Substitutions**. Oc
 
     **Learn more about** 
 
-*	 :ref:`option-ODHCPLEX-limit_substitutions` 
+*	 :doc:`ODH_XPrepr_-_Limit_Substitut <ODH_XPrepr_-_Limit_Substitut>` 

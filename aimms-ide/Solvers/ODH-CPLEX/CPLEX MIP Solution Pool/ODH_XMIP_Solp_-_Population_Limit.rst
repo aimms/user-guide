@@ -38,7 +38,7 @@ This option has only meaning if the option **Do** **Populate**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-do_populate`  
-*	:ref:`option-ODHCPLEX-pool_absolute_objective_gap`  
-*	:ref:`option-ODHCPLEX-pool_capacity`  
-*	:ref:`option-ODHCPLEX-pool_relative_objective_gap`  
+*	:doc:`ODH_XMIP_Solp_-_Do_Populate <ODH_XMIP_Solp_-_Do_Populate>`  
+*	:doc:`ODH_XMIP_Solp_-_Pool_Abs_Obj_Gap <ODH_XMIP_Solp_-_Pool_Abs_Obj_Gap>`  
+*	:doc:`ODH_XMIP_Solp_-_Pool_Capacity <ODH_XMIP_Solp_-_Pool_Capacity>`  
+*	:doc:`ODH_XMIP_Solp_-_Pool_Rel_Obj_Gap <ODH_XMIP_Solp_-_Pool_Rel_Obj_Gap>`  

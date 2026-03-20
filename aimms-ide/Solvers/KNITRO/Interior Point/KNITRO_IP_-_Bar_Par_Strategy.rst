@@ -47,7 +47,7 @@ This option has no effect on the Active Set and SQP algorithms.
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-algorithm` 
+*	:doc:`KNITRO_General_-_Algorithm <../General/KNITRO_General_-_Algorithm>` 
 
 
 

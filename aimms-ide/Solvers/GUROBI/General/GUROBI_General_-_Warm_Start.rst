@@ -63,4 +63,4 @@ primal and dual solutions on the original model from which the primal or dual st
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-method` 
+*	:doc:`GUROBI_General_-_Method <GUROBI_General_-_Method>` 

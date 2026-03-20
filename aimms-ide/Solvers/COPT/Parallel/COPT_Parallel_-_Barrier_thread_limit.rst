@@ -18,7 +18,7 @@ This option specifies the number of threads used by the barrier algorithm. At th
 
 **Learn more about** 
 
-*	:ref:`option-COPT-thread_limit` 
+*	:doc:`COPT_Parallel_-_Thread_limit <COPT_Parallel_-_Thread_limit>` 
 
 
 

@@ -38,7 +38,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-crash_tolerance`  
+*	:doc:`SNOPT_Advanced_-_Crash_Tolerance <SNOPT_Advanced_-_Crash_Tolerance>`  
 
 
 

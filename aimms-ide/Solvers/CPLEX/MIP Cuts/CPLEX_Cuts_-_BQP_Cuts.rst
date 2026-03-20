@@ -46,4 +46,4 @@ is also a valid inequality for the continuous set defined by:
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-solution_target`  
+*	:doc:`CPLEX_QP_-_Solution_Target <../QP/CPLEX_QP_-_Solution_Target>`  

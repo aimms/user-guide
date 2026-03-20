@@ -22,5 +22,5 @@ This option has only meaning if the option **Do** **Populate**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-do_populate`  
-*	:ref:`option-CPLEX-pool_replacement_strategy`  
+*	:doc:`CPLEX_MIP_Solp_-_Do_Populate <CPLEX_MIP_Solp_-_Do_Populate>`  
+*	:doc:`CPLEX_MIP_Solp_-_Pool_Repl_Strat <CPLEX_MIP_Solp_-_Pool_Repl_Strat>`  

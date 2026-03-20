@@ -33,5 +33,5 @@ The setting "Automatic", the default, shows the best performance for most proble
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-mip_method`  
-*	:ref:`option-ODHCPLEX-mip_start_algorithm`  
+*	:doc:`ODH_XMIP_-_MIP_Method <../CPLEX MIP/ODH_XMIP_-_MIP_Method>`  
+*	:doc:`ODH_XMIP_-_MIP_Start_Algorit <../CPLEX MIP/ODH_XMIP_-_MIP_Start_Algorit>`  

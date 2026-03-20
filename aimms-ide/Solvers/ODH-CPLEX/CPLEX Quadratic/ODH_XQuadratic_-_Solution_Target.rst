@@ -50,5 +50,5 @@ When this option is set to 'Search for global optimum', if the problem type is Q
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-clique_cuts` 
-*	:ref:`option-ODHCPLEX-rlt_cuts` 
+*	:doc:`ODH_XCuts_-_Clique_Cuts <../CPLEX MIP Cuts/ODH_XCuts_-_Clique_Cuts>` 
+*	:doc:`ODH_XCuts_-_RLT_Cuts <../CPLEX MIP Cuts/ODH_XCuts_-_RLT_Cuts>` 

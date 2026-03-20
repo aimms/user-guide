@@ -36,7 +36,7 @@ If set to 'Yes', the existing presolved model is used.
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-presolve`  
+*	:doc:`ODH_General_-_Presolve <ODH_General_-_Presolve>`  
 
 
 

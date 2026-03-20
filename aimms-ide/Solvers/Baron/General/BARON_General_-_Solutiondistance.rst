@@ -28,7 +28,7 @@ The distance between two solutions x and y is calculated according to the infini
 
 **Learn more about** 
 
-*	:ref:`option-Baron-number_of_best_solutions` 
+*	:doc:`BARON_General_-_Numberofbestsolutio <BARON_General_-_Numberofbestsolutio>` 
 
 
 

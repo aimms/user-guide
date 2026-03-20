@@ -27,7 +27,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-slp_mode`  
+*	:doc:`CONOPT_Advanced_-_SLP_Mode <../Advanced/CONOPT_Advanced_-_SLP_Mode>`  
 
 
 

@@ -38,4 +38,4 @@ This option specifies the variable selection heuristic being used in a search st
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-value_selection` 
+*	:doc:`CPOPT_Search_-_Value_selection <CPOPT_Search_-_Value_selection>` 

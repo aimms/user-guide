@@ -24,5 +24,5 @@ This option indicates whether Knitro multistart procedure will be deterministic 
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-multistart`  
-*	:ref:`option-KNITRO-multistart_termination_condition`  
+*	:doc:`KNITRO_MS_-_Multistart <KNITRO_MS_-_Multistart>`  
+*	:doc:`KNITRO_MS_-_MS_Termination_Conditi <KNITRO_MS_-_MS_Termination_Conditi>`  

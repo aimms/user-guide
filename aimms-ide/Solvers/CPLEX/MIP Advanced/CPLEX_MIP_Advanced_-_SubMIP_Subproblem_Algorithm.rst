@@ -26,7 +26,7 @@ This option decides which continuous optimizer will be used to solve the subprob
 
 
 
-SubMIPS are described in the section :ref:`CPLEX_SubMIP`.
+SubMIPS are described in the section :doc:`CPLEX_SubMIP <../CPLEX_SubMIP>`.
 
 
 
@@ -71,4 +71,4 @@ With the setting 'Sifting', CPLEX solves a sequence of LP subproblems, where the
 
 **Learn more about** 
 
-*	:ref:`CPLEX_SubMIP` 
+*	:doc:`CPLEX_SubMIP <../CPLEX_SubMIP>` 

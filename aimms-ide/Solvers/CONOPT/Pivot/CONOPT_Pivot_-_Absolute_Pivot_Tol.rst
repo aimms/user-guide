@@ -17,4 +17,4 @@ A pivot element is only considered acceptable if its absolute value is larger th
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-relative_pivot_tolerance`  
+*	:doc:`CONOPT_Pivot_-_Relative_Pivot_Tol <CONOPT_Pivot_-_Relative_Pivot_Tol>`  

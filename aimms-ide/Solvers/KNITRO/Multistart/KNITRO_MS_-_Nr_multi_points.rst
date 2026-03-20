@@ -22,7 +22,7 @@ The value of 0 has a special meaning; it lets Knitro automatically choose a valu
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-multistart`  
+*	:doc:`KNITRO_MS_-_Multistart <KNITRO_MS_-_Multistart>`  
 
 
 

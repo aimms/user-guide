@@ -32,4 +32,4 @@ This option determines whether the First Feasible Heuristic for finding an initi
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-search_mode`  
+*	:doc:`ODH_General_-_Search_Mode <../General/ODH_General_-_Search_Mode>`  

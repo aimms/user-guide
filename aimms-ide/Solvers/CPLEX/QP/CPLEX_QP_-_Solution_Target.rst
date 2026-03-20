@@ -50,5 +50,5 @@ When this option is set to 'Search for global optimum', if the problem type is Q
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-bqp_cuts` 
-*	:ref:`option-CPLEX-rlt_cuts` 
+*	:doc:`CPLEX_Cuts_-_BQP_Cuts <../MIP Cuts/CPLEX_Cuts_-_BQP_Cuts>` 
+*	:doc:`CPLEX_Cuts_-_RLT_Cuts <../MIP Cuts/CPLEX_Cuts_-_RLT_Cuts>` 

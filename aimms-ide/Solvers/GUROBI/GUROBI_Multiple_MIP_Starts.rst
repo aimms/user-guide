@@ -33,4 +33,4 @@ where 'gmpMP' is an element parameter with range :aimms:set:`AllGeneratedMathema
 **Learn more about** 
 
 *	:any:`GMP::Solution::SetMIPStartFlag`
-*	:ref:`option-GUROBI-mip_start` 
+*	:doc:`GUROBI_MIP_-_MIP_Start <MIP/GUROBI_MIP_-_MIP_Start>` 

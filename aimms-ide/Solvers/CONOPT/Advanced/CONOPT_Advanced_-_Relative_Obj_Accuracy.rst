@@ -18,7 +18,7 @@ CONOPT assumes that the reduced objective function can be computed to an accurac
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-limit_for_slow_progress`  
+*	:doc:`CONOPT_Stop_Criteria_-_Limit_Slow_Progress <../Stop criteria/CONOPT_Stop_Criteria_-_Limit_Slow_Progress>`  
 
 
 

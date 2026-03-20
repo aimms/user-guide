@@ -24,4 +24,4 @@ This option can be used to turn on (or off) sifting from simplex optimization. B
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-lp_method` 
+*	:doc:`CPLEX_General_-_LP_Method <../General/CPLEX_General_-_LP_Method>` 

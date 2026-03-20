@@ -32,4 +32,4 @@ This option will only be active if the option **MIP Priority Order Switch**  is 
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-mip_priority_order_switch` 
+*	:doc:`ODH_XMIP_-_MIP_Priority_Order_Switch <ODH_XMIP_-_MIP_Priority_Order_Switch>` 

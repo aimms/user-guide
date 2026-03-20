@@ -30,8 +30,8 @@ The default value of this option depends on the relative precision of the comput
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-expand_frequency`  
-*	:ref:`option-SNOPT-feasibility_tolerance`  
+*	:doc:`SNOPT_Advanced_-_Expand_Frequency <SNOPT_Advanced_-_Expand_Frequency>`  
+*	:doc:`SNOPT_Feasibility_-_Feasibility_Tole <../Feasibility/SNOPT_Feasibility_-_Feasibility_Tole>`  
 
 
 

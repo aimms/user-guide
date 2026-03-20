@@ -36,4 +36,4 @@ As ODH-CPLEX must use separate threads for the main CPLEX solve and for the ODH 
 
 **Learn more about** 
 
-*	:ref:`ODH-CPLEX_-_Parallel_Execution` 
+*	:doc:`ODH_-_Parallel_Execution <../ODH_-_Parallel_Execution>` 

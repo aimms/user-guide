@@ -33,4 +33,4 @@ The main difference between the possible settings is that the starting point in 
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-factor_for_initial_bounds_relaxation` 
+*	:doc:`IPOPT_NLP_-_Factor_for_initial_bounds_relaxation <IPOPT_NLP_-_Factor_for_initial_bounds_relaxation>` 

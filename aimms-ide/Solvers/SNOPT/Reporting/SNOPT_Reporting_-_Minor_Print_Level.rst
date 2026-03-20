@@ -35,7 +35,7 @@ This option has only an effect if the option **Print Output File**  is switched 
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-factorization_frequency`  
-*	:ref:`option-SNOPT-major_print_level`  
-*	:ref:`option-SNOPT-print_frequency`  
-*	:ref:`option-SNOPT-print_output_file`  
+*	:doc:`SNOPT_Advanced_-_Factorization_Frequ <../Advanced/SNOPT_Advanced_-_Factorization_Frequ>`  
+*	:doc:`SNOPT_Reporting_-_Major_Print_Level <SNOPT_Reporting_-_Major_Print_Level>`  
+*	:doc:`SNOPT_Reporting_-_Print_Frequency <SNOPT_Reporting_-_Print_Frequency>`  
+*	:doc:`SNOPT_Reporting_-_Print_Output_File <SNOPT_Reporting_-_Print_Output_File>`  

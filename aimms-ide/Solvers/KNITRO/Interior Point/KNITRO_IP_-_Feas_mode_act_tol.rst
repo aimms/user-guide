@@ -35,7 +35,7 @@ becomes active. This option is only valid if the option **Feasible Mode** is swi
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-feasible_mode`  
+*	:doc:`KNITRO_IP_-_Feasible_mode <KNITRO_IP_-_Feasible_mode>`  
 
 
 

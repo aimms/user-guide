@@ -43,8 +43,8 @@ The clone log files are written in the project folder (and not to the log direct
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-barrier_display` 
-*	:ref:`option-ODHCPLEX-global_thread_limit`  
-*	:ref:`option-ODHCPLEX-mip_display` 
-*	:ref:`option-ODHCPLEX-mip_interval` 
-*	:ref:`option-ODHCPLEX-simplex_display` 
+*	:doc:`ODH_XLogging_-_Barrier_Display <ODH_XLogging_-_Barrier_Display>` 
+*	:doc:`ODH_XPar_-_GlobalThreadLimit <../CPLEX Parallel/ODH_XPar_-_GlobalThreadLimit>`  
+*	:doc:`ODH_XLogging_-_MIP_Display <ODH_XLogging_-_MIP_Display>` 
+*	:doc:`ODH_XLogging_-_MIP_Interval <ODH_XLogging_-_MIP_Interval>` 
+*	:doc:`ODH_XLogging_-_Simplex_Display <ODH_XLogging_-_Simplex_Display>` 

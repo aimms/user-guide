@@ -18,6 +18,6 @@ This option specifies the maximum number of iterations to allow for MIP strong b
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-mip_branching_rule`  
-*	:ref:`option-KNITRO-strong_branching_candidates_limit`  
-*	:ref:`option-KNITRO-strong_branching_level`  
+*	:doc:`KNITRO_MIP_-_MIP_Branching_Rule <KNITRO_MIP_-_MIP_Branching_Rule>`  
+*	:doc:`KNITRO_MIP_-_Strong_Branch_Candidates_Limit <KNITRO_MIP_-_Strong_Branch_Candidates_Limit>`  
+*	:doc:`KNITRO_MIP_-_Strong_Branching_Level <KNITRO_MIP_-_Strong_Branching_Level>`  

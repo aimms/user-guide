@@ -30,4 +30,4 @@ Setting 'Before' means that the greedy heuristic is used before preprocessing if
 
 **Learn more about** 
 
-*	:ref:`option-CBC-heuristics`  
+*	:doc:`CBC_MIP_Heur_-_Heuristics <CBC_MIP_Heur_-_Heuristics>`  

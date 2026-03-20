@@ -42,6 +42,6 @@ If several related problems are to be solved, the following strategy for setting
 
 **Learn more about** 
 
-*	:ref:`option-MINOS-damping_parameter`  
-*	:ref:`option-MINOS-maximum_number_of_total_iterations`  
-*	:ref:`option-MINOS-radius_of_convergence`  
+*	:doc:`DampingParameter <DampingParameter>`  
+*	:doc:`Limits_-_Maximum_Number_of_Tot <../Limits/Limits_-_Maximum_Number_of_Tot>`  
+*	:doc:`RadiusofConvergence <RadiusofConvergence>`  

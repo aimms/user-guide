@@ -17,5 +17,5 @@ This option specifies the relative pivot tolerance used during the search for a 
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-absolute_pivot_tolerance_nonlinear_elements`  
-*	:ref:`option-CONOPT-relative_pivot_tolerance_initial_basis`  
+*	:doc:`CONOPT_Pivot_-_Absolute_Pivot_Tol_Nonlinear_Elements <CONOPT_Pivot_-_Absolute_Pivot_Tol_Nonlinear_Elements>`  
+*	:doc:`CONOPT_Pivot_-_Relative_Pivot_Tol_Initial_Basis <CONOPT_Pivot_-_Relative_Pivot_Tol_Initial_Basis>`  

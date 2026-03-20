@@ -10,7 +10,7 @@ CPLEX allows the calculation of a minimum-cost relaxation for a given mathematic
 
 
 
-Feasibility relaxation can be enabled by adding penalty values to the mathematical program and setting the option :ref:`option-AIMMS-feasibility_relaxation` to "Advanced" (keeping the option at "Standard" will apply the regular AIMMS method of violation penalties).
+Feasibility relaxation can be enabled by adding penalty values to the mathematical program and setting the option :doc:`Feasibility_relaxation <../../Aimms/Options/Solvers General/Infeasibility analysis/Feasibility_relaxation>` to "Advanced" (keeping the option at "Standard" will apply the regular AIMMS method of violation penalties).
 
 Feasibility relaxation allows several options for the objective in the minimum-cost relaxation. The options are: 
 
@@ -25,11 +25,11 @@ Here, the weights are the penalty values that are specified for the mathematical
 
 
 
-The objective for the minimum-cost relaxation can be set using the option :ref:`option-AIMMS-feasibility_relaxation_objective`. 
+The objective for the minimum-cost relaxation can be set using the option :doc:`Feasibility_relaxation_objecti <../../Aimms/Options/Solvers General/Infeasibility analysis/Feasibility_relaxation_objecti>`. 
 
 
 
-After computing a minimum-cost relaxation (also referred to as 'Phase I'), CPLEX can optionally optimize the original objective among all solutions with a minimum-cost relaxation ('Phase II'). This can be enabled by setting the option :ref:`option-AIMMS-feasibility_relaxation_optimize_original_objective`.
+After computing a minimum-cost relaxation (also referred to as 'Phase I'), CPLEX can optionally optimize the original objective among all solutions with a minimum-cost relaxation ('Phase II'). This can be enabled by setting the option :doc:`Feasibility_relaxation_optimiz <../../Aimms/Options/Solvers General/Infeasibility analysis/Feasibility_relaxation_optimiz>`.
 
 If this option is disabled, AIMMS will stop after Phase I and return a minimum-cost relaxation. If the option is enabled, AIMMS will continue to Phase II and return a solution that optimizes the original objective, among all solutions with a minimum cost violation. 
 
@@ -49,7 +49,7 @@ If this option is disabled, AIMMS will stop after Phase I and return a minimum-c
 
 
 * 	`Violation penalties <https://documentation.aimms.com/language-reference/optimization-modeling-components/solving-mathematical-programs/infeasibility-analysis.html>`_ (Language Reference)
-*	:ref:`option-AIMMS-feasibility_relaxation` 
-*	:ref:`option-AIMMS-feasibility_relaxation_objective` 
-*	:ref:`option-AIMMS-feasibility_relaxation_optimize_original_objective` 
-*	:ref:`option-CPLEX-feasopt_tolerance` 
+*	:doc:`Feasibility_relaxation <../../Aimms/Options/Solvers General/Infeasibility analysis/Feasibility_relaxation>` 
+*	:doc:`Feasibility_relaxation_objecti <../../Aimms/Options/Solvers General/Infeasibility analysis/Feasibility_relaxation_objecti>` 
+*	:doc:`Feasibility_relaxation_optimiz <../../Aimms/Options/Solvers General/Infeasibility analysis/Feasibility_relaxation_optimiz>` 
+*	:doc:`CPLEX_General_-_Feasopt_tolerance <General/CPLEX_General_-_Feasopt_tolerance>` 

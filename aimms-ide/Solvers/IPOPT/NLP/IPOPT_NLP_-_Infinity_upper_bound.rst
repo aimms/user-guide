@@ -11,4 +11,4 @@ Any bound greater than or equal to this value will be considered +inf (i.e., not
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-minus_infinity_lower_bound` 
+*	:doc:`IPOPT_NLP_-_Minus_infinity_lower_bound <IPOPT_NLP_-_Minus_infinity_lower_bound>` 

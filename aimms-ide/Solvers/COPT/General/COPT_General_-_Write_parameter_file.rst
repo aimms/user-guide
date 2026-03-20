@@ -22,7 +22,7 @@ By setting this option to 'Yes' a COPT parameter file will be written. The file 
 
 
 
-The parameter file uses COPT names instead of AIMMS names for the options. The :ref:`COPT_to_AIMMS_Mapping`  can be used to find the COPT parameter name corresponding to an option in AIMMS.
+The parameter file uses COPT names instead of AIMMS names for the options. The :doc:`COPT_to_AIMMS_Mapping <../COPT_to_AIMMS_Mapping>`  can be used to find the COPT parameter name corresponding to an option in AIMMS.
 
 
 
@@ -30,5 +30,5 @@ The parameter file uses COPT names instead of AIMMS names for the options. The :
 
 **Learn more about** 
 
-*	:ref:`option-COPT-mps` 
-*	:ref:`COPT_to_AIMMS_Mapping` 
+*	:doc:`COPT_General_-_MPS <COPT_General_-_MPS>` 
+*	:doc:`COPT_to_AIMMS_Mapping <../COPT_to_AIMMS_Mapping>` 

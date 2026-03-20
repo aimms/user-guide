@@ -18,4 +18,4 @@ This option can be used to limit the variable substitutions by the **Aggregator*
 
 **Learn more about** 
 
-*	 :ref:`option-CPLEX-aggregator` 
+*	 :doc:`CPLEX_Prepr_-_Aggregator <CPLEX_Prepr_-_Aggregator>` 

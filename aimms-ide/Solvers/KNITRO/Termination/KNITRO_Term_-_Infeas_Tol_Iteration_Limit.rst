@@ -18,4 +18,4 @@ This option can be used to control termination when there is little progress in 
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-infeasibility_tolerance` 
+*	:doc:`KNITRO_Tol_-_Infeasibility_Tolerance <../Tolerances/KNITRO_Tol_-_Infeasibility_Tolerance>` 

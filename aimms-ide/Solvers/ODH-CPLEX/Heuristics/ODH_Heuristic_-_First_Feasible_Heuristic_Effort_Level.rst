@@ -35,5 +35,5 @@ The larger the effort level, the more effort is expended before giving up.
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-first_feasible_heuristic`  
-*	:ref:`option-ODHCPLEX-search_mode`  
+*	:doc:`ODH_Heuristic_-_First_Feasible_Heuristic <ODH_Heuristic_-_First_Feasible_Heuristic>`  
+*	:doc:`ODH_General_-_Search_Mode <../General/ODH_General_-_Search_Mode>`  

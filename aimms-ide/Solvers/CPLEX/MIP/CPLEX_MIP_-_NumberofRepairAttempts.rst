@@ -32,4 +32,4 @@ if no MIP start was supplied. Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-advanced_start` 
+*	:doc:`CPLEX_General_-_AdvancedStart <../General/CPLEX_General_-_AdvancedStart>` 

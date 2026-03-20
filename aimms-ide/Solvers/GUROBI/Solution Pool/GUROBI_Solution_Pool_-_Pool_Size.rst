@@ -25,4 +25,4 @@ This option determines how many MIP solutions are stored. For non-default values
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-pool_search_mode` 
+*	:doc:`GUROBI_Solution_Pool_-_Pool_Search_Mode <GUROBI_Solution_Pool_-_Pool_Search_Mode>` 

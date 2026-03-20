@@ -18,5 +18,5 @@ CPLEX decides. This option is ignored if the option **Gomory Cuts** is not set t
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-gomory_cuts`  
+*	:doc:`CPLEX_Cuts_-_Gomory_Cuts <CPLEX_Cuts_-_Gomory_Cuts>`  
 

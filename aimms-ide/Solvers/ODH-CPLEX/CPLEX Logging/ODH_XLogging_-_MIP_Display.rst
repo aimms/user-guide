@@ -55,12 +55,12 @@ The logging information is written to the AIMMS message window if the general so
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-barrier_display` 
-*	:ref:`option-ODHCPLEX-mip_display` 
-*	:ref:`option-ODHCPLEX-simplex_display` 
-*	:ref:`option-AIMMS-solver_listing_messages`   (General solvers option)
-*	:ref:`option-AIMMS-solver_window_messages`   (General solvers option)
-*	:ref:`option-ODHCPLEX-status_display` 
+*	:doc:`ODH_XLogging_-_Barrier_Display <ODH_XLogging_-_Barrier_Display>` 
+*	:doc:`ODH_XLogging_-_MIP_Display <ODH_XLogging_-_MIP_Display>` 
+*	:doc:`ODH_XLogging_-_Simplex_Display <ODH_XLogging_-_Simplex_Display>` 
+*	:doc:`Solver_Specific_-_Solver_List1 <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1>`   (General solvers option)
+*	:doc:`Solver_Specific_-_Solver_Windo <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_Windo>`   (General solvers option)
+*	:doc:`ODH_Logging_-_Status_Display <../Logging/ODH_Logging_-_Status_Display>` 
 
 
 

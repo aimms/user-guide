@@ -22,5 +22,5 @@ This option only has effect if the option **Tuner**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`option-AIMMS-time_limit`  
-*	:ref:`option-KNITRO-tuner`  
+*	:doc:`Stop_Criteria_-_Time_Limit <../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>`  
+*	:doc:`KNITRO_Tuner_-_Tuner <KNITRO_Tuner_-_Tuner>`  

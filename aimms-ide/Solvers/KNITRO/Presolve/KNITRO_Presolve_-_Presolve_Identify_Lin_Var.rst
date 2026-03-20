@@ -24,4 +24,4 @@ This option determines whether or not Knitro should try to identify linear varia
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-presolve`  
+*	:doc:`KNITRO_Presolve_-_Presolve <KNITRO_Presolve_-_Presolve>`  

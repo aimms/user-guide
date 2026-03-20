@@ -22,5 +22,5 @@ The initial fail limit can be controlled with the option **Restart Failure Limit
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-restart_failure_limit` 
-*	:ref:`option-CPOPT-search_type` 
+*	:doc:`CPOPT_Search_-_Restart_failure_limit <CPOPT_Search_-_Restart_failure_limit>` 
+*	:doc:`CPOPT_Search_-_Search_type <CPOPT_Search_-_Search_type>` 

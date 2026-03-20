@@ -17,4 +17,4 @@ This option sets a lower bound for scale factors based on large 2nd derivatives.
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-minimal_scaling_factor`  
+*	:doc:`CONOPT_Scaling_-_Minimal_Scaling_Factor <CONOPT_Scaling_-_Minimal_Scaling_Factor>`  

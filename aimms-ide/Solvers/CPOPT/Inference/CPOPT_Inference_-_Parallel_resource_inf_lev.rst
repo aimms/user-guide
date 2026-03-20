@@ -31,4 +31,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-default_inference_level` 
+*	:doc:`CPOPT_Inference_-_Default_inference_level <CPOPT_Inference_-_Default_inference_level>` 

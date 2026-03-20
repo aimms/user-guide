@@ -26,7 +26,7 @@ The setting of this option specifies the amount by which an integer variable can
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-feasibility`  
+*	:doc:`ODH_XSimplex_-_Feasibility <../CPLEX Simplex/ODH_XSimplex_-_Feasibility>`  
 
 
 

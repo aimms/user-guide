@@ -20,6 +20,6 @@ This option determines the convergence tolerance for the algorithm. The algorith
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-acceptable_relative_convergence_tolerance` 
-*	:ref:`option-IPOPT-complementarity_tolerance` 
-*	:ref:`option-IPOPT-dual_infeasibility_tolerance` 
+*	:doc:`IPOPT_Termination_-_Acceptable_relative_convergence_tolerance <IPOPT_Termination_-_Acceptable_relative_convergence_tolerance>` 
+*	:doc:`IPOPT_Termination_-_Complementarity_tolerance <IPOPT_Termination_-_Complementarity_tolerance>` 
+*	:doc:`IPOPT_Termination_-_Dual_infeasibility_tolerance <IPOPT_Termination_-_Dual_infeasibility_tolerance>` 

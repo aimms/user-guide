@@ -18,7 +18,7 @@ The solve is stopped if the value of the merit function is below the value of th
 
 **Learn more about** 
 
-*	:ref:`option-PATH-merit_function`  
+*	:doc:`PATH_General_-_Merit_Function <PATH_General_-_Merit_Function>`  
 
 
 

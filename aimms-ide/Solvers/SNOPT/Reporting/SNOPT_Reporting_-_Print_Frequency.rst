@@ -18,5 +18,5 @@ This option determines the frequency of which output for minor iterations is wri
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-minor_print_level`  
-*	:ref:`option-SNOPT-print_output_file`  
+*	:doc:`SNOPT_Reporting_-_Minor_Print_Level <SNOPT_Reporting_-_Minor_Print_Level>`  
+*	:doc:`SNOPT_Reporting_-_Print_Output_File <SNOPT_Reporting_-_Print_Output_File>`  

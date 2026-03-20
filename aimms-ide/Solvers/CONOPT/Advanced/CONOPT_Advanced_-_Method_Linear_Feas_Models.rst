@@ -24,7 +24,7 @@ This option specifies the method used for the Linear Feasibility Models. Possibl
 
 
 
-The Linear Feasibility Model and the three methods are described in the section :ref:`CONOPT_Description_of_CONOPT_Algorithm`.
+The Linear Feasibility Model and the three methods are described in the section :doc:`CONOPT_Description_of_CONOPT_Algorithm <../CONOPT_Description_of_CONOPT_Algorithm>`.
 
 
 
@@ -39,8 +39,8 @@ The Linear Feasibility Model and the three methods are described in the section 
 
 **Learn more about** 
 
-*	:ref:`CONOPT_Description_of_CONOPT_Algorithm` 
-*	:ref:`option-CONOPT-limit_on_linear_feasibility_model_rounds`  
+*	:doc:`CONOPT_Description_of_CONOPT_Algorithm <../CONOPT_Description_of_CONOPT_Algorithm>` 
+*	:doc:`CONOPT_Limits_-_Limit_Linear_Feas_Model_Rounds <../Limits/CONOPT_Limits_-_Limit_Linear_Feas_Model_Rounds>`  
 
 
 

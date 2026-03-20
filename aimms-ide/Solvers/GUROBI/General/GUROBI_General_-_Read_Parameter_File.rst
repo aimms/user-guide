@@ -32,7 +32,7 @@ that begins with the hash sign (#) is a comment line and is ignored. The followi
 **Multi-objective optimization** 
 
 
-During the solution process of a :ref:`GUROBI_Multi-Objective_Optimization` problem, you may prefer that optimization problems with different
+During the solution process of a :doc:`GUROBI_Multi-Objective_Optimization <../GUROBI_Multi-Objective_Optimization>` problem, you may prefer that optimization problems with different
 priorities are solved with different option settings. Gurobi makes this possible by using parameter files. The parameter file of the first
 optimization problem, tied to the highest priority (possibly blended) objective, should be named 'gurobi_mo1.prm', the parameter file of the
 second optimization problem should be named 'gurobi_mo2.prm', etc. You do not have to create a parameter file for every multi-objective
@@ -62,14 +62,14 @@ and the files should be named 'gurobi_inst1.prm', 'gurobi_inst2.prm', etc.
 
 **Note** 
 
-*	The parameter file uses Gurobi names instead of AIMMS names for the options. The :ref:`AIMMS_to_GUROBI_Mapping` can be used to find the Gurobi parameter name corresponding to an option in AIMMS.
+*	The parameter file uses Gurobi names instead of AIMMS names for the options. The :doc:`AIMMS_to_GUROBI_Mapping <../AIMMS_to_GUROBI_Mapping>` can be used to find the Gurobi parameter name corresponding to an option in AIMMS.
 *	If the setting of an option was changed in the AIMMS project, and the option is not present in the parameter file, then the AIMMS option setting will be used. In other words, the parameter file does not reset options to their default value if they are not present in the parameter file.
 
 
 **Learn more about** 
 
-*	:ref:`AIMMS_to_GUROBI_Mapping`  
-*	:ref:`option-GUROBI-concurrent_mip` 
-*	:ref:`option-AIMMS-mip_relative_optimality_tolerance` 
-*	:ref:`GUROBI_Multi-Objective_Optimization` 
-*	:ref:`option-AIMMS-time_limit` 
+*	:doc:`AIMMS_to_GUROBI_Mapping <../AIMMS_to_GUROBI_Mapping>`  
+*	:doc:`GUROBI_Parallel_-_Concurrent_MIP <../Parallel/GUROBI_Parallel_-_Concurrent_MIP>` 
+*	:doc:`MIP_Options_-_MIP_Relative_Opt <../../../Aimms/Options/Solvers General/MIP Options/MIP_Options_-_MIP_Relative_Opt>` 
+*	:doc:`GUROBI_Multi-Objective_Optimization <../GUROBI_Multi-Objective_Optimization>` 
+*	:doc:`Stop_Criteria_-_Time_Limit <../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>` 

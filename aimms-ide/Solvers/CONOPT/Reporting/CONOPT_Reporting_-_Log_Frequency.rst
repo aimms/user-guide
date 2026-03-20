@@ -6,7 +6,7 @@ Log Frequency
 
 
 :Type:	Integer	
-:Range:	{1 .. :ref:`Miscellaneous_Maxint`}	
+:Range:	{1 .. :doc:`Maxint <../../../Aimms/Miscellaneous/Short Descriptions/Maxint>`}	
 :Default:	1	
 
 
@@ -24,7 +24,7 @@ This option determines the frequency for printing the iteration log. The iterati
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-log_frequency_slp_and_sqp`  
+*	:doc:`CONOPT_Reporting_-_Log_Frequency_SLP_SQP <CONOPT_Reporting_-_Log_Frequency_SLP_SQP>`  
 
 
 

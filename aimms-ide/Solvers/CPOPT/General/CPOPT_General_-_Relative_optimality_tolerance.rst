@@ -22,4 +22,4 @@ This option is used in conjunction with option **Optimality Tolerance**. The opt
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-optimality_tolerance` 
+*	:doc:`CPOPT_General_-_Optimality_tolerance <CPOPT_General_-_Optimality_tolerance>` 

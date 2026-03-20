@@ -33,5 +33,5 @@ improve the numerical performance of the algorithm at the expense of computation
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-barrier_display` 
+*	:doc:`CPLEX_Logging_-_Barrier_Display <../Logging/CPLEX_Logging_-_Barrier_Display>` 
 

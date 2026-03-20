@@ -35,7 +35,7 @@ If this option is turned on, the AIMMS names of the variables and constraints ar
 
 **Learn more about** 
 
-*	:ref:`option-Baron-keep_model_file` 
+*	:doc:`BARON_Logging_-_Keep_model_file <BARON_Logging_-_Keep_model_file>` 
 
 
 

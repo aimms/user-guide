@@ -22,5 +22,5 @@ If set to 0, Knitro chooses this value based on the solver and context. Currentl
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-mip_method` 
-*	:ref:`option-KNITRO-solution_progress_tolerance` 
+*	:doc:`KNITRO_MIP_-_MIP_Method <../MIP/KNITRO_MIP_-_MIP_Method>` 
+*	:doc:`KNITRO_Advanced_-_SolutionProgressTol <KNITRO_Advanced_-_SolutionProgressTol>` 

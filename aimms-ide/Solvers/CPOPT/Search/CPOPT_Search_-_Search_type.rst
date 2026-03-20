@@ -64,12 +64,12 @@ The value 'Neighborhood' is new in CP Optimizer If this value is selected then a
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-dynamic_probing` 
-*	:ref:`option-CPOPT-number_of_search_points` 
-*	:ref:`option-CPOPT-number_of_workers` 
-*	:ref:`option-CPOPT-restart_failure_limit` 
-*	:ref:`option-CPOPT-restart_growth_factor` 
-*	:ref:`option-CPOPT-starting_point` 
+*	:doc:`CPOPT_Search_-_Dynamic_probing <CPOPT_Search_-_Dynamic_probing>` 
+*	:doc:`CPOPT_Search_-_Number_of_search_points <CPOPT_Search_-_Number_of_search_points>` 
+*	:doc:`CPOPT_Parallel_-_Number_of_workers <../Parallel/CPOPT_Parallel_-_Number_of_workers>` 
+*	:doc:`CPOPT_Search_-_Restart_failure_limit <CPOPT_Search_-_Restart_failure_limit>` 
+*	:doc:`CPOPT_Search_-_Restart_growth_factor <CPOPT_Search_-_Restart_growth_factor>` 
+*	:doc:`CPOPT_General_-_Starting_point <../General/CPOPT_General_-_Starting_point>` 
 
 
 

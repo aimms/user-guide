@@ -29,8 +29,8 @@ If this option is set too small, Gurobi may falsely conclude that the problem is
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-feasibility`  
-*	:ref:`option-GUROBI-integrality_focus`  
+*	:doc:`GUROBI_General_-_Feasibility <../General/GUROBI_General_-_Feasibility>`  
+*	:doc:`GUROBI_MIP_-_Integrality_Focus <GUROBI_MIP_-_Integrality_Focus>`  
 
 
 

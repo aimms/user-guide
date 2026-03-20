@@ -27,12 +27,12 @@ CP Optimizer now maintains a bound on the objective (a lower bound for minimizat
 **Learn more about** 
 
 *	`CP Optimizer <https://www.ibm.com/products/ilog-cplex-optimization-studio/cplex-cp-optimizer>`_ (Internet link)
-*	:ref:`CPOPT_to_AIMMS_Mapping`  
-*	:ref:`AIMMS_to_CPOPT_Mapping`  
-*	:ref:`Options_AIMMS_Execution_Options`  
-*	:ref:`option-AIMMS-maximal_number_of_integer_solutions`  
-*	:ref:`option-AIMMS-mip_absolute_optimality_tolerance`  
-*	:ref:`option-AIMMS-mip_relative_optimality_tolerance`  
-*	:ref:`option-CPOPT-optimality_tolerance` 
-*	:ref:`option-CPOPT-relative_optimality_tolerance` 
-*	:ref:`option-CPOPT-solution_limit` 
+*	:doc:`CPOPT_to_AIMMS_Mapping <CPOPT_to_AIMMS_Mapping>`  
+*	:doc:`AIMMS_to_CPOPT_Mapping <AIMMS_to_CPOPT_Mapping>`  
+*	:doc:`AIMMS_Execution_Options <../../Aimms/Options/AIMMS_Execution_Options>`  
+*	:doc:`MIP_Options_-_Maximal_Number_o <../../Aimms/Options/Solvers General/MIP Options/MIP_Options_-_Maximal_Number_o>`  
+*	:doc:`MIP_Options_-_MIP_Absolute_Opt <../../Aimms/Options/Solvers General/MIP Options/MIP_Options_-_MIP_Absolute_Opt>`  
+*	:doc:`MIP_Options_-_MIP_Relative_Opt <../../Aimms/Options/Solvers General/MIP Options/MIP_Options_-_MIP_Relative_Opt>`  
+*	:doc:`CPOPT_General_-_Optimality_tolerance <General/CPOPT_General_-_Optimality_tolerance>` 
+*	:doc:`CPOPT_General_-_Relative_optimality_tolerance <General/CPOPT_General_-_Relative_optimality_tolerance>` 
+*	:doc:`CPOPT_General_-_Solution_limit <General/CPOPT_General_-_Solution_limit>` 

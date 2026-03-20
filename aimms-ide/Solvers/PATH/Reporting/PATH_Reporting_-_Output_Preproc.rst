@@ -18,7 +18,7 @@ This option controls the level of preprocessing information written to the PATH 
 
 **Learn more about** 
 
-*	:ref:`option-PATH-create_status_file`  
+*	:doc:`PATH_Reporting_-_CreateStatFile <PATH_Reporting_-_CreateStatFile>`  
 
 
 

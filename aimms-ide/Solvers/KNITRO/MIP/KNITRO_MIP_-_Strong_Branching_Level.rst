@@ -18,6 +18,6 @@ This option specifies the maximum number of tree levels on which to perform MIP 
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-mip_branching_rule`  
-*	:ref:`option-KNITRO-strong_branching_candidates_limit`  
-*	:ref:`option-KNITRO-strong_branching_iteration_limit`  
+*	:doc:`KNITRO_MIP_-_MIP_Branching_Rule <KNITRO_MIP_-_MIP_Branching_Rule>`  
+*	:doc:`KNITRO_MIP_-_Strong_Branch_Candidates_Limit <KNITRO_MIP_-_Strong_Branch_Candidates_Limit>`  
+*	:doc:`KNITRO_MIP_-_Strong_Branch_Iter_Limit <KNITRO_MIP_-_Strong_Branch_Iter_Limit>`  

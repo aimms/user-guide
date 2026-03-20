@@ -42,5 +42,5 @@ This option is currently only used for the Knitro barrier/interior-point algorit
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-algorithm` 
-*	:ref:`option-KNITRO-initial_barrier_parameter_value` 
+*	:doc:`KNITRO_General_-_Algorithm <KNITRO_General_-_Algorithm>` 
+*	:doc:`KNITRO_IP_-_InitBarParValue <../Interior Point/KNITRO_IP_-_InitBarParValue>` 

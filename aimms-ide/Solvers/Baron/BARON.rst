@@ -94,7 +94,7 @@ value will be passed. BARON might sometimes return 'infeasible' if the value of 
 
 
 
-BARON can use branching priorities for continuous and integer variables; see the section about :ref:`Baron_Variable_Priorities`.
+BARON can use branching priorities for continuous and integer variables; see the section about :doc:`BARON_Variable_Priorities <BARON_Variable_Priorities>`.
 
 
 
@@ -134,20 +134,20 @@ off. Therefore we advice to switch this option off when using BARON.
 **Learn more about** 
 
 *   `BARON <https://minlp.com>`_ (Internet link)
-*   :ref:`BARON_to_AIMMS_Mapping`  
-*   :ref:`AIMMS_to_BARON_Mapping`  
-*   :ref:`Options_AIMMS_Execution_Options`  
-*   :ref:`Baron_Convex_constraints` 
-*   :ref:`Baron_Relaxation_only_constr` 
-*   :ref:`option-Baron-maximal_variable_bound` 
-*   :ref:`option-AIMMS-nonlinear_presolve` 
-*   :ref:`option-AIMMS-combine_quadratic_terms`  
-*   :ref:`Baron_Variable_Priorities` 
-*   :ref:`Baron_Improving_MINLP_Performance` 
-*   :ref:`option-Baron-absolute_termination_tolerance` 
-*   :ref:`option-Baron-compute_iis` 
-*   :ref:`option-Baron-cut_off` 
-*   :ref:`option-Baron-relative_termination_tolerance` 
+*   :doc:`BARON_to_AIMMS_Mapping <BARON_to_AIMMS_Mapping>`  
+*   :doc:`AIMMS_to_BARON_Mapping <AIMMS_to_BARON_Mapping>`  
+*   :doc:`AIMMS_Execution_Options <../../Aimms/Options/AIMMS_Execution_Options>`  
+*   :doc:`BARON_Convex_constraints <BARON_Convex_constraints>` 
+*   :doc:`BARON_Relaxation_only_constr <BARON_Relaxation_only_constr>` 
+*   :doc:`BARON_General_-_Maximal_variable_bound <General/BARON_General_-_Maximal_variable_bound>` 
+*   :doc:`NonlinPres_-_NonlinearPresolve <../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_NonlinearPresolve>` 
+*   :doc:`Interface-CombineQuadratic <../../Aimms/Options/Solvers General/Interface/Interface-CombineQuadratic>`  
+*   :doc:`BARON_Variable_Priorities <BARON_Variable_Priorities>` 
+*   :doc:`BARON_Improving_MINLP_Performance <BARON_Improving_MINLP_Performance>` 
+*   :doc:`BARON_Termination_-_Absolute_terminat <Termination/BARON_Termination_-_Absolute_terminat>` 
+*   :doc:`BARON_General_-_Compute_IIS <General/BARON_General_-_Compute_IIS>` 
+*   :doc:`BARON_General_-_Cutoff <General/BARON_General_-_Cutoff>` 
+*   :doc:`BARON_Termination_-_Relative_terminat <Termination/BARON_Termination_-_Relative_terminat>` 
 
 
 

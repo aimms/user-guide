@@ -124,8 +124,8 @@ penalty constant is sufficiently large, this is equivalent to minimizing the sum
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-elastic_weight`  
-*	:ref:`option-SNOPT-optimality_tolerance`  
+*	:doc:`SNOPT_Advanced_-_Elastic_Weight <Advanced/SNOPT_Advanced_-_Elastic_Weight>`  
+*	:doc:`SNOPT_Limits_-_Optimality_Tolerance <Limits/SNOPT_Limits_-_Optimality_Tolerance>`  
 
 
 

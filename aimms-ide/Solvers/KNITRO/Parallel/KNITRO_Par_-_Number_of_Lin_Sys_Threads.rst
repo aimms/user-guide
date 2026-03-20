@@ -29,5 +29,5 @@ This option only has effect if the option **Linear Solver**  is set to 'MKL PARD
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-linear_solver`  
-*	:ref:`option-KNITRO-number_of_blas_threads` 
+*	:doc:`KNITRO_General_-_Linear_Solver <../General/KNITRO_General_-_Linear_Solver>`  
+*	:doc:`KNITRO_Par_-_Number_of_BLAS_threads <KNITRO_Par_-_Number_of_BLAS_threads>` 

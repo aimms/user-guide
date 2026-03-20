@@ -27,4 +27,4 @@ This option specifies the factor for initialization of maximum value for the bar
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 
+*	:doc:`IPOPT_Barrier_-_Barrier_parameter_update_strategy <IPOPT_Barrier_-_Barrier_parameter_update_strategy>` 

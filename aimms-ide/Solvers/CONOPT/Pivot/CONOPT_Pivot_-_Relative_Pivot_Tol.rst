@@ -17,4 +17,4 @@ A pivot element is only considered acceptable relative to other elements in the 
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-absolute_pivot_tolerance_nonlinear_elements`  
+*	:doc:`CONOPT_Pivot_-_Absolute_Pivot_Tol_Nonlinear_Elements <CONOPT_Pivot_-_Absolute_Pivot_Tol_Nonlinear_Elements>`  

@@ -27,8 +27,8 @@ XA does not round the found integer values of a MIP to the nearest integer value
 
 **Learn more about** 
 
-*	:ref:`option-XA-lower_integer_tolerance`  
-*	:ref:`option-XA-upper_integer_tolerance`  
+*	:doc:`XA_MIP_-_Lower_Integer_Tolerance <XA_MIP_-_Lower_Integer_Tolerance>`  
+*	:doc:`XA_MIP_-_Upper_Integer_Tolerance <XA_MIP_-_Upper_Integer_Tolerance>`  
 
 
 

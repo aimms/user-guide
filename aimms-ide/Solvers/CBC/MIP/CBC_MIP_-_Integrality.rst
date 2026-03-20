@@ -29,4 +29,4 @@ If this option is set too small, CBC may falsely conclude that the problem is in
 
 **Learn more about** 
 
-*	:ref:`option-CBC-primal_feasibility_tolerance`  
+*	:doc:`CBC_General_-_Primal_feasibility_tol <../General/CBC_General_-_Primal_feasibility_tol>`  

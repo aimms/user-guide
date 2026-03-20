@@ -24,5 +24,5 @@ This option is also used in the adaptive barrier parameter strategy during the m
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 
-*	:ref:`option-IPOPT-superlinear_decrease_rate_barrier_parameter` 
+*	:doc:`IPOPT_Barrier_-_Barrier_parameter_update_strategy <IPOPT_Barrier_-_Barrier_parameter_update_strategy>` 
+*	:doc:`IPOPT_Barrier_-_Superlinear_decrease_rate_barrier_parameter <IPOPT_Barrier_-_Superlinear_decrease_rate_barrier_parameter>` 

@@ -78,15 +78,15 @@ This option sets the maximal number of restarts that PATH should make if it coul
 
 **Learn more about** 
 
-*	:ref:`option-PATH-gradient_search_type`  
-*	:ref:`option-PATH-initial_perturbation`  
-*	:ref:`option-PATH-nms_m-step_frequency`  
-*	:ref:`option-PATH-nms_initial_reference_factor`  
-*	:ref:`option-PATH-nms_merit_function_values_storage`  
-*	:ref:`option-PATH-nms_search_type`  
-*	:ref:`option-PATH-crash_method`  
-*	:ref:`option-PATH-crash_method_search_type`  
-*	:ref:`option-PATH-maximal_number_of_basis_changes`  
+*	:doc:`PATH_Advanced_-_Gradient_Search <../Advanced/PATH_Advanced_-_Gradient_Search>`  
+*	:doc:`PATH_Advanced_-_Initial_Perturb <../Advanced/PATH_Advanced_-_Initial_Perturb>`  
+*	:doc:`PATH_Advanced_-_NMS_m-Step_Freq <../Advanced/PATH_Advanced_-_NMS_m-Step_Freq>`  
+*	:doc:`PATH_Advanced_-_NMS_Initial_Ref <../Advanced/PATH_Advanced_-_NMS_Initial_Ref>`  
+*	:doc:`PATH_Advanced_-_NMS_Merit_Funct <../Advanced/PATH_Advanced_-_NMS_Merit_Funct>`  
+*	:doc:`PATH_Advanced_-_NMS_Search_Type <../Advanced/PATH_Advanced_-_NMS_Search_Type>`  
+*	:doc:`PATH_Crash_-_Crash_Method <../Crash/PATH_Crash_-_Crash_Method>`  
+*	:doc:`PATH_Crash_-_Crash_Method_S_Typ <../Crash/PATH_Crash_-_Crash_Method_S_Typ>`  
+*	:doc:`PATH_Crash_-_Max_Nr_Basis_Chang <../Crash/PATH_Crash_-_Max_Nr_Basis_Chang>`  
 
 
 

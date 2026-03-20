@@ -24,6 +24,6 @@ Other termination criteria are specified by the options **PDHG Absolute Feasibil
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-pdhg_absolute_feasibility_tolerance`  
-*	:ref:`option-GUROBI-pdhg_relative_feasibility_tolerance`    
+*	:doc:`GUROBI_PDHG_-_PDHG_Absolute_Feasibility_Tol <GUROBI_PDHG_-_PDHG_Absolute_Feasibility_Tol>`  
+*	:doc:`GUROBI_PDHG_-_PDHG_Relative_Feasibility_Tol <GUROBI_PDHG_-_PDHG_Relative_Feasibility_Tol>`    
 

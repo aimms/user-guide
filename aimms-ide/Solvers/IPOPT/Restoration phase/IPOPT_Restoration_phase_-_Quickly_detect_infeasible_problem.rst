@@ -25,5 +25,5 @@ This option can be used to enable heuristics to quickly detect an infeasible pro
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-maximum_multipliers_infeasible_problem` 
-*	:ref:`option-IPOPT-minimum_violation_infeasible_problem` 
+*	:doc:`IPOPT_Restoration_phase_-_Maximum_multipliers_infeasible_problem <IPOPT_Restoration_phase_-_Maximum_multipliers_infeasible_problem>` 
+*	:doc:`IPOPT_Restoration_phase_-_Minimum_violation_infeasible_problem <IPOPT_Restoration_phase_-_Minimum_violation_infeasible_problem>` 

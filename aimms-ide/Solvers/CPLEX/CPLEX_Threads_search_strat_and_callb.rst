@@ -107,7 +107,7 @@ to a value strictly larger than 1.
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-global_thread_limit` 
-*	:ref:`option-CPLEX-mip_search_strategy` 
-*	:ref:`option-CPLEX-parallel_mode` 
-*	:ref:`option-CPLEX-use_generic_callbacks` 
+*	:doc:`CPLEX_Par_-_GlobalThreadLimit <Parallel/CPLEX_Par_-_GlobalThreadLimit>` 
+*	:doc:`CPLEX_MIP_-_MIP_Search_Strategy <MIP/CPLEX_MIP_-_MIP_Search_Strategy>` 
+*	:doc:`CPLEX_Par_-_Parallel_Mode <Parallel/CPLEX_Par_-_Parallel_Mode>` 
+*	:doc:`CPLEX_MIP_-_Use_Generic_Callbacks <MIP/CPLEX_MIP_-_Use_Generic_Callbacks>` 

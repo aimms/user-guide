@@ -38,6 +38,6 @@ In case of strong branching, the options **Strong Branching Candidates Limit**, 
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-strong_branching_candidates_limit`  
-*	:ref:`option-KNITRO-strong_branching_iteration_limit`  
-*	:ref:`option-KNITRO-strong_branching_level`  
+*	:doc:`KNITRO_MIP_-_Strong_Branch_Candidates_Limit <KNITRO_MIP_-_Strong_Branch_Candidates_Limit>`  
+*	:doc:`KNITRO_MIP_-_Strong_Branch_Iter_Limit <KNITRO_MIP_-_Strong_Branch_Iter_Limit>`  
+*	:doc:`KNITRO_MIP_-_Strong_Branching_Level <KNITRO_MIP_-_Strong_Branching_Level>`  

@@ -26,4 +26,4 @@ This option controls the block size used by Level 3 BLAS in MA57BD.
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-linear_solver_selection` 
+*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection <IPOPT_Linear_solver_-_Linear_solver_selection>` 

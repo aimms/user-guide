@@ -37,4 +37,4 @@ At setting 'Off' variable bounds are tightened, unless it removes a constraint.
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-presolve`  
+*	:doc:`KNITRO_Presolve_-_Presolve <KNITRO_Presolve_-_Presolve>`  

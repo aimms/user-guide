@@ -36,4 +36,4 @@ aggressively during the optimization process.
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-nonconvex_strategy` 
+*	:doc:`GUROBI_Quadratic_-_Nonconvex_Strategy <../Quadratic/GUROBI_Quadratic_-_Nonconvex_Strategy>` 

@@ -35,7 +35,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-method_for_finding_maximal_tight_step` 
+*	:doc:`CONOPT_Advanced_-_Method_Finding_Max_Tight_Step <CONOPT_Advanced_-_Method_Finding_Max_Tight_Step>` 
 
 
 

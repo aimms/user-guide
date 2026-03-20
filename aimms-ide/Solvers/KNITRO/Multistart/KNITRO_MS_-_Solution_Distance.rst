@@ -31,5 +31,5 @@ This option has only effect if option **Number of Best Solutions**  is activated
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-multistart`  
-*	:ref:`option-KNITRO-number_of_best_solutions`  
+*	:doc:`KNITRO_MS_-_Multistart <KNITRO_MS_-_Multistart>`  
+*	:doc:`KNITRO_MS_-_Number_of_Best_Solutions <KNITRO_MS_-_Number_of_Best_Solutions>`  

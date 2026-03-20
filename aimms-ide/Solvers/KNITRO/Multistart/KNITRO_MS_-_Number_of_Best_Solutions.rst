@@ -35,8 +35,8 @@ This option has only effect if the option **Multistart**  is switched on.
 **Learn more about** 
 
 *	:any:`GMP::Solution::SendToModel`
-*	:ref:`option-KNITRO-multistart`  
-*	:ref:`option-KNITRO-solution_distance` 
+*	:doc:`KNITRO_MS_-_Multistart <KNITRO_MS_-_Multistart>`  
+*	:doc:`KNITRO_MS_-_Solution_Distance <KNITRO_MS_-_Solution_Distance>` 
 
 
 

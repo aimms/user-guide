@@ -36,6 +36,6 @@ to a value unequal to 'Never'.  The file 'CPLEX 22.1.sta' is placed in the log d
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-benders_strategy` 
-*	:ref:`option-AIMMS-solver_listing_messages` 
+*	:doc:`CPLEX_Benders_-_Benders_Strategy <CPLEX_Benders_-_Benders_Strategy>` 
+*	:doc:`Solver_Specific_-_Solver_List1 <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1>` 
 

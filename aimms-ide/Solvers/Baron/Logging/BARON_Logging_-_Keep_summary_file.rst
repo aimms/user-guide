@@ -34,8 +34,8 @@ This option determines whether the summary file should be kept after the model i
 
 **Learn more about** 
 
-*	:ref:`option-Baron-file_name` 
-*	:ref:`option-AIMMS-progress_time_interval` 
+*	:doc:`BARON_Logging_-_File_name <BARON_Logging_-_File_name>` 
+*	:doc:`Progress_Options_-_Progress_Time_Interval <../../../Aimms/Options/AIMMS/Progress, Errors & Warnings/Progress Options/Progress_Options_-_Progress_Time_Interval>` 
 
 
 

@@ -29,6 +29,6 @@ are tuning a single problem with the AIMMS routine :any:`GMP::Tuning::TuneSingle
 
 **Learn more about** 
 
-*	:ref:`CPLEX_Tuning_Tool` 
+*	:doc:`CPLEX_Tuning_Tool <../CPLEX_Tuning_Tool>` 
 *	:any:`GMP::Tuning::TuneSingleGMP`
-*	:ref:`option-CPLEX-tuning_measure` 
+*	:doc:`CPLEX_Tuning_-_Tuning_Measure <CPLEX_Tuning_-_Tuning_Measure>` 

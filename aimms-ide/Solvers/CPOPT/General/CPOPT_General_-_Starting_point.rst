@@ -32,7 +32,7 @@ This option specifies whether a starting point or solution should be passed to C
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-search_type` 
+*	:doc:`CPOPT_Search_-_Search_type <../Search/CPOPT_Search_-_Search_type>` 
 
 
 

@@ -24,5 +24,5 @@ quadratically to an optimum.
 
 **Learn more about** 
 
-*	:ref:`option-MINOS-penalty_parameter`  
-*	:ref:`option-MINOS-row_tolerance`  
+*	:doc:`PenaltyParameter <PenaltyParameter>`  
+*	:doc:`RowTolerance <../Feasibility/RowTolerance>`  

@@ -19,4 +19,4 @@ This option sets the increase factor for x-s perturbation for the very first per
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-hessian_perturbation_increase_factor` 
+*	:doc:`IPOPT_Hessian_perturbation_-_Hessian_perturbation_increase_factor <IPOPT_Hessian_perturbation_-_Hessian_perturbation_increase_factor>` 

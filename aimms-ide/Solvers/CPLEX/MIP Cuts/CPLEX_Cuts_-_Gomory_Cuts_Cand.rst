@@ -18,7 +18,7 @@ This option limits the number of candidate variables for generating Gomory cuts 
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-gomory_cuts`  
+*	:doc:`CPLEX_Cuts_-_Gomory_Cuts <CPLEX_Cuts_-_Gomory_Cuts>`  
 
 
 

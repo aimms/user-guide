@@ -17,7 +17,7 @@ This option determines the slow progress tolerance. The change in the objective 
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-limit_for_slow_progress`  
+*	:doc:`CONOPT_Stop_Criteria_-_Limit_Slow_Progress <CONOPT_Stop_Criteria_-_Limit_Slow_Progress>`  
 
 
 

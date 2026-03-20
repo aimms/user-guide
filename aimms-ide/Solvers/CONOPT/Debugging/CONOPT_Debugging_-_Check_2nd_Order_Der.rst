@@ -6,7 +6,7 @@ Check 2nd Order Derivatives
 
 
 :Type:	Integer	
-:Range:	{-1 .. :ref:`Miscellaneous_Maxint`}		
+:Range:	{-1 .. :doc:`Maxint <../../../Aimms/Miscellaneous/Short Descriptions/Maxint>`}		
 :Default:	0	
 
 
@@ -30,8 +30,8 @@ This options controls how often the second order derivatives are tested. Debuggi
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-check_1st_order_derivatives` 
-*	:ref:`option-CONOPT-tolerance_2nd_order_derivatives_check` 
+*	:doc:`CONOPT_Debugging_-_Check_1st_Order_Der <CONOPT_Debugging_-_Check_1st_Order_Der>` 
+*	:doc:`CONOPT_Debugging_-_Tolerance_2nd_Order_Der_Check <CONOPT_Debugging_-_Tolerance_2nd_Order_Der_Check>` 
 
 
 

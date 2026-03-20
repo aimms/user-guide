@@ -50,7 +50,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-MINOS-crash_tolerance`  
+*	:doc:`Advanced_-_Crash_Tolerance <Advanced_-_Crash_Tolerance>`  
 
 
 

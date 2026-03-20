@@ -24,4 +24,4 @@ This option can be used to anonymize the names of variables and constraints in t
 
 **Learn more about** 
 
-*	:ref:`option-CPOPT-cpo_file` 
+*	:doc:`CPOPT_Logging_-_Cpo_file <CPOPT_Logging_-_Cpo_file>` 

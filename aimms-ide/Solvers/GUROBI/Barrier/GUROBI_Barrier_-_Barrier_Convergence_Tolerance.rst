@@ -22,4 +22,4 @@ Tightening this tolerance often produces a more accurate solution, which can som
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-barrier_qcp_convergence_tolerance` 
+*	:doc:`GUROBI_Barrier_-_Barrier_QCP_Convergence_Tol <GUROBI_Barrier_-_Barrier_QCP_Convergence_Tol>` 

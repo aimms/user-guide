@@ -36,4 +36,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-difference_interval`  
+*	:doc:`SNOPT_SQP_-_DifferenceInterval <SNOPT_SQP_-_DifferenceInterval>`  

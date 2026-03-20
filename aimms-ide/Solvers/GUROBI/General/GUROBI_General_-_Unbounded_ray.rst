@@ -28,6 +28,6 @@ is passed to AIMMS instead of the normal level values for the variables. Possibl
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-barrier_crossover`  
-*	:ref:`option-GUROBI-method`  
-*	:ref:`option-GUROBI-presolve`  
+*	:doc:`GUROBI_Barrier_-_Barrier_Crossover <../Barrier/GUROBI_Barrier_-_Barrier_Crossover>`  
+*	:doc:`GUROBI_General_-_Method <GUROBI_General_-_Method>`  
+*	:doc:`GUROBI_Presolve_-_Presolve <../Presolve/GUROBI_Presolve_-_Presolve>`  

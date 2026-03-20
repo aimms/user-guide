@@ -60,8 +60,8 @@ exactness of the solution is worth the additional cost.
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-algorithm`  
-*	:ref:`option-KNITRO-status_file_display`  
+*	:doc:`KNITRO_General_-_Algorithm <../General/KNITRO_General_-_Algorithm>`  
+*	:doc:`KNITRO_Reporting_-_StatusFileDi <../Reporting/KNITRO_Reporting_-_StatusFileDi>`  
 
 
 

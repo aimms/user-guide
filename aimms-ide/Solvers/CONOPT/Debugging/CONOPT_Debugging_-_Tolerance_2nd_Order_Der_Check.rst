@@ -17,7 +17,7 @@ The second order derivatives calculated by AIMMS are tested by CONOPT if the opt
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-check_2nd_order_derivatives`  
+*	:doc:`CONOPT_Debugging_-_Check_2nd_Order_Der <CONOPT_Debugging_-_Check_2nd_Order_Der>`  
 
 
 

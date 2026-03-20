@@ -24,8 +24,8 @@ This option can be used to activate console logging. Possible values are:
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-output_file` 
-*	:ref:`option-GUROBI-output_file_display_interval` 
+*	:doc:`GUROBI_Logging_-_Output_File <GUROBI_Logging_-_Output_File>` 
+*	:doc:`GUROBI_Logging_-_Output_File_Display_Interval <GUROBI_Logging_-_Output_File_Display_Interval>` 
 
 
 

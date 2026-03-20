@@ -33,4 +33,4 @@ If this option is switched on, then when small entries are detected by the linea
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-linear_solver_selection` 
+*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection <IPOPT_Linear_solver_-_Linear_solver_selection>` 

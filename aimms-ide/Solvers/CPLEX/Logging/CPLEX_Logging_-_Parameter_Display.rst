@@ -33,6 +33,6 @@ This option is only used if the CPLEX log file is created by activating one of t
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-barrier_display` 
-*	:ref:`option-CPLEX-mip_display` 
-*	:ref:`option-CPLEX-simplex_display` 
+*	:doc:`CPLEX_Logging_-_Barrier_Display <CPLEX_Logging_-_Barrier_Display>` 
+*	:doc:`CPLEX_Logging_-_MIP_Display <CPLEX_Logging_-_MIP_Display>` 
+*	:doc:`CPLEX_Logging_-_Simplex_Display <CPLEX_Logging_-_Simplex_Display>` 

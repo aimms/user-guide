@@ -46,7 +46,7 @@ If the objective is scaled down to be very small, the optimality test reduces to
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-major_optimality_tolerance`  
+*	:doc:`SNOPT_Limits_-_Major_Optimality_Tole <SNOPT_Limits_-_Major_Optimality_Tole>`  
 
 
 

@@ -25,4 +25,4 @@ the moment when the criterion specified by this option is met and when solution 
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-polishing_relative_mip_gap`  
+*	:doc:`CPLEX_Polishing_Relative_MIP_Gap <CPLEX_Polishing_Relative_MIP_Gap>`  

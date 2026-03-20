@@ -24,7 +24,7 @@ Extreme caution should be exercised when changing the value of this option becau
 
 **Learn more about** 
 
-*	:ref:`option-XA-primal_activity_tolerance`  
+*	:doc:`XA_Advanced_-_Primal_Activity_Tol <XA_Advanced_-_Primal_Activity_Tol>`  
 
 
 

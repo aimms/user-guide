@@ -18,7 +18,7 @@ The value of this option is used to update the cutoff each time a mixed integer 
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-difference_objective`  
+*	:doc:`ODH_XMIP_-_Difference_Object <ODH_XMIP_-_Difference_Object>`  
 
 
 

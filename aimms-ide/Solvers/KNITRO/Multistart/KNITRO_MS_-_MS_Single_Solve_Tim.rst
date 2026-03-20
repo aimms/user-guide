@@ -18,7 +18,7 @@ This option specifies, in seconds, the maximal allowable CPU time used by a sing
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-multistart`  
+*	:doc:`KNITRO_MS_-_Multistart <KNITRO_MS_-_Multistart>`  
 
 
 

@@ -21,7 +21,7 @@ This option determines the maximum number of minor iterations allowed, summed ov
 
 **Learn more about** 
 
-*	:ref:`option-MINOS-maximum_number_of_minor_iterations`  
+*	:doc:`MINOS_-_Maximum_Number_of_Min <MINOS_-_Maximum_Number_of_Min>`  
 
 
 

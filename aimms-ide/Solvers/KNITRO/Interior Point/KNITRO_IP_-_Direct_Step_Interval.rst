@@ -22,7 +22,7 @@ Setting the value to 0 will try to enforce that only direct steps are taken whic
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-algorithm` 
+*	:doc:`KNITRO_General_-_Algorithm <../General/KNITRO_General_-_Algorithm>` 
 
 
 

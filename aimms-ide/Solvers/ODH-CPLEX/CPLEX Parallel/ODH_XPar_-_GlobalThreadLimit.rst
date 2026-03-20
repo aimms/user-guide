@@ -53,9 +53,9 @@ This option also determines the amount of threads used by the concurrent optimiz
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-auxiliary_root_threads` 
-*	:ref:`option-ODHCPLEX-mip_start_algorithm` 
-*	:ref:`option-ODHCPLEX-parallel_mode` 
+*	:doc:`ODH_XPar_-_Auxiliary_Root_Threads <ODH_XPar_-_Auxiliary_Root_Threads>` 
+*	:doc:`ODH_XMIP_-_MIP_Start_Algorit <../CPLEX MIP/ODH_XMIP_-_MIP_Start_Algorit>` 
+*	:doc:`ODH_XPar_-_Parallel_Mode <ODH_XPar_-_Parallel_Mode>` 
 
 
 

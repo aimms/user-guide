@@ -18,8 +18,8 @@ This option controls the frequency of the crash iteration logging to the PATH st
 
 **Learn more about** 
 
-*	:ref:`option-PATH-create_status_file`  
-*	:ref:`option-PATH-output_crash_iterations`  
+*	:doc:`PATH_Reporting_-_CreateStatFile <PATH_Reporting_-_CreateStatFile>`  
+*	:doc:`PATH_Reporting_-_O_Crash_Itera <PATH_Reporting_-_O_Crash_Itera>`  
 
 
 

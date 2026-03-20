@@ -21,7 +21,7 @@ The feasibility tolerance used by CONOPT is dynamic. As long as we are far from 
 
 **Learn more about** 
 
-*	:ref:`option-CONOPT-maximal_feasibility_tolerance`  
+*	:doc:`CONOPT_General_-_Maximal_Feas_Tol <CONOPT_General_-_Maximal_Feas_Tol>`  
 
 
 

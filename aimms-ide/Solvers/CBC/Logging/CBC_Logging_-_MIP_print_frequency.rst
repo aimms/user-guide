@@ -18,4 +18,4 @@ This option sets the print frequency for MIP problems. The default setting of 0 
 
 **Learn more about** 
 
-*	:ref:`option-CBC-status_file` 
+*	:doc:`CBC_Logging_-_Status_File <CBC_Logging_-_Status_File>` 

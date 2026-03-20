@@ -20,4 +20,4 @@ This option determines the maximum number of iterative refinement steps per line
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-minimum_number_of_refinement_steps` 
+*	:doc:`IPOPT_Linear_solver_-_Minimum_number_of_refinement_steps <IPOPT_Linear_solver_-_Minimum_number_of_refinement_steps>` 

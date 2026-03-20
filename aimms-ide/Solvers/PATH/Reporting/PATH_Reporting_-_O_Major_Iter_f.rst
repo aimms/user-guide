@@ -18,8 +18,8 @@ This option controls the frequency of the major iteration logging to the PATH st
 
 **Learn more about** 
 
-*	:ref:`option-PATH-create_status_file`  
-*	:ref:`option-PATH-output_major_iterations`  
+*	:doc:`PATH_Reporting_-_CreateStatFile <PATH_Reporting_-_CreateStatFile>`  
+*	:doc:`PATH_Reporting_-_O_Major_Itera <PATH_Reporting_-_O_Major_Itera>`  
 
 
 

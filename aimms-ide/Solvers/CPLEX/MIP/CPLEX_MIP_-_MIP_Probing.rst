@@ -33,4 +33,4 @@ is usually because the model is difficult, and then probing is worth trying.
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-probing_time` 
+*	:doc:`CPLEX_MIP_-_Probing_Time <CPLEX_MIP_-_Probing_Time>` 

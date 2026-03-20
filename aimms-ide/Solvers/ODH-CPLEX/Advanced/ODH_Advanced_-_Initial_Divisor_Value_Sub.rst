@@ -22,7 +22,7 @@ This option is ignored if the option **Initial Divisor Value**  is set.
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-initial_divisor_value`  
+*	:doc:`ODH_Advanced_-_Initial_Divisor_Value <ODH_Advanced_-_Initial_Divisor_Value>`  
 
 
 

@@ -33,4 +33,4 @@ With setting 'Hessian-vector products' Knitro will use a finite difference metho
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-algorithm`  
+*	:doc:`KNITRO_General_-_Algorithm <../General/KNITRO_General_-_Algorithm>`  

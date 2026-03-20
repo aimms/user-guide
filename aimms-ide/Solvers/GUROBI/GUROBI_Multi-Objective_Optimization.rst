@@ -107,7 +107,7 @@ or the time limit for each optimization pass.
 **Learn more about** 
 
 *	:any:`GMP::Column::SetAsMultiObjective`
-*	:ref:`option-GUROBI-multi_objective_method` 
-*	:ref:`option-GUROBI-multi_objective_presolve` 
-*	:ref:`option-GUROBI-read_parameter_file` 
+*	:doc:`GUROBI_General_-_Multi_objective_method <General/GUROBI_General_-_Multi_objective_method>` 
+*	:doc:`GUROBI_Presolve_-_Multi_Objective_Presolve <Presolve/GUROBI_Presolve_-_Multi_Objective_Presolve>` 
+*	:doc:`GUROBI_General_-_Read_Parameter_File <General/GUROBI_General_-_Read_Parameter_File>` 
 

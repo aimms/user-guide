@@ -24,7 +24,7 @@ If the value of this option is set to 'Yes' and the option **Create Status File*
 
 **Learn more about** 
 
-*	:ref:`option-PATH-create_status_file`  
+*	:doc:`PATH_Reporting_-_CreateStatFile <PATH_Reporting_-_CreateStatFile>`  
 
 
 

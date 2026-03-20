@@ -38,5 +38,5 @@ reduce the frequency and magnitude of such violations.
 
 **Learn more about** 
 
-*	:ref:`option-GUROBI-integrality`  
+*	:doc:`GUROBI_MIP_-_Integrality <GUROBI_MIP_-_Integrality>`  
 

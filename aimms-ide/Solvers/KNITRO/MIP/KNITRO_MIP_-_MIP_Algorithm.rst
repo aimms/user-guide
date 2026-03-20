@@ -44,7 +44,7 @@ See the option **Algorithm**  for more information about the algorithms.
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-algorithm`  
-*	:ref:`option-KNITRO-mip_method`  
-*	:ref:`option-KNITRO-mip_start_algorithm`  
-*	:ref:`option-KNITRO-node_algorithm`  
+*	:doc:`KNITRO_General_-_Algorithm <../General/KNITRO_General_-_Algorithm>`  
+*	:doc:`KNITRO_MIP_-_MIP_Method <KNITRO_MIP_-_MIP_Method>`  
+*	:doc:`KNITRO_MIP_-_MIP_Start_Algorithm <KNITRO_MIP_-_MIP_Start_Algorithm>`  
+*	:doc:`KNITRO_MIP_-_Node_Algorithm <KNITRO_MIP_-_Node_Algorithm>`  

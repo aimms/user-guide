@@ -34,8 +34,8 @@ In reality, SNOPT uses the feasibility tolerance for satisfying the bounds on x 
 
 **Learn more about** 
 
-*	:ref:`option-SNOPT-elastic_weight`  
-*	:ref:`option-SNOPT-scale_method`  
+*	:doc:`SNOPT_Advanced_-_Elastic_Weight <../Advanced/SNOPT_Advanced_-_Elastic_Weight>`  
+*	:doc:`SNOPT_Scaling_-_Scale_Method <../Scaling/SNOPT_Scaling_-_Scale_Method>`  
 
 
 

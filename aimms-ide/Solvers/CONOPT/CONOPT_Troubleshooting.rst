@@ -87,9 +87,9 @@ then CONOPT might show the third error message if X and Y are close to 0. To rep
 
 **Learn more about** 
 
-*	:ref:`option-AIMMS-nonlinear_presolve` 
-*	:ref:`option-AIMMS-display_infeasibility_analysis` 
-*	:ref:`option-CONOPT-maximum_solution_of_a_variable` 
+*	:doc:`NonlinPres_-_NonlinearPresolve <../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_NonlinearPresolve>` 
+*	:doc:`NonlinPres_-_DisplayInfyAnalys <../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_DisplayInfyAnalys>` 
+*	:doc:`CONOPT_Limits_-_Maximal_Solution_Variable <Limits/CONOPT_Limits_-_Maximal_Solution_Variable>` 
 
 
 

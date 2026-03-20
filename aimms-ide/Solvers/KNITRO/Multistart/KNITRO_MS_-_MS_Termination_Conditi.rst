@@ -63,5 +63,5 @@ This option has only effect if the option **Multistart**  is switched on.
 
 **Learn more about** 
 
-*	:ref:`option-KNITRO-multistart`  
-*	:ref:`option-KNITRO-number_of_multistart_points`  
+*	:doc:`KNITRO_MS_-_Multistart <KNITRO_MS_-_Multistart>`  
+*	:doc:`KNITRO_MS_-_Nr_multi_points <KNITRO_MS_-_Nr_multi_points>`  

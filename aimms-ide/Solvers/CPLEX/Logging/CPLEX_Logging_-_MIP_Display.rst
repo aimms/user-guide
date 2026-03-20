@@ -53,12 +53,12 @@ to display the LP information for the other subproblems solved at the root node.
 
 **Learn more about** 
 
-*	:ref:`option-CPLEX-barrier_display` 
-*	:ref:`option-CPLEX-mip_interval` 
-*	:ref:`option-CPLEX-mip_search_strategy` 
-*	:ref:`option-CPLEX-simplex_display` 
-*	:ref:`option-AIMMS-solver_listing`  
-*	:ref:`option-AIMMS-solver_listing_messages`  
+*	:doc:`CPLEX_Logging_-_Barrier_Display <CPLEX_Logging_-_Barrier_Display>` 
+*	:doc:`CPLEX_Logging_-_MIP_Interval <CPLEX_Logging_-_MIP_Interval>` 
+*	:doc:`CPLEX_MIP_-_MIP_Search_Strategy <../MIP/CPLEX_MIP_-_MIP_Search_Strategy>` 
+*	:doc:`CPLEX_Logging_-_Simplex_Display <CPLEX_Logging_-_Simplex_Display>` 
+*	:doc:`Solver_Specific_-_Solver_Listi <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_Listi>`  
+*	:doc:`Solver_Specific_-_Solver_List1 <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1>`  
 
 
 

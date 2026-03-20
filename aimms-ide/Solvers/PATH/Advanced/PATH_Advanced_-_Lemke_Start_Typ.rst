@@ -34,5 +34,5 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`option-PATH-frequency_of_lemke_starts`  
-*	:ref:`option-PATH-lemke_rank_deficiency_attempts`  
+*	:doc:`PATH_Advanced_-_Frequency_Lemke <PATH_Advanced_-_Frequency_Lemke>`  
+*	:doc:`PATH_Advanced_-_Lemke_Rank_Def <PATH_Advanced_-_Lemke_Rank_Def>`  

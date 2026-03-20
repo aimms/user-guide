@@ -43,7 +43,7 @@ With setting 'Feasible solution', ODH-CPLEX will try to find a solution to the p
 
 **Learn more about** 
 
-*	:ref:`option-ODHCPLEX-first_feasible_heuristic`  
-*	:ref:`option-ODHCPLEX-maximum_divisor_value`  
-*	:ref:`option-ODHCPLEX-objective_target`  
-*	:ref:`option-AIMMS-time_limit`   (General solvers option)
+*	:doc:`ODH_Heuristic_-_First_Feasible_Heuristic <../Heuristics/ODH_Heuristic_-_First_Feasible_Heuristic>`  
+*	:doc:`ODH_Advanced_-_Maximum_Divisor_Value <../Advanced/ODH_Advanced_-_Maximum_Divisor_Value>`  
+*	:doc:`ODH_General_-_Objective_Target <ODH_General_-_Objective_Target>`  
+*	:doc:`Stop_Criteria_-_Time_Limit <../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>`   (General solvers option)

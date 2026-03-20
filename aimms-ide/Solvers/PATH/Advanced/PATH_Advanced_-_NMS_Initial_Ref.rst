@@ -24,7 +24,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:ref:`option-PATH-nms`  
+*	:doc:`PATH_Advanced_-_NMS <PATH_Advanced_-_NMS>`  
 
 
 

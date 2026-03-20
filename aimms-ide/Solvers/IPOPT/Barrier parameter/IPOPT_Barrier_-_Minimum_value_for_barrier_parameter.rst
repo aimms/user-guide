@@ -32,10 +32,10 @@ This option is only used if 'Adaptive' is selected for option **Barrier Paramete
 
 **Learn more about** 
 
-*	:ref:`option-IPOPT-barrier_convergence_tolerance_factor` 
-*	:ref:`option-IPOPT-barrier_parameter_update_strategy` 
-*	:ref:`option-IPOPT-complementarity_tolerance` 
-*	:ref:`option-IPOPT-relative_convergence_tolerance` 
+*	:doc:`IPOPT_Barrier_-_Barrier_convergence_tolerance_factor <IPOPT_Barrier_-_Barrier_convergence_tolerance_factor>` 
+*	:doc:`IPOPT_Barrier_-_Barrier_parameter_update_strategy <IPOPT_Barrier_-_Barrier_parameter_update_strategy>` 
+*	:doc:`IPOPT_Termination_-_Complementarity_tolerance <../Termination/IPOPT_Termination_-_Complementarity_tolerance>` 
+*	:doc:`IPOPT_Termination_-_Relative_convergence_tolerance <../Termination/IPOPT_Termination_-_Relative_convergence_tolerance>` 
 
 
 

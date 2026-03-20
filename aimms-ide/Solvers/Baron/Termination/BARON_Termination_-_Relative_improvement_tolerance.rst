@@ -18,9 +18,9 @@ This option specifies the relative improvement termination threshold.
 
 **Learn more about** 
 
-*	:ref:`option-Baron-absolute_improvement_tolerance` 
-*	:ref:`option-Baron-insufficient_progress_termination` 
-*	:ref:`option-Baron-insufficient_progress_time` 
+*	:doc:`BARON_Termination_-_Absolute_improvement_tolerance <BARON_Termination_-_Absolute_improvement_tolerance>` 
+*	:doc:`BARON_Termination_-_Insufficient_progress_terminat <BARON_Termination_-_Insufficient_progress_terminat>` 
+*	:doc:`BARON_Termination_-_Insufficient_progress_time <BARON_Termination_-_Insufficient_progress_time>` 
 
 
 
