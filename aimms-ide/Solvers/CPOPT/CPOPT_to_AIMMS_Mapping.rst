@@ -15,66 +15,66 @@ The table shows in the left column the parameters from CP Optimizer that can be 
    * - **Name in CP Optimizer**
      - **Option name in AIMMS**
    * - AllDiffInferenceLevel
-     - :ref:`option-CPOPT-alldiff_inference_level`
+     - :ref:`Inference - Alldiff inference level <option-CPOPT-alldiff_inference_level>`
    * - BranchLimit
-     - :ref:`option-CPOPT-branch_limit`
+     - :ref:`Search - Branch limit <option-CPOPT-branch_limit>`
    * - ChoicePointLimit
-     - :ref:`option-CPOPT-choice_point_limit`
+     - :ref:`Search - Choice point limit <option-CPOPT-choice_point_limit>`
    * - CountInferenceLevel
-     - :ref:`option-CPOPT-count_inference_level`
+     - :ref:`Inference - Count inference level <option-CPOPT-count_inference_level>`
    * - CumulFunctionInferenceLevel
-     - :ref:`option-CPOPT-parallel_resource_inference_level`
+     - :ref:`Inference - Parallel resource inference level <option-CPOPT-parallel_resource_inference_level>`
    * - DefaultInferenceLevel
-     - :ref:`option-CPOPT-default_inference_level`
+     - :ref:`Inference - Default inference level <option-CPOPT-default_inference_level>`
    * - DynamicProbing
-     - :ref:`option-CPOPT-dynamic_probing`
+     - :ref:`Search - Dynamic probing <option-CPOPT-dynamic_probing>`
    * - DynamicProbingStrength
-     - :ref:`option-CPOPT-dynamic_probing_strength`
+     - :ref:`Search - Dynamic probing strength <option-CPOPT-dynamic_probing_strength>`
    * - ElementInferenceLevel
-     - :ref:`option-CPOPT-element_inference_level`
+     - :ref:`Inference - Element inference level <option-CPOPT-element_inference_level>`
    * - FailureDirectedSearch
-     - :ref:`option-CPOPT-failure_directed_search`
+     - :ref:`Search - Failure directed search <option-CPOPT-failure_directed_search>`
    * - FailureDirectedSearchEmphasis
-     - :ref:`option-CPOPT-failure_directed_search_emphasis`
+     - :ref:`Search - Failure directed search emphasis <option-CPOPT-failure_directed_search_emphasis>`
    * - FailureDirectedSearchMaxMemory
-     - :ref:`option-CPOPT-failure_directed_search_memory_limit`
+     - :ref:`Search - Failure directed search memory limit <option-CPOPT-failure_directed_search_memory_limit>`
    * - FailLimit
-     - :ref:`option-CPOPT-failure_limit`
+     - :ref:`Search - Failure limit <option-CPOPT-failure_limit>`
    * - LogPeriod
-     - :ref:`option-CPOPT-log_period`
+     - :ref:`Logging - Log period <option-CPOPT-log_period>`
    * - LogVerbosity
-     - :ref:`option-CPOPT-log_verbosity`
+     - :ref:`Logging - Log verbosity <option-CPOPT-log_verbosity>`
    * - ModelAnonymizer
-     - :ref:`option-CPOPT-cpo_file_anonymizer`
+     - :ref:`Logging - Cpo file anonymizer <option-CPOPT-cpo_file_anonymizer>`
    * - MultiPointNumberOfSearchPoints
-     - :ref:`option-CPOPT-number_of_search_points`
+     - :ref:`Search - Number of search points <option-CPOPT-number_of_search_points>`
    * - NoOverlapInferenceLevel
-     - :ref:`option-CPOPT-sequential_resource_inference_level`
+     - :ref:`Inference - Sequential resource inference level <option-CPOPT-sequential_resource_inference_level>`
    * - OptimalityTolerance
-     - :ref:`option-CPOPT-optimality_tolerance`
+     - :ref:`General - Optimality tolerance <option-CPOPT-optimality_tolerance>`
    * - PrecedenceInferenceLevel
-     - :ref:`option-CPOPT-precedence_inference_level`
+     - :ref:`Inference - Precedence inference level <option-CPOPT-precedence_inference_level>`
    * - Presolve
-     - :ref:`option-CPOPT-presolve`
+     - :ref:`Preprocessing - Presolve <option-CPOPT-presolve>`
    * - RandomSeed
-     - :ref:`option-CPOPT-random_seed`
+     - :ref:`Search - Random seed <option-CPOPT-random_seed>`
    * - RelativeOptimalityTolerance
-     - :ref:`option-CPOPT-relative_optimality_tolerance`
+     - :ref:`General - Relative optimality tolerance <option-CPOPT-relative_optimality_tolerance>`
    * - RestartFailLimit
-     - :ref:`option-CPOPT-restart_failure_limit`
+     - :ref:`Search - Restart failure limit <option-CPOPT-restart_failure_limit>`
    * - RestartGrowthFactor
-     - :ref:`option-CPOPT-restart_growth_factor`
+     - :ref:`Search - Restart growth factor <option-CPOPT-restart_growth_factor>`
    * - SearchType
-     - :ref:`option-CPOPT-search_type`
+     - :ref:`Search - Search type <option-CPOPT-search_type>`
    * - SequenceInferenceLevel
-     - :ref:`option-CPOPT-sequence_inference_level`
+     - :ref:`Inference - Sequence inference level <option-CPOPT-sequence_inference_level>`
    * - SolutionLimit
-     - :ref:`option-CPOPT-solution_limit`
+     - :ref:`General - Solution limit <option-CPOPT-solution_limit>`
    * - TemporalRelaxation
-     - :ref:`option-CPOPT-temporal_relaxation`
+     - :ref:`General - Temporal relaxation <option-CPOPT-temporal_relaxation>`
    * - TimeMode
-     - :ref:`option-CPOPT-time_mode`
+     - :ref:`General - Time mode <option-CPOPT-time_mode>`
    * - WarningLevel
-     - :ref:`option-CPOPT-warning_level`
+     - :ref:`Logging - Warning level <option-CPOPT-warning_level>`
    * - Workers
-     - :ref:`option-CPOPT-number_of_workers`
+     - :ref:`Parallel - Number of workers <option-CPOPT-number_of_workers>`

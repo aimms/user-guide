@@ -14,97 +14,97 @@ The table shows in the left column the AIMMS XA options; the right column displa
 
    * - **Option name in AIMMS**
      - **Name in XA**
-   * - :ref:`option-XA-dual_activity_tolerance`
+   * - :ref:`Advanced - Dual Activity Tolerance <option-XA-dual_activity_tolerance>`
      - SET TOLERANCE DUAL
-   * - :ref:`option-XA-maximal_absolute_pivot_value`
+   * - :ref:`Advanced - Maximal Absolute Pivot Value <option-XA-maximal_absolute_pivot_value>`
      - SET REJPIVOT
-   * - :ref:`option-XA-minimal_absolute_pivot_value`
+   * - :ref:`Advanced - Minimal Absolute Pivot Value <option-XA-minimal_absolute_pivot_value>`
      - SET YPIVOT
-   * - :ref:`option-XA-perturbate`
+   * - :ref:`Advanced - Perturbate <option-XA-perturbate>`
      - SET PERTURBATE
-   * - :ref:`option-XA-primal_activity_tolerance`
+   * - :ref:`Advanced - Primal Activity Tolerance <option-XA-primal_activity_tolerance>`
      - SET TOLERANCE PRIMAL
-   * - :ref:`option-XA-size_of_smallest_element`
+   * - :ref:`Advanced - Size of Smallest Element <option-XA-size_of_smallest_element>`
      - SET ELEMSIZE
-   * - :ref:`option-XA-crash`
+   * - :ref:`General - Crash <option-XA-crash>`
      - SET CRASH
-   * - :ref:`option-XA-force`
+   * - :ref:`General - Force <option-XA-force>`
      - CONFLICT
-   * - :ref:`option-XA-lp_method`
+   * - :ref:`General - LP Method <option-XA-lp_method>`
      - SET BARRIER
-   * - :ref:`option-XA-mps`
+   * - :ref:`General - MPS <option-XA-mps>`
      - TOMPS
-   * - :ref:`option-XA-presolve`
+   * - :ref:`General - Presolve <option-XA-presolve>`
      - SET ELIMINATE
-   * - :ref:`option-XA-presolve_activity_types`
+   * - :ref:`General - Presolve Activity Types <option-XA-presolve_activity_types>`
      - PRESOLVE
-   * - :ref:`option-XA-restart`
+   * - :ref:`General - Restart <option-XA-restart>`
      - SET RESTART
-   * - :ref:`option-XA-restart_file_number`
+   * - :ref:`General - Restart File Number <option-XA-restart_file_number>`
      - 
-   * - :ref:`option-XA-scale`
+   * - :ref:`General - Scale <option-XA-scale>`
      - SET SCALE
-   * - :ref:`option-XA-solution_file`
+   * - :ref:`General - Solution File <option-XA-solution_file>`
      -
-   * - :ref:`option-XA-windows_friendly`
+   * - :ref:`General - Windows Friendly <option-XA-windows_friendly>`
      - SET WINFRIENDLY
-   * - :ref:`option-XA-node_log`
+   * - :ref:`Logging - Node Log <option-XA-node_log>`
      -
-   * - :ref:`option-XA-simplex_log`
+   * - :ref:`Logging - Simplex Log <option-XA-simplex_log>`
      -
-   * - :ref:`option-XA-extra_memory`
+   * - :ref:`Memory - Extra Memory <option-XA-extra_memory>`
      -
-   * - :ref:`option-XA-minimal_memory_size`
+   * - :ref:`Memory - Minimal Memory Size <option-XA-minimal_memory_size>`
      -
-   * - :ref:`option-XA-basis_in_memory`
+   * - :ref:`MIP - Basis in Memory <option-XA-basis_in_memory>`
      - SET BASISMEMORY
-   * - :ref:`option-XA-dual_simplex`
+   * - :ref:`MIP - Dual Simplex <option-XA-dual_simplex>`
      - SET DUALSIMPLEX
-   * - :ref:`option-XA-lower_integer_tolerance`
+   * - :ref:`MIP - Lower Integer Tolerance <option-XA-lower_integer_tolerance>`
      - SET LTOLERANCE
-   * - :ref:`option-XA-maximal_number_of_generated_nodes`
+   * - :ref:`MIP - Maximal Number of Generated Nodes <option-XA-maximal_number_of_generated_nodes>`
      - SET LIMITNODES
-   * - :ref:`option-XA-maximal_number_of_nodes`
+   * - :ref:`MIP - Maximal Number of Nodes <option-XA-maximal_number_of_nodes>`
      - SET MAXNODES
-   * - :ref:`option-XA-mip_basis`
+   * - :ref:`MIP - MIP Basis <option-XA-mip_basis>`
      -
-   * - :ref:`option-XA-mip_branch_order`
+   * - :ref:`MIP - MIP Branch Order <option-XA-mip_branch_order>`
      - PRIORITY
-   * - :ref:`option-XA-mip_postsolve`
+   * - :ref:`MIP - MIP Postsolve <option-XA-mip_postsolve>`
      -
-   * - :ref:`option-XA-mip_strategy`
+   * - :ref:`MIP - MIP Strategy <option-XA-mip_strategy>`
      - STRATEGY
-   * - :ref:`option-XA-mip_strategy_branching_priorities`
+   * - :ref:`MIP - MIP Strategy Branching Priorities <option-XA-mip_strategy_branching_priorities>`
      - STRATEGY
-   * - :ref:`option-XA-mip_strategy_estimate_integer_solution`
+   * - :ref:`MIP - MIP Strategy Estimate Integer Solution <option-XA-mip_strategy_estimate_integer_solution>`
      - STRATEGY
-   * - :ref:`option-XA-mip_strategy_split_node_list`
+   * - :ref:`MIP - MIP Strategy Split Node List <option-XA-mip_strategy_split_node_list>`
      - STRATEGY
-   * - :ref:`option-XA-mip_update`
+   * - :ref:`MIP - MIP Update <option-XA-mip_update>`
      -
-   * - :ref:`option-XA-percentage_fixed_integer_variables`
+   * - :ref:`MIP - Percentage Fixed Integer Variables <option-XA-percentage_fixed_integer_variables>`
      - SET INTPCT
-   * - :ref:`option-XA-selection_of_nodes`
+   * - :ref:`MIP - Selection of Nodes <option-XA-selection_of_nodes>`
      - SET RUNNER
-   * - :ref:`option-XA-stop_after`
+   * - :ref:`MIP - Stop After <option-XA-stop_after>`
      - STOPAFTER
-   * - :ref:`option-XA-stop_unchanged`
+   * - :ref:`MIP - Stop Unchanged <option-XA-stop_unchanged>`
      - STOPUNCHANGED
-   * - :ref:`option-XA-tree_depth`
+   * - :ref:`MIP - Tree Depth <option-XA-tree_depth>`
      - TREEDEPTH
-   * - :ref:`option-XA-tree_time`
+   * - :ref:`MIP - Tree Time <option-XA-tree_time>`
      - TREETIME
-   * - :ref:`option-XA-upper_integer_tolerance`
+   * - :ref:`MIP - Upper Integer Tolerance <option-XA-upper_integer_tolerance>`
      - SET UTOLERANCE
-   * - :ref:`option-XA-degenerate_pivots`
+   * - :ref:`Simplex - Degenerate Pivots <option-XA-degenerate_pivots>`
      - SET DEGENITER
-   * - :ref:`option-XA-markowitz`
+   * - :ref:`Simplex - Markowitz <option-XA-markowitz>`
      - SET MARKOWITZ
-   * - :ref:`option-XA-pricing`
+   * - :ref:`Simplex - Pricing <option-XA-pricing>`
      - SET PRICING
-   * - :ref:`option-XA-primal_infeasibility`
+   * - :ref:`Simplex - Primal Infeasibility <option-XA-primal_infeasibility>`
      - SET XTOZERO
-   * - :ref:`option-XA-reduced_cost`
+   * - :ref:`Simplex - Reduced Cost <option-XA-reduced_cost>`
      - SET REDUCEDCOST
-   * - :ref:`option-XA-reinvert_frequency`
+   * - :ref:`Simplex - Reinvert Frequency <option-XA-reinvert_frequency>`
      - SET REINVERTFREQ

@@ -14,85 +14,85 @@ The table shows in the left column the AIMMS SNOPT options; the right column dis
 
    * - **Option name in AIMMS**
      - **Name in SNOPT**
-   * - :ref:`option-SNOPT-calling_crash_procedure`
+   * - :ref:`Advanced - Calling Crash Procedure <option-SNOPT-calling_crash_procedure>`
      - CRASH OPTION
-   * - :ref:`option-SNOPT-check_frequency`
+   * - :ref:`Advanced - Check Frequency <option-SNOPT-check_frequency>`
      - CHECK FREQUENCY
-   * - :ref:`option-SNOPT-crash_tolerance`
+   * - :ref:`Advanced - Crash Tolerance <option-SNOPT-crash_tolerance>`
      - CRASH TOLERANCE
-   * - :ref:`option-SNOPT-elastic_weight`
+   * - :ref:`Advanced - Elastic Weight <option-SNOPT-elastic_weight>`
      - ELASTIC WEIGHT
-   * - :ref:`option-SNOPT-expand_frequency`
+   * - :ref:`Advanced - Expand Frequency <option-SNOPT-expand_frequency>`
      - EXPAND FREQUENCY
-   * - :ref:`option-SNOPT-factorization_frequency`
+   * - :ref:`Advanced - Factorization Frequency <option-SNOPT-factorization_frequency>`
      - FACTORIZATION FREQUENCY
-   * - :ref:`option-SNOPT-function_precision`
+   * - :ref:`Advanced - Function Precision <option-SNOPT-function_precision>`
      - FUNCTION PRECISION
-   * - :ref:`option-SNOPT-hessian_frequency`
+   * - :ref:`Advanced - Hessian Frequency <option-SNOPT-hessian_frequency>`
      - HESSIAN FREQUENCY
-   * - :ref:`option-SNOPT-hessian_updates`
+   * - :ref:`Advanced - Hessian Updates <option-SNOPT-hessian_updates>`
      - HESSIAN UPDATES
-   * - :ref:`option-SNOPT-linesearch_tolerance`
+   * - :ref:`Advanced - Linesearch Tolerance <option-SNOPT-linesearch_tolerance>`
      - LINESEARCH TOLERANCE
-   * - :ref:`option-SNOPT-lu_density_tolerance`
+   * - :ref:`Advanced - LU Density Tolerance <option-SNOPT-lu_density_tolerance>`
      - LU DENSITY TOLERANCE
-   * - :ref:`option-SNOPT-lu_factor_tolerance`
+   * - :ref:`Advanced - LU Factor Tolerance <option-SNOPT-lu_factor_tolerance>`
      - LU FACTOR TOLERANCE
-   * - :ref:`option-SNOPT-lu_pivoting_method`
+   * - :ref:`Advanced - LU Pivoting Method <option-SNOPT-lu_pivoting_method>`
      - LU PARTIAL PIVOTING
-   * - :ref:`option-SNOPT-lu_singularity_tolerance`
+   * - :ref:`Advanced - LU Singularity Tolerance <option-SNOPT-lu_singularity_tolerance>`
      - LU SINGULARITY TOLERANCE
-   * - :ref:`option-SNOPT-lu_update_tolerance`
+   * - :ref:`Advanced - LU Update Tolerance <option-SNOPT-lu_update_tolerance>`
      - LU UPDATE TOLERANCE
-   * - :ref:`option-SNOPT-penalty_parameter`
+   * - :ref:`Advanced - Penalty Parameter <option-SNOPT-penalty_parameter>`
      - PENALTY PARAMETER
-   * - :ref:`option-SNOPT-pivot_tolerance`
+   * - :ref:`Advanced - Pivot Tolerance <option-SNOPT-pivot_tolerance>`
      - PIVOT TOLERANCE
-   * - :ref:`option-SNOPT-proximal_point_method`
+   * - :ref:`Advanced - Proximal Point Method <option-SNOPT-proximal_point_method>`
      - PROXIMAL POINT METHOD
-   * - :ref:`option-SNOPT-feasibility_tolerance`
+   * - :ref:`Feasibility - Feasibility Tolerance <option-SNOPT-feasibility_tolerance>`
      - FEASIBILITY TOLERANCE
-   * - :ref:`option-SNOPT-major_feasibility_tolerance`
+   * - :ref:`Feasibility - Major Feasibility Tolerance <option-SNOPT-major_feasibility_tolerance>`
      - MAJOR FEASIBILITY TOLERANCE
-   * - :ref:`option-SNOPT-violation_limit`
+   * - :ref:`Feasibility - Violation Limit <option-SNOPT-violation_limit>`
      - VIOLATION LIMIT
-   * - :ref:`option-SNOPT-major_optimality_tolerance`
+   * - :ref:`Limits - Major Optimality Tolerance <option-SNOPT-major_optimality_tolerance>`
      - MAJOR OPTIMALITY TOLERANCE
-   * - :ref:`option-SNOPT-major_step_limit`
+   * - :ref:`Limits - Major Step Limit <option-SNOPT-major_step_limit>`
      - MAJOR STEP LIMIT
-   * - :ref:`option-SNOPT-maximum_number_of_minor_iterations`
+   * - :ref:`Limits - Maximum Number of Minor Iterations <option-SNOPT-maximum_number_of_minor_iterations>`
      - MINOR ITERATIONS
-   * - :ref:`option-SNOPT-maximum_number_of_total_iterations`
+   * - :ref:`Limits - Maximum Number of Total Iterations <option-SNOPT-maximum_number_of_total_iterations>`
      - ITERATIONS LIMIT
-   * - :ref:`option-SNOPT-new_superbasics_limit`
+   * - :ref:`Limits - New Superbasics Limit <option-SNOPT-new_superbasics_limit>`
      - NEW SUPERBASICS LIMIT
-   * - :ref:`option-SNOPT-optimality_tolerance`
+   * - :ref:`Limits - Optimality Tolerance <option-SNOPT-optimality_tolerance>`
      - OPTIMALITY TOLERANCE
-   * - :ref:`option-SNOPT-superbasics_limit`
+   * - :ref:`Limits - Superbasics Limit <option-SNOPT-superbasics_limit>`
      - SUPERBASICS LIMIT
-   * - :ref:`option-SNOPT-unbounded_objective_value`
+   * - :ref:`Limits - Unbounded Objective Value <option-SNOPT-unbounded_objective_value>`
      - UNBOUNDED OBJECTIVE VALUE
-   * - :ref:`option-SNOPT-unbounded_step_size`
+   * - :ref:`Limits - Unbounded Step Size <option-SNOPT-unbounded_step_size>`
      - UNBOUNDED STEP SIZE
-   * - :ref:`option-SNOPT-major_print_level`
+   * - :ref:`Reporting - Major Print Level <option-SNOPT-major_print_level>`
      - MAJOR PRINT LEVEL
-   * - :ref:`option-SNOPT-minor_print_level`
+   * - :ref:`Reporting - Minor Print Level <option-SNOPT-minor_print_level>`
      - MINOR PRINT LEVEL
-   * - :ref:`option-SNOPT-print_frequency`
+   * - :ref:`Reporting - Print Frequency <option-SNOPT-print_frequency>`
      - PRINT FREQUENCY
-   * - :ref:`option-SNOPT-scale_method`
+   * - :ref:`Scaling - Scale Method <option-SNOPT-scale_method>`
      - SCALE OPTION
-   * - :ref:`option-SNOPT-scale_tolerance`
+   * - :ref:`Scaling - Scale Tolerance <option-SNOPT-scale_tolerance>`
      - SCALE TOLERANCE
-   * - :ref:`option-SNOPT-central_difference_interval`
+   * - :ref:`SQP Method - Central Difference Interval <option-SNOPT-central_difference_interval>`
      - CENTRAL DIFFERENCE INTERVAL
-   * - :ref:`option-SNOPT-derivative_option`
+   * - :ref:`SQP Method - Derivative Option <option-SNOPT-derivative_option>`
      - DERIVATIVE OPTION
-   * - :ref:`option-SNOPT-difference_interval`
+   * - :ref:`SQP Method - Difference Interval <option-SNOPT-difference_interval>`
      - DIFFERENCE INTERVAL
-   * - :ref:`option-SNOPT-linesearch_method`
+   * - :ref:`SQP Method - Linesearch Method <option-SNOPT-linesearch_method>`
      - DERIVATIVE LINESEARCH
-   * - :ref:`option-SNOPT-qp_solver`
+   * - :ref:`SQP Method - QP Solver <option-SNOPT-qp_solver>`
      - QPSOLVER CHOLESKY
-   * - :ref:`option-SNOPT-reduced_hessian_dimension`
+   * - :ref:`SQP Method - Reduced Hessian Dimension <option-SNOPT-reduced_hessian_dimension>`
      - REDUCED HESSIAN DIMENSION

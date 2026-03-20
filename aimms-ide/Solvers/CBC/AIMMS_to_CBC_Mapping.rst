@@ -17,115 +17,115 @@ The table shows in the left column the AIMMS CBC options while the right column 
 
    * - **Option name in AIMMS** 
      - **Name in CBC** 
-   * - :ref:`option-CBC-barrier_crossover` 
+   * - :ref:`Barrier - Barrier crossover <option-CBC-barrier_crossover>` 
      - crossover
-   * - :ref:`option-CBC-barrier_scaling` 
+   * - :ref:`Barrier - Barrier scaling <option-CBC-barrier_scaling>` 
      - bscale
-   * - :ref:`option-CBC-dual_feasibility_tolerance`  
+   * - :ref:`General - Dual feasibility tolerance <option-CBC-dual_feasibility_tolerance>`  
      - dualTolerance
-   * - :ref:`option-CBC-lp_method`  
+   * - :ref:`General - LP method <option-CBC-lp_method>`  
      - 
-   * - :ref:`option-CBC-mps`  
+   * - :ref:`General - MPS <option-CBC-mps>`  
      - 
-   * - :ref:`option-CBC-objective_scale_factor`  
+   * - :ref:`General - Objective scale factor <option-CBC-objective_scale_factor>`  
      - objectiveScale
-   * - :ref:`option-CBC-perturbation`  
+   * - :ref:`General - Perturbation <option-CBC-perturbation>`  
      - perturbation
-   * - :ref:`option-CBC-primal_feasibility_tolerance` 
+   * - :ref:`General - Primal feasibility tolerance <option-CBC-primal_feasibility_tolerance>` 
      - primalTolerance
-   * - :ref:`option-CBC-refactorization_interval` 
+   * - :ref:`General - Refactorization interval <option-CBC-refactorization_interval>` 
      - maxFactor
-   * - :ref:`option-CBC-rhs_scale_factor` 
+   * - :ref:`General - RHS scale factor <option-CBC-rhs_scale_factor>` 
      - rhsScale
-   * - :ref:`option-CBC-scaling`  
+   * - :ref:`General - Scaling <option-CBC-scaling>`  
      - scaling
-   * - :ref:`option-CBC-sifting`  
+   * - :ref:`General - Sifting <option-CBC-sifting>`  
      - sprintCrash
-   * - :ref:`option-CBC-mip_print_frequency`  
+   * - :ref:`Logging - MIP print frequency <option-CBC-mip_print_frequency>`  
      - 
-   * - :ref:`option-CBC-output_level`  
+   * - :ref:`Logging - Output level <option-CBC-output_level>`  
      - slogLevel
-   * - :ref:`option-CBC-status_file`  
+   * - :ref:`Logging - Status file <option-CBC-status_file>`  
      - 
-   * - :ref:`option-CBC-increment`  
+   * - :ref:`MIP - Increment <option-CBC-increment>`  
      - increment
-   * - :ref:`option-CBC-integrality`  
+   * - :ref:`MIP - Integrality <option-CBC-integrality>`  
      - integerTolerance
-   * - :ref:`option-CBC-mip_basis`  
+   * - :ref:`MIP - MIP basis <option-CBC-mip_basis>`  
      - 
-   * - :ref:`option-CBC-mip_presolve`  
+   * - :ref:`MIP - MIP presolve <option-CBC-mip_presolve>`  
      - preprocess
-   * - :ref:`option-CBC-mip_start`  
+   * - :ref:`MIP - MIP start <option-CBC-mip_start>`  
      - 
-   * - :ref:`option-CBC-node_selection`  
+   * - :ref:`MIP - Node selection <option-CBC-node_selection>`  
      - nodeStrategy
-   * - :ref:`option-CBC-strong_branching`  
+   * - :ref:`MIP - Strong branching <option-CBC-strong_branching>`  
      - strongbranching
-   * - :ref:`option-CBC-trust_pseudo_costs`  
+   * - :ref:`MIP - Trust pseudo costs <option-CBC-trust_pseudo_costs>`  
      - trustPseudoCosts
-   * - :ref:`option-CBC-variable_selection`  
+   * - :ref:`MIP - Variable selection <option-CBC-variable_selection>`  
      - costStrategy
-   * - :ref:`option-CBC-clique_cuts`  
+   * - :ref:`MIP Cuts - Clique cuts <option-CBC-clique_cuts>`  
      - cliqueCuts
-   * - :ref:`option-CBC-cut_depth` 
+   * - :ref:`MIP Cuts - Cut depth <option-CBC-cut_depth>` 
      - cutDepth
-   * - :ref:`option-CBC-cut_passes_root_node` 
+   * - :ref:`MIP Cuts - Cut passes root node <option-CBC-cut_passes_root_node>` 
      - passCuts
-   * - :ref:`option-CBC-cut_passes_tree` 
+   * - :ref:`MIP Cuts - Cut passes tree <option-CBC-cut_passes_tree>` 
      - passTree
-   * - :ref:`option-CBC-flow_cover_cuts` 
+   * - :ref:`MIP Cuts - Flow cover cuts <option-CBC-flow_cover_cuts>` 
      - flowCoverCuts
-   * - :ref:`option-CBC-global_cut_control`  
+   * - :ref:`MIP Cuts - Global cut control <option-CBC-global_cut_control>`  
      - cuts
-   * - :ref:`option-CBC-gomory_cuts` 
+   * - :ref:`MIP Cuts - Gomory cuts <option-CBC-gomory_cuts>` 
      - gomoryCuts
-   * - :ref:`option-CBC-knapsack_cuts` 
+   * - :ref:`MIP Cuts - Knapsack cuts <option-CBC-knapsack_cuts>` 
      - knapsackCuts
-   * - :ref:`option-CBC-lift_and_project_cuts` 
+   * - :ref:`MIP Cuts - Lift and project cuts <option-CBC-lift_and_project_cuts>` 
      - liftAndProjectCuts
-   * - :ref:`option-CBC-mir_cuts`  
+   * - :ref:`MIP Cuts - MIR cuts <option-CBC-mir_cuts>`  
      - mixedIntegerRoundingCuts
-   * - :ref:`option-CBC-probing_cuts`  
+   * - :ref:`MIP Cuts - Probing cuts <option-CBC-probing_cuts>`  
      - probingCuts
-   * - :ref:`option-CBC-reduce_and_split_cuts`  
+   * - :ref:`MIP Cuts - Reduce and split cuts <option-CBC-reduce_and_split_cuts>`  
      - reduceAndSplitCuts
-   * - :ref:`option-CBC-residual_capacity_cuts`  
+   * - :ref:`MIP Cuts - Residual capacity cuts <option-CBC-residual_capacity_cuts>`  
      - residualCapacityCuts
-   * - :ref:`option-CBC-slow_cut_passes`  
+   * - :ref:`MIP Cuts - Slow cut passes <option-CBC-slow_cut_passes>`  
      - slowcutpasses
-   * - :ref:`option-CBC-two_mir_cuts`  
+   * - :ref:`MIP Cuts - Two MIR cuts <option-CBC-two_mir_cuts>`  
      - twoMirCuts
-   * - :ref:`option-CBC-zero_half_cuts`  
+   * - :ref:`MIP Cuts - Zero half cuts <option-CBC-zero_half_cuts>`  
      - zeroHalfCuts
-   * - :ref:`option-CBC-combine_solutions`  
+   * - :ref:`MIP Heuristics - Combine solutions <option-CBC-combine_solutions>`  
      - combineSolutions
-   * - :ref:`option-CBC-feasibility_pump`  
+   * - :ref:`MIP Heuristics - Feasibility pump <option-CBC-feasibility_pump>`  
      - feasibilityPump
-   * - :ref:`option-CBC-feasibility_pump_passes`  
+   * - :ref:`MIP Heuristics - Feasibility pump passes <option-CBC-feasibility_pump_passes>`  
      - passFeasibilityPump
-   * - :ref:`option-CBC-greedy_heuristic`  
+   * - :ref:`MIP Heuristics - Greedy heuristic <option-CBC-greedy_heuristic>`  
      - greedyHeuristic
-   * - :ref:`option-CBC-heuristics`  
+   * - :ref:`MIP Heuristics - Heuristics <option-CBC-heuristics>`  
      - heuristicsOnOff
-   * - :ref:`option-CBC-local_tree_search`  
+   * - :ref:`MIP Heuristics - Local tree search <option-CBC-local_tree_search>`  
      - localTreeSearch
-   * - :ref:`option-CBC-proximity_search` 
+   * - :ref:`MIP Heuristics - Proximity search <option-CBC-proximity_search>` 
      - proximity
-   * - :ref:`option-CBC-rins_heuristic`  
+   * - :ref:`MIP Heuristics - RINS heuristic <option-CBC-rins_heuristic>`  
      - rins
-   * - :ref:`option-CBC-rounding_heuristic`  
+   * - :ref:`MIP Heuristics - Rounding heuristic <option-CBC-rounding_heuristic>`  
      - roundingHeuristic
-   * - :ref:`option-CBC-presolve` 
+   * - :ref:`Presolve - Presolve <option-CBC-presolve>` 
      - presolve
-   * - :ref:`option-CBC-presolve_tolerance`  
+   * - :ref:`Presolve - Presolve tolerance <option-CBC-presolve_tolerance>`  
      - preTolerance
-   * - :ref:`option-CBC-crash` 
+   * - :ref:`Simplex - Crash <option-CBC-crash>` 
      - crash	
-   * - :ref:`option-CBC-dual_pivot` 
+   * - :ref:`Simplex - Dual pivot <option-CBC-dual_pivot>` 
      - dualPivot
-   * - :ref:`option-CBC-idiot_crash` 
+   * - :ref:`Simplex - Idiot crash <option-CBC-idiot_crash>` 
      - idiotCrash
-   * - :ref:`option-CBC-primal_pivot`  
+   * - :ref:`Simplex - Primal pivot <option-CBC-primal_pivot>`  
      - primalPivot
 
 

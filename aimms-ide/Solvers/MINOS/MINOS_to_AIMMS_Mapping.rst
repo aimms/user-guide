@@ -15,48 +15,48 @@ The table shows in the left column the parameters from MINOS that can be set in 
    * - **Name in MINOS**
      - **Option name in AIMMS**
    * - CHECK FREQUENCY
-     - :ref:`option-MINOS-check_frequency`
+     - :ref:`Advanced - Check Frequency <option-MINOS-check_frequency>`
    * - CRASH OPTION
-     - :ref:`option-MINOS-calling_crash_procedure`
+     - :ref:`Advanced - Calling Crash Procedure <option-MINOS-calling_crash_procedure>`
    * - CRASH TOLERANCE
-     - :ref:`option-MINOS-crash_tolerance`
+     - :ref:`Advanced - Crash Tolerance <option-MINOS-crash_tolerance>`
    * - FACTORIZATION FREQUENCY
-     - :ref:`option-MINOS-factorization_frequency`
+     - :ref:`Advanced - Factorization Frequency <option-MINOS-factorization_frequency>`
    * - FEASIBILITY TOLERANCE
-     - :ref:`option-MINOS-feasibility_tolerance`
+     - :ref:`Feasibility - Feasibility Tolerance <option-MINOS-feasibility_tolerance>`
    * - FUNCTION PRECISION
-     - :ref:`option-MINOS-function_precision`
+     - :ref:`Advanced - Function Precision <option-MINOS-function_precision>`
    * - ITERATIONS LIMIT
-     - :ref:`option-MINOS-maximum_number_of_total_iterations`
+     - :ref:`Limits - Maximum Number of Total Iterations <option-MINOS-maximum_number_of_total_iterations>`
    * - LINESEARCH TOLERANCE
-     - :ref:`option-MINOS-linesearch_tolerance`
+     - :ref:`Lagrangian - Linesearch Tolerance <option-MINOS-linesearch_tolerance>`
    * - LU FACTOR TOLERANCE
-     - :ref:`option-MINOS-lu_factor_tolerance`
+     - :ref:`Advanced - LU Factor Tolerance <option-MINOS-lu_factor_tolerance>`
    * - LU UPDATE TOLERANCE
-     - :ref:`option-MINOS-lu_update_tolerance`
+     - :ref:`Advanced - LU Update Tolerance <option-MINOS-lu_update_tolerance>`
    * - MAJOR DAMPING PARAMETER
-     - :ref:`option-MINOS-damping_parameter`
+     - :ref:`Lagrangian - Damping Parameter <option-MINOS-damping_parameter>`
    * - MINOR ITERATIONS
-     - :ref:`option-MINOS-maximum_number_of_minor_iterations`
+     - :ref:`Limits - Maximum Number of Minor Iterations <option-MINOS-maximum_number_of_minor_iterations>`
    * - OPTIMALITY TOLERANCE
-     - :ref:`option-MINOS-optimality_tolerance`
+     - :ref:`Stop Criteria - Optimality Tolerance <option-MINOS-optimality_tolerance>`
    * - PENALTY PARAMETER
-     - :ref:`option-MINOS-penalty_parameter`
+     - :ref:`Lagrangian - Penalty Parameter <option-MINOS-penalty_parameter>`
    * - PIVOT TOLERANCE
-     - :ref:`option-MINOS-pivot_tolerance`
+     - :ref:`Advanced - Pivot Tolerance <option-MINOS-pivot_tolerance>`
    * - RADIUS OF CONVERGENCE
-     - :ref:`option-MINOS-radius_of_convergence`
+     - :ref:`Lagrangian - Radius of Convergence <option-MINOS-radius_of_convergence>`
    * - ROW TOLERANCE
-     - :ref:`option-MINOS-row_tolerance`
+     - :ref:`Feasibility - Row Tolerance <option-MINOS-row_tolerance>`
    * - SCALE OPTION
-     - :ref:`option-MINOS-scale_method`
+     - :ref:`Scaling - Scale Method <option-MINOS-scale_method>`
    * - SCALE TOLERANCE
-     - :ref:`option-MINOS-scale_tolerance`
+     - :ref:`Scaling - Scale Tolerance <option-MINOS-scale_tolerance>`
    * - SUBSPACE TOLERANCE
-     - :ref:`option-MINOS-subspace_tolerance`
+     - :ref:`Advanced - Subspace Tolerance <option-MINOS-subspace_tolerance>`
    * - UNBOUNDED OBJECTIVE VALUE
-     - :ref:`option-MINOS-unbounded_objective_value`
+     - :ref:`Stop Criteria - Unbounded Objective Value <option-MINOS-unbounded_objective_value>`
    * - UNBOUNDED STEP SIZE
-     - :ref:`option-MINOS-unbounded_step_size`
+     - :ref:`Stop Criteria - Unbounded Step Size <option-MINOS-unbounded_step_size>`
    * - WEIGHT ON LINEAR OBJECTIVE
-     - :ref:`option-MINOS-weight_on_linear_objective`
+     - :ref:`Advanced - Weight on Linear Objective <option-MINOS-weight_on_linear_objective>`

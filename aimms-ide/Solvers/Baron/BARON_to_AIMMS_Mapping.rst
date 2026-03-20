@@ -15,84 +15,84 @@ The table shows in the left column the parameters from BARON that can be set in 
    * - **Name in BARON**
      - **Option name in AIMMS**
    * - AbsConFeasTol
-     - :ref:`option-Baron-absolute_feasibility_tolerance`
+     - :ref:`Tolerances - Absolute feasibility tolerance <option-Baron-absolute_feasibility_tolerance>`
    * - AbsIntFeasTol
-     - :ref:`option-Baron-absolute_integrality_tolerance`
+     - :ref:`Tolerances - Absolute integrality tolerance <option-Baron-absolute_integrality_tolerance>`
    * - autobounds
-     - :ref:`option-Baron-automatically_set_missing_bounds`
+     - :ref:`General - Automatically set missing bounds <option-Baron-automatically_set_missing_bounds>`
    * - boxtol
-     - :ref:`option-Baron-box_elimination_tolerance`
+     - :ref:`Tolerances - Box elimination tolerance <option-Baron-box_elimination_tolerance>`
    * - brptstra
-     - :ref:`option-Baron-point_selection_strategy`
+     - :ref:`Branching - Point selection strategy <option-Baron-point_selection_strategy>`
    * - brvarstra
-     - :ref:`option-Baron-variable_selection_strategy`
+     - :ref:`Branching - Variable selection strategy <option-Baron-variable_selection_strategy>`
    * - compiis
-     - :ref:`option-Baron-compute_iis`
+     - :ref:`General - Compute IIS <option-Baron-compute_iis>`
    * - cutoff
-     - :ref:`option-Baron-cut_off`
+     - :ref:`General - Cut off <option-Baron-cut_off>`
    * - DeltaA
-     - :ref:`option-Baron-absolute_improvement_tolerance`
+     - :ref:`Termination - Absolute improvement tolerance <option-Baron-absolute_improvement_tolerance>`
    * - DeltaD
-     - :ref:`option-Baron-relative_improvement_tolerance`
+     - :ref:`Termination - Relative improvement tolerance <option-Baron-relative_improvement_tolerance>`
    * - DeltaT
-     - :ref:`option-Baron-insufficient_progress_time`
+     - :ref:`Termination - Insufficient progress time <option-Baron-insufficient_progress_time>`
    * - DeltaTerm
-     - :ref:`option-Baron-insufficient_progress_termination`
+     - :ref:`Termination - Insufficient progress termination <option-Baron-insufficient_progress_termination>`
    * - dolocal
-     - :ref:`option-Baron-upper_bounding`
+     - :ref:`Local Search Heuristic - Upper bounding <option-Baron-upper_bounding>`
    * - epsa
-     - :ref:`option-Baron-absolute_termination_tolerance`
+     - :ref:`Termination - Absolute termination tolerance <option-Baron-absolute_termination_tolerance>`
    * - epsr
-     - :ref:`option-Baron-relative_termination_tolerance`
+     - :ref:`Termination - Relative termination tolerance <option-Baron-relative_termination_tolerance>`
    * - firstfeas
-     - :ref:`option-Baron-find_feasible_solution_only`
+     - :ref:`General - Find feasible solution only <option-Baron-find_feasible_solution_only>`
    * - firstloc
-     - :ref:`option-Baron-local_solution`
+     - :ref:`General - Local solution <option-Baron-local_solution>`
    * - iisint
-     - :ref:`option-Baron-iis_include_integers`
+     - :ref:`General - IIS include integers <option-Baron-iis_include_integers>`
    * - isoltol
-     - :ref:`option-Baron-solution_distance`
+     - :ref:`General - Solution distance <option-Baron-solution_distance>`
    * - lbttdo
-     - :ref:`option-Baron-feasibility_based_tightening`
+     - :ref:`Range Reduction - Feasibility based tightening <option-Baron-feasibility_based_tightening>`
    * - locres
-     - :ref:`option-Baron-print_local_search_information`
+     - :ref:`Logging - Print local search information <option-Baron-print_local_search_information>`
    * - lpalg
-     - :ref:`option-Baron-lp_algorithm`
+     - :ref:`General - LP algorithm <option-Baron-lp_algorithm>`
    * - lpsol
-     - :ref:`option-Baron-lp_solver`
+     - :ref:`General - LP solver <option-Baron-lp_solver>`
    * - maxiter
-     - :ref:`option-AIMMS-iteration_limit`   (General solvers option)
+     - :ref:`Stop Criteria - Iteration Limit <option-AIMMS-iteration_limit>`   (General solvers option)
    * - maxtime
-     - :ref:`option-AIMMS-time_limit`   (General solvers option)
+     - :ref:`Stop Criteria - Time Limit <option-AIMMS-time_limit>`   (General solvers option)
    * - mdo
-     - :ref:`option-Baron-marginals_testing`
+     - :ref:`Range Reduction - Marginals testing <option-Baron-marginals_testing>`
    * - nlpsol
-     - :ref:`option-Baron-nlp_solver`
+     - :ref:`General - NLP solver <option-Baron-nlp_solver>`
    * - nodesel
-     - :ref:`option-Baron-node_selection`
+     - :ref:`Branching - Node selection <option-Baron-node_selection>`
    * - nouter1
-     - :ref:`option-Baron-number_of_outer_approximators`
+     - :ref:`Relaxation - Number of outer approximators <option-Baron-number_of_outer_approximators>`
    * - noutiter
-     - :ref:`option-Baron-number_of_cutting_plane_rounds`
+     - :ref:`Relaxation - Number of cutting plane rounds <option-Baron-number_of_cutting_plane_rounds>`
    * - noutpervar
-     - :ref:`option-Baron-number_of_outer_approximators_multi`
+     - :ref:`Relaxation - Number of outer approximators multi <option-Baron-number_of_outer_approximators_multi>`
    * - numloc
-     - :ref:`option-Baron-number_of_preprocessing_searches`
+     - :ref:`Local Search Heuristic - Number of preprocessing searches <option-Baron-number_of_preprocessing_searches>`
    * - numsol
-     - :ref:`option-Baron-number_of_best_solutions`
+     - :ref:`General - Number of best solutions <option-Baron-number_of_best_solutions>`
    * - obttdo
-     - :ref:`option-Baron-optimality_based_tightening`
+     - :ref:`Range Reduction - Optimality based tightening <option-Baron-optimality_based_tightening>`
    * - outgrid
-     - :ref:`option-Baron-number_of_grid_points`
+     - :ref:`Relaxation - Number of grid points <option-Baron-number_of_grid_points>`
    * - pdo
-     - :ref:`option-Baron-number_of_probing_problems`
+     - :ref:`Range Reduction - Number of probing problems <option-Baron-number_of_probing_problems>`
    * - prtimefreq
-     - :ref:`option-AIMMS-progress_time_interval`   (General solvers option)
+     - :ref:`Progress Options - Progress Time Interval <option-AIMMS-progress_time_interval>`   (General solvers option)
    * - RelConFeasTol
-     - :ref:`option-Baron-relative_feasibility_tolerance`
+     - :ref:`Tolerances - Relative feasibility tolerance <option-Baron-relative_feasibility_tolerance>`
    * - RelIntFeasTol
-     - :ref:`option-Baron-relative_integrality_tolerance`
+     - :ref:`Tolerances - Relative integrality tolerance <option-Baron-relative_integrality_tolerance>`
    * - tdo
-     - :ref:`option-Baron-bounds_tightening`
+     - :ref:`Range Reduction - Bounds tightening <option-Baron-bounds_tightening>`
    * - threads
-     - :ref:`option-Baron-thread_limit_mip`
+     - :ref:`Parallel - Thread limit MIP <option-Baron-thread_limit_mip>`
