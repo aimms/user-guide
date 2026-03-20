@@ -27,6 +27,6 @@ your problem formulation proved infeasible. To get a solution that can be interp
 
 **Learn more about** 
 
-*	:doc:`Postsolve_-_Postsolve <../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve>` 
-*	:doc:`GUROBI_Presolve_-_Presolve <Presolve/GUROBI_Presolve_-_Presolve>`  
+*	:doc:`../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve` 
+*	:doc:`Presolve/GUROBI_Presolve_-_Presolve`  
 

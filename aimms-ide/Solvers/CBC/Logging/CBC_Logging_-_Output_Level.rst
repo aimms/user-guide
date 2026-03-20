@@ -18,4 +18,4 @@ The option sets the level of detail in (LP) solver output. If 0 then there shoul
 
 **Learn more about** 
 
-*	:doc:`CBC_Logging_-_Status_File <CBC_Logging_-_Status_File>` 
+*	:doc:`CBC_Logging_-_Status_File` 

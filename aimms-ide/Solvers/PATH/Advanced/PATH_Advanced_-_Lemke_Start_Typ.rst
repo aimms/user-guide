@@ -34,5 +34,5 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:doc:`PATH_Advanced_-_Frequency_Lemke <PATH_Advanced_-_Frequency_Lemke>`  
-*	:doc:`PATH_Advanced_-_Lemke_Rank_Def <PATH_Advanced_-_Lemke_Rank_Def>`  
+*	:doc:`PATH_Advanced_-_Frequency_Lemke`  
+*	:doc:`PATH_Advanced_-_Lemke_Rank_Def`  

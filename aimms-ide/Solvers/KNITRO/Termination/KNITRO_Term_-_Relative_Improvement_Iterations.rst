@@ -18,4 +18,4 @@ The optimization process will terminate if the relative change in the objective 
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Term_-_Relative_Improvement_Tolerance <KNITRO_Term_-_Relative_Improvement_Tolerance>`  
+*	:doc:`KNITRO_Term_-_Relative_Improvement_Tolerance`  

@@ -27,6 +27,6 @@ is discovered.
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_-_Improve_Start_Gap <GUROBI_MIP_-_Improve_Start_Gap>`  
-*	:doc:`GUROBI_MIP_-_Improve_Start_Nodes <GUROBI_MIP_-_Improve_Start_Nodes>`  
-*	:doc:`GUROBI_MIP_-_Improve_Start_Time <GUROBI_MIP_-_Improve_Start_Time>`  
+*	:doc:`GUROBI_MIP_-_Improve_Start_Gap`  
+*	:doc:`GUROBI_MIP_-_Improve_Start_Nodes`  
+*	:doc:`GUROBI_MIP_-_Improve_Start_Time`  

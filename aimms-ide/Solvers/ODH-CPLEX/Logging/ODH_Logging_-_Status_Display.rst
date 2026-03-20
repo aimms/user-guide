@@ -44,7 +44,7 @@ The logging information is written to the AIMMS message window if the general so
 
 **Learn more about** 
 
-*	:doc:`ODH_XLogging_-_MIP_Display <../CPLEX Logging/ODH_XLogging_-_MIP_Display>` 
-*	:doc:`Solver_Specific_-_Solver_Listi <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_Listi>`   (General solvers option)
-*	:doc:`Solver_Specific_-_Solver_List1 <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1>`   (General solvers option)
-*	:doc:`Solver_Specific_-_Solver_Windo <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_Windo>`   (General solvers option)
+*	:doc:`../CPLEX Logging/ODH_XLogging_-_MIP_Display` 
+*	:doc:`../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_Listi`   (General solvers option)
+*	:doc:`../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1`   (General solvers option)
+*	:doc:`../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_Windo`   (General solvers option)

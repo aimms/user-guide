@@ -100,6 +100,6 @@ The highest condition number encountered during a MIP solve.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_-_MIP_Method <CPLEX_MIP_-_MIP_Method>` 
-*	:doc:`CPLEX_General_-_NumericalEmphasis <../General/CPLEX_General_-_NumericalEmphasis>` 
-*	:doc:`Solver_Specific_-_Solver_List1 <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1>`  
+*	:doc:`CPLEX_MIP_-_MIP_Method` 
+*	:doc:`../General/CPLEX_General_-_NumericalEmphasis` 
+*	:doc:`../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1`  

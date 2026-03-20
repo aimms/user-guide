@@ -70,8 +70,8 @@ If this option is set to 'None' then BARON will not do any local searches for fi
 
 **Learn more about** 
 
-*	:doc:`BARON_Local_Search_Heuristic_-_Numbe <../Local Search Heuristic/BARON_Local_Search_Heuristic_-_Numbe>` 
-*	:doc:`BARON_Local_Search_Heuristic_-_Upper <../Local Search Heuristic/BARON_Local_Search_Heuristic_-_Upper>` 
+*	:doc:`../Local Search Heuristic/BARON_Local_Search_Heuristic_-_Numbe` 
+*	:doc:`../Local Search Heuristic/BARON_Local_Search_Heuristic_-_Upper` 
 *	`FilterSD <https://github.com/coin-or/Ipopt>`_ (Internet link)
 *	`IPOPT <https://github.com/coin-or/Ipopt>`_ (Internet link)
 

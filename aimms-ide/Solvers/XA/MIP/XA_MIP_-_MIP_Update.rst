@@ -24,7 +24,7 @@ When solving an updated version of an already loaded model, XA retrieves these u
 
 **Learn more about** 
 
-*	:doc:`XA_MIP_-_MIP_Basis <XA_MIP_-_MIP_Basis>`  
+*	:doc:`XA_MIP_-_MIP_Basis`  
 
 
 

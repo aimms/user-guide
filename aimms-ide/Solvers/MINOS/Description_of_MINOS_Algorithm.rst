@@ -91,9 +91,9 @@ the initial point :math:`x_0` should lie within the bounds.
 
 **Learn more about** 
 
-*	:doc:`DampingParameter <Lagrangian/DampingParameter>`  
-*	:doc:`PenaltyParameter <Lagrangian/PenaltyParameter>`  
-*	:doc:`Scaling_-_Scale_Method <Scaling/Scaling_-_Scale_Method>`  
+*	:doc:`Lagrangian/DampingParameter`  
+*	:doc:`Lagrangian/PenaltyParameter`  
+*	:doc:`Scaling/Scaling_-_Scale_Method`  
 
 
 

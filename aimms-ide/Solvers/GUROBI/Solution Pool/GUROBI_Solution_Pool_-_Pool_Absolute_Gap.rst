@@ -25,4 +25,4 @@ This option determines how large a (absolute) gap to tolerate in stored solution
 
 **Learn more about** 
 
-*	:doc:`GUROBI_Solution_Pool_-_Pool_Gap <GUROBI_Solution_Pool_-_Pool_Gap>` 
+*	:doc:`GUROBI_Solution_Pool_-_Pool_Gap` 

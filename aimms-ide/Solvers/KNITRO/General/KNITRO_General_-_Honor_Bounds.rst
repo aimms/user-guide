@@ -31,4 +31,4 @@ This option might be switched to 'Always' if the objective function or a nonline
 
 **Learn more about** 
 
-*	:doc:`KNITRO_IP_-_Feasible_mode <../Interior Point/KNITRO_IP_-_Feasible_mode>`  
+*	:doc:`../Interior Point/KNITRO_IP_-_Feasible_mode`  

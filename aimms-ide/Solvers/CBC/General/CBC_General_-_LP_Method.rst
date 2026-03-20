@@ -32,7 +32,7 @@ This option determines which algorithm should be used to solve the model. Possib
 
 **Learn more about** 
 
-*	:doc:`Postsolve_-_Postsolve <../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve>` 
+*	:doc:`../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve` 
 
 
 

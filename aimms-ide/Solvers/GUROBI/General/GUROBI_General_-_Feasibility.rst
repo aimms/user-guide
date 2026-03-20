@@ -29,7 +29,7 @@ This option also controls the maximum constraint violation.
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_-_Integrality <../MIP/GUROBI_MIP_-_Integrality>`  
+*	:doc:`../MIP/GUROBI_MIP_-_Integrality`  
 
 
 

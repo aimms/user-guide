@@ -43,9 +43,9 @@ If you switch on the option **Read Parameter File**  then you can specify multip
 
 **Learn more about** 
 
-*	:doc:`GUROBI_Logging_-_Output_File <../Logging/GUROBI_Logging_-_Output_File>` 
-*	:doc:`GUROBI_General_-_Read_Parameter_File <../General/GUROBI_General_-_Read_Parameter_File>` 
-*	:doc:`GUROBI_Parallel_-_Thread_Limit <GUROBI_Parallel_-_Thread_Limit>` 
+*	:doc:`../Logging/GUROBI_Logging_-_Output_File` 
+*	:doc:`../General/GUROBI_General_-_Read_Parameter_File` 
+*	:doc:`GUROBI_Parallel_-_Thread_Limit` 
 
 
 

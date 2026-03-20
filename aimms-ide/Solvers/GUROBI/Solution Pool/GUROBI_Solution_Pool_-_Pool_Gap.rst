@@ -25,4 +25,4 @@ This option determines the maximum gap for stored solutions. When this option is
 
 **Learn more about** 
 
-*	:doc:`GUROBI_Solution_Pool_-_Pool_Absolute_Gap <GUROBI_Solution_Pool_-_Pool_Absolute_Gap>` 
+*	:doc:`GUROBI_Solution_Pool_-_Pool_Absolute_Gap` 

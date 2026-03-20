@@ -42,5 +42,5 @@ The option **IIS Include Integers**  determines whether or not general integer v
 
 **Learn more about** 
 
-*	:doc:`BARON_General_-_IIS_include_integers <BARON_General_-_IIS_include_integers>` 
-*	:doc:`Solution_-_Infeasibility_Finde <../../../Aimms/Options/Solvers General/Standard Reports/Solution/Solution_-_Infeasibility_Finde>`  
+*	:doc:`BARON_General_-_IIS_include_integers` 
+*	:doc:`../../../Aimms/Options/Solvers General/Standard Reports/Solution/Solution_-_Infeasibility_Finde`  

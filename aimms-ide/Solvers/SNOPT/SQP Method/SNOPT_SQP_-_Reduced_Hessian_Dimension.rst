@@ -22,4 +22,4 @@ The default value of -1 is special; in that case the reduced Hessian dimension i
 
 **Learn more about** 
 
-*	:doc:`SNOPT_SQP_-_QP_Solver <SNOPT_SQP_-_QP_Solver>`  
+*	:doc:`SNOPT_SQP_-_QP_Solver`  

@@ -30,7 +30,7 @@ This option also controls indirectly the maximum constraint violation as it cont
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_-_Integrality <../CPLEX MIP/ODH_XMIP_-_Integrality>`  
+*	:doc:`../CPLEX MIP/ODH_XMIP_-_Integrality`  
 
 
 

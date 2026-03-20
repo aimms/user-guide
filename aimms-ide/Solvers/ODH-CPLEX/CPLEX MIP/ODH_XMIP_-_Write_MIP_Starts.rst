@@ -28,6 +28,6 @@ Possible values of this option are:
 
 **Learn more about** 
 
-*	:doc:`ODH_XGeneral_-_LP_File <../CPLEX General/ODH_XGeneral_-_LP_File>`  
-*	:doc:`ODH_XGeneral_-_MemoryEmphasis <../CPLEX General/ODH_XGeneral_-_MemoryEmphasis>`  
-*	:doc:`ODH_XGeneral_-_Sav_File <../CPLEX General/ODH_XGeneral_-_Sav_File>`  
+*	:doc:`../CPLEX General/ODH_XGeneral_-_LP_File`  
+*	:doc:`../CPLEX General/ODH_XGeneral_-_MemoryEmphasis`  
+*	:doc:`../CPLEX General/ODH_XGeneral_-_Sav_File`  

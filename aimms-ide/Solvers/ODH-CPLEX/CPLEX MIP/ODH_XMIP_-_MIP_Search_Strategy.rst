@@ -58,8 +58,8 @@ If the value of this option equals 'Apply branch-and-cut' then CPLEX will use on
 
 **Learn more about** 
 
-*	:doc:`ODH_XPar_-_GlobalThreadLimit <../CPLEX Parallel/ODH_XPar_-_GlobalThreadLimit>` 
-*	:doc:`Progress_Options_-_Progress_Time_Interval <../../../Aimms/Options/AIMMS/Progress, Errors & Warnings/Progress Options/Progress_Options_-_Progress_Time_Interval>` 
+*	:doc:`../CPLEX Parallel/ODH_XPar_-_GlobalThreadLimit` 
+*	:doc:`../../../Aimms/Options/AIMMS/Progress, Errors & Warnings/Progress Options/Progress_Options_-_Progress_Time_Interval` 
 
 
 

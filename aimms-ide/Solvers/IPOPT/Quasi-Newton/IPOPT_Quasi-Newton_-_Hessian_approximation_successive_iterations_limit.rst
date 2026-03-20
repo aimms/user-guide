@@ -27,4 +27,4 @@ This option specifies the threshold for successive iterations where update is sk
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Quasi-Newton_-_Method_for_Hessian_computation <IPOPT_Quasi-Newton_-_Method_for_Hessian_computation>` 
+*	:doc:`IPOPT_Quasi-Newton_-_Method_for_Hessian_computation` 

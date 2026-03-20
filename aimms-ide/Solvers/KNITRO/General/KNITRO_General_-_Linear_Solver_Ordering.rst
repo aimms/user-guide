@@ -50,4 +50,4 @@ With the setting 'METIS', use METIS ordering.
 
 **Learn more about** 
 
-*	:doc:`KNITRO_General_-_Linear_Solver <KNITRO_General_-_Linear_Solver>` 
+*	:doc:`KNITRO_General_-_Linear_Solver` 

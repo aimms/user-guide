@@ -201,10 +201,10 @@ CONOPT 4 can use multiple threads for some internal computations and for functio
 
 **Learn more about** 
 
-*	:doc:`CONOPT_Limits_-_Limit_Linear_Feas_Model_Rounds <Limits/CONOPT_Limits_-_Limit_Linear_Feas_Model_Rounds>`  
-*	:doc:`CONOPT_Advanced_-_Method_Linear_Feas_Models <Advanced/CONOPT_Advanced_-_Method_Linear_Feas_Models>` 
-*	:doc:`CONOPT_General_-_Model_is_Convex <General/CONOPT_General_-_Model_is_Convex>` 
-*	:doc:`CONOPT_Advanced_-_Penalty_Constraints_Ratio <Advanced/CONOPT_Advanced_-_Penalty_Constraints_Ratio>`  
-*	:doc:`CONOPT_Preprocessing_-_Preprocessor <Preprocessing/CONOPT_Preprocessing_-_Preprocessor>` 
-*	:doc:`CONOPT_Parallel_-_Thread_Limit <Parallel/CONOPT_Parallel_-_Thread_Limit>` 
-*	:doc:`CONOPT_Advanced_-_Use_No_Penalty_Model <Advanced/CONOPT_Advanced_-_Use_No_Penalty_Model>`  
+*	:doc:`Limits/CONOPT_Limits_-_Limit_Linear_Feas_Model_Rounds`  
+*	:doc:`Advanced/CONOPT_Advanced_-_Method_Linear_Feas_Models` 
+*	:doc:`General/CONOPT_General_-_Model_is_Convex` 
+*	:doc:`Advanced/CONOPT_Advanced_-_Penalty_Constraints_Ratio`  
+*	:doc:`Preprocessing/CONOPT_Preprocessing_-_Preprocessor` 
+*	:doc:`Parallel/CONOPT_Parallel_-_Thread_Limit` 
+*	:doc:`Advanced/CONOPT_Advanced_-_Use_No_Penalty_Model`  

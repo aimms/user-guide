@@ -43,5 +43,5 @@ The level values correspond to the fractional solution found at the end of the r
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_Advanced_-_Find_Fractional_Root_Solution <CPLEX_MIP_Advanced_-_Find_Fractional_Root_Solution>` 
-*	:doc:`CPLEX_MIP_Advanced_-_Write_Cuts <CPLEX_MIP_Advanced_-_Write_Cuts>` 
+*	:doc:`CPLEX_MIP_Advanced_-_Find_Fractional_Root_Solution` 
+*	:doc:`CPLEX_MIP_Advanced_-_Write_Cuts` 

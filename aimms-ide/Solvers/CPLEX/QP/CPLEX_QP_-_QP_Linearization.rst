@@ -49,4 +49,4 @@ This option interacts with the option **Solution Target**:
 
 **Learn more about** 
 
-*	:doc:`CPLEX_QP_-_Solution_Target <CPLEX_QP_-_Solution_Target>`  
+*	:doc:`CPLEX_QP_-_Solution_Target`  

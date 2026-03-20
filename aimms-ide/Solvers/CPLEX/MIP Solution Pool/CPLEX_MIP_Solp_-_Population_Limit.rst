@@ -38,7 +38,7 @@ This option has only meaning if the option **Do** **Populate**  is switched on.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_Solp_-_Do_Populate <CPLEX_MIP_Solp_-_Do_Populate>`  
-*	:doc:`CPLEX_MIP_Solp_-_Pool_Abs_Obj_Gap <CPLEX_MIP_Solp_-_Pool_Abs_Obj_Gap>`  
-*	:doc:`CPLEX_MIP_Solp_-_Pool_Capacity <CPLEX_MIP_Solp_-_Pool_Capacity>`  
-*	:doc:`CPLEX_MIP_Solp_-_Pool_Rel_Obj_Gap <CPLEX_MIP_Solp_-_Pool_Rel_Obj_Gap>`  
+*	:doc:`CPLEX_MIP_Solp_-_Do_Populate`  
+*	:doc:`CPLEX_MIP_Solp_-_Pool_Abs_Obj_Gap`  
+*	:doc:`CPLEX_MIP_Solp_-_Pool_Capacity`  
+*	:doc:`CPLEX_MIP_Solp_-_Pool_Rel_Obj_Gap`  

@@ -31,4 +31,4 @@ hen the priority order specified by either way will be ignored.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_-_MIP_Priority_Order_Type <CPLEX_MIP_-_MIP_Priority_Order_Type>` 
+*	:doc:`CPLEX_MIP_-_MIP_Priority_Order_Type` 

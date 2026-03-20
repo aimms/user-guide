@@ -18,7 +18,7 @@ BARON terminates if U - L <= e, where U and L are the lower and upper bounds to 
 
 **Learn more about** 
 
-*	:doc:`BARON_Termination_-_Relative_terminat <BARON_Termination_-_Relative_terminat>` 
+*	:doc:`BARON_Termination_-_Relative_terminat` 
 
 
 

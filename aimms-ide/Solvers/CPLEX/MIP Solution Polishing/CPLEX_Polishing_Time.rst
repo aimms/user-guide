@@ -40,5 +40,5 @@ and that CPLEX applies polishing if a solution is found during that time.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Polishing_Time_Deterministic <CPLEX_Polishing_Time_Deterministic>`  
-*	:doc:`Stop_Criteria_-_Time_Limit <../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>`  
+*	:doc:`CPLEX_Polishing_Time_Deterministic`  
+*	:doc:`../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit`  

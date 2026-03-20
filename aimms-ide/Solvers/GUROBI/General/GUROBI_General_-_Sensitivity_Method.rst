@@ -26,7 +26,7 @@ This option specifies which method is used by Gurobi for solving LP problems whi
 See the option **Method** for a description of the algorithms.
 
 Multiple LP problems are solved to calculate shadow price ranges for constraints and value ranges for variables. See
-:doc:`Calculation_of_Shadow_Price_Ra <../../../Aimms/Miscellaneous/Short Descriptions/Calculation_of_Shadow_Price_Ra>` for more information.
+:doc:`../../../Aimms/Miscellaneous/Short Descriptions/Calculation_of_Shadow_Price_Ra` for more information.
 
 
 **Note** 
@@ -37,7 +37,7 @@ Multiple LP problems are solved to calculate shadow price ranges for constraints
 
 **Learn more about** 
 
-*	:doc:`Sensitivity_-_Calculate_Sensit <../../../Aimms/Options/Solvers General/Sensitivity/Sensitivity_-_Calculate_Sensit>` 
-*	:doc:`GUROBI_General_-_Concurrent_Method <GUROBI_General_-_Concurrent_Method>` 
-*	:doc:`GUROBI_General_-_Method <GUROBI_General_-_Method>` 
+*	:doc:`../../../Aimms/Options/Solvers General/Sensitivity/Sensitivity_-_Calculate_Sensit` 
+*	:doc:`GUROBI_General_-_Concurrent_Method` 
+*	:doc:`GUROBI_General_-_Method` 
 

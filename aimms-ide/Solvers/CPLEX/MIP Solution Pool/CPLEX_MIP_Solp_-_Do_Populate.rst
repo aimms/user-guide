@@ -28,11 +28,11 @@ This option should be switched on before a normal solve statement (or before :an
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Solution_Pool <../CPLEX_Solution_Pool>`  
-*	:doc:`CPLEX_MIP_Solp_-_Pool_Abs_Obj_Gap <CPLEX_MIP_Solp_-_Pool_Abs_Obj_Gap>`  
-*	:doc:`CPLEX_MIP_Solp_-_Pool_Intensity <CPLEX_MIP_Solp_-_Pool_Intensity>`  
-*	:doc:`CPLEX_MIP_Solp_-_Pool_Rel_Obj_Gap <CPLEX_MIP_Solp_-_Pool_Rel_Obj_Gap>`  
-*	:doc:`CPLEX_MIP_Solp_-_Pool_Repl_Strat <CPLEX_MIP_Solp_-_Pool_Repl_Strat>`  
-*	:doc:`CPLEX_MIP_Solp_-_Populate_time_limit <CPLEX_MIP_Solp_-_Populate_time_limit>`  
-*	:doc:`CPLEX_MIP_Solp_-_Population_Limit <CPLEX_MIP_Solp_-_Population_Limit>`  
+*	:doc:`../CPLEX_Solution_Pool`  
+*	:doc:`CPLEX_MIP_Solp_-_Pool_Abs_Obj_Gap`  
+*	:doc:`CPLEX_MIP_Solp_-_Pool_Intensity`  
+*	:doc:`CPLEX_MIP_Solp_-_Pool_Rel_Obj_Gap`  
+*	:doc:`CPLEX_MIP_Solp_-_Pool_Repl_Strat`  
+*	:doc:`CPLEX_MIP_Solp_-_Populate_time_limit`  
+*	:doc:`CPLEX_MIP_Solp_-_Population_Limit`  
 

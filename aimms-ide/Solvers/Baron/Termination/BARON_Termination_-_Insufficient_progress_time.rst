@@ -22,9 +22,9 @@ If δt is set to a non-positive quantity, BARON will automatically set δt equal
 
 **Learn more about** 
 
-*	:doc:`BARON_Termination_-_Absolute_improvement_tolerance <BARON_Termination_-_Absolute_improvement_tolerance>` 
-*	:doc:`BARON_Termination_-_Insufficient_progress_terminat <BARON_Termination_-_Insufficient_progress_terminat>` 
-*	:doc:`BARON_Termination_-_Relative_improvement_tolerance <BARON_Termination_-_Relative_improvement_tolerance>` 
+*	:doc:`BARON_Termination_-_Absolute_improvement_tolerance` 
+*	:doc:`BARON_Termination_-_Insufficient_progress_terminat` 
+*	:doc:`BARON_Termination_-_Relative_improvement_tolerance` 
 
 
 

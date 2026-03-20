@@ -55,13 +55,13 @@ The ODH-CPLEX engine has a heuristic method for finding an initial feasible solu
 
 
 
-ODH-CPLEX' principal algorithm works by solving a sequence of sub-models. An innovative aspect of this process is its ability to use the model’s symbolic structure to achieve the sub-model decomposition. It does this by analyzing the symbolic names that the user gives to the decision variables and careful specification of how this should be done this is worthwhile. ODH-CPLEX can work without this analysis, but it usually takes about twice as much runtime. The section :doc:`ODH_-_Specifying_Model_Structure <ODH_-_Specifying_Model_Structure>` describes how ODH-CPLEX breaks down the matrix (from the original model) into sub-models.
+ODH-CPLEX' principal algorithm works by solving a sequence of sub-models. An innovative aspect of this process is its ability to use the model’s symbolic structure to achieve the sub-model decomposition. It does this by analyzing the symbolic names that the user gives to the decision variables and careful specification of how this should be done this is worthwhile. ODH-CPLEX can work without this analysis, but it usually takes about twice as much runtime. The section :doc:`ODH_-_Specifying_Model_Structure` describes how ODH-CPLEX breaks down the matrix (from the original model) into sub-models.
 
 
 
 **Parallel Execution** 
 
-ODH-CPLEX can use multiple simultaneous threads to improved the performance. More information can be found in the section :doc:`ODH_-_Parallel_Execution <ODH_-_Parallel_Execution>`.
+ODH-CPLEX can use multiple simultaneous threads to improved the performance. More information can be found in the section :doc:`ODH_-_Parallel_Execution`.
 
 
 
@@ -79,11 +79,11 @@ ODH-CPLEX is equipped with parameters that influence the performance of ODH-CPLE
 
 
 
-The first two categories of options in AIMMS can be set in the options dialog box. The last two categories of options can only be set using a parameter file. (The first two categories of options can also be set using this parameter file.) More information can be found in the section :doc:`ODH_-_Parameter_File <ODH_-_Parameter_File>`.
+The first two categories of options in AIMMS can be set in the options dialog box. The last two categories of options can only be set using a parameter file. (The first two categories of options can also be set using this parameter file.) More information can be found in the section :doc:`ODH_-_Parameter_File`.
 
 
 
-The sections :doc:`ODH_to_AIMMS_Mapping <ODH_to_AIMMS_Mapping>` and :doc:`AIMMS_to_ODH_Mapping <AIMMS_to_ODH_Mapping>` contain mappings between the ODH-CPLEX parameters and the AIMMS options for ODH-CPLEX.
+The sections :doc:`ODH_to_AIMMS_Mapping` and :doc:`AIMMS_to_ODH_Mapping` contain mappings between the ODH-CPLEX parameters and the AIMMS options for ODH-CPLEX.
 
 
 
@@ -112,10 +112,10 @@ ODH-CPLEX does support lazy constraints that are added to a pool of lazy constra
 **Learn more about** 
 
 *	`ODH-CPLEX <https://www.optimizationdirect.com/>`_ (Internet link)
-*	:doc:`ODH_to_AIMMS_Mapping <ODH_to_AIMMS_Mapping>`  
-*	:doc:`AIMMS_to_ODH_Mapping <AIMMS_to_ODH_Mapping>`  
-*	:doc:`AIMMS_Execution_Options <../../Aimms/Options/AIMMS_Execution_Options>`  
-*	:doc:`ODH_-_Parallel_Execution <ODH_-_Parallel_Execution>` 
-*	:doc:`ODH_-_Parameter_File <ODH_-_Parameter_File>` 
-*	:doc:`ODH_General_-_Search_Mode <General/ODH_General_-_Search_Mode>`  
-*	:doc:`ODH_-_Specifying_Model_Structure <ODH_-_Specifying_Model_Structure>` 
+*	:doc:`ODH_to_AIMMS_Mapping`  
+*	:doc:`AIMMS_to_ODH_Mapping`  
+*	:doc:`../../Aimms/Options/AIMMS_Execution_Options`  
+*	:doc:`ODH_-_Parallel_Execution` 
+*	:doc:`ODH_-_Parameter_File` 
+*	:doc:`General/ODH_General_-_Search_Mode`  
+*	:doc:`ODH_-_Specifying_Model_Structure` 

@@ -25,5 +25,5 @@ This option limits the amount of time (in seconds) CPLEX should spend in probing
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_-_MIP_Probing <ODH_XMIP_-_MIP_Probing>` 
-*	:doc:`ODH_XMIP_-_Probing_Time_Deterministic <ODH_XMIP_-_Probing_Time_Deterministic>` 
+*	:doc:`ODH_XMIP_-_MIP_Probing` 
+*	:doc:`ODH_XMIP_-_Probing_Time_Deterministic` 

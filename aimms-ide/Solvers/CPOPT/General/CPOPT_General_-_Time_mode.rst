@@ -28,5 +28,5 @@ Possible values are:
 
 **Learn more about** 
 
-*	:doc:`CPOPT_Parallel_-_Number_of_workers <../Parallel/CPOPT_Parallel_-_Number_of_workers>` 
-*	:doc:`Stop_Criteria_-_Time_Limit <../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>`  
+*	:doc:`../Parallel/CPOPT_Parallel_-_Number_of_workers` 
+*	:doc:`../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit`  

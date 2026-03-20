@@ -49,4 +49,4 @@ This option interacts with the option **Solution Target**:
 
 **Learn more about** 
 
-*	:doc:`ODH_XQuadratic_-_Solution_Target <ODH_XQuadratic_-_Solution_Target>`  
+*	:doc:`ODH_XQuadratic_-_Solution_Target`  

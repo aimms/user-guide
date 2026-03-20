@@ -25,7 +25,7 @@ This option specifies the number of rounds of cutting plane generation at LP rel
 
 **Learn more about** 
 
-*	:doc:`BARON_General_-_LP_solver <../General/BARON_General_-_LP_solver>` 
+*	:doc:`../General/BARON_General_-_LP_solver` 
 
 
 

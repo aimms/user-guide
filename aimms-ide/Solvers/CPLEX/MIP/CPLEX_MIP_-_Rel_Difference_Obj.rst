@@ -18,7 +18,7 @@ The value of this option is used to update the cutoff each time a mixed integer 
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_-_Difference_Object <CPLEX_MIP_-_Difference_Object>`  
+*	:doc:`CPLEX_MIP_-_Difference_Object`  
 
 
 

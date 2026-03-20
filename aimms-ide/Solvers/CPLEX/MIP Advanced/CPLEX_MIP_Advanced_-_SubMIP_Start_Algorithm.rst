@@ -26,7 +26,7 @@ This option sets which continuous optimizer will be used to solve the initial re
 
 
 
-SubMIPS are described in the section :doc:`CPLEX_SubMIP <../CPLEX_SubMIP>`.
+SubMIPS are described in the section :doc:`../CPLEX_SubMIP`.
 
 
 
@@ -71,4 +71,4 @@ Sifting solves a sequence of LP subproblems, where the results from one subprobl
 
 **Learn more about** 
 
-*	:doc:`CPLEX_SubMIP <../CPLEX_SubMIP>` 
+*	:doc:`../CPLEX_SubMIP` 

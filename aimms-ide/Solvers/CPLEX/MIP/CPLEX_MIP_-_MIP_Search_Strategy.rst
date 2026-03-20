@@ -26,7 +26,7 @@ An important drawback of the dynamic search algorithm is that it cannot be used 
 option **Use Generic Callbacks** is set to 'No'. The branch, candidate, cut, heuristic and lazy constraints callback procedures
 will not be executed if 'Apply dynamic search' is chosen and the option **Use Generic Callbacks** is set to 'No'. However, the
 callback procedures for incumbent, iterations, status change and time are still executed. See the section
-:doc:`CPLEX_Threads_search_strat_and_callb <../CPLEX_Threads_search_strat_and_callb>`. If the generic callback implementation is used by CPLEX, activated by setting
+:doc:`../CPLEX_Threads_search_strat_and_callb`. If the generic callback implementation is used by CPLEX, activated by setting
 the option **Use Generic Callbacks** to 'Yes', then all callback procedures (branch, candidate, cut, heuristic, incumbent,
 iterations, lazy constraints, status change and time) can be used in combination with the dynamic search algorithm.
 
@@ -50,9 +50,9 @@ to set the **Global Thread Limit** to a value strictly larger than 1.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Threads_search_strat_and_callb <../CPLEX_Threads_search_strat_and_callb>` 
-*	:doc:`CPLEX_Par_-_GlobalThreadLimit <../Parallel/CPLEX_Par_-_GlobalThreadLimit>` 
-*	:doc:`Progress_Options_-_Progress_Time_Interval <../../../Aimms/Options/AIMMS/Progress, Errors & Warnings/Progress Options/Progress_Options_-_Progress_Time_Interval>` 
-*	:doc:`CPLEX_General_-_StealthMode <../General/CPLEX_General_-_StealthMode>` 
-*	:doc:`CPLEX_MIP_-_Use_Generic_Callbacks <CPLEX_MIP_-_Use_Generic_Callbacks>` 
+*	:doc:`../CPLEX_Threads_search_strat_and_callb` 
+*	:doc:`../Parallel/CPLEX_Par_-_GlobalThreadLimit` 
+*	:doc:`../../../Aimms/Options/AIMMS/Progress, Errors & Warnings/Progress Options/Progress_Options_-_Progress_Time_Interval` 
+*	:doc:`../General/CPLEX_General_-_StealthMode` 
+*	:doc:`CPLEX_MIP_-_Use_Generic_Callbacks` 
 

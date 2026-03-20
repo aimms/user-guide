@@ -28,4 +28,4 @@ This option specifies the primal pivot selection algorithm. Possible values are:
 
 **Learn more about** 
 
-*	:doc:`CBC_Simplex_-_Dual_pivot <CBC_Simplex_-_Dual_pivot>`  
+*	:doc:`CBC_Simplex_-_Dual_pivot`  

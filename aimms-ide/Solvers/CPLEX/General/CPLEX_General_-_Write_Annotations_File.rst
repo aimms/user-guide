@@ -29,7 +29,7 @@ algorithm, as controlled by the option **Benders Strategy**.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Benders_-_Benders_Strategy <../Benders/CPLEX_Benders_-_Benders_Strategy>` 
-*	:doc:`CPLEX_General_-_LP_File <CPLEX_General_-_LP_File>`  
-*	:doc:`CPLEX_General_-_MPS <CPLEX_General_-_MPS>`  
-*	:doc:`CPLEX_General_-_Sav_File <CPLEX_General_-_Sav_File>`  
+*	:doc:`../Benders/CPLEX_Benders_-_Benders_Strategy` 
+*	:doc:`CPLEX_General_-_LP_File`  
+*	:doc:`CPLEX_General_-_MPS`  
+*	:doc:`CPLEX_General_-_Sav_File`  

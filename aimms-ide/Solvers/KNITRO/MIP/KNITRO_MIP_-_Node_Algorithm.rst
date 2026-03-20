@@ -34,7 +34,7 @@ See the option **Algorithm**  for more information about the algorithms.
 
 **Learn more about** 
 
-*	:doc:`KNITRO_General_-_Algorithm <../General/KNITRO_General_-_Algorithm>`  
+*	:doc:`../General/KNITRO_General_-_Algorithm`  
 
 
 

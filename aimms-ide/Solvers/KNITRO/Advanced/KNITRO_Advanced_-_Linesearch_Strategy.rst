@@ -32,4 +32,4 @@ This option has no effect on the Interior-CG or Active-Set algorithm.
 
 **Learn more about** 
 
-*	:doc:`KNITRO_General_-_Algorithm <../General/KNITRO_General_-_Algorithm>` 
+*	:doc:`../General/KNITRO_General_-_Algorithm` 

@@ -28,4 +28,4 @@ On most computers the default equals 6.0e-6.
 
 **Learn more about** 
 
-*	:doc:`SNOPT_SQP_-_DerivativeOption <SNOPT_SQP_-_DerivativeOption>`  
+*	:doc:`SNOPT_SQP_-_DerivativeOption`  

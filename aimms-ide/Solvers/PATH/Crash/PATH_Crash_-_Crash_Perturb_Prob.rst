@@ -33,7 +33,7 @@ The setting of this option should only be changed by specialist users.
 
 **Learn more about** 
 
-*	:doc:`PATH_Crash_-_Crash_Method <PATH_Crash_-_Crash_Method>`  
+*	:doc:`PATH_Crash_-_Crash_Method`  
 
 
 

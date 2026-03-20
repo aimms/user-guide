@@ -43,7 +43,7 @@ Note that the general solvers option **Iteration Limit**  defines (in case of Kn
 
 Knitro can use its own multistart algorithm. It the option **Multistart**  is switched on then Knitro will solve from multiple start points and try to find a better solution.
 
-Knitro supports the :doc:`KNITRO_Tuner <KNITRO_Tuner>`, a utility to aid you in improving the performance of your optimization application. It suggests a suite of option settings for you to use that provide better performance than the default option settings for your model.
+Knitro supports the :doc:`KNITRO_Tuner`, a utility to aid you in improving the performance of your optimization application. It suggests a suite of option settings for you to use that provide better performance than the default option settings for your model.
 
 The option categories MIP and MIP Cuts contain options that influence the Knitro algorithm for solving MINLP problems.
 
@@ -73,14 +73,14 @@ The procedure :any:`GMP::SolverSession::AsynchronousExecute` should be used to s
 **Learn more about** 
 
 *	`Knitro <https://www.artelys.com/solvers/knitro/>`_ (Internet link)
-*	:doc:`KNITRO_to_AIMMS_Mapping <KNITRO_to_AIMMS_Mapping>` 
-*	:doc:`AIMMS_to_KNITRO_Mapping <AIMMS_to_KNITRO_Mapping>`  
-*	:doc:`Description_KNITRO_Algorithms <Description_KNITRO_Algorithms>` 
-*	:doc:`KNITRO_Complementarities <KNITRO_Complementarities>` 
-*	:doc:`KNITRO_Tuner <KNITRO_Tuner>` 
-*	:doc:`AIMMS_Execution_Options <../../Aimms/Options/AIMMS_Execution_Options>`  
-*	:doc:`Stop_Criteria_-_Iteration_Limi <../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Iteration_Limi>`  
-*	:doc:`KNITRO_MS_-_Multistart <Multistart/KNITRO_MS_-_Multistart>`  
-*	:doc:`NonlinPres_-_NonlinearPresolve <../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_NonlinearPresolve>` 
-*	:doc:`KNITRO_Presolve_-_Presolve <Presolve/KNITRO_Presolve_-_Presolve>`  
-*	:doc:`Stop_Criteria_-_Time_Limit <../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>`  
+*	:doc:`KNITRO_to_AIMMS_Mapping` 
+*	:doc:`AIMMS_to_KNITRO_Mapping`  
+*	:doc:`Description_KNITRO_Algorithms` 
+*	:doc:`KNITRO_Complementarities` 
+*	:doc:`KNITRO_Tuner` 
+*	:doc:`../../Aimms/Options/AIMMS_Execution_Options`  
+*	:doc:`../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Iteration_Limi`  
+*	:doc:`Multistart/KNITRO_MS_-_Multistart`  
+*	:doc:`../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_NonlinearPresolve` 
+*	:doc:`Presolve/KNITRO_Presolve_-_Presolve`  
+*	:doc:`../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit`  

@@ -29,8 +29,8 @@ Broadly speaking, the more updates stored, the better the quality of the approxi
 
 **Learn more about** 
 
-*	:doc:`SNOPT_Advanced_-_Hessian_Frequency <SNOPT_Advanced_-_Hessian_Frequency>`  
-*	:doc:`SNOPT_Advanced_-_Hessian_Memory <SNOPT_Advanced_-_Hessian_Memory>`  
+*	:doc:`SNOPT_Advanced_-_Hessian_Frequency`  
+*	:doc:`SNOPT_Advanced_-_Hessian_Memory`  
 
 
 

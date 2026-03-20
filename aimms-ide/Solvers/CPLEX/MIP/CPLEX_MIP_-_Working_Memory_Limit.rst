@@ -22,7 +22,7 @@ These actions are defined by the option **Node File**, which controls how CPLEX 
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_-_Node_File <CPLEX_MIP_-_Node_File>`  
+*	:doc:`CPLEX_MIP_-_Node_File`  
 
 
 

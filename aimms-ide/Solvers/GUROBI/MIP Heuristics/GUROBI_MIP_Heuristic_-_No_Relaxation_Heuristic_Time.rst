@@ -29,4 +29,4 @@ Note that this option will introduce non-determinism - different runs may take d
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Work <GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Work>`  
+*	:doc:`GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Work`  

@@ -22,7 +22,7 @@ These actions are defined by the option **Node File**, which controls how CPLEX 
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_-_Node_File <ODH_XMIP_-_Node_File>`  
+*	:doc:`ODH_XMIP_-_Node_File`  
 
 
 

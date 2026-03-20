@@ -30,8 +30,8 @@ of major iterations. (A major iteration consists of a linearization of the nonli
 
 **Learn more about** 
 
-*	:doc:`Stop_Criteria_-_Iteration_Limi <../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Iteration_Limi>`  
-*	:doc:`Limits_-_Maximum_Number_of_Tot <Limits_-_Maximum_Number_of_Tot>`  
+*	:doc:`../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Iteration_Limi`  
+*	:doc:`Limits_-_Maximum_Number_of_Tot`  
 
 
 

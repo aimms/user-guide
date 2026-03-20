@@ -38,4 +38,4 @@ This option has no effect on the Interior/Direct and Interior/CG algorithms.
 
 **Learn more about** 
 
-*	:doc:`KNITRO_General_-_LP_Solver <../General/KNITRO_General_-_LP_Solver>` 
+*	:doc:`../General/KNITRO_General_-_LP_Solver` 

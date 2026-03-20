@@ -28,7 +28,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:doc:`XA_General_-_Restart_File_Number <XA_General_-_Restart_File_Number>`  
+*	:doc:`XA_General_-_Restart_File_Number`  
 
 
 

@@ -30,5 +30,5 @@ This option has only meaning if the option **Do** **Populate**  is switched on.
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_Solp_-_Do_Populate <ODH_XMIP_Solp_-_Do_Populate>`  
-*	:doc:`ODH_XMIP_Solp_-_Pool_Abs_Obj_Gap <ODH_XMIP_Solp_-_Pool_Abs_Obj_Gap>`  
+*	:doc:`ODH_XMIP_Solp_-_Do_Populate`  
+*	:doc:`ODH_XMIP_Solp_-_Pool_Abs_Obj_Gap`  

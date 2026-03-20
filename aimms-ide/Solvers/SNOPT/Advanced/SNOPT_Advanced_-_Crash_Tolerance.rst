@@ -22,7 +22,7 @@ When the value of this option is unequal to 0, the basis obtained by Crash may n
 
 **Learn more about** 
 
-*	:doc:`SNOPT_Advanced_-_Calling_Crash <SNOPT_Advanced_-_Calling_Crash>`  
+*	:doc:`SNOPT_Advanced_-_Calling_Crash`  
 
 
 

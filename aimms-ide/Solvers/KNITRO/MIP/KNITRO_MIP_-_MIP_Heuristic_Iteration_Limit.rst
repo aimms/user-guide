@@ -18,4 +18,4 @@ This option specifies the maximum number of iterations to allow for the MIP heur
 
 **Learn more about** 
 
-*	:doc:`KNITRO_MIP_-_MIP_Heuristic <KNITRO_MIP_-_MIP_Heuristic>`  
+*	:doc:`KNITRO_MIP_-_MIP_Heuristic`  

@@ -48,9 +48,9 @@ Knitro offers a crossover feature in which the interior point method switches to
 
 **Learn more about** 
 
-*	:doc:`KNITRO_General_-_Algorithm <General/KNITRO_General_-_Algorithm>`  
-*	:doc:`KNITRO_IP_-_CrossoverIterLimit <Interior Point/KNITRO_IP_-_CrossoverIterLimit>`  
-*	:doc:`KNITRO_IP_-_Feasible_mode <Interior Point/KNITRO_IP_-_Feasible_mode>`  
+*	:doc:`General/KNITRO_General_-_Algorithm`  
+*	:doc:`Interior Point/KNITRO_IP_-_CrossoverIterLimit`  
+*	:doc:`Interior Point/KNITRO_IP_-_Feasible_mode`  
 
 
 

@@ -20,6 +20,6 @@ This option determines which (scaled) overall optimality error is considered to 
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Termination_-_Dual_infeasibility_tolerance <IPOPT_Termination_-_Dual_infeasibility_tolerance>` 
-*	:doc:`IPOPT_Termination_-_Maximum_number_of_acceptable_iterations <IPOPT_Termination_-_Maximum_number_of_acceptable_iterations>` 
-*	:doc:`IPOPT_Termination_-_Relative_convergence_tolerance <IPOPT_Termination_-_Relative_convergence_tolerance>` 
+*	:doc:`IPOPT_Termination_-_Dual_infeasibility_tolerance` 
+*	:doc:`IPOPT_Termination_-_Maximum_number_of_acceptable_iterations` 
+*	:doc:`IPOPT_Termination_-_Relative_convergence_tolerance` 

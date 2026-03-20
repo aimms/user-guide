@@ -27,4 +27,4 @@ This option sets the gradient scaling cut-off. If the maximum gradient is above 
 
 **Learn more about** 
 
-*	:doc:`IPOPT_NLP_scaling_-_NLP_scaling_method <IPOPT_NLP_scaling_-_NLP_scaling_method>` 
+*	:doc:`IPOPT_NLP_scaling_-_NLP_scaling_method` 

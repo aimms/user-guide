@@ -18,4 +18,4 @@ This option sets the number of variables to look at in strong branching. In orde
 
 **Learn more about** 
 
-*	:doc:`CBC_MIP_-_Trust_pseudo_costs <CBC_MIP_-_Trust_pseudo_costs>` 
+*	:doc:`CBC_MIP_-_Trust_pseudo_costs` 

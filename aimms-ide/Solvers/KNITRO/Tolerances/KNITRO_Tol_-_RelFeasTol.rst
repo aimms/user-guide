@@ -30,4 +30,4 @@ where (x0,y0) represents the initial point, g the constraint functions, and L an
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Tol_-_AbsFeasTol <KNITRO_Tol_-_AbsFeasTol>`  
+*	:doc:`KNITRO_Tol_-_AbsFeasTol`  

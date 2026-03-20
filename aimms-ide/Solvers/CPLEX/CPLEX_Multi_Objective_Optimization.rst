@@ -103,14 +103,14 @@ different settings for the MIP relative optimality tolerance or the time limit f
 *	Multi-objective optimization is not supported for models with quadratic terms in the objectives or in the constraints.
 *	Sensitivity information and basis information are not available for multi-objective optimization.
 *	Solution polishing is not available for multi-objective optimization.
-*	The branch, candidate, cut, heuristic and lazy constraints callback procedures are not supported for multi-objective optimization. (The incumbent callback is supported for multi-objective optimization; see the section :doc:`CPLEX_Threads_search_strat_and_callb <CPLEX_Threads_search_strat_and_callb>` .)
+*	The branch, candidate, cut, heuristic and lazy constraints callback procedures are not supported for multi-objective optimization. (The incumbent callback is supported for multi-objective optimization; see the section :doc:`CPLEX_Threads_search_strat_and_callb` .)
 *	Generic callbacks will be used for solving multi-objective optimization models even if the option **Use Generic Callbacks**  is set to 'No'. As a consequence, when solving a multi-objective LP model CPLEX cannot be interrupted and no progress information is provided during the solve.
 
 
 **Learn more about** 
 
 *	:any:`GMP::Column::SetAsMultiObjective`
-*	:doc:`CPLEX_Threads_search_strat_and_callb <CPLEX_Threads_search_strat_and_callb>` 
-*	:doc:`CPLEX_General_-_Read_Parameter_File <General/CPLEX_General_-_Read_Parameter_File>` 
-*	:doc:`CPLEX_MIP_-_Use_Generic_Callbacks <MIP/CPLEX_MIP_-_Use_Generic_Callbacks>` 
+*	:doc:`CPLEX_Threads_search_strat_and_callb` 
+*	:doc:`General/CPLEX_General_-_Read_Parameter_File` 
+*	:doc:`MIP/CPLEX_MIP_-_Use_Generic_Callbacks` 
 

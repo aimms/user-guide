@@ -18,4 +18,4 @@ This option can be used to limit the variable substitutions by the **Aggregator*
 
 **Learn more about** 
 
-*	 :doc:`ODH_XPrepr_-_Aggregator <ODH_XPrepr_-_Aggregator>` 
+*	 :doc:`ODH_XPrepr_-_Aggregator` 

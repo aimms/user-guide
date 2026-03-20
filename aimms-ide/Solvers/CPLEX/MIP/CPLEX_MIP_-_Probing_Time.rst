@@ -25,5 +25,5 @@ This option limits the amount of time (in seconds) CPLEX should spend in probing
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_-_MIP_Probing <CPLEX_MIP_-_MIP_Probing>` 
-*	:doc:`CPLEX_MIP_-_Probing_Time_Deterministic <CPLEX_MIP_-_Probing_Time_Deterministic>` 
+*	:doc:`CPLEX_MIP_-_MIP_Probing` 
+*	:doc:`CPLEX_MIP_-_Probing_Time_Deterministic` 

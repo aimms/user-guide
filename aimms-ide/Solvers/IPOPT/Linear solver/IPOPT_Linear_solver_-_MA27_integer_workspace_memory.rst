@@ -27,6 +27,6 @@ This option determines the integer workspace memory for MA27. The initial intege
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection <IPOPT_Linear_solver_-_Linear_solver_selection>` 
-*	:doc:`IPOPT_Linear_solver_-_MA27_increment_factor_for_workspace_size <IPOPT_Linear_solver_-_MA27_increment_factor_for_workspace_size>` 
-*	:doc:`IPOPT_Linear_solver_-_MA27_real_workspace_memory <IPOPT_Linear_solver_-_MA27_real_workspace_memory>` 
+*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection` 
+*	:doc:`IPOPT_Linear_solver_-_MA27_increment_factor_for_workspace_size` 
+*	:doc:`IPOPT_Linear_solver_-_MA27_real_workspace_memory` 

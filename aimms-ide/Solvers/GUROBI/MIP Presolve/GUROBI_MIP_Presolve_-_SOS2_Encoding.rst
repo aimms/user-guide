@@ -56,8 +56,8 @@ The default value chooses a reformulation for each SOS2 constraint automatically
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_Presolve_-_SOS1_Encoding <GUROBI_MIP_Presolve_-_SOS1_Encoding>` 
-*	:doc:`GUROBI_MIP_Presolve_-_SOS2_Reformulation_Threshold <GUROBI_MIP_Presolve_-_SOS2_Reformulation_Threshold>` 
+*	:doc:`GUROBI_MIP_Presolve_-_SOS1_Encoding` 
+*	:doc:`GUROBI_MIP_Presolve_-_SOS2_Reformulation_Threshold` 
 
 
 

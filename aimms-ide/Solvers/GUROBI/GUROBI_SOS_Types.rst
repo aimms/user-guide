@@ -21,5 +21,5 @@ as controlled by the options **SOS1 Encoding** and **SOS2 Encoding**.
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_Presolve_-_SOS1_Encoding <MIP Presolve/GUROBI_MIP_Presolve_-_SOS1_Encoding>` 
-*	:doc:`GUROBI_MIP_Presolve_-_SOS2_Encoding <MIP Presolve/GUROBI_MIP_Presolve_-_SOS2_Encoding>` 
+*	:doc:`MIP Presolve/GUROBI_MIP_Presolve_-_SOS1_Encoding` 
+*	:doc:`MIP Presolve/GUROBI_MIP_Presolve_-_SOS2_Encoding` 

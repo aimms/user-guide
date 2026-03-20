@@ -32,5 +32,5 @@ This option has only effect if the option **Multistart**  is switched on.
 
 **Learn more about** 
 
-*	:doc:`KNITRO_MS_-_Multistart <KNITRO_MS_-_Multistart>`  
-*	:doc:`KNITRO_MS_-_Multistart_Range_Unbounded_Var <KNITRO_MS_-_Multistart_Range_Unbounded_Var>`  
+*	:doc:`KNITRO_MS_-_Multistart`  
+*	:doc:`KNITRO_MS_-_Multistart_Range_Unbounded_Var`  

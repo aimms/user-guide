@@ -28,4 +28,4 @@ A side effect of passing a basis to CBC is that no presolving. In case of a MIP 
 
 **Learn more about** 
 
-*	:doc:`Interface_-_Accept_Basis <../../../Aimms/Options/Solvers General/Interface/Interface_-_Accept_Basis>`  
+*	:doc:`../../../Aimms/Options/Solvers General/Interface/Interface_-_Accept_Basis`  

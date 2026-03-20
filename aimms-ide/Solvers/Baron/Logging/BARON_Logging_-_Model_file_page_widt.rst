@@ -20,7 +20,7 @@ This option specifies the page width, in characters, used when creating the mode
 
 **Learn more about** 
 
-*	:doc:`BARON_Logging_-_Keep_model_file <BARON_Logging_-_Keep_model_file>` 
+*	:doc:`BARON_Logging_-_Keep_model_file` 
 
 
 

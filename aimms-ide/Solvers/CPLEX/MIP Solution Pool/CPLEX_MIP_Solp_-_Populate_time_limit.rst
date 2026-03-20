@@ -26,5 +26,5 @@ This option has only meaning if the option **Do** **Populate**  is switched on.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_Solp_-_Do_Populate <CPLEX_MIP_Solp_-_Do_Populate>`  
-*	:doc:`Stop_Criteria_-_Time_Limit <../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>`  
+*	:doc:`CPLEX_MIP_Solp_-_Do_Populate`  
+*	:doc:`../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit`  

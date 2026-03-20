@@ -18,4 +18,4 @@ This option specifies the absolute integer feasibility tolerance.
 
 **Learn more about** 
 
-*	:doc:`BARON_Tolerances_-_Relative_Integrality_toler <BARON_Tolerances_-_Relative_Integrality_toler>` 
+*	:doc:`BARON_Tolerances_-_Relative_Integrality_toler` 

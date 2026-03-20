@@ -45,10 +45,10 @@ Sifting can be selected for solving LP and MIP models using the following option
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_-_MIP_Method <../CPLEX MIP/ODH_XMIP_-_MIP_Method>`  
-*	:doc:`ODH_XMIP_-_MIP_Start_Algorit <../CPLEX MIP/ODH_XMIP_-_MIP_Start_Algorit>` 
-*	:doc:`ODH_XMIP_Advanced_-_SubMIP_Start_Algorithm <../CPLEX MIP Advanced/ODH_XMIP_Advanced_-_SubMIP_Start_Algorithm>`
-*	:doc:`ODH_XMIP_Advanced_-_SubMIP_Subproblem_Algorithm <../CPLEX MIP Advanced/ODH_XMIP_Advanced_-_SubMIP_Subproblem_Algorithm>`
+*	:doc:`../CPLEX MIP/ODH_XMIP_-_MIP_Method`  
+*	:doc:`../CPLEX MIP/ODH_XMIP_-_MIP_Start_Algorit` 
+*	:doc:`../CPLEX MIP Advanced/ODH_XMIP_Advanced_-_SubMIP_Start_Algorithm`
+*	:doc:`../CPLEX MIP Advanced/ODH_XMIP_Advanced_-_SubMIP_Subproblem_Algorithm`
 
 
 

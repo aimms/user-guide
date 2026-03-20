@@ -26,7 +26,7 @@ When the objective function is nonlinear, fewer basis updates will occur as an o
 
 **Learn more about** 
 
-*	:doc:`SNOPT_Advanced_-_Check_Frequen <SNOPT_Advanced_-_Check_Frequen>`  
+*	:doc:`SNOPT_Advanced_-_Check_Frequen`  
 
  
 

@@ -24,7 +24,7 @@ Extreme caution should be exercised when changing the value of this option becau
 
 **Learn more about** 
 
-*	:doc:`XA_Advanced_-_Minimal_Absolute_Pi <XA_Advanced_-_Minimal_Absolute_Pi>`  
+*	:doc:`XA_Advanced_-_Minimal_Absolute_Pi`  
 
 
 

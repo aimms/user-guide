@@ -41,8 +41,8 @@ Solving a model with non-convex quadratic constraints is typically much more exp
 
 **Learn more about** 
 
-*	:doc:`GUROBI_Quadratic_-_Nonconvex_Strategy <Quadratic/GUROBI_Quadratic_-_Nonconvex_Strategy>` 
-*	:doc:`GUROBI_Quadratic_-_QCP_Dual_Values <Quadratic/GUROBI_Quadratic_-_QCP_Dual_Values>` 
+*	:doc:`Quadratic/GUROBI_Quadratic_-_Nonconvex_Strategy` 
+*	:doc:`Quadratic/GUROBI_Quadratic_-_QCP_Dual_Values` 
 
 
 

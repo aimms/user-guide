@@ -23,7 +23,7 @@ When this option is switched on, CONOPT will select all infeasible slacks as the
 
 **Learn more about** 
 
-*	:doc:`CONOPT_Advanced_-_SLP_Mode <CONOPT_Advanced_-_SLP_Mode>` 
+*	:doc:`CONOPT_Advanced_-_SLP_Mode` 
 
 
 

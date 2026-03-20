@@ -33,4 +33,4 @@ This option specifies the linear feasibility-based range reduction/tightening (p
 
 **Learn more about** 
 
-*	:doc:`BARON_Range_Reduction_-_Bounds_tight <BARON_Range_Reduction_-_Bounds_tight>` 
+*	:doc:`BARON_Range_Reduction_-_Bounds_tight` 

@@ -20,4 +20,4 @@ This option determines how much the initial point might have to be modified in o
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Initialization_-_Point_to_bound_relative_distance <IPOPT_Initialization_-_Point_to_bound_relative_distance>` 
+*	:doc:`IPOPT_Initialization_-_Point_to_bound_relative_distance` 

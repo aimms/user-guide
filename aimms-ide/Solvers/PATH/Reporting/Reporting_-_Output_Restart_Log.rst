@@ -24,8 +24,8 @@ If the value of this option is set to 'Yes' (default) and the option **Create St
 
 **Learn more about** 
 
-*	:doc:`PATH_Reporting_-_CreateStatFile <PATH_Reporting_-_CreateStatFile>`  
-*	:doc:`PATH_Limits_-_Restart_Limit <../Limits/PATH_Limits_-_Restart_Limit>`  
+*	:doc:`PATH_Reporting_-_CreateStatFile`  
+*	:doc:`../Limits/PATH_Limits_-_Restart_Limit`  
 
 
 

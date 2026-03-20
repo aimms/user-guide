@@ -25,4 +25,4 @@ The value of this option is used to increase (if > 1) or decrease (if < 1) the e
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_Heuristic_-_Heuristic_Freq <ODH_XMIP_Heuristic_-_Heuristic_Freq>` 
+*	:doc:`ODH_XMIP_Heuristic_-_Heuristic_Freq` 

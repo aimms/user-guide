@@ -32,4 +32,4 @@ different types of implied bound cuts:
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Cuts_-_Local_Implied_Bound_Cuts <CPLEX_Cuts_-_Local_Implied_Bound_Cuts>`  
+*	:doc:`CPLEX_Cuts_-_Local_Implied_Bound_Cuts`  

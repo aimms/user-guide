@@ -31,4 +31,4 @@ At the default setting ('Automatic') Knitro decides.
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Presolve_-_Presolve <KNITRO_Presolve_-_Presolve>`  
+*	:doc:`KNITRO_Presolve_-_Presolve`  

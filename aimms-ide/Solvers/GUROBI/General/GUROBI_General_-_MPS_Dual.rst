@@ -29,4 +29,4 @@ The generated files are named gur\ *ddddd*\ .dua or gur\ *ddddd*\ .dlp, where *d
 
 **Learn more about** 
 
-*	:doc:`GUROBI_General_-_MPS <GUROBI_General_-_MPS>` 
+*	:doc:`GUROBI_General_-_MPS` 

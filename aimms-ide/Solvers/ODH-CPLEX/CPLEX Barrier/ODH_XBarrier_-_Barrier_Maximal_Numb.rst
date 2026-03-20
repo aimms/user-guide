@@ -26,7 +26,7 @@ n:	n corrections
 
     **Learn more about** 
 
-*	:doc:`ODH_XLogging_-_Barrier_Display <../CPLEX Logging/ODH_XLogging_-_Barrier_Display>` 
+*	:doc:`../CPLEX Logging/ODH_XLogging_-_Barrier_Display` 
 
 
 

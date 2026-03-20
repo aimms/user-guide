@@ -22,4 +22,4 @@ This option is effective when the option **MIP Method**  is set to 'Branch_and_b
 
 **Learn more about** 
 
-*	:doc:`KNITRO_MIP_-_MIP_Method <../MIP/KNITRO_MIP_-_MIP_Method>`  
+*	:doc:`../MIP/KNITRO_MIP_-_MIP_Method`  

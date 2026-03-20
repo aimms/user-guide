@@ -26,7 +26,7 @@ Unboundedness in x is best avoided by placing finite upper and lower bounds on t
 
 **Learn more about** 
 
-*	:doc:`SNOPT_Limits_-_Unbounded_Step_Size <SNOPT_Limits_-_Unbounded_Step_Size>`  
+*	:doc:`SNOPT_Limits_-_Unbounded_Step_Size`  
 
 
 

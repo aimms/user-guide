@@ -97,8 +97,8 @@ than that of the incumbent. In this situation, the log file will include a line 
 
 **Learn more about** 
 
-*	:doc:`GUROBI_Solution_Pool_-_Pool_Absolute_Gap <Solution Pool/GUROBI_Solution_Pool_-_Pool_Absolute_Gap>` 
-*	:doc:`GUROBI_Solution_Pool_-_Pool_Gap <Solution Pool/GUROBI_Solution_Pool_-_Pool_Gap>` 
-*	:doc:`GUROBI_Solution_Pool_-_Pool_Search_Mode <Solution Pool/GUROBI_Solution_Pool_-_Pool_Search_Mode>` 
-*	:doc:`GUROBI_Solution_Pool_-_Pool_Size <Solution Pool/GUROBI_Solution_Pool_-_Pool_Size>` 
+*	:doc:`Solution Pool/GUROBI_Solution_Pool_-_Pool_Absolute_Gap` 
+*	:doc:`Solution Pool/GUROBI_Solution_Pool_-_Pool_Gap` 
+*	:doc:`Solution Pool/GUROBI_Solution_Pool_-_Pool_Search_Mode` 
+*	:doc:`Solution Pool/GUROBI_Solution_Pool_-_Pool_Size` 
 *	:any:`GMP::Solution::SendToModel`

@@ -38,4 +38,4 @@ in finding the desired number of best solutions, or it proved that the model doe
 
 **Learn more about** 
 
-*	:doc:`GUROBI_Solution_Pool_-_Pool_Size <GUROBI_Solution_Pool_-_Pool_Size>` 
+*	:doc:`GUROBI_Solution_Pool_-_Pool_Size` 

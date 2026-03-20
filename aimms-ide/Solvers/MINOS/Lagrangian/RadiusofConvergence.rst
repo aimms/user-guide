@@ -24,5 +24,5 @@ quadratically to an optimum.
 
 **Learn more about** 
 
-*	:doc:`PenaltyParameter <PenaltyParameter>`  
-*	:doc:`RowTolerance <../Feasibility/RowTolerance>`  
+*	:doc:`PenaltyParameter`  
+*	:doc:`../Feasibility/RowTolerance`  

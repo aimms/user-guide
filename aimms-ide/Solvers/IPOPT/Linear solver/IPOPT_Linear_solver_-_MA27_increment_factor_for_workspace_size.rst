@@ -26,5 +26,5 @@ This option determines the increment factor for the workspace size for MA27. If 
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection <IPOPT_Linear_solver_-_Linear_solver_selection>` 
-*	:doc:`IPOPT_Linear_solver_-_MA27_integer_workspace_memory <IPOPT_Linear_solver_-_MA27_integer_workspace_memory>` 
+*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection` 
+*	:doc:`IPOPT_Linear_solver_-_MA27_integer_workspace_memory` 

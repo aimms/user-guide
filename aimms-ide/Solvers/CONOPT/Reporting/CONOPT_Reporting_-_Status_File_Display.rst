@@ -25,6 +25,6 @@ This option determines the amount of information that is printed to the status f
 
 **Learn more about** 
 
-*	:doc:`CONOPT_Reporting_-_Log_Frequency <CONOPT_Reporting_-_Log_Frequency>`  
-*	:doc:`CONOPT_Reporting_-_Log_Frequency_SLP_SQP <CONOPT_Reporting_-_Log_Frequency_SLP_SQP>` 
-*	:doc:`CONOPT_Reporting_-_Write_to_Standard_Output <CONOPT_Reporting_-_Write_to_Standard_Output>`  
+*	:doc:`CONOPT_Reporting_-_Log_Frequency`  
+*	:doc:`CONOPT_Reporting_-_Log_Frequency_SLP_SQP` 
+*	:doc:`CONOPT_Reporting_-_Write_to_Standard_Output`  

@@ -18,4 +18,4 @@ This option specifies the (relative) tolerance used for declaring infeasibility 
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Term_-_Infeas_Tol_Iteration_Limit <../Termination/KNITRO_Term_-_Infeas_Tol_Iteration_Limit>` 
+*	:doc:`../Termination/KNITRO_Term_-_Infeas_Tol_Iteration_Limit` 

@@ -29,7 +29,7 @@ Failure-directed search can sometimes consume a lot of memory, especially when e
 
 **Learn more about** 
 
-*	:doc:`CPOPT_Search_-_Failure_directed_search <CPOPT_Search_-_Failure_directed_search>` 
+*	:doc:`CPOPT_Search_-_Failure_directed_search` 
 
 
 

@@ -26,7 +26,7 @@ A feasible solution may be reached sooner on some problems.
 
 **Learn more about** 
 
-*	:doc:`MINOS_Advanced_-_Calling_Crash <MINOS_Advanced_-_Calling_Crash>`  
+*	:doc:`MINOS_Advanced_-_Calling_Crash`  
 
 
 

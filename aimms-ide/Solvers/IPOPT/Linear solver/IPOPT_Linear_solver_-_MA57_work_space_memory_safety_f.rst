@@ -27,4 +27,4 @@ This option determines the safety factor for work space memory allocation for th
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection <IPOPT_Linear_solver_-_Linear_solver_selection>` 
+*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection` 

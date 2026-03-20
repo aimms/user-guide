@@ -26,5 +26,5 @@ This option determines whether or not the interior-point algorithms in Knitro sh
 
 **Learn more about** 
 
-*	:doc:`KNITRO_IP_-_Feasible_mode <KNITRO_IP_-_Feasible_mode>`  
-*	:doc:`KNITRO_General_-_Honor_Bounds <../General/KNITRO_General_-_Honor_Bounds>`  
+*	:doc:`KNITRO_IP_-_Feasible_mode`  
+*	:doc:`../General/KNITRO_General_-_Honor_Bounds`  

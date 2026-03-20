@@ -25,7 +25,7 @@ This option controls the presolve level. Presolve analyzes the model to find suc
 
 **Learn more about** 
 
-*	:doc:`CBC_Presolve_-_Presolve_tolerance <CBC_Presolve_-_Presolve_tolerance>`  
+*	:doc:`CBC_Presolve_-_Presolve_tolerance`  
 
 
 

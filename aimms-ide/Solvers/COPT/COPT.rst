@@ -37,7 +37,7 @@ In the most basic linear optimization problem, the variables of the objective fu
 
 
 
-COPT can also handle certain problems in which the objective function is not linear but quadratic. Such a problem is known as quadratic program or QP if the constraints are linear, and it is known as quadratically constrained program or QCP if some of the constraints are quadratic. COPT can also be used for some types of second-order cone constraints, and it can be used to solve programs with a non-convex quadratic objective and/or non-convex quadratic constraints; see the section about :doc:`COPT_Quadratic_Programs <COPT_Quadratic_Programs>`.
+COPT can also handle certain problems in which the objective function is not linear but quadratic. Such a problem is known as quadratic program or QP if the constraints are linear, and it is known as quadratically constrained program or QCP if some of the constraints are quadratic. COPT can also be used for some types of second-order cone constraints, and it can be used to solve programs with a non-convex quadratic objective and/or non-convex quadratic constraints; see the section about :doc:`COPT_Quadratic_Programs`.
 
 
 
@@ -45,11 +45,11 @@ COPT is equipped with parameters that influence the performance of COPT. AIMMS i
 
 
 
-In COPT it is possible to use a solution as a MIP start by setting the option **MIP Start**. COPT also supports :doc:`COPT_Multiple_MIP_Starts <COPT_Multiple_MIP_Starts>`.
+In COPT it is possible to use a solution as a MIP start by setting the option **MIP Start**. COPT also supports :doc:`COPT_Multiple_MIP_Starts`.
 
 
 
-COPT can generate multiple solutions to a MIP problem. This is described in the section :doc:`COPT_Solution_Pool <COPT_Solution_Pool>`.
+COPT can generate multiple solutions to a MIP problem. This is described in the section :doc:`COPT_Solution_Pool`.
 
 
 
@@ -68,14 +68,14 @@ When solving a problem COPT allows variables to slightly violate their bounds as
 **Learn more about** 
 
 *	`COPT <https://www.cardopt.com/copt>`_ (Internet link)
-*	:doc:`COPT_to_AIMMS_Mapping <COPT_to_AIMMS_Mapping>`  
-*	:doc:`AIMMS_to_COPT_Mapping <AIMMS_to_COPT_Mapping>`  
-*	:doc:`AIMMS_Execution_Options <../../Aimms/Options/AIMMS_Execution_Options>`  
-*	:doc:`COPT_Multiple_MIP_Starts <COPT_Multiple_MIP_Starts>` 
-*	:doc:`COPT_Quadratic_Programs <COPT_Quadratic_Programs>` 
-*	:doc:`COPT_Solution_Pool <COPT_Solution_Pool>` 
-*	:doc:`COPT_SOS_Types <COPT_SOS_Types>` 
-*	:doc:`COPT_Troubleshooting <COPT_Troubleshooting>` 
-*	:doc:`COPT_MIP_-_MIP_start <MIP/COPT_MIP_-_MIP_start>` 
-*	:doc:`Postsolve_-_Postsolve <../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve>` 
-*	:doc:`COPT_Parallel_-_Thread_limit <Parallel/COPT_Parallel_-_Thread_limit>` 
+*	:doc:`COPT_to_AIMMS_Mapping`  
+*	:doc:`AIMMS_to_COPT_Mapping`  
+*	:doc:`../../Aimms/Options/AIMMS_Execution_Options`  
+*	:doc:`COPT_Multiple_MIP_Starts` 
+*	:doc:`COPT_Quadratic_Programs` 
+*	:doc:`COPT_Solution_Pool` 
+*	:doc:`COPT_SOS_Types` 
+*	:doc:`COPT_Troubleshooting` 
+*	:doc:`MIP/COPT_MIP_-_MIP_start` 
+*	:doc:`../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve` 
+*	:doc:`Parallel/COPT_Parallel_-_Thread_limit` 

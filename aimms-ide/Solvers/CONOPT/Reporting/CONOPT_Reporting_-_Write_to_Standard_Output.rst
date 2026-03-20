@@ -31,6 +31,6 @@ This option is normally only useful for Linux.
 
 **Learn more about** 
 
-*	:doc:`CONOPT_Reporting_-_Log_Frequency <CONOPT_Reporting_-_Log_Frequency>`  
-*	:doc:`CONOPT_Reporting_-_Log_Frequency_SLP_SQP <CONOPT_Reporting_-_Log_Frequency_SLP_SQP>` 
-*	:doc:`CONOPT_Reporting_-_Status_File_Display <CONOPT_Reporting_-_Status_File_Display>`  
+*	:doc:`CONOPT_Reporting_-_Log_Frequency`  
+*	:doc:`CONOPT_Reporting_-_Log_Frequency_SLP_SQP` 
+*	:doc:`CONOPT_Reporting_-_Status_File_Display`  

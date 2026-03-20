@@ -40,7 +40,7 @@ In the most basic linear optimization problem, the variables of the objective fu
 Gurobi can also be used for solving linear programming problems in which some or all of the variables must assume integer values in the solution. 
 Such problems are known as mixed integer programs or MIPs.
 
-Gurobi can handle problems with multiple objectives; see the section :doc:`GUROBI_Multi-Objective_Optimization <GUROBI_Multi-Objective_Optimization>`.
+Gurobi can handle problems with multiple objectives; see the section :doc:`GUROBI_Multi-Objective_Optimization`.
 
 Gurobi can also handle certain problems in which the objective function is not linear but quadratic. 
 Such a problem is known as quadratic program or QP if the constraints are linear, 
@@ -48,7 +48,7 @@ and it is known as quadratically constrained program or QCP if some of the const
 Gurobi can also handle QP and QCP problems in which some or all variables must be integer. 
 Such problems are called mixed integer quadratic programs (MIQP) and mixed integer quadratically constrained programs (MIQCP) respectively. 
 Gurobi can also be used for some types of second-order cone constraints, and it can be used to solve programs with a non-convex quadratic objective and/or
-non-convex quadratic constraints; see the section about :doc:`GUROBI_Quadratic_Programs <GUROBI_Quadratic_Programs>`.
+non-convex quadratic constraints; see the section about :doc:`GUROBI_Quadratic_Programs`.
 
 Gurobi can also handle problems in which the objective function and/or some or all of the constraints are nonlinear. It can handle nonlinear problems using
 continuous variables only (NLP) and nonlinear problems in which some or all variables must be integer (MINLP). Both problem types are solved to global
@@ -56,14 +56,14 @@ optimality using a branch-and-bound algorithm. (Note: for some models both QCP a
 constraints and a linear objective. In that case the methods used by Gurobi for solving the model as QCP or NLP will be different.)
 
 Gurobi can perform a minimum-cost relaxation in order to make an infeasible model feasible. 
-More information about relaxing infeasible models can be found in the section :doc:`GUROBI_FeasRelax_Feasibility_Relaxation <GUROBI_FeasRelax_Feasibility_Relaxation>`.
+More information about relaxing infeasible models can be found in the section :doc:`GUROBI_FeasRelax_Feasibility_Relaxation`.
 
 In Gurobi it is possible to use a solution as a MIP start by setting the option **MIP Start**. 
-Gurobi also supports :doc:`GUROBI_Multiple_MIP_Starts <GUROBI_Multiple_MIP_Starts>`.
-Alternatively, you can use :doc:`GUROBI_Hints <GUROBI_Hints>` for variables in a MIP model. 
+Gurobi also supports :doc:`GUROBI_Multiple_MIP_Starts`.
+Alternatively, you can use :doc:`GUROBI_Hints` for variables in a MIP model. 
 MIP starts and Hints can also be used for NLP and MINLP.
 
-Gurobi can generate multiple solutions to a MIP problem. This is described in the section :doc:`GUROBI_Solution_Pool <GUROBI_Solution_Pool>`.
+Gurobi can generate multiple solutions to a MIP problem. This is described in the section :doc:`GUROBI_Solution_Pool`.
 
 
 **Options** 
@@ -71,9 +71,9 @@ Gurobi can generate multiple solutions to a MIP problem. This is described in th
 Gurobi is equipped with parameters that influence the performance of Gurobi. AIMMS is equipped with options that set the parameters in Gurobi.
 Options in AIMMS can be set in the options dialog box.
 
-A few options that control the termination of the solving process can be modified from within a callback within Gurobi; see the section :doc:`GUROBI_Callback_Settable_Options <GUROBI_Callback_Settable_Options>`.
+A few options that control the termination of the solving process can be modified from within a callback within Gurobi; see the section :doc:`GUROBI_Callback_Settable_Options`.
 
-Gurobi supports the :doc:`GUROBI_Tuning_Tool <GUROBI_Tuning_Tool>`, a utility to aid you in improving the performance of your optimization applications, analyzes a model or
+Gurobi supports the :doc:`GUROBI_Tuning_Tool`, a utility to aid you in improving the performance of your optimization applications, analyzes a model or
 a group of models and suggests a suite of option settings for you to use that provide better performance than the default option settings for your model or group of models.
 
 
@@ -104,23 +104,23 @@ Gurobi requires that your computer's CPU supports SSE2. SSE2 was first introduce
 **Learn more about** 
 
 *	`GUROBI <https://www.gurobi.com/>`_ (Internet link)
-*	:doc:`GUROBI_to_AIMMS_Mapping <GUROBI_to_AIMMS_Mapping>`  
-*	:doc:`AIMMS_to_GUROBI_Mapping <AIMMS_to_GUROBI_Mapping>`  
-*	:doc:`AIMMS_Execution_Options <../../Aimms/Options/AIMMS_Execution_Options>`  
-*	:doc:`GUROBI_Callback_Settable_Options <GUROBI_Callback_Settable_Options>` 
-*	:doc:`GUROBI_FeasRelax_Feasibility_Relaxation <GUROBI_FeasRelax_Feasibility_Relaxation>` 
-*	:doc:`GUROBI_Hints <GUROBI_Hints>` 
-*	:doc:`GUROBI_Indicator_Constraints <GUROBI_Indicator_Constraints>` 
-*	:doc:`GUROBI_Multi-Objective_Optimization <GUROBI_Multi-Objective_Optimization>` 
-*	:doc:`GUROBI_Multiple_MIP_Starts <GUROBI_Multiple_MIP_Starts>` 
-*	:doc:`GUROBI_Quadratic_Programs <GUROBI_Quadratic_Programs>` 
-*	:doc:`GUROBI_Solution_Pool <GUROBI_Solution_Pool>` 
-*	:doc:`GUROBI_SOS_Types <GUROBI_SOS_Types>` 
-*	:doc:`GUROBI_Troubleshooting <GUROBI_Troubleshooting>` 
-*	:doc:`GUROBI_Tuning_Tool <GUROBI_Tuning_Tool>` 
-*	:doc:`GUROBI_User_Cuts_and_Lazy_Constraints <GUROBI_User_Cuts_and_Lazy_Constraints>` 
-*	:doc:`GUROBI_MIP_-_MIP_Start <MIP/GUROBI_MIP_-_MIP_Start>` 
-*	:doc:`Postsolve_-_Postsolve <../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve>` 
-*	:doc:`GUROBI_Parallel_-_Thread_Limit <Parallel/GUROBI_Parallel_-_Thread_Limit>` 
+*	:doc:`GUROBI_to_AIMMS_Mapping`  
+*	:doc:`AIMMS_to_GUROBI_Mapping`  
+*	:doc:`../../Aimms/Options/AIMMS_Execution_Options`  
+*	:doc:`GUROBI_Callback_Settable_Options` 
+*	:doc:`GUROBI_FeasRelax_Feasibility_Relaxation` 
+*	:doc:`GUROBI_Hints` 
+*	:doc:`GUROBI_Indicator_Constraints` 
+*	:doc:`GUROBI_Multi-Objective_Optimization` 
+*	:doc:`GUROBI_Multiple_MIP_Starts` 
+*	:doc:`GUROBI_Quadratic_Programs` 
+*	:doc:`GUROBI_Solution_Pool` 
+*	:doc:`GUROBI_SOS_Types` 
+*	:doc:`GUROBI_Troubleshooting` 
+*	:doc:`GUROBI_Tuning_Tool` 
+*	:doc:`GUROBI_User_Cuts_and_Lazy_Constraints` 
+*	:doc:`MIP/GUROBI_MIP_-_MIP_Start` 
+*	:doc:`../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve` 
+*	:doc:`Parallel/GUROBI_Parallel_-_Thread_Limit` 
 *	:any:`GMP::Solver::FreeEnvironment`
 *	:any:`GMP::Solver::InitializeEnvironment`

@@ -25,8 +25,8 @@ This option determines which merit function is chosen by PATH in the crash phase
 
 **Learn more about** 
 
-*	:doc:`PATH_General_-_Merit_Function <../General/PATH_General_-_Merit_Function>`  
-*	:doc:`PATH_Crash_-_Crash_Method <PATH_Crash_-_Crash_Method>`  
+*	:doc:`../General/PATH_General_-_Merit_Function`  
+*	:doc:`PATH_Crash_-_Crash_Method`  
 
 
 

@@ -24,7 +24,7 @@ When solving an updated version of an already loaded model, CPLEX retrieves thes
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_-_MIP_Basis <ODH_XMIP_-_MIP_Basis>` 
+*	:doc:`ODH_XMIP_-_MIP_Basis` 
 
 
 

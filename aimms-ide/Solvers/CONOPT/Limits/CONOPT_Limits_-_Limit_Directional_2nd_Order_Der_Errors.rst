@@ -6,7 +6,7 @@ Limit on Directional 2nd Order Derivative Errors
 
 
 :Type:	Integer	
-:Range:	{0 .. :doc:`Maxint <../../../Aimms/Miscellaneous/Short Descriptions/Maxint>`}	
+:Range:	{0 .. :doc:`../../../Aimms/Miscellaneous/Short Descriptions/Maxint`}	
 :Default:	10	
 
 

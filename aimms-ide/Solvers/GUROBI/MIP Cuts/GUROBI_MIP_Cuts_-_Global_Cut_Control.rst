@@ -27,21 +27,21 @@ cut types will be generated aggressively, except clique cuts which would not be 
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_Cuts_-_Clique_Cuts <GUROBI_MIP_Cuts_-_Clique_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_Cover_Cuts <GUROBI_MIP_Cuts_-_Cover_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_Dual_Implied_Cuts <GUROBI_MIP_Cuts_-_Dual_Implied_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_Flow_Cover_Cuts <GUROBI_MIP_Cuts_-_Flow_Cover_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_Flow_Path_Cuts <GUROBI_MIP_Cuts_-_Flow_Path_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_GUB_Cover_Cuts <GUROBI_MIP_Cuts_-_GUB_Cover_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_Implied_Bound_Cuts <GUROBI_MIP_Cuts_-_Implied_Bound_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_Lift_and_Project_Cuts <GUROBI_MIP_Cuts_-_Lift_and_Project_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_MIP_Separation_Cuts <GUROBI_MIP_Cuts_-_MIP_Separation_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_MIP_Separation_Cuts <GUROBI_MIP_Cuts_-_MIP_Separation_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_MIR_Cuts <GUROBI_MIP_Cuts_-_MIR_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_Mixing_Cuts <GUROBI_MIP_Cuts_-_Mixing_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_Mod_K_cuts <GUROBI_MIP_Cuts_-_Mod_K_cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_Network_Cuts <GUROBI_MIP_Cuts_-_Network_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_Projected_Implied_Bound_Cuts <GUROBI_MIP_Cuts_-_Projected_Implied_Bound_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_Sub_MIP_Cuts <GUROBI_MIP_Cuts_-_Sub_MIP_Cuts>`  
-*	:doc:`GUROBI_MIP_Cuts_-_Zero_Half_Cuts <GUROBI_MIP_Cuts_-_Zero_Half_Cuts>`  
+*	:doc:`GUROBI_MIP_Cuts_-_Clique_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_Cover_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_Dual_Implied_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_Flow_Cover_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_Flow_Path_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_GUB_Cover_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_Implied_Bound_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_Lift_and_Project_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_MIP_Separation_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_MIP_Separation_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_MIR_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_Mixing_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_Mod_K_cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_Network_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_Projected_Implied_Bound_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_Sub_MIP_Cuts`  
+*	:doc:`GUROBI_MIP_Cuts_-_Zero_Half_Cuts`  
 

@@ -44,5 +44,5 @@ auxiliary tasks. At the value of -1, CPLEX does not use extra threads for auxili
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Par_-_GlobalThreadLimit <CPLEX_Par_-_GlobalThreadLimit>` 
+*	:doc:`CPLEX_Par_-_GlobalThreadLimit` 
 

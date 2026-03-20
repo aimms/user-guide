@@ -26,7 +26,7 @@ For certain very regular structures (e.g., band matrices) it may be necessary to
 
 **Learn more about** 
 
-*	:doc:`SNOPT_Advanced_-_LU_Factor_Tol <SNOPT_Advanced_-_LU_Factor_Tol>`  
+*	:doc:`SNOPT_Advanced_-_LU_Factor_Tol`  
 
 
 

@@ -20,4 +20,4 @@ This option specifies the feasibility threshold for recomputation of multipliers
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Multipliers_-_Recalculate_constraint_multipliers <IPOPT_Multipliers_-_Recalculate_constraint_multipliers>` 
+*	:doc:`IPOPT_Multipliers_-_Recalculate_constraint_multipliers` 

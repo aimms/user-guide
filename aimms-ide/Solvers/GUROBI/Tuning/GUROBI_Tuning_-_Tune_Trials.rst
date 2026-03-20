@@ -25,4 +25,4 @@ Performance on a MIP model can sometimes experience significant variations due t
 
 **Learn more about** 
 
-*	:doc:`GUROBI_Tuning_Tool <../GUROBI_Tuning_Tool>` 
+*	:doc:`../GUROBI_Tuning_Tool` 

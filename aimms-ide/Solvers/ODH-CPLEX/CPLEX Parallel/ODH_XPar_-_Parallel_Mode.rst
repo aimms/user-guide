@@ -99,7 +99,7 @@ Cases where you might wish to turn off deterministic search include situations w
 
 **Learn more about** 
 
-*	:doc:`ODH_XPar_-_GlobalThreadLimit <ODH_XPar_-_GlobalThreadLimit>` 
+*	:doc:`ODH_XPar_-_GlobalThreadLimit` 
 
 
 

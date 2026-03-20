@@ -37,12 +37,12 @@ This option should be switched on before a normal solve statement (or before GMP
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_Solp_-_Pool_Abs_Obj_Gap <ODH_XMIP_Solp_-_Pool_Abs_Obj_Gap>`  
-*	:doc:`ODH_XMIP_Solp_-_Pool_Intensity <ODH_XMIP_Solp_-_Pool_Intensity>`  
-*	:doc:`ODH_XMIP_Solp_-_Pool_Rel_Obj_Gap <ODH_XMIP_Solp_-_Pool_Rel_Obj_Gap>`  
-*	:doc:`ODH_XMIP_Solp_-_Pool_Repl_Strat <ODH_XMIP_Solp_-_Pool_Repl_Strat>`  
-*	:doc:`ODH_XMIP_Solp_-_Populate_time_limit <ODH_XMIP_Solp_-_Populate_time_limit>`  
-*	:doc:`ODH_XMIP_Solp_-_Population_Limit <ODH_XMIP_Solp_-_Population_Limit>`  
+*	:doc:`ODH_XMIP_Solp_-_Pool_Abs_Obj_Gap`  
+*	:doc:`ODH_XMIP_Solp_-_Pool_Intensity`  
+*	:doc:`ODH_XMIP_Solp_-_Pool_Rel_Obj_Gap`  
+*	:doc:`ODH_XMIP_Solp_-_Pool_Repl_Strat`  
+*	:doc:`ODH_XMIP_Solp_-_Populate_time_limit`  
+*	:doc:`ODH_XMIP_Solp_-_Population_Limit`  
 
 
 

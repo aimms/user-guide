@@ -31,6 +31,6 @@ Possible values are:
 
 **Learn more about** 
 
-*	:doc:`SNOPT_Reporting_-_Major_Print_Level <SNOPT_Reporting_-_Major_Print_Level>`  
-*	:doc:`SNOPT_Reporting_-_Minor_Print_Level <SNOPT_Reporting_-_Minor_Print_Level>`  
-*	:doc:`SNOPT_Reporting_-_Print_Frequency <SNOPT_Reporting_-_Print_Frequency>`  
+*	:doc:`SNOPT_Reporting_-_Major_Print_Level`  
+*	:doc:`SNOPT_Reporting_-_Minor_Print_Level`  
+*	:doc:`SNOPT_Reporting_-_Print_Frequency`  

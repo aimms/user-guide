@@ -32,7 +32,7 @@ This option determines which, if any, crossover is performed at the end of a bar
 
 **Learn more about** 
 
-*	:doc:`CPLEX_General_-_Solution_Type <../General/CPLEX_General_-_Solution_Type>` 
+*	:doc:`../General/CPLEX_General_-_Solution_Type` 
 
 
 

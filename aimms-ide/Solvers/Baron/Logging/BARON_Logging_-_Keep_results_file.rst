@@ -33,7 +33,7 @@ This option determines whether the results file should be kept after the model i
 
 **Learn more about** 
 
-*	:doc:`BARON_Logging_-_File_name <BARON_Logging_-_File_name>` 
+*	:doc:`BARON_Logging_-_File_name` 
 
 
 

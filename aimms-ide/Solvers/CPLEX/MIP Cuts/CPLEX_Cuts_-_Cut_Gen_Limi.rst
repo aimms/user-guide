@@ -18,8 +18,8 @@ This option limits the number of constraints that can be aggregated for generati
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Cuts_-_Flow_Cover_Cuts <CPLEX_Cuts_-_Flow_Cover_Cuts>`  
-*	:doc:`CPLEX_Cuts_-_Mix_Integer_Round <CPLEX_Cuts_-_Mix_Integer_Round>` 
+*	:doc:`CPLEX_Cuts_-_Flow_Cover_Cuts`  
+*	:doc:`CPLEX_Cuts_-_Mix_Integer_Round` 
 
 
 

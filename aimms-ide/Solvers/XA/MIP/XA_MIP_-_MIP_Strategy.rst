@@ -38,9 +38,9 @@ The setting "Column randomly selected" is useful when solving very large problem
 
 **Learn more about** 
 
-*	:doc:`XA_MIP_-_MIP_Strategy_Branching_P <XA_MIP_-_MIP_Strategy_Branching_P>`  
-*	:doc:`XA_MIP_-_MIP_Strategy_Estimate_In <XA_MIP_-_MIP_Strategy_Estimate_In>`  
-*	:doc:`XA_MIP_-_MIP_Strategy_Split_Node_ <XA_MIP_-_MIP_Strategy_Split_Node_>`  
+*	:doc:`XA_MIP_-_MIP_Strategy_Branching_P`  
+*	:doc:`XA_MIP_-_MIP_Strategy_Estimate_In`  
+*	:doc:`XA_MIP_-_MIP_Strategy_Split_Node_`  
 
 
 

@@ -32,4 +32,4 @@ If this option is switched on then general integer variables should be considere
 
 **Learn more about** 
 
-*	:doc:`BARON_General_-_Compute_IIS <BARON_General_-_Compute_IIS>` 
+*	:doc:`BARON_General_-_Compute_IIS` 

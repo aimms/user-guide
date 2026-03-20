@@ -35,5 +35,5 @@ Possible values are:
 
 **Learn more about** 
 
-*	:doc:`Progress_Options_-_Progress_Time_Interval <../../../Aimms/Options/AIMMS/Progress, Errors & Warnings/Progress Options/Progress_Options_-_Progress_Time_Interval>` 
+*	:doc:`../../../Aimms/Options/AIMMS/Progress, Errors & Warnings/Progress Options/Progress_Options_-_Progress_Time_Interval` 
 

@@ -19,7 +19,7 @@ The setting of this option specifies the length of the candidate list when using
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_-_Select_Variables <ODH_XMIP_-_Select_Variables>`  
+*	:doc:`ODH_XMIP_-_Select_Variables`  
 
 
 

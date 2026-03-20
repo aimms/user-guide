@@ -26,4 +26,4 @@ This option indicates that linear scaling is only done if it seems required. Thi
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Linear_solver_-_Linear_system_scaling_method <IPOPT_Linear_solver_-_Linear_system_scaling_method>` 
+*	:doc:`IPOPT_Linear_solver_-_Linear_system_scaling_method` 

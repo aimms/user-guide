@@ -31,5 +31,5 @@ This option determines whether the **First Feasible Heuristic**  should continue
 
 **Learn more about** 
 
-*	:doc:`ODH_Heuristic_-_First_Feasible_Heuristic <ODH_Heuristic_-_First_Feasible_Heuristic>`  
-*	:doc:`ODH_General_-_Search_Mode <../General/ODH_General_-_Search_Mode>`  
+*	:doc:`ODH_Heuristic_-_First_Feasible_Heuristic`  
+*	:doc:`../General/ODH_General_-_Search_Mode`  

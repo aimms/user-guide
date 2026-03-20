@@ -17,15 +17,15 @@ This option specifies the initial box size for trust region models for the Linea
 
 **Note** 
 
-*	More on the Linear Feasibility Model and Phase 0 can be found in the section :doc:`CONOPT_Description_of_CONOPT_Algorithm <../CONOPT_Description_of_CONOPT_Algorithm>`.
+*	More on the Linear Feasibility Model and Phase 0 can be found in the section :doc:`../CONOPT_Description_of_CONOPT_Algorithm`.
 
 
 
 
 **Learn more about** 
 
-*	:doc:`CONOPT_Advanced_-_Box_Size_Tolerance <CONOPT_Advanced_-_Box_Size_Tolerance>` 
-*	:doc:`CONOPT_Description_of_CONOPT_Algorithm <../CONOPT_Description_of_CONOPT_Algorithm>` 
+*	:doc:`CONOPT_Advanced_-_Box_Size_Tolerance` 
+*	:doc:`../CONOPT_Description_of_CONOPT_Algorithm` 
 
 
 

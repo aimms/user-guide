@@ -20,4 +20,4 @@ This option sets the default verbosity level for console output. The larger this
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Output_-_Status_file <IPOPT_Output_-_Status_file>` 
+*	:doc:`IPOPT_Output_-_Status_file` 

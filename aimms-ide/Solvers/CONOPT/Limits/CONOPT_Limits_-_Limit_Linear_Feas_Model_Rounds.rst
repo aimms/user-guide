@@ -24,4 +24,4 @@ This option limits the number of rounds in which Linear Feasibility Models are s
 
 **Learn more about** 
 
-*	:doc:`CONOPT_Advanced_-_Method_Linear_Feas_Models <../Advanced/CONOPT_Advanced_-_Method_Linear_Feas_Models>`  
+*	:doc:`../Advanced/CONOPT_Advanced_-_Method_Linear_Feas_Models`  

@@ -22,4 +22,4 @@ Possible values for this parameter range from 0.001 to 10000. A value of 1.0 ind
 
 **Learn more about** 
 
-*	:doc:`CPOPT_Search_-_Dynamic_probing <CPOPT_Search_-_Dynamic_probing>` 
+*	:doc:`CPOPT_Search_-_Dynamic_probing` 

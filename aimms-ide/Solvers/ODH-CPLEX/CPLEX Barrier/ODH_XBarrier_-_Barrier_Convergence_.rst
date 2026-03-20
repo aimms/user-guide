@@ -29,7 +29,7 @@ Changing this tolerance to a smaller value may result in greater numerical preci
 
 **Learn more about** 
 
-*	:doc:`ODH_XQuadratic_-_Barrier_Conv_Toler <../CPLEX Quadratic/ODH_XQuadratic_-_Barrier_Conv_Toler>` 
+*	:doc:`../CPLEX Quadratic/ODH_XQuadratic_-_Barrier_Conv_Toler` 
 
 
 

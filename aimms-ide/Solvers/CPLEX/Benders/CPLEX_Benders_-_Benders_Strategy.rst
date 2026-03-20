@@ -12,7 +12,7 @@ Benders Strategy
 
 
 
-This option determines whether CPLEX should use the :doc:`CPLEX_Benders_Decomposition <../CPLEX_Benders_Decomposition>` algorithm for solving a problem, and how
+This option determines whether CPLEX should use the :doc:`../CPLEX_Benders_Decomposition` algorithm for solving a problem, and how
 the model should be decomposed. Given a formulation of a problem, CPLEX can decompose the model into a single master and
 (possibly multiple) subproblems. For certain type of problems, using multiple subproblems offers significant performance
 improvements because they can be solved in parallel. For MIP problems, under certain conditions, CPLEX can apply Benders
@@ -42,7 +42,7 @@ in one of these alternative strategies:
 		* CPLEX further decomposes that subproblem, if possible.
 
 
-The strategies 'User' and 'Worker' require you to specify a decomposition; see the section :doc:`CPLEX_Benders_Decomposition <../CPLEX_Benders_Decomposition>` for more information.
+The strategies 'User' and 'Worker' require you to specify a decomposition; see the section :doc:`../CPLEX_Benders_Decomposition` for more information.
 
 
 The strategy 'Full' can only be applied to MIP problems.
@@ -53,10 +53,10 @@ The strategy 'Full' can only be applied to MIP problems.
 *	CPLEX only supports Benders decomposition for linear problems.
 *	CPLEX does not support Benders decomposition for problems with ranged, indicator, SOS or lazy constraints.
 *	CPLEX does not support Benders decomposition for multi-objective optimization problems.
-*	The strategies 'User' and 'Worker' require you to use GMP functionality (see the section :doc:`CPLEX_Benders_Decomposition <../CPLEX_Benders_Decomposition>`). The strategy 'Full' can also be applied to a normal solve-statement.
+*	The strategies 'User' and 'Worker' require you to use GMP functionality (see the section :doc:`../CPLEX_Benders_Decomposition`). The strategy 'Full' can also be applied to a normal solve-statement.
 
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Benders_Decomposition <../CPLEX_Benders_Decomposition>` 
+*	:doc:`../CPLEX_Benders_Decomposition` 
 

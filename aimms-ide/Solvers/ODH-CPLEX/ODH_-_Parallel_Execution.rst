@@ -34,7 +34,7 @@ where number_of_available_processors is: the number of logical processors if the
 
 
 
-SUB_CPX_THREADS is a CPLEX option that only applies to CPLEX when it solves a sub-model. Is can only be set using a :doc:`ODH_-_Parameter_File <ODH_-_Parameter_File>`.
+SUB_CPX_THREADS is a CPLEX option that only applies to CPLEX when it solves a sub-model. Is can only be set using a :doc:`ODH_-_Parameter_File`.
 
 
 
@@ -48,8 +48,8 @@ Although the operating system’s scheduler usually allocates threads to logical
 
 **Learn more about** 
 
-*	:doc:`ODH_XPar_-_GlobalThreadLimit <CPLEX Parallel/ODH_XPar_-_GlobalThreadLimit>` 
-*	:doc:`ODH_-_Parameter_File <ODH_-_Parameter_File>` 
-*	:doc:`ODH_Parallel_-_Processor_Lock <Parallel/ODH_Parallel_-_Processor_Lock>` 
-*	:doc:`ODH_General_-_Search_Mode <General/ODH_General_-_Search_Mode>` 
-*	:doc:`ODH_Parallel_-_Thread_Limit <Parallel/ODH_Parallel_-_Thread_Limit>` 
+*	:doc:`CPLEX Parallel/ODH_XPar_-_GlobalThreadLimit` 
+*	:doc:`ODH_-_Parameter_File` 
+*	:doc:`Parallel/ODH_Parallel_-_Processor_Lock` 
+*	:doc:`General/ODH_General_-_Search_Mode` 
+*	:doc:`Parallel/ODH_Parallel_-_Thread_Limit` 

@@ -6,7 +6,7 @@ Limit for Slow Progress
 
 
 :Type:	Integer	
-:Range:	{2 .. :doc:`Maxint <../../../Aimms/Miscellaneous/Short Descriptions/Maxint>`}	
+:Range:	{2 .. :doc:`../../../Aimms/Miscellaneous/Short Descriptions/Maxint`}	
 :Default:	20	
 
 
@@ -17,7 +17,7 @@ This option sets the maximum number of consecutive iterations of a slow progress
 
 **Learn more about** 
 
-*	:doc:`CONOPT_Stop_Criteria_-_Slow_Progress_Tol <CONOPT_Stop_Criteria_-_Slow_Progress_Tol>`  
+*	:doc:`CONOPT_Stop_Criteria_-_Slow_Progress_Tol`  
 
 
 

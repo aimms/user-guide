@@ -24,8 +24,8 @@ Increasing the value of this option helps to reduce the number of slightly infea
 
 **Learn more about** 
 
-*	:doc:`SNOPT_Feasibility_-_Feasibility_Tole <../Feasibility/SNOPT_Feasibility_-_Feasibility_Tole>`  
-*	:doc:`SNOPT_Advanced_-_Pivot_Tolerance <SNOPT_Advanced_-_Pivot_Tolerance>`  
+*	:doc:`../Feasibility/SNOPT_Feasibility_-_Feasibility_Tole`  
+*	:doc:`SNOPT_Advanced_-_Pivot_Tolerance`  
 
 
 

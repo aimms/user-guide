@@ -29,7 +29,7 @@ A setting of 0 means no cuts.
 
 **Learn more about** 
 
-*	:doc:`ODH_XCuts_-_Gomory_Cuts <ODH_XCuts_-_Gomory_Cuts>`  
+*	:doc:`ODH_XCuts_-_Gomory_Cuts`  
 
 
 

@@ -33,7 +33,7 @@ Sifting solves a sequence of LP subproblems, where the results from one subprobl
 
 
 
-On a multiprocessor computer, the concurrent optimizer launches distinct LP optimizers on multiple threads, terminating as soon as the first optimizer finishes. The concurrent optimizer is described in the section :doc:`CPLEX_Parallel_Concurrent_Optimizer <../CPLEX_Parallel_Concurrent_Optimizer>`. The amount of threads available to the concurrent optimizer is controlled by the option **Global Thread Limit**.
+On a multiprocessor computer, the concurrent optimizer launches distinct LP optimizers on multiple threads, terminating as soon as the first optimizer finishes. The concurrent optimizer is described in the section :doc:`../CPLEX_Parallel_Concurrent_Optimizer`. The amount of threads available to the concurrent optimizer is controlled by the option **Global Thread Limit**.
 
 
 
@@ -58,11 +58,11 @@ The concurrent optimizer requires more memory than any individual optimizer, and
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Par_-_GlobalThreadLimit <../Parallel/CPLEX_Par_-_GlobalThreadLimit>`  
-*	:doc:`CPLEX_Parallel_Concurrent_Optimizer <../CPLEX_Parallel_Concurrent_Optimizer>` 
-*	:doc:`Postsolve_-_Postsolve <../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve>` 
-*	:doc:`CPLEX_General_-_Sensitivity_Method <CPLEX_General_-_Sensitivity_Method>` 
-*	:doc:`CPLEX_General_-_Solution_Type <CPLEX_General_-_Solution_Type>` 
+*	:doc:`../Parallel/CPLEX_Par_-_GlobalThreadLimit`  
+*	:doc:`../CPLEX_Parallel_Concurrent_Optimizer` 
+*	:doc:`../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve` 
+*	:doc:`CPLEX_General_-_Sensitivity_Method` 
+*	:doc:`CPLEX_General_-_Solution_Type` 
 
 
 

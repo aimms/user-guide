@@ -32,4 +32,4 @@ Note that this option only has an effect when you are using dual simplex and **S
 
 **Learn more about** 
 
-*	:doc:`GUROBI_Simplex_-_Sifting <GUROBI_Simplex_-_Sifting>`  
+*	:doc:`GUROBI_Simplex_-_Sifting`  

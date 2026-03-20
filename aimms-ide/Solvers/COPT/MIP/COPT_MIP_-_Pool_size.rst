@@ -12,7 +12,7 @@ Pool Size
 
 
 
-This option determines how many MIP solutions are stored in the :doc:`COPT_Solution_Pool <../COPT_Solution_Pool>` .
+This option determines how many MIP solutions are stored in the :doc:`../COPT_Solution_Pool` .
 
 
 
@@ -25,7 +25,7 @@ This option determines how many MIP solutions are stored in the :doc:`COPT_Solut
 
 **Learn more about** 
 
-*	:doc:`COPT_Solution_Pool <../COPT_Solution_Pool>` 
+*	:doc:`../COPT_Solution_Pool` 
 
 
 

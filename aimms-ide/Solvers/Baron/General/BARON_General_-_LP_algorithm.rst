@@ -28,7 +28,7 @@ This option specifies which algorithm the LP solver should use. At the default s
 
 **Learn more about** 
 
-*	:doc:`BARON_General_-_LP_solver <BARON_General_-_LP_solver>` 
+*	:doc:`BARON_General_-_LP_solver` 
 
 
 

@@ -30,7 +30,7 @@ The option **Output File**  should be set to 'Yes' to generate a Gurobi output f
 
 **Learn more about** 
 
-*	:doc:`GUROBI_Logging_-_Output_File <GUROBI_Logging_-_Output_File>` 
+*	:doc:`GUROBI_Logging_-_Output_File` 
 
 
 

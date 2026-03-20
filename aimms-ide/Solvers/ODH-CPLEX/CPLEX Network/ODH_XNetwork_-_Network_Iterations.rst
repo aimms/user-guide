@@ -25,5 +25,5 @@ This option specifies the maximum number of iterations to be performed by the ne
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_-_MIP_Method <../CPLEX MIP/ODH_XMIP_-_MIP_Method>`  
-*	:doc:`ODH_XMIP_-_MIP_Start_Algorit <../CPLEX MIP/ODH_XMIP_-_MIP_Start_Algorit>`  
+*	:doc:`../CPLEX MIP/ODH_XMIP_-_MIP_Method`  
+*	:doc:`../CPLEX MIP/ODH_XMIP_-_MIP_Start_Algorit`  

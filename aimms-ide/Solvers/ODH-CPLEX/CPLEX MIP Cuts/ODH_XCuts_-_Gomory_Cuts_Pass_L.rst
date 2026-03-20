@@ -18,7 +18,7 @@ This option limits the passes for generating Gomory cuts for the problem. At the
 
 **Learn more about** 
 
-*	:doc:`ODH_XCuts_-_Gomory_Cuts <ODH_XCuts_-_Gomory_Cuts>`  
+*	:doc:`ODH_XCuts_-_Gomory_Cuts`  
 
 
 

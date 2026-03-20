@@ -34,4 +34,4 @@ Nonlinear programming subproblems use the algorithm specified by the option **Al
 
 **Learn more about** 
 
-*	:doc:`KNITRO_General_-_Algorithm <../General/KNITRO_General_-_Algorithm>`  
+*	:doc:`../General/KNITRO_General_-_Algorithm`  

@@ -20,4 +20,4 @@ This option is only used if the option **Gradient Computation Method**  is set t
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Advanced_-_Gradient_Computation_Method <../Advanced/KNITRO_Advanced_-_Gradient_Computation_Method>` 
+*	:doc:`../Advanced/KNITRO_Advanced_-_Gradient_Computation_Method` 

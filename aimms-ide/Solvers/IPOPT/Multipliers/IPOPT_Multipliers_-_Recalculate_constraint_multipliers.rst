@@ -30,4 +30,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Multipliers_-_Recalculate_constraint_multipliers_tolerance <IPOPT_Multipliers_-_Recalculate_constraint_multipliers_tolerance>` 
+*	:doc:`IPOPT_Multipliers_-_Recalculate_constraint_multipliers_tolerance` 

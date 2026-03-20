@@ -20,4 +20,4 @@ Any bound less than or equal to this value will be considered -inf (i.e., not lo
 
 **Learn more about** 
 
-*	:doc:`IPOPT_NLP_-_Infinity_upper_bound <IPOPT_NLP_-_Infinity_upper_bound>` 
+*	:doc:`IPOPT_NLP_-_Infinity_upper_bound` 

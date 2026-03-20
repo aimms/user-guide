@@ -36,6 +36,6 @@ When this option is switched on then CP Optimizer starts failure-directed search
 
 **Learn more about** 
 
-*	:doc:`CPOPT_Search_-_Failure_directed_search_emphas <CPOPT_Search_-_Failure_directed_search_emphas>` 
-*	:doc:`CPOPT_Search_-_Failure_directed_search_memory <CPOPT_Search_-_Failure_directed_search_memory>` 
-*	:doc:`CPOPT_Search_-_Search_type <CPOPT_Search_-_Search_type>` 
+*	:doc:`CPOPT_Search_-_Failure_directed_search_emphas` 
+*	:doc:`CPOPT_Search_-_Failure_directed_search_memory` 
+*	:doc:`CPOPT_Search_-_Search_type` 

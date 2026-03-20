@@ -56,7 +56,7 @@ For a more thorough exploration of the theory supporting SOS reformulations, see
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_Prepr_-_SOS1_Reformulations <ODH_XMIP_Prepr_-_SOS1_Reformulations>`  
+*	:doc:`ODH_XMIP_Prepr_-_SOS1_Reformulations`  
 
 
 

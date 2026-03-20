@@ -37,4 +37,4 @@ A priority order can be specified in two ways, namely (1) by specifying a branch
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_-_MIP_Priority_Order_Type <ODH_XMIP_-_MIP_Priority_Order_Type>` 
+*	:doc:`ODH_XMIP_-_MIP_Priority_Order_Type` 

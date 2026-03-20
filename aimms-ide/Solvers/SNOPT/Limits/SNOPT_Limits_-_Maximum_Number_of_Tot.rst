@@ -18,7 +18,7 @@ This option determines the maximum number of minor iterations allowed, summed ov
 
 **Learn more about** 
 
-*	:doc:`SNOPT_-_Maximum_Number_of_Min <SNOPT_-_Maximum_Number_of_Min>`  
+*	:doc:`SNOPT_-_Maximum_Number_of_Min`  
 
 
 

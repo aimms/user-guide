@@ -21,4 +21,4 @@ Possible values are:
 
 **Learn more about**
 
-*	:doc:`KNITRO_IP_-_Conjugate_Gradient_Preconditio <KNITRO_IP_-_Conjugate_Gradient_Preconditio>`  
+*	:doc:`KNITRO_IP_-_Conjugate_Gradient_Preconditio`  

@@ -37,7 +37,7 @@ All possible combinations of options/values specified in a Tuner options file wi
 **Tuner Options File** 
 
 
-The Tuner options file is named 'knitro_tuner_file.txt' and should be placed in the directory of the AIMMS project. The option names used are the Knitro names. The Knitro name belonging to an AIMMS option can be found in the :doc:`AIMMS_to_KNITRO_Mapping <AIMMS_to_KNITRO_Mapping>` from AIMMS option names to Knitro option names.
+The Tuner options file is named 'knitro_tuner_file.txt' and should be placed in the directory of the AIMMS project. The option names used are the Knitro names. The Knitro name belonging to an AIMMS option can be found in the :doc:`AIMMS_to_KNITRO_Mapping` from AIMMS option names to Knitro option names.
 
 
 
@@ -64,7 +64,7 @@ pivot 1e-8 1e-14
 
 
 
-This options file tells the Knitro-Tuner to explore all possible option values for the algorithm (AIMMS: :doc:`KNITRO_General_-_Algorithm <General/KNITRO_General_-_Algorithm>`) and bar_murule (AIMMS: :doc:`KNITRO_IP_-_InitBarParValue <Interior Point/KNITRO_IP_-_InitBarParValue>`) options, while exploring three values (0, 1 and 10) for the bar_directinterval (AIMMS: :doc:`KNITRO_IP_-_Direct_Step_Interval <Interior Point/KNITRO_IP_-_Direct_Step_Interval>`) option and two values (1e-8 and 1e-14) for the pivot (AIMMS: :doc:`KNITRO_Advanced_-_Initial_pivot <Advanced/KNITRO_Advanced_-_Initial_pivot>`) option.
+This options file tells the Knitro-Tuner to explore all possible option values for the algorithm (AIMMS: :doc:`General/KNITRO_General_-_Algorithm`) and bar_murule (AIMMS: :doc:`Interior Point/KNITRO_IP_-_InitBarParValue`) options, while exploring three values (0, 1 and 10) for the bar_directinterval (AIMMS: :doc:`Interior Point/KNITRO_IP_-_Direct_Step_Interval`) option and two values (1e-8 and 1e-14) for the pivot (AIMMS: :doc:`Advanced/KNITRO_Advanced_-_Initial_pivot`) option.
 
 
 
@@ -160,7 +160,7 @@ This table indicates the option values explored, the number of Tuner runs for ea
 
 
 
-This summary table provides some global view of which option settings may be preferable. For example, the table above suggests that algorithm = 2 (which corresponds to setting 'Interior-CG' for AIMMS option :doc:`KNITRO_General_-_Algorithm <General/KNITRO_General_-_Algorithm>`) may be preferable for models of this type since it (on average) requires fewer function evaluations and less time to find an optimal solution. The table also suggests that perhaps the non-default setting bar_murule = 6 (which corresponds to setting 'Quality' for AIMMS option :doc:`KNITRO_IP_-_InitBarParValue <Interior Point/KNITRO_IP_-_InitBarParValue>`) should be used, since it requires, on average, the fewest number of function evaluations to converge, although other values are only slightly worse.
+This summary table provides some global view of which option settings may be preferable. For example, the table above suggests that algorithm = 2 (which corresponds to setting 'Interior-CG' for AIMMS option :doc:`General/KNITRO_General_-_Algorithm`) may be preferable for models of this type since it (on average) requires fewer function evaluations and less time to find an optimal solution. The table also suggests that perhaps the non-default setting bar_murule = 6 (which corresponds to setting 'Quality' for AIMMS option :doc:`Interior Point/KNITRO_IP_-_InitBarParValue`) should be used, since it requires, on average, the fewest number of function evaluations to converge, although other values are only slightly worse.
 
 
 
@@ -174,6 +174,6 @@ The Tuner output is written to the file 'knitro.log' if the option **Status File
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Reporting_-_StatusFileDi <Reporting/KNITRO_Reporting_-_StatusFileDi>`  
-*	:doc:`KNITRO_Tuner_-_Tuner <Tuner/KNITRO_Tuner_-_Tuner>`  
-*	:doc:`AIMMS_to_KNITRO_Mapping <AIMMS_to_KNITRO_Mapping>`  
+*	:doc:`Reporting/KNITRO_Reporting_-_StatusFileDi`  
+*	:doc:`Tuner/KNITRO_Tuner_-_Tuner`  
+*	:doc:`AIMMS_to_KNITRO_Mapping`  

@@ -73,11 +73,11 @@ The nonlinear presolve algorithm is switched off by default. To use it you shoul
 **Learn more about** 
 
 *	`SNOPT <https://ccom.ucsd.edu/~optimizers/solvers/snopt/>`_ (Internet link)
-*	:doc:`SNOPT_to_AIMMS_Mapping <SNOPT_to_AIMMS_Mapping>` 
-*	:doc:`AIMMS_to_SNOPT_Mapping <AIMMS_to_SNOPT_Mapping>`  
-*	:doc:`SNOPT_Description_of_SNOPT_Algorithm <SNOPT_Description_of_SNOPT_Algorithm>` 
-*	:doc:`AIMMS_Execution_Options <../../Aimms/Options/AIMMS_Execution_Options>`  
-*	:doc:`SNOPT_Advanced_-_Calling_Crash <Advanced/SNOPT_Advanced_-_Calling_Crash>`  
-*	:doc:`SNOPT_Advanced_-_Hessian_Updates <Advanced/SNOPT_Advanced_-_Hessian_Updates>`  
-*	:doc:`Stop_Criteria_-_Iteration_Limi <../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Iteration_Limi>`  
-*	:doc:`NonlinPres_-_NonlinearPresolve <../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_NonlinearPresolve>` 
+*	:doc:`SNOPT_to_AIMMS_Mapping` 
+*	:doc:`AIMMS_to_SNOPT_Mapping`  
+*	:doc:`SNOPT_Description_of_SNOPT_Algorithm` 
+*	:doc:`../../Aimms/Options/AIMMS_Execution_Options`  
+*	:doc:`Advanced/SNOPT_Advanced_-_Calling_Crash`  
+*	:doc:`Advanced/SNOPT_Advanced_-_Hessian_Updates`  
+*	:doc:`../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Iteration_Limi`  
+*	:doc:`../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_NonlinearPresolve` 

@@ -42,6 +42,6 @@ If several related problems are to be solved, the following strategy for setting
 
 **Learn more about** 
 
-*	:doc:`DampingParameter <DampingParameter>`  
-*	:doc:`Limits_-_Maximum_Number_of_Tot <../Limits/Limits_-_Maximum_Number_of_Tot>`  
-*	:doc:`RadiusofConvergence <RadiusofConvergence>`  
+*	:doc:`DampingParameter`  
+*	:doc:`../Limits/Limits_-_Maximum_Number_of_Tot`  
+*	:doc:`RadiusofConvergence`  

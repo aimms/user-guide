@@ -32,5 +32,5 @@ This option specifies variable shifting in found solutions by the **First Feasib
 
 **Learn more about** 
 
-*	:doc:`ODH_Heuristic_-_First_Feasible_Heuristic <ODH_Heuristic_-_First_Feasible_Heuristic>`  
-*	:doc:`ODH_General_-_Search_Mode <../General/ODH_General_-_Search_Mode>`  
+*	:doc:`ODH_Heuristic_-_First_Feasible_Heuristic`  
+*	:doc:`../General/ODH_General_-_Search_Mode`  

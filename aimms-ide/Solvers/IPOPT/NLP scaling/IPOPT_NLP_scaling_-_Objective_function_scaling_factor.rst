@@ -20,4 +20,4 @@ This option sets a scaling factor for the objective function. The scaling is see
 
 **Learn more about** 
 
-*	:doc:`IPOPT_NLP_scaling_-_NLP_scaling_method <IPOPT_NLP_scaling_-_NLP_scaling_method>` 
+*	:doc:`IPOPT_NLP_scaling_-_NLP_scaling_method` 

@@ -31,7 +31,7 @@ The setting 'Automatic' allows CPLEX to choose wall clock time when other option
 
 **Learn more about** 
 
-*	 :doc:`CPLEX_Par_-_GlobalThreadLimit <../Parallel/CPLEX_Par_-_GlobalThreadLimit>` 
+*	 :doc:`../Parallel/CPLEX_Par_-_GlobalThreadLimit` 
 
 
 

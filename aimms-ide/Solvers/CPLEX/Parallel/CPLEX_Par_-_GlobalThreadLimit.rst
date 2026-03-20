@@ -47,7 +47,7 @@ invoked concurrently, and that the algorithm might become opportunistic even if 
 
 
 This option also determines the amount of threads used by the concurrent optimizer which can be switched on using the option
-**LP Method** or **MIP Start Algorithm**. The concurrent optimizer is described in the section :doc:`CPLEX_Parallel_Concurrent_Optimizer <../CPLEX_Parallel_Concurrent_Optimizer>`.
+**LP Method** or **MIP Start Algorithm**. The concurrent optimizer is described in the section :doc:`../CPLEX_Parallel_Concurrent_Optimizer`.
 
 
 **Note** 
@@ -57,11 +57,11 @@ This option also determines the amount of threads used by the concurrent optimiz
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Par_-_Auxiliary_Root_Threads <CPLEX_Par_-_Auxiliary_Root_Threads>` 
-*	:doc:`CPLEX_Threads_search_strat_and_callb <../CPLEX_Threads_search_strat_and_callb>` 
-*	:doc:`CPLEX_General_-_LP_Method <../General/CPLEX_General_-_LP_Method>` 
-*	:doc:`CPLEX_MIP_-_MIP_Start_Algorit <../MIP/CPLEX_MIP_-_MIP_Start_Algorit>` 
-*	:doc:`CPLEX_Parallel_Concurrent_Optimizer <../CPLEX_Parallel_Concurrent_Optimizer>` 
-*	:doc:`CPLEX_Par_-_Parallel_Mode <CPLEX_Par_-_Parallel_Mode>` 
-*	:doc:`CPLEX_MIP_-_Use_Generic_Callbacks <../MIP/CPLEX_MIP_-_Use_Generic_Callbacks>` 
+*	:doc:`CPLEX_Par_-_Auxiliary_Root_Threads` 
+*	:doc:`../CPLEX_Threads_search_strat_and_callb` 
+*	:doc:`../General/CPLEX_General_-_LP_Method` 
+*	:doc:`../MIP/CPLEX_MIP_-_MIP_Start_Algorit` 
+*	:doc:`../CPLEX_Parallel_Concurrent_Optimizer` 
+*	:doc:`CPLEX_Par_-_Parallel_Mode` 
+*	:doc:`../MIP/CPLEX_MIP_-_Use_Generic_Callbacks` 
 

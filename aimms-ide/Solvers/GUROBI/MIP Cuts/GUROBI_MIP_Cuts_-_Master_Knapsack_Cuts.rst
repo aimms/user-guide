@@ -31,4 +31,4 @@ This option overrides option **Global Cut Control**.
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_Cuts_-_Global_Cut_Control <GUROBI_MIP_Cuts_-_Global_Cut_Control>`  
+*	:doc:`GUROBI_MIP_Cuts_-_Global_Cut_Control`  

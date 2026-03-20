@@ -26,4 +26,4 @@ This option indicates whether final points should be projected into original bou
 
 **Learn more about** 
 
-*	:doc:`IPOPT_NLP_-_Factor_for_initial_bounds_relaxation <IPOPT_NLP_-_Factor_for_initial_bounds_relaxation>` 
+*	:doc:`IPOPT_NLP_-_Factor_for_initial_bounds_relaxation` 

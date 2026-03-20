@@ -20,4 +20,4 @@ This option specifies the factor by which the x-s perturbation is increased when
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Hessian_perturbation_-_First_Hessian_perturbation_increase_factor <IPOPT_Hessian_perturbation_-_First_Hessian_perturbation_increase_factor>` 
+*	:doc:`IPOPT_Hessian_perturbation_-_First_Hessian_perturbation_increase_factor` 

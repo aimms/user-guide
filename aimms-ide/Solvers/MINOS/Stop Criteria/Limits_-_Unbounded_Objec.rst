@@ -27,7 +27,7 @@ Unboundedness in :math:`x` is best avoided by placing finite upper and lower bou
 
 **Learn more about** 
 
-*	:doc:`Limits_-_Unbounded_Step_Size <Limits_-_Unbounded_Step_Size>`  
+*	:doc:`Limits_-_Unbounded_Step_Size`  
 
 
 

@@ -37,4 +37,4 @@ Setting 'Clique inequalities' will turn <= clique constraints into equality cons
 
 **Learn more about** 
 
-*	:doc:`CBC_Presolve_-_Presolve <../Presolve/CBC_Presolve_-_Presolve>` 
+*	:doc:`../Presolve/CBC_Presolve_-_Presolve` 

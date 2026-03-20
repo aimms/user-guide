@@ -35,13 +35,13 @@ The optimization problem can be maximized instead of minimized.
 
 In the most basic linear optimization problem, the variables of the objective function are continuous in the mathematical sense, with no gaps between real values. CPLEX can also be used for solving linear programming problems in which some or all of the variables must assume integer values in the solution. Such problems are known as mixed integer programs or MIPs.
 
-CPLEX can handle problems with multiple objectives; see the section :doc:`CPLEX_Multi_Objective_Optimization <CPLEX_Multi_Objective_Optimization>`.
+CPLEX can handle problems with multiple objectives; see the section :doc:`CPLEX_Multi_Objective_Optimization`.
 
 CPLEX can also handle certain problems in which the objective function is not linear but quadratic. 
 Such a problem is known as quadratic program or QP if the constraints are linear, and it is known as quadratically constrained program or QCP if some of the constraints are quadratic. 
 (No other type of constraints is allowed.) 
 CPLEX can also handle QP and QCP problems in which some or all variables must be integer. Such problems are called mixed integer quadratic programs (MIQP) and mixed integer quadratically constrained programs (MIQCP) respectively. 
-CPLEX can also be used for some types of second-order cone constraints; see the section about :doc:`CPLEX_SOCP <CPLEX_SOCP>`.
+CPLEX can also be used for some types of second-order cone constraints; see the section about :doc:`CPLEX_SOCP`.
 
 CPLEX also offers a network optimizer aimed at a special class of linear problems with network structure. 
 CPLEX can optimize such problems as ordinary linear programs, but if CPLEX can extract all or part of the problem as a network, 
@@ -52,26 +52,26 @@ AIMMS is equipped with options that set the parameters in CPLEX.
 Options in AIMMS can be set in the options dialog box.
 
 CPLEX can perform a minimum-cost relaxation in order to make an infeasible model feasible. 
-More information about relaxing infeasible models can be found in the section :doc:`CPLEX_Feasibility_Relaxation <CPLEX_Feasibility_Relaxation>`.
+More information about relaxing infeasible models can be found in the section :doc:`CPLEX_Feasibility_Relaxation`.
 
 In CPLEX it is possible to use a partial solution as a MIP start by setting the option **Advanced Start**. 
-CPLEX also supports :doc:`CPLEX_Multiple_MIP_Starts <CPLEX_Multiple_MIP_Starts>`.
+CPLEX also supports :doc:`CPLEX_Multiple_MIP_Starts`.
 
 CPLEX supports several types of callback procedures which allow you to monitor closely and to guide the behavior of the CPLEX optimizers. 
 In particular, callbacks allow user code to be executed regularly during an optimization run. 
-See the section :doc:`CPLEX_Threads_search_strat_and_callb <CPLEX_Threads_search_strat_and_callb>` and the option **Use Generic Callbacks**.
+See the section :doc:`CPLEX_Threads_search_strat_and_callb` and the option **Use Generic Callbacks**.
 
 CPLEX can generate multiple solutions to a MIP problem. 
-This is described in the section :doc:`CPLEX_Solution_Pool <CPLEX_Solution_Pool>`.
+This is described in the section :doc:`CPLEX_Solution_Pool`.
 
-CPLEX supports the :doc:`CPLEX_Tuning_Tool <CPLEX_Tuning_Tool>`, a utility to aid you in improving the performance of your optimization applications, 
+CPLEX supports the :doc:`CPLEX_Tuning_Tool`, a utility to aid you in improving the performance of your optimization applications, 
 analyzes a model or a group of models and suggests a suite of option settings for you to use that provide better performance than the default option settings for your model or group of models.
 
 CPLEX can use a Benders decomposition algorithm to solve linear problems; 
-this is described in the section :doc:`CPLEX_Benders_Decomposition <CPLEX_Benders_Decomposition>`.
+this is described in the section :doc:`CPLEX_Benders_Decomposition`.
 
 CPLEX can provide information about the quality of a solution that it found by solving a problem; 
-this is controlled by the option :doc:`CPLEX_General_-_Display_Solution_Statistics <General/CPLEX_General_-_Display_Solution_Statistics>`.
+this is controlled by the option :doc:`General/CPLEX_General_-_Display_Solution_Statistics`.
 
 **Parallel CPLEX** 
 
@@ -79,7 +79,7 @@ CPLEX supports several parallel optimizers: Parallel Barrier, Parallel MIP and t
 They are implemented to run on hardware platforms with parallel processors. 
 The easiest way to let the CPLEX optimizers invoke parallel threads is to set the option **Global Thread Limit**. 
 CPLEX can use parallel threads for solving MIP models and, if the barrier algorithm is used, for solving LP, QP and QCP models. 
-The Concurrent Optimizer is described in the section :doc:`CPLEX_Parallel_Concurrent_Optimizer <CPLEX_Parallel_Concurrent_Optimizer>`.
+The Concurrent Optimizer is described in the section :doc:`CPLEX_Parallel_Concurrent_Optimizer`.
 
 **Deprecated postsolve options** 
 
@@ -96,25 +96,25 @@ CPLEX requires that your computer's CPU supports SSE2. SSE2 was first introduced
 **Learn more about** 
 
 *	`CPLEX <https://www.ibm.com/products/ilog-cplex-optimization-studio/>`_ (Internet link)
-*	:doc:`CPLEX_to_AIMMS_Mapping <CPLEX_to_AIMMS_Mapping>`  
-*	:doc:`AIMMS_to_CPLEX_Mapping <AIMMS_to_CPLEX_Mapping>`  
-*	:doc:`AIMMS_Execution_Options <../../Aimms/Options/AIMMS_Execution_Options>`  
-*	:doc:`CPLEX_Benders_Decomposition <CPLEX_Benders_Decomposition>` 
-*	:doc:`CPLEX_Threads_search_strat_and_callb <CPLEX_Threads_search_strat_and_callb>` 
-*	:doc:`CPLEX_Indicator_Constraints <CPLEX_Indicator_Constraints>` 
-*	:doc:`CPLEX_Multi_Objective_Optimization <CPLEX_Multi_Objective_Optimization>` 
-*	:doc:`CPLEX_Multiple_MIP_Starts <CPLEX_Multiple_MIP_Starts>` 
-*	:doc:`CPLEX_Parallel_Concurrent_Optimizer <CPLEX_Parallel_Concurrent_Optimizer>` 
-*	:doc:`CPLEX_SOCP <CPLEX_SOCP>` 
-*	:doc:`CPLEX_Solution_Pool <CPLEX_Solution_Pool>` 
-*	:doc:`CPLEX_SOS_Types <CPLEX_SOS_Types>` 
-*	:doc:`CPLEX_SubMIP <CPLEX_SubMIP>` 
-*	:doc:`CPLEX_Troubleshooting <CPLEX_Troubleshooting>` 
-*	:doc:`CPLEX_Tuning_Tool <CPLEX_Tuning_Tool>` 
-*	:doc:`CPLEX_User_Cuts_and_Lazy_Constraints <CPLEX_User_Cuts_and_Lazy_Constraints>` 
-*	:doc:`CPLEX_General_-_AdvancedStart <General/CPLEX_General_-_AdvancedStart>` 
-*	:doc:`CPLEX_Benders_-_Benders_Strategy <Benders/CPLEX_Benders_-_Benders_Strategy>`  
-*	:doc:`CPLEX_General_-_Display_Solution_Statistics <General/CPLEX_General_-_Display_Solution_Statistics>`  
-*	:doc:`CPLEX_Par_-_GlobalThreadLimit <Parallel/CPLEX_Par_-_GlobalThreadLimit>` 
-*	:doc:`Postsolve_-_Postsolve <../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve>` 
-*	:doc:`CPLEX_MIP_-_Use_Generic_Callbacks <MIP/CPLEX_MIP_-_Use_Generic_Callbacks>` 
+*	:doc:`CPLEX_to_AIMMS_Mapping`  
+*	:doc:`AIMMS_to_CPLEX_Mapping`  
+*	:doc:`../../Aimms/Options/AIMMS_Execution_Options`  
+*	:doc:`CPLEX_Benders_Decomposition` 
+*	:doc:`CPLEX_Threads_search_strat_and_callb` 
+*	:doc:`CPLEX_Indicator_Constraints` 
+*	:doc:`CPLEX_Multi_Objective_Optimization` 
+*	:doc:`CPLEX_Multiple_MIP_Starts` 
+*	:doc:`CPLEX_Parallel_Concurrent_Optimizer` 
+*	:doc:`CPLEX_SOCP` 
+*	:doc:`CPLEX_Solution_Pool` 
+*	:doc:`CPLEX_SOS_Types` 
+*	:doc:`CPLEX_SubMIP` 
+*	:doc:`CPLEX_Troubleshooting` 
+*	:doc:`CPLEX_Tuning_Tool` 
+*	:doc:`CPLEX_User_Cuts_and_Lazy_Constraints` 
+*	:doc:`General/CPLEX_General_-_AdvancedStart` 
+*	:doc:`Benders/CPLEX_Benders_-_Benders_Strategy`  
+*	:doc:`General/CPLEX_General_-_Display_Solution_Statistics`  
+*	:doc:`Parallel/CPLEX_Par_-_GlobalThreadLimit` 
+*	:doc:`../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve` 
+*	:doc:`MIP/CPLEX_MIP_-_Use_Generic_Callbacks` 

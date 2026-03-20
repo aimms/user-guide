@@ -75,7 +75,7 @@ When you know that your model does not have a lot of unnecessary rows or columns
 
 **Learn more about** 
 
-*	:doc:`XA_General_-_Presolve <XA_General_-_Presolve>`  
+*	:doc:`XA_General_-_Presolve`  
 
 
 

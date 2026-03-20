@@ -19,7 +19,7 @@ option **Select Variables**.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_-_Select_Variables <CPLEX_MIP_-_Select_Variables>`  
+*	:doc:`CPLEX_MIP_-_Select_Variables`  
 
 
 

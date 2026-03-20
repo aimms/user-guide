@@ -34,7 +34,7 @@ on its own line. The following is a simple example:
    CPX_PARAM_STARTALG   2
 
 
-The parameters are printed using the CPLEX C API names as can be found in the :doc:`CPLEX_to_AIMMS_Mapping <../CPLEX_to_AIMMS_Mapping>` from AIMMS option
+The parameters are printed using the CPLEX C API names as can be found in the :doc:`../CPLEX_to_AIMMS_Mapping` from AIMMS option
 names to CPLEX parameter names.
 
 
@@ -45,6 +45,6 @@ names to CPLEX parameter names.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_General_-_LP_File <CPLEX_General_-_LP_File>`  
-*	:doc:`CPLEX_General_-_MPS <CPLEX_General_-_MPS>`  
-*	:doc:`CPLEX_General_-_Sav_File <CPLEX_General_-_Sav_File>`  
+*	:doc:`CPLEX_General_-_LP_File`  
+*	:doc:`CPLEX_General_-_MPS`  
+*	:doc:`CPLEX_General_-_Sav_File`  

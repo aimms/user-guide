@@ -27,5 +27,5 @@ cpx\ *ddddd*\ .sol will be generated. Possible values are:
 
 **Learn more about** 
 
-*	:doc:`CPLEX_General_-_Restart_File_Nr <CPLEX_General_-_Restart_File_Nr>` 
+*	:doc:`CPLEX_General_-_Restart_File_Nr` 
 

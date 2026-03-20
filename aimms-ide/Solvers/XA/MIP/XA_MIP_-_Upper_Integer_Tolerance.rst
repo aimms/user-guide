@@ -18,7 +18,7 @@ This option determines the upper integer tolerance. For example, if the value of
 
 **Learn more about** 
 
-*	:doc:`XA_MIP_-_Lower_Integer_Tolerance <XA_MIP_-_Lower_Integer_Tolerance>`  
+*	:doc:`XA_MIP_-_Lower_Integer_Tolerance`  
 
 
 

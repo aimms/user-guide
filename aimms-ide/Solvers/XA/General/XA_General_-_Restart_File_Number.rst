@@ -18,7 +18,7 @@ This option represents the number part of the restart file names.
 
 **Learn more about** 
 
-*	:doc:`XA_General_-_Restart <XA_General_-_Restart>`  
+*	:doc:`XA_General_-_Restart`  
 
 
 

@@ -70,4 +70,4 @@ Setting 'Acceptor' calls LSAcceptor to get the step size.
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Multipliers_-_Equality_multipliers_switch_tolerance <IPOPT_Multipliers_-_Equality_multipliers_switch_tolerance>` 
+*	:doc:`IPOPT_Multipliers_-_Equality_multipliers_switch_tolerance` 

@@ -34,4 +34,4 @@ current status, the best value found, etc. Possible values are:
 
 **Learn more about** 
 
-*	:doc:`Progress_Options_-_Progress_So <../../../Aimms/Options/AIMMS/Progress, Errors & Warnings/Progress Options/Progress_Options_-_Progress_So>` 
+*	:doc:`../../../Aimms/Options/AIMMS/Progress, Errors & Warnings/Progress Options/Progress_Options_-_Progress_So` 

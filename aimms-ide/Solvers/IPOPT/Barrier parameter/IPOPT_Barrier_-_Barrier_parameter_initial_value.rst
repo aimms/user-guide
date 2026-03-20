@@ -20,4 +20,4 @@ This option determines the initial value for the barrier parameter (mu). It is o
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Barrier_-_Barrier_parameter_update_strategy <IPOPT_Barrier_-_Barrier_parameter_update_strategy>` 
+*	:doc:`IPOPT_Barrier_-_Barrier_parameter_update_strategy` 

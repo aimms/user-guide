@@ -39,4 +39,4 @@ consequence, and the resulting problem will be less dense.
 
 **Learn more about** 
 
-*	 :doc:`CPLEX_Prepr_-_Limit_Substitut <CPLEX_Prepr_-_Limit_Substitut>` 
+*	 :doc:`CPLEX_Prepr_-_Limit_Substitut` 

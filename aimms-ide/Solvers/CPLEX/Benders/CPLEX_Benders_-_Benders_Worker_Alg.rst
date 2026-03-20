@@ -34,4 +34,4 @@ Given a formulation of a problem, CPLEX can decompose the model into a single ma
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Benders_-_Benders_Strategy <CPLEX_Benders_-_Benders_Strategy>` 
+*	:doc:`CPLEX_Benders_-_Benders_Strategy` 

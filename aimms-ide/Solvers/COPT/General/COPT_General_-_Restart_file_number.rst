@@ -18,7 +18,7 @@ This option represents the number part of the restart file name.
 
 **Learn more about** 
 
-*	:doc:`COPT_General_-_Restart <COPT_General_-_Restart>` 
+*	:doc:`COPT_General_-_Restart` 
 
 
 

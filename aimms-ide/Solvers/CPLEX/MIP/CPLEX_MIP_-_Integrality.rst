@@ -26,7 +26,7 @@ The setting of this option specifies the amount by which an integer variable can
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Simplex_-_Feasibility <../Simplex/CPLEX_Simplex_-_Feasibility>`  
+*	:doc:`../Simplex/CPLEX_Simplex_-_Feasibility`  
 
 
 

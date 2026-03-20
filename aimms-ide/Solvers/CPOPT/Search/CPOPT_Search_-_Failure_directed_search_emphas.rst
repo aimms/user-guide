@@ -22,5 +22,5 @@ Any other value means that once failure-directed search has started, it is used 
 
 **Learn more about** 
 
-*	:doc:`CPOPT_Search_-_Failure_directed_search <CPOPT_Search_-_Failure_directed_search>` 
-*	:doc:`CPOPT_Parallel_-_Number_of_workers <../Parallel/CPOPT_Parallel_-_Number_of_workers>` 
+*	:doc:`CPOPT_Search_-_Failure_directed_search` 
+*	:doc:`../Parallel/CPOPT_Parallel_-_Number_of_workers` 

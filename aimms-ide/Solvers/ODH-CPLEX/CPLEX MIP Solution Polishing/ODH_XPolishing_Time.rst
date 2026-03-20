@@ -47,5 +47,5 @@ If CPLEX does not find a solution in the first 100 seconds, then this procedure 
 
 **Learn more about** 
 
-*	:doc:`ODH_XPolishing_Time_Deterministic <ODH_XPolishing_Time_Deterministic>`  
-*	:doc:`Stop_Criteria_-_Time_Limit <../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>`  
+*	:doc:`ODH_XPolishing_Time_Deterministic`  
+*	:doc:`../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit`  

@@ -72,10 +72,10 @@ The usage of generic callback also has some disadvantages:
 
 *	:any:`GMP::SolverSession::GetNodeObjective`
 *	:any:`GMP::SolverSession::GetNodesLeft`
-*	:doc:`CPLEX_Threads_search_strat_and_callb <../CPLEX_Threads_search_strat_and_callb>` 
-*	:doc:`CPLEX_Par_-_GlobalThreadLimit <../Parallel/CPLEX_Par_-_GlobalThreadLimit>` 
-*	:doc:`CPLEX_MIP_-_MIP_Search_Strategy <CPLEX_MIP_-_MIP_Search_Strategy>` 
-*	:doc:`CPLEX_Par_-_Parallel_Mode <../Parallel/CPLEX_Par_-_Parallel_Mode>` 
-*	:doc:`Postsolve_-_Postsolve <../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve>` 
-*	:doc:`CPLEX_QP_-_Solution_Target <../QP/CPLEX_QP_-_Solution_Target>` 
+*	:doc:`../CPLEX_Threads_search_strat_and_callb` 
+*	:doc:`../Parallel/CPLEX_Par_-_GlobalThreadLimit` 
+*	:doc:`CPLEX_MIP_-_MIP_Search_Strategy` 
+*	:doc:`../Parallel/CPLEX_Par_-_Parallel_Mode` 
+*	:doc:`../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve` 
+*	:doc:`../QP/CPLEX_QP_-_Solution_Target` 
 

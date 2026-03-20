@@ -18,7 +18,7 @@ This option specifies the number of threads used during crossover. At the defaul
 
 **Learn more about** 
 
-*	:doc:`COPT_Parallel_-_Thread_limit <COPT_Parallel_-_Thread_limit>` 
+*	:doc:`COPT_Parallel_-_Thread_limit` 
 
 
 

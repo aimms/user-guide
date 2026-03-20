@@ -18,4 +18,4 @@ This option limits the number of branch-and-bound nodes explored when completing
 
 **Learn more about** 
 
-*	:doc:`COPT_MIP_-_MIP_start <COPT_MIP_-_MIP_start>` 
+*	:doc:`COPT_MIP_-_MIP_start` 

@@ -36,4 +36,4 @@ With the setting 'Single linkage', Knitro applies single linkage based clusterin
 
 **Learn more about** 
 
-*	:doc:`KNITRO_MS_-_Multistart <KNITRO_MS_-_Multistart>`  
+*	:doc:`KNITRO_MS_-_Multistart`  

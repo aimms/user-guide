@@ -23,4 +23,4 @@ solutions before solving the root relaxation. It can be quite useful on models w
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Work <GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Work>`  
+*	:doc:`GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Work`  

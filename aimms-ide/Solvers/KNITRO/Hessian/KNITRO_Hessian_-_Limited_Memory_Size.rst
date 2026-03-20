@@ -22,4 +22,4 @@ Larger values may give a more accurate, but more expensive, Hessian approximatio
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Hessian_-_Hes_Comp_Meth <KNITRO_Hessian_-_Hes_Comp_Meth>` 
+*	:doc:`KNITRO_Hessian_-_Hes_Comp_Meth` 

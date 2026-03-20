@@ -26,6 +26,6 @@ for deterministic results.
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_-_MIP_Start <GUROBI_MIP_-_MIP_Start>` 
-*	:doc:`GUROBI_MIP_-_MIP_Start_Work_Limit <GUROBI_MIP_-_MIP_Start_Work_Limit>` 
-*	:doc:`GUROBI_MIP_Heuristic_-_RINS_Sub_Node_Lim <../MIP Heuristics/GUROBI_MIP_Heuristic_-_RINS_Sub_Node_Lim>` 
+*	:doc:`GUROBI_MIP_-_MIP_Start` 
+*	:doc:`GUROBI_MIP_-_MIP_Start_Work_Limit` 
+*	:doc:`../MIP Heuristics/GUROBI_MIP_Heuristic_-_RINS_Sub_Node_Lim` 

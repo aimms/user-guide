@@ -54,5 +54,5 @@ The concurrent optimizer requires more memory than any individual optimizer, and
 
 **Learn more about** 
 
-*	:doc:`ODH_XPar_-_GlobalThreadLimit <../CPLEX Parallel/ODH_XPar_-_GlobalThreadLimit>`  
-*	:doc:`ODH_XMIP_-_MIP_Method <ODH_XMIP_-_MIP_Method>` 
+*	:doc:`../CPLEX Parallel/ODH_XPar_-_GlobalThreadLimit`  
+*	:doc:`ODH_XMIP_-_MIP_Method` 

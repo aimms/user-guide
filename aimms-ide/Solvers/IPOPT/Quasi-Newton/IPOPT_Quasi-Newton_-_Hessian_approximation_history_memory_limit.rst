@@ -27,4 +27,4 @@ This option specifies the maximum size of the history for the limited quasi-Newt
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Quasi-Newton_-_Method_for_Hessian_computation <IPOPT_Quasi-Newton_-_Method_for_Hessian_computation>` 
+*	:doc:`IPOPT_Quasi-Newton_-_Method_for_Hessian_computation` 

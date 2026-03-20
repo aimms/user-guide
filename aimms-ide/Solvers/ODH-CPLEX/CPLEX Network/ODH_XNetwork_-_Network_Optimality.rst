@@ -25,5 +25,5 @@ The network optimality tolerance specifies the amount a reduced cost may violate
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_-_MIP_Method <../CPLEX MIP/ODH_XMIP_-_MIP_Method>`  
-*	:doc:`ODH_XMIP_-_MIP_Start_Algorit <../CPLEX MIP/ODH_XMIP_-_MIP_Start_Algorit>`  
+*	:doc:`../CPLEX MIP/ODH_XMIP_-_MIP_Method`  
+*	:doc:`../CPLEX MIP/ODH_XMIP_-_MIP_Start_Algorit`  

@@ -29,4 +29,4 @@ This option specifies the value selection heuristic being used in a search strat
 
 **Learn more about** 
 
-*	:doc:`CPOPT_Search_-_Variable_selection <CPOPT_Search_-_Variable_selection>` 
+*	:doc:`CPOPT_Search_-_Variable_selection` 

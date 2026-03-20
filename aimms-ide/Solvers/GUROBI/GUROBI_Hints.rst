@@ -48,4 +48,4 @@ write hints to a file.
 **Learn more about** 
 
 *	:any:`GMP::Solution::SetColumnValue`
-*	:doc:`GUROBI_MIP_-_Hints_File <MIP/GUROBI_MIP_-_Hints_File>`  
+*	:doc:`MIP/GUROBI_MIP_-_Hints_File`  

@@ -33,7 +33,7 @@ This option determines whether the model file, which is passed to BARON, should 
 
 **Learn more about** 
 
-*	:doc:`BARON_Logging_-_File_name <BARON_Logging_-_File_name>` 
+*	:doc:`BARON_Logging_-_File_name` 
 
 
 

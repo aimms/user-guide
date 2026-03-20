@@ -20,7 +20,7 @@ where :math:`L` and :math:`U` are the lower and upper bounds to the optimization
 
 **Learn more about** 
 
-*	:doc:`BARON_Termination_-_Absolute_terminat <BARON_Termination_-_Absolute_terminat>` 
+*	:doc:`BARON_Termination_-_Absolute_terminat` 
 
 
 

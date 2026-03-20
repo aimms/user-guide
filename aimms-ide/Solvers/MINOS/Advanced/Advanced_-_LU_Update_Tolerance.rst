@@ -25,7 +25,7 @@ For large and relatively dense problems, 25.0 (say) may give a marked improvemen
 
 **Learn more about** 
 
-*	:doc:`MINOS_Advanced_-_LU_Factor_Tol <MINOS_Advanced_-_LU_Factor_Tol>`  
+*	:doc:`MINOS_Advanced_-_LU_Factor_Tol`  
 
 
 

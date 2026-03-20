@@ -203,14 +203,14 @@ This tolerance is controlled by the option **Barrier Convergence Tolerance**.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Barrier_-_Barrier_Convergence_ <../Barrier/CPLEX_Barrier_-_Barrier_Convergence_>`  
-*	:doc:`CPLEX_General_-_Check_Solution <CPLEX_General_-_Check_Solution>`  
-*	:doc:`CPLEX_Simplex_-_Feasibility <../Simplex/CPLEX_Simplex_-_Feasibility>`  
-*	:doc:`CPLEX_MIP_-_Integrality <../MIP/CPLEX_MIP_-_Integrality>`  
-*	:doc:`CPLEX_General_-_LP_Method <CPLEX_General_-_LP_Method>`  
-*	:doc:`CPLEX_General_-_MemoryEmphasis <CPLEX_General_-_MemoryEmphasis>`  
-*	:doc:`CPLEX_MIP_-_MIP_Kappa <../MIP/CPLEX_MIP_-_MIP_Kappa>`  
-*	:doc:`CPLEX_Simplex_-_Optimality <../Simplex/CPLEX_Simplex_-_Optimality>`  
-*	:doc:`Postsolve_-_Postsolve <../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve>` 
-*	:doc:`CPLEX_General_-_Solution_Type <CPLEX_General_-_Solution_Type>`  
-*	:doc:`Solver_Specific_-_Solver_List1 <../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1>`  
+*	:doc:`../Barrier/CPLEX_Barrier_-_Barrier_Convergence_`  
+*	:doc:`CPLEX_General_-_Check_Solution`  
+*	:doc:`../Simplex/CPLEX_Simplex_-_Feasibility`  
+*	:doc:`../MIP/CPLEX_MIP_-_Integrality`  
+*	:doc:`CPLEX_General_-_LP_Method`  
+*	:doc:`CPLEX_General_-_MemoryEmphasis`  
+*	:doc:`../MIP/CPLEX_MIP_-_MIP_Kappa`  
+*	:doc:`../Simplex/CPLEX_Simplex_-_Optimality`  
+*	:doc:`../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve` 
+*	:doc:`CPLEX_General_-_Solution_Type`  
+*	:doc:`../../../Aimms/Options/Solvers General/Standard Reports/Solver Specific/Solver_Specific_-_Solver_List1`  

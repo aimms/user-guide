@@ -33,14 +33,14 @@ Setting the value of this option to 'Root only' would apply all cut types (excep
 
 **Learn more about** 
 
-*	:doc:`CBC_MIP_Cuts_-_Clique_Cuts <CBC_MIP_Cuts_-_Clique_Cuts>`  
-*	:doc:`CBC_MIP_Cuts_-_Flow_Cover_Cuts <CBC_MIP_Cuts_-_Flow_Cover_Cuts>`  
-*	:doc:`CBC_MIP_Cuts_-_Gomory_Cuts <CBC_MIP_Cuts_-_Gomory_Cuts>`  
-*	:doc:`CBC_MIP_Cuts_-_Knapsack_Cuts <CBC_MIP_Cuts_-_Knapsack_Cuts>`  
-*	:doc:`CBC_MIP_Cuts_-_Lift_and_Project_Cuts <CBC_MIP_Cuts_-_Lift_and_Project_Cuts>`  
-*	:doc:`CBC_MIP_Cuts_-_MIR_Cuts <CBC_MIP_Cuts_-_MIR_Cuts>`  
-*	:doc:`CBC_MIP_Cuts_-_Probing_cuts <CBC_MIP_Cuts_-_Probing_cuts>`  
-*	:doc:`CBC_MIP_Cuts_-_Reduce_and_split_cuts <CBC_MIP_Cuts_-_Reduce_and_split_cuts>`  
-*	:doc:`CBC_MIP_Cuts_-_Residual_capacity_cuts <CBC_MIP_Cuts_-_Residual_capacity_cuts>`  
-*	:doc:`CBC_MIP_Cuts_-_Two_MIR_cuts <CBC_MIP_Cuts_-_Two_MIR_cuts>`  
-*	:doc:`CBC_MIP_Cuts_-_Zero_half_cuts <CBC_MIP_Cuts_-_Zero_half_cuts>`  
+*	:doc:`CBC_MIP_Cuts_-_Clique_Cuts`  
+*	:doc:`CBC_MIP_Cuts_-_Flow_Cover_Cuts`  
+*	:doc:`CBC_MIP_Cuts_-_Gomory_Cuts`  
+*	:doc:`CBC_MIP_Cuts_-_Knapsack_Cuts`  
+*	:doc:`CBC_MIP_Cuts_-_Lift_and_Project_Cuts`  
+*	:doc:`CBC_MIP_Cuts_-_MIR_Cuts`  
+*	:doc:`CBC_MIP_Cuts_-_Probing_cuts`  
+*	:doc:`CBC_MIP_Cuts_-_Reduce_and_split_cuts`  
+*	:doc:`CBC_MIP_Cuts_-_Residual_capacity_cuts`  
+*	:doc:`CBC_MIP_Cuts_-_Two_MIR_cuts`  
+*	:doc:`CBC_MIP_Cuts_-_Zero_half_cuts`  

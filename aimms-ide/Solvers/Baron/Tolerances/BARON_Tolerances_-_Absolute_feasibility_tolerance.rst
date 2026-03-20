@@ -18,4 +18,4 @@ This option specifies the absolute constraint feasibility tolerance.
 
 **Learn more about** 
 
-*	:doc:`BARON_Tolerances_-_Relative_feasibility_tolerance <BARON_Tolerances_-_Relative_feasibility_tolerance>` 
+*	:doc:`BARON_Tolerances_-_Relative_feasibility_tolerance` 

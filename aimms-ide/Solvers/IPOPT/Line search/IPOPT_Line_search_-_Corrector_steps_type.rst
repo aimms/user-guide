@@ -27,4 +27,4 @@ This option specifies the type of corrector steps that should be taken. If the s
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Barrier_-_Barrier_parameter_update_strategy <../Barrier parameter/IPOPT_Barrier_-_Barrier_parameter_update_strategy>` 
+*	:doc:`../Barrier parameter/IPOPT_Barrier_-_Barrier_parameter_update_strategy` 

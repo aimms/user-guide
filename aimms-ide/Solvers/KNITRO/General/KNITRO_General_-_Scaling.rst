@@ -24,4 +24,4 @@ This option determines whether Knitro should performs a scaling of the objective
 
 **Learn more about** 
 
-*	:doc:`KNITRO_General_-_Scale_Variables <KNITRO_General_-_Scale_Variables>` 
+*	:doc:`KNITRO_General_-_Scale_Variables` 

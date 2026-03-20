@@ -50,9 +50,9 @@ produce different optimal solutions when run multiple times.
 
 **Learn more about** 
 
-*	:doc:`GUROBI_General_-_Concurrent_Method <GUROBI_General_-_Concurrent_Method>` 
-*	:doc:`GUROBI_MIP_-_MIP_Node_Method <../MIP/GUROBI_MIP_-_MIP_Node_Method>` 
-*	:doc:`Postsolve_-_Postsolve <../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve>` 
-*	:doc:`GUROBI_General_-_Sensitivity_Method <GUROBI_General_-_Sensitivity_Method>` 
-*	:doc:`GUROBI_Parallel_-_Thread_Limit <../Parallel/GUROBI_Parallel_-_Thread_Limit>` 
+*	:doc:`GUROBI_General_-_Concurrent_Method` 
+*	:doc:`../MIP/GUROBI_MIP_-_MIP_Node_Method` 
+*	:doc:`../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve` 
+*	:doc:`GUROBI_General_-_Sensitivity_Method` 
+*	:doc:`../Parallel/GUROBI_Parallel_-_Thread_Limit` 
 

@@ -22,7 +22,7 @@ When the multistart procedure is run in parallel, Knitro will produce the same s
 
 **Learn more about** 
 
-*	:doc:`KNITRO_MS_-_Multistart <../Multistart/KNITRO_MS_-_Multistart>`  
-*	:doc:`KNITRO_MS_-_Multistart_Deterministic <../Multistart/KNITRO_MS_-_Multistart_Deterministic>`  
-*	:doc:`KNITRO_MS_-_MS_Termination_Conditi <../Multistart/KNITRO_MS_-_MS_Termination_Conditi>`  
-*	:doc:`KNITRO_Par_-_Number_of_Threads <KNITRO_Par_-_Number_of_Threads>`  
+*	:doc:`../Multistart/KNITRO_MS_-_Multistart`  
+*	:doc:`../Multistart/KNITRO_MS_-_Multistart_Deterministic`  
+*	:doc:`../Multistart/KNITRO_MS_-_MS_Termination_Conditi`  
+*	:doc:`KNITRO_Par_-_Number_of_Threads`  

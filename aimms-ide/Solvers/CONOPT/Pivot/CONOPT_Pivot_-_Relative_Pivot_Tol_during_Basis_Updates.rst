@@ -17,4 +17,4 @@ This option specifies the relative pivot tolerance during basis updates. During 
 
 **Learn more about** 
 
-*	:doc:`CONOPT_Pivot_-_Relative_Pivot_Tol <CONOPT_Pivot_-_Relative_Pivot_Tol>`  
+*	:doc:`CONOPT_Pivot_-_Relative_Pivot_Tol`  

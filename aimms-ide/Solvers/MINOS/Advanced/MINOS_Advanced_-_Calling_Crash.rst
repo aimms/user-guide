@@ -50,7 +50,7 @@ Possible values are:
 
 **Learn more about** 
 
-*	:doc:`Advanced_-_Crash_Tolerance <Advanced_-_Crash_Tolerance>`  
+*	:doc:`Advanced_-_Crash_Tolerance`  
 
 
 

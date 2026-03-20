@@ -26,4 +26,4 @@ of a variable is specified in the AIMMS project.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_-_MIP_Priority_Order_Switch <CPLEX_MIP_-_MIP_Priority_Order_Switch>` 
+*	:doc:`CPLEX_MIP_-_MIP_Priority_Order_Switch` 

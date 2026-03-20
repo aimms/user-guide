@@ -44,7 +44,7 @@ A model with an indicator constraint introduces no new assumptions about upper b
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Prepr_-_Print_Prslv_Sta <Preprocessing/CPLEX_Prepr_-_Print_Prslv_Sta>` 
+*	:doc:`Preprocessing/CPLEX_Prepr_-_Print_Prslv_Sta` 
 
 
 

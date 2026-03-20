@@ -33,4 +33,4 @@ This option indicates which algorithm to use to solve quadratic programming (QP)
 
 **Learn more about** 
 
-*	:doc:`KNITRO_General_-_Algorithm <KNITRO_General_-_Algorithm>` 
+*	:doc:`KNITRO_General_-_Algorithm` 

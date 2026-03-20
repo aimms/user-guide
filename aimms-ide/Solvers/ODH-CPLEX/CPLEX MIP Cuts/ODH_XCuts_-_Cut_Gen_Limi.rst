@@ -18,8 +18,8 @@ This option limits the number of constraints that can be aggregated for generati
 
 **Learn more about** 
 
-*	:doc:`ODH_XCuts_-_Flow_Cover_Cuts <ODH_XCuts_-_Flow_Cover_Cuts>`  
-*	:doc:`ODH_XCuts_-_Mix_Integer_Round <ODH_XCuts_-_Mix_Integer_Round>` 
+*	:doc:`ODH_XCuts_-_Flow_Cover_Cuts`  
+*	:doc:`ODH_XCuts_-_Mix_Integer_Round` 
 
 
 

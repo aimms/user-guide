@@ -71,10 +71,10 @@ The nonlinear presolve algorithm is switched off by default. To use it you shoul
 *	`IPOPT <https://coin-or.github.io/Ipopt/>`_ (Internet link)
 *	`COIN-OR <https://www.coin-or.org/>`_ (Internet link)
 *	`AIMMSlinks <https://github.com/coin-or/AIMMSlinks>`_ (Internet link)
-*	:doc:`IPOPT_to_AIMMS_Mapping <IPOPT_to_AIMMS_Mapping>`  
-*	:doc:`AIMMS_to_IPOPT_Mapping <AIMMS_to_IPOPT_Mapping>`  
-*	:doc:`AIMMS_Execution_Options <../../Aimms/Options/AIMMS_Execution_Options>`  
-*	:doc:`Stop_Criteria_-_Iteration_Limi <../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Iteration_Limi>`  
-*	:doc:`NonlinPres_-_NonlinearPresolve <../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_NonlinearPresolve>` 
-*	:doc:`IPOPT_Termination_-_Maximum_number_of_iterations <Termination/IPOPT_Termination_-_Maximum_number_of_iterations>` 
-*	:doc:`IPOPT_Troubleshooting <IPOPT_Troubleshooting>` 
+*	:doc:`IPOPT_to_AIMMS_Mapping`  
+*	:doc:`AIMMS_to_IPOPT_Mapping`  
+*	:doc:`../../Aimms/Options/AIMMS_Execution_Options`  
+*	:doc:`../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Iteration_Limi`  
+*	:doc:`../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_NonlinearPresolve` 
+*	:doc:`Termination/IPOPT_Termination_-_Maximum_number_of_iterations` 
+*	:doc:`IPOPT_Troubleshooting` 

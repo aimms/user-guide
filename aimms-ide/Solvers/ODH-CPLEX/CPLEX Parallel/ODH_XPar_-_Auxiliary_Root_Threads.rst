@@ -45,7 +45,7 @@ At its default value, 0, CPLEX automatically chooses the number of threads to us
 
 **Learn more about** 
 
-*	:doc:`ODH_XPar_-_GlobalThreadLimit <ODH_XPar_-_GlobalThreadLimit>` 
+*	:doc:`ODH_XPar_-_GlobalThreadLimit` 
 
 
 

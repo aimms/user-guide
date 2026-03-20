@@ -28,6 +28,6 @@ of the option **PDHG Absolute Feasibility Tolerance**.
 
 **Learn more about** 
 
-*	:doc:`GUROBI_PDHG_-_PDHG_Absolute_Feasibility_Tol <GUROBI_PDHG_-_PDHG_Absolute_Feasibility_Tol>`  
-*	:doc:`GUROBI_PDHG_-_PDHG_Convergence_Tol <GUROBI_PDHG_-_PDHG_Convergence_Tol>`  
+*	:doc:`GUROBI_PDHG_-_PDHG_Absolute_Feasibility_Tol`  
+*	:doc:`GUROBI_PDHG_-_PDHG_Convergence_Tol`  
 

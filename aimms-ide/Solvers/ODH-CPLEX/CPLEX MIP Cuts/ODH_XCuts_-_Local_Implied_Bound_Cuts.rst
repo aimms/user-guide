@@ -39,4 +39,4 @@ In some models, binary variables imply bounds on nonbinary variables (that is, g
 
 **Learn more about** 
 
-*	:doc:`ODH_XCuts_-_Implied_Bound_Cuts <ODH_XCuts_-_Implied_Bound_Cuts>`  
+*	:doc:`ODH_XCuts_-_Implied_Bound_Cuts`  

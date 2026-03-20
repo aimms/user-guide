@@ -37,4 +37,4 @@ This option only has effect if the option **Tuner**  is switched on.
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Tuner_-_Tuner <KNITRO_Tuner_-_Tuner>`  
+*	:doc:`KNITRO_Tuner_-_Tuner`  

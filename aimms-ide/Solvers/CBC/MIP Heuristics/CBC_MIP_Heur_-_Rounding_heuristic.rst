@@ -30,4 +30,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:doc:`CBC_MIP_Heur_-_Heuristics <CBC_MIP_Heur_-_Heuristics>`  
+*	:doc:`CBC_MIP_Heur_-_Heuristics`  

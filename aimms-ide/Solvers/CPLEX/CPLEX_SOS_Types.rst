@@ -20,5 +20,5 @@ as controlled by the options **SOS1 Reformulations** and **SOS2 Reformulations**
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_Prepr_-_SOS1_Reformulations <MIP Preprocessing/CPLEX_MIP_Prepr_-_SOS1_Reformulations>` 
-*	:doc:`CPLEX_MIP_Prepr_-_SOS2_Reformulations <MIP Preprocessing/CPLEX_MIP_Prepr_-_SOS2_Reformulations>` 
+*	:doc:`MIP Preprocessing/CPLEX_MIP_Prepr_-_SOS1_Reformulations` 
+*	:doc:`MIP Preprocessing/CPLEX_MIP_Prepr_-_SOS2_Reformulations` 

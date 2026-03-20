@@ -29,4 +29,4 @@ CPLEX must have a feasible solution in order to start polishing. It must also ha
 
 **Learn more about** 
 
-*	:doc:`ODH_XPolishing_Time <ODH_XPolishing_Time>`  
+*	:doc:`ODH_XPolishing_Time`  

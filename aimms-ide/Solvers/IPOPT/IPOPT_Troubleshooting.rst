@@ -26,5 +26,5 @@ Some reasons that IPOPT cannot solve a model are:
 
 **Learn more about** 
 
-*	:doc:`NonlinPres_-_NonlinearPresolve <../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_NonlinearPresolve>` 
-*	:doc:`IPOPT_Output_-_Status_file <Output/IPOPT_Output_-_Status_file>` 
+*	:doc:`../../Aimms/Options/Solvers General/AIMMS Presolver/NonlinPres_-_NonlinearPresolve` 
+*	:doc:`Output/IPOPT_Output_-_Status_file` 

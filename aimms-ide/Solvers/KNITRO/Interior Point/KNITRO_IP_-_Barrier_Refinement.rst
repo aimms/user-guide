@@ -30,5 +30,5 @@ This option has no effect on the Active Set and SQP algorithms.
 
 **Learn more about** 
 
-*	:doc:`KNITRO_General_-_Algorithm <../General/KNITRO_General_-_Algorithm>` 
-*	:doc:`KNITRO_IP_-_CrossoverIterLimit <KNITRO_IP_-_CrossoverIterLimit>` 
+*	:doc:`../General/KNITRO_General_-_Algorithm` 
+*	:doc:`KNITRO_IP_-_CrossoverIterLimit` 

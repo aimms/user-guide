@@ -34,7 +34,7 @@ This option controls the addition of cuts based on the Reformulation Linearizati
 
 **Learn more about** 
 
-*	:doc:`ODH_XQuadratic_-_Solution_Target <../CPLEX Quadratic/ODH_XQuadratic_-_Solution_Target>` 
+*	:doc:`../CPLEX Quadratic/ODH_XQuadratic_-_Solution_Target` 
 
 
 

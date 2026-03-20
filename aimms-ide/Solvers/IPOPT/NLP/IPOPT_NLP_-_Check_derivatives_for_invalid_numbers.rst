@@ -30,4 +30,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Output_-_Output_verbosity_level <../Output/IPOPT_Output_-_Output_verbosity_level>` 
+*	:doc:`../Output/IPOPT_Output_-_Output_verbosity_level` 

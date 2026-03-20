@@ -32,4 +32,4 @@ Use option **Output Verbosity Level**  to control the amount of information prin
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Output_-_Output_verbosity_level <IPOPT_Output_-_Output_verbosity_level>` 
+*	:doc:`IPOPT_Output_-_Output_verbosity_level` 

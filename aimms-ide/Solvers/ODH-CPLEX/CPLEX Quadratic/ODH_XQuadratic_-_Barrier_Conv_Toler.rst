@@ -29,7 +29,7 @@ Changing this tolerance to a smaller value may result in greater numerical preci
 
 **Learn more about** 
 
-*	:doc:`ODH_XBarrier_-_Barrier_Convergence_ <../CPLEX Barrier/ODH_XBarrier_-_Barrier_Convergence_>` 
+*	:doc:`../CPLEX Barrier/ODH_XBarrier_-_Barrier_Convergence_` 
 
 
 

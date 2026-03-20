@@ -38,7 +38,7 @@ If a heuristic search procedure is enabled, the maximum number of iterations bef
 
 
 
-Note: This option has been deprecated since Knitro version 12.4. As alternatives, you can use :doc:`KNITRO_MIP_-_MIP_Heuristic_Diving <KNITRO_MIP_-_MIP_Heuristic_Diving>` , :doc:`KNITRO_MIP_-_MIP_Heuristic_Feasibility_Pump <KNITRO_MIP_-_MIP_Heuristic_Feasibility_Pump>` , :doc:`KNITRO_MIP_-_MIP_Heuristic_MPEC <KNITRO_MIP_-_MIP_Heuristic_MPEC>` , and :doc:`KNITRO_MIP_-_MIP_Heuristic_Strategy <KNITRO_MIP_-_MIP_Heuristic_Strategy>` .
+Note: This option has been deprecated since Knitro version 12.4. As alternatives, you can use :doc:`KNITRO_MIP_-_MIP_Heuristic_Diving` , :doc:`KNITRO_MIP_-_MIP_Heuristic_Feasibility_Pump` , :doc:`KNITRO_MIP_-_MIP_Heuristic_MPEC` , and :doc:`KNITRO_MIP_-_MIP_Heuristic_Strategy` .
 
 
 
@@ -46,7 +46,7 @@ Note: This option has been deprecated since Knitro version 12.4. As alternatives
 
 **Learn more about** 
 
-*	:doc:`KNITRO_MIP_-_MIP_Heuristic_Diving <KNITRO_MIP_-_MIP_Heuristic_Diving>` 
-*	:doc:`KNITRO_MIP_-_MIP_Heuristic_Feasibility_Pump <KNITRO_MIP_-_MIP_Heuristic_Feasibility_Pump>` 
-*	:doc:`KNITRO_MIP_-_MIP_Heuristic_MPEC <KNITRO_MIP_-_MIP_Heuristic_MPEC>` 
-*	:doc:`KNITRO_MIP_-_MIP_Heuristic_Strategy <KNITRO_MIP_-_MIP_Heuristic_Strategy>` 
+*	:doc:`KNITRO_MIP_-_MIP_Heuristic_Diving` 
+*	:doc:`KNITRO_MIP_-_MIP_Heuristic_Feasibility_Pump` 
+*	:doc:`KNITRO_MIP_-_MIP_Heuristic_MPEC` 
+*	:doc:`KNITRO_MIP_-_MIP_Heuristic_Strategy` 

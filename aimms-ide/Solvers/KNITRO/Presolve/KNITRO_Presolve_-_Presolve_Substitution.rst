@@ -50,5 +50,5 @@ With the setting 'All', all possible variable substitutions are enabled.
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Presolve_-_Presolve <KNITRO_Presolve_-_Presolve>`  
-*	:doc:`KNITRO_Presolve_-_Presolve_Substitution_Tolerance <KNITRO_Presolve_-_Presolve_Substitution_Tolerance>`  
+*	:doc:`KNITRO_Presolve_-_Presolve`  
+*	:doc:`KNITRO_Presolve_-_Presolve_Substitution_Tolerance`  

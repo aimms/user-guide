@@ -32,4 +32,4 @@ Possible values are:
 
 **Learn more about** 
 
-*	:doc:`SNOPT_SQP_-_DerivativeOption <SNOPT_SQP_-_DerivativeOption>`  
+*	:doc:`SNOPT_SQP_-_DerivativeOption`  

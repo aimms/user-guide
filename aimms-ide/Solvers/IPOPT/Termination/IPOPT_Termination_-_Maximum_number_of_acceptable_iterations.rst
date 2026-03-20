@@ -20,4 +20,4 @@ This option sets the number of "acceptable" iterates before triggering terminati
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Termination_-_Acceptable_relative_convergence_tolerance <IPOPT_Termination_-_Acceptable_relative_convergence_tolerance>` 
+*	:doc:`IPOPT_Termination_-_Acceptable_relative_convergence_tolerance` 

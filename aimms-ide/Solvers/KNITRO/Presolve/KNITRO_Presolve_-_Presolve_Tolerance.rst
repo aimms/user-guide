@@ -18,4 +18,4 @@ This option determines the tolerance used by the Knitro presolver to remove vari
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Presolve_-_Presolve <KNITRO_Presolve_-_Presolve>`  
+*	:doc:`KNITRO_Presolve_-_Presolve`  

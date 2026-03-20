@@ -64,8 +64,8 @@ For continuous models with setting "Automatic", CPLEX will use an advanced basis
 
 **Learn more about** 
 
-*	:doc:`Interface_-_Accept_Basis <../../../Aimms/Options/Solvers General/Interface/Interface_-_Accept_Basis>`  
-*	:doc:`ODH_XMIP_-_NumberofRepairAttempts <../CPLEX MIP/ODH_XMIP_-_NumberofRepairAttempts>`  
+*	:doc:`../../../Aimms/Options/Solvers General/Interface/Interface_-_Accept_Basis`  
+*	:doc:`../CPLEX MIP/ODH_XMIP_-_NumberofRepairAttempts`  
 
 
 

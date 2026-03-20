@@ -59,4 +59,4 @@ The solution stored at position 1 (in the solution repository) is the final and 
 
 **Learn more about** 
 
-*	:doc:`CPOPT_General_-_Solution_limit <CPOPT_General_-_Solution_limit>` 
+*	:doc:`CPOPT_General_-_Solution_limit` 

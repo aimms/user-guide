@@ -36,8 +36,8 @@ When the constraints are nonlinear, the **Maximum Number of Minor Iterations** l
 
 **Learn more about** 
 
-*	:doc:`MINOS_Advanced_-_Check_Frequen <MINOS_Advanced_-_Check_Frequen>` 
-*	:doc:`MINOS_-_Maximum_Number_of_Min <../Limits/MINOS_-_Maximum_Number_of_Min>` 
+*	:doc:`MINOS_Advanced_-_Check_Frequen` 
+*	:doc:`../Limits/MINOS_-_Maximum_Number_of_Min` 
 
  
 

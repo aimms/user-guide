@@ -18,7 +18,7 @@ The amount of time (in seconds) to spend at the current tree depth before retrea
 
 **Learn more about** 
 
-*	:doc:`XA_MIP_-_Tree_Depth <XA_MIP_-_Tree_Depth>`  
+*	:doc:`XA_MIP_-_Tree_Depth`  
 
 
 

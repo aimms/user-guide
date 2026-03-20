@@ -29,4 +29,4 @@ Coefficients like 10.99999999 may arise as round-off errors if the matrix coeffi
 
 **Learn more about** 
 
-*	:doc:`ODH_XGeneral_-_Cleanup_Coefficients <ODH_XGeneral_-_Cleanup_Coefficients>`  
+*	:doc:`ODH_XGeneral_-_Cleanup_Coefficients`  

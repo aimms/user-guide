@@ -30,6 +30,6 @@ If you want to run a tuning session with unlimited time per model, then set the 
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Tuning_Tool <../CPLEX_Tuning_Tool>` 
-*	:doc:`Stop_Criteria_-_Time_Limit <../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>`  
-*	:doc:`CPLEX_Tuning_-_Tuning_Time_Limit <CPLEX_Tuning_-_Tuning_Time_Limit>` 
+*	:doc:`../CPLEX_Tuning_Tool` 
+*	:doc:`../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit`  
+*	:doc:`CPLEX_Tuning_-_Tuning_Time_Limit` 

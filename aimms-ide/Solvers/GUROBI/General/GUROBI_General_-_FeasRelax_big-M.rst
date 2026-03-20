@@ -18,4 +18,4 @@ the default magnitude of that value.
 
 **Learn more about** 
 
-*	:doc:`GUROBI_FeasRelax_Feasibility_Relaxation <../GUROBI_FeasRelax_Feasibility_Relaxation>`  
+*	:doc:`../GUROBI_FeasRelax_Feasibility_Relaxation`  

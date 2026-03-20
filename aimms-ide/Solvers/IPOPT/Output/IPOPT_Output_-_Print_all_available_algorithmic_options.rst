@@ -26,4 +26,4 @@ Switch to print all algorithmic options. If selected, the algorithm will print t
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Output_-_Status_file <IPOPT_Output_-_Status_file>` 
+*	:doc:`IPOPT_Output_-_Status_file` 

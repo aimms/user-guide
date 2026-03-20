@@ -26,7 +26,7 @@ This option controls the presolve level. Possible values are:
 
 **Learn more about** 
 
-*	:doc:`GUROBI_Presolve_-_Presolve_Aggregation <GUROBI_Presolve_-_Presolve_Aggregation>`  
+*	:doc:`GUROBI_Presolve_-_Presolve_Aggregation`  
 
 
 

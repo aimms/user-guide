@@ -35,4 +35,4 @@ The default value of this option depends on the relative precision of the comput
 
 **Learn more about** 
 
-*	:doc:`SNOPT_SQP_-_DerivativeOption <SNOPT_SQP_-_DerivativeOption>`  
+*	:doc:`SNOPT_SQP_-_DerivativeOption`  

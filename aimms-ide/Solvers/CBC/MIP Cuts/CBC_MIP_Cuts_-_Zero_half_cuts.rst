@@ -39,8 +39,8 @@ So far, zero-half cuts may help only on a small subset of problems and may need 
 
 **Learn more about** 
 
-*	:doc:`CBC_MIP_Cuts_-_Cut_Depth <CBC_MIP_Cuts_-_Cut_Depth>`  
-*	:doc:`CBC_MIP_Cuts_-_Global_Cut_Control <CBC_MIP_Cuts_-_Global_Cut_Control>`  
+*	:doc:`CBC_MIP_Cuts_-_Cut_Depth`  
+*	:doc:`CBC_MIP_Cuts_-_Global_Cut_Control`  
 
 
 

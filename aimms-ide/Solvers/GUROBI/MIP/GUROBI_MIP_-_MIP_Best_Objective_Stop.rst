@@ -18,4 +18,4 @@ This option controls the objective value to stop optimization. Gurobi terminates
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_-_MIP_Best_Bound_Stop <GUROBI_MIP_-_MIP_Best_Bound_Stop>` 
+*	:doc:`GUROBI_MIP_-_MIP_Best_Bound_Stop` 

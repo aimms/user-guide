@@ -78,15 +78,15 @@ This option sets the maximal number of restarts that PATH should make if it coul
 
 **Learn more about** 
 
-*	:doc:`PATH_Advanced_-_Gradient_Search <../Advanced/PATH_Advanced_-_Gradient_Search>`  
-*	:doc:`PATH_Advanced_-_Initial_Perturb <../Advanced/PATH_Advanced_-_Initial_Perturb>`  
-*	:doc:`PATH_Advanced_-_NMS_m-Step_Freq <../Advanced/PATH_Advanced_-_NMS_m-Step_Freq>`  
-*	:doc:`PATH_Advanced_-_NMS_Initial_Ref <../Advanced/PATH_Advanced_-_NMS_Initial_Ref>`  
-*	:doc:`PATH_Advanced_-_NMS_Merit_Funct <../Advanced/PATH_Advanced_-_NMS_Merit_Funct>`  
-*	:doc:`PATH_Advanced_-_NMS_Search_Type <../Advanced/PATH_Advanced_-_NMS_Search_Type>`  
-*	:doc:`PATH_Crash_-_Crash_Method <../Crash/PATH_Crash_-_Crash_Method>`  
-*	:doc:`PATH_Crash_-_Crash_Method_S_Typ <../Crash/PATH_Crash_-_Crash_Method_S_Typ>`  
-*	:doc:`PATH_Crash_-_Max_Nr_Basis_Chang <../Crash/PATH_Crash_-_Max_Nr_Basis_Chang>`  
+*	:doc:`../Advanced/PATH_Advanced_-_Gradient_Search`  
+*	:doc:`../Advanced/PATH_Advanced_-_Initial_Perturb`  
+*	:doc:`../Advanced/PATH_Advanced_-_NMS_m-Step_Freq`  
+*	:doc:`../Advanced/PATH_Advanced_-_NMS_Initial_Ref`  
+*	:doc:`../Advanced/PATH_Advanced_-_NMS_Merit_Funct`  
+*	:doc:`../Advanced/PATH_Advanced_-_NMS_Search_Type`  
+*	:doc:`../Crash/PATH_Crash_-_Crash_Method`  
+*	:doc:`../Crash/PATH_Crash_-_Crash_Method_S_Typ`  
+*	:doc:`../Crash/PATH_Crash_-_Max_Nr_Basis_Chang`  
 
 
 

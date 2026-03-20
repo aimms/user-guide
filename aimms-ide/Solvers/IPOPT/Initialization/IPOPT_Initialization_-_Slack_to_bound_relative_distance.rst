@@ -19,4 +19,4 @@ This option determines how much the initial slack variables might have to be mod
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Initialization_-_Slack_to_bound_absolute_distance <IPOPT_Initialization_-_Slack_to_bound_absolute_distance>` 
+*	:doc:`IPOPT_Initialization_-_Slack_to_bound_absolute_distance` 

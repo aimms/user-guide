@@ -30,14 +30,14 @@ When turned on (the default) CONOPT will create and solve a smaller model withou
 
 **Note** 
 
-*	The No-Penalty Model is described in the section :doc:`CONOPT_Description_of_CONOPT_Algorithm <../CONOPT_Description_of_CONOPT_Algorithm>`.
+*	The No-Penalty Model is described in the section :doc:`../CONOPT_Description_of_CONOPT_Algorithm`.
 
 
 
 
 **Learn more about** 
 
-*	:doc:`CONOPT_Description_of_CONOPT_Algorithm <../CONOPT_Description_of_CONOPT_Algorithm>` 
+*	:doc:`../CONOPT_Description_of_CONOPT_Algorithm` 
 
 
 

@@ -33,9 +33,9 @@ If you set this option to a non-default value then sometimes the solution time i
 
 **Learn more about** 
 
-*	:doc:`XA_MIP_-_MIP_Strategy <XA_MIP_-_MIP_Strategy>`  
-*	:doc:`XA_MIP_-_MIP_Strategy_Estimate_In <XA_MIP_-_MIP_Strategy_Estimate_In>`  
-*	:doc:`XA_MIP_-_MIP_Strategy_Split_Node_ <XA_MIP_-_MIP_Strategy_Split_Node_>`  
+*	:doc:`XA_MIP_-_MIP_Strategy`  
+*	:doc:`XA_MIP_-_MIP_Strategy_Estimate_In`  
+*	:doc:`XA_MIP_-_MIP_Strategy_Split_Node_`  
 
 
 

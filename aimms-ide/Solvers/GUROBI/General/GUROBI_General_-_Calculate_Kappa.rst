@@ -43,4 +43,4 @@ The basis condition number will only be calculated for LP and RMIP models, and d
 
 **Learn more about** 
 
-*	:doc:`Postsolve_-_MIP_Calculate_Sensitivity_Info <../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_MIP_Calculate_Sensitivity_Info>` 
+*	:doc:`../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_MIP_Calculate_Sensitivity_Info` 

@@ -18,5 +18,5 @@ This option determines the tolerance used by the Knitro presolver for performing
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Presolve_-_Presolve <KNITRO_Presolve_-_Presolve>`  
-*	:doc:`KNITRO_Presolve_-_Presolve_Substitution <KNITRO_Presolve_-_Presolve_Substitution>`  
+*	:doc:`KNITRO_Presolve_-_Presolve`  
+*	:doc:`KNITRO_Presolve_-_Presolve_Substitution`  

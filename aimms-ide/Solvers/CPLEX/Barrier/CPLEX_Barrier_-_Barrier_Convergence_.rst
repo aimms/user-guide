@@ -29,7 +29,7 @@ Changing this tolerance to a smaller value may result in greater numerical preci
 
 **Learn more about** 
 
-*	:doc:`CPLEX_QP_-_Barrier_Conv_Toler <../QP/CPLEX_QP_-_Barrier_Conv_Toler>` 
+*	:doc:`../QP/CPLEX_QP_-_Barrier_Conv_Toler` 
 
 
 

@@ -18,4 +18,4 @@ This option specifies the feasibility tolerance used for linear programming subp
 
 **Learn more about** 
 
-*	:doc:`KNITRO_General_-_Algorithm <../General/KNITRO_General_-_Algorithm>` 
+*	:doc:`../General/KNITRO_General_-_Algorithm` 

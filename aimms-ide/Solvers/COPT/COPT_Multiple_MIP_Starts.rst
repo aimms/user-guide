@@ -42,4 +42,4 @@ where 'gmpMP' is an element parameter with range 'AllGeneratedMathematicalProgra
 **Learn more about** 
 
 *	:any:`GMP::Solution::SetMIPStartFlag`
-*	:doc:`COPT_MIP_-_MIP_start <MIP/COPT_MIP_-_MIP_start>` 
+*	:doc:`MIP/COPT_MIP_-_MIP_start` 

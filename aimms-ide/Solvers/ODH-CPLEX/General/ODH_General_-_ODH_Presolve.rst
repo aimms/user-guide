@@ -24,4 +24,4 @@ This option is an indicator for the ODH engine using a separate presolve within 
 
 **Learn more about** 
 
-*	:doc:`ODH_General_-_Presolve <ODH_General_-_Presolve>`  
+*	:doc:`ODH_General_-_Presolve`  

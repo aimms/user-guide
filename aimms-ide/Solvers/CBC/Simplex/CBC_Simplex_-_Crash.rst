@@ -26,4 +26,4 @@ This option determines whether to create a basis for the problem. If crash is sw
 
 **Learn more about** 
 
-*	:doc:`CBC_Simplex_-_Idiot_crash <CBC_Simplex_-_Idiot_crash>`  
+*	:doc:`CBC_Simplex_-_Idiot_crash`  

@@ -17,7 +17,7 @@ Triangular equations are usually solved to an accuracy of **Minimal Feasibility 
 
 **Learn more about** 
 
-*	:doc:`CONOPT_General_-_Minimal_Feas_Tol <CONOPT_General_-_Minimal_Feas_Tol>`  
+*	:doc:`CONOPT_General_-_Minimal_Feas_Tol`  
 
 
 

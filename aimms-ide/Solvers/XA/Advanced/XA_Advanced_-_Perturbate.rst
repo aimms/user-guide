@@ -24,7 +24,7 @@ Extreme caution should be exercised when changing the value of this option becau
 
 **Learn more about** 
 
-*	:doc:`XA_Simplex_-_Degenerate_Pivots <../Simplex/XA_Simplex_-_Degenerate_Pivots>`  
+*	:doc:`../Simplex/XA_Simplex_-_Degenerate_Pivots`  
 
 
 

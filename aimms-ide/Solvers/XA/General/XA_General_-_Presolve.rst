@@ -24,7 +24,7 @@ Setting this option to yes will cause XA's presolver to be called to make proble
 
 **Learn more about** 
 
-*	:doc:`XA_General_-_Presolve_Activity_Types <XA_General_-_Presolve_Activity_Types>`  
+*	:doc:`XA_General_-_Presolve_Activity_Types`  
 
 
 

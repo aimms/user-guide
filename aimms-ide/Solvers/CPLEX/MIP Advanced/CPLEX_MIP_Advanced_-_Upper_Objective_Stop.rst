@@ -22,7 +22,7 @@ This option is ignored if the problem is multi-objective.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_Advanced_-_Lower_Objective_Stop <CPLEX_MIP_Advanced_-_Lower_Objective_Stop>` 
+*	:doc:`CPLEX_MIP_Advanced_-_Lower_Objective_Stop` 
 
 
 

@@ -30,7 +30,7 @@ See the option **LP Method**  for a description of the algorithms.
 
 
 
-Multiple LP problems are solved to calculate shadow price ranges for constraints and value ranges for variables. See :doc:`Calculation_of_Shadow_Price_Ra <../../../Aimms/Miscellaneous/Short Descriptions/Calculation_of_Shadow_Price_Ra>`  for more information.
+Multiple LP problems are solved to calculate shadow price ranges for constraints and value ranges for variables. See :doc:`../../../Aimms/Miscellaneous/Short Descriptions/Calculation_of_Shadow_Price_Ra`  for more information.
 
 
 
@@ -38,8 +38,8 @@ Multiple LP problems are solved to calculate shadow price ranges for constraints
 
 **Learn more about** 
 
-*	:doc:`Sensitivity_-_Calculate_Sensit <../../../Aimms/Options/Solvers General/Sensitivity/Sensitivity_-_Calculate_Sensit>` 
-*	:doc:`COPT_General_-_LP_method <COPT_General_-_LP_method>` 
+*	:doc:`../../../Aimms/Options/Solvers General/Sensitivity/Sensitivity_-_Calculate_Sensit` 
+*	:doc:`COPT_General_-_LP_method` 
 
 
 

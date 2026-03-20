@@ -26,7 +26,7 @@ This option controls the output from local search written to the results file. I
 
 **Learn more about** 
 
-*	:doc:`BARON_Logging_-_Keep_results_file <BARON_Logging_-_Keep_results_file>` 
+*	:doc:`BARON_Logging_-_Keep_results_file` 
 
 
 

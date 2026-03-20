@@ -29,4 +29,4 @@ The work metric used in this option is tough to define precisely. A single unit 
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Time <GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Time>`  
+*	:doc:`GUROBI_MIP_Heuristic_-_No_Relaxation_Heuristic_Time`  

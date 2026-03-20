@@ -21,6 +21,6 @@ MIP solver to switch strategies once the node count is larger than 10.
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_-_Improve_Start_Gap <GUROBI_MIP_-_Improve_Start_Gap>`  
-*	:doc:`GUROBI_MIP_-_Improve_Start_Time <GUROBI_MIP_-_Improve_Start_Time>`  
-*	:doc:`GUROBI_MIP_-_Improve_Start_Work <GUROBI_MIP_-_Improve_Start_Work>`  
+*	:doc:`GUROBI_MIP_-_Improve_Start_Gap`  
+*	:doc:`GUROBI_MIP_-_Improve_Start_Time`  
+*	:doc:`GUROBI_MIP_-_Improve_Start_Work`  

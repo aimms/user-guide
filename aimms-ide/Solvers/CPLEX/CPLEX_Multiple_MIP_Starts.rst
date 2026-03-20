@@ -69,8 +69,8 @@ A user may specify a different level of effort for each MIP start, for example, 
 **Learn more about** 
 
 *	:any:`GMP::Solution::SetMIPStartFlag`
-*	:doc:`CPLEX_General_-_AdvancedStart <General/CPLEX_General_-_AdvancedStart>` 
-*	:doc:`CPLEX_MIP_-_NumberofRepairAttempts <MIP/CPLEX_MIP_-_NumberofRepairAttempts>`  
+*	:doc:`General/CPLEX_General_-_AdvancedStart` 
+*	:doc:`MIP/CPLEX_MIP_-_NumberofRepairAttempts`  
 
 
 

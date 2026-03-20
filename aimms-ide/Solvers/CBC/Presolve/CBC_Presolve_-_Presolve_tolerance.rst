@@ -18,4 +18,4 @@ This option the presolve tolerance. The default is 1e-8 - you may wish to try 1e
 
 **Learn more about** 
 
-*	:doc:`CBC_Presolve_-_Presolve <CBC_Presolve_-_Presolve>`  
+*	:doc:`CBC_Presolve_-_Presolve`  

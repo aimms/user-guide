@@ -20,4 +20,4 @@ Acceptable objective change tolerance
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Termination_-_Acceptable_relative_convergence_tolerance <IPOPT_Termination_-_Acceptable_relative_convergence_tolerance>` 
+*	:doc:`IPOPT_Termination_-_Acceptable_relative_convergence_tolerance` 

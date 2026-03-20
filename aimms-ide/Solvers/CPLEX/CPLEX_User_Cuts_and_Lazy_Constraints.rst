@@ -81,5 +81,5 @@ A callback for lazy constraints can be installed by calling the AIMMS routine :a
 
 *	:any:`GMP::Instance::SetCallbackAddCut`
 *	:any:`GMP::Instance::SetCallbackAddLazyConstraint`
-*	:doc:`CPLEX_Indicator_Constraints <CPLEX_Indicator_Constraints>` 
-*	:doc:`CPLEX_Prepr_-_Pre_reduction_types <Preprocessing/CPLEX_Prepr_-_Pre_reduction_types>`  
+*	:doc:`CPLEX_Indicator_Constraints` 
+*	:doc:`Preprocessing/CPLEX_Prepr_-_Pre_reduction_types`  

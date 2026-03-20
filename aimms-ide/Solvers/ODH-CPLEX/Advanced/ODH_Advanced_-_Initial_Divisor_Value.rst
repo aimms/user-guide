@@ -18,15 +18,15 @@ This option sets the starting value of the model divisor, which increases until 
 
 **Note** 
 
-*	See the section :doc:`ODH_-_Specifying_Model_Structure <../ODH_-_Specifying_Model_Structure>` for more information.
+*	See the section :doc:`../ODH_-_Specifying_Model_Structure` for more information.
 
 
 
 
 **Learn more about** 
 
-*	:doc:`ODH_Advanced_-_Maximum_Divisor_Value <ODH_Advanced_-_Maximum_Divisor_Value>`  
-*	:doc:`ODH_-_Specifying_Model_Structure <../ODH_-_Specifying_Model_Structure>` 
+*	:doc:`ODH_Advanced_-_Maximum_Divisor_Value`  
+*	:doc:`../ODH_-_Specifying_Model_Structure` 
 
 
 

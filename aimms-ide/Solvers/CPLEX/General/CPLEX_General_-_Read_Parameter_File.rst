@@ -36,7 +36,7 @@ own line. Any line that begins with the hash sign (#) is a comment line and is i
 
 
 The first line is mandatory. The name for the parameters used should be the CPLEX C API names as can be found in the
-:doc:`CPLEX_to_AIMMS_Mapping <../CPLEX_to_AIMMS_Mapping>` from AIMMS option names to CPLEX parameter names.
+:doc:`../CPLEX_to_AIMMS_Mapping` from AIMMS option names to CPLEX parameter names.
 
 
 **Note** 
@@ -47,7 +47,7 @@ The first line is mandatory. The name for the parameters used should be the CPLE
 **Multi-objective optimization** 
 
 
-During the solution process of a :doc:`CPLEX_Multi_Objective_Optimization <../CPLEX_Multi_Objective_Optimization>` problem, you may prefer that optimization problems with
+During the solution process of a :doc:`../CPLEX_Multi_Objective_Optimization` problem, you may prefer that optimization problems with
 different priorities are solved with different option settings. CPLEX makes this possible by using parameter files. The parameter
 file of the first optimization problem, corresponding to the highest priority (possibly blended) objective, should be named
 'cplex_mo1.prm', the parameter file of the second optimization problem should be named 'cplex_mo2.prm', etc. You do not have to
@@ -69,16 +69,16 @@ at most 100 seconds in total). The option **Deterministic Time Limit**  behaves 
 
 **Note** 
 
-*	The parameter file uses CPLEX names instead of AIMMS names for the options. The :doc:`CPLEX_to_AIMMS_Mapping <../CPLEX_to_AIMMS_Mapping>` can be used to find the CPLEX parameter name corresponding to an option in AIMMS.
+*	The parameter file uses CPLEX names instead of AIMMS names for the options. The :doc:`../CPLEX_to_AIMMS_Mapping` can be used to find the CPLEX parameter name corresponding to an option in AIMMS.
 *	The option **Parallel Mode** cannot be changed during the solution process of a multi-objective optimization problem; it will be ignored when present in a multi-objective parameter file.
 *	With setting 'Overrule' the parameter files specifying different option settings for multi-objective optimization will be ignored.
 
 
 **Learn more about** 
 
-*	:doc:`CPLEX_to_AIMMS_Mapping <../CPLEX_to_AIMMS_Mapping>`  
-*	:doc:`CPLEX_General_-_Deterministic_Time_Limit <CPLEX_General_-_Deterministic_Time_Limit>` 
-*	:doc:`MIP_Options_-_MIP_Relative_Opt <../../../Aimms/Options/Solvers General/MIP Options/MIP_Options_-_MIP_Relative_Opt>` 
-*	:doc:`CPLEX_Multi_Objective_Optimization <../CPLEX_Multi_Objective_Optimization>` 
-*	:doc:`CPLEX_Par_-_Parallel_Mode <../Parallel/CPLEX_Par_-_Parallel_Mode>` 
-*	:doc:`Stop_Criteria_-_Time_Limit <../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>` 
+*	:doc:`../CPLEX_to_AIMMS_Mapping`  
+*	:doc:`CPLEX_General_-_Deterministic_Time_Limit` 
+*	:doc:`../../../Aimms/Options/Solvers General/MIP Options/MIP_Options_-_MIP_Relative_Opt` 
+*	:doc:`../CPLEX_Multi_Objective_Optimization` 
+*	:doc:`../Parallel/CPLEX_Par_-_Parallel_Mode` 
+*	:doc:`../../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit` 

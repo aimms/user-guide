@@ -42,7 +42,7 @@ Other things (such as the distribution of variables in keys and the number of ke
 
 **Learn more about** 
 
-*	:doc:`ODH_Advanced_-_Initial_Divisor_Value <Advanced/ODH_Advanced_-_Initial_Divisor_Value>`  
-*	:doc:`ODH_Advanced_-_Maximum_Divisor_Repeats <Advanced/ODH_Advanced_-_Maximum_Divisor_Repeats>`  
-*	:doc:`ODH_Advanced_-_Maximum_Divisor_Value <Advanced/ODH_Advanced_-_Maximum_Divisor_Value>`  
+*	:doc:`Advanced/ODH_Advanced_-_Initial_Divisor_Value`  
+*	:doc:`Advanced/ODH_Advanced_-_Maximum_Divisor_Repeats`  
+*	:doc:`Advanced/ODH_Advanced_-_Maximum_Divisor_Value`  
 *	:any:`GMP::Column::SetDecomposition`

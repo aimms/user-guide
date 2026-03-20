@@ -22,4 +22,4 @@ To create the status file, the option **Status File Display**  should be set to 
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Reporting_-_StatusFileDi <KNITRO_Reporting_-_StatusFileDi>`  
+*	:doc:`KNITRO_Reporting_-_StatusFileDi`  

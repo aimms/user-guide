@@ -23,5 +23,5 @@ the value of the **RINS Sub MIP Node Limit** option. A value of -2 shuts off MIP
 
 **Learn more about** 
 
-*	:doc:`GUROBI_MIP_-_MIP_Start <GUROBI_MIP_-_MIP_Start>` 
-*	:doc:`GUROBI_MIP_Heuristic_-_RINS_Sub_Node_Lim <../MIP Heuristics/GUROBI_MIP_Heuristic_-_RINS_Sub_Node_Lim>` 
+*	:doc:`GUROBI_MIP_-_MIP_Start` 
+*	:doc:`../MIP Heuristics/GUROBI_MIP_Heuristic_-_RINS_Sub_Node_Lim` 

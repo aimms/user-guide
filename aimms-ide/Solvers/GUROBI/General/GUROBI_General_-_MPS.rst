@@ -29,5 +29,5 @@ are named gur\ *ddddd*\ .mps or gur\ *ddddd*\ .lp, where *ddddd* denotes a 5 dig
 
 **Learn more about** 
 
-*	:doc:`GUROBI_General_-_Restart <GUROBI_General_-_Restart>` 
+*	:doc:`GUROBI_General_-_Restart` 
 

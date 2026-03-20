@@ -22,4 +22,4 @@ The feasibility error is defined as the maximum violation among all constraints.
 
 **Learn more about** 
 
-*	:doc:`KNITRO_Tol_-_RelFeasTol <KNITRO_Tol_-_RelFeasTol>`  
+*	:doc:`KNITRO_Tol_-_RelFeasTol`  

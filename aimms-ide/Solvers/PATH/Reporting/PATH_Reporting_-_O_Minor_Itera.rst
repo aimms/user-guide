@@ -24,8 +24,8 @@ If the value of this option is set to 'Yes' (default) and the option **Create St
 
 **Learn more about** 
 
-*	:doc:`PATH_Reporting_-_CreateStatFile <PATH_Reporting_-_CreateStatFile>`  
-*	:doc:`PATH_Reporting_-_O_Minor_Iter_f <PATH_Reporting_-_O_Minor_Iter_f>`  
+*	:doc:`PATH_Reporting_-_CreateStatFile`  
+*	:doc:`PATH_Reporting_-_O_Minor_Iter_f`  
 
 
 

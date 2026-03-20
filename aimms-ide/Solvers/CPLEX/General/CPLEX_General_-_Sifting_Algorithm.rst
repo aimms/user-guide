@@ -45,13 +45,13 @@ Sifting can be selected for solving LP and MIP models using the following option
 
 **Learn more about** 
 
-*	:doc:`CPLEX_Benders_-_Benders_Worker_Alg <../Benders/CPLEX_Benders_-_Benders_Worker_Alg>`  
-*	:doc:`CPLEX_General_-_LP_Method <CPLEX_General_-_LP_Method>`  
-*	:doc:`CPLEX_MIP_-_MIP_Method <../MIP/CPLEX_MIP_-_MIP_Method>`  
-*	:doc:`CPLEX_MIP_-_MIP_Start_Algorit <../MIP/CPLEX_MIP_-_MIP_Start_Algorit>` 
-*	:doc:`CPLEX_General_-_Solution_Type <CPLEX_General_-_Solution_Type>` 
-*	:doc:`CPLEX_MIP_Advanced_-_SubMIP_Start_Algorithm <../MIP Advanced/CPLEX_MIP_Advanced_-_SubMIP_Start_Algorithm>` 
-*	:doc:`CPLEX_MIP_Advanced_-_SubMIP_Subproblem_Algorithm <../MIP Advanced/CPLEX_MIP_Advanced_-_SubMIP_Subproblem_Algorithm>` 
+*	:doc:`../Benders/CPLEX_Benders_-_Benders_Worker_Alg`  
+*	:doc:`CPLEX_General_-_LP_Method`  
+*	:doc:`../MIP/CPLEX_MIP_-_MIP_Method`  
+*	:doc:`../MIP/CPLEX_MIP_-_MIP_Start_Algorit` 
+*	:doc:`CPLEX_General_-_Solution_Type` 
+*	:doc:`../MIP Advanced/CPLEX_MIP_Advanced_-_SubMIP_Start_Algorithm` 
+*	:doc:`../MIP Advanced/CPLEX_MIP_Advanced_-_SubMIP_Subproblem_Algorithm` 
 
 
 

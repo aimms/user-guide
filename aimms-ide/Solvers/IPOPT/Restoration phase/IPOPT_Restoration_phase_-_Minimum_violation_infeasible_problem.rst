@@ -20,4 +20,4 @@ This option sets the threshold for disabling **Quickly Detect Infeasible Problem
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Restoration_phase_-_Quickly_detect_infeasible_problem <IPOPT_Restoration_phase_-_Quickly_detect_infeasible_problem>` 
+*	:doc:`IPOPT_Restoration_phase_-_Quickly_detect_infeasible_problem` 

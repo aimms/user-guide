@@ -33,7 +33,7 @@ This option specifies the nonlinear feasibility-based range reduction/tightening
 
 **Learn more about** 
 
-*	:doc:`BARON_Range_Reduction_-_Feasibility_ <BARON_Range_Reduction_-_Feasibility_>` 
+*	:doc:`BARON_Range_Reduction_-_Feasibility_` 
 
 
 

@@ -56,4 +56,4 @@ For a more thorough exploration of the theory supporting SOS reformulations, see
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_Prepr_-_SOS1_Reformulations <CPLEX_MIP_Prepr_-_SOS1_Reformulations>`  
+*	:doc:`CPLEX_MIP_Prepr_-_SOS1_Reformulations`  

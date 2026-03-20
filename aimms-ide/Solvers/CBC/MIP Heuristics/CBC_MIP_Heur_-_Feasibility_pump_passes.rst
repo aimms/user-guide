@@ -18,4 +18,4 @@ This option fine tunes the Feasibility Pump heuristic by doing more or fewer pas
 
 **Learn more about** 
 
-*	:doc:`CBC_MIP_Heur_-_Feasibility_pump <CBC_MIP_Heur_-_Feasibility_pump>`  
+*	:doc:`CBC_MIP_Heur_-_Feasibility_pump`  

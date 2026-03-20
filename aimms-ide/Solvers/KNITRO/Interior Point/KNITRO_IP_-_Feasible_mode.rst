@@ -45,5 +45,5 @@ the region defined by inequalities.
 
 **Learn more about** 
 
-*	:doc:`KNITRO_IP_-_Feas_mode_act_tol <KNITRO_IP_-_Feas_mode_act_tol>`  
-*	:doc:`KNITRO_General_-_Honor_Bounds <../General/KNITRO_General_-_Honor_Bounds>`  
+*	:doc:`KNITRO_IP_-_Feas_mode_act_tol`  
+*	:doc:`../General/KNITRO_General_-_Honor_Bounds`  

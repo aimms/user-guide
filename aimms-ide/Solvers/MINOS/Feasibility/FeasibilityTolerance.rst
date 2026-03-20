@@ -61,8 +61,8 @@ Feasibility with respect to the nonlinear constraints themselves is measured aga
 
 **Learn more about** 
 
-*	:doc:`RowTolerance <RowTolerance>`  
-*	:doc:`Scaling_-_Scale_Method <../Scaling/Scaling_-_Scale_Method>`  
+*	:doc:`RowTolerance`  
+*	:doc:`../Scaling/Scaling_-_Scale_Method`  
 
 
 

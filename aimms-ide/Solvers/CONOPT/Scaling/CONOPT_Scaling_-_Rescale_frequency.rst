@@ -6,7 +6,7 @@ Rescale Frequency
 
 
 :Type:	Integer	
-:Range:	{1 .. :doc:`Maxint <../../../Aimms/Miscellaneous/Short Descriptions/Maxint>`}	
+:Range:	{1 .. :doc:`../../../Aimms/Miscellaneous/Short Descriptions/Maxint`}	
 :Default:	5	
 
 

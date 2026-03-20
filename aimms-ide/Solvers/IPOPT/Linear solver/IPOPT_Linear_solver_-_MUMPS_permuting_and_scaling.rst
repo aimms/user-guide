@@ -27,4 +27,4 @@ This option controls permuting and scaling in MUMPS. (This is ICNTL(6) in MUMPS.
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection <IPOPT_Linear_solver_-_Linear_solver_selection>` 
+*	:doc:`IPOPT_Linear_solver_-_Linear_solver_selection` 

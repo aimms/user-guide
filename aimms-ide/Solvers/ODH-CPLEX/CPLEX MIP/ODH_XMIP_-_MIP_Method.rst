@@ -42,4 +42,4 @@ With the setting "Sifting", CPLEX solves a sequence of LP subproblems, where the
 
 **Learn more about** 
 
-*	:doc:`ODH_XMIP_-_MIP_Start_Algorit <ODH_XMIP_-_MIP_Start_Algorit>` 
+*	:doc:`ODH_XMIP_-_MIP_Start_Algorit` 

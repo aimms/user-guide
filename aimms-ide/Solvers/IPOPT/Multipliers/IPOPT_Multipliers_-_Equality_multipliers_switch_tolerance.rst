@@ -20,4 +20,4 @@ This option specifies the tolerance for switching to full equality multiplier st
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Multipliers_-_Constraint_multipliers_step_size_method <IPOPT_Multipliers_-_Constraint_multipliers_step_size_method>` 
+*	:doc:`IPOPT_Multipliers_-_Constraint_multipliers_step_size_method` 

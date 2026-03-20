@@ -47,8 +47,8 @@ information about the above quantities.
 
 **Learn more about** 
 
-*	:doc:`CPLEX_General_-_Display_Solution_Statistics <CPLEX_General_-_Display_Solution_Statistics>`  
-*	:doc:`CPLEX_General_-_MemoryEmphasis <CPLEX_General_-_MemoryEmphasis>`  
-*	:doc:`Postsolve_-_MIP_Calculate_Sensitivity_Info <../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_MIP_Calculate_Sensitivity_Info>` 
-*	:doc:`Postsolve_-_Postsolve <../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve>` 
+*	:doc:`CPLEX_General_-_Display_Solution_Statistics`  
+*	:doc:`CPLEX_General_-_MemoryEmphasis`  
+*	:doc:`../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_MIP_Calculate_Sensitivity_Info` 
+*	:doc:`../../../Aimms/Options/Solvers General/Postsolve/Postsolve_-_Postsolve` 
 

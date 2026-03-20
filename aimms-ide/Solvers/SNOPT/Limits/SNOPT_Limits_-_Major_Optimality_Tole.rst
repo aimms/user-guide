@@ -18,7 +18,7 @@ This option specifies the final accuracy of the dual variables. On successful te
 
 **Learn more about** 
 
-*	:doc:`SNOPT_Limits_-_Optimality_Tolerance <SNOPT_Limits_-_Optimality_Tolerance>`  
+*	:doc:`SNOPT_Limits_-_Optimality_Tolerance`  
 
 
 

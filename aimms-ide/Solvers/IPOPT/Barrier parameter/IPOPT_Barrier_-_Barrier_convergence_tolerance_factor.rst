@@ -24,4 +24,4 @@ This option is also used in the adaptive barrier parameter strategy during the m
 
 **Learn more about** 
 
-*	:doc:`IPOPT_Barrier_-_Barrier_parameter_update_strategy <IPOPT_Barrier_-_Barrier_parameter_update_strategy>` 
+*	:doc:`IPOPT_Barrier_-_Barrier_parameter_update_strategy` 

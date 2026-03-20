@@ -58,4 +58,4 @@ B = { (x, X) : 0 <= x <= 1, X_ij = x_i x_j if i is different from j, X_ii = 0 }
 
 **Learn more about** 
 
-*	:doc:`ODH_XQuadratic_-_Solution_Target <../CPLEX Quadratic/ODH_XQuadratic_-_Solution_Target>`  
+*	:doc:`../CPLEX Quadratic/ODH_XQuadratic_-_Solution_Target`  
