@@ -135,7 +135,7 @@ The table shows in the left column the parameters from Knitro that can be set in
    * - linsolver_numthreads
      - :doc:`Parallel - Number of Linear System Threads <Parallel/KNITRO_Par_-_Number_of_Lin_Sys_Threads>`
    * - linsolver_ooc
-     - :doc:`General - Linear Solver Out of Core <General/KNITRO_General_-_Linear_Solver_Out_of_Core>`
+     - :doc:`General - Linear Solver out of Core <General/KNITRO_General_-_Linear_Solver_Out_of_Core>`
    * - linsolver_ordering
      - :doc:`General - Linear Solver Ordering <General/KNITRO_General_-_Linear_Solver_Ordering>`
    * - linsolver_pivottol
@@ -165,7 +165,7 @@ The table shows in the left column the parameters from Knitro that can be set in
    * - mip_cutoff
      - :doc:`MIP - MIP Objective Cutoff Value <MIP/KNITRO_MIP_-_MIP_Objective_Cutoff_Value>`
    * - mip_debug
-     - :doc:`Debugging - Debugging MIP output <Debugging/KNITRO_Deb_-_Debugging_MIP_output>`
+     - :doc:`Debugging - Debugging MIP Output <Debugging/KNITRO_Deb_-_Debugging_MIP_output>`
    * - mip_gomory
      - :doc:`MIP Cuts - Gomory Cuts <MIP Cuts/KNITRO_MIP_Cuts_-_Gomory_Cuts>`
    * - mip_gub_branch

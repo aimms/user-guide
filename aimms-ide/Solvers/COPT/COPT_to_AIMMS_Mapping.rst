@@ -43,7 +43,7 @@ The table shows in the left column the options from COPT that can be set in AIMM
    * - IntTol
      - :doc:`MIP - Integrality Tolerance <MIP/COPT_MIP_-_Integrality_tolerance>`
    * - LogToConsole
-     - :doc:`Logging - Log To Console <Logging/COPT_Logging_-_Log_to_console>`
+     - :doc:`Logging - Log to Console <Logging/COPT_Logging_-_Log_to_console>`
    * - LpMethod
      - :doc:`General - LP Method <General/COPT_General_-_LP_method>`
    * - MatrixTol

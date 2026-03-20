@@ -68,9 +68,9 @@ the CONOPT parameter that is associated with it.
      - LSCRSH
    * - :doc:`General - Minimal Feasibility Tolerance <General/CONOPT_General_-_Minimal_Feas_Tol>`
      - RTNWMI
-   * - :doc:`General - Model is Convex <General/CONOPT_General_-_Model_is_Convex>`
+   * - :doc:`General - Model Is Convex <General/CONOPT_General_-_Model_is_Convex>`
      - ISCONVEX
-   * - :doc:`General - Model is Square System <General/CONOPT_General_-_Model_is_Square>`
+   * - :doc:`General - Model Is Square System <General/CONOPT_General_-_Model_is_Square>`
      - LSSQRS
    * - :doc:`Limits - Limit on Candidates for Defined Variable <Limits/CONOPT_Limits_-_Limit_Candidates_Defined_Variable>`
      - LFUSDF
@@ -124,15 +124,15 @@ the CONOPT parameter that is associated with it.
      - LFSCAL
    * - :doc:`Scaling - Scaling Method <Scaling/CONOPT_Scaling_-_Scaling_Method>`
      - LMSCAL
-   * - :doc:`Stop criteria - Accuracy One Dimensional Search <Stop criteria/CONOPT_Stop_Criteria_-_Accuracy_One_Dim_Search>`
+   * - :doc:`Stop Criteria - Accuracy One Dimensional Search <Stop criteria/CONOPT_Stop_Criteria_-_Accuracy_One_Dim_Search>`
      - RTONED
-   * - :doc:`Stop criteria - Limit for Slow Progress <Stop criteria/CONOPT_Stop_Criteria_-_Limit_Slow_Progress>`
+   * - :doc:`Stop Criteria - Limit for Slow Progress <Stop criteria/CONOPT_Stop_Criteria_-_Limit_Slow_Progress>`
      - LFNICR
-   * - :doc:`Stop criteria - Maximal Number of Stalled Iterations <Stop criteria/CONOPT_Stop_Criteria_-_Max_Number_Stalled_Iter>`
+   * - :doc:`Stop Criteria - Maximal Number of Stalled Iterations <Stop criteria/CONOPT_Stop_Criteria_-_Max_Number_Stalled_Iter>`
      - LFSTAL
-   * - :doc:`Stop criteria - Optimality Tolerance <Stop criteria/CONOPT_Stop_Criteria_-_Optimality_Tol>`
+   * - :doc:`Stop Criteria - Optimality Tolerance <Stop criteria/CONOPT_Stop_Criteria_-_Optimality_Tol>`
      - RTREDG
-   * - :doc:`Stop criteria - Optimality Tolerance Infeasible <Stop criteria/CONOPT_Stop_Criteria_-_Optimality_Tol_Infeasible>`
+   * - :doc:`Stop Criteria - Optimality Tolerance Infeasible <Stop criteria/CONOPT_Stop_Criteria_-_Optimality_Tol_Infeasible>`
      - RTREDI
-   * - :doc:`Stop criteria - Slow Progress Tolerance <Stop criteria/CONOPT_Stop_Criteria_-_Slow_Progress_Tol>`
+   * - :doc:`Stop Criteria - Slow Progress Tolerance <Stop criteria/CONOPT_Stop_Criteria_-_Slow_Progress_Tol>`
      - RTOBJL

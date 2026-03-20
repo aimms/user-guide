@@ -86,7 +86,7 @@ The table shows in the left column the AIMMS XA options; the right column displa
      - SET INTPCT
    * - :doc:`MIP - Selection of Nodes <MIP/XA_MIP_-_Selection_of_Nodes>`
      - SET RUNNER
-   * - :doc:`MIP - Stop After <MIP/XA_MIP_-_Stop_After>`
+   * - :doc:`MIP - Stop after <MIP/XA_MIP_-_Stop_After>`
      - STOPAFTER
    * - :doc:`MIP - Stop Unchanged <MIP/XA_MIP_-_Stop_Unchanged>`
      - STOPUNCHANGED

@@ -73,7 +73,7 @@ The table shows in the left column the parameters from XA that can be set in AIM
    * - SET YPIVOT
      - :doc:`Advanced - Minimal Absolute Pivot Value <Advanced/XA_Advanced_-_Minimal_Absolute_Pi>`
    * - STOPAFTER
-     - :doc:`MIP - Stop After <MIP/XA_MIP_-_Stop_After>`
+     - :doc:`MIP - Stop after <MIP/XA_MIP_-_Stop_After>`
    * - STOPUNCHANGED
      - :doc:`MIP - Stop Unchanged <MIP/XA_MIP_-_Stop_Unchanged>`
    * - STRATEGY

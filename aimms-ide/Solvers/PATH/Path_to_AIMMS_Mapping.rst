@@ -57,7 +57,7 @@ The table shows in the left column the parameters from PATH that can be set in A
    * - Nms_memory_size
      - :doc:`Advanced - NMS Merit Function Values Storage <Advanced/PATH_Advanced_-_NMS_Merit_Funct>`
    * - Nms_mstep_frequency
-     - :doc:`Advanced - NMS m-Step Frequency <Advanced/PATH_Advanced_-_NMS_m-Step_Freq>`
+     - :doc:`Advanced - NMS M-Step Frequency <Advanced/PATH_Advanced_-_NMS_m-Step_Freq>`
    * - Nms_searchtype
      - :doc:`Advanced - NMS Search Type <Advanced/PATH_Advanced_-_NMS_Search_Type>`
    * - Output_crash_iterations

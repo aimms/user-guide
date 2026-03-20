@@ -33,13 +33,13 @@ The table shows in the left column the parameters from CONOPT that can be set in
    * - LFMXNS
      - :doc:`Limits - Limit on New Superbasics <Limits/CONOPT_Limits_-_Limit_New_Superbasics>`
    * - LFNICR
-     - :doc:`Stop criteria - Limit for Slow Progress <Stop criteria/CONOPT_Stop_Criteria_-_Limit_Slow_Progress>`
+     - :doc:`Stop Criteria - Limit for Slow Progress <Stop criteria/CONOPT_Stop_Criteria_-_Limit_Slow_Progress>`
    * - LFNSUP
      - :doc:`Limits - Maximal Hessian Dimension <Limits/CONOPT_Limits_-_Maximal_Hessian_Dim>`
    * - LFSCAL
      - :doc:`Scaling - Rescale Frequency <Scaling/CONOPT_Scaling_-_Rescale_frequency>`
    * - LFSTAL
-     - :doc:`Stop criteria - Maximal Number of Stalled Iterations <Stop criteria/CONOPT_Stop_Criteria_-_Max_Number_Stalled_Iter>`
+     - :doc:`Stop Criteria - Maximal Number of Stalled Iterations <Stop criteria/CONOPT_Stop_Criteria_-_Max_Number_Stalled_Iter>`
    * - LFUSDF
      - :doc:`Limits - Limit on Candidates for Defined Variable <Limits/CONOPT_Limits_-_Limit_Candidates_Defined_Variable>`
    * - LKDEB2
@@ -67,9 +67,9 @@ The table shows in the left column the parameters from CONOPT that can be set in
    * - LSLACK
      - :doc:`Advanced - Logical Switch for Selection of Slacks <Advanced/CONOPT_Advanced_-_Logical_Switch_Slacks>`
    * - LSSQRS
-     - :doc:`General - Model is Square System <General/CONOPT_General_-_Model_is_Square>`
+     - :doc:`General - Model Is Square System <General/CONOPT_General_-_Model_is_Square>`
    * - ISCONVEX
-     - :doc:`General - Model is Convex <General/CONOPT_General_-_Model_is_Convex>`
+     - :doc:`General - Model Is Convex <General/CONOPT_General_-_Model_is_Convex>`
    * - NROUNDS
      - :doc:`Limits - Limit on Linear Feasibility Model Rounds <Limits/CONOPT_Limits_-_Limit_Linear_Feas_Model_Rounds>`
    * - RT2DRV
@@ -113,11 +113,11 @@ The table shows in the left column the parameters from CONOPT that can be set in
    * - RTNWTR
      - :doc:`General - Feasibility Tolerance Triangular Part <General/CONOPT_General_-_Feas_Tol_Triangular>`
    * - RTOBJL
-     - :doc:`Stop criteria - Slow Progress Tolerance <Stop criteria/CONOPT_Stop_Criteria_-_Slow_Progress_Tol>`
+     - :doc:`Stop Criteria - Slow Progress Tolerance <Stop criteria/CONOPT_Stop_Criteria_-_Slow_Progress_Tol>`
    * - RTOBJR
      - :doc:`Advanced - Relative Objective Accuracy <Advanced/CONOPT_Advanced_-_Relative_Obj_Accuracy>`
    * - RTONED
-     - :doc:`Stop criteria - Accuracy One Dimensional Search <Stop criteria/CONOPT_Stop_Criteria_-_Accuracy_One_Dim_Search>`
+     - :doc:`Stop Criteria - Accuracy One Dimensional Search <Stop criteria/CONOPT_Stop_Criteria_-_Accuracy_One_Dim_Search>`
    * - RTPIVA
      - :doc:`Pivot - Absolute Pivot Tolerance <Pivot/CONOPT_Pivot_-_Absolute_Pivot_Tol>`
    * - RTPIVR
@@ -129,9 +129,9 @@ The table shows in the left column the parameters from CONOPT that can be set in
    * - RTPIVU
      - :doc:`Pivot - Relative Pivot Tolerance during Basis Updates <Pivot/CONOPT_Pivot_-_Relative_Pivot_Tol_during_Basis_Updates>`
    * - RTREDG
-     - :doc:`Stop criteria - Optimality Tolerance <Stop criteria/CONOPT_Stop_Criteria_-_Optimality_Tol>`
+     - :doc:`Stop Criteria - Optimality Tolerance <Stop criteria/CONOPT_Stop_Criteria_-_Optimality_Tol>`
    * - RTREDI
-     - :doc:`Stop criteria - Optimality Tolerance Infeasible <Stop criteria/CONOPT_Stop_Criteria_-_Optimality_Tol_Infeasible>`
+     - :doc:`Stop Criteria - Optimality Tolerance Infeasible <Stop criteria/CONOPT_Stop_Criteria_-_Optimality_Tol_Infeasible>`
    * - RVSTLM
      - :doc:`Advanced - Steplength Multiplier <Advanced/CONOPT_Advanced_-_Steplength_Multiplier>`
    * - RVTIME

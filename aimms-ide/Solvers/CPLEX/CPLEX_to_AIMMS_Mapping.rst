@@ -290,7 +290,7 @@ The table shows in the left column the parameters from CPLEX that can be set in 
    * - Sifting algorithm
      - :doc:`General - Sifting Algorithm <General/CPLEX_General_-_Sifting_Algorithm>`
    * - Sifting simplex
-     - :doc:`Simplex - Sifting From Simplex <Simplex/CPLEX_Simplex_-_Sifting_from_Simplex>`
+     - :doc:`Simplex - Sifting from Simplex <Simplex/CPLEX_Simplex_-_Sifting_from_Simplex>`
    * - Simplex crash
      - :doc:`Simplex - Crash Ordering <Simplex/CPLEX_Simplex_-_Crash_Ordering>`
    * - Simplex dgradient

@@ -42,7 +42,7 @@ The table shows in the left column the AIMMS Knitro options; the right column di
      - xtol
    * - :doc:`Debugging - Data Check <Debugging/KNITRO_Deb_-_Data_Check>`
      - datacheck
-   * - :doc:`Debugging - Debugging MIP output <Debugging/KNITRO_Deb_-_Debugging_MIP_output>`
+   * - :doc:`Debugging - Debugging MIP Output <Debugging/KNITRO_Deb_-_Debugging_MIP_output>`
      - mip_debug
    * - :doc:`Debugging - Debugging Output <Debugging/KNITRO_Deb_-_DebuggingOutput>`
      - debug
@@ -60,7 +60,7 @@ The table shows in the left column the AIMMS Knitro options; the right column di
      - linsolver_nodeamalg
    * - :doc:`General - Linear Solver Ordering <General/KNITRO_General_-_Linear_Solver_Ordering>`
      - linsolver_ordering
-   * - :doc:`General - Linear Solver Out of Core <General/KNITRO_General_-_Linear_Solver_Out_of_Core>`
+   * - :doc:`General - Linear Solver out of Core <General/KNITRO_General_-_Linear_Solver_Out_of_Core>`
      - linsolver_ooc
    * - :doc:`General - Linear Solver Scaling <General/KNITRO_General_-_Linear_Solver_Scaling>`
      - linsolver_scaling

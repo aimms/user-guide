@@ -36,7 +36,7 @@ The table shows in the left column the AIMMS COPT options; the right column disp
      - MatrixTol
    * - :doc:`General - Scale <General/COPT_General_-_Scale>`
      - Scaling
-   * - :doc:`Logging - Log To Console <Logging/COPT_Logging_-_Log_to_console>`
+   * - :doc:`Logging - Log to Console <Logging/COPT_Logging_-_Log_to_console>`
      - LogToConsole
    * - :doc:`MIP - Integrality Tolerance <MIP/COPT_MIP_-_Integrality_tolerance>`
      - IntTol

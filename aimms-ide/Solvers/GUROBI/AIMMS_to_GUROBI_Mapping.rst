@@ -256,7 +256,7 @@ The table shows in the left column the AIMMS Gurobi options while the right colu
      - AGGFILL
    * - :doc:`Presolve - Presolve Dual <Presolve/GUROBI_Presolve_-_Presolve_Dual>`
      - PREDUAL
-   * - :doc:`PPresolve - resolve Passes <Presolve/GUROBI_Presolve_-_Presolve_Passes>`
+   * - :doc:`Presolve - Presolve Passes <Presolve/GUROBI_Presolve_-_Presolve_Passes>`
      - PREPASSES
    * - :doc:`Presolve - Presolve Row Reduction <Presolve/GUROBI_Presolve_-_Presolve_Row_Reduction>`
      - PREDEPROW

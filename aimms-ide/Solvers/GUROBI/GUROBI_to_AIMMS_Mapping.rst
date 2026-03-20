@@ -190,7 +190,7 @@ the right column displays for each Gurobi parameter the associated AIMMS option.
    * - PREMIQCPFORM
      - :doc:`Quadratic - MIQCP Formulation <Quadratic/GUROBI_Quadratic_-_MIQCP_Formulation>`
    * - PREPASSES
-     - :doc:`PPresolve - resolve Passes <Presolve/GUROBI_Presolve_-_Presolve_Passes>`
+     - :doc:`PPresolve - Resolve Passes <Presolve/GUROBI_Presolve_-_Presolve_Passes>`
    * - PREQLINEARIZE
      - :doc:`Presolve - Linearize Quadratic Constraints <Presolve/GUROBI_Presolve_-_Linearize_Quadratic_Constraint>`
    * - PRESOLVE

@@ -558,7 +558,7 @@ The table below shows in the left column the AIMMS CPLEX options; the middle col
    * - :doc:`Simplex - Refactor <Simplex/CPLEX_Simplex_-_Refactor>`
      - Simplex refactor
      - CPX_PARAM_REINV
-   * - :doc:`Simplex - Sifting From Simplex <Simplex/CPLEX_Simplex_-_Sifting_from_Simplex>`
+   * - :doc:`Simplex - Sifting from Simplex <Simplex/CPLEX_Simplex_-_Sifting_from_Simplex>`
      - Sifting simplex
      - CPX_PARAM_SIFTSIM
    * - :doc:`Simplex - Singular <Simplex/CPLEX_Simplex_-_Singular>`
