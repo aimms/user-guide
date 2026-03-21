@@ -16,7 +16,7 @@ ODH-CPLEX needs to break the specified matrix down into sub-models. It can do th
 
 
 
-You can specify a decomposition yourself by assigning a variable to a different block using the routine GMP::Column::SetDecomposition. By default, the program will use information specified by the user through this routine, and its automatic decomposition heuristic otherwise.
+You can specify a decomposition yourself by assigning a variable to a different block using the routine :any:`GMP::Column::SetDecomposition`. By default, the program will use information specified by the user through this routine, and its automatic decomposition heuristic otherwise.
 
 
 
@@ -24,7 +24,7 @@ The automatic decomposition heuristic divides the model up into parts, using an 
 
 
 
-Whilst the automatic decomposition method often works well, there may be an advantage to specifying decomposition through the routine GMP::Column::SetDecomposition. After performing the decomposition in whatever way, the program analyses the decomposition and displays statistics showing the maximum and minimum number of variables in each key or block and showing a percentage score to the decomposition as a whole. A typical display is of the form:
+Whilst the automatic decomposition method often works well, there may be an advantage to specifying decomposition through the routine :any:`GMP::Column::SetDecomposition`. After performing the decomposition in whatever way, the program analyses the decomposition and displays statistics showing the maximum and minimum number of variables in each key or block and showing a percentage score to the decomposition as a whole. A typical display is of the form:
 
 
 

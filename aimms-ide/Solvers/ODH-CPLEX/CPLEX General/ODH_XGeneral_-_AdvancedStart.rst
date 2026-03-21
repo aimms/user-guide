@@ -57,7 +57,7 @@ For continuous models with setting "Automatic", CPLEX will use an advanced basis
 **Note** 
 
 *	CPLEX also supports Multiple MIP Starts.
-*	If this option is not switched off and if GMP functionality is used (e.g., GMP::Instance::Solve), then CPLEX can resume a solve that was interrupted or hit a time, node or iteration limit.
+*	If this option is not switched off and if GMP functionality is used (e.g., :any:`GMP::Instance::Solve`), then CPLEX can resume a solve that was interrupted or hit a time, node or iteration limit.
 
 
 

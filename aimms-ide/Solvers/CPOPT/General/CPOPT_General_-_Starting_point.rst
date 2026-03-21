@@ -24,7 +24,7 @@ This option specifies whether a starting point or solution should be passed to C
 
 **Note** 
 
-*	By default, AIMMS will pass values for all variables (and activities) to CP Optimizer. By using the procedure GMP::Instance::SetStartingPointSelection it is possible to use only a selection of variables (and activities). 
+*	By default, AIMMS will pass values for all variables (and activities) to CP Optimizer. By using the procedure :any:`GMP::Instance::SetStartingPointSelection` it is possible to use only a selection of variables (and activities). 
 *	The starting point information is used by the restart and multi-point search types only. It is not used by the depth-first search.
 
 

@@ -16,7 +16,7 @@ By default, the COPT MIP solver will try to find one proven optimal solution to 
 
 **Accessing a solution in the solution pool** 
 
-All solutions in the solution pool will be stored in the solution repository of the mathematical program. At position 1 of that solution repository the best solution is stored, at position 2 the solution with the second best objective value, and so on. Solutions in the solution repository can be send to the model identifiers by using the AIMMS routine GMP::Solution::SendToModel. For example, with
+All solutions in the solution pool will be stored in the solution repository of the mathematical program. At position 1 of that solution repository the best solution is stored, at position 2 the solution with the second best objective value, and so on. Solutions in the solution repository can be send to the model identifiers by using the AIMMS routine :any:`GMP::Solution::SendToModel`. For example, with
 
 
 

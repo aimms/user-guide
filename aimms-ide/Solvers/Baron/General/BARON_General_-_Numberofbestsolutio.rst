@@ -14,7 +14,7 @@ Number of Best Solutions
 
 
 
-This option determines the number of best solutions to be found. All solutions will be stored in the solution repository of the mathematical program. At position 1 of that solution repository the best solution is stored, at position 2 the second best solution, and so on. Solutions in the solution repository can be send to the model identifiers by using the AIMMS routine GMP::Solution::SendToModel. For example, with
+This option determines the number of best solutions to be found. All solutions will be stored in the solution repository of the mathematical program. At position 1 of that solution repository the best solution is stored, at position 2 the second best solution, and so on. Solutions in the solution repository can be send to the model identifiers by using the AIMMS routine :any:`GMP::Solution::SendToModel`. For example, with
 
 
 

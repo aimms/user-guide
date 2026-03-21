@@ -42,7 +42,7 @@ endwhile;
 
 
 
-where 'myGMP' is an element parameter with range 'AllGeneratedMathematicalPrograms'. See the Function Reference for more information on the functions GMP::Solution::Count and GMP::Solution::SendToModel.
+where 'myGMP' is an element parameter with range 'AllGeneratedMathematicalPrograms'. See the Function Reference for more information on the functions :any:`GMP::Solution::Count` and :any:`GMP::Solution::SendToModel`.
 
 
 

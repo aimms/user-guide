@@ -16,7 +16,7 @@ A problem formulation can often be strengthened by adding nonlinear constraints.
 
 
 
-A potential complication is that these nonlinear constraints may make local search difficult. For that reason it is possible for the user to indicate this kind of constraints as being relaxation-only constraints. That is, a constraint that is identified as a relaxation-only constraint will be used by BARON to strengthen the lower bounding step of the algorithm, but will be ignored when performing a local search. In AIMMS, a constraint can be identified as relaxation-only by either setting the .RelaxationOnly suffix of a constraint, or by using the AIMMS routine GMP::Row::SetRelaxationOnly.
+A potential complication is that these nonlinear constraints may make local search difficult. For that reason it is possible for the user to indicate this kind of constraints as being relaxation-only constraints. That is, a constraint that is identified as a relaxation-only constraint will be used by BARON to strengthen the lower bounding step of the algorithm, but will be ignored when performing a local search. In AIMMS, a constraint can be identified as relaxation-only by either setting the .RelaxationOnly suffix of a constraint, or by using the AIMMS routine :any:`GMP::Row::SetRelaxationOnly`.
 
 
 

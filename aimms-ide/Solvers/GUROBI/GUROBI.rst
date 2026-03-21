@@ -91,7 +91,7 @@ When solving a problem Gurobi allows variables to slightly violate their bounds 
 
 **Running Gurobi on Gurobi Compute Server or Gurobi Cloud** 
 
-Normally AIMMS initializes a Gurobi environment at startup and frees it when AIMMS is closed. The procedures GMP::Solver::InitializeEnvironment and GMP::Solver::FreeEnvironment can be used to initialize and free a Gurobi environment multiple times inside one AIMMS sesstion. This makes it possible to connect and disconnect a Gurobi session running on the Gurobi Compute Server or the Gurobi Cloud.
+Normally AIMMS initializes a Gurobi environment at startup and frees it when AIMMS is closed. The procedures :any:`GMP::Solver::InitializeEnvironment` and :any:`GMP::Solver::FreeEnvironment` can be used to initialize and free a Gurobi environment multiple times inside one AIMMS sesstion. This makes it possible to connect and disconnect a Gurobi session running on the Gurobi Compute Server or the Gurobi Cloud.
 
 
 

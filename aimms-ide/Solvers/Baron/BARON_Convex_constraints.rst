@@ -10,7 +10,7 @@ BARON provides the modeler with the flexibility of explicitly identifying convex
 
 
 
-In case BARON is unable to determine the convexity of a constraint automatically, the user has to do the identification. This can be done by either setting the .Convex suffix of a constraint, or by using the AIMMS routine GMP::Row::SetConvex.
+In case BARON is unable to determine the convexity of a constraint automatically, the user has to do the identification. This can be done by either setting the .Convex suffix of a constraint, or by using the AIMMS routine :any:`GMP::Row::SetConvex`.
 
 
 

@@ -22,7 +22,7 @@ decomposition.
 
 **Specifying a decomposition** 
 
-The user can specify a decomposition by using the AIMMS routine GMP::Column::SetDecomposition. A decomposition value of 0 means that
+The user can specify a decomposition by using the AIMMS routine :any:`GMP::Column::SetDecomposition`. A decomposition value of 0 means that
 the variable will be assigned to the first-stage master problem. A decomposition value of *d* >= 1 means that the variable will be assigned
 to the *d*\ -th subproblem (in the second stage).
 

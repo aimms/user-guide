@@ -30,7 +30,7 @@ Decomposition files are written only if one of the options **LP File**, **MPS** 
 
 **Note** 
 
-*	The decomposition file will only be written if a decomposition has been specified in the model, using the routine GMP::Column::SetDecomposition, as explained in the section :doc:`../ODH_-_Specifying_Model_Structure`.
+*	The decomposition file will only be written if a decomposition has been specified in the model, using the routine :any:`GMP::Column::SetDecomposition`, as explained in the section :doc:`../ODH_-_Specifying_Model_Structure`.
 
 
 

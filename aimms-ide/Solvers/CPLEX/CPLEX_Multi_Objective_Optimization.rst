@@ -48,7 +48,7 @@ priority) objectives, the only solutions considered are those that are also opti
 objectives.
 
 
-The priority of each objective can be specified using the third argument of the routine GMP::Column::SetAsMultiObjective. Its fourth
+The priority of each objective can be specified using the third argument of the routine :any:`GMP::Column::SetAsMultiObjective`. Its fourth
 argument defines the weight by which the objective coefficients are multiplied when forming a blended objective, i.e., if multiple
 objectives have the same priority. In the example above in which TotalDist is defined as 10*x1 + 20*x2 the objective coefficients
 are 10 and 20 (for x1 and x2 respectively).

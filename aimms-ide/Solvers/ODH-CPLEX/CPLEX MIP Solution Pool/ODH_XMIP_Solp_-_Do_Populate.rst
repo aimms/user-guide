@@ -22,7 +22,7 @@ This option can be used to let CPLEX generate multiple solutions to a mixed inte
 
 
 
-This option should be switched on before a normal solve statement (or before GMP::Instance::Solve) to let CPLEX fill the solution pool.
+This option should be switched on before a normal solve statement (or before :any:`GMP::Instance::Solve`) to let CPLEX fill the solution pool.
 
 
 
