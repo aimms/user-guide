@@ -40,9 +40,9 @@ The scaling factors can be printed in the listing file by setting the option **L
 
 The Scale Model action is only available for linear models and it is not supported for:
 
-*	GMP's generated using GMP::Instance::CreateDual,
-*	GMP's generated using GMP::Instance::GenerateRobustCounterpart, and
-*	GMP's generated using GMP::Instance::CreatePresolved.
+*	GMP's generated using :any:`GMP::Instance::CreateDual`,
+*	GMP's generated using :any:`GMP::Instance::GenerateRobustCounterpart`, and
+*	GMP's generated using :any:`GMP::Instance::CreatePresolved`.
 
 A model can also be scaled, outside the Math Program Inspector, by activating the **Scale Model** option. 
 The main advantage of using this option is that AIMMS automatically applies all scaling factors underneath, 

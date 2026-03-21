@@ -8,7 +8,7 @@ MIP Search Tree
 
 **Description** 
 
-By selecting MIP Search Tree from the View menu, the MIP Search Tree tab is opened. Whenever your linear model is a mixed-integer model, the solver will most probably use a tree search algorithm to solve your problem. During this tree search the algorithm will encounter one or more solutions if the model is integer feasible. Once the search is completed and the optimal solution has been found, you can use the MIP Search Tree tab to view the shape of the search tree and retrieve branching information about the search tree. Currently CPLEX is the only MIP solver in AIMMS that provides this information. The MIP Search Tree is not available if dynamic search is used by CPLEX to solve the MIP model. It is also not available if the MIP model is solved by using the procedure GMP::SolverSession::AsynchronousExecute.
+By selecting MIP Search Tree from the View menu, the MIP Search Tree tab is opened. Whenever your linear model is a mixed-integer model, the solver will most probably use a tree search algorithm to solve your problem. During this tree search the algorithm will encounter one or more solutions if the model is integer feasible. Once the search is completed and the optimal solution has been found, you can use the MIP Search Tree tab to view the shape of the search tree and retrieve branching information about the search tree. Currently CPLEX is the only MIP solver in AIMMS that provides this information. The MIP Search Tree is not available if dynamic search is used by CPLEX to solve the MIP model. It is also not available if the MIP model is solved by using the procedure :any:`GMP::SolverSession::AsynchronousExecute`.
 
 
 
