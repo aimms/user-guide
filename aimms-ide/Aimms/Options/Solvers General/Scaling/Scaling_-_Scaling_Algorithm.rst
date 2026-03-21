@@ -52,7 +52,7 @@ will be skipped. (The scaling score is explained in the help of the option **Sca
 **Note** 
 
 *	This option is only used if the option **Scale Model** has been switched on.
-*	AIMMS does not scale constraint programming models nor models with complementarity constraints. Scaling is also not applied to stochastic models, the robust counterpart of a model and the dual of a model.
+*	AIMMS does not scale constraint programming models nor models with complementarity constraints. Scaling is also not applied to the robust counterpart of a model and the dual of a model.
 *	The option **List Scaling Factors** can be used to list the scaling factors, as found by the scaling algorithm, that are used in the scaled model.
 
 
