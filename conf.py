@@ -64,6 +64,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 linkcheck_ignore = [
     r'https://search\.yahoo\.com/',
+    r'https://web\.stanford\.edu/group/SOL/',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
