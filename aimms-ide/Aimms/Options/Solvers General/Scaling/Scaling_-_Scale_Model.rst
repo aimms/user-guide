@@ -69,7 +69,7 @@ that is, we round up :math:`lv` to the next 10 power. If the smallest value :mat
 
     \text{power}(10,\text{ceil}(-\text{log10}(sv))),
 
-A lower score corresponds to a better scaled model. The (theorretically) best possible score is 1.
+A lower score corresponds to a better scaled model. The theoretically best possible score is 1.
 
 
 For example, if the constraint ``c1(i)`` has right-hand-side values 200, 20, 10 and 0.01 then the contribution of
