@@ -51,6 +51,8 @@ One of the advantages of using this option is that AIMMS automatically applies a
 so you do not have to change your model.
 
 
+**Scaling score** 
+
 AIMMS keeps track of a *scaling score* which, more or less, measures how well the model is scaled. The score is
 calculated by using the variable bounds, the right-hand-side values of the constraints, and the matrix coefficients
 of each couple of variable and constraint. For each of these terms the largest and smallest value (in absolute sense)
@@ -67,7 +69,7 @@ that is, we round up :math:`lv` to the next 10 power. If the smallest value :mat
 
     \text{power}(10,\text{ceil}(-\text{log10}(sv))),
 
-A lower score corresponds to a better scaled model. The best possible score is 1.
+A lower score corresponds to a better scaled model. The (theorretically) best possible score is 1.
 
 
 For example, if the constraint ``c1(i)`` has right-hand-side values 200, 20, 10 and 0.01 then the contribution of
