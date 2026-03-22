@@ -31,7 +31,7 @@ Using the same example, the scaling factors found for ``X(i)`` might be differen
 ``X(1)`` might be different than the one found for ``X(2)``.
 
 
-The 'Symbolic' setting is only available if the **Scaling Algorithm** option has been set at 'Optimization Based',
+The 'Symbolic' setting will only be effective if the **Scaling Algorithm** option has been set at 'Optimization Based',
 or at 'Automatic' and (only) the Optimization Based algorithm is used. The 'Individual' setting is available for
 all scaling algorithms, including the Optimization based algorithm.
 
