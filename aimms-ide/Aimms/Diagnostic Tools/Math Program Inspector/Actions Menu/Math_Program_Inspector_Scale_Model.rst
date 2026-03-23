@@ -9,7 +9,7 @@ The Scale Model action from the Actions menu can be used to find scaling factors
 for the symbolic variables and constraints in a linear model which can be used to 
 improve the numerical properties of the model, 
 possibly resulting in more accurate solutions or performance improvements. 
-Note that solvers like CPLEX, Gurobi and COPT also use algorithms to scale 
+Note that solvers like :ref:`SolverCPLEX`, :ref:`SolverGurobi` and :ref:`SolverCOPT` also use algorithms to scale 
 the model but in our experience it often helps to use units or scaling factors 
 in the AIMMS model to improve the numerical properties of the model.
 

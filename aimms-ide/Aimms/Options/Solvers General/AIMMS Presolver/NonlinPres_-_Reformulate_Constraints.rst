@@ -55,7 +55,7 @@ solve statement is used then the 'Multi' setting is equivalent to the 'Single' s
 **Note** 
 
 *	This option has only an effect if the option **MINLP Probing** is switched on.
-*	For some MINLP problems it might be worthwhile to experiment with the function :any:`GMP::Instance::CreatePresolved` if you are using BARON or Knitro. (The GMP-AOA algorithm already uses the function :any:`GMP::Instance::CreatePresolved` underneath.)
+*	For some MINLP problems it might be worthwhile to experiment with the function :any:`GMP::Instance::CreatePresolved` if you are using :ref:`SolverBARON` or :ref:`SolverKnitro`. (The GMP-AOA algorithm already uses the function :any:`GMP::Instance::CreatePresolved` underneath.)
 
 
 **Learn more about** 

@@ -38,7 +38,7 @@ result in more (binary) variables being removed. This setting can be computation
 
 *	This option has only an effect when solving a nonlinear model and the option **Nonlinear Presolve** is switched on, or when solving a linear, quadratic or quadratically-constrained model and the option **Linear Presolve** is switched on, or if the function :any:`GMP::Instance::CreatePresolved` is used.
 *	If the function :any:`GMP::Instance::CreatePresolved` is used then AIMMS will change the model type from MINLP (NLP) into MIP (LP) if this option is switched on and the presolved model contains no nonlinear constraints.
-*	Probing can significantly improve the performance of the solvers CBC and XA for MIP models.
+*	Probing can significantly improve the performance of the solvers :ref:`SolverCBC` and :ref:`SolverXA` for MIP models.
 
 
 **Learn more about** 
