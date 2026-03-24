@@ -57,7 +57,7 @@ For example, to tune all '.mps' and '.lp' problems inside a directory 'ProblemSe
 
 .. code-block:: aimms
 
-   GMP::Tuning::TuneMultipleMPS( 'ProblemSet', 'GUROBI 12.0', FixedOptions );
+   GMP::Tuning::TuneMultipleMPS( 'ProblemSet', 'GUROBI 13.0', FixedOptions );
 
 
 **Tuning tool results** 

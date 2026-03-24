@@ -6,7 +6,7 @@
 Quadratic Programs
 ==================
 
-COPT 6.0 can handle both convex quadratic constraints. The default algorithms in COPT 6.0 only accept a few forms of quadratic constraints that are known to have convex feasible regions. Constraints of the following forms are always accepted:
+COPT can handle both convex quadratic constraints. The default algorithms in COPT only accept a few forms of quadratic constraints that are known to have convex feasible regions. Constraints of the following forms are always accepted:
 
 
 
