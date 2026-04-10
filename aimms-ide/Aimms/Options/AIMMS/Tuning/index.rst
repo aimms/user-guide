@@ -9,5 +9,6 @@ Tuning
     Tuning_-_Profiler_Store_Data
     Tuning_-_Profiler_Timing_Metho
     Tuning_-_Variable_bounds_are_updatable
+    Tuning_-_Number_of_execution_threads
     Small_Data_Updates_Strategy
     Memory Management/index
