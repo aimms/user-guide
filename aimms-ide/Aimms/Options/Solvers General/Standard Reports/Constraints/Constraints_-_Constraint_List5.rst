@@ -1,10 +1,10 @@
 
 
-.. _option-AIMMS-constraint_listing_feasibility_tolerances:
+.. _option-AIMMS-constraint_listing_feasibility_tolerance:
 
 
-Constraint Listing Feasibility Tolerances
-=========================================
+Constraint Listing Feasibility Tolerance
+========================================
 
 
 
