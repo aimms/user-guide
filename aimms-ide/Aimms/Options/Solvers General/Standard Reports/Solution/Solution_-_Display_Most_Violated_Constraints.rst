@@ -36,6 +36,6 @@ and integer violations are printed, provided that these violations are larger th
 
 **Learn more about** 
 
-*	:ref:`option-AIMMS-constraint_listing_feasibility_tolerances` 
+*	:ref:`option-AIMMS-constraint_listing_feasibility_tolerance` 
 *	:ref:`option-AIMMS-suppress_listing_file_encrypted_project` 
 
