@@ -1,5 +1,5 @@
-Nonlinear
-=========
+PDHG
+====
 
 .. toctree::
     :maxdepth: 1
