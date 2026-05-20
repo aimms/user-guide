@@ -5,6 +5,7 @@ MIP
     :maxdepth: 1
 
     COPT_MIP_-_Integrality_tolerance
+    COPT_MIP_-_MIP_repair
     COPT_MIP_-_MIP_start
     COPT_MIP_-_MIP_start_node_limit
     COPT_MIP_-_Node_limit

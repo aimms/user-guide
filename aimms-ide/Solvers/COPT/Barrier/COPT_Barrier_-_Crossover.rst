@@ -10,7 +10,7 @@ Crossover
 
 :Type:	Selection	
 :Range:	The settings listed below	
-:Default:	Automatic	
+:Default:	On	
 
 
 
