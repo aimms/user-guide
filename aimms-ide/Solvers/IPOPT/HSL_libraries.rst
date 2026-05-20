@@ -28,7 +28,7 @@ To use a HSL routine for the Linear Solver Selection the user has to do the foll
 
 
 
-    1.	Download, e.g., Ipopt-3.11.0.zip from `http://www.coin-or.org/download/source/Ipopt/ <https://www.coin-or.org/download/source/Ipopt/>`_ and unzip the file.
+    1.	Download, e.g., Ipopt-3.11.0.zip from `https://github.com/coin-or/Ipopt/releases <https://github.com/coin-or/Ipopt/releases>`_ and unzip the file.
 
     2.	The file **Ipopt-3.11.0\\Ipopt\\MSVisualStudio\\v8-ifort\\libhsl\\libhsl.vfproj** (can be opened using a normal editor) shows which HSL .f files are needed if MA57 is used. 
 

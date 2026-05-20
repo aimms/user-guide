@@ -69,7 +69,7 @@ The nonlinear presolve algorithm is switched off by default. To use it you shoul
 **Learn more about** 
 
 *	`IPOPT <https://coin-or.github.io/Ipopt/>`_ (Internet link)
-*	`COIN-OR <https://www.coin-or.org/>`_ (Internet link)
+*	`COIN-OR <https://github.com/coin-or>`_ (Internet link)
 *	`AIMMSlinks <https://github.com/coin-or/AIMMSlinks>`_ (Internet link)
 *	:doc:`IPOPT_to_AIMMS_Mapping`  
 *	:doc:`AIMMS_to_IPOPT_Mapping`  
