@@ -1,7 +1,7 @@
 .. _option-COPT-log_level:
 
 
-Log level
+Log Level
 =========
 
 

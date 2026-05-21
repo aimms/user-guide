@@ -1,7 +1,7 @@
 .. _option-COPT-linearize_indicators:
 
 
-Linearize indicators
+Linearize Indicators
 ====================
 
 

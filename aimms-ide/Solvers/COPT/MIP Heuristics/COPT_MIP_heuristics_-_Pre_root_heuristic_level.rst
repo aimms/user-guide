@@ -1,7 +1,7 @@
 .. _option-COPT-pre_root_heuristic_level:
 
 
-Pre root heuristic level
+Pre Root Heuristic Level
 ========================
 
 

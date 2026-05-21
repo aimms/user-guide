@@ -1,7 +1,7 @@
 .. _option-COPT-fap_heuristic_level:
 
 
-FAP heuristic level
+FAP Heuristic Level
 ===================
 
 

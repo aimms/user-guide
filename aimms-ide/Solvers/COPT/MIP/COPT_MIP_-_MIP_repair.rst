@@ -1,7 +1,7 @@
 .. _option-COPT-mip_repair:
 
 
-MIP repair
+MIP Repair
 ==========
 
 
