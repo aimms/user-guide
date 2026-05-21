@@ -34,6 +34,8 @@ The table shows in the left column the options from COPT that can be set in AIMM
      - :doc:`Simplex - Pricing <Simplex/COPT_Simplex_-_Pricing>`
    * - DualTol
      - :doc:`General - Dual Tolerance <General/COPT_General_-_Dual_tolerance>`
+   * - FAPHeurLevel
+     - :doc:`MIP Heuristics - FAP Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_FAP_heuristic_level>`
    * - FeasTol
      - :doc:`General - Feasibility Tolerance <General/COPT_General_-_Feasibility_tolerance>`
    * - HeurLevel
@@ -42,12 +44,18 @@ The table shows in the left column the options from COPT that can be set in AIMM
      - :doc:`General - IIS Method <General/COPT_General_-_IIS_method>`
    * - IntTol
      - :doc:`MIP - Integrality Tolerance <MIP/COPT_MIP_-_Integrality_tolerance>`
+   * - LinearizeIndicators
+     - :doc:`Presolve - Linearize Indicators <Presolve/COPT_Presolve_-_Linearize_indicators>`
+   * - LogLevel
+     - :doc:`Logging - Log Level <Logging/COPT_Logging_-_Log_level>`
    * - LogToConsole
      - :doc:`Logging - Log to Console <Logging/COPT_Logging_-_Log_to_console>`
    * - LpMethod
      - :doc:`General - LP Method <General/COPT_General_-_LP_method>`
    * - MatrixTol
      - :doc:`General - Matrix Tolerance <General/COPT_General_-_Matrix_tolerance>`
+   * - MipRepair
+     - :doc:`MIP - MIP Repair <MIP/COPT_MIP_-_MIP_repair>`
    * - MipStartMode
      - :doc:`MIP - MIP Start <MIP/COPT_MIP_-_MIP_start>`
    * - MipStartNodeLimit
@@ -58,6 +66,8 @@ The table shows in the left column the options from COPT that can be set in AIMM
      - :doc:`MIP Cuts - Node Cut Rounds <MIP Cuts/COPT_MIP_cuts_-_Node_cut_rounds>`
    * - NodeLimit
      - :doc:`MIP - Node Limit <MIP/COPT_MIP_-_Node_limit>`
+   * - PreRootHeurLevel
+     - :doc:`MIP Heuristics - Pre Root Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_Pre_root_heuristic_level>`
    * - Presolve
      - :doc:`Presolve - Presolve <Presolve/COPT_Presolve_-_Presolve>`
    * - ReqFarkasRay

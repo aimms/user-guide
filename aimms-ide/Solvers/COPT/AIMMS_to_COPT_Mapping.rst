@@ -36,10 +36,14 @@ The table shows in the left column the AIMMS COPT options; the right column disp
      - MatrixTol
    * - :doc:`General - Scale <General/COPT_General_-_Scale>`
      - Scaling
+   * - :doc:`Logging - Log Level <Logging/COPT_Logging_-_Log_level>`
+     - LogLevel
    * - :doc:`Logging - Log to Console <Logging/COPT_Logging_-_Log_to_console>`
      - LogToConsole
    * - :doc:`MIP - Integrality Tolerance <MIP/COPT_MIP_-_Integrality_tolerance>`
      - IntTol
+   * - :doc:`MIP - MIP Repair <MIP/COPT_MIP_-_MIP_repair>`
+     - MipRepair
    * - :doc:`MIP - MIP Start <MIP/COPT_MIP_-_MIP_start>`
      - MipStartMode
    * - :doc:`MIP - MIP Start Node Limit <MIP/COPT_MIP_-_MIP_start_node_limit>`
@@ -60,8 +64,12 @@ The table shows in the left column the AIMMS COPT options; the right column disp
      - TreeCutLevel
    * - :doc:`MIP Heuristics - Diving Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_Diving_heuristic_level>`
      - DivingHeurLevel
+   * - :doc:`MIP Heuristics - FAP Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_FAP_heuristic_level>`
+     - FAPHeurLevel
    * - :doc:`MIP Heuristics - Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_Heuristic_level>`
      - HeurLevel
+   * - :doc:`MIP Heuristics - Pre Root Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_Pre_root_heuristic_level>`
+     - PreRootHeurLevel
    * - :doc:`MIP Heuristics - Rounding Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_Rounding_heuristic_level>`
      - RoundingHeurLevel
    * - :doc:`MIP Heuristics - SubMIP Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_SubMIP_heuristic_level>`
@@ -76,6 +84,8 @@ The table shows in the left column the AIMMS COPT options; the right column disp
      - SimplexThreads
    * - :doc:`Parallel - Thread Limit <Parallel/COPT_Parallel_-_Thread_limit>`
      - Threads
+   * - :doc:`Presolve - Linearize Indicators <Presolve/COPT_Presolve_-_Linearize_indicators>`
+     - LinearizeIndicators
    * - :doc:`Presolve - Presolve <Presolve/COPT_Presolve_-_Presolve>`
      - Presolve
    * - :doc:`Simplex - Objective Perturbation <Simplex/COPT_Simplex_-_Objective_Perturbation>`
