@@ -18,6 +18,8 @@ The table shows in the left column the AIMMS COPT options; the right column disp
      - BarHomogeneous
    * - :doc:`Barrier - Barrier Ordering <Barrier/COPT_Barrier_-_Barrier_ordering>`
      - BarOrder
+   * - :doc:`Barrier - Barrier Start Algorithm <Barrier/COPT_Barrier_-_Barrier_start_algorithm>`
+     - BarStart
    * - :doc:`Barrier - Crossover <Barrier/COPT_Barrier_-_Crossover>`
      - Crossover
    * - :doc:`General - Calculate Farkas Ray <General/COPT_General_-_Calculate_Farkas_ray>`
@@ -34,12 +36,32 @@ The table shows in the left column the AIMMS COPT options; the right column disp
      - LpMethod
    * - :doc:`General - Matrix Tolerance <General/COPT_General_-_Matrix_tolerance>`
      - MatrixTol
+   * - :doc:`General - MPS <General/COPT_General_-_MPS>`
+     -
+   * - :doc:`General - Read Parameter File <General/COPT_General_-_Read_parameter_file>`
+     -
+   * - :doc:`General - Restart <General/COPT_General_-_Restart>`
+     -
+   * - :doc:`General - Restart File Number <General/COPT_General_-_Restart_file_number>`
+     -
    * - :doc:`General - Scale <General/COPT_General_-_Scale>`
      - Scaling
+   * - :doc:`General - Sensitivity Method <General/COPT_General_-_Sensitivity_method>`
+     -
+   * - :doc:`General - Solution File <General/COPT_General_-_Solution_file>`
+     -
+   * - :doc:`General - Solution Time Limit <General/COPT_General_-_Solution_time_limit>`
+     - SolTimeLimit
+   * - :doc:`General - Updates Batch Size <General/COPT_General_-_Updates_batch_size>`
+     -
+   * - :doc:`General - Write Parameter File <General/COPT_General_-_Write_parameter_file>`
+     -
    * - :doc:`Logging - Log Level <Logging/COPT_Logging_-_Log_level>`
      - LogLevel
    * - :doc:`Logging - Log to Console <Logging/COPT_Logging_-_Log_to_console>`
      - LogToConsole
+   * - :doc:`Logging - Output File <Logging/COPT_Logging_-_Output_file>`
+     -
    * - :doc:`MIP - Integrality Tolerance <MIP/COPT_MIP_-_Integrality_tolerance>`
      - IntTol
    * - :doc:`MIP - MIP Repair <MIP/COPT_MIP_-_MIP_repair>`
@@ -50,6 +72,8 @@ The table shows in the left column the AIMMS COPT options; the right column disp
      - MipStartNodeLimit
    * - :doc:`MIP - Node Limit <MIP/COPT_MIP_-_Node_limit>`
      - NodeLimit
+   * - :doc:`MIP - Pool Size <MIP/COPT_MIP_-_Pool_size>`
+     -
    * - :doc:`MIP - Strong Branching <MIP/COPT_MIP_-_Strong_branching>`
      - StrongBranching
    * - :doc:`MIP Cuts - Cut Level <MIP Cuts/COPT_MIP_cuts_-_Cut_level>`
@@ -86,6 +110,8 @@ The table shows in the left column the AIMMS COPT options; the right column disp
      - Threads
    * - :doc:`Presolve - Linearize Indicators <Presolve/COPT_Presolve_-_Linearize_indicators>`
      - LinearizeIndicators
+   * - :doc:`Presolve - Linearize SOS <Presolve/COPT_Presolve_-_Linearize_SOS>`
+     - LinearizeSos
    * - :doc:`Presolve - Presolve <Presolve/COPT_Presolve_-_Presolve>`
      - Presolve
    * - :doc:`Simplex - Objective Perturbation <Simplex/COPT_Simplex_-_Objective_Perturbation>`

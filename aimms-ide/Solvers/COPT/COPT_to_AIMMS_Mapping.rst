@@ -16,6 +16,8 @@ The table shows in the left column the options from COPT that can be set in AIMM
      - :doc:`Barrier - Barrier Homogeneous <Barrier/COPT_Barrier_-_Barrier_homogeneous>`
    * - BarOrder
      - :doc:`Barrier - Barrier Ordering <Barrier/COPT_Barrier_-_Barrier_ordering>`
+   * - BarStart
+     - :doc:`Barrier - Barrier Start Algorithm <Barrier/COPT_Barrier_-_Barrier_start_algorithm>`
    * - BarThreads
      - :doc:`Parallel - Barrier Thread Limit <Parallel/COPT_Parallel_-_Barrier_thread_limit>`
    * - Crossover
@@ -46,6 +48,8 @@ The table shows in the left column the options from COPT that can be set in AIMM
      - :doc:`MIP - Integrality Tolerance <MIP/COPT_MIP_-_Integrality_tolerance>`
    * - LinearizeIndicators
      - :doc:`Presolve - Linearize Indicators <Presolve/COPT_Presolve_-_Linearize_indicators>`
+   * - LinearizeSos
+     - :doc:`Presolve - Linearize SOS <Presolve/COPT_Presolve_-_Linearize_SOS>`
    * - LogLevel
      - :doc:`Logging - Log Level <Logging/COPT_Logging_-_Log_level>`
    * - LogToConsole
@@ -82,6 +86,8 @@ The table shows in the left column the options from COPT that can be set in AIMM
      - :doc:`General - Scale <General/COPT_General_-_Scale>`
    * - SimplexThreads
      - :doc:`Parallel - Simplex Thread Limit <Parallel/COPT_Parallel_-_Simplex_thread_limit>`
+   * - SolTimeLimit
+     - :doc:`General - Solution Time Limit <General/COPT_General_-_Solution_time_limit>`
    * - StrongBranching
      - :doc:`MIP - Strong Branching <MIP/COPT_MIP_-_Strong_branching>`
    * - SubMipHeurLevel
