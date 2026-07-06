@@ -14,12 +14,20 @@ The table below shows in the left column the ODH engine parameters from ODH-CPLE
 
    * - **Name in ODH-CPLEX**
      - **Option name in AIMMS**
+   * - ADDCUTS
+     - :doc:`Advanced - Add Cuts <Advanced/ODH_Advanced_-_Add_Cuts>`
    * - DECOMPDENSITY
      - :doc:`Advanced - Decomposition Density <Advanced/ODH_Advanced_-_Decomposition_Density>`
+   * - DECOMPOSITION
+     - :doc:`General - Decomposition <General/ODH_General_-_Decomposition>`
    * - DETERMINISTIC
      - :doc:`Heuristics - Solution Improvement Heuristic Mode <Heuristics/ODH_Heuristic_-_Sol_Impr_Heur_Mode>`
    * - DIVISOR
      - :doc:`Advanced - Initial Divisor Value Sub Models <Advanced/ODH_Advanced_-_Initial_Divisor_Value_Sub>`
+   * - DJBOUNDTIGHTEN
+     - :doc:`Advanced - Dual Values Bound Tightening <Advanced/ODH_Advanced_-_Dual_Values_Bound_Tightening>`
+   * - DYNAMICSEARCH
+     - :doc:`Advanced - Search Strategy <Advanced/ODH_Advanced_-_Search_Strategy>`
    * - FEASOPT
      - :doc:`Advanced - Optimization Method <Advanced/ODH_Advanced_-_Optimization_Method>`
    * - FEASTOL
@@ -30,12 +38,22 @@ The table below shows in the left column the ODH engine parameters from ODH-CPLE
      - :doc:`Heuristics - First Feasible Heuristic Continue <Heuristics/ODH_Heuristic_-_First_Feasible_Heuristic_Continue>`
    * - FIRSTFEASEFFORT
      - :doc:`Heuristics - First Feasible Heuristic Effort Level <Heuristics/ODH_Heuristic_-_First_Feasible_Heuristic_Effort_Level>`
+   * - FIRSTFEASLPITLIM
+     - :doc:`Advanced - First Feasible Heuristic Iteration Limit <Advanced/ODH_Advanced_-_First_Feasible_Heuristic_Iteration_Limit>`
    * - FIRSTFEASSHIFT
      - :doc:`Heuristics - First Feasible Heuristic Shift <Heuristics/ODH_Heuristic_-_First_Feasible_Heuristic_Shift>`
    * - GLOBALBOUNDS
      - :doc:`Advanced - Global Bounds <Advanced/ODH_Advanced_-_Global_Bounds>`
+   * - INTEGERONLY
+     - :doc:`Advanced - Integer Only <Advanced/ODH_Advanced_-_Integer_Only>`
    * - INTERDIV
      - :doc:`Advanced - Initial Divisor Value <Advanced/ODH_Advanced_-_Initial_Divisor_Value>`
+   * - KEYPARTITION
+     - :doc:`Advanced - Key Partition <Advanced/ODH_Advanced_-_Key_Partition>`
+   * - KEYSMINIMUM
+     - :doc:`Advanced - Keys Minimum <Advanced/ODH_Advanced_-_Keys_Minimum>`
+   * - LOCALSEARCH
+     - :doc:`Heuristics - Local Search <Heuristics/ODH_Heuristic_-_Local_Search>`
    * - MAXBACKTRACK
      - :doc:`Advanced - Backtrack Limit <Advanced/ODH_Advanced_-_Backtrack_Limit>`
    * - MAXINFREPEAT
@@ -76,16 +94,30 @@ The table below shows in the left column the ODH engine parameters from ODH-CPLE
      - :doc:`General - Relax SOS2 <General/ODH_General_-_Relax_SOS2>`
    * - SEED
      - :doc:`General - ODH Seed <General/ODH_General_-_ODH_Seed>`
+   * - SOSFIND
+     - :doc:`Advanced - SOS Find <Advanced/ODH_Advanced_-_SOS_Find>`
+   * - SOSINKEY
+     - :doc:`Advanced - SOS in Key <Advanced/ODH_Advanced_-_SOS_in_Key>`
    * - STRATEGY
      - :doc:`Heuristics - Solution Improvement Heuristic Strategy <Heuristics/ODH_Heuristic_-_Sol_Impr_Heur_Strategy>`
+   * - STRICTDETERMINISTIC
+     - :doc:`Parallel - Strict Deterministic <Parallel/ODH_Parallel_-_Strict_Deterministic>`
+   * - SUBNODELIMIT
+     - :doc:`Advanced - Sub Node Limit <Advanced/ODH_Advanced_-_Sub_Node_Limit>`
    * - SYNCFREQ
      - :doc:`Parallel - Thread Synchronization Frequency <Parallel/ODH_Parallel_-_Thread_Sync_Freq>`
    * - THREADLOG
      - :doc:`Logging - Thread Log <Logging/ODH_Logging_-_Thread_Log>`
    * - THREADS
      - :doc:`Parallel - Thread Limit <Parallel/ODH_Parallel_-_Thread_Limit>`
+   * - THREADZEROSYNC
+     - :doc:`Parallel - Thread Zero Sync <Parallel/ODH_Parallel_-_Thread_Zero_Sync>`
+   * - TIGHTENPREBOUNDS
+     - :doc:`Advanced - Tighten Pre Bounds <Advanced/ODH_Advanced_-_Tighten_Pre_Bounds>`
    * - TIMELIMIT
      - :doc:`Stop Criteria - Time Limit <../../Aimms/Options/Solvers General/Stop Criteria/Stop_Criteria_-_Time_Limit>`
+   * - USEHISTORY
+     - :doc:`General - Use History <General/ODH_General_-_Use_History>`
    * - VARIABLECLEAN
      - :doc:`General - Clean Variables Sub Models <General/ODH_General_-_Clean_variables_sub_models>`
    * - WRITESOLUTION

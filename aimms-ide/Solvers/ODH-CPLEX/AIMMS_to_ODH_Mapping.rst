@@ -14,29 +14,53 @@ The table below shows in the left column the AIMMS options that control the ODH 
 
    * - **Option name in AIMMS** 
      - **Name in ODH-CPLEX** 
-   * - :doc:`Advanced - Backtrack Limit <Advanced/ODH_Advanced_-_Backtrack_Limit>` 
+   * - :doc:`Advanced - Add Cuts <Advanced/ODH_Advanced_-_Add_Cuts>`
+     - ADDCUTS
+   * - :doc:`Advanced - Backtrack Limit <Advanced/ODH_Advanced_-_Backtrack_Limit>`
      - MAXBACKTRACK
-   * - :doc:`Advanced - Decomposition Density <Advanced/ODH_Advanced_-_Decomposition_Density>` 
+   * - :doc:`Advanced - Decomposition Density <Advanced/ODH_Advanced_-_Decomposition_Density>`
      - DECOMPDENSITY
-   * - :doc:`Advanced - Global Bounds <Advanced/ODH_Advanced_-_Global_Bounds>` 
+   * - :doc:`Advanced - Dual Values Bound Tightening <Advanced/ODH_Advanced_-_Dual_Values_Bound_Tightening>`
+     - DJBOUNDTIGHTEN
+   * - :doc:`Advanced - First Feasible Heuristic Iteration Limit <Advanced/ODH_Advanced_-_First_Feasible_Heuristic_Iteration_Limit>`
+     - FIRSTFEASLPITLIM
+   * - :doc:`Advanced - Global Bounds <Advanced/ODH_Advanced_-_Global_Bounds>`
      - GLOBALBOUNDS
    * - :doc:`Advanced - Initial Divisor Value <Advanced/ODH_Advanced_-_Initial_Divisor_Value>` 
      - INTERDIV
-   * - :doc:`Advanced - Initial Divisor Value Sub Models <Advanced/ODH_Advanced_-_Initial_Divisor_Value_Sub>` 
+   * - :doc:`Advanced - Initial Divisor Value Sub Models <Advanced/ODH_Advanced_-_Initial_Divisor_Value_Sub>`
      - DIVISOR
-   * - :doc:`Advanced - Maximum Divisor Repeats <Advanced/ODH_Advanced_-_Maximum_Divisor_Repeats>` 
+   * - :doc:`Advanced - Integer Only <Advanced/ODH_Advanced_-_Integer_Only>`
+     - INTEGERONLY
+   * - :doc:`Advanced - Key Partition <Advanced/ODH_Advanced_-_Key_Partition>`
+     - KEYPARTITION
+   * - :doc:`Advanced - Keys Minimum <Advanced/ODH_Advanced_-_Keys_Minimum>`
+     - KEYSMINIMUM
+   * - :doc:`Advanced - Maximum Divisor Repeats <Advanced/ODH_Advanced_-_Maximum_Divisor_Repeats>`
      - MAXREPEAT
    * - :doc:`Advanced - Maximum Divisor Repeats Infeasible <Advanced/ODH_Advanced_-_Maximum_Divisor_Repeats_Inf>` 
      - MAXINFREPEAT
    * - :doc:`Advanced - Maximum Divisor Value <Advanced/ODH_Advanced_-_Maximum_Divisor_Value>` 
      - MAXINTERDIV
-   * - :doc:`Advanced - Optimization Method <Advanced/ODH_Advanced_-_Optimization_Method>` 
+   * - :doc:`Advanced - Optimization Method <Advanced/ODH_Advanced_-_Optimization_Method>`
      - FEASOPT
-   * - :doc:`Advanced - Write Decomposition File <Advanced/ODH_Advanced_-_Write_Decomposition_File>` 
-     - 
-   * - :doc:`General - Clean Variables Sub Models <General/ODH_General_-_Clean_variables_sub_models>` 
+   * - :doc:`Advanced - Search Strategy <Advanced/ODH_Advanced_-_Search_Strategy>`
+     - DYNAMICSEARCH
+   * - :doc:`Advanced - SOS Find <Advanced/ODH_Advanced_-_SOS_Find>`
+     - SOSFIND
+   * - :doc:`Advanced - SOS in Key <Advanced/ODH_Advanced_-_SOS_in_Key>`
+     - SOSINKEY
+   * - :doc:`Advanced - Sub Node Limit <Advanced/ODH_Advanced_-_Sub_Node_Limit>`
+     - SUBNODELIMIT
+   * - :doc:`Advanced - Tighten Pre Bounds <Advanced/ODH_Advanced_-_Tighten_Pre_Bounds>`
+     - TIGHTENPREBOUNDS
+   * - :doc:`Advanced - Write Decomposition File <Advanced/ODH_Advanced_-_Write_Decomposition_File>`
+     -
+   * - :doc:`General - Clean Variables Sub Models <General/ODH_General_-_Clean_variables_sub_models>`
      - VARIABLECLEAN
-   * - :doc:`General - Objective Target <General/ODH_General_-_Objective_Target>` 
+   * - :doc:`General - Decomposition <General/ODH_General_-_Decomposition>`
+     - DECOMPOSITION
+   * - :doc:`General - Objective Target <General/ODH_General_-_Objective_Target>`
      - OBJTARGET
    * - :doc:`General - ODH Feasibility Tolerance <General/ODH_General_-_ODH_Feasibility_Tolerance>` 
      - FEASTOL
@@ -54,9 +78,11 @@ The table below shows in the left column the AIMMS options that control the ODH 
      - RELAXSOS2
    * - :doc:`General - Remove Infeasibilities Method <General/ODH_General_-_Remove_Inf_Method>` 
      - PHASE12
-   * - :doc:`General - Search Mode <General/ODH_General_-_Search_Mode>` 
-     - 
-   * - :doc:`General - Write Solution File <General/ODH_General_-_Write_Solution_File>` 
+   * - :doc:`General - Search Mode <General/ODH_General_-_Search_Mode>`
+     -
+   * - :doc:`General - Use History <General/ODH_General_-_Use_History>`
+     - USEHISTORY
+   * - :doc:`General - Write Solution File <General/ODH_General_-_Write_Solution_File>`
      - WRITESOLUTION
    * - :doc:`Heuristics - First Feasible Heuristic <Heuristics/ODH_Heuristic_-_First_Feasible_Heuristic>` 
      - FIRSTFEAS
@@ -64,9 +90,11 @@ The table below shows in the left column the AIMMS options that control the ODH 
      - FIRSTFEASCONTINUE
    * - :doc:`Heuristics - First Feasible Heuristic Effort Level <Heuristics/ODH_Heuristic_-_First_Feasible_Heuristic_Effort_Level>` 
      - FIRSTFEASEFFORT
-   * - :doc:`Heuristics - First Feasible Heuristic Shift <Heuristics/ODH_Heuristic_-_First_Feasible_Heuristic_Shift>` 
+   * - :doc:`Heuristics - First Feasible Heuristic Shift <Heuristics/ODH_Heuristic_-_First_Feasible_Heuristic_Shift>`
      - FIRSTFEASSHIFT
-   * - :doc:`Heuristics - Recurse <Heuristics/ODH_Heuristic_-_Recurse>` 
+   * - :doc:`Heuristics - Local Search <Heuristics/ODH_Heuristic_-_Local_Search>`
+     - LOCALSEARCH
+   * - :doc:`Heuristics - Recurse <Heuristics/ODH_Heuristic_-_Recurse>`
      - RECURSE
    * - :doc:`Heuristics - Recurse Decomposition Method <Heuristics/ODH_Heuristic_-_Recurse_Decomposition_Method>` 
      - RECURSEDECOMP
@@ -88,11 +116,15 @@ The table below shows in the left column the AIMMS options that control the ODH 
      - 
    * - :doc:`Logging - Thread Log <Logging/ODH_Logging_-_Thread_Log>` 
      - THREADLOG
-   * - :doc:`Parallel - Thread Limit <Parallel/ODH_Parallel_-_Thread_Limit>` 
+   * - :doc:`Parallel - Strict Deterministic <Parallel/ODH_Parallel_-_Strict_Deterministic>`
+     - STRICTDETERMINISTIC
+   * - :doc:`Parallel - Thread Limit <Parallel/ODH_Parallel_-_Thread_Limit>`
      - THREADS
-   * - :doc:`Parallel - Thread Synchronization Frequency <Parallel/ODH_Parallel_-_Thread_Sync_Freq>` 
+   * - :doc:`Parallel - Thread Synchronization Frequency <Parallel/ODH_Parallel_-_Thread_Sync_Freq>`
      - SYNCFREQ
-   * - :doc:`Parallel - Processor Lock <Parallel/ODH_Parallel_-_Processor_Lock>` 
+   * - :doc:`Parallel - Thread Zero Sync <Parallel/ODH_Parallel_-_Thread_Zero_Sync>`
+     - THREADZEROSYNC
+   * - :doc:`Parallel - Processor Lock <Parallel/ODH_Parallel_-_Processor_Lock>`
      - PROCESSORLOCK
 
 

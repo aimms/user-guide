@@ -8,6 +8,7 @@ Heuristics
     ODH_Heuristic_-_First_Feasible_Heuristic_Continue
     ODH_Heuristic_-_First_Feasible_Heuristic_Effort_Level
     ODH_Heuristic_-_First_Feasible_Heuristic_Shift
+    ODH_Heuristic_-_Local_Search
     ODH_Heuristic_-_Recurse
     ODH_Heuristic_-_Recurse_Decomposition_Method
     ODH_Heuristic_-_Recurse_Iteration_Limit

@@ -5,6 +5,7 @@ General
     :maxdepth: 1
 
     ODH_General_-_Clean_variables_sub_models
+    ODH_General_-_Decomposition
     ODH_General_-_Objective_Target
     ODH_General_-_ODH_Feasibility_Tolerance
     ODH_General_-_ODH_Presolve
@@ -15,4 +16,5 @@ General
     ODH_General_-_Relax_SOS2
     ODH_General_-_Remove_Inf_Method
     ODH_General_-_Search_Mode
+    ODH_General_-_Use_History
     ODH_General_-_Write_Solution_File
