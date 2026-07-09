@@ -56,24 +56,7 @@ in which case it will be set to 'Off'.
 
 
 
-**Remark** 
-
-
-Stochastic variables are always generated, expect for rule 1, even if the .nonvar suffix is set to a value > 0 and
-the option **Eliminate Nonvar Columns** is switched on. That is, using
-
-
-	Y.Stochastic(sc).nonvar := 1;
-
-or
-
-	Y.Stochastic(sc).nonvar := -1;
-
-
-makes no difference. In both cases the lower and upper bound of Y.Stochastic(sc) will be set equal to the level value.
-
-
-*Learn more about** 
+**Learn more about** 
 
 *	:ref:`option-AIMMS-disable_new_mathprog_generator`
 *	:ref:`option-AIMMS-equal_bounds_imply_nonvar`
