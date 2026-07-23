@@ -60,7 +60,7 @@ The Pardiso DLL or HSL DLL should be placed in the Solvers directory of the AIMM
 
 
 Instructions for building the HSL DLL can be found in the section :doc:`../HSL_libraries`. 
-Information about the recommended HSL solver can be found in the `HSL for IPOPT <https://licences.stfc.ac.uk/product/coin-hsl>`_ link.
+Information about the recommended HSL solver can be found in the `HSL for IPOPT <https://www.hsl.rl.ac.uk/catalogue/>`_ link.
 
 
 
@@ -77,5 +77,5 @@ See the prerequisites for IPOPT for more information on these third party compon
 *	:doc:`../HSL_libraries` 
 *	`IPOPT: Prerequisites <https://coin-or.github.io/Ipopt/INSTALL.html>`_ (Internet link)
 *	`MUMPS <https://mumps-solver.org>`_ (Internet link)
-*	`HSL for IPOPT <https://licences.stfc.ac.uk/product/coin-hsl>`_ (Internet link)
+*	`HSL for IPOPT <https://www.hsl.rl.ac.uk/catalogue/>`_ (Internet link)
 
