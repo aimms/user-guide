@@ -160,6 +160,11 @@ CompLis will ignore solution listings that are inside the listing files. CompLis
 listings created by the :ref:`Math Program Inspector <aimmshelp26-Math_Program_Inspector>`.
 
 
+**Download CompLis**
+
+:download:`CompLis.zip <CompLis.zip>`
+
+
 **Learn more about** 
 
 *	:ref:`CompLis_Singlefilemode`  
