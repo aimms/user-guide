@@ -18,7 +18,7 @@ See the prerequisites for IPOPT for more information on these third party compon
 
 
 
-Information about the recommended HSL solver can be found in the `HSL for IPOPT <https://licences.stfc.ac.uk/product/coin-hsl>`_ link.
+Information about the recommended HSL solver can be found in the `HSL for IPOPT <https://www.hsl.rl.ac.uk/catalogue/>`_ link.
 
 
 
