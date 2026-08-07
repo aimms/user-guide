@@ -8,7 +8,7 @@ ODH to AIMMS Mapping
 
 **ODH engine parameters** 
 
-The table below shows in the left column the ODH engine parameters from ODH-CPLEX that can be set in AIMMS; the right column displays for each ODH-CPLEX 5.3 parameter the associated AIMMS option.
+The table below shows in the left column the ODH engine parameters from ODH-CPLEX that can be set in AIMMS; the right column displays for each ODH-CPLEX parameter the associated AIMMS option.
 
 .. list-table::
 
@@ -127,7 +127,7 @@ The table below shows in the left column the ODH engine parameters from ODH-CPLE
 **Main CPLEX solve parameters** 
 
 The table below shows CPLEX options for the main CPLEX solve in ODH-CPLEX (if the **Search Mode**  is set to 'Global Solution') or for getting an initial feasible solution (if the **Search Mode**  is set to 'Local Solution'). 
-The table below shows in the left column the CPLEX parameters from ODH-CPLEX that can be set in AIMMS; the right column displays for each ODH-CPLEX 5.3 parameter the associated AIMMS option.
+The table below shows in the left column the CPLEX parameters from ODH-CPLEX that can be set in AIMMS; the right column displays for each ODH-CPLEX parameter the associated AIMMS option.
 
 .. list-table::
 

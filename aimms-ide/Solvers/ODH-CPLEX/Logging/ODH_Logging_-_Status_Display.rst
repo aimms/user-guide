@@ -12,7 +12,7 @@ Status Display
 
 
 
-This option can be used to activate the generation of logging messages by ODH-CPLEX, if also one of the general solvers options **Solver Listing Messages**  or **Solver Window Messages**  is set to 'All'. Possible values are:
+This option can be used to activate the generation of logging messages by ODH-CPLEX, if also one of the general solvers options **Solver Listing Messages** or **Solver Window Messages** is set to 'All'. Possible values are:
 
 
 
@@ -22,13 +22,13 @@ This option can be used to activate the generation of logging messages by ODH-CP
 
 
 
-The logging information is written to the status file 'ODH-CPLEX 5.3.log' if the general solvers option **Solver Listing Messages**  is set to 'All'. The status file is placed in the log directory of the current project.
+The logging information is written to the status file 'ODH-CPLEX 8.2.log' if the general solvers option **Solver Listing Messages** is set to 'All'. The status file is placed in the log directory of the current project.
 
 
 
 
 
-The logging information is written to the AIMMS message window if the general solvers option **Solver Window Messages**  is set to 'All'.
+The logging information is written to the AIMMS message window if the general solvers option **Solver Window Messages** is set to 'All'.
 
 
 

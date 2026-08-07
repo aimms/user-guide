@@ -89,7 +89,7 @@ The sections :doc:`ODH_to_AIMMS_Mapping` and :doc:`AIMMS_to_ODH_Mapping` contain
 
 **Features** 
 
-ODH-CPLEX 5.3 uses CPLEX version 20.1 underneath. ODH-CPLEX supports many of the CPLEX 20.1 features, including:
+ODH-CPLEX 8.2 uses CPLEX version 22.1 underneath. ODH-CPLEX supports many of the CPLEX 22.1 features, including:
 
 
 
@@ -105,7 +105,7 @@ ODH-CPLEX 5.3 uses CPLEX version 20.1 underneath. ODH-CPLEX supports many of the
 
 
 
-ODH-CPLEX does support lazy constraints that are added to a pool of lazy constraints upfront but not the lazy constraint callback. We refer to the CPLEX 20.1 Help for more information regarding the above features.
+ODH-CPLEX does support lazy constraints that are added to a pool of lazy constraints upfront but not the lazy constraint callback. We refer to the CPLEX 22.1 Help for more information regarding the above features.
 
 
 

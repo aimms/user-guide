@@ -23,7 +23,7 @@ This option decides how to scale the problem matrix when CPLEX solves a subMIP d
 
 
 
-SubMIPS are described in the section 'SubMIP' of the CPLEX 20.1 help.
+SubMIPS are described in the section 'SubMIP' of the CPLEX 22.1 help.
 
 
 

@@ -27,8 +27,8 @@ At the default value of 0, CPLEX decides the frequency to log nodes.
 **Note** 
 
 *	Logging information is only reported if the option **Status Display**  is switched on.
-*	The logging information is written to the status file 'ODH-CPLEX 5.3.log' if the general solvers option **Solver Listing Messages**  is set to 'All'. The status file is placed in the log directory of the current project.
-*	The logging information is written to the AIMMS message window if the general solvers option **Solver Window Messages**  is set to 'All'.
+*	The logging information is written to the status file 'ODH-CPLEX 8.2.log' if the general solvers option **Solver Listing Messages** is set to 'All'. The status file is placed in the log directory of the current project.
+*	The logging information is written to the AIMMS message window if the general solvers option **Solver Window Messages** is set to 'All'.
 
 
 

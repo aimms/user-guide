@@ -26,7 +26,7 @@ This option sets which continuous optimizer will be used to solve the initial re
 
 
 
-SubMIPS are described in the section 'SubMIP' of the CPLEX 20.1 help.
+SubMIPS are described in the section 'SubMIP' of the CPLEX 22.1 help.
 
 
 

@@ -12,7 +12,7 @@ SubMIP Node Limit
 
 
 
-The option sets the number of nodes explored when CPLEX is solving a subMIP of a MIP. SubMIPS are described in the section 'SubMIP' of the CPLEX 20.1 help.
+The option sets the number of nodes explored when CPLEX is solving a subMIP of a MIP. SubMIPS are described in the section 'SubMIP' of the CPLEX 22.1 help.
 
 
 
