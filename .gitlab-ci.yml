@@ -6,6 +6,14 @@ stages:
 variables:
   GIT_DEPTH: "0"
 
+default:
+  before_script:
+    # The runner only sets safe.directory in the get_sources helper container;
+    # the sphinx build runs in a different image/HOME, so git still rejects the
+    # checkout as dubious ownership. Setting it here (build container) fixes the
+    # "last updated by Git" step, which is fatal under -W.
+    - git config --global --add safe.directory "$CI_PROJECT_DIR"
+
 .run_on_dockerhost: &run_on_dockerhost
   tags:
     - docker20

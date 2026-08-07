@@ -18,7 +18,7 @@ See the prerequisites for IPOPT for more information on these third party compon
 
 
 
-Information about the recommended HSL solver can be found in the `HSL for IPOPT <https://licences.stfc.ac.uk/product/coin-hsl>`_ link.
+Information about the recommended HSL solver can be found in the `HSL for IPOPT <https://www.hsl.rl.ac.uk/catalogue/>`_ link.
 
 
 
@@ -55,4 +55,4 @@ After building libhsl.dll and copying it, you can select HSL as the linear solve
 **Learn more about** 
 
 *	:doc:`Linear solver/IPOPT_Linear_solver_-_Linear_solver_selection` 
-*	`HSL for IPOPT <https://licences.stfc.ac.uk/product/coin-hsl>`_ (Internet link)
+*	`HSL for IPOPT <https://www.hsl.rl.ac.uk/catalogue/>`_ (Internet link)
