@@ -20,7 +20,8 @@ Optimization
     Optimization_-_Warning_Referenced_Activities
     Optimization_-_Warning_Row_Range_Left_Hand_Side
     Optimization_-_warning_stage_0_stochastic_variables
-    Optimization_-_Warning_Stochas
+    Optimization_-_Warning_stochastic_programming_parameter_without_variable
+    Optimization_-_Warning_stochastic_programming_scenario_consistency
     Optimization_-_Warning_trivial_row
     Optimization_-_Warning_trivial_row_minimal_percentage
     Optimization_-_Warning_Unavailable_Solver
