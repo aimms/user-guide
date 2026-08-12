@@ -32,4 +32,4 @@ Possible values of this option are:
 
 **Learn more about** 
 
-*	:doc:`CPLEX_MIP_-_Node_File`  
+*	:doc:`../MIP/CPLEX_MIP_-_Node_File`  
