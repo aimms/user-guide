@@ -25,3 +25,11 @@ Possible values of this option are:
 
 
 
+**Note**
+
+*	For MIP models, one of these tactics is writing the branch-and-bound node file to disk. This can happen even if the option **Node file** is set to 'In memory and compressed' (its default).
+
+
+**Learn more about** 
+
+*	:doc:`CPLEX_MIP_-_Node_File`  

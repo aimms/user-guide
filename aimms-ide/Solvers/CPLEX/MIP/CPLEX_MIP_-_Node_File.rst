@@ -12,7 +12,7 @@ Node File
 
 
 
-This option is used when the **Working Memory Limit**  has been exceeded by the size of the tree. Possible values are:
+This option is used when the **Working Memory Limit** has been exceeded by the size of the branch-and-bound tree. Possible values are:
 
 
 
