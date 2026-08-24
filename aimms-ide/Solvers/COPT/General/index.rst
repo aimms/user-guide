@@ -11,6 +11,7 @@ General
     COPT_General_-_IIS_method
     COPT_General_-_LP_method
     COPT_General_-_Matrix_tolerance
+    COPT_General_-_Memory_limit
     COPT_General_-_MPS
     COPT_General_-_Read_parameter_file
     COPT_General_-_Restart

@@ -36,6 +36,8 @@ The table shows in the left column the AIMMS COPT options; the right column disp
      - LpMethod
    * - :doc:`General - Matrix Tolerance <General/COPT_General_-_Matrix_tolerance>`
      - MatrixTol
+   * - :doc:`General - Memory Limit <General/COPT_General_-_Memory_limit>`
+     - MemLimit
    * - :doc:`General - MPS <General/COPT_General_-_MPS>`
      -
    * - :doc:`General - Read Parameter File <General/COPT_General_-_Read_parameter_file>`

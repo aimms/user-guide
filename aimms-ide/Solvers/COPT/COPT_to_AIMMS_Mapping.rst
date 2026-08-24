@@ -58,6 +58,8 @@ The table shows in the left column the options from COPT that can be set in AIMM
      - :doc:`General - LP Method <General/COPT_General_-_LP_method>`
    * - MatrixTol
      - :doc:`General - Matrix Tolerance <General/COPT_General_-_Matrix_tolerance>`
+   * - MemLimit
+     - :doc:`General - Memory Limit <General/COPT_General_-_Memory_limit>`
    * - MipRepair
      - :doc:`MIP - MIP Repair <MIP/COPT_MIP_-_MIP_repair>`
    * - MipStartMode
