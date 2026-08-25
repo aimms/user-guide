@@ -1,7 +1,7 @@
 stages:
   - test
   - build
-  - pdf
+  - deploy
   
 variables:
   GIT_DEPTH: "0"
@@ -19,16 +19,47 @@ default:
     - docker20
   image: "${DOCKER_ACCESS_URL}/other/dockerdev/documentation:latest"
 
+# Two linkcheck runs, the same pair every AIMMS docs repo has: the gating one
+# checks only links internal to this project, the informational one also checks
+# external links and is allowed to fail. Splitting them is what keeps a rotted
+# or bot-blocked third-party URL from turning the pipeline red.
 linkcheck:
   <<: *run_on_dockerhost
   stage: test
+  variables:
+    SPHINX_IGNORE_EXTERNAL_LINKS: "true"
   script:
-    - python3 -msphinx -W -b linkcheck . _build/linkcheck --keep-going
+    - sphinx-build -W --keep-going -b linkcheck . _build/linkcheck
+
+linkcheck_external:
+  <<: *run_on_dockerhost
+  stage: test
+  script:
+    - sphinx-build -W --keep-going -b linkcheck . _build/linkcheck
+  allow_failure: true
+
+build:
+  <<: *run_on_dockerhost
+  stage: test
+  script:
+    - sphinx-build -W --keep-going -b html . _build/html
+
+# Informational for now, unlike the gating spellcheck in documentation and
+# how-to. A run over this repo flags words in 1281 files - the largest backlog of
+# the set. Much of it is vocabulary the wordlist simply lacks (tooltip, profiler,
+# breakpoint), but there are real typos in there too ("whem" for "when",
+# "misformulations"). Feed the vocabulary into spelling_wordlist.txt and fix the
+# typos, then drop allow_failure so this gates like the other repos.
+spellcheck:
+  <<: *run_on_dockerhost
+  stage: test
+  script:
+    - sphinx-build -W --keep-going -b spelling . _build/spelling
   allow_failure: true
 
 # Every branch gets its own parallel Pages deployment at:
 #   <CI_PAGES_URL>/<branch-slug>/
-build_and_staging:
+build_staging:
   <<: *run_on_dockerhost
   stage: build
   rules:
@@ -48,7 +79,7 @@ build_and_staging:
     name: docs-staging/$CI_COMMIT_REF_SLUG
     url: $CI_PAGES_URL
   script:
-    - python3 -msphinx -b html . _build/html
+    - sphinx-build -b html . _build/html
     # Pages publishes the "public" directory at the repository root
     - rm -rf public
     - mv _build/html public
@@ -57,15 +88,15 @@ build_and_staging:
     paths:
       - public
 
-build_and_install:
+deploy:
   <<: *run_on_dockerhost
-  stage: build
+  stage: deploy
   rules:
     - if: $CI_COMMIT_BRANCH == "master"
       when: on_success
     - when: never
   script:
-    - python3 -msphinx -W -b html . _build/html
+    - sphinx-build -W --keep-going -b html . _build/html
     - python3 -msphinx.ext.intersphinx _build/html/objects.inv > _build/html/help_index_user_guide.txt
     - cp -r _build/html user-guide
     - az storage copy -s 'user-guide' --recursive --destination-container '$web' -- --overwrite=true --as-subdir=true
@@ -74,14 +105,14 @@ build_and_install:
 
 compile_PDF:
   <<: *run_on_dockerhost
-  stage: pdf
+  stage: deploy
   rules:
     - if: $CI_COMMIT_BRANCH == "master"
       when: on_success
     - when: never
   script:
-    - python3 -msphinx -M latex . _build
-    - python3 -msphinx -M latexpdf . _build
+    - sphinx-build -M latex . _build
+    - sphinx-build -M latexpdf . _build
     - mkdir -p user-guide && cp _build/latex/AIMMS_user.pdf user-guide/AIMMS_user.pdf
     - az storage copy -s 'user-guide' --recursive --destination-container '$web' -- --overwrite=true --as-subdir=true
     - bash load_ssh_key_for_deploy.sh
