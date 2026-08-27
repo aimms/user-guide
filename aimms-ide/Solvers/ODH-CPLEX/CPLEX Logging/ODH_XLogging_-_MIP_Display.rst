@@ -8,7 +8,7 @@ MIP Display
 
 :Type:	Selection	
 :Range:	The settings listed below	
-:Default:	None	
+:Default:	Nth node + info on node cuts	
 
 
 
@@ -49,6 +49,7 @@ The logging information is written to the AIMMS message window if the general so
 *	Logging information is only reported if the option **Status Display**  is switched on.
 *	The logging information is written to the status file 'ODH-CPLEX 8.2.log' if the general solvers option **Solver Listing Messages** is set to 'All'. The status file is placed in the log directory of the current project.
 *	The logging information is written to the AIMMS message window if the general solvers option **Solver Window Messages** is set to 'All'.
+*	The default of this option was changed from 'None' to 'Nth node + info on node cuts' in AIMMS 26.4.
 
 
 

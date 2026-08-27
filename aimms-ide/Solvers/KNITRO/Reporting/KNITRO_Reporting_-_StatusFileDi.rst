@@ -8,7 +8,7 @@ Status File Display
 
 :Type:	Selection	
 :Range:	The settings listed below	
-:Default:	None	
+:Default:	Every 10 major iterations	
 
 
 
@@ -25,4 +25,7 @@ If this option is switched on, a file with the name 'knitro.log' is created (in 
     *	All plus complete solution
 
 
+**Note**
+
+*	The default of this option was changed from 'None' to 'Every 10 major iterations' in AIMMS 26.4.
 

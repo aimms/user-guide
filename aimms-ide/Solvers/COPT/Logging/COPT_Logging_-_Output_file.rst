@@ -8,7 +8,7 @@ Output File
 
 :Type:	Selection	
 :Range:	The settings listed below	
-:Default:	No	
+:Default:	Yes	
 
 
 
@@ -35,6 +35,11 @@ There is no difference between settings 'All' and 'Remark' for option **Solver L
 
 
 
+
+
+**Note**
+
+*	The default of this option was changed from 'No' to 'Yes' in AIMMS 26.4.
 
 
 **Learn more about** 

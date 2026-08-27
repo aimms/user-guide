@@ -8,11 +8,11 @@ Barrier Display
 
 :Type:	Selection	
 :Range:	The settings listed below	
-:Default:	None	
+:Default:	Normal	
 
 
 
-The setting of this option determines the level of barrier progress information to be displayed. At the default level, no progress information is displayed. At the level "Normal", "normal" setup and iteration information is displayed (see the section "Barrier Input & Output" in Chapter 2 of the CPLEX documentation for a complete interpretation of normal display information). At a setting of "Diagnostics", additional diagnostic information is displayed which may be useful when seeking technical support. Possible values are:
+The setting of this option determines the level of barrier progress information to be displayed. At the level "None", no progress information is displayed. At the level "Normal", "normal" setup and iteration information is displayed (see the section "Barrier Input & Output" in Chapter 2 of the CPLEX documentation for a complete interpretation of normal display information). At a setting of "Diagnostics", additional diagnostic information is displayed which may be useful when seeking technical support. Possible values are:
 
 
 
@@ -36,6 +36,11 @@ There is no difference between settings 'All' and 'Remark' for option **Solver L
 
 
 
+
+
+**Note**
+
+*	The default of this option was changed from 'None' to 'Normal' in AIMMS 26.4.
 
 
 **Learn more about** 

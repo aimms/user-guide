@@ -7,7 +7,7 @@ Status File Display
 
 :Type:	Selection	
 :Range:	The settings listed below	
-:Default:	None	
+:Default:	Summary	
 
 
 
@@ -21,6 +21,11 @@ This option determines the amount of information that is printed to the status f
     *	Detailed iteration log
 
 
+
+
+**Note**
+
+*	The default of this option was changed from 'None' to 'Summary' in AIMMS 26.4.
 
 
 **Learn more about** 

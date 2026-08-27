@@ -8,7 +8,7 @@ Output File
 
 :Type:	Selection	
 :Range:	The settings listed below	
-:Default:	No	
+:Default:	Yes	
 
 
 
@@ -40,6 +40,7 @@ There is no difference between settings 'All' and 'Remark' for option **Solver L
 **Note** 
 
 *	Set the option **Display Solution Quality**  to let Gurobi print solution quality statistics in the Gurobi output file.
+*	The default of this option was changed from 'No' to 'Yes' in AIMMS 26.4.
 
 
 

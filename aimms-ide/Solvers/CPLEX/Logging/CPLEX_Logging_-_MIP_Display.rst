@@ -8,7 +8,7 @@ MIP Display
 
 :Type:	Selection	
 :Range:	The settings listed below	
-:Default:	None	
+:Default:	Nth node + info on node cuts	
 
 
 
@@ -49,6 +49,11 @@ variables is only printed if the option **MIP Search Strategy** is set to 'Apply
 Please note that several LP subproblems might be solved at the root node but the setting 'Nth node + LP display for root node' only
 shows the LP information for the first subproblem (which is used to solve the LP root relaxation). Use setting 'Nth node + LP display for all nodes'
 to display the LP information for the other subproblems solved at the root node.
+
+
+**Note**
+
+*	The default of this option was changed from 'None' to 'Nth node + info on node cuts' in AIMMS 26.4.
 
 
 **Learn more about** 
