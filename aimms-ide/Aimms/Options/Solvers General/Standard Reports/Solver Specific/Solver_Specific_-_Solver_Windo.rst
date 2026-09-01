@@ -24,8 +24,8 @@ This option determines if and which messages of the solver are included in the :
     *	Automatic
 
 
-If this option equals *Automatic* then AIMMS will use the value *Error* if the project runs in developer mode,
-and the value *Remark* if the project runs in end-user mode (which is the case if the project runs on the AIMMS
+If this option equals 'Automatic' then AIMMS will use the value 'Error' if the project runs in developer mode,
+and the value 'Remark' if the project runs in end-user mode (which is the case if the project runs on the AIMMS
 Cloud or AIMMS PRO On-Premise).
 
 
