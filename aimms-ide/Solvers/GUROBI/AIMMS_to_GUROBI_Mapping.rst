@@ -40,7 +40,7 @@ The table shows in the left column the AIMMS Gurobi options while the right colu
      - 
    * - :doc:`General - Feasibility Tolerance <General/GUROBI_General_-_Feasibility>`
      - FEASIBILITYTOL
-   * - :doc:`General - IIS Method <General/GUROBI_General_-_IIS_Method>`
+   * - :doc:`General - FeasRelax Big M <General/GUROBI_General_-_FeasRelax_big-M>`
      - FEASRELAXBIGM
    * - :doc:`General - IIS Method <General/GUROBI_General_-_IIS_Method>`
      - IISMETHOD
