@@ -39,6 +39,16 @@ The amount of reductions that the AIMMS Presolver can do is influenced by the op
 
 
 
+The AIMMS Presolver is not supported for:
+
+    *	GMP's generated using :any:`GMP::Instance::CreateDual`,
+    *	GMP's generated using :any:`GMP::Instance::GenerateRobustCounterpart`, and
+    *	GMP's generated using :any:`GMP::Instance::GenerateStochasticProgram`.
+
+
+
+
+
 **Note** 
 
 *	The option **Nonlinear Presolve**  controls the AIMMS Presolver for nonlinear models.
