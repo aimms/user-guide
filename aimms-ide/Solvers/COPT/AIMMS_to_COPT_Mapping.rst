@@ -40,6 +40,8 @@ The table shows in the left column the AIMMS COPT options; the right column disp
      - MemLimit
    * - :doc:`General - MPS <General/COPT_General_-_MPS>`
      -
+   * - :doc:`General - Nonconvex Strategy <General/COPT_General_-_Nonconvex_strategy>`
+     - NonConvex
    * - :doc:`General - Read Parameter File <General/COPT_General_-_Read_parameter_file>`
      -
    * - :doc:`General - Restart <General/COPT_General_-_Restart>`

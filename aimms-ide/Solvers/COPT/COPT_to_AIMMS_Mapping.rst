@@ -72,6 +72,8 @@ The table shows in the left column the options from COPT that can be set in AIMM
      - :doc:`MIP Cuts - Node Cut Rounds <MIP Cuts/COPT_MIP_cuts_-_Node_cut_rounds>`
    * - NodeLimit
      - :doc:`MIP - Node Limit <MIP/COPT_MIP_-_Node_limit>`
+   * - NonConvex
+     - :doc:`General - Nonconvex Strategy <General/COPT_General_-_Nonconvex_strategy>`
    * - PreRootHeurLevel
      - :doc:`MIP Heuristics - Pre Root Heuristic Level <MIP Heuristics/COPT_MIP_heuristics_-_Pre_root_heuristic_level>`
    * - Presolve
