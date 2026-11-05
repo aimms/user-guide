@@ -35,7 +35,7 @@ own line. Any line that begins with the hash sign (#) is a comment line and is i
    CPX_PARAM_STARTALG   2
 
 
-The first line is mandatory. The name for the parameters used should be the CPLEX C API names as can be found in the
+The first line is optional. The name for the parameters used should be the CPLEX C API names as can be found in the
 :doc:`../CPLEX_to_AIMMS_Mapping` from AIMMS option names to CPLEX parameter names.
 
 
@@ -66,12 +66,18 @@ Thus, for example, if the option **Time Limit**  has been set to 100 for this mo
 10 for a particular multi-objective pass, then the multi-objective optimization will spend at most 10 seconds on that particular pass (and
 at most 100 seconds in total). The option **Deterministic Time Limit**  behaves in a similar way.
 
+A pass with a multi-objective parameter file starts from the option settings of the AIMMS project. The settings in the
+multi-objective parameter file are then applied on top, so for that pass the parameter file overrules the AIMMS project, with both
+setting 'Yes' and setting 'Overrule'. Options that are not present in the parameter file keep their value
+from the AIMMS project. The parameter file therefore only needs to contain the settings that should be different for that pass.
+
 
 **Note** 
 
 *	The parameter file uses CPLEX names instead of AIMMS names for the options. The :doc:`../CPLEX_to_AIMMS_Mapping` can be used to find the CPLEX parameter name corresponding to an option in AIMMS.
 *	The option **Parallel Mode** cannot be changed during the solution process of a multi-objective optimization problem; it will be ignored when present in a multi-objective parameter file.
-*	With setting 'Overrule' the parameter files specifying different option settings for multi-objective optimization will be ignored.
+*	The multi-objective parameter files are read with setting 'Yes' and with setting 'Overrule'; with setting 'No' they are ignored.
+*	If the parameter file is written by the AIMMS model, then use a single-byte encoding for the File, for example ``Encoding: 'WINDOWS-1252'``. CPLEX does not accept a parameter file in UTF-8 with a byte order mark; it reports error 1028 "Bad parameter name".
 
 
 **Learn more about** 

@@ -95,7 +95,9 @@ by specifying a negative weight for an objective, one can reverse the optimizati
 
 During the solution process, you may prefer that optimization problems with different priorities are solved with different option settings.
 CPLEX makes this possible by using parameter files, which can be activated with the option **Read Parameter File**. This way you can specify
-different settings for the MIP relative optimality tolerance or the time limit for each optimization pass.
+different settings for the MIP relative optimality tolerance or the time limit for each optimization pass. A pass with a parameter
+file uses the option settings of the AIMMS project plus the settings in its parameter file, so the parameter file only needs to contain
+the settings that should be different for that pass.
 
 
 **Note** 
